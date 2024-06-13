@@ -1,7 +1,7 @@
 import { Client, LocalAuth, Message, MessageMedia } from 'whatsapp-web.js'
 import 'dotenv/config'
-// import qrcode from "qrcode-terminal";
-import qrcode from 'qrcode'
+import qrcode from 'qrcode-terminal'
+// import qrcode from 'qrcode'
 import fs from 'fs'
 import ffmpeg from 'fluent-ffmpeg'
 import path from 'node:path'
@@ -23,23 +23,22 @@ const client = new Client({
 })
 
 client.on('qr', (qr) => {
-  // qrcode.generate(qr, { small: true });
+  qrcode.generate(qr, { small: true })
   // Opções para gerar o QR code (tamanho, margem, etc.)
-  const options = {
-    type: 'png', // Formato do arquivo (png, svg, etc.)
-    width: 300, // Largura do QR code
-    margin: 2, // Margem ao redor do QR code
-  }
-  console.log('QRCODE: ', qr)
-
-  // Função para gerar o QR code
-  qrcode.toFile('./qrcode.png', qr, options, (err) => {
-    if (err) {
-      console.error('Erro ao gerar o QR code:', err)
-    } else {
-      console.log('QR code gerado com sucesso!')
-    }
-  })
+  // const options = {
+  //   type: 'png', // Formato do arquivo (png, svg, etc.)
+  //   width: 300, // Largura do QR code
+  //   margin: 2, // Margem ao redor do QR code
+  // }
+  // console.log('QRCODE: ', qr)
+  // Função para gerar o QR code em imagem
+  // qrcode.toFile('./qrcode.png', qr, options, (err) => {
+  //   if (err) {
+  //     console.error('Erro ao gerar o QR code:', err)
+  //   } else {
+  //     console.log('QR code gerado com sucesso!')
+  //   }
+  // })
 })
 
 client.on('ready', () => {
