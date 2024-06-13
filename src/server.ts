@@ -4,7 +4,8 @@ import { receiveMessage } from './services/twilio'
 const app = fastify()
 
 app.post('/message', async (request) => {
-  console.log(request.body)
+  // console.log(request.body)
+  console.log('ENTROUUUU!!!')
   receiveMessage()
   return { hello: 'world' }
 })
