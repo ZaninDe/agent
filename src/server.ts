@@ -1,10 +1,9 @@
 import fastify from 'fastify'
-import fastifyFormBody from '@fastify/formbody'
+import formbody from '@fastify/formbody'
 import { receiveMessage } from './services/twilio'
-import { parse } from 'dotenv'
 
 const app = fastify()
-app.register(fastifyFormBody, { parser: (str) => parse(str) })
+app.register(formbody)
 
 interface TwilioRequestBody {
   SmsMessageSid: string
