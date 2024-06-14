@@ -6,11 +6,31 @@ import { parse } from 'dotenv'
 const app = fastify()
 app.register(fastifyFormBody, { parser: (str) => parse(str) })
 
+interface TwilioRequestBody {
+  SmsMessageSid: string
+  NumMedia: string
+  ProfileName: string
+  MessageType: string
+  SmsSid: string
+  WaId: string
+  SmsStatus: string
+  Body: string
+  To: string
+  NumSegments: string
+  ReferralNumMedia: string
+  MessageSid: string
+  AccountSid: string
+  From: string
+  ApiVersion: string
+  MediaUrl0?: string // Este campo é opcional
+}
+
 app.post('/message', async (request, reply) => {
   try {
     console.log('ENTROUUUU!!!')
-    const { From, MessageSid, MediaUrl0, Body } = request.body
-    await receiveMessage(From)
+    const body = request.body as TwilioRequestBody
+
+    await receiveMessage({ from: body.From })
     reply.code(200).send({ success: true, message: 'Recebido com sucesso' })
   } catch (error) {
     app.log.error(error)
