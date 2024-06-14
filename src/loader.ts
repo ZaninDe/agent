@@ -39,7 +39,7 @@ async function load() {
   const ip = await getPublicIpAddress()
 
   const redis = createClient({
-    url: ip || 'redis://127.0.0.1:6379',
+    url: `redis://${ip}:6379` || 'redis://127.0.0.1:6379',
   })
 
   await redis.connect()
