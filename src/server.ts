@@ -1,9 +1,10 @@
 import fastify from 'fastify'
-import formbody from 'fastify-formbody'
+import fastifyFormBody from '@fastify/formbody'
 import { receiveMessage } from './services/twilio'
+import { parse } from 'dotenv'
 
 const app = fastify()
-app.register(formbody)
+app.register(fastifyFormBody, { parser: (str) => parse(str) })
 
 app.post('/message', async (request, reply) => {
   try {
