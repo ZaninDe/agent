@@ -9,8 +9,8 @@ app.register(fastifyFormBody, { parser: (str) => parse(str) })
 app.post('/message', async (request, reply) => {
   try {
     console.log('ENTROUUUU!!!')
-    console.log('Request Body:', request.body)
-    await receiveMessage()
+    const { From, MessageSid, MediaUrl0, Body } = request.body
+    await receiveMessage(From)
     reply.code(200).send({ success: true, message: 'Recebido com sucesso' })
   } catch (error) {
     app.log.error(error)
