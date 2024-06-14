@@ -1,7 +1,9 @@
 import fastify from 'fastify'
+import formbody from 'fastify-formbody'
 import { receiveMessage } from './services/twilio'
 
 const app = fastify()
+app.register(formbody)
 
 app.post('/message', async (request, reply) => {
   try {
