@@ -10,14 +10,17 @@ const twilioClient = new Twilio(accountSid, authToken)
 
 export interface ReceiveMessageProps {
   from: string
-  body: string
+  content: string
 }
 
-export const receiveMessage = async ({ from, body }: ReceiveMessageProps) => {
+export const receiveMessage = async ({
+  from,
+  content,
+}: ReceiveMessageProps) => {
   console.log('FROM', from)
   try {
     twilioClient.messages.create({
-      body,
+      body: content,
       from: 'whatsapp:+14155238886',
       to: from || 'whatsapp:+5512991176085',
     })
