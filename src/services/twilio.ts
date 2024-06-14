@@ -17,7 +17,7 @@ export const receiveMessage = async ({
   from,
   content,
 }: ReceiveMessageProps) => {
-  console.log('FROM', from)
+  console.log('FROM::::', from)
   try {
     twilioClient.messages.create({
       body: content || 'default',

@@ -31,7 +31,9 @@ app.post('/message', async (request, reply) => {
     console.log('BODY#####', body)
 
     await receiveMessage({ from: body.From, content: body.Body })
-    reply.code(200).send({ success: true, message: 'Recebido com sucesso' })
+    return reply
+      .code(200)
+      .send({ success: true, message: 'Recebido com sucesso' })
   } catch (error) {
     app.log.error(error)
     reply.code(500).send({ success: false, message: 'Erro no servidor' })
