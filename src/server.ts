@@ -3,11 +3,11 @@ import { receiveMessage } from './services/twilio'
 
 const app = fastify()
 
-app.post('/message', async (request) => {
+app.post('/message', async (request, reply) => {
   // console.log(request.body)
   console.log('ENTROUUUU!!!')
   receiveMessage()
-  return { hello: 'world' }
+  reply.code(200).send({ success: true, message: 'Recebido com sucesso' })
 })
 
 app.get('/health', async () => {
