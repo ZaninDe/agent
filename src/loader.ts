@@ -34,9 +34,9 @@ async function load() {
     splittedDocuments,
     new OpenAIEmbeddings(),
     {
-      indexName: 'monografia-embeddings',
+      indexName: 'playbook-embeddings',
       redisClient: redis,
-      keyPrefix: 'monografia',
+      keyPrefix: 'playbook',
     },
   )
 

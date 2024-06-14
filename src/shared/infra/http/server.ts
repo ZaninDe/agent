@@ -28,6 +28,7 @@ app.post('/message', async (request, reply) => {
   try {
     console.log('ENTROUUUU!!!')
     const body = request.body as TwilioRequestBody
+    console.log('NAME', body.ProfileName)
     if (body.From) {
       await receiveMessage({
         from: body.From,
