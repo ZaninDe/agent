@@ -8,16 +8,12 @@ const authToken = process.env.TWILIO_AUTH_TOKEN
 
 const twilioClient = new Twilio(accountSid, authToken)
 
-export interface ReceiveMessageProps {
+export interface SendMessageProps {
   from: string
   content: string
 }
 
-export const receiveMessage = async ({
-  from,
-  content,
-}: ReceiveMessageProps) => {
-  console.log('FROM::::', from)
+export const sendMessage = async ({ from, content }: SendMessageProps) => {
   try {
     twilioClient.messages.create({
       body: content || 'default',

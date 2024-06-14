@@ -7,9 +7,9 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start:prod": "tsc && node dist/index.js",
     "start:dev": "tsx watch src/index.ts",
-    "dev": "tsx src/server.ts",
+    "dev": "tsx src/shared/infra/http/server.ts",
     "build": "tsup src",
-    "start": "node dist/server.js"
+    "start": "node dist//shared/infra/http/server.js"
   },
   "keywords": [],
   "author": "",

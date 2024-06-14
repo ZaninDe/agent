@@ -1,6 +1,6 @@
 import fastify from 'fastify'
 import formbody from '@fastify/formbody'
-import { receiveMessage } from './services/twilio'
+import { receiveMessage } from '../../../../useCases/receiveMessage'
 
 const app = fastify()
 app.register(formbody)
@@ -28,10 +28,12 @@ app.post('/message', async (request, reply) => {
   try {
     console.log('ENTROUUUU!!!')
     const body = request.body as TwilioRequestBody
-    console.log('BODY#####', body)
-
     if (body.From) {
-      await receiveMessage({ from: body.From, content: body.Body })
+      await receiveMessage({
+        from: body.From,
+        body: body.Body,
+        profileName: body.ProfileName,
+      })
     }
     return reply
       .code(200)
