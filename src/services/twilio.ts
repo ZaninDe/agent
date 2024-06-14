@@ -14,11 +14,12 @@ export interface ReceiveMessageProps {
 }
 
 export const receiveMessage = async ({ from, body }: ReceiveMessageProps) => {
+  console.log('FROM', from)
   try {
     twilioClient.messages.create({
       body,
       from: 'whatsapp:+14155238886',
-      to: from,
+      to: from || 'whatsapp:+5512991176085',
     })
   } catch (err) {
     console.log(err)
