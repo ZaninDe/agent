@@ -29,6 +29,7 @@ app.post('/message', async (request, reply) => {
   try {
     console.log('ENTROUUUU!!!')
     const body = request.body as TwilioRequestBody
+    console.log('BODY#####', body)
 
     await receiveMessage({ from: body.From })
     reply.code(200).send({ success: true, message: 'Recebido com sucesso' })
