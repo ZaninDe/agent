@@ -20,7 +20,7 @@ export const receiveMessage = async ({
   console.log('FROM', from)
   try {
     twilioClient.messages.create({
-      body: content,
+      body: content || 'default',
       from: 'whatsapp:+14155238886',
       to: from || 'whatsapp:+5512991176085',
     })
