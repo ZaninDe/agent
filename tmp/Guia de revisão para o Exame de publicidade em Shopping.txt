@@ -1,0 +1,788 @@
+Guia de aperfeiçoamento do Exame de 
+publicidade em Shopping Guia de aperfeiçoamento do Exame de publicidade em Shopping 
+Bem-vindo ao Guia de aperfeiçoamento do Exame de publicidade em Shopping: 
+a maneira perfeita de se preparar para o exame. Abordaremos tudo, desde a 
+criação e o gerenciamento de sua conta do Google Merchant Center, o envio do 
+feed de dados de produtos, os lances, a otimização e muito mais. Este recurso 
+prático é uma versão resumida do guia completo de estudo da Publicidade em 
+Shopping , que está disponível na Central de Ajuda do Google Partners. Você 
+também encontrará informações adicionais e uma variedade de links úteis. 
+Lembre-se de que seu Exame de publicidade em Shopping aborda conceitos básicos e 
+avançados, inclusive a criação de uma conta do Google Merchant Center e do feed de dados de 
+produtos, além de criar e gerenciar as Campanhas do Shopping. O exame terá 63 perguntas de 
+múltipla escolha. O limite de tempo é de 90 minutos e a pontuação para aprovação é de 80%. 
+Você precisará passar nos exames Fundamentos de AdWords e Publicidade em Shopping 
+(ou em um dos outros exames do Google AdWords, como Publicidade em vídeo, Publicidade 
+em Display, Publicidade em pesquisa ou Publicidade mobile) para receber o certificado em 
+Google AdWords. 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping 
+Módulo 1 Visão geral de como funcionam os anúncios 
+                 do Shopping 
+1.1 Sobre o Google Merchant Center 
+1.2 Sobre campanhas do Shopping e anúncios do Shopping 
+2.1 Configurar sua conta 
+2.2 Verificar e reivindicar o URL de seu website 
+2.3 Configurar uma conta multicliente 
+2.4 Navegar pelo Google Merchant Center 
+3.1 Especificação do feed de produtos 
+3.2 Fornecer dados de alta qualidade 
+3.3 Registrar um feed de dados 
+3.4 Formatos de arquivo compatíveis 
+3.5 Fazer upload de um feed de dados 
+Módulo 2  Criar uma conta do Google Merchant Center 
+Módulo 3  Criar seu feed de dados de produtos Neste guia de aperfeiçoamento, abordaremos o seguinte: 
+Módulo 4  Criar Campanhas do Shopping no Google AdWords 
+4.1 Requisitos das Campanhas do Shopping 
+4.2 Configurar uma Campanha do Shopping 
+4.3 Gerenciar uma Campanha do Shopping com grupos 
+      de produtos 
+4.4 Usar rótulos personalizados para uma Campanha do Shopping 
+4.5 Usar prioridade de campanhas para Campanhas do Shopping 
+4.6 Monitorar e otimizar suas Campanhas do Shopping 
+4.7 Usar o simulador de lances com as Campanhas do Shopping 
+4.8 Práticas recomendadas para Campanhas do Shopping 
+Faça o Exame de publicidade em Shopping   Módulo 1 Visão geral de como funcionam os anúncios 
+                    do Shopping Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo 1  
+1.1 Sobre o Google Merchant Center 
+O que é o Google Merchant Center? 
+O Google Merchant Center é uma ferramenta que ajuda você a fazer 
+upload de seus dados de lojas e de produtos para o Google e 
+disponibilizá-los no Google Shopping e em outros serviços do 
+Google. 
+O que é o Google Shopping? 
+O Google Shopping  permite que os compradores encontrem as 
+informações de seus produtos no Google com rapidez e facilidade. 
+Como vendedor, o Google Shopping oferece a você as seguintes 
+vantagens: 
+● Atrair mais possíveis compradores 
+● Controlar as informações de seus produtos 
+O que são anúncios do Shopping? 
+Ao vincular suas contas do Google AdWords e do Google Merchant 
+Center, você tem como exibir seus produtos por meio dos anúncios 
+do Shopping diretamente aos usuários. 
+Saiba mais sobre o Google Merchant Center» 
+1.2 Sobre campanhas do Shopping e anúncios do 
+Shopping 
+Se você é um varejista, tem como utilizar as campanhas do Shopping  
+para promover seu inventário local e on-line, aumentar o tráfego do 
+seu website ou da sua loja local e encontrar leads mais qualificados. 
+Para começar, você enviará para nós os dados dos seus produtos 
+pelo Google Merchant Center e criará uma campanha no Google 
+AdWords. Chamamos esses canais de anúncios do Shopping , pois 
+são mais do que um anúncio de texto. Eles mostram aos usuários 
+uma foto do seu produto, um título, o preço, o nome da loja e muito 
+mais. 
+Esses anúncios fornecem aos usuários uma boa ideia do produto 
+que está à venda antes de eles clicarem no anúncio, o que gera leads 
+mais qualificados. 
+Benefícios 
+● Mais tráfego:  Muitas empresas apresentam taxas de 
+cliques (CTR)  significativamente mais altas com os 
+anúncios do Shopping do que com os anúncios de texto.  
+● Leads mais qualificados:  aumente a qualidade de seus 
+leads ao apresentar as informações dos produtos 
+diretamente em seus anúncios para aumentar a chance de 
+compra em seu website. Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo 1  
+● Fácil gerenciamento de campanhas centrado no varejo:  
+em vez de palavras-chave, os anúncios do Shopping usam 
+os atributos dos produtos que você definiu no feed de 
+dados do Google Merchant Center para exibir seus 
+anúncios em pesquisas relevantes. 
+● Presença mais ampla:  mais de um de seus anúncios do 
+Shopping podem ser exibidos em determinada pesquisa do 
+usuário. Isso significa que seu alcance de compradores 
+para uma única pesquisa pode dobrar.. 
+● Relatórios poderosos e dados competitivos:  veja o 
+desempenho de seus produtos em qualquer nível de 
+detalhe que você quiser. 
+Como funcionam as campanhas do Shopping e os anúncios do 
+Shopping 
+Os anúncios do Shopping usam os dados de produtos  existentes do 
+Google Merchant Center (não as palavras-chave) para decidir como e 
+onde exibir seus anúncios. 
+Você gerencia seus anúncios do Shopping no Google AdWords com 
+campanhas do Shopping, uma maneira simples e flexível de 
+organizar e promover seu inventário de produtos do Google Merchant 
+Center dentro do Google AdWords. 
+Onde seus anúncios são exibidos 
+A seguir, os locais onde você poderá visualizar seus anúncios do 
+Shopping na Web: 
+● Google Shopping (em alguns países) 
+● Pesquisa Google, próximo aos resultados da pesquisa e 
+separado dos anúncios de texto 
+● Websites de parceiros da Pesquisa Google (caso sua 
+campanha esteja configurada para incluir parceiros de 
+pesquisa) 
+Seus anúncios do Shopping podem ser exibidos simultaneamente 
+com anúncios de texto. Os anúncios do Shopping podem ser 
+exibidos em tablets, celulares e computadores. 
+Custo
+Assim como outros formatos de anúncio do Google AdWords, seus 
+anúncios do Shopping participam de um leilão de anúncios, mas 
+você será cobrado somente quando alguém clicar em seu anúncio. 
+Isso é conhecido como custo por clique (CPC). Quando você cria a 
+campanha do Shopping, decide quanto deseja pagar por cada clique. 
+Saiba mais sobre campanhas do Shopping e anúncios do Shopping» 
+  Módulo 2 Criar uma conta do Google Merchant Center 
+Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  2  
+2.1 Configurar sua conta 
+Para adicionar suas informações comerciais às configurações da 
+conta, precisaremos de: 
+1. Informações do website: se você tem mais de um domínio 
+para os quais enviar itens, terá que configurar uma conta de 
+múltiplos clientes 
+2. Informações comerciais 
+3. Informações de atendimento ao cliente 
+4. Informações de contato particulares 
+Certifique-se de que seu site atende todos os requisitos 
+Verificamos alguns requisitos básicos em todos os sites de 
+comerciantes: 
+● Informações de contato precisas 
+● Processo de pagamento seguro 
+● Política de devoluções 
+● Termos e Condições de faturamento 
+● Processo de pagamento completo 
+Saiba mais sobre como configurar sua conta» 
+2.2 Verificar e reivindicar o URL de seu website 
+Antes de fazer upload dos dados dos produtos  ao Google Merchant 
+Center para o Google Shopping, você deve verificar e reivindicar o URL 
+do website de sua loja. Faça o seguinte: 
+● Durante a inscrição da conta 
+● Na aba "Verificação de website" Etapas para verificar e reivindicar o URL de seu website 
+Insira o URL do website em sua conta 
+Você verificará e reivindicará o URL do website inserido na guia 
+"Configurações gerais" de sua conta. 
+Verifique e reivindique o URL de seu website. 
+Verificação de URL novo 
+Durante a inscrição da conta e na guia "Verificação de website", você 
+verá quatro opções para verificar e reivindicar o URL de seu website. 
+Siga as instruções para a opção que funciona melhor para você: 
+1. Upload de arquivo HTML (método mais comum) 
+2. Tag HTML 
+3. Google Analytics 
+4. Gerenciador de tags do Google: adicione o Gerenciador de 
+tags do Google 
+Reivindique o URL que você verificou anteriormente no Google 
+Search Console ao: 
+1. Adicionar a Conta do Google  a sua conta do Google 
+Merchant Center como proprietário da conta verificada do 
+Google Search Console. 
+2. Adicionar uma Conta do Google que já é proprietária de 
+uma conta do Search Console como login para sua conta 
+do Google Merchant Center. 
+Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  2  
+Informações adicionais sobre a reivindicação do URL do website 
+Mais de uma pessoa pode verificar o mesmo URL do website, mas o 
+Google Merchant Center exige que somente uma conta detenha o 
+direito de fazer upload de dados de produtos para este URL. 
+Não foi possível reivindicar o URL de seu website 
+Há dois principais motivos de você não conseguir reivindicar o URL 
+de seu website: 
+1. Seu website não foi verificado. 
+2. O URL foi reivindicado em um nível superior. 
+Você perdeu uma reivindicação existente no URL de seu website 
+● Se outro proprietário autorizado do website verificar e 
+reivindicar o URL, você perderá a reivindicação e será 
+notificado por e-mail. 
+● Se você perder o status verificado de seu website, também 
+perderá a reivindicação do website. 
+● Se você inserir um novo URL de website na guia 
+"Configurações gerais" de sua conta do Google Merchant 
+Center, perderá a reivindicação do URL de seu website 
+anteriormente verificado e reivindicado. 
+Para descobrir como verificar contas de múltiplos clientes, veja o 
+módulo 2.3 .
+Saiba mais sobre como verificar e reivindicar o URL de seu website »
+2.3 Configurar uma conta de múltiplos clientes 
+As contas de múltiplos clientes do Google Merchant Center permitem 
+que uma única pessoa ou empresa envie feeds de dados para vários 
+domínios. Cada cliente pode ter um nome e URL de loja diferente. 
+Quando você solicitar uma conta de múltiplos clientes, sua conta atual 
+do Google Merchant Center se tornará uma subconta em sua nova 
+conta de múltiplos clientes. 
+Nota:  não envie websites duplicados que tenham conteúdo 
+semelhante para evitar reprovação da conta. 
+Verificação e reivindicação de websites em uma conta de múltiplos 
+clientes
+Recomendamos que proprietários de contas de múltiplos clientes 
+verifiquem e reivindiquem o URL de um website com o e-mail de login 
+de conta principal. Normalmente, a conta de múltiplos clientes 
+principal precisará verificar e reivindicar o domínio de nível superior, 
+por exemplo, http://example.com. 
+Se os URLs do website da subconta forem sub-hosts ou caminhos na 
+árvore do URL reivindicado pela MCA: 
+Depois que a MCA principal tiver verificado e reivindicado um URL, 
+cada subconta poderá herdar automaticamente a reivindicação e 
+definir o URL do website para qualquer sub-host ou caminho na árvore 
+do URL reivindicado. 
+Saiba mais sobre como configurar uma conta de múltiplos clientes» 
+Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  2  
+2.4 Navegar pelo Google Merchant Center 
+Painel:  na guia "Painel", você terá uma visão geral de sua conta, que 
+inclui:
+● Visão geral dos produtos:  quantos produtos estão ativos 
+para o destino especificado 
+● Feeds:  uma lista de seus feeds de dados enviados mais 
+recentemente 
+● Desempenho:  cliques em suas Campanhas do Shopping 
+Diagnóstico:  veja o relatório consolidado de problemas para os 
+dados dos produtos do Shopping em sua conta, feeds e itens. 
+Diagnóstico da API:  permite que você encontre, visualize e faça o 
+download de todas as entradas de dados com falha nas solicitações 
+de Content API que você envia para o Google Merchant Center. 
+Feeds:  onde você registra e faz upload de feeds de dados. 
+Produtos:  mostra a você os produtos em sua conta. 
+Configurações 
+● Geral:  defina nome da empresa, website, informações de 
+contato e configurações de exibição aqui. 
+● Verificação de website:  verifique e reivindique o URL de 
+seu website. 
+● FTP:  defina seu nome de usuário e senha do FTP aqui. 
+● Google Cloud Storage:  envie e armazene os dados do 
+produto com segurança pelo Google Cloud Storage. ● Google AdWords:  vincule suas contas do Google Merchant 
+Center e do Google AdWords aqui. 
+● Impostos:  crie e gerencie suas configurações de 
+impostos. 
+● Entrega:  crie e gerencie suas formas de entrega. 
+● Usuários:  permita que vários usuários acessem sua conta. 
+● Atualizações automáticas de itens:  ativar este recurso 
+permite que atualizemos seus itens no Google Shopping 
+com base nos microdados do schema.org que 
+encontramos em seu website para informações de preço e 
+de disponibilidade. 
+● Plataforma de comércio eletrônico:  vincule suas contas 
+do Google Merchant Center e da plataforma de comércio 
+eletrônico compatível aqui. Saiba mais 
+Saiba mais sobre como navegar pelo Google Merchant Center» 
+  Módulo 3 Criar seu feed de dados de produtos 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  3  
+3.1 Especificação de feed de produtos 
+Veja a lista de todos os atributos que você precisa fornecer para que 
+seus produtos sejam listados no Google Shopping. 
+Informações básicas do produto 
+● 'código' [id] – Um identificador do item 
+● 'título' [title] – O título do item 
+● 'descrição' [description] – A descrição do item 
+● 'categoria google do produto' [google_product_category] - 
+A categoria Google do item 
+● 'tipo de produto' [product_type] - A categoria do item 
+● 'link' [link] - URL que direciona diretamente para a página 
+do item em seu website 
+● 'link móvel' [mobile_link] – URLs da página de destino para 
+dispositivos móveis 
+● 'link da imagem' [image_link] – URL de uma imagem do 
+item
+● 'link imagem adicional' [additional_image_link] – URLs 
+adicionais de imagens do item 
+● 'estado' [condition] – Condição ou estado do item 
+Disponibilidade e preço 
+Os atributos desta seção são obrigatórios para especificar a 
+disponibilidade e os preços de seus itens. 
+● 'disponibilidade' [availability] - Status da disponibilidade do 
+item
+● 'data de disponibilidade' [availability_date] – O dia em que 
+um produto encomendado fica disponível para entrega ● 'preço' [price] – Preço do item 
+● 'preço de venda' [sale_price] – Preço de venda anunciado 
+para o item 
+● 'data efetiva de preço com desconto' 
+[sale_price_effective_date] – Período de desconto do item 
+Identificadores exclusivos de produtos 
+● Os códigos de produtos são associados a um produto 
+individual ou variante de produto? 
+● Identifique de forma exclusiva e completa um produto no 
+marketplace. 
+● Facilite para que os usuários encontrem o produto que 
+você vende. 
+Envie identificadores exclusivos de produtos com uma combinação 
+destes atributos: 
+● Números globais de item comercial (GTINs, na sigla em 
+inglês) enviados por meio do atributo 'GTIN'. Os GTINs 
+incluem UPC, EAN (na Europa), JAN (no Japão) e ISBN. 
+Saiba como encontrar o GTIN de seu produto .
+● O número de peça do fabricante (MPN, na sigla em inglês) 
+enviado por meio do atributo 'MPN'; e 
+● O nome da marca do produto no atributo 'marca' [brand]. 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  3  
+Importante: ao nomear seu item usando o atributo 'título' [title], 
+recomendamos que você inclua todos os atributos detalhados 
+relevantes do produto como parte do título. Isso ajudará os usuários 
+a identificarem a versão correta do produto que procuram. 
+Combinações de produtos 
+Esses atributos permitem que você envie informações sobre 
+multipacks e pacotes definidos pelo comerciante. Multipacks são 
+pacotes que incluem vários produtos semelhantes para criar uma 
+unidade de venda maior, enviada como item único. Pacotes definidos 
+pelo comerciante são agrupamentos personalizados de diferentes 
+produtos definidos pelo comerciante e vendidos juntos por um preço 
+único. 
+Produtos para adultos 
+O Google se preocupa com a classificação do anúncio das 
+informações dos produtos que você envia para garantir que 
+conteúdo apropriado seja exibido para o público adequado. Você 
+deve utilizar o atributo 'para adultos' [adult] para indicar que esse 
+item individual será considerado como conteúdo para adultos. 
+Atributos do Google AdWords 
+Esses atributos ajudarão você a organizar suas Campanhas do 
+Google AdWords e monitorar o tráfego para seu website. 
+Estes produtos não terão identificadores exclusivos de produtos: 
+● Mercadorias personalizadas  ou itens únicos, como 
+camisetas personalizadas, obras de arte e produtos 
+perecíveis 
+● Mercadorias produzidas antes da criação dos 
+identificadores exclusivos de produtos , como mercadorias 
+vintage, antiguidades, livros publicados antes de 1970 e 
+outros itens especiais 
+Atributos detalhados do produto e agrupamentos de itens 
+Muitos produtos, como calçados, móveis e eletrônicos, podem ter 
+uma variedade de cores, materiais, tamanhos e outras 
+características. Para garantir que possamos exibir com precisão 
+esses produtos aos usuários, talvez você precise enviar atributos 
+detalhados do produto para cada estilo exclusivo de produto. 
+Também será necessário agrupar produtos com um código de grupo 
+de itens nos casos em que o produto subjacente faz parte de um 
+grupo que varia em um ou mais atributos, como cor. Cada versão 
+diferente de um produto em um desses agrupamentos às vezes é 
+chamada de variante do produto. 
+Atributos detalhados do produto 
+Recomendamos que você forneça as seguintes informações do 
+produto para cada item exclusivo que você enviar, caso ele exista e 
+seja relevante e caso as informações se encaixem nos valores 
+aceitos para os atributos detalhados do produto: 'cor' [color], 
+'tamanho' [size], 'estampa' [pattern], 'material' [material], 'idade' [age 
+group], 'gênero' [gender], 'tipo de tamanho' [size type] e 'sistema de 
+tamanhos' [size system]. 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  3  
+Atributos de rótulos personalizados para Campanhas do Shopping 
+Com as Campanhas do Shopping, você pode: 
+● Criar grupos de produtos com base nos atributos para os 
+dados de seus produtos e definir lances para esses grupos 
+de produtos. 
+● Subdividir seus produtos com base nos dados existentes 
+dos atributos 'categoria google do produto' [google product 
+category], 'marca' [brand], 'código do item' [item id], 'estado' 
+[condition], 'tipo de produto' [product type] e 'rótulo 
+personalizado' [custom label]. 
+● Utilize rótulos personalizados caso queira subdividir os 
+produtos em sua campanha com valores de sua escolha. 
+● Crie até cinco rótulos personalizados, enumerados de 0 a 
+4, para cada item em seu feed. Cada um dos cinco rótulos 
+personalizados pode ter somente um valor por produto. 
+Atributos adicionais 
+Os dois atributos abaixo permitem que você controle o destino de 
+seus itens e o período em que os itens permanecerão válidos. 
+1. 'destino excluído' [excluded destination]  - O atributo 
+'destino excluído' [excluded destination] impede que um 
+item seja exibido em determinados destinos, mesmo que 
+seja exibido nos dados de seu produto. 
+2. 'data de expiração' [expiration date]  - Esta é a data em que 
+as informações do produto expirarão. Caso você não 
+forneça esse atributo, os itens expirarão após 30 dias e 
+não serão mais exibidos nos resultados do Google 
+Shopping. 
+Preços unitários (somente países da UE e Suíça) 
+Esses atributos permitem que você envie o preço unitário de seus 
+produtos aplicáveis em feeds segmentados para países da União 
+Europeia e para a Suíça. 
+Não envie ambos os preços unitários e os rótulos energéticos de um 
+item.
+● Use 'medida de preço unitário [unit pricing measure] para 
+especificar informações de preço unitário para um item. 
+● Use 'medida base de preço unitário' [unit pricing base 
+measure] para especificar sua preferência do denominador 
+do preço unitário. 
+Rótulos energéticos (somente países da UE e Suíça) 
+Use o atributo 'classe energética' [energy efficiency class] para 
+especificar a classe energética de determinadas categorias de 
+produtos conforme definido pela Diretiva da UE. 
+Pontos de fidelidade (somente Japão) 
+O atributo abaixo se aplica somente a feeds segmentados para o 
+Japão. Utilize-o para especificar quantos e que tipo de pontos de 
+fidelidade o cliente recebe ao adquirir um produto. 'pontos de 
+fidelidade' [loyalty_points] – Pontos de fidelidade que os usuários 
+recebem ao comprar o item. 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  3  
+Várias parcelas (somente Brasil) 
+O atributo abaixo se aplica somente a feeds segmentados para o 
+Brasil. Utilize-o para especificar uma opção adicional para os 
+usuários pagarem em várias parcelas. 
+'parcela' [installment] – Número e valor das parcelas a serem pagas 
+por um item. 
+Atributo do Promoções 
+Para vendedores que utilizam o Promoções, o atributo 'código 
+promocional' [promotion ID] é utilizado tanto em seu feed de 
+produtos como no de promoções para corresponder produtos a 
+promoções dos dois feeds. 
+Saiba mais sobre especificação de feed de produtos» 
+3.2 Fornecer dados de alta qualidade 
+Para atrair usuários para seus produtos e fazê-los comprar em sua 
+loja, é fundamental fornecer dados de produtos de alta qualidade, 
+atualizados, precisos e detalhados. Também é importante que um 
+usuário veja as mesmas informações dos produtos no Google 
+Shopping e em seu website. 
+Fornecer dados atualizados 
+Veja algumas dicas para fornecer dados atualizados: 
+● Crie seu feed imediatamente após atualizar seu banco de 
+dados com as informações mais recentes. ● Envie seu feed para o Google ao mesmo tempo que 
+atualiza o website. 
+● Se você atualiza seu website várias vezes ao dia, envie seu 
+feed várias vezes ao dia. 
+● Se você utiliza um fornecedor de feed terceirizado, tente 
+minimizar o número de vezes que seus dados são 
+processados. 
+● Se você configurou sua conta do Google Merchant Center 
+para que o Google busque o feed de seu servidor, 
+certifique-se de que a busca programada de seu servidor 
+ocorra logo após a atualização de seu website. 
+● Se os preços e as disponibilidades de seus produtos são 
+alterados com muita frequência, talvez seja necessário 
+utilizar a Google Content API for Shopping .
+● Você pode utilizar os microdados do schema.org para 
+informações de preço e disponibilidade e, assim, garantir 
+que sempre seja possível extrair os dados mais precisos e 
+atualizados dos produtos de seu website. 
+Fornecer dados precisos e detalhados 
+Quanto mais informação tivermos sobre seus produtos, melhor será a 
+veiculação de seus anúncios para nossos usuários e o 
+direcionamento deles para seu website. Portanto, envie todos os 
+atributos obrigatórios listados em nossa especificação de feed  que 
+se aplicam a seus produtos. 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  3  
+Também sugerimos que você inclua o máximo de atributos 
+recomendados que puder. Ao fornecer todos os atributos relevantes, 
+podemos mostrar aos usuários os produtos mais relevantes para as 
+pesquisas deles. Além disso, todos os seus produtos enviados 
+devem atender a nossas políticas . 
+Saiba mais sobre como fornecer dados de alta qualidade» 
+3.3 Registrar um feed de dados 
+Antes de fazer upload de seu feed de dados, é necessário registrá-lo 
+no Google Merchant Center para que nosso sistema saiba que 
+receberá seu arquivo. 
+Na seção "Registrar um novo feed", especifique várias informações 
+sobre seu feed para registrá-lo: 
+● Modo
+● Tipo de feed 
+● País de destino 
+● Idioma do conteúdo 
+● Nome do feed 
+● Método de entrada: há quatro opções de método de 
+upload:
+1. Planilhas Google 
+2. Buscas programadas 
+3. Uploads frequentes 
+4. Importação da plataforma de comércio 
+eletrônico ● Nome do arquivo 
+● Quais produtos do Google podem utilizar o feed 
+● Programação e configurações de busca 
+Saiba mais sobre como registrar um feed de dados» 
+3.4 Formatos de arquivo compatíveis 
+No momento, suportamos feeds de dados nos seguintes formatos: 
+Texto (planilha) ou delimitado por tabulação 
+1. Inclua os nomes dos atributos na primeira linha (ou seja, no 
+cabeçalho), separados por uma tabulação. 
+2. Na segunda linha, inclua os valores correspondentes 
+abaixo de cada nome de atributo. 
+3. Salve o arquivo como delimitado por tabulação. 
+4. Se você estiver no Planilhas Google, pode fazer o download 
+do arquivo e enviar como arquivo .txt ou, até mesmo, fazer 
+upload da sua planilha diretamente para o Google 
+Merchant Center. 
+XML
+Ao criar seu feed de dados, lembre-se de salvar seu arquivo em um 
+dos tipos de arquivo suportados com a extensão adequada no nome 
+do arquivo: 
+● .txt: texto 
+● .xml: XML 
+● .gz: Gnu zip, texto comprimido ou XML 
+● .zip: Zip, texto comprimido ou XML 
+● .bz2: Bzip2, texto comprimido ou XML  Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  3  
+Se você quiser programar seu feed de dados, o URL do feed deve 
+apontar diretamente para seu arquivo de feed. 
+Saiba mais sobre formatos de arquivo compatíveis» 
+3.5 Fazer upload de um feed de dados 
+Depois de criar e registrar  seu feed de dados, você pode fazer upload 
+de um arquivo de dados. 
+Opções de upload 
+Se você for novo no Google Merchant Center, um upload direto pode 
+ser a opção mais fácil para começar. 
+Ao fazer upload de seu feed de dados para o Google Merchant 
+Center, você tem três opções. Após enviar um feed de dados, você 
+também pode criar uma programação para atualizar seu feed 
+automaticamente. 
+● Upload direto (arquivos com menos de 20 MB) 
+● Upload pelo FTP (arquivos com menos de 1 GB) 
+● Upload automático (busca programada) (arquivos com 
+menos de 1GB). 
+Saiba mais sobre como fazer upload de um feed de dados» 
+  Módulo 4 Criar Campanhas do Shopping no Google AdWords 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  4 
+4.1 Requisitos para as Campanhas do Shopping 
+Há alguns requisitos que você precisa atender para poder configurar 
+uma campanha do Shopping e criar anúncios do Shopping. 
+Contas do Google 
+Você precisará configurar contas do Google Merchant Center  e do 
+Google AdWords  e vinculá-las entre si .
+Políticas 
+Seu conteúdo das campanhas do Shopping e dos anúncios do 
+Shopping precisa estar em conformidade com as Políticas do Google 
+Shopping , que são diferentes das Políticas de publicidade no 
+AdWords . Você precisa garantir que seu tipo de negócio, produtos, 
+promoções e website atendam aos requisitos do Google Shopping 
+antes de começar a anunciar. 
+Dados dos produtos 
+É necessário fazer upload de dados atualizados dos produtos pelo 
+menos a cada 30 dias. Esses dados precisam atender nossos 
+padrões de qualidade. Esses padrões servem para ajudar a fornecer 
+aos usuários a melhor experiência de compras, e reforçamos os 
+padrões para ajudar seus anúncios a terem melhor desempenho. 
+Os padrões para upload dos dados dos produtos estão na 
+Especificação de feed de produtos . Você utilizará o Google Merchant 
+Center para enviar seus dados de produtos regularmente. 
+Saiba mais sobre  requisitos para Campanhas do Shopping» 
+4.2 Configurar uma Campanha do Shopping 
+As Campanhas do Shopping ajudam você a promover seus produtos, 
+pois fornecem aos usuários informações detalhadas sobre o que 
+você vende antes mesmo de clicarem em seu anúncio. Antes de 
+configurar sua Campanha do Shopping, verifique se você atende aos 
+requisitos . 
+Veja as instruções passo a passo para criar uma Campanha do 
+Shopping: 
+1. Faça login em sua conta do Google AdWords. 
+2. Clique na guia Campanhas . Depois, clique em + Campanha  e 
+selecione Shopping .
+3. Na página "Selecionar configurações da campanha", nomeie sua 
+campanha. 
+4. Forneça um identificador de comerciante ao clicar no menu 
+suspenso Selecionar conta  e escolher o ID do comerciante. 
+5. No menu suspenso próximo a "País de venda", selecione o país 
+onde os produtos desta campanha são vendidos. 
+6. Se você quiser utilizar as configurações opcionais "prioridade de 
+campanha" e "filtro do inventário" ou anunciar produtos locais, clique 
+em Configurações do Shopping (avançadas) .
+7. Utilize a configuração opcional "prioridade de campanha" quando 
+você tiver várias Campanhas do Shopping que anunciam o mesmo 
+produto e quiser determinar qual campanha e lance associado a ela 
+serão utilizado quando os anúncios desses produtos forem exibidos.  Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  4 
+8. Utilize o "filtro de inventário" opcional para limitar os produtos que 
+você deseja anunciar em sua Campanha do Shopping. 
+9. Para incluir produtos vendidos em lojas locais e não apenas em 
+um website, participe dos Anúncios de inventário local. Para fazer 
+isso, marque "Permitir anúncios de inventário local" em sua 
+Campanha do Shopping. 
+10. Em "Locais", escolha as áreas geográficas onde você deseja que 
+os anúncios do Shopping nesta campanha sejam exibidos. 
+11. Incluir parceiros de pesquisa pode ajudar você a alcançar mais 
+compradores, aumentar sua visibilidade e melhorar o tráfego para 
+seus produtos. 
+12. Se você utiliza o acompanhamento de conversões  e deseja 
+melhorar seu potencial de vendas, utilize os lances de custo 
+otimizado por clique (eCPC, na sigla em inglês)  para sua campanha 
+ou grupo de anúncios. 
+13. Insira seu lance de CPC máximo em "Lance padrão". 
+14. Em "Orçamento", escolha se você deseja utilizar um "orçamento 
+individual" para esta campanha ou aplicar um orçamento a partir de 
+uma biblioteca compartilhada. 
+15. Selecione opções avançadas adicionais para sua campanha, 
+inclusive método de exibição, agendamento de anúncios  e URL de 
+monitoramento dinâmico. 
+16. Clique em Salvar e continuar .
+17. Você chegará na página Criar grupos de anúncios . Na seção 
+"Criação de grupo de anúncios", você precisará tomar algumas 
+decisões sobre como organizar sua campanha. 
+Saiba mais sobre como configurar uma Campanha do Shopping» 4.3 Gerenciar uma Campanha do Shopping com 
+grupos de produtos 
+Dentro de um grupo de anúncios de uma Campanha do Shopping, 
+você trabalhará com seu inventário para colocar lances usando 
+grupos de produtos em vez de palavras-chave. Um grupo de 
+produtos é apenas um subconjunto do inventário que você definiu, e 
+todos os produtos dentro dele utilizam o mesmo lance. 
+Quando você criar uma Campanha do Shopping, terá um grupo de 
+produtos chamado "Todos os produtos", que inclui seu inventário 
+completo. Recomendamos que você divida seu inventário em grupos 
+menores com subdivisões para tornar os lances mais específicos 
+para suas metas de publicidade. 
+Você não pode definir um lance para um grupo de produtos que foi 
+subdividido. Você definirá lances nos grupos de produtos sem 
+subdivisões. Cada grupo de anúncios em uma Campanha do 
+Shopping pode ter até 20 mil grupos de produtos. 
+Saiba mais sobre como gerenciar Campanhas do Shopping com 
+grupos de produtos» 
+ Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  4 
+4.4 Utilize rótulos personalizados para uma Campanha 
+do Shopping 
+Com as Campanhas do Shopping, você pode utilizar rótulos 
+personalizados quando quiser subdividir os produtos em sua 
+campanha com valores de sua escolha. Por exemplo, você pode 
+utilizar rótulos personalizados para indicar que produtos são 
+sazonais, estão em liquidação, são best-sellers etc. Esses valores 
+podem ser selecionados para monitoramento, relatórios e lances em 
+sua Campanha do Shopping. 
+Lembre-se de que os rótulos personalizados são somente para 
+referência. Eles não serão exibidos em seus anúncios do Shopping. 
+Antes de começar 
+Você precisará ter acesso aos dados de seus produtos no Google 
+Merchant Center e estar disposto a adicionar atributos 'rótulo 
+personalizado' [custom label]  a seus produtos. 
+Instruções 
+Você pode ter até cinco rótulos personalizados nos dados do 
+produto, enumerados de 0 a 4. Atribua uma definição específica a 
+cada um dos cinco rótulos personalizados e especifique os valores 
+possíveis para eles. Depois, você poderá utilizar esses rótulos 
+personalizados de maneira consistente nos produtos de sua conta do 
+Google Merchant Center, ao atribuir valores apropriados para cada 
+produto de acordo com sua definição. Cada um dos cinco rótulos personalizados pode ter somente um 
+valor por produto. Depois que você configurou rótulos personalizados 
+nos dados de seu produto, pode utilizar os rótulos para subdividir 
+seus grupos de produtos na Campanha do Shopping. 
+Lembre-se 
+Todo rótulo personalizado pode ter somente um valor por produto. 
+Além disso, não é necessário que um item tenha um valor para um ou 
+mais rótulos personalizados. 
+Saiba mais sobre rótulos personalizados para Campanhas do 
+Shopping» 
+4.5 Usar prioridade de campanhas para Campanhas do 
+Shopping 
+A prioridade de campanhas é útil quando você anuncia o mesmo 
+produto, para o mesmo país, em várias Campanhas do Shopping. 
+Como funciona 
+Quando você tem o mesmo produto em várias Campanhas do 
+Shopping, pode determinar qual campanha deve participar no leilão 
+daquele produto com a prioridade de campanhas . Suas campanhas 
+já têm uma prioridade: baixa. Porém, você pode alterar essa 
+prioridade para média ou alta. Essas prioridades determinam o lance 
+para qualquer produto que as campanhas compartilham  Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  4 
+As prioridades de campanhas determinam lances por meio destas 
+regras:
+● A campanha de prioridade mais alta é que dará o lance.  Se 
+uma campanha tem uma prioridade mais alta que as 
+outras, a campanha com a prioridade mais alta é que dará 
+o lance. 
+● Se o orçamento da campanha de prioridade mais alta for 
+esgotado, a campanha de prioridade mais baixa dará os 
+lances.  Se o orçamento da campanha de prioridade mais 
+alta for esgotado, a próxima campanha de prioridade mais 
+baixa é que dará os lances. 
+● Observação sobre exibição de anúncios:  Quando você 
+define uma campanha para utilizar o método de entrega 
+padrão, seu orçamento será distribuído de maneira 
+uniforme durante o dia. Para reservar fundos para um 
+horário posterior do dia, uma campanha de prioridade alta 
+pode não participar de um leilão mesmo se o orçamento 
+não tiver sido esgotado. Em vez disso, uma campanha de 
+prioridade mais baixa que não reservou fundos poderá 
+participar do leilão. Saiba mais sobre exibição de anúncios .
+● Quando várias campanhas têm a mesma prioridade, o 
+lance mais alto é utilizado.  Se várias campanhas tiverem a 
+mesma prioridade, a campanha com o lance mais alto para 
+esse produto participará no leilão. 
+Antes de começar 
+Para utilizar a configuração de prioridade de campanhas, é 
+necessário definir uma Campanha do Shopping  antes. Lembre-se de 
+que a prioridade de campanha é importante somente se você tiver 
+várias Campanhas do Shopping que promovem o mesmo produto. 
+Saiba mais sobre como usar a prioridade de campanhas para 
+Campanhas do Shopping» 
+4.6 Monitorar e otimizar suas Campanhas do Shopping 
+Depois de colocar sua Campanha do Shopping em andamento, você 
+precisará verificar como está o desempenho dela para garantir que 
+terá os resultados que deseja. Para isso, é necessário que existam 
+produtos comparáveis suficientes de outros anunciantes. 
+Monitore o desempenho de sua campanha em alguns lugares chave 
+no Google AdWords, em que você pode: 
+● Utilizar a guia "Grupos de produtos":  a guia "Grupos de 
+produtos" é o primeiro lugar para você verificar o 
+desempenho de seus grupos de produtos. Personalize as 
+colunas e faça o download de relatórios com opções 
+segmentadas. 
+● Utilizar a guia "Dimensões":  a guia "Dimensões" fornece 
+relatórios de desempenho personalizados em qualquer 
+nível de detalhes por qualquer dimensão que você 
+escolher.  Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  4 
+● Utilizar o relatório "Informações de leilões":  use o relatório 
+"Informações de leilões" para comparar seu desempenho 
+com o dos demais anunciantes que participam dos 
+mesmos leilões que você. 
+● Utilizar o "Simulador de lances":  o "Simulador de lances" 
+ajuda a esclarecer de que maneira lances diferentes de 
+grupos de produtos podem afetar seu tráfego ao estimar 
+como poderiam ter sido os resultados de seus anúncios 
+nos últimos sete dias, caso você tivesse definido lances 
+diferentes. 
+Saiba mais sobre como monitorar e otimizar suas Campanhas do 
+Shopping» 
+4.7  Usar o "Simulador de lances" com as Campanhas 
+do Shopping 
+O "Simulador de lances" ajuda a esclarecer de que maneira lances 
+diferentes de grupos de produtos podem afetar seu tráfego ao 
+estimar como poderiam ter sido os resultados de seus anúncios nos 
+últimos sete dias, caso você tivesse definido lances diferentes. 
+Utilize essa ferramenta na guia "Grupos de produtos" para medir o 
+valor de lance que tem maior chance de alcançar o desempenho que 
+você deseja com o orçamento disponível. Depois disso, aplique 
+rapidamente seu novo lance a seus grupos de produtos ou a todas as 
+subdivisões de um grupo de produtos. 
+Como funciona 
+O "Simulador de lances" coleta e analisa dados dos leilões de 
+anúncios no Google dos últimos sete dias, ao mesmo tempo em que 
+considera informações, como a qualidade de seus anúncios, os 
+lances dos concorrentes e os dados do produto. Em seguida, a 
+ferramenta utiliza essas informações para estimar de que maneira 
+determinadas alterações poderiam ter afetado seus cliques, custos, 
+impressões e conversões. 
+Grupos de produtos qualificam-se para o Simulador de lances 
+quando os anúncios do Shopping tiverem sido incluídos em leilões 
+suficientes ou acumulado impressões suficientes. 
+Ao utilizar o "Simulador de lances" para um grupo de produtos com 
+subdivisões: 
+Visualize as alterações de lances como um todo e modele as 
+alterações para os grupos de produtos não excluídos, mesmo 
+quando grupos de produtos não tenham dados suficientes 
+individualmente. Você também pode utilizá-lo 
+para ver o que aconteceria se você aumentasse ou diminuísse todos 
+os seus lances em uma porcentagem específica (10%, por exemplo) 
+para grupos de produtos dentro da subdivisão. Então, você pode 
+aplicar o ajuste de lance nesses grupos de produtos com apenas 
+alguns cliques. 
+Nota:  o ajuste de lances não estará disponível se algum dos grupos 
+de produtos estiver subdividido por código de item.  Guia de aperfeiçoamento do Exame de publicidade em Shopping  |  Módulo  4 
+Você pode simular o que aconteceria se alterasse todos os seus 
+lances do grupo de produtos subdividido para um valor fixo. Se você 
+optar por aplicar uma dessas alterações de lances aos grupos de 
+produtos, seus lances padrão de grupos de anúncios serão alterados 
+para esse valor fixo, e seus lances em nível de grupos de produtos 
+serão removidos. 
+Alterações de lances em vários grupos de produtos podem 
+aumentar o tráfego significativamente, o que poderia fazer com que 
+você atingisse o limite do orçamento. Mostraremos a você o custo 
+projetado para alterações de lances, e talvez seja necessário 
+aumentar o orçamento para tirar o máximo proveito de seu ajuste de 
+lance.
+Saiba mais sobre como utilizar o "Simulador de lances" nas 
+Campanhas do Shopping» 
+4.8 Práticas recomendadas para Campanhas do 
+Shopping 
+Embora as Campanhas do Shopping sejam flexíveis o suficiente 
+para atender à maioria das metas de publicidade, talvez você ainda 
+queira aperfeiçoar sua estratégia ou aprender novas maneiras de 
+otimizar sua campanha. 
+● Organize sua campanha com base em suas metas. 
+● Crie uma campanha para promover seus produtos mais 
+vendidos e outros subconjuntos. 
+● Utilize o acompanhamento de conversões e os lances de 
+eCPC. ● Priorize suas campanhas sazonais, com promoções 
+especiais e/ou que vendem mais. 
+● Pense seus lances de maneira estratégica. 
+● Aumente os lances em itens, marcas e categorias que você 
+mais converte. 
+● Garanta que todos os seus produtos sejam abrangidos 
+pelos anúncios. 
+● Pense estrategicamente sobre "Todo o resto" para reduzir 
+conflitos de lances. 
+● Utilize dados comparativos de mercado para se manter 
+competitivo. 
+● Dê lances por código de item (para anunciantes 
+experientes). 
+● Crie uma campanha específica para um idioma. 
+Saiba mais sobre práticas recomendadas para Campanhas do 
+Shopping» 
+Você gostou do que aprendeu? Faça o Exame de publicidade em 
+Shopping» 

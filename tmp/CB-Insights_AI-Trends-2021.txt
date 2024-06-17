@@ -1,0 +1,805 @@
+1
+1
+CLICK HERE TO SIGN UP FOR A FREE TRIALC
+B Insights helps the world’s leading companies make 
+smarter technology decisions with data, not opinion. 
+Our Technology Insights Platform provides companies 
+with comprehensive data, expert insights and work management tools to drive growth and improve operations with technology. WHAT IS CB INSIGHTS?CB Insights helps us compress our 
+time-to-decision when gathering and 
+analyzing data and getting an external 
+view on what's happening in the market 
+so we can quickly take action. 
+Meraj Mohammad 
+Vice President, Ventures Group, ADP 
+4
+We break down no- code AI, stream processing, data 
+governance, and other top trends in the space. ENTERPRISE AI
+AI companies raised a record $33B in equity funding in 2020. 
+As commercial applications of AI scale rapidly, enterprises are 
+looking to overhaul existing data management practices to become “AI -first.” Organizations are seeking best practices for 
+sourcing and storing big data in different formats, deploying AI models, monitoring their performance, and developing ethical solutions that are compliant with new regulations.
+In this report, we look at trends in enterprise data management 
+in the context of AI, automation in IT and DevOps, no -code 
+solutions to enable non-experts to develop AI models, and more. 
+5Track the latest 
+private enterprise 
+AI companies and 
+deals using the CB Insights 
+AI Collection .
+6Contents
+No-code AI platforms take off
+AIOps: IT and DevOps automation gains 
+traction
+Graph neural nets find mainstream 
+enterprise applications
+Stream processing: Capturing real -time 
+IoT data for AI applicationsAnalytics vendors increase support for 
+unstructured data types
+Transformers, multilingual models 
+improve enterprise NLP
+Data governance and explainable AI7
+1
+5
+23
+3140
+48
+567No-code AI platforms take off8What is 
+no-code AI?Low-code and no -code solutions allow users without coding 
+expertise to build applications. While these have been around 
+for decades, no -code AI platforms are relatively nascent. 
+Companies that offer no -code AI solutions allow enterprise 
+users to build and deploy AI models through a “drag -and-drop” 
+interface.
+No-code AI enables teams without IT or data engineering 
+experience to integrate machine learning (ML) applications 
+into enterprise workflows, automate data pre- processing, 
+reduce time- to-deployment, and narrow the skills gap in 
+machine learning.9“Covid -19 has accelerated the urgent need for every business 
+to create no -code, low -code apps and workflows in hours or 
+days, not weeks or months . Power Platform [Microsoft’s AI -
+powered BI platform] is already used by more than 3.4M 
+citizen developers and business decision-makers.”  
+Satya Nadella, Microsoft CEO, 
+Q3’20 earnings call
+WHAT EXECUTIVES ARE SAYING10The emerging no -code AI ecosystem
+VC-backed companies
+Other developer toolsCreateMLAutoML , 
+Teachable Machine
+SageMaker
+Autopilot
+Lobe.ai, 
+AI BuilderCorporates
+Stage: Seed
+Total funding: $4.2M
+Last raised: Dec ‘20
+Stage: Seed
+Total funding: NA
+Last raised: Apr ‘20Stage: Series F
+Total funding: $750M
+Last raised: Dec ‘20Stage: Series B
+Total funding: $37M
+Last raised: Nov ‘20Stage: Series A
+Total funding: $16M
+Last raised: June ’20
+Stage: Seed
+Total funding: $3M
+Last raised: June ’20Stage: Series B
+Total funding: $12M
+Last raised: Dec ’20
+Stage: Seed
+Total funding: $1.7M
+Last raised: Jan ‘21Stage: Seed
+Total funding: $2.3M
+Last raised: July ’20Stage: N/A
+Total funding: $4.6M
+Last raised: Nov ‘20
+Stage: Seed
+Total funding: $0.12M
+Last raised: Apr ‘17 Y Combinator
+June ‘20
+Stage: Series A
+Total funding: $8.5M
+Last raised: Dec ‘20
+Stage: Seed
+Total funding: $7M
+Last raised: Mar ‘20
+Source: cbinsights.com
+Stage: Series A
+Total funding: 18M
+Last raised: Apr ‘20
+Stage: Series C
+Total funding: 37M
+Last raised: Dec ’15
+ShareInsights
+ Ex Machina11What big tech companies are doing in no -code AI
+Key highlights and product launches from Google, Microsoft, Apple, and Amazon
+Google AutoML Vision, 
+Teachable Machine
+For computer vision 
+applications and in -browser ML 
+experimentsMicrosoft’s Lobe.ai M&A 
+Lobe.ai is a no -code tool for 
+image classification
+Microsoft AI Builder
+No-code tools for business 
+intelligence applications on 
+Microsoft's Power PlatformAmazon SageMaker
+Autopilot
+Automatically chooses the right 
+algorithm and fine -tunes the AI 
+model
+2017 2020 2018 2019Apple CreateML
+Apple introduces no -code model 
+development
+Google AppSheet
+Google acquires no- code 
+solution for app developers12
+C3.ai launches Ex Machina
+C3.ai went public with a $4B valuation in 
+December 2020. Around the same time, 
+it launched Ex Machina, a no -code 
+platform with support for data preparation, model development, and 
+integration with C3.ai’s business intelligence suite. 
+C3.ai’s initial client list spans energy & 
+utility –where the company has an 
+established presence –as well as 
+banking, manufacturing, and government agencies.
+13No-code computer vision lowers barrier to entry for 
+app developers
+Lobe.ai: Computer vision 
+tasks including gesture, 
+pose, color, and emotion 
+recognitionSuperannotate :Image 
+annotation platform for 
+training AI modelsFritz AI :Augmented 
+reality applications and ML model development 
+for Snapchat Lens and 
+mobile app developersTeachable Machine:
+Pose, sound, and image 
+recognition
+14Mastercard, Lux Capital, and others are backing 
+industry-specific solutions
+Signzy is developing no -code AI for 
+customer verification and onboarding 
+solutions for banks and financial 
+institutions. These include document 
+and ID verification, as well as risk intelligence.
+Select investors: Mastercard, Vertex 
+Ventures; previously incubated in the 
+Facebook India Innovation Hub and 
+Google for Startups AcceleratorRunwayML is building an AI -based 
+photo and video editing toolkit for 
+content creators, including options to 
+create synthetic media using 
+generating adversarial networks (GANs). 
+Select investors: Lux Capital Ushur creates end- to-end automation 
+solutions for customer engagement, 
+such as virtual assistant tech and 
+automated email processing. Ushur
+works with companies including 
+Cigna, Aetna, HealthSpire , and others.
+Select investors: Plug and Play 
+Accelerator, 8VC, Plug and Play Ventures, Third Point Ventures, Iron 
+Pillar, Aflac Corporate VenturesBANKING MEDIA INSURANCE
+15AIOps: IT and DevOps automation 
+gains traction16What is AIOps, 
+or AI for IT operations?Enterprise IT infrastructure is becoming more complex with 
+hybrid cloud technology, on -prem, distributed databases, 
+containerization, and microservices architecture. As a result, AIOps —using machine learning to automate IT and DevOps 
+functions —is gaining traction. 
+AIOps can help enterprises detect anomalies in traffic based 
+on historic data, monitor logs to pinpoint the source of 
+performance issues, monitor applications across multi -cloud 
+and on -prem environments, and find security vulnerabilities in 
+code.
+Cloud and software services vendors are adding the tech to 
+their offerings as enterprises face increasing costs incurred from IT outages.17"Our real -time analytics and monitoring offerings are mission-
+critical for our customers as they face a growing complex 
+application environment .To simplify and automate their IT 
+operations, we recently launched AIOps, leveraging AI 
+machine learning and automation...” 
+Chuck Robbins, Cisco CEO,
+marking the first -ever mention of AIOps on an earnings call
+WHAT EXECUTIVES ARE SAYING18AIOps companies attracted record funding in 2020
+Note: We include startups providing AI -based IT automation and DevOps solutions.PRIVATE MARKET TRENDS
+Deals and equity funding ($M), 2016 –2020
+$102 $109 $205 $433 $62020
+152131
+23
+05101520253035
+$0$150$300$450$600$750
+2016 2017 2018 2019 2020Deal count Funding amount ($M) 19New unicorns: DevOps vendors raise significant funding
+Harness uses machine learning to automate CI/CD 
+(continuous integration and continuous delivery, or 
+the handling of frequent code changes to 
+applications). SoulCycle reportedly used Harness to 
+reduce its deployment times from 60 minutes to 10 -
+15 minutes. 
+Latest round: $115M Series C in Q1’20 at $1.7B 
+valuation 
+Select investors: Norwest Venture Partners, Battery 
+Ventures, Citi VenturesSnyk is an applications security company that uses AI 
+to find and fix vulnerabilities in code. It supports open -
+source, container, and infrastructure -as-a-code 
+security. In Q3’20, Snyk acquired DeepCode, an ETH 
+Zurich spin -off that helps software developers with 
+real-time analysis of their code as they write it. 
+Latest round: $175M Series E in Q1’20 at $4.7B 
+valuation
+Select investors: Google Ventures, Accel, Salesforce 
+Ventures, Canaan Partners
+Note: Unicorns are private companies valued at $1B+.
+20Notable deals in testing and anomaly detection
+In Q4’20, Carbon Relay , which automates Kubernetes 
+app deployment, acquired automated performance 
+testing platform StormForger and rebranded as 
+StormForge to offer AI- based container application 
+testing and performance optimization.
+Latest round: $63M Series B in Q1’20 Select investors: Foxconn Technology Ventures, 
+Insight PartnersLogz.io detects anomalies in logs data. By cross-
+referencing with crowdsourced data from forums like 
+Stack Overflow and GitHub, it surfaces relevant logs 
+associated with a production issue. 
+Latest round: $23M Series E in Q4’20 
+Select investors: Giza Venture Capital, 83North, 
+OpenView Venture Partners, Vintage Investment 
+Partners, General Catalyst, next47
+21ScienceLogic develops automated 
+troubleshooting, hybrid cloud monitoring, 
+network monitoring, and other IT 
+automation solutions. The company was 
+granted 2 US patents in 2020 , including 
+one for a “self -configuring network 
+management system.” 
+Select investors: Intel Capital, Goldman 
+Sachs, Silver Lake, NewView Capital, New 
+Enterprise AssociatesSelect clients: HCL, Kellogg, BlackBerry, 
+Cisco, JPLTotal funding: 
+214MScienceLogic raises $105M from Intel, Goldman Sachs
+Latest round: $105M Series E 
+in Q1’2122Corporates are acquiring for AIOps
+IBM acquired Instana in Q4’20 
+to bolster Watson AIOps (a 
+product announced earlier in 
+2020). Instana builds 
+application monitoring tools 
+with AI -based 3D performance 
+visualization and automated notifications for DevOps 
+teams.ServiceNow acquired Israel -
+based log analytics startup 
+Loom Systems in Q1’20. 
+ServiceNow made 4 AI 
+acquisitions last year, 
+including Sweagle , an AI -based 
+configuration management tool. It also struck a 
+partnership with IBM for AIOps 
+and IT management. In its 
+earnings call in Q3’20 , HP 
+announced the launch of Aruba Edge Services Platform (Aruba 
+ESP), combining AIOps and 
+security features to “unify, automate, and secure the 
+edge.” Additionally, to 
+strengthen its AIOps platform 
+HPE Infosight, HP acquired IT 
+infrastructure monitoring 
+software 
+CloudPhysics in 
+Q1’21.APPLICATION MONITORING LOG ANALYTICS OPERATIONAL INSIGHTS
+23Graph neural nets find mainstream 
+enterprise applications24What are graph 
+neural nets?Most machine learning techniques are designed to work on 
+tabular data or relational databases. But the rise of graph 
+databases such as Amazon Neptune, Neo4j, and TigerGraph
+has created a need for machine learning techniques tailor -
+made for graphs.
+Graph databases consist of nodes (individuals/entities) and 
+edges (the relations between them). A graph- based approach 
+works well for applications like advanced material discovery, 
+drug R&D (where atoms are nodes, and the interactions between them are the edges), anti -money laundering, anti -
+fraud, and enterprise recommendation systems.
+This has given rise to interest in graph neural networks 
+(GNNs), or applying machine learning and neural nets to a 
+graph database.25“Applications of graph-based ML at Twitter are abundant and 
+exciting. Graphs in different forms are the core data assets 
+generated by people using our platform… Developing ML 
+methods capable of taking advantage of these data assets is 
+important for making Twitter a better place for 
+public conversation.” 
+Michael Bronstein, head of graph learning research, Twitter
+WHAT EXECUTIVES ARE SAYING26Graph database patents trend up over last decade
+Note: By date of filing; patterned column(s) may show decline due to publishing delay.PATENT ANALYTICS
+Patent activity related to graph databases, 2001 –2020
+27Amazon launches Neptune ML f or customer retention, 
+fraud detection, and more
+Amazon launched its own graph 
+database called Neptune in 
+2017. Three years later, the tech 
+giant launched Neptune ML, 
+machine learning specifically 
+built for graphs. The solution provides the database and 
+analytics support for enterprise 
+customers.
+Neptune ML is built on the Deep 
+Graph Library , an open- source 
+graph neural network library with 
+contributions from Intel, Nvidia, 
+and others.  
+28Graph neural nets power recommendation systems
+In 2019, Twitter acquired Fabula AI , a 
+company building GNNs to detect 
+social network manipulation. 
+In 2021, Twitter published research on 
+applications of deep learning on 
+dynamic graphs which “evolve over 
+time, with prominent examples 
+including social networks, financial 
+transactions, and recommender 
+systems.”In 2019, Alibaba published a paper on 
+AliGraph , a graph neural net system 
+already deployed internally to power 
+personalized search and e- commerce 
+recommendations. 
+The tech was also used during 2020 
+Singles Day in China to generate 3D 
+models of items like furniture on 
+Alibaba’s e -commerce site Taobao.Uber Eats uses GraphSAGE , a 
+framework developed by Stanford, to 
+recommend dishes and restaurants to 
+users. The company reports 
+“significant improvements in recommendation quality and 
+relevancy.”SOCIAL NETWORKS E-COMMERCE ON-DEMAND DELIVERY
+29
+Google improves Maps, 
+advanced materials research
+The Google Maps team has partnered 
+with Alphabet subsidiary DeepMind to 
+use GNNs to improve the service’s ETA 
+predictions.
+In Q2’20, DeepMind published research 
+on using GNNs to understand the 
+formation of glass, with implications for 
+manufacturing and other sectors. In the 
+project, the nodes and edges were 
+particles and the interactions between 
+them, respectively. AI was used to 
+predict the movement of molecules as 
+they transitioned between solid and 
+liquid states.
+30
+Integrating ML analysis with 
+graph database -as-a-service 
+offerings
+The graph databases market is 
+expected to grow at a 17.7% CAGR to 
+reach $4.6B by 2027, fueling a need for 
+machine learning techniques tailor -
+made for graphs.
+Neo4j , a popular graph database 
+vendor, announced graph machine learning tools for enterprises in Q4’20. It 
+raised $30M that quarter, reaching a 
+valuation of $532M. 
+31Stream processing: Capturing real -time IoT 
+data for AI applications32What is stream 
+processing?As the number of real -time data sources grows with the 
+proliferation of IoT, traditional batch processing methods –
+which store data and retrospectively analyze it in batches –
+can result in missed opportunities for enterprises.
+Organizations increasingly want instantaneous analysis and 
+decision- making capabilities. This has raised interest in 
+stream processing technologies, where data is viewed as a 
+“stream of events” that is constantly generated.
+Stream processing powers AI apps that are responsive in real 
+time. Meanwhile, the streaming process itself can benefit 
+from the use of machine learning. 33“We're seeing a lot more interest in terms of real -time data 
+analytics, especially with 5G and IoT use cases… We have 
+streaming capabilities in the product just now, but we're also 
+investing to develop more streaming capabilities as we go 
+through 2021.”
+Mark Culhane, CFO, Teradata
+Q4’20 earnings call
+WHAT EXECUTIVES ARE SAYING34The streaming analytics market is a $52B opportunity
+Note: Based on CB Insights market sizing aggregate data.MARKET SIZE 
+35Technologies enabling the streaming ecosystem
+Stream processing technology has benefited from the 
+availability of open -source tools. Apache has several 
+distributed streaming platforms under its umbrella, lowering the barrier to entry for developers who want to 
+integrate streaming analytics into their enterprise 
+workflows. 
+Kafka, which LinkedIn contributed to developing, is one 
+of the most popular services currently used today.In-memory computing pools together parallel 
+distributed random access memory (RAM) from 
+multiple computers to store and process data at high 
+speeds, making analysis thousands of magnitudes 
+faster than traditional memory. 
+The advantages of in -memory computing make it a 
+natural enabler of stream processing.OPEN- SOURCE TOOLS IN-MEMORY COMPUTING 
+36Cloudera acquires streaming analytics vendor Eventador
+Cloudera acquired Texas -based seed -
+stage stream processing company 
+Eventador in Q4’20. 
+Eventador has introduced several 
+features to improve machine learning 
+pipelines for data science teams, 
+including introducing SQL queries for 
+use on streaming data. 
+Cloudera CEO Rob Bearden said 
+during the company’s Q3’21 earnings 
+callthat it will be increasingly 
+focused on solutions like real- time 
+analytics for streaming data.
+37Vendors are expanding to offer solutions for the entire streaming 
+ecosystem
+Hazelcast is one of the most popular 
+vendors in the in- memory computing 
+space, with $88M in funding from Bain 
+Capital Ventures, Earlybird Venture 
+Capital, and others.
+Hazelcast has been iteratively building 
+more stream processing capabilities by 
+introducing Hazelcast Jet, which works 
+in tandem with its in- memory tech 
+Hazelcast IMDG (in -memory data grid). 
+In 2020, Hazelcast announced support 
+for machine learning inference in Jet.38
+Striim positions itself as an 
+end-to-end solutions provider
+Striim , which raised its first round of 
+funding in 2013, is positioning itself as a 
+“one -stop shop” for building and 
+deploying streaming infrastructure, including:
+•Log-based change data capture, with 
+support for multiple source and 
+target types
+•In-memory stream processing
+•Streaming SQL (a SQL -like 
+programming language for interacting with streaming data)
+•Edge processing and cloud 
+integration capabilities
+39AI can help parse data from various sources automatically 
+Data streams can originate 
+from IoT sensors, social 
+media, or real -time changes 
+to relational databases. In the image to the right, 
+leading data integration vendor Informatica’s CLAIRE 
+AI engine automatically 
+recognizes the structure of 
+incoming data and parses it.
+To strengthen CLAIRE’s 
+capabilities, Informatica 
+acquired data management 
+company 
+GreenBay
+Technologies in Q3’20.
+40Analytics vendors increase support for 
+unstructured data types41What is 
+unstructured data analysis?Around 80% of big data today is unstructured, meaning it is 
+without a predefined format and is not searchable by 
+organizations. 
+The commercialization of AI in recent years has enabled 
+enterprises to mine unstructured data and unlock 
+information that was previously inaccessible. The number 
+of alternative data sources has also increased and 
+includes IoT sensors, images, social media posts, and 
+surveillance videos. 
+Support for unstructured data formats and pipeline 
+management solutions has become a necessity for cloud 
+data management and business intelligence vendors.42“…it's why we're implementing Project Ascent, for us to bring 
+on more than 100 alternative data sources over the next 
+couple years... being able to bring new and unstructured 
+sources of data in and connecting it to a D-U-N -S Number to a 
+specific client...” 
+Anthony Jabbour , Dun & Bradstreet CEO,
+Q2’20 earnings call
+WHAT EXECUTIVES ARE SAYING43 Note: This is a selection of alternate dataset -based product developers and analytics vendors. It isnot a comprehensive list of all companies in a space.OUTBREAK MONITORING
+ SATELLITE IMAGE ANALYTICS
+OCEAN DATA
+CUSTOMER BEHAVIORAL BIOMETRICS
+SMART CITY AND TRAFFIC 
+DATA
+AIR QUALITY DATA
+WEATHER INTELLIGENCE
+GEO-LOCATION DATA
+SUPPLY CHAIN RISK PREDICTION
+ALT DATA FOR PROPERTY DAMAGE ASSESSMENT
+MEDIA AND CUSTOMER SENTIMENT ANALYSIS
+EMOTIONAL INTELLIGENCE
+ALT CREDIT SCORING/LENDING
+CUSTOMER FEEDBACK AND VOICE DATA (SALES & CRM)
+Alt and unstructured data become commonplace in business intel
+ENVIRONMENT & ECONOMIC FORECASTING CUSTOMER & BRAND DATA44Audio transcription patents trend up 
+Note: By date of filing; patterned column(s) may show decline due to publishing delay.PATENT ANALYTICS
+Patent activity related to unstructured data types, 1999 –2020
+45Venture capital firms back unstructured document 
+analysis vendors 
+Latest round: $22M 
+Series B in Q4’20
+Select investors:
+.406 Ventures, Jump 
+Capital, Osage 
+Venture Partners, 
+Sandbox Insurtech 
+VenturesLatest round: 80M 
+Series D in Q4’20
+Select investors:
+Bessemer Venture 
+Partners, Battery 
+Ventures, FirstMark
+Capital, Tiger Global 
+ManagementLatest round: $13M 
+Series B in Q3’20
+Select investors:
+QED Investors, 
+Bullpen Capital, 
+FinTech Collective, RiverPark VenturesLatest round: $12M 
+Series B in Q3’20
+Select investors:
+Grazia Equity, Plug 
+and Play Ventures, 
+BlackFin Capital 
+PartnersLatest round:
+Series C in Q1’21 for 
+undisclosed amount
+Select investors:
+Insight Partners, Oak 
+HC/FT Partners
+46Corporates mine audio data, climate risk scores, and more
+S&P Global acquired analytics 
+company Kensho in 2018, which 
+launched a transcription feature called 
+Scribe to extract unstructured audio 
+data. Kensho has created other AI 
+solutions including ProSpread , which 
+supports data extraction in 9 languages using optical character 
+recognition and natural language 
+processing. 
+In 2018, S&P also acquired 
+Panjiva , a 
+company that analyzes unstructured 
+shipping and trade data. In a Q2’21 earnings call , Microsoft CEO 
+Satya Nadella reported strong growth in the company’s analytics business. 
+He added that FedEx, Grab, P&G, and 
+others use Microsoft’s Synapse “to 
+generate immediate insights from 
+massive amounts of structured and 
+unstructured data.” In June 2020 
+alone, over 9M hours of speech were 
+transcribed using Azure Cognitive 
+Services. 
+In Q3’20, Microsoft acquired 
+Orions
+Systems to tag and manage 
+unstructured data in video feeds. Moody’s launched DataHub in Q1’21, 
+combining structured and 
+unstructured datasets for financial 
+risk management with billions of data 
+points, including climate risk scores 
+and ESG (environmental, social, and 
+corporate governance) assessments.AUDIO TRANSCRIPTION VIDEO, AUDIO ANALYTICS FINANCIAL RISK MANAGEMENT
+47Rubrik and Snowflake add unstructured data support
+CLOUD DATA MANAGEMENT
+Rubrik expanded its unstructured data management 
+capabilities with the acquisition of Igneous in Q4’20. 
+Igneous initially built hardware for on -prem storage of 
+unstructured data and later expanded to cloud data 
+management. 
+Total funding: $553M 
+Valuation: $3.3B
+Select investors: Lightspeed Venture Partners, Khosla 
+Ventures, Bain Capital Ventures, Greylock PartnersDATA WAREHOUSING
+Snowflake added support for unstructured data 
+management –including for images, PDFs, and video 
+files – in addition to structured and semi -structured 
+data types. The feature was released in private preview 
+in Q4’20. 
+Exit date: Sep ’20 (IPO)
+Exit valuation: $33.3B valuation
+Select clients: Siemens, Comcast, Instacart, Logitech
+48Transformers, multilingual models improve 
+enterprise NLP49What are 
+Transformer models?Google introduced a language model called Transformer in 
+2017. The following year, it launched BERT, another model 
+based on Transformer. With these models, Google 
+delivered breakthrough improvements in natural language 
+processing (NLP) and understanding. Around the same 
+time, OpenAI launched its now -popular Generative Pre -
+trained Transformer (GPT) AI series.
+Transformer- based models, or Transformers, are “pre-
+trained” without the need for labeled datasets, removing a 
+huge bottleneck in NLP progress. In pre -training, an AI 
+model is trained on an enormous amount of text readily 
+available on the internet. This way, the model understands 
+context of words and relations between sentences. 
+Transformers are leading to breakthroughs in sentiment 
+analysis, translation, reading comprehension, gaming, and 
+more.50“And just as AlexNet 7 years ago kind of was the watershed 
+event for a lot of computer vision -oriented AI work, now the 
+Transformer -based natural language understanding model 
+and the work that Google did with BERT really is a watershed 
+event also for natural language understanding … that 
+breakthrough is really quite significant.” 
+Jensen Huang, Nvidia CEO,
+Q3’20 earnings call
+WHAT EXECUTIVES ARE SAYING51Recent breakthroughs in natural language processing
+Key research highlights from Google and OpenAI
+Google’s Transformers
+New neural net architecture for 
+language understanding 
+outperforms older approaches
+Google’s BERT
+Transformer -based bi -
+directional AI pre -trained with 
+Wikipedia text, where a word is 
+taken in the context of 
+preceding & succeeding wordsOpenAI’s GPT-2
+AI pre -trained with 8M pages of 
+internet textGPT-3 produces 
+human- like text
+Larger and more compute-
+intensive than GPT -2; OpenAI
+releases an API integration
+2017 2020 2018 2019OpenAI’s GPT
+Transformer -based 
+unidirectional contextual AI 
+model, where a word is taken in 
+the context of words preceding 
+it in a sentence52NLP models get bigger and better
+Note: Image published in Q1’20 before the release of OpenAI’s GPT -3 and Google’s 1T+ -parameter model. Image source: Microsoft, DistilBERTPublished in Q1’20, 
+Microsoft claimed its 
+Turing Natural Language 
+Generation (T- NLG) model, 
+with 17B parameters, outperformed others in tasks like question 
+answering and 
+summarization.
+In Q2’20, OpenAI beat this 
+record with its GPT -3, with 
+100B+ parameters. Google 
+took the lead in Q1’21, 
+releasing a model with 1T+ 
+parameters.
+The number of parameters in AI language models over time, Q1’18 –Q1’2053
+APIs make advanced NLP tech 
+accessible to enterprises
+In Q2’20, OpenAI released GPT- 3, larger 
+and even more compute -intensive than 
+its predecessor GPT -2. 
+Due to potential for misuse, OpenAI
+initially didn’t release the entire source 
+code of GPT -3, but later licensed the 
+tech to Microsoft and made it available via a limited beta API.
+“Unlike most AI systems which are 
+designed for one use -case, OpenAI’s
+API today provides a general -purpose 
+‘text in, text out’ interface, allowing 
+users to try it on virtually any English 
+language task.” –OpenAI blog
+54Early applications of GPT -3’s language generation
+CUSTOMER SERVICE
+Sapling uses GPT -3 to compose 
+personalized responses to assist 
+sales and customer support teams with customer response. Features 
+include autocomplete and spelling 
+and grammar checks.GAMING
+Utah -based 
+AI Dungeon is 
+developing a text -based 
+adventure game where an AI 
+model generates open -ended 
+storylines based on GPT -3. The 
+game reportedly attracts 1.5M 
+active users per month.VR/GAMING 
+In Q1’21, Modbox , a sandbox for 
+PC/AR/VR multiplayer games, released 
+a demo of an AI -driven NPC (non -player 
+character) using GPT -3 and Replica 
+software for natural language understanding and speech synthesis.
+55Facebook AI’s milestone in language translation
+In Q4’20, Facebook open- sourced a multilingual 
+machine translation model, M2M -100, that can 
+translate between 100 languages “without 
+relying on only English -centric data.” The model 
+relies on a dataset with 7.5B sentences. 
+Earlier, in Q3’19, Facebook developed its own 
+version of BERT, called RoBERTa , to moderate 
+hate speech on its platform. 
+That same quarter, FB open- sourced a speech 
+recognition model that bypasses the need for 
+manually annotated transcripts. Called 
+wav2vec, it is particularly useful for speech 
+recognition in non- English languages, where 
+annotated training data is sparse.
+56Data governance and explainable AI57What are data 
+governance and explainable AI?Establishing protocols for sourcing, handling, and using 
+data is crucial for developing ethical AI solutions and 
+preventing algorithmic bias in outcomes. 
+Strong governance is the foundation of AI explainability . 
+Enterprises may not know what an algorithm is “seeing” in 
+the input data or why it arrives at a certain conclusion. For 
+example, in lending, where consumers are protected 
+against discrimination, banks need visibility into the inner 
+workings of an algorithm. 
+To comply with regulations like GDPR and CCPA, vendors 
+are increasingly focusing on explainability , bias monitoring, 
+and strong governance.58“Data governance is top of mind for every business leader 
+and will grow into an important category on its own as critical 
+as any AI or analytics category today. We are investing to 
+participate in this growth…Azure Purview provides an end -to-
+end view of an organization's data state across on-premise, 
+multi-cloud, and SaaS apps that previously was impossible.”
+Satya Nadella, Microsoft CEO,
+Q2’21 earnings calls 
+WHAT EXECUTIVES ARE SAYING59
+Ethical concerns mount as AI takes 
+bigger decision -making role in more 
+industriesAI regulation and ethics in focus
+Recent news mentions
+Why companies are thinking twice about using artificial intelligence
+[Global] alliance aims to accelerate the adoption of inclusive, trusted and transparent AI worldwide
+ Why this is the year for regulation that finally reins in AI
+Oct ’20
+Jan ‘21Jan ‘21
+Feb ‘21
+60Companies are using AI for data governance, which is 
+key for ethical AI
+Dathena is an AI -enabled data privacy 
+and security vendor that monitors on-
+prem and cloud data. Dathena has a co-
+sell partnership with Microsoft. 
+Latest round: $12M Series A in Q2’20
+Select investors: Jungle Ventures, 
+CapHorn Invest, CerraCap Ventures; 
+previously participated in Microsoft AI 
+Factory and Nvidia InceptionPrivacera develops software -as-a-
+service for cataloging sensitive data across multi -cloud environments.
+Latest round: $50M Series B in Q1’21
+Select investors: Accel, Point72 
+Ventures, Cervin Ventures, Alchemist 
+AcceleratorSecuriti builds an AI -powered 
+PrivacyOps platform, RPA solutions, 
+and tech to automatically link 
+personal data to users.  
+Latest round: $50M Series B in Q1’20 
+Select investors: Mayfield Fund, 
+General Catalyst
+61Media mentions of explainable AI peak in 2020
+Note: Based on CB Insights news trends tool.NEWS TRENDS
+“Explainable AI: A Must For 
+Nuclear Nonproliferation, National Security” –Pacific Northwest 
+National Laboratory •“Fiddler Secures Strategic Investment from Amazon Alexa Fund” –FinSMEs
+•“Appen Partners with World Economic Forum to Create Responsible AI Standards” –Unite.AI
+•“NIST Issues Draft Publication on ‘Explainable’ AI” –ExecutiveGov
+“Temenos Acquires a SaaS -based, Patented, 
+Explainable AI (XAI) 
+Platform” –AiThority
+“DARPA sees future wars won 
+with hypersonic weapons and 
+artificial intelligence” –Business 
+Insider (mentioning DARPA’s explainable AI research program)“FICO Announces xML
+[explainable ML] Challenge” 
+–PR Newswire62Fiddler develops a platform for 
+enterprises to build explainable AI 
+models. Lockheed Martin recently 
+partnered with Fiddler, calling 
+explainable AI tech key to building successful AI solutions.
+Select investors: Amazon Alexa 
+Fund, Lockheed Martin Ventures, 
+Lux Capital, Lightspeed Venture 
+Partners, Haystack Ventures, 
+Bloomberg BetaTotal funding: 
+13MValuation: $31M
+Alexa Fund, Lockheed Martin back explainable AI company
+63Risk management: Monitoring AI performance and bias
+Weights & Biases develops tools to track 
+model performance and ensure AI experiments 
+are reproducible. Its tech is used by companies 
+including OpenAI and John Deere.
+Latest round: $45M Series B in Q1’20 
+Select investors: Insight Partners, Trinity 
+Ventures, Bloomberg Beta, Coatue
+Management ArthurAI ’splatform tackles model monitoring 
+and performance optimization, bias detection, 
+and explainability. 
+Latest round: $15M Series A in Q4’20 
+Select investors: Index Ventures, Homebrew, 
+Work -Bench, AME Ventures, Plexo Capital, 
+Acrew Capital
+ML EXPERIMENT TRACKING MODEL MONITORING

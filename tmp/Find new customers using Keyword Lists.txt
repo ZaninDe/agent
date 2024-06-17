@@ -1,0 +1,95 @@
+BE E GI INN P R S TBE E GI INN P R S T
+BE E GI INN P R S TBE E GI INN P R S T
+K
+D
+E
+I
+L
+O
+R
+S
+S
+T
+W
+Y
+K D E
+ILOR
+S STWYFind new customers using
+The right keyword list can connect your business to a tailored audience with a 
+strong interest in your products. The key to building your list is understanding 
+your target market, and the language they use within search engines.
+What are keywords? 
+Keywords are words or phrases that, when 
+typed into a search engine, connect businesses with people searching for their products online.
+Why are they so important?
+Choosing the right keywords makes sure your ads are seen by the right audience. Ads that perform well cost less and rank higher on the page than those that don’t and are likely to lead to a higher conversion rate.
+of millennials will ignore 
+brands that don’t show up 
+in their searches or have 
+poor reviews.
+*of smartphone users say they 
+aren’t sure of the speciﬁc 
+brand they want to buy when 
+they begin shopping.**of mobile shoppers have 
+changed their mind about 
+which retailer to buy from, 
+after searching on Google.***
+55%
+ 90%
+ 76%
+Choosing and organizing keywords
+If you were searching for your products online, what words would you use? Write down as many keywords as you can for each product you sell, then break them down into categories.Think like a customer
+Use these categories to group your keywords into targeted ad groups. This will keep your account organized, and ensures your ads are relevant.Group similar keywords into themes
+Customers are far more likely to click on your ad if it matches closely with their search. Quality is much more important than quantity, so avoid broad search terms.  Be speciﬁc
+Successful advertisers use 5-20 keywords per ad group. Each ad group that you create should only include keywords that match that group's theme.Pick the right number of keywords
+4
+Keywords
+Using the Keyword Planner, negative keywords,
+and the search terms report
+The Keyword Planner helps you make informed decisions by generating new keyword ideas, projecting cost per click, and giving trafﬁc estimates based on your region. Use the Keyword Planner to ﬁnd and select new keywords
+Add negative keywords to stop your ad from showing for irrelevant searches. For example, add the negative keyword ‘free’ to stop your ad from showing to people looking for free versions of your products.Improve your clickthrough rate with negative keywords
+The search terms report lets you know what people were searching for when they saw your ad and clicked on it, and should be used for campaign optimization.Use the search terms report to optimize your keyword listUse landing pages as part of 
+your strategy
+If a potential customer clicks on an ad for 
+“men’s shoes”, then they expect to be brought to a page dedicated to selling men’s shoes. Getting your ad clicked is only the beginning of the sales journey, make sure the content they arrive on is tailored to their search. 
+A D E E E I I MN T T R IPS TA D E E E I I M N T T R IPS T
+IO P P S T T
+IO P P S T T
+Using keyword match types and choosing
+keywords for the Display Network
+Keyword match types give you greater control over who sees your ads. Broad match works well for brand awareness, while exact match is better for ﬁnding a targeted audience. Consider your business goals and choose the match type that ﬁts with your campaign.Use keyword match types to take control of who sees your ads
+On the Display Network, your keyword list helps us show your ads on relevant websites or apps. Choose keywords that look natural alongside the content your target audience browses.Choose keywords that relate to the websites or apps your customers seeThe Keyword Planner shows a ‘competition rank’ for each search term, ranging from ‘low’ to ‘high’. High competition keywords will be tougher to rank for, and are likely to be more expensive than low competition terms.
+A
+A
+D
+D
+E
+N
+V
+C
+IPS T
+IPS T A A D D E N V CBe sure to include ‘long-tail’ keywords (3 or 4 words long) in your campaign. These searches are highly speciﬁc, and signal that the customer has passed the research stage and is ready to purchase. Long-tail keywords are also usually cheaper than broader options. 
+A G I L L NO T
+A G I L L NO T-
+Although broad or vague keywords may lead to more clicks to your site, they’ll likely result in a high bounce rate and low conversion rate.
+C MM NO O
+C MM NO O
+A E I K M S STA E I K M S ST
+A E I K M S ST
+A E I K M S ST
+C E I I M NO O P T T
+C E I I M NO O P T T
+A KN R
+A KN R
+Now that you’ve built up a strong list of keywords, it’s important that you measure their performance to optimize your campaign. Keyword Planner has all the tools you’ll need, and the Help Centre can answer any other questions you may have.
+To access Keyword Planner, sign in to your AdWords 
+account at http://adwords.google.com/KeywordPlanner . 
+Sources:
+Google Partners- How to build the best keyword list
+AdWords Help Centre - Keywords
+AdWords Help Centre - Understanding landing page experience
+AdWords Help Centre - About Keyword Planner
+*Think with Google - Jun. 2015 Google/Galaxy Research
+**Think with Google - Aug. 2015 Google/Ipsos
+***Think with Google - Jul. 2016. Google/Euromonitor International
+ALP N

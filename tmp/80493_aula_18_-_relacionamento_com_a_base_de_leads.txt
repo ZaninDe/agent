@@ -1,0 +1,185 @@
+Torne-se uma 
+Agência Inbound 
+Relacionamento com a base de Leads Aula 18 Segmentação 
+●Customização em massa 
+○Critérios de segmentação 
+○Criação e atualização dos formulários nas LPS Segmentação 
+●Customização em massa 
+○Critérios de segmentação 
+○Criação e atualização dos formulários nas LPS Segmentação 
+●Customização em massa 
+○Critérios de segmentação 
+○Criação e atualização dos formulários nas LPS Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Lógica de nutrição de Leads 
+●Desenvolvimento na jornada de compra 
+●Cada Lead entra em uma etapa e com uma maturidade diferente 
+●Preparamos a nutrição 
+○Objetivo 
+○Persona 
+○Definir o gatilho 
+○Definir ofertas e cruzar com a jornada 
+○Duração e intervalo 
+○Mensagens Automação de marketing 
+●Listas dinâmicas: 
+○Regras 
+●Ações além do email: 
+○Redes sociais 
+○CRM 
+○Roteamento para vendedor 
+●Fluxo prioritário: 
+○Velocidade e localização na jornada Automação de marketing 
+●Listas dinâmicas: 
+○Regras 
+●Ações além do email: 
+○Redes sociais 
+○CRM 
+○Roteamento para vendedor 
+●Fluxo prioritário: 
+○Velocidade e localização na jornada Automação de marketing 
+●Listas dinâmicas: 
+○Regras 
+●Ações além do email: 
+○Redes sociais 
+○CRM 
+○Roteamento para vendedor 
+●Fluxo prioritário: 
+○Velocidade e localização na jornada Automação de marketing 
+●Listas dinâmicas: 
+○Definir segmentações e novos gatilhos 
+●Ações além do email: 
+○Integrações iniciais 
+○Processos definidos em conjunto 
+●Fluxo prioritário: 
+○Configuração inicial Automação de marketing 
+●Listas dinâmicas: 
+○Definir segmentações e novos gatilhos 
+●Ações além do email: 
+○Integrações iniciais 
+○Processos definidos em conjunto 
+●Fluxo prioritário: 
+○Configuração inicial Automação de marketing 
+●Listas dinâmicas: 
+○Definir segmentações e novos gatilhos 
+●Ações além do email: 
+○Integrações iniciais 
+○Processos definidos em conjunto 
+●Fluxo prioritário: 
+○Configuração inicial Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○passagem de Leads 
+○Revisão periódica Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○passagem de Leads 
+○Revisão periódica Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○Passagem de Leads 
+○Revisão periódica Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○Passagem de Leads 
+○Revisão periódica Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○Passagem de Leads 
+○Revisão periódica Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○Passagem de Leads 
+○Revisão periódica Qualificação de Leads 
+●Qualificação de Leads 
+○Integração Marketing e vendas 
+○Eixos 
+●Como fazer 
+○Reunião de definição de Lead qualificado 
+○Critérios em campos personalizados 
+○Passagem de Leads 
+○Revisão periódica 

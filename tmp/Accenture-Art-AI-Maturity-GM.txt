@@ -1,0 +1,1273 @@
+Advancing from practice to performance
+From i nsights to action, the pa th to extraordina ry value starts here. 
+The art of AI maturity
+Growth Markets
+Asia Pacific, Africa, the Middle East, and Latin America Contents
+AI maturity:  
+Why it 
+matters
+06Appendix Practice  
+makes  
+progressAI maturity:  
+What it is 
+09 14 17 29 35AI Achievers  
+advance 
+from 
+practice to 
+performanceHow AI 
+Achievers 
+master their 
+craftForeword
+03Executive 
+summary
+04
+ 2
+The art of AI maturity—Growth MarketsAs artificial intelligence technologies 
+become more prevalent, some 
+organizations will lead the change, and 
+others will be fast followers. With growing 
+confidence in AI as a value driver, we 
+see companies in Asia Pacific, Africa, the 
+Middle East, and Latin America (Growth 
+Markets) evolving and maturing along with 
+the technology itself. 
+Also, governments in these markets, 
+including China, Singapore, and India, 
+have announced ambitious national 
+AI strategies. In the Middle East, AI is 
+at the center of all national economic 
+development plans over the next few 
+years. 
+While AI continues to attract board level 
+attention and investment, the AI maturity is still evolving. Within the Growth Markets, 
+the AI maturity is picking up pace with 
+17% of companies are what we call “AI 
+Achievers”—that is, they leverage AI’s full 
+potential. 
+In this report, we look at what the AI 
+Achievers are doing right. Our findings 
+demonstrate that Achievers are not 
+defined by the sophistication of any 
+one capability, but by their ability to 
+combine strengths across strategy, 
+processes, and people by scaling AI. The 
+five ways in which AI Achievers master 
+their craft are — 1. Their top leaders 
+champion AI as a strategic priority for 
+the entire organization. 2. They invest 
+heavily in talent to get more from their AI 
+investments. 3. They industrialize AI tools 
+and teams to create a strong AI core. 4. They design AI responsibly, from the start. 
+5. They prioritize long and short-term 
+AI investments.  In the report, we delve 
+deeper into each of these success factors. 
+In most cases the right intentions are yet 
+to be converted into actions. While most 
+companies have begun their Responsible 
+AI journey, the majority (94%) are yet to 
+operationalize across all key elements of 
+Responsible AI. To move from principles to 
+practice, organizations need a structured 
+approach to be responsible by design.
+We hope that the ‘Art of AI maturity’ 
+will serve as an inspiration for business 
+leaders to pave the way for a successful 
+AI maturity journey for their enterprises. 
+With the strong industry momentum, we 
+project the number of AI Achievers, to nearly double (to 32%) by 2024 in Growth 
+markets. 
+Because high-performance today will 
+become business-as-usual tomorrow, 
+there’s an impetus to move quickly and 
+move now. The art of AI maturity – a Growth Markets perspective
+Foreword
+Senthil Ramani
+Senior Managing Director,  
+Growth Markets, Applied 
+Intelligence
+ 3
+The art of AI maturity—Growth MarketsToday, so much of what we take for 
+granted in our daily lives, from travel to 
+shopping, relies on machine learning (ML). 
+Companies across industries are investing 
+in AI to drive logistics, improve customer 
+service, increase efficiency, empower 
+employees and so much more.
+Like their peers in developed economies, 
+few organizations in Growth Markets 
+(GMs)  are capitalizing on AI’s full potential.
+According to our analysis of approximately 
+500 companies in GMs, only 17% of firms 
+have advanced their AI maturity enough 
+to achieve superior growth and business 
+transformation. We call them the    
+“AI Achievers.”Another 30% of firms are somewhat 
+advanced in their level of AI maturity, 
+while the remaining 53% (the majority) are 
+merely testing the waters.
+This decades-long journey to AI maturity 
+is now in high gear. Even pre-pandemic 
+(2019), AI Achievers already enjoyed 56% 
+greater revenue growth, on average, 
+compared with their peers. And in 2021, 
+executives who discussed AI on their 
+earnings calls were 96.7% more likely to 
+see their firms’ share prices increase—up 
+from 64.2% in 2018.In short, advancing AI maturity is no 
+longer a choice. It’s an imperative for  
+every industry, every organization and 
+every leader. 17%  
+of firms have advanced  
+their AI maturity enough 
+to achieve superior 
+performance and growth.Executive summary
+In fewer than 70 years, artificial intelligence (AI) has evolved 
+from a scientific concept to a societal constant.
+53%  
+of firms are still  
+testing the AI waters.
+ 4
+The art of AI maturity—Growth MarketsWhile there’s clearly a science to AI, our findings demonstrate there is also an art to  
+AI maturity. Achievers are not defined by the sophistication of any one capability,  
+but by their ability to combine strengths across strategy, processes and people. 
+Here are five ways AI Achievers master their craft: 
+1.  Their top leaders champion AI as a strategic priority  
+for the entire organization.
+2.  They invest heavily in talent to get more from their  
+AI investments.
+3.  They industrialize AI tools and teams to create  
+a strong AI core.
+4.  They design AI responsibly, from the start. 
+5.  They prioritize long- and short-term AI investments. 
+Our machine learning models suggest that the share of AI Achievers will increase  
+rapidly and significantly, more than doubling from the current 17% to 32% by 2024. 
+In short, advancing AI maturity is no longer a choice. It’s an opportunity facing every 
+industry, every organization and every leader. What do AI Achievers do differently?
+ 5
+The art of AI maturity—Growth MarketsAI maturity: Why it mattersThe art of AI maturitySource: Accenture Research
+Note: Our estimate is derived from a natural language processing analysis of investor calls of 
+the world’s 2,000 largest companies (by market cap), from 2010 to 2021, that referenced “AI” 
+and “digital” in tandem with “business transformation,” respectively. Data was sourced from S&P 
+earnings transcripts.AI maturity: Why it matters
+In 2021, 46% of CEOs mentioned AI on 
+their earnings calls—when they did, their 
+share prices were 96.7% more likely to 
+increase.
+In Growth Markets specifically:
+• 67%  of companies have integrated 
+AI into their business strategies and 
+reworked their cloud plans to achieve 
+AI success. • 38%  of companies said the return 
+on their AI initiatives exceeded their 
+expectations (compared to 42% 
+globally). Only 2% said the ROI did not 
+meet expectations.Figure 1: W e project that AI transformation will take less time than digital transformation
+There is a growing consensus that AI is 
+essential to competitive advantage. 
+AI, accelerated
+AI is now widely considered a value 
+driver. We estimate AI transformation will 
+happen much more quickly than digital 
+transformation—on average, 16 months 
+faster (Figure 1).
+ 7
+The art of AI maturity—Growth MarketsFigure 2: Evolution of companies' AI-influenced revenue share from 2018 to 2024* There’s great incentive to move quickly. We found, 
+for example, that the share of company revenue that 
+is “AI-influenced” more than doubled between 2018 
+and 2021 and is expected to roughly triple by 2024 
+(Figure 2). In response, companies plan to increase 
+and accelerate their AI investments. In 2021, 21% 
+of companies dedicated more than 30% of their 
+tech budgets to AI development. By 2024, 49% of 
+companies intend to do the same.
+Source: Accenture Research 
+Note: *2024 = projected, N = 585Note: Color indicates the achieved AI-influenced revenue threshold within each time period. 
+*Definition of “AI-influenced” revenues:  
+a. Sales of existing products and services made possible through better AI-driven insights on customers, supply chain, channels ; b. Sales 
+of new products and services made possible by human + AI , c. Higher prices through dynamic pricing ML algorithms. These sales include 
+some cannibalization and net new revenues. In contrast, this definition is excluding higher efficiencies in production operations thanks to AI. 
+33%
+ 8
+The art of AI maturity—Growth MarketsAI maturity: What it isThe art of AI maturityAI maturity: What it is
+Fittingly, our analysis itself was conducted 
+using AI. We applied machine learning 
+(ML) models to unravel massive survey 
+datasets and uncover drivers of AI 
+maturity that would have been impossible 
+to detect using more traditional analytical 
+methods. (More on the methodology in 
+the Appendix.) 
+Our research found that AI maturity 
+gives companies a strong competitive 
+advantage. Unlocking this advantage 
+comes down to mastering a set of key 
+capabilities in the right combinations—not only in data and AI, but also in 
+organizational strategy, talent and  culture. 
+(See pages 37 and 38 for key    
+capabilities descriptions.)
+This includes foundational AI 
+capabilities—like cloud platforms and 
+tools, data platforms, architecture and 
+governance—that are required to keep 
+pace with competitors. It also includes 
+“differentiation” AI capabilities, like 
+AI strategy and C-suite sponsorship, 
+combined with a culture of innovation that 
+can set companies apart.W e designed a holistic AI maturity framework to 
+uncover common strategies for AI success. 
+AI maturity measures the 
+degree to which organizations 
+have mastered AI-related 
+capabilities in the right 
+combination to achieve high 
+performance for customers, 
+shareholders and employees.
+ 10
+The art of AI maturity—Growth MarketsSource: Accenture Research analysis based on a sample of 1,200 global companies and 491 are from Growth MarketFigure 3:  Only 17% of organizations are AI Achievers The companies that scored best in both 
+categories are what we call “AI Achievers.” 
+Meanwhile, “AI Builders” show strong 
+foundational capabilities and average 
+differentiation capabilities, while “AI Innovators” 
+show strong differentiation capabilities and 
+average foundational capabilities. Trailing these 
+cohorts are a fourth group we’re calling “AI 
+Experimenters”—those with average capabilities 
+in both categories.
+In Growth Markets, Achievers accounted for 
+17% of all firms surveyed, Builders for 18% and 
+Innovators for 12%. Together, Achievers, Builders, 
+and Innovators represent 47% of surveyed 
+organizations—10% higher than their combined 
+global representation (37%). AI Experimenters 
+make up the majority (53%) (Figure 3).
+vs. 13% (Global) vs. 12% (Global)
+vs. 12% (Global) vs. 63% (Global)Companies struggling
+to materialize their
+AI strategyCompanies that are capitalizing
+the power of AI by building
+on strong foundation and
+a differentiated strategy
+The marjority of companies
+without strong AI foundations
+and clear AI strategyCompanies with strong AI
+foundations but unclear
+differentiation strategy
+ 11
+The art of AI maturity—Growth MarketsN = 516  | Source: Accenture Research analysis based on a sample of 1,200 global companies and 491 
+are from Growth Market 
+Note: *2024 = estimated scores. Industries’ AI maturity scores represent the arithmetic average of 
+their respective Foundational and Differentiation index.Figure 4: Levels of AI maturity by industry, 2021 and 2024* AI, applied
+While industries like tech are currently far 
+ahead of others in AI maturity, the gap 
+will likely narrow considerably by 2024. 
+In fact, there’s growing demand for AI 
+in the life sciences industry, due to the 
+presence of top research institutions in 
+Growth Markets, rising investments in 
+the research studies of various diseases, 
+and accelerated advancements in drug 
+discovery and delivery. In addition, various 
+airlines and airport authorities in Growth 
+Markets are increasingly investing in AI 
+for airport safety, predicting flight arrivals 
+more accurately, customer service 
+chatbots, operational efficiency, etc. In other industries, a range of factors 
+may be contributing to relatively low AI 
+maturity. Financial Services institutions, for 
+example, still struggle to move projects 
+into production and scale AI across the 
+organization. Meanwhile, healthcare 
+organizations have been slow to adapt to 
+the AI transformation. But many are either 
+experimenting with or actively pursuing 
+AI-enabled tools to bridge the huge gaps 
+in resources and meet challenges created 
+by rapidly aging societies (Figure 4).
+ 12
+The art of AI maturity—Growth Markets• A Middle East-based telecom 
+operator uses an AI-driven 
+bilingual virtual assistant to handle 
+approximately 1.5 million customer 
+interactions—in both Arabic and 
+English—across multiple channels 
+each month.
+• A large chemicals and energy firm 
+is using drones and AI-powered 
+computer vision to monitor its 
+equipment and remote locations.   
+The upshot: More frequent 
+inspections at lower cost to the 
+company and fewer safety risks for  
+its maintenance workers.• One coral conservatory used AI for 
+reef restoration. Its cost-effective 
+edge computing solution and 
+strategically placed underwater smart 
+cameras allowed for non-invasive 
+observations, from tracking the 
+migration of fish to colder climates  
+to monitoring illegal fishing in 
+protected waters.
+• One of the world’s largest metals and 
+mining companies wanted to enable 
+intelligent, value-driven decision-
+making across its commercial 
+ore value chain. The company’s 
+AI engagement resulted in better 
+detection of possible disruptions 
+in supply chains and a proactive 
+approach to recovery planning.• The third-largest bank in Thailand 
+used AI to unlock the value of data to 
+enhance experiences for consumers, 
+optimize operations and fuel future 
+growth. Their ongoing, multi-year 
+transformation journey combines 
+advanced data and analytics 
+capabilities with people-focused 
+processes and tools.
+• A leading Japanese cosmetic 
+company used data and AI-driven 
+insights to track marketing ROI, 
+gauge shifts in consumer behavior 
+in a post-pandemic world and drive 
+strategy for sales growth.• A large holding company leveraged 
+AI for workforce transformation. AI 
+and ML models were used to match 
+professional skillsets to specific 
+company roles. Turns out 55% of 
+recruits were matched with optimal 
+positions, increasing performance 
+and retention by 3X.
+• A leading Indonesian telecom 
+company deployed a best-in-class 
+AI-powered virtual agent for cost-
+optimization and improving customer 
+satisfaction scores.
+• A leading retail company leveraged 
+data and AI to create differentiated 
+propositions for their brands. 
+Within nine months, they scaled 
+the business resulting in $10M from 
+new revenue streams. It’s aiming to 
+achieve a $25M incremental revenue 
+target by 2025.AI, applied across industries
+ 13 The art of AI maturity—Growth MarketsAI Achievers advance from 
+practice to performanceThe art of AI maturityFigure 5: AI Achievers outperform in nearly all capabilities
+So it’s no surprise they thrive when it 
+comes to traditional performance metrics. 
+Pre-pandemic, they already enjoyed 
+56% greater revenue growth on average, 
+versus their peers. And today, they’re 3.7 
+times more likely than Experimenters to 
+see their AI-influenced revenue exceed 
+30% of their total revenues.
+What sets the AI Achievers apart?
+Mastery of multitasking
+When compared with all other groups, AI 
+Achievers demonstrate high performance 
+across a combination of capabilities. They are not defined by the sophistication 
+of any one capability, but by their ability 
+to combine strengths across strategy, 
+processes and people. 
+In comparison, Innovators typically excel 
+at securing senior sponsorship and 
+embrace training for all employees, but 
+they lack the foundational capabilities 
+required to support AI at scale. 
+Builders, on the other hand, excel at 
+creating data and AI platforms, but they 
+tend to be weaker at cultivating AI fluency 
+and the innovation culture that is needed 
+to drive adoption. (Figure 5)AI Achievers advance from  
+practice to performance
+AI Achievers are going above and beyond, deploying AI 
+solutions to solve problems and identify new opportunities. 
+Source: Accenture Research
+Note: Each cube represents one of the 17 key capabilities. The cube is highlighted when the AI profile is 
+outperforming against peers (higher than the average across all companies in terms of % of companies 
+reaching the mature level).
+Achievers Builders Innovators Experimenters
+ 15
+The art of AI maturity—Growth MarketsFigure 6: Achievers excel at turning AI pilots into production
+Source: Accenture Research 
+Note: Score 0-100, ranging from 0 = AI use case not started, 50 = AI use in early stage, 100 = having AI programs in place for 
+full productization. The chart shows the difference in terms of average score for AI use cases of different functions, between 
+Achievers and other firms. Those differences are statistically significant after controlling for industry, geography, and company 
+size; see Appendix for more details.Turning pilots into production
+Achievers have largely moved beyond the AI investment 
+“tipping point,” going from experimenting with new AI in 
+isolation to applying AI at scale to solve critical business 
+problem (Figure 6). Achievers are 36% more likely to scale AI 
+pilots across the enterprise compared with Experimenters.
+A multinational telecom company with a major market 
+in Japan was facing the challenge of unsubscribing users. 
+They wanted to drive data-led transformation for improving 
+efficiency and driving business growth. They also aimed at 
+strengthening their team of data scientists by upskilling their 
+existing workforce and hiring talent. 
+A joint venture company was established to help their 
+business challenges. The joint venture created end-to-end 
+data infrastructure across their business and enable them to 
+scale it with cloud migration. The company leveraged data-
+led transformation to create hyper-personalized offers for 
+clients and drive business growth. Combining data scientist 
+training and analytics & BI environment we were also able to 
+upskill their team and create a future-ready workforce.
+ 16
+The art of AI maturity—Growth MarketsThe art of AI maturity
+Five success factors
+How AI Achievers 
+master their craftHow AI Achievers 
+master their craft  
+It’s worth noting that the potential for 
+AI-mature organizations will evolve 
+along with the technology itself. High 
+performance today will ultimately become 
+business-as-usual tomorrow. 
+Today’s AI Achievers have set the standard 
+and are poised to remain leaders. While 
+science is at the center, they’ve shown us 
+there is also an art to AI maturity. 
+They have demonstrated that excellence 
+in areas like vision and culture are just 
+as critical as algorithmic integrity. Our 
+research uncovered five key success 
+factors for AI Achievers.
+ 18
+The art of AI maturity—Growth MarketsCompanies can create strong AI 
+strategies, but unless those strategies 
+receive enthusiastic support from the 
+CEO and the rest of the C-suite, they’re 
+likely to flounder.
+Achievers are more likely to have formal 
+senior sponsorship for their AI strategies. 
+We found that 86% of Achievers in 
+Growth Markets have such sponsorship, 
+while only 60% of Builders and just 56% 
+of Experimenters have it. Our research also suggests that the 
+best AI strategies tend to be bold, even 
+when they have modest beginnings. 
+Bold AI strategies help spur innovation. 
+For CEOs of Achievers, creating a 
+culture of innovation is itself a deliberate, 
+strategic move—one that is used as a 
+vehicle for experimentation and learning 
+across the organization. In fact, 59% of 
+Achievers embed innovation in their 
+organization’s strategies, while just 33%  
+of Experimenters do.Champion AI as a strategic priority 
+for the entire organization, with full 
+sponsorship from leadershipSuccess Factor 01
+ 19
+The art of AI maturity—Growth MarketsFor instance, Lendlease Digital (part of 
+multinational Lendlease Group) hopes 
+to produce architectural blueprints for 
+buildings using generative design and AI, 
+then use those blueprints to manufacture 
+actual buildings in factories—fitting 
+together all the pieces like LEGO sets. The 
+company’s bold vision starts at the top, led 
+by the CEO of Lendlease Digital,   
+William Ruh.
+To encourage such end-to-end innovation, 
+Achievers implement systems and 
+structures that help employees showcase 
+their innovation experiments and seek 
+constructive feedback from leadership. 
+For instance, Achievers tend to be the 
+first to embrace new tools that encourage 
+their employees to experiment and 
+innovate. We found that 25% of Achievers 
+in Growth Markets are already using 
+platforms that allow workers to easily pose questions and share ideas with colleagues 
+across the company—compared to 6% of 
+Experimenters. That number will only grow 
+as these companies hire more AI talent.
+86%  
+of Achievers have 
+CEO and senior 
+sponsorship.
+ 20
+The art of AI maturity—Growth MarketsWith a clear AI strategy and strong CEO 
+sponsorship, organizations are more likely 
+to invest heavily in creating data and AI 
+fluency across their workforces.
+We found that 76% of Achievers—
+compared with 66% of Builders and 
+59% of Experimenters—have mandatory 
+AI trainings for most employees, from 
+product development engineers to 
+C-suite executives. Because Achievers 
+prioritize efforts to build AI literacy in their 
+workforces, their employees are also more 
+proficient in AI-related skills. This makes it 
+easier to scale human-AI collaboration.We also found that 56% of Achievers in 
+Growth Markets have employees with 
+consistently high AI skills competencies, 
+while Innovators (42%) and Experimenters 
+(35%) have significantly fewer such 
+employees, on average. Achievers also 
+develop proactive AI talent strategies to 
+stay at the forefront of industry trends. 
+In addition to hiring, this can mean 
+partnering with or acquiring specialist 
+companies to fill critical roles (such 
+as data or behavioral scientists, social 
+scientists and ethicists). It also means 
+having a plan to get these diverse, 
+multidisciplinary workers to collaborate, 
+create and sustain maximum value from 
+the company’s data-science capabilities.Success Factor 02
+Invest heavily in talent to get more 
+from AI investments
+ 21
+The art of AI maturity—Growth MarketsWhat does this look like in practice? 
+Japanese e-commerce giant Rakuten 
+established an “AI Promotion Department” 
+in 2016 to accelerate efforts to infuse 
+AI into the company’s 70+ diverse 
+businesses. By 2018, the department 
+helped turn more than 30 AI pilot projects 
+into successful offerings.
+And a leading Southeast Asian oil and 
+gas firm built an AI-powered, “gamified” 
+learning platform to expand employees’ digital fluency. It also created a cloud-
+based performance reviewer that 
+scrutinized a decade’s worth of employee 
+data to recommend workers best suited 
+for various digital roles. The innovation 
+saved the firm’s HR department significant 
+time filling positions. It also reduced 
+scope for managerial bias in promotional 
+decisions and helped workers assess and 
+close digital-skills gaps.54%  
+of Achievers in Growth 
+Market have employees with 
+consistently high AI skills 
+competencies, while Innovators 
+(42%) and Experimenters (35%) 
+have significantly fewer such 
+employees, on average.
+ 22
+The art of AI maturity—Growth MarketsAnother priority for Achievers is building 
+an AI core: An operational data and AI 
+platform that taps into companies’ talent, 
+technology and data ecosystems, allowing 
+firms to balance experimentation and 
+execution. An AI core helps organizations 
+productize their AI applications and 
+integrate the technology into   
+other applications.
+An AI core also works across the 
+cloud continuum (from migration to 
+innovation), provides end-to-end data 
+capabilities (foundation, management 
+and governance), manages the machine 
+learning lifecycle (workflow, model 
+training, model deployment) and 
+provides self-service capabilities. AI 
+cores are, in turn, managed by dedicated 
+interdisciplinary teams of machine 
+learning engineers, data scientists, data domain experts and systems engineers. 
+To build AI cores, Achievers harness 
+the power of internal and external data, 
+making that data trustworthy and storing 
+it in a single enterprise-grade cloud 
+platform—complete with appropriate 
+usage, monitoring and security policies.
+To extract value from their data quickly 
+and effectively, Achievers in Growth 
+Markets are also 43% more likely, on 
+average, than Experimenters to either 
+develop custom-built, machine-learning 
+applications or work with a partner that 
+offers solutions-as-a-service. Achievers 
+are also more likely than Innovators 
+to use AI for innovation, tapping into 
+readily available developer networks that 
+can swiftly productionize and scale  
+successful pilots.Success Factor 03
+Industrialize AI tools and  
+teams to create an AI core
+ 23
+The art of AI maturity—Growth MarketsTo strengthen their AI cores, Achievers often 
+collaborate with external experts to stay 
+on top of breakthroughs in science and 
+engineering. In 2020, for example, American 
+Express partnered with the Indian Institute 
+of Technology Madras to create a Data 
+Analytics, Risk and Technology laboratory at 
+the prestigious university. Such innovation 
+ecosystems help Achievers develop AI apps 
+tailored specifically to their needs.
+A leading Indian bank deployed AI at scale 
+to achieve higher growth and efficiencies 
+across multiple verticals, such as retail 
+and SMB, liquidity & risk management, 
+wealth management and more. It identified 
+priorities and devised a roadmap including 
+strategy, technology & infrastructure, and 
+talent. With an enterprise-wide data lake and 
+AI/ML platform, as well as a robust literacy 
+program, they were able to leverage the 
+value of data and AI across the organization. 
+ 24
+The art of AI maturity—Growth MarketsAdhering to laws, regulations and ethical 
+norms is critical to building a sound 
+data and AI foundation. The potential for 
+regulatory changes in many countries 
+makes the challenge even more daunting. 
+In a separate Accenture study of 850 
+C-suite executives, we sought to gauge 
+attitudes toward AI regulation and assess 
+organizations’ readiness to comply. 
+Nearly all (99%) respondents believed 
+that regulation would impact them to 
+some extent, while 81% indicated that compliance is a company-wide priority. 
+In fact, many organizations view AI 
+regulation as a boon rather than a  
+barrier to success.
+The ability to demonstrate high-quality, 
+trustworthy AI systems that are “regulation 
+ready” will give first movers a significant 
+advantage in the short- and long-term, 
+enabling them to attract new customers, 
+retain existing ones and build   
+investor confidence.Success Factor 04
+Design AI responsibly, from the start
+ 25
+The art of AI maturity—Growth MarketsAchievers are consciously applying 
+responsible AI with greater urgency than 
+their peers. In Growth Markets, they are 
+on average 36% more likely than Builders 
+and 64% more likely than Innovators to 
+be responsible by design. This means 
+Achievers are designing, developing and 
+deploying AI that empowers employees 
+and businesses, and impact customers 
+and society fairly. 
+For instance, The Monetary Authority of 
+Singapore (MAS), the country’s central 
+bank and financial regulator, recognized 
+the benefits that AI can provide to 
+financial firms. Yet MAS was also wary of the threat posed 
+to firms and markets by the illegal and/or 
+unethical use of AI. It helped launch the 
+Veritas initiative, which aims to support 
+the responsible use of AI in the finance 
+industry. The effort has produced a 
+practical methodology and first-of-its-
+kind toolkit that offers detailed guidance 
+on how to use AI leveraging the FEAT 
+principles—fair, ethical, accountable  
+and transparent.
+Even though only 8%  
+of the companies surveyed 
+had already implemented 
+responsible AI practices, 42%  
+of surveyed companies aspire  
+to do so by the end of 2024. 
+ 26
+The art of AI maturity—Growth MarketsTo avoid being left behind, most 
+companies need to aggressively increase 
+their spending on data and AI. One reason 
+Achievers in Growth Markets get more out 
+of AI is simply because they invest more 
+in it. We found that in 2018, Achievers 
+devoted 15% of their total technology 
+budgets to AI, while in 2021 they devoted 
+29%. In 2024, they plan to devote 36%.
+Achievers also understand that their AI 
+investment journey doesn’t have a finish 
+line. There is, they frequently note, no 
+“peak AI.” These companies know they 
+have only scratched the surface of their 
+AI transformations and that the quality of 
+their investments matters just as much 
+as the quantity. For Achievers, continued 
+investment largely involves expanding the 
+scope of AI to deliver maximum impact, 
+while “cross-pollinating” AI solutions and 
+redeploying resources in the process.For example, the Saudi government’s 
+National Center for Artificial 
+Intelligence is on a mission to unlock 
+the value of data and AI as a national 
+asset to fulfill the larger digital vision of 
+the country. The center accelerated the 
+development of AI capabilities in priority 
+sectors like energy, healthcare, agriculture 
+and government—and it will play a pivotal 
+role in the execution of the country’s 
+national AI strategy. Early returns have 
+been so successful that the Kingdom of 
+Saudi Arabia will allocate the strategy a 
+budget of $20 billion by 2030.Success Factor 05
+Prioritize long- and short-term
+AI investments
+In 2018, Achievers 
+in Growth Markets 
+devoted 15% of their 
+total technology budgets 
+to AI. In 2021, that rose 
+to 29%. By 2024, they 
+expect to devote 36%.
+ 27
+The art of AI maturity—Growth MarketsW e project the share of 
+AI Achievers in Growth 
+Markets to nearly double 
+(from 17% to 32%) by 2024.
+ 28
+The art of AI maturity—Growth MarketsPractice makes progressThe art of AI maturityThe concept of using AI to solve business 
+problems isn’t new. By 2019, there was 
+evidence that scaling AI beyond proofs 
+of concept had a significant impact 
+on ROI. Then the pandemic hit. For 
+many organizations, enterprise-wide 
+transformation was a matter of survival. 
+For others, it became a catalyst to thrive.
+AI Achievers in Growth Markets are 
+thriving. Across industries, they’ve moved 
+past cloud migration to innovation. 
+But the AI itself isn’t the secret to their 
+superior performance—it’s how they’re 
+approaching AI that makes them different. 
+They’ve established that AI maturity 
+is as much about people as it is about technology. As much about strategy as it 
+is about implementation. As much about 
+responsibility as it is about agility.
+Every organization should be assessing 
+its own AI maturity. To get started, Figure 
+7 has some sample questions for C-suite 
+leaders, according to Accenture’s AI 
+maturity assessment. There are also tools 
+available to help benchmark AI maturity 
+and establish clear paths to progress and 
+performance.
+As AI technologies become more 
+prevalent, the future of all businesses 
+is going to look very different—some 
+will lead the change, and some will be subjected to it. Those who transform 
+will be the ones whose teams master 
+the art of AI maturity, using cloud as the 
+enabler, data as the driver and AI as the 
+differentiator.
+How can AI help you differentiate? Practice makes progress
+The concept of using AI to solve business problems isn’t new. 
+ 30
+The art of AI maturity—Growth MarketsFigure 7: AI maturity assessment: sample questions for C-suite leaders 
+Source: Accenture Research• Does your C-suite have clear accountability for data and AI strategy and execution?
+• How do you identify potential value, and how are business cases prioritized—considering the potential risks and alignment 
+with the overall strategy of the organization?
+• Are you allocating enough delivery resources to build AI products and services in-house, and are you able to get the most 
+out of your ecosystem partners?
+• To what extent do you have a cloud platform and technology strategy that supports your AI strategy?
+• Do you have an effective, enterprise-wide data platform, as well as strong data management and governance practices,  
+to meet business needs?
+• Are you using data science and machine learning teams effectively across the lifecycle of AI development?
+• Is your data- and AI-literacy strategy aligned to your business objectives?
+• To what extent have you prioritized data and AI fluency for senior leaders, business stakeholders and employees across  
+your organization?
+• Do you have a holistic talent model to scale, differentiate, retain and develop AI talent (diverse, dedicated teams of  
+machine learning engineers, data scientists, data-domain experts and data engineers)?
+• How are you institutionalizing a data and AI culture within your organization?
+• Do you have an enterprise-wide framework to help you operationalize responsible data and AI from principles to practice?
+• Are you applying a consistent and industrialized responsible data and AI approach across the complete lifecycle of all  
+your AI models?
+• Are you methodically tracking the evolution of AI-related laws and regulations across the different jurisdictions in which you  
+operate, while anticipating and preparing for future changes?Category Key questions
+Talent and CultureData and AI CoreStrategy and Sponsorship
+Responsible AI
+ 31
+The art of AI maturity—Growth MarketsSanjeev Vohra
+Global Lead, Applied 
+Intelligence
+Ajay Vasal
+Growth & Strategy Lead and 
+Centre for Data & Insights 
+Lead, Applied Intelligence
+Philippe Roussiere
+Accenture Research Innovation  
+and AI Global Lead
+Lan Guan
+Lead, Cloud First,                          
+Data & AI 
+Praveen Tanguturi, PhD
+Thought Leadership Research  
+Principal DirectorMeet the authors Research director
+Senthil Ramani
+Senior Managing Director, Growth 
+Markets, Applied Intelligence
+Vineet Narang
+Data Science Managing 
+Director, Growth Markets, 
+Applied Intelligence
+ 32
+The art of AI maturity—Growth MarketsContributors
+Contributors: Pranav Arora, Rahul Basole, Mariusz Bidelski, Marcin Bodziak, Tomas Castagnino, 
+Joe Depa, Ray Eitel-Porter  , Jean-Claude El-Sabbagh, Michelle Ganchinho, Michal Hadrys, 
+Andy Hickl, David Kimble, Carrie Kleiner, Sonali Kulkarni, Andra Najem, Hussein Ragy,  
+Linda Ringnalda, Paridhi Sharma, Joanna Syczewska, Ezequiel Tacsir, Jonathan Thomas,  
+Aleena Varkey, Satish Viswanathan, Jakub Wiatrak and Yingchuan Zhu.
+ Marketing + Communications: Alisyn Abney, Surabhi Chatterjee, Alexa Mouta, Karthick Paulraj 
+and Venkat Subramanian.Research Leads 
+Yuhui  
+Xiong
+Research Manager
+Deeksha  
+Khare Patnaik
+Research Manager
+ 33
+The art of AI maturity—Growth MarketsAccenture surveyed 1,615 executives 
+(including CEOs, C-Suite, CAIO’s and Data 
+Science Leaders) from the world’s largest 
+organizations (with revenues greater than  
+$1 billion). The survey was carried out across 
+15 countries and 16 industries, and fielded 
+between August and September, 2021. 
+In this report we have highlighted the AI 
+maturity trends in Growth Markets.
+Survey includes those organizations who 
+have at least agreed upon some basic AI 
+strategy and have begun implementing 
+relevant tools, to those who have a core AI 
+strategy  in place.About the research
+Revenue (USD)
+887
+266  20715897
+$1 - $4,9 billion 
+$5 - $9,9 billion 
+$10 - $19,9 billion
+$20 - $49,9 billion
+$50 billion or more CountriesIndustries 
+Australia (116 )
+Brazil (65)
+Canada (98 )
+China (111 )
+France  (93 )
+Germany  (87 )
+India  (77 )
+Israel  (42 )Italy  (69) 
+Japan  (102 )
+Singapore  (38 )
+South Africa  (76) 
+Spain  (65) 
+UK  (173  )
+US  (403 ) Financial services (Banking, Capital markets, Insurance)  
+Tech (High Tech and Software & Platform)  
+Automotive (OEM, Auto-ancillary, Auto-parts)  
+Retail
+Consumer Goods & Services  
+Public Services (Focus on NA)
+Telecommunications, Media & Entertainment  
+Utilities
+Life Sciences (Pharma & Biotech)  
+Chemicals
+Energy (Oil & Gas Upstream, Downstream)  
+Natural Resources (Metals & Mining, Forest Products)  
+Healthcare (Payers)  
+Travel & Transport (Hotel & Passenger)
+Industrial Equipment  
+Aerospace & Defense  177
+131
+106
+105
+102
+99
+98
+98
+97
+94
+93
+91
+89
+86
+85
+64
+ 34
+The art of AI maturity—Growth MarketsAppendix
+Survey
+From August to September 2021, 
+Accenture surveyed 1,615 C-suite 
+executives at 1,176 of the world’s largest 
+companies—present in 16 industries and 
+headquartered in 15 countries. In this 
+report we have highlighted the AI 
+maturity trends in Growth Markets.
+Interviews and case studies
+We interviewed 25 CEOs, Chief Data 
+Officers and Chief Analytics Officers. 
+We also interviewed Renée Richardson 
+Gosline (Senior Lecturer at MIT Sloan 
+School of Management and Principal 
+Research Scientist at MIT’s Initiative on 
+the Digital Economy) and Christine Foster 
+(Chief Commercial Officer at The Alan 
+Turing Institute), as well as numerous AI 
+experts at Accenture. Through research 
+and client work, we also developed 
+over 40 company case studies on AI 
+transformation.
+Design thinking
+We ran a MURAL session with more than 
+15 senior data scientists to validate our AI 
+maturity model. Economic modeling and data science
+To assess companies’ AI maturity, as well 
+as other measures of performance, we 
+took the following steps:
+1.  Identified key capabilities of AI 
+maturity  
+We sought to understand the key 
+capabilities that contribute to reaching 
+both an “entry” level of AI maturity (i.e. 
+deriving at least 10% of revenues from 
+AI-influenced initiatives from 2018 to 
+2021) and a higher level of AI maturity 
+(i.e. deriving more than 30% of revenues 
+from 2018 to 2021). To do this, we built 
+two machine learning models that 
+account for more than 80 capabilities 
+that contribute to the two different 
+levels of AI maturity (see box below). 
+ 
+Ri = β0+β1Xit + β2 Capabilitiesit-1 + 
+β3 ∆Capabilitiesit + β4Capabilities 
+Interactionsit,t-1 + eit 
+ 
+ 
+ Ri represents the level and evolution 
+of a company’s AI-influenced revenues 
+(sustaining at >10%, reaching >30%) 
+With i = company, t = 2021 and t-1 = 2018, 
+Xit includes controls for industry, firm 
+size and company location (country).  
+ 
+The model is a linear probability Lasso 
+model, a K-fold cross-validation with 10 
+folds performed.
+2.  Defined "foundational" and 
+"differentiation" capabilities 
+In our models, we classified 
+Capabilitiesit-1 and ∆Capabilitiesit as AI 
+foundational capabilities; Capabilities 
+Interactionsit,t-1 are—as the name 
+suggests—capabilities with interaction, 
+with strong senior sponsorship 
+and a well-defined AI strategy. We 
+classified these interaction terms as AI 
+differentiation capabilities. 
+ 
+From our models, we discovered 
+that AI foundational capabilities have 
+stronger explanatory power in the first 
+model of “sustaining at >10%” than 
+AI differentiation capabilities; in the second model of “reaching over >30%”, 
+AI differentiation capabilities have 
+stronger explanatory power. In other 
+words, AI foundational capabilities are 
+essential to building the necessary 
+foundation for organizations to enter 
+the AI race. Meanwhile, AI differentiation 
+capabilities are key for organizations to 
+reach the next level of AI maturity.
+3.  Built the AI maturity index 
+We built two indexes that measure 
+companies’ AI foundational capabilities 
+and AI differentiation capabilities, 
+respectively, as identified by our two 
+models. An overall AI maturity index 
+is built as the arithmetic average of 
+both AI foundational index and AI 
+differentiation index, which is indicative 
+of their probability of achieving high 
+AI-influenced revenue. The median 
+maturity index of all companies is 
+36/100.
+4.  Constructed AI profiles based on 
+foundational and differentiation 
+capabilities 
+The AI foundational capabilities and AI 
+differentiation capabilities indexes were 
+ 35
+The art of AI maturity—Growth Marketsthen used to construct a matrix. We 
+used the top quartile as a threshold on 
+both axes to cluster all the companies 
+from the survey into four groups:
+• AI Achievers—the top quartile on 
+both foundational and differentiation 
+median maturity index: 64/100
+• AI Builders—the top quartile 
+on foundational but not on 
+differentiation median maturity 
+index: 44/100
+• AI Innovators—the top quartile 
+on differentiation but not on 
+foundational median maturity index: 
+50/100
+• AI Experimenters—all remaining 
+companies median maturity index: 
+29/100
+5.  Measured Achievers’ financial 
+premium 
+To assess AI Achievers’ financial 
+performance, we used data from 
+S&P Capital IQ to build the following regression model: Revenue growthi = 
+β0+β1Xi + β2 AI Achiever + ei 
+(i = company, AI Achiever as the dummy 
+variable, and Xi including controls 
+for industry, firm size, and company 
+location).
+6.  Measured Achievers’ stakeholder 
+performance 
+To assess Achievers’ stakeholder 
+performance in the areas of customer 
+experience, sustainability, workforce, 
+and supply chain, we built scores from 
+0-100 in these respective areas using 
+data from FactSet, Arabesque, Oxford 
+Economics, and S&P Capital IQ, which 
+measure companies' performance 
+against their industrial peers. The 
+difference between Achievers and 
+other companies is highly statistically 
+significant (p < 0.01) for customer 
+experience and sustainability.  
+The following offers more detail on 
+each area.
+• Customer experience reflects 
+how companies strengthen their 
+sales pipeline by developing 
+strong customer relationships; our 
+measures include consumer trust, customer churn, product quality 
+and safety, and an overall customer-
+centric mindset.
+• Sustainability reflects how 
+companies strengthen their 
+commitment to environmental 
+stewardship; our measures include 
+greenhouse gas emissions, 
+ecological management, resource 
+use, water and waste efficiency, and 
+various environmental solutions.
+• Financial reflects how companies 
+deliver profitable growth and 
+operate efficiently.
+• Workforce/employee experience 
+reflects how companies unlock 
+their workforces’ full potential; our 
+measures include compensation, 
+employment quality, employee 
+turnover, occupational health 
+and safety, and training and 
+development.
+• Supply chain reflects how 
+companies manage risks associated
+with their supplier networks and 
+inventory levels; our measures include 
+supplier diversification, supplier risk, 
+and inventory management.7.  Measured the speed of AI 
+transformation vs. the speed of 
+digital transformation  
+To understand how fast companies 
+undergo AI transformation compared 
+to digital transformation, we used 
+the frequency of mentions of both 
+terms on companies’ earnings calls 
+as a proxy. To do this, we performed 
+a natural language processing 
+analysis of investor calls of the world’s 
+2,000 largest companies (by market 
+capitalization), sourced from the S&P 
+earnings transcripts database. (Note: 
+Our analysis included 744 companies 
+with a consistent history of earnings 
+calls during 2010-21.) Finally, we 
+built predictive S-Curve models that 
+estimated the time, henceforth, that it 
+would take for 90% of such companies 
+to mention the aforementioned terms 
+on their earnings calls.
+ 36
+The art of AI maturity—Growth MarketsStrategy and Sponsorship 
+1. Senior Sponsorship: Organizations 
+have an AI strategy that is developed 
+by the Chief Analytics Officer, Chief 
+Data Officer, Chief Digital Officer 
+or an equivalent. The CEO and the 
+Board actively sponsor and share 
+accountability for the strategy and 
+associated AI initiatives. 
+2. AI Strategy: Organizations not only 
+have a core AI strategy aligned to the 
+overall business strategy, but they 
+also dedicate tools and tactics to 
+execute it and continuously track their 
+performance against that strategy. 
+3. Proactive vs. Reactive: Organizations 
+have the resources (such as 
+technology, talent and patents) to 
+proactively define and demonstrate 
+how AI can create value vs. apply AI as a reaction to a need. They’re first-
+movers instead of fast followers in 
+terms of applying AI for business value.
+4. Readily Available AI and ML tools: 
+Organizations work with an ecosystem 
+of technology partners to access 
+machine learning models and tools  
+to help innovate new products  
+and services.
+5. Readily Available Developer 
+Networks: Organizations tap into an 
+ecosystem of technology partners 
+to access developer networks that 
+support the development of new 
+products and services.
+Data and AI Core 
+6. Build vs. Buy: Organizations develop 
+custom-built AI applications or work with a partner who offers solutions-
+as-a-service, vs. purchase “off-the-
+shelf” AI solutions with little-to-no 
+customization. 
+7. Platform and Technology: 
+Organizations apply the necessary 
+cloud, data and AI infrastructure, 
+software, self-serve capabilities and 
+industry best practices, and they adopt 
+the latest tools available from platform 
+and technology partners. 
+8. Experimentation Data—Change: 
+Organizations improved their use 
+of experimentation data between 
+2018 and 2021, effectively translating 
+into a higher data and AI maturity. 
+Experimentation data is the use of 
+internal and external data to design 
+new models and generate new 
+insights. To do that, organizations use 
+enterprise-grade cloud platforms to keep data clean and trustworthy, and 
+to support decision making at greater 
+speed and scale.  
+9. Data Management and Governance: 
+Organizations scale their data 
+management and governance 
+practices to increase data quality, 
+trust and ethics across entities 
+—e.g. by implementing master data 
+management and ensuring security, 
+compliance and interoperability. 
+10. Data Management and Governance—
+Change: Organizations improved their 
+data management and governance 
+practices between 2018 and 2021, 
+effectively translating into a higher data 
+and AI maturity.  Key Capabilities
+ 37
+The art of AI maturity—Growth MarketsTalent and culture 
+11. Mandatory AI Training: Organizations 
+enforce AI-specific training programs to 
+improve AI fluency, which are tailored 
+for senior leadership and specific 
+functions, e.g. salesforce, product 
+engineers, etc. They also create 
+deliberate opportunities for employees 
+to learn and apply AI in their roles. 
+12. Employee Competency in AI-
+Related Skills: Organizations regularly 
+measure the competency level of 
+employees to determine where further 
+training is needed to improve overall 
+acumen. They measure and build 
+expertise in critical areas like coding, 
+data processing and exploration, 
+business analytics, domain and 
+business acumen, machine learning, 
+visualization and more. 13. Innovation Culture Embedded: 
+Organizations ensure innovation is part 
+of the day-to-day work environment. 
+They encourage mindsets, behaviors 
+and routines that all serve as a vehicle 
+for experimentation, collaboration 
+and learning from ideation to product 
+development to market launch. 
+14. Innovation Culture Encouraged: 
+Organizations promote and reward 
+innovative mindsets and behaviors 
+including entrepreneurship, 
+collaboration and thoughtful  
+risk-taking. 
+15. AI Talent Strategy: Organizations have 
+an AI talent strategy—hiring, acquiring, 
+retention—that evolves to keep pace 
+with market or business needs. They 
+also have an AI talent roadmap for 
+hiring diverse AI-related roles, beyond just ML engineers—such as  
+behavioral scientists, social scientists, 
+and ethicists.  
+Responsible AI 
+16. Responsible AI: Organizations have 
+an industrialized, responsible approach 
+to data and AI across the complete 
+lifecycle of their AI models—an 
+approach that can meet changing 
+regulatory requirements, mitigate risks, 
+and support sustainable, trustworthy AI. 
+17. Responsible AI—Change: 
+Organizations have improved their 
+responsible data and AI practices 
+between 2018 and 2021, effectively 
+translating into a higher data and  
+AI maturity. 
+ 38
+The art of AI maturity—Growth MarketsReferences
+1  https://news.stanford.edu/news/2011/october/john-mccarthy-obit-102511.
+html#:~:text=John%20McCarthy%2C%20a%20professor%20emeritus,He%20
+was%2084
+2  Accenture Research analysis of the world’s 2,000 largest companies by market 
+capitalization mentioning AI in their earnings calls. Formula is based on CEOs of 
+companies that had earnings call in 2020, and CEO was present at the call, and 
+CEO mentioned AI. 46% of these CEOs mentioned AI in their earnings calls, in 
+2021 up from ~35% in 2017. 
+3 Accenture Interview
+4  https://www.nytimes.com/2020/07/13/business/coronavirus-retraining-workers.
+html5  https://global.rakuten.com/corp/careers/topics/engineering3/ 
+6  https://economictimes.indiatimes.com/tech/software/american-express-sets-
+up-data-analytics-risk-technology-lab-in-iit-madras/articleshow/77925793.cms 
+7  https://www.novartis.com/about/strategy/data-and-digital/artificial-intelligence/
+our-commitment-ethical-and-responsible-use-ai  
+8 https://www.accenture.com/us-en/insights/artificial-intelligence/ai-investments
+ 39
+The art of AI maturity—Growth MarketsAbout Accenture
+Accenture is a global professional services company 
+with leading capabilities in digital, cloud and security. 
+Combining unmatched experience and specialized 
+skills across more than 40 industries, we offer Strategy 
+and Consulting, Interactive, Technology and Operations 
+services—all powered by the world’s largest network of 
+Advanced Technology and Intelligent Operations centers. 
+Our 738,000 people deliver on the promise of technology 
+and human ingenuity every day, serving clients in more 
+than 120 countries. We embrace the power of change to 
+create value and shared success for our clients, people, 
+shareholders, partners and communities. 
+Visit us at www.accenture.com.
+Disclaimer
+This content is provided for general information purposes and is not intended to be used in place of consultation with our 
+professional advisors. This document makes descriptive reference to trademarks that may be owned by others. The use of 
+such trademarks herein is not an assertion of ownership of such trademarks by Accenture and is not intended to represent 
+or imply the existence of an association between Accenture and the lawful owners of such trademarks.
+Copyright © 2023 Accenture. All rights reserved. Accenture and its logo are registered trademarks of Accenture.About Accenture Research
+Accenture Research creates thought leadership about 
+the most pressing business issues organizations face. 
+Combining innovative research techniques, such as 
+data science led analysis, with a deep understanding of 
+industry and technology, our team of 300 researchers 
+in 20 countries publish hundreds of reports, articles and 
+points of view every year. Our thought-provoking research 
+developed with world leading organizations helps our 
+clients embrace change, create value, and deliver on the 
+power of technology and human ingenuity.About Applied Intelligence 
+Applied Intelligence is Accenture’s approach to scaling 
+AI for clients by embedding AI-powered data, analytics 
+and automation capabilities into business workflows, 
+accelerating time to value with a powerful global alliance, 
+innovation and delivery network that can deploy and scale 
+AI within any market and industry. 
+The art of AI maturity—Growth Markets

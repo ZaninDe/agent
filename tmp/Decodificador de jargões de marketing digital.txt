@@ -1,0 +1,126 @@
+Desvendando jargões de marketing digital 
+Analytics  ou Ferramentas de análise da Web : a análise de dados gerados pela atividade das pessoas em 
+websites ou aplicativos móveis para descobrir formas de aprimorar os websites e campanhas 
+de marketing. 
+Exemplo:  “Estou usando as ferramentas de análise da Web para ter ideias para reformular meu website.” 
+App (aplicativo) : um programa projetado para ser executado em smartphones, tablets e outros 
+dispositivos móveis. 
+Exemplo:  “Minha casa precisa ser pintada, então usei um app local para encontrar um serviço confiável 
+próximo a mim.” 
+Anúncio em banner : uma forma de anúncio encontrada em páginas da Web e aplicativos móveis, 
+normalmente em formato de imagem. 
+Exemplo:  “Estou usando anúncios em banner para atrair novos clientes para meu website.” 
+Blog : um website escrito por uma pessoa com atualizações regulares, normalmente em estilo informal 
+e focado em um assunto específico. 
+Navegador : um programa de computador usado para navegar na Internet por meio de computadores, 
+tablets e smartphones. Exemplos de navegadores incluem o Chrome, Firefox, Internet Explorer e Safari. 
+Exemplo:  “Não sei ao certo por que a aparência de meu website é diferente dependendo do navegador que 
+a pessoa  está usando.” 
+Taxa de cliques (CTR) : o número de vezes que as pessoas clicam em um item de interesse, como um 
+anúncio, comparado ao número de vezes que os usuários são expostos a esse item. 
+Exemplo:  “Minha taxa de cliques em anúncios sobre pintura externa é de 2%, mas minha CTR em anúncios 
+sobre murais internos é de apenas 1%.”  
+Conteúdo : o material digital disponível para usuários por meio de textos, vídeos, áudios, imagens etc. 
+Exemplo:  “Estou adicionando mais conteúdo de imagem e vídeo a meu site para que ele se torne 
+mais envolvente.” 
+Conversão  ou Meta : a ação que você deseja que os visitantes executem.  Os exemplos incluem compras 
+no comércio eletrônico, envio de formulários, chamadas telefônicas e exibições de vídeo. 
+Exemplo:  “Minha meta principal é que as pessoas agendem uma consulta em meu website, mas inscrições 
+para receber meu boletim informativo por e-mail também seriam consideradas conversão.” 
+Otimização de conversão : o processo de aumentar a porcentagem de visitantes que atingem 
+suas metas. 
+Exemplo:  “Assim que eu adicionar uma nova linha de acabamentos artificiais a meu website, começarei 
+a me concentrar na otimização de conversão.” 
+Taxa de conversão : a proporção de conversões em visitas, normalmente usada para medir o desempenho digital. 
+Exemplo:  “Não sei o motivo, mas minha taxa de conversão para pinturas externas é muito baixa para visitantes do 
+sexo masculino.” 
+Custo por clique : a quantidade de dinheiro necessária para produzir um único clique em um anúncio digital. 
+Exemplo:  “Os preços do custo por clique parecem ser mais altos aos fins de semana, portanto só faço minhas campanhas 
+durante  a semana.” 
+Rastreador ou Indexador : um programa projetado para buscar sistematicamente conteúdo na Internet e coletar informações 
+sobre ele para ajudar pesquisadores a encontrarem o que estão procurando. 
+Exemplo:  “Eu não sou adepto a indexadores, mas gosto daqueles que ajudam meu website a aparecer em mecanismos 
+de pesquisa.” 
+Computador : um dispositivo não móvel, como um PC ou um laptop. 
+Exemplo:  “Eu prefiro usar um computador em casa, mas, quando viajo, uso meu tablet.” 
+Comércio eletrônico : a venda on-line de produtos e serviços. 
+Marketing por e-mail : o processo de usar mensagens de e-mail para compartilhar informações e promover produtos 
+e serviços. 
+Página inicial : a página introdutória ou "principal" de um website. 
+Exemplo:  “Em minha página inicial, os visitantes podem ver exemplos das melhores pinturas de casas que fiz.” 
+HTML : Linguagem de Marcação de Hipertexto. Uma linguagem usada por desenvolvedores da Web para criar websites. 
+Exemplo:  “Meu website foi criado usando HTML.” 
+Impressões : o número de vezes que um anúncio é exibido. 
+Exemplo:  “Minha nova campanha de marketing para pinturas de cozinhas recebeu milhares de impressões, mas acho que não 
+registrei vendas.” 
+ 
+Conteúdo : um catálogo pesquisável de páginas da Web e conteúdo digital usado por um mecanismo de pesquisa para 
+fornecer resultados relevantes. 
+Exemplo:  “Antes de meu website aparecer no conteúdo de mecanismos de pesquisa, as pessoas não conseguiam encontrá-lo 
+ao pesquisar por murais para halls de entrada.” 
+Palavra-chave : uma palavra ou frase digitada em um mecanismo de pesquisa, que as empresas podem segmentar como 
+parte das campanhas de anúncios delas. 
+Página de destino : a primeira página de um website que a pessoa normalmente vê. Não é, necessariamente, 
+a página inicial desse website. 
+Exemplo:  “Adicionarei um cupom a minha página de destino para que os visitantes de meu website sejam 
+encorajados a comprar.” 
+Link : um texto ou imagem que fornece o link de uma página da Web ou website para outro. 
+Exemplo:  “Quando um grande blog sobre decoração de casas colocou um link para meu website, recebi muito 
+mais visitantes.” 
+Dispositivo móvel : um dispositivo portátil, como um smartphone ou tablet, com capacidade de se conectar 
+à Internet e executar aplicativos. 
+Exemplo:  “A vovó ganhou um tablet e um smartphone de aniversário, então agora ela usa dispositivos móveis 
+como seus netos.” 
+Listagens naturais ou Listagens orgânicas : resultados de um mecanismo de pesquisa que não são 
+anúncios pagos. 
+Exemplo:  “Quanto maior for a classificação de meu website nas listagens naturais de pesquisa, maior será 
+o tráfego que ele receberá.” 
+Listagens pagas : anúncios que aparecem nas páginas de resultados de mecanismos de pesquisa. 
+Exemplo:  “Estou pensando em pagar para que meu website apareça em listagens pagas, para que eu possa 
+atrair mais clientes para meu website.” 
+Pagamento por clique (PPC) : um sistema de anúncios no qual os anunciantes pagam para que os usuários 
+cliquem nos anúncios deles. 
+Exemplo:  “Vou usar anúncios com pagamento por clique para promover meus novos acabamentos artificiais.” 
+Consulta  ou Termo de pesquisa : a palavra-chave ou frase digitada por um usuário em um mecanismo de 
+pesquisa, a fim de encontrar o que está procurando. 
+Exemplo:  “Quando as pessoas usam o termo de pesquisa “cabeleireiro'”, elas podem estar procurando dicas 
+para fazer seus próprios penteados ou um serviço que faça isso para elas.” 
+Classificação : a posição de uma listagem em uma página de resultados de um mecanismo de pesquisa. 
+Exemplo:  “Com muito esforço, espero fazer com que meu website alcance a classificação nº 1 nos mecanismos 
+de pesquisa.” 
+Mecanismo de pesquisa : uma ferramenta que indexa conteúdo digital relevante e o retorna como resposta 
+às palavras-chave dos usuários. Alguns mecanismos de pesquisa famosos da Internet incluem Google, 
+Bing, Yahoo, DuckDuckGo, Baidu, Yandex e outros. 
+Exemplo:  “Eu uso mecanismos de pesquisa para procurar novas tendências em decorações de casas.” 
+Otimização de mecanismos de pesquisa (SEO) : a prática de fazer alterações em páginas e conteúdo da Web, 
+e a promoção desse conteúdo para aumentar a visibilidade nos resultados orgânicos (não pagos) do mecanismo 
+de pesquisa. 
+Exemplo:  “Investir em SEO ajudou meu website a conseguir uma classificação maior nos resultados do mecanismo 
+de pesquisa.” 
+Marketing de Busca (SEM) : uma forma de publicidade que permite que você faça um lance para que seu anúncio seja 
+exibido juntamente com resultados de pesquisa para palavras-chave que as pessoas estão digitando. Isso permite que as 
+empresas sejam vistas pelas pessoas no momento exato em que estejam procurando algo que uma empresa oferece. 
+Exemplo:  “O SEO é um processo longo, mas usar o SEM me ajudou a conseguir mais tráfego no website mais rapidamente.” 
+Página de resultados do mecanismo de pesquisa (SERP) : uma lista de resultados que aparece em um mecanismo 
+de pesquisa em resposta à consulta de pesquisa de um usuário. 
+Exemplo:  “Depois que pesquisei “comprar tinta com alto brilho a granel”, percebi que a SERP tinha listagens naturais 
+e listagens pagas.” 
+Sessão  ou Visita : um grupo de interações que ocorrem em seu website dentro de um determinado período de tempo. 
+Por exemplo, uma única sessão pode conter múltiplas visualizações de página e transações no comércio eletrônico. 
+Exemplo:  “Meu website recebeu 2.000 visitas no mês passado, mas o que realmente importa para mim é se essas visitas 
+resultaram em vendas.” 
+Mídia social : conteúdo como texto, imagens ou vídeos, criado por pessoas e compartilhado na Internet. 
+Exemplo:  “As mídias sociais mudam o tempo todo, então contratei minha sobrinha para me ajudar a criar uma estratégia 
+de mídia social.” 
+Rede social : uma comunidade de pessoas que criam e compartilham conteúdo. 
+Exemplo:  “Redes sociais podem ser um bom lugar para eu mostrar meus belos murais para hall de entrada e ter 
+a possibilidade de conquistar novos clientes.” 
+Aquisição de tráfego : o processo de atrair visitantes (normalmente chamados de tráfego ) para websites, aplicativos 
+móveis 
+e outros recursos digitais. 
+Exemplo:  “Minha estratégia de aquisição se concentra em buscar pessoas que compraram casas antigas recentemente.” 
+Visitante único : um único visitante em um website por um determinado período de tempo. 
+Exemplo:  “Não importa quantas vezes o tio Roberto visite meu website, ele ainda é apenas um visitante único.” 
+URL ou Localizador Padrão de Recursos : o endereço único de uma página ou de um conteúdo digital na Internet. 
+Exemplo:  “Tia Suzana, você pode acessar meu website digitando o URL no navegador.” 
+Desvendando jargões de marketing digital 

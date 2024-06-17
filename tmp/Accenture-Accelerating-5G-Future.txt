@@ -1,0 +1,401 @@
+Provocative thinking, transformative insights, tangible outcomesACCELERATING  
+THE 5G FUTURE  
+OF BUSINESS  
+The possibilities sound endless – but what  
+do businesses actually expect (and worry about) 
+from next generation connectivity?2
+ACCELERATING THE 5G FUTURE OF BUSINESSFrom the launch of the first 5G devices to trials of city hotspots,  
+2019 was the year 5G truly caught hold of the public’s attention. And 
+over the next decade and beyond, we will continue to see consumers, 
+business, the economy and society transformed by 5G’s capabilities. 
+As organizations around the world are already discovering, 5G will 
+drastically alter how they operate and compete, unlocking entirely  
+new use cases and business models across industry verticals. But  
+the path to a 5G future is paved with many challenges. To lead the  
+race, businesses in every industry need to get ready now for the 
+coming 5G revolution.
+So what are global businesses actually looking to see from 5G in the 
+coming years – and how will they go about overcoming the difficulties 
+they encounter? That’s what Accenture set out to discover in our latest 
+research, building on our 2019 5G study. From expectations and 
+concerns, to plans for implementation, here’s what we unearthed.
+ACCELERATING THE 5G FUTURE OF BUSINESS 3GREAT   
+EXPECTATIONS:   
+ATTITUDES  
+TO 5G
+4
+ACCELERATING THE 5G FUTURE OF BUSINESS
+If there’s one thing most decision makers can 
+agree on, it’s that 5G won’t just change the 
+game – it will create a more seismic impact 
+than any wireless technology evolution to 
+come before it. Eight in ten (79%) businesses 
+believe that 5G will have a significant impact 
+on their organization, of which 57% believe it 
+will be ‘revolutionary’ – whereas less than a 
+quarter (24%) felt the same about 4G. 
+And expectations around 5G aren’t just high: 
+they’re also richly varied. Eight in ten (79%) 
+agree that 5G will help them become more 
+connected in what they do, while 78% believe 
+it will create opportunities for new business. 
+It’s also expected to bring productivity gains 
+(77%), benefits for society as a whole (76%), and 
+improvements in operations, such as monitoring 
+new areas of the business. 
+Meanwhile, in terms of tangible outputs from 
+5G, there’s plenty to be excited about – and the 
+majority of respondents believe these benefits 
+will be seen within the next four years:Percentage of businesses who expect the following to happen within the next four years
+Give mobile  
+employees the  
+support they need 
+when they are out  
+in the fieldUpgrade to 5G 
+phones and networks 
+so employees can 
+use crucial mobile 
+applications faster and 
+with more reliability
+Create more flexible 
+networks for our 
+employees - potentially 
+replacing leased lines 
+and WIFIAllow employees  
+to work remotely
+Create new  
+applications capable 
+of monitoring and 
+controlling remote sites 
+and equipment 24/7 Adopt new connected 
+technology solutions 
+which can react to 
+emerging situations 
+within seconds
+Within two years Within four years Increase from the 2019 research
+67 % 19 % 17 +
+ 67 % 18 % 17 +
+63 % 19 % 17 +
+ 64 % 18 %
+61 % 20 % 20 % 18 +
+ 61 % 20 +
+5
+ACCELERATING THE 5G FUTURE OF BUSINESSThe early adopter impact
+Despite the excitement – and increased  
+belief in how soon all of this will happen –  
+5G adoption is still in its infancy. While over  
+half (54%) of businesses are either  
+testing or have part-deployed some level of  
+5G capability, a further 34% are yet to  
+use it in any way. However, it’s likely these 
+figures will shift rapidly over the coming years. 
+So far, only 10% of businesses report  
+they are using 5G widely across the business. 
+But as these respondents reveal, the more  
+‘early experience’ a business has with 5G, the 
+more inclined they are to feel enthusiastic 
+about its potential. Those already using it widely 
+are almost twice as likely to feel it will have a 
+revolutionary impact than those who are yet  
+to adopt it. 
+The signs are positive. But as with all new 
+technologies, mass-adoption won’t be a 
+straightforward process – with multiple 
+challenges to tackle before 5G ambitions can 
+be monetized and transformed into tangible 
+business benefits.Government and the public 
+sector are trailing behind 
+the 5G curve, with 49% yet 
+to adopt 5G in any form. 
+The healthcare industry is 
+leading the way: 16% say 
+they’re using it throughout 
+the organization.
+Extent to which 5G has been adopted
+34 %
+28 %26 %10 %
+We are yet to adopt 5G
+We have piloted it
+Don’t knowWe are using it widely throughout our organizationWe are using it in some areas but not all
+ACCELERATING THE 5G FUTURE OF BUSINESS 6CHALLENGES 
+AND  
+CONCERNS7
+ACCELERATING THE 5G FUTURE OF BUSINESSFor all their enthusiasm, businesses aren’t 
+necessarily sure about the impact some of  
+5G’s features will deliver: only two in five believe 
+real-time data transfer, high capacity, and a 
+faster service will revolutionize their industry 
+over the next five years. 
+There are also a number of perceived barriers 
+to adopting 5G applications and technology 
+– although for the most part, these concerns 
+have diminished from 2019 to 2020. From a lack 
+of understanding or an internal skills gap, to 
+changing employee behaviors and upfront costs, 
+the nature of these concerns is varied. 
+The only concern to have grown over the last 
+year is the threat 5G poses to security. And given 
+how high this issue stands on most business’ 
+agenda, this urgently needs to be addressed. Barriers to adopting applications and technology using 5G in the next three years
+Security concerns Upfront investment 
+will be too great Getting employees 
+to embrace new 
+ways of working We have concerns 
+about the potential 
+health impact  
+of 5GWorried software 
+developers won’t 
+be ready
+35 %32 %
+2020 201931 %36 %
+ 26 %29 %
+ 26 %
+ 24 %28 %
+We lack the internal 
+skills to take 
+advantage of 5GOur current 
+telecoms partners 
+don’t have enough 
+understanding of 
+our industry sectorWe’re afraid of 
+being one of the 
+first adopters and 
+getting it wrongWe don’t have 
+a good enough 
+understanding of 
+how we can use 5GWe don’t  
+believe the use 
+cases will provide 
+enough ROI
+17 %
+ 23 %23 %
+ 21 %26 %
+ 21 %26 %
+ 23 % 18 %
+8
+ACCELERATING THE 5G FUTURE OF BUSINESSSecurity: 
+A double-edged sword  
+The link between 5G and its perceived security 
+risks is complex. Overall, businesses believe  
+5G will make their business more secure  
+(68%). But there are security challenges inherent 
+to 5G network architecture, including user 
+privacy, number of connected devices,  
+multiple networks, service access and supply 
+chain integrity.
+Overall, the risk is distributed across network, 
+infrastructure and user environments. Devices 
+and people pose the largest threat (53%), 
+although this is only marginally more than the 
+corporate network itself (52%). Meanwhile, 74% 
+believe that having more connected, intelligent 
+devices increases their risk of data breaches. 
+Controlling individual devices – and technology 
+users themselves – is notoriously tricky. While 
+there are many security products on offer to 
+tackle network attacks, human threat (whether 
+malicious or inadvertent) clearly poses a real 
+risk. Businesses will need to invest in plenty of 
+education and draw up clear policies for usage. Biggest 5G security challenges for the organization
+User privacy Number of different types 
+of connected devicesMultiple networks 
+being used on the same 
+hardware, creating 
+pressureNumber of different 
+corporate networks we 
+need to access
+Challenging Most challenging
+32 %12 %
+ 32 %11 %
+ 31 %9%
+ 29 %6%Overall volume of devices 
+(exclusive of type)Access to the service 
+provider networkComplicated business 
+ecosystem (suppliers and 
+customers)Supply chain integrity
+41 %19 %
+ 34 %13 %
+ 36 %15 %
+ 37 %14 %
+9 ACCELERATING THE 5G FUTURE OF BUSINESSOf those who are yet 
+to adopt 5G, only 58% 
+believe 5G will make their 
+employees safer. But this 
+rises to 81% for those 
+already using 5G, showing 
+that lived experience of  
+5G should lay security 
+fears to rest. Navigating complexity 
+With that in mind, it is little wonder that 
+businesses are concerned about the additional 
+complexity that 5G will create, and the steps 
+required to navigate this challenge successfully. 
+Three quarters (74%) believe 5G means they’ll 
+need to redefine many of their policies and 
+procedures relating to security. 
+Two thirds (62%) are also worried that  
+5G will leave them more vulnerable to cyber-
+attacks than their existing networks, requiring 
+greater vigilance and further security work. All  
+of this extra work comes at a price – and there 
+are other financial concerns around 5G, too.10MAKING  
+5G  PAY
+ACCELERATING THE 5G FUTURE OF BUSINESS11
+ACCELERATING THE 5G FUTURE OF BUSINESS
+It comes as no surprise that one of the biggest 
+challenges businesses are facing with 5G is 
+cost. The cost of operationalizing 5G has been 
+widely discussed across industries – so despite 
+its benefits, four in five respondents believe that 
+the cost of managing their IT infrastructure and 
+applications will increase. 
+Which isn’t to say this isn’t a price worth paying. 
+But it does mean businesses will need to find 
+ways to ensure they’re getting a return on this 
+investment. It’s hardly surprising, therefore, 
+that using 5G to innovate is seen as the most 
+important challenge (52%). When it’s time to 
+build a use case, the ability to demonstrate that 
+a business is setting itself apart through its 5G 
+investment will be crucial. 
+The most difficult challenge, meanwhile, is 
+ensuring devices are optimized for 5G – a 
+problem which may well link to concerns  
+around device security. Using 5G to innovate in our business
+Bringing technology and teams 
+together to make 5G workCreating the business case for 5G Understanding how we use  
+the networkMaking sure we have devices  
+that are optimized for 5GRunning new networks based  
+on 5G capacityMost important challenges in relation to 5G
+Most difficult challenge Most important challenge
+52 % 39 %
+ 45 % 43 %
+ 43 % 38 %
+42 % 27 %
+ 37 % 37 %
+ 31 % 35 %
+12
+ACCELERATING THE 5G FUTURE OF BUSINESSNone of these challenges are insurmountable, 
+particularly with the support of the right 
+partners and expert advisers. After all, an 
+impressive 90% of businesses believe  
+they can ultimately identify the business 
+opportunity 5G presents. The trick here is 
+turning opportunity into tangible outputs,  
+and identifying what needs to happen in order 
+to achieve this goal.
+ 
+Looking outwards  
+to move forward 
+So – how can they go about this? For most 
+businesses, this means seeking external help:  
+72% believe they need help to imagine 
+the future possibilities for connected solutions 
+with 5G.
+And when developing custom solutions to 
+unlock 5G’s potential, the majority will look 
+outside their own business to make this happen. 
+Four in ten (42%) expect to access solutions in 
+the market that are 5G-ready, while 43% plan to 
+work with partners to develop custom solutions. 
+14 %
+How businesses will develop 
+applications reliant on 5G
+We will work with partners  
+to develop custom solutions
+We will access solutions in  
+the market that are 5G-ready
+We will build our own  
+in-house solutions
+13
+ACCELERATING THE 5G FUTURE OF BUSINESSAs to who those partners are, businesses are 
+most inclined to work with software and services 
+companies (44%). For service providers such 
+as telcos, businesses say they are least likely to 
+work with this group to develop new capabilities. 
+That’s despite how well placed this industry 
+theoretically is to offer support in this area.With their proven history 
+of providing secure 
+connectivity across 
+diverse locations, the 
+advent of 5G offers telcos 
+a clear opportunity to 
+pivot from ‘dumb pipe’ 
+operators to facilitators 
+of 5G ecosystems, like the 
+Internet of Things (IoT). 
+Their expertise in building 
+secure, high-speed 
+infrastructure should put 
+them in pole position to 
+consult on creating and 
+integrating IoT networks – 
+but as this research shows, 
+there’s work to be done 
+before businesses truly 
+understand what telcos are 
+capable of. 
+Partners that businesses are most likely to work with
+44 % 43 % 31 % 24 % 24 %
+Software and  
+services companies 
+(including SI)Cloud  
+companiesEquipment 
+providersCommunications 
+service providersAll of these
+14GEARING  
+UP FOR THE  
+5G FUTURE 
+ACCELERATING THE 5G FUTURE OF BUSINESS15
+ACCELERATING THE 5G FUTURE OF BUSINESS
+It’s clear that global businesses recognize the 
+huge potential of 5G, and many are ready and 
+waiting to take advantage in the early years of 
+the new decade. 
+But there are also barriers to jump (and 
+complex issues to grapple with) before 5G can 
+truly become a vehicle for business growth 
+and innovation. And while early-adopters are 
+showing positive signs, these hurdles loom all 
+the larger for those not yet using 5G extensively. 
+Organizations that want to lead the 5G race have 
+many decisions to make. From feasibility issues 
+to priority use cases, new business models and 
+device strategies, organizations must negotiate 
+a world of operational complexity while keeping 
+on top of costs. The right strategy – and indeed, 
+strategic partnerships – will be vital. With this in 
+place, businesses will be well primed to define 
+their 5G vision… and then accelerate its journey 
+to reality.To learn more about
+Accenture 5G Acceleration 
+Services and how we can  
+help you forge a new path  
+to value with 5G, visit:  
+Accenture.com/
+Accelerate5GCopyright © 2020 Accenture.
+All rights reserved. Accenture and its logo are registered trademarks of Accenture.About Accenture 
+Accenture is a leading global professional services 
+company, providing a broad range of services and 
+solutions in strategy, consulting, digital, technology 
+and operations. Combining unmatched experience 
+and specialized skills across more than 40 industries 
+and all business functions — underpinned by the 
+world’s largest delivery network — Accenture works 
+at the intersection of business and technology to 
+help clients improve their performance and create 
+sustainable value for their stakeholders. With 
+505,000 people serving clients in more than 120 
+countries, Accenture drives innovation to improve 
+the way the world works and lives.
+Visit us at www.accenture.com/Accelerate5GMethodology 
+Through interviews with 2,623 business and 
+technology decision makers, Accenture asked 
+businesses across 12 industry sectors to share their 
+understanding of 5G, how they have adopted it so 
+far, and what they perceive its potential impact to be. 
+Benchmarked against the same research completed 
+in 2019, our 2020 research involved respondents 
+from the United States, the United Kingdom, Spain, 
+Germany, France, Italy, Japan, Singapore, the United 
+Arab Emirates and Australia.

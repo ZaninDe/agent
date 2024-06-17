@@ -1,0 +1,1896 @@
+Increasing Your Corporate Venturing 
+Speed While Reducing the Cost Open 
+Innovation  IESE Business School and BeRepublic   2
+Contents
+Executive Summary 5
+1. What if my company is not yet doing corporate venturing? 9
+1.1 An emerging trend 9
+1.2 The seven lies of corporate venturing 10
+1.2.1 Is corporate venturing only CVC? 11
+1.2.2 Is corporate venturing only for very large corporations? 11
+1.2.3 Does corporate venturing require a lot of investment to start? 12
+1.2.4 Is corporate venturing financially unsustainable? 12
+1.2.5 My corporation is better than any start-up. Why do I need them? 13
+1.2.6 Will corporate venturing give me short-term results? 13
+1.2.7 Is corporate venturing useful only for start-ups  
+ at either an early stage or late stage? 14
+1.3 How does my company start to do corporate venturing? 14
+1.3.1 Preparing the organization to integrate value 14
+1.3.2 Building your pipeline of growth opportunities 14
+2. Benchmarking speed and cost by mechanism 16
+2.1 Introduction: The case of AT&T Foundry 16
+2.2 Definitions and clarifications: Speed, cost and innovation stage 17
+2.2.1 Speed and cost 17
+2.2.2 Stages of a corporate venturing project 17
+2.2.3 Development stages of an external opportunity 18
+2.3 What has been said, mainly about CVC 19
+2.4 What we do not know and why the answer matters 19
+2.5 The results 20
+2.5.1 Speed per opportunity by mechanism 20
+2.5.2 Tackling integration, usually the longest stage 21
+2.5.3 Organizational agility: A competitive advantage 22
+2.5.4 Ongoing cost per opportunity per mechanism per year 24
+2.5.5 Connecting venturing mechanisms 
+ and business units to reduce structural costs 25
+2.5.6 Relationship among speed, cost and the opportunity stage 25
+2.6 Consequences: What now? 26
+3. Appendixes 283
+Open Innovation 
+IESE Business School and BeRepublic   4
+Mª Julia Prats
+IESE Business School
+-- 
+jprats@iese.eduJosemaria Siota
+IESE Business School
+--
+jsiota@iese.eduIsabel Martinez-Monche
+BeRepublic
+--
+isabel.mmonche@berepublic.esYair Martínez 
+BeRepublic
+--
+yair.martinez@berepublic.esAuthors
+Contributors
+External experts*Celeste Saccomano, IESE Business School
+Akiyoshi, Ippei (Mitsubishi)
+Alliot, Jean-Baptiste (UEFA)
+Alonso, Ángel (Sanofi)
+Allo, Luis (Johnson & Johnson)
+Anzai, Kiyoshi (Fujitsu)
+Balseiro, Catalina (Suez)
+Barahona, Claudio (Telefónica)
+Brion, Alexis (Allianz)
+Carvalho, Nuno (Bekaert)
+Connolly, Tony (AT&T)
+de Miguel, Álvaro (Engie)
+de Palacio, Itxaso (Notion)
+Díaz, Diego (Iberdrola)
+Garbayo, Edu (BBVA)
+Gaskell, Harry (EY)
+Gimmy, Gregor (27pilots)
+G. Subils, Javier (ICCUB)
+González, Javi (Danone)
+Jiménez, Juan (Santander Bank)
+Kahl, Oliver (Osram)
+Korotkova, Katerina (Warner Bros)
+Korth, Karolina (Siemens)
+Kropp, Rosie (Bisnode)Kutepov, Glip (Mercedes-AMG)
+Lagarrigue, Emmanuel (Schneider Electric)
+Martínez, Jorge (Santander Bank)
+Mialet, Anna (CaixaBank)
+Mohr, Bernhard (Evonik)
+Monzó, Maria (Aigües de Barcelona)
+Morais, Stephan (Indico Capital Partners)
+Neves, Cristina (Santander Totta)
+Olarte, Enrique (Enagás)
+Panesar, Tej (British Patient Capital)
+Pinto, Tania (Sonae)
+Remaut, Wouter (Co.Station)
+Ribeiro, Pedro (Armilar Venture Partners)
+Roca, Miquel (Racc)
+Sheehan, Patrick (ETF Partners)
+Singer, Ken (Berkeley)
+Stevens, William (TechTour)
+Tresánchez, Manuel (Banco Sabadell)
+Van Neerven, Simone (Vueling)
+Varela, Borja (Liberty)
+Wockatz, Philip (Volvo)
+Wu, Michelle (General Electric) 
+Published in January 2019
+* The list is just a small selection of the external experts who have taken part in the 
+study. They shared their personal insights and not those of their corporations.
+5
+Open Innovation Executive 
+Summary 
+Corporate venturing—the collaborative 
+framework between established 
+corporations and innovative start-ups—
+has been emerging at speed (with a 
+42% increase between 2010 and 2015 in 
+some cases) through many mechanisms, 
+such as venture clients, venture builders, 
+scouting missions, challenges prizes, 
+and corporate accelerators.
+Firms’ chief innovation officers look 
+for data so they can make decisions in 
+this field backed up by evidence. How 
+much will it cost (in time and money) to 
+integrate opportunities’ value into the 
+parent company using each corporate 
+venturing mechanism? How can those 
+costs be reduced, while increasing the 
+speed? Do the costs differ according 
+to mechanism? Which mechanisms 
+are quicker? And which are the most 
+cost-effective? How long should a chief 
+innovation officer wait before killing an 
+opportunity? These are data that these 
+executives usually do not have because 
+of the novelty of the concept and the 
+lack of historical data.
+Based on 121 interviews with firms’ chief 
+innovation officers and those in related 
+roles in the United States, Europe and 
+Asia, the study sheds light on these 
+questions. For instance, there are mechanisms whose opportunities cost 
+around €250,000 (a venture builder) 
+while others cost around €300,000 (a 
+corporate incubator).
+The conclusions will help leaders define 
+their corporate venturing strategies 
+more accurately and select a more 
+appropriate combination of corporate 
+venturing mechanisms. Additionally, 
+the gathered data will help innovation 
+managers to have a benchmark against 
+which to compare themselves and 
+check whether they are spending too 
+much money or proceeding too slowly.
+For corporate venturing initiatives such 
+as AT&T Foundry, agility has become a 
+competitive advantage to attract the 
+best start-ups, with relationships usually 
+established quickly because of the start-
+ups’ scarce cash flow. The time span of 
+the relationship between a corporation 
+and start-ups starts with identification of 
+the opportunity and collaboration, going 
+on to the integration of value into the 
+parent company and it is the integration 
+stage that usually takes the longest. 
+For example, the identification stage 
+could require anywhere from one to five 
+months on average, depending on the 
+mechanism used, while the attraction 
+and integration stages are much longer, ranging from one to 11 months for the 
+attraction stage and four to 18 months for 
+the integration stage. 
+So, how can you improve your corpo -
+rate venturing strategy, increase your 
+speed and reduce your costs? The study 
+provides several principles such as: using 
+data (not intuition or media hype) when 
+choosing the combination of corporate 
+venturing mechanisms; identifying the 
+stage in which your bottleneck is located 
+(identification, collaboration or integra -
+tion); adopting agile principles, especially 
+in the longest stage (integration); fighting 
+to become the player in your industry with 
+which start-ups most want to work; using 
+the “joint three pockets” rule to increase 
+your innovation budget and other units’ 
+involvement by sharing innovation costs 
+with corporate, business and innovation 
+units; and ensuring good communica -
+tions among different corpore venturing 
+initiatives.
+Lastly, the study provides preliminary 
+instructions to start doing corporate 
+venturing, and describes some of the 
+most common misunderstandings 
+about corporate venturing such as the 
+idea that it involves only CVC and large 
+corporations, requires a lot of investment 
+to start and is financially unsustainable.IESE Business School and BeRepublic   6
+7
+Open Innovation EXAMPLES OF COMPANIES USING CORPORATE VENTURING+120
+Corporate venturing
+is the collaborative framework 
+between established firms
+and innovative start-ups
+THE SEVEN LIES OF CORPORATE VENTURING
+It is only corporate 
+venture capital
+It will give short-term 
+results
+INCREASING SPEED AND REDUCING COST€ 310,000 € 255,000 € 47,0001
+2
+35
+67 4
+1.  Use data (not intuition or media hype) for choosing corporate venturing mechanisms
+2.  Think twice critically about having a corporate incubator
+3.  Share innovation costs with corporate headquarters and business lines
+4.  Adopt agile principles, especially in the longest stage (integration)COST OF ONE OPPORTUNITY PER YEAR PER MECHANISMHOW MUCH WAIT BEFORE KILLING AN OPPORTUNITY
+Corporate accelerator
+on average, an opportunity requires 11 months
+Venture builder
+on average, an opportunity requires 10 months
+Venture client
+on average, an opportunity requires 8 months1. Identification
+2. Collaboration
+3. Integration
+Months required per 
+opportunity, stage
+and mechanismIt is only for very large 
+corporations
+It is useful only for early- or 
+late-stage start-ups
+Corporate accelerator Venture builder Venture clientIt requires a lot of 
+investment to startMy corporation is better 
+than any start-up
+Open Innovation: Increasing Your Corporate Venturing Speed
+While Reducing the Cost 
+Mª Julia Prats, Josemaria Siota, Isabel Martinez-Monche, Yair Martínez
+© 2019 | https://goo.gl/h4tJKK*Ongoing cost per opportunity per year = internal FTE cost + managerial cost (excluding investment)Corporate Venturing
+Increasing Speed While Reducing the Cost Based on 120+ interviews with CIOs
+(and related roles) in US, EU and Asia
+It is financially 
+unsustainableIESE Business School and BeRepublic   8
+9
+Open Innovation 1. What if my company
+ is not yet doing
+ corporate venturing?
+1.1 AN EMERGING TREND 
+Corporate venturing—defined as the collaborative framework 
+between established firms and innovative start-ups—has 
+been emerging at speed.1 
+According to our previous study, conducted in collaboration 
+with chief innovation officers and those in related roles, 70% 
+of firms were increasing investment in their innovation units, 
+60% of which had been created in the previous five years. 
+Corporate venturing mechanisms have continued to rise, with 
+a 42% increase between 2010 and 2015.1
+These tools—venture clients, hackathons, venture builders, 
+scouting missions, corporate accelerators and more—are 
+clear paths for attracting and adopting innovations by 
+established firms, following the paradigm of open innovation, 
+which assumes that firms can and should use external ideas.2
+Source: Schneider Electric.Figure 1. Schneider Electric’s Innovation Center  
+in Silicon Valley 
+As Schneider Electric’s chief strategy officer Emmanuel 
+Lagarrigue said: “Corporate venturing allows established 
+companies to access forms of innovation that are difficult or 
+impossible to produce internally.”3  
+The first trigger for the increase of corporate venturing 
+mechanisms in companies is the so-called VUCA environment Source: GV.Figure 2. GV’s (formerly Google Ventures) office
+in Mountain View
+in which we are living. This acronym describes the high levels of 
+volatility, uncertainty, complexity and ambiguity of the 
+modern-day business environment. As General Motors 
+president Dan Ammann said: “We see more change in the next 
+five years than there’s been in the last 50.”4 
+The second trigger has been some successful stories such as 
+the creation of Google Ventures in 2008, a move that was 
+mocked by many. This venture has successfully grown into one 
+of the largest corporate investors. This was (kind of) an 
+endorsement by a successful innovative company.5
+The third lever has been the high level of media attention 
+received (the number of media articles referring to “corporate 
+venturing”), which has grown by 3.1 times in the past four 
+years.* 
+Lastly, academics and publishers have also taken an 
+increased interest in this practically unexplored arena, with 
+many research questions waiting to be answered. In the past 
+four years alone, the number of publications (in academic 
+--
+* Source: Analysis done by the authors using data from the Factiva database.IESE Business School and BeRepublic   10
+Source: Samsung Electronics. Source: Henkel.
+Source: Wells Fargo.Figure 3. Samsung Electronics’ Global Innovation Center
+in Tel AvivFigure 4. Henkel’s Innovation Center
+in Pune
+Figure 5. Wells Fargo’s Digital Innovation Hub in San Francisco
+and collaborating with partners are indispensable for 
+success.” He said that corporate venturing complemented 
+other options such as R&D, innovation, and merges and 
+acquisitions (M&As).3
+Nevertheless, since the model is emerging, there are a few 
+misconceptions (and unanswered questions) that are 
+preventing some chief innovation officers from leveraging 
+corporate venturing mechanisms, which means they lose the 
+potential growth such mechanisms offer. This echoes one of 
+our previous studies, which found that just 23% of companies 
+said their innovation units were delivering significant 
+innovative solutions.7
+In conclusion, though there are many ways of innovating in 
+companies, corporate venturing is an emerging practice that 
+allows a company both to source new innovative 
+opportunities and to speed up a solution that is already 
+showing successful results.
+Executives must take a mid- to long-term view for corporate 
+venturing to bear fruit, and they must be diligent when 
+designing a model that will align in the most appropriate way 
+with the firm’s objectives and culture.
+Bipin Sahni, senior vice president of innovation and R&D at Wells 
+Fargo, said that the company had launched its start-up 
+accelerator program in 2014 “to spur innovation for our 
+customers’ benefits and expand our vision of the future of 
+financial services beyond the boundaries of Wells Fargo and 
+banking.” He added: “When we pitched the idea to senior 
+management, there was just one question: ‘Why aren’t we doing 
+this already?’ ”8
+Nonetheless, beyond these positive considerations, there are still 
+firms that are skeptical of the model. Such firms’ executives 
+usually share one or more of the following ways of thinking that 
+act as brakes:1.2 THE SEVEN LIES OF CORPORATE VENTURING and nonacademic journals) has increased by 1.8 times, with a 
+growth rate of 18%.*
+However, this is not a new practice: large firms such as Intel, 
+Siemens, Qualcomm, Xerox, GE, IBM, Lucent, Cisco, 
+Samsung, Comcast and Merck have been developing such 
+mechanisms since as far back as the 1960s.5
+It is important to note that these venturing tools are not 
+being used to supplant internal research and development 
+(R&D) but to complement and encourage it. Existing 
+examples illustrate this interaction in industries such as the 
+media, technology and automotive sectors.6 For instance, in 
+the case of the media, the R&D spending (as a percentage of 
+sales) of companies that use a combination of corporate 
+venturing mechanisms—such as corporate venture capital 
+(CVC), corporate accelerators and corporate incubators—is 
+2.4 percentage points higher, on average, than the R&D 
+spending of the top 30 companies by market capitalization in 
+the same sector.6
+As explained by the Henkel Ventures head of corporate 
+venturing, Thomas Schuffenhauer: “In a world of constant 
+change that defines new value chains, acquiring new skills 
+-- 
+* Source: Analysis done by the authors using data from the Scopus database.11
+Open Innovation 1.2.1 Is corporate venturing only CVC?
+Corporate venturing is “a collaboration framework that 
+acts as a bridge between innovative and disruptive 
+start-ups and established corporations.” It was defined 
+as the “mean through which corporations participated 
+in the success of external innovation to help them gain 
+insights into non-core markets and access to 
+capabilities.”9 
+The CVC model—having an internal venture fund to 
+invest in start-ups—has existed since the 1960s. 
+However, the first pioneer can be traced back to 1914, 
+when DuPont invested in a six-year-old private 
+automobile start-up called General Motors.5 
+The aspects that are more current and growing 
+are other corporate venturing mechanisms (e.g., 
+venture builders and corporate accelerators) that 
+make this collaboration more sophisticated. For 
+instance, between 2010 and 2015, the top 10 
+companies (by market capitalization) increased the 
+number of corporate accelerators and incubators by 
+42%.6
+Having said that, corporate venturing not only is  
+getting more sophisticated but also is finding new 
+goals for CVC. While many people thought that CVC 
+was useful only for financial returns, nowadays 
+strategic goals are gaining in importance in the 
+decision-making process. Therefore, examples of CVC 
+can be found that are described in the literature as 
+having mainly financial goals (e.g., Dell Ventures10 and 
+GV or formerly Google Ventures11), strategic goals 
+(e.g., Salesforce Ventures12,13  and Lucent Venture 
+Partners10) and hybrids (e.g., Intel Capital14 and 
+Qualcomm Ventures15).
+As Varun Jain, head of the Qualcomm 
+Ventures global early-stage fund, put it: “We’ve 
+always believed that companies that aren’t 
+financially successful on their own will lead to 
+limited strategic dividend. So, we restrict our 
+investment mandate to technologies/markets that 
+are (or could be) strategically relevant to Qualcomm 
+and then evaluate deals with same lens and 
+emphasis on financial prospects as traditional 
+venture investors.”15
+CVC examples with more sophisticated strategies 
+can also be found. For instance, the semiconductor 
+company Intel was looking for ways to increase its 
+revenue in the early 1990s and later found a way to 
+increase its sales channels in an innovative way. Intel 
+then decided to follow an investing strategy to enable 
+indirect revenues.
+The company invested in hundreds of start-ups, whose 
+solutions included the use of the company’s powerful 
+Intel Pentium chips. The CVC indirectly increased the 
+demand for the company’s products and therefore 
+received high financial returns.15Source: Salesforce.
+Source: Investing in Global Innovation. Intel Capital  (2014).Figure 6. Salesforce Tower in Chicago (inside view)
+Figure 7. . Goals of Intel Capital (strategic and financial)
+Strategic, Long Term Investor
+Intel´s Global Investment and M&A Organization
+Our Mission
+Enhance Intel´s strategic objetives by making and 
+managing financially attractive investments.
+Strategic FinancialIntel
+Capital
+1.2.2 Is corporate venturing only for 
+ very large corporations?
+Although the growing literature is providing more and more 
+examples and data pertaining to large corporations, there 
+are less-known cases of small and medium enterprises 
+(SMEs) that are implementing this collaborative framework 
+successfully, such as the renewable energy company Fersa16 
+and other European SMEs such as Lékué, Pro Earth, 
+Dearman, BA Systèmes and Jenetric.17
+Moreover, public entities are increasingly enhancing such 
+collaboration between SMEs and start-ups through policies 
+and funding—for instance, in projects of the European 
+Commission’s current Horizon 2020 program and its 
+forthcoming successor Horizon Europe (formerly FP9).18
+Additionally, the mechanisms that are usually mentioned in 
+the literature—such as hackathons, corporate incubators, 
+venture builders and corporate accelerators—can be 
+implemented perfectly by SMEs. Although such firms might 
+IESE Business School and BeRepublic   12
+Source: Open Innovation for SMEs. Inspire  (2016).Figure 8. Dearman founder Toby Peters receiving two awards at 
+the annual UK SME Innovation Awards
+have to focus in mechanisms that are faster and require 
+less capital because of time and budget constraints, they 
+are able to implement those. The number of times per 
+year that such SMEs use the mechanisms may also vary. 
+Lastly, to be effective, such companies should design an 
+attractive value proposition carefully.
+1.2.3 Does corporate venturing require a lot
+ of investment to start?
+As seen in one of our previous studies, building from 
+scratch a corporate venturing mechanism ranges from 
+investments of €10,000 for a hackathon to €30,000 for a 
+venture client and for sharing resources.1
+Additionally, some mechanisms require lower 
+maintenance costs, as detailed later in this study. (See 
+section 2.5.4)
+1.2.4 Is corporate venturing financially   
+unsustainable?
+As in many business practices across sectors and 
+geographies, some actors perform better than others. 
+There are already many cases of companies that have not 
+only successfully implemented the model but also 
+achieved financial sustainability within their corporate 
+units.1,9 (See section 1.1.)
+Contrary to public belief, the traditional CVC model 
+(according to Harvard Business School professors 
+Gompers and Lerner) appears to be at least as successful as those backed by independent venture organizations, 
+especially for investments in which there is a strategic 
+overlap between the corporate parent and the portfolio 
+firm.19 They also argue that corporations are more likely to 
+benefit from indirect gains such as strategic alliances and 
+a greater understanding of industry trends, as well as 
+direct financial returns.
+An interesting example is that of Xerox Technology 
+Ventures. Between 1988 and 1996, it achieved excellent 
+financial returns from investing in more than a dozen 
+companies and by aggressively exploiting the technology 
+and knowledge of its corporate parent. It achieved a 
+profitable financial model.19
+Yet, in addition to the traditional CVC model, which we 
+already know has produced similar financial returns to the 
+VC industry over the past five years,20 the number of 
+success stories with other corporate venturing 
+mechanisms has been increasing.
+This is the case of the German conglomerate Siemens, 
+whose innovation unit Technology To Business (in 
+Berkeley) has run 70+ projects since 1999 and has 
+launched 10+ new products (or entire product lines).21
+It is also the case of the software corporation SAP, which 
+brought more than 1,500 early adopters to a new 
+product’s platform by creating a corporate accelerator 
+immersed in agile principles.2
+Thirdly, there is the case of the US conglomerate AT&T, 
+which worked with the start-up Intucell through its 
+Foundry program to improve the reliability and speed of 
+the AT&T wireless network. The speed and reliability of the 
+service increased by 10%, while tower overloading was 
+reduced by 30% within a few months. (See Section 2.1.)
+Furthermore, as seen in a previous report1, more and more 
+CIOs are understanding the importance of designing 
+venturing strategies that encompass a long-term vision 
+rather than short-term deliveries, which in many cases has 
+the potential to destroy long-term growth opportunities.
+Last but not least, it is also particularly important to 
+maintain financial sustainability in order to manage 
+innovation with a portfolio mindset, as many  
+companies do (e.g., IBM, Google, Intuit, 3M, Procter & 
+Gamble, Apple).22 Having three baskets usually help 
+business units to combine the strategic and financial 
+goals. These baskets are disruptive, incremental and 
+cash-out.
+One basket is for disruptive-innovation projects—those 
+that may change your business model (high risk). One is 
+for incremental-innovation projects—those that are going 
+to lead to some improvement in the organization (medium 
+risk). One is for cash-out projects—those that are going to 
+ensure medium-term financial sustainability so the 
+company can continue to innovate (low risk). The weight 
+to balance the three baskets will come from the venturing-
+strategy goals.13
+Open Innovation Figure 11. IBM’s Digital Innovation Center in Dublin
+Source: Siemens.Figure 9. Siemens’ Technology To Business in Berkeley
+1.2.5 My corporation is better than any 
+ start-up. Why do I need them?
+Firms that are successful in corporate venturing are those 
+that regard the differences between corporations and 
+start-ups as a source of opportunities. One organization may 
+find a solution to its limitations in another organization. For 
+instance, a start-up’s endemic lack of resources may be 
+compensated by it being able to share the resources of a 
+corporation.
+The focused talent pool of a start-up may offset a 
+corporation’s lack of knowledge in that area. As IBM Ventures 
+managing director Wendy Lung said: “There has to be an 
+awareness and acceptance within senior leadership that this 
+is an absolutely vital ecosystem that we have to have a close 
+relationship with.”8
+1.2.6 Will corporate venturing give me 
+ short-term results?
+To understand the answer to this question, it is important to 
+first define both “short-term” and “results.” Depending on 
+whom you ask, you might be told that “short-term” means 
+days, weeks, months or years (e.g., whether you ask a 
+start-up or a financial corporation or a pharma company). The 
+same happens with what is meant by “results,” which 
+executives can understand as referring to many things such 
+as revenues, knowledge or products (e.g., whether you ask a 
+banking institution or a media company).
+Firstly, some management frameworks have developed a time 
+horizon to manage growth opportunities21 such as the 
+McKinsey horizons of growth. Horizon 1 has a common time 
+span of one to three years and refers to extending and 
+defending your core business. Horizon 2 has a common time 
+span of three to five years and refers to building emerging 
+businesses. Horizon 3 has a common time span of five to 12 
+years and refers to creating viable options.
+Yet, as with many principles and frameworks in management, 
+you have to adapt and tailor the learning to your specific 
+scenario, avoiding a simplistic copy and paste. For instance, 
+while a bank may think in terms of a time frame of three to Source: 3M.Figure 10. 3M’s Innovation Center in Delft
+five years for building new ventures, a start-up may already 
+die in that time (bearing in mind that three out of four 
+start-ups disappear after three years).24
+Also, the time required to launch a new product or service 
+in the pharmaceutical industry is quite different from the 
+time required in the tech industry. While a pharmaceutical 
+company needs around 13.5 years from discovery of a new 
+molecular entity to launch (preclinical, phase 1, phase 2, 
+etc.),25 a tech company can launch a new product perfectly 
+well in less than a year.
+Additionally, some organizations are quicker than others 
+and therefore are more agile when it comes to building and 
+adopting new innovations, as explained in a previous 
+study.26
+Secondly, as will be seen later in this study (section 3.2.2), 
+results can be many things—not only revenues but also 
+knowledge, products and services, mind-sets, processes 
+and business models.
+Once we have a common understanding, we can segment 
+the time span into two pieces of data: the time needed to 
+build the corporate venturing mechanism (e.g., a venture 
+client), and the time needed to go through the whole 
+venturing process from identification to integration of the 
+value.
+Source: IBM.IESE Business School and BeRepublic   14
+1.3 HOW DOES MY COMPANY START
+ TO DO CORPORATE VENTURING?
+1.3.1 Preparing the organization to integrate value
+If a successful corporate venturing unit* is understood as being 
+one that can efficiently add new value to a company (e.g., 
+knowledge, a product or service, a mind-set, process, business 
+model or revenue), the most successful approach the authors 
+have seen is to launch it under the paradigm of organizational 
+change. The logic behind this approach is that it will challenge 
+the status quo of any particular organization. This would signal 
+imminent organizational change rather than the unit just being 
+yet another toy for the CEO.
+Launching a unit that will provide value (in terms of 
+opportunities) to the core or adjacent business implies doing 
+things differently. This process is basically organized into three 
+phases: unfreezing, moving and institutionalizing.1
+The first step (unfreezing) consists of creating a sense of urgency 
+for change within the institution, creating a group willing to lead 
+change and communicating the new vision to internal and 
+external stakeholders. This can also start in a small department of 
+the organization, as a seed that will scale (step by step) across 
+the institution.
+The second step concerns the implementation of change 
+(moving), which often amounts to a process of experimentation. 
+During this phase, according to the new vision, new procedures 
+are established in order to identify a solution. This may consist of 
+rethinking objectives and systems of budgeting, planning and 
+rewarding.
+The final step is consolidating (institutionalizing) the 
+improvements achieved in the previous phase. This is a pattern 
+that was echoed in the interviews conducted in this study.1.3.2 Building your pipeline of growth opportunities
+In parallel, in addition to being an organization that can 
+integrate value and change, a company should be able to 
+attract value through growth opportunities. Otherwise, it will 
+be hungry for growth but have no food.
+In this process of generating new growth opportunities, 
+experts have recognized three fundamental challenges: 
+encouraging outsiders to supply external innovation 
+(identification), incorporating external innovation into internal 
+development (collaboration), and designing ways to exploit 
+internal innovation (integration).2,27 This framework of 
+challenges was echoed by the interviewees in this study.
+Copy and paste strategies are not a good practice in corporate 
+venturing, as we spotted in our previous studies.1 Each 
+corporate venturing mechanism requires a different set of 
+resources, cost and time, and also provides opportunities 
+during different development stages, so an opportunity may 
+be more or less risky.
+BUILDING THE PIPELINE 
+OF GROWTH OPPORTUNITIES
+1. Definition of your goal and objectives
+2. Self-assessment of the company’s situation
+3. Identifying the areas of your business more exposed  
+to innovation
+4. Checking the areas in your industry that are creating  
+sustained growth opportunities
+5. Setting up your preferred search fields, in line with  
+the previous steps
+6. Choosing the when and how (tools), to complement 
+internal and external innovationIn our previous report, we shared the time spans per 
+mechanism, which ranges from two to three months in the 
+case of building a corporate venturing unit that will execute 
+strategic partnerships and venture clients, and from 12 to 13 
+months in the case of building a unit that will execute a CVC or 
+acquire start-ups.1
+This study will shed light on the time spans required to go 
+through the whole innovation process.
+In conclusion, corporate venturing mechanisms are designed 
+for mid- to long-term horizons, bearing in mind the singulari -
+ties of your industry and size. Having a short-term view may 
+destroy long-term growth opportunities for corporations.1
+--
+* A corporate venturing unit is the oragnizational structure a company has to 
+implement the interaction (i.e., identification, collaboration and integration) with 
+innovative start-ups. This structure refers to the resources (e.g., team, budget, 
+knowledge) and processes in place for that interaction.1.2.7 Is corporate venturing useful only for start-
+ups at either an early stage or late stage?
+The short answer is no, it is not.
+It is a misconception that corporate venturing works only 
+when collaborating with start-ups that are in their early days or 
+with very developed start-ups. Our previous research found 
+that there are mechanisms for each development stage (i.e., 
+for discoveries, start-ups and scale-ups) (see Appendix 1) and 
+there are success stories relating to each mechanism. For 
+instance, CVC is usually applied to start-ups and scale-ups, 
+while scouting missions and hackathons are usually for 
+discoveries (very early stage).115
+Open Innovation Therefore, it is necessary to design a tailored strategy for each 
+organization for how to build this pipeline of growth 
+opportunities. Below are the first steps to take into account. 
+(See our previous studies1,9 for more details on the steps, costs, 
+timings, challenges and best practices.)
+Within the parameters of this study, several factors have 
+surfaced as being critical for designing the right strategy and 
+environment of a successful corporate venturing unit. Two 
+previously unsolved challenges in particular are among the 
+most salient.
+First of all, it is necessary to understand the pros and cons of 
+the corporate venturing unit’s autonomy (with respect to the 
+parent company) to maximize the value integrated into the 
+parent company. The authors will cover this in a forthcoming 
+study.
+Secondly, there must be historical data or benchmarks on the 
+speed and ongoing cost per opportunity for each of the 11 
+corporate venturing mechanisms. This is not only to select the 
+combination of the most appropriate mechanisms to maximize 
+the value generated by the corporate venturing unit but also to 
+tackle the trade-off between time and cost that usually appears 
+in management.
+The concept of the Iron Triangle defines three criteria for 
+success in project management: cost, time and quality.28 These 
+criteria can also be applied to project management in 
+corporate venturing activities. The ideal project is managed in 
+the most cost-effective way, in the minimum time and with the 
+best quality.
+ 
+The time-cost trade-off sometimes creates operational 
+problems relating to milestones, scheduling and cost 
+optimization because those are calculated in advance, leading 
+to problems of misalignment during the actual project 
+implementation.28
+In the literature, there is an assumption that the time-cost 
+trade-off refers to the solution of this challenge: a project’s 
+duration can be shortened by accelerating some of its 
+activities at additional expense29 or, if necessary, the project 
+can still be completed with fewer resources but over a longer 
+time. However, is there a more effective solution? The next 
+section will shed light on this question.IESE Business School and BeRepublic   16
+2. Benchmarking speed 
+ and cost by mechanism
+2.1 INTRODUCTION: 
+ THE CASE OF AT&T FOUNDRY
+Jessica has been preparing her elevator pitch all night long. 
+Today, she will present her idea to AT&T, a multinational giant 
+with an annual revenue of $190 billion. She spotted an open call 
+from AT&T Foundry for new solutions for a specific internal 
+challenge the company wants to solve.
+The program is a mixture of a challenge prize, a corporate 
+incubator and a venture client, and it is hosted at the company’s 
+innovation centers. Jessica knows the program has a track 
+record of more than 500 projects and has deployed dozens of 
+new products and services. The program can be the right 
+catalyst to bring her idea to the market quickly.
+Source: Martin, J., First Look: AT&T Opens New Facility at Texas 
+Medical Center. Houston Business Journal  (June 7, 2016).Figure 12. AT&T Foundry’s office in Plano
+When she started her preparation, she was a bit skeptical about 
+the agility of the company because of its history (tracing its 
+origins back more than 130 years), the high number of employees 
+(more than 250,000), and the low percentage of start-up pitches 
+that resulted in a joint project with the corporation (roughly 10%).
+For all these reasons, she assumed that the innovation unit would be affected by its parent company’s “traditional” and nonagile 
+mind-set, with complicated decision-making processes and high 
+levels of bureaucracy. However, when one of her entrepreneurial 
+colleagues told her about how the program was designed, she 
+changed her mind.
+Apparently, the AT&T Foundry’s “way of doing” is supposed to 
+resemble that of start-ups as closely as possible. Each AT&T 
+Foundry innovation center hosts an attorney with experience of 
+working in fast-paced environments to take care of paperwork at 
+start-ups’ speed. Then, each team has 12 weeks to present a 
+proof-of-concept (POC) prototype to a business unit, without 
+having to share equity or intellectual property (IP) with the 
+established company.
+After this initial validation is passed successfully, the start-up’s 
+role changes to that of a regular technological supplier of the 
+receiving business unit. Moreover, Jessica heard that a 
+four-person start-up called Intucell had entered the program, 
+claiming it knew how to improve reliability and speed in the AT&T 
+wireless network. Within a few months, it had increased the 
+speed and reliability of the service by 10%, while reducing tower 
+overloading by 30%.
+In one of our previous studies, the authors found the overhead 
+costs for building different corporate venturing mechanisms (e.g., 
+€10,000 for a hackathon, €125,000 for a corporate accelerator, 
+and €350,000 for a venture builder).1,30
+However, this study has looked ahead and explored all phases of 
+a corporate venturing project opportunity: identification, 
+collaboration and integration (section 2.2.2) to explore the 
+managerial costs and speed of integrating value from an 
+opportunity (section 2.5). This would help enterprises 
+understand: the average time required to validate whether an 
+opportunity is interesting and worth investing in; the time that 
+must be put into attracting the selected start-ups; the time 
+needed to incorporate any solution into the company; and more. 17
+Open Innovation 2.2.1 Speed and cost
+Innovation speed  refers to the rate at which innovation 
+occurs in the different stages of a corporate venturing 
+opportunity (see section 2.2.2), which differs between 
+mechanisms.
+Managerial cost  refers to the amount required to identify, 
+collaborate and integrate value from one opportunity in each 
+mechanism once it has been launched. It includes costs such 
+as legal services, marketing, trips, databases and facilities. It 
+does not include full-time equivalent (FTE) costs or the actual 
+investment (e.g., capital principal or investment fees). In the 
+case of mechanisms that have several “editions” during a year 
+(such as some incubation programs), interviewees provided 
+the cost of the whole year, unless there were more than three 
+months between each edition.2.2 DEFINITIONS AND CLARIFICATIONS: 
+SPEED, COST AND INNOVATION STAGE
+Source: Prepared by the authors. The list of tasks is not exhaustive. Yet, it encompasses the most relevant aspects.Figure 13. Stages of a corporate venturing project 
+1. IDENTIFICATION
+• Detecting internal challenges
+• Defining the research areas
+• Choosing the search 
+geography
+• Scouting for a problem-
+solution fit (e.g., databases, 
+conferences, networks, 
+partners)
+• Signing a nondisclosure 
+agreement (in some cases)2. COLLABORATION
+• Seducing the start-up
+• Conducting due diligence 
+of the opportunity (e.g., 
+interviews and data)
+• Drafting a collaboration 
+agreement
+• Getting approval from legal 
+departments
+• Signing a collaboration 
+agreement (a term sheet in the 
+case of CVC)
+• Implementing the program or 
+the joint proof of concept3. INTEGRATION
+• Deciding to internalize 
+or continue the  external 
+collaboration
+• Determining the best corporate 
+venturing mechanism to 
+continue the collaboration
+• Choosing whether investing 
+either more time or a bigger 
+budget in the start-up
+• Identifying the best way to 
+integrate the value generated
+• Assimilate that value into the 
+parent companyFull-time equivalent cost refers to the corresponding 
+amount of money required to sustain the mechanism once it 
+has been launched, in terms of how many full-time equivalent 
+employees are required per year to maintain the mechanism. 
+External employees have not been included.
+2.2.2 Stages of a corporate venturing project
+The three stages of every corporate venturing project  are 
+identification, collaboration and integration.1,31 The authors 
+have assumed this is a sequential process, as demonstrated 
+by the majority of the cases analyzed. Taking a closer look at 
+the three phases:
+Identification  is the first stage and refers to the time span 
+between the creation of the corporate venturing mechanism IESE Business School and BeRepublic   18
+and the identification and prioritization of an opportunity. Here, 
+the term “opportunity” refers to a discovery, start-up or scale-up 
+that may create value for the company.
+Throughout the analysis, the authors considered an average 
+opportunity rather than the first opportunity created by the 
+corporate venturing mechanism because, in the majority of the 
+cases, it takes more time to generate the first opportunity, once 
+the mechanism has been created. For example, in some cases 
+in the sample, the company spent twice as long on generating 
+the first opportunity as it did on generating an opportunity once 
+(a) the company already knew how the venturing mechanism 
+worked and (b) had generated enough opportunities to reduce 
+the initial costs of learning.
+During this first stage of opportunity identification, companies’ 
+tasks generally include the following actions: defining the 
+research areas and the internal challenges to be solved, 
+defining the geography in which the company is willing to 
+identify an opportunity, scouting for a problem-solution fit by 
+analyzing databases, attending conferences, utilizing personal 
+networks and those of their partners and finally, in some cases, 
+signing a nondisclosure agreement.
+In the identification part, the authors found two patterns among 
+the analyzed companies, echoing previous research: those that 
+were actively seeking opportunities, called “push-innovation 
+companies,” and those that were more passive, called 
+“pull-innovation companies.”23 
+Collaboration  is the second stage and refers to the time span 
+between the identification and prioritization of an opportunity 
+and its attraction for a first collaboration test. A first collabora -
+tion test refers to a POC: a joint effort completed by both 
+stakeholders, the corporation and the start-up, to achieve a 
+certain objective. 
+This stage is characterized by some of the following steps: 
+“seducing” the start-up with which the company wishes to work 
+with, conducting due diligence of the opportunity through 
+interviews and gathering further data, drafting a collaboration 
+agreement and getting approval from legal departments. Other 
+actions include signing a collaboration agreement (a term sheet 
+in the case of CVC) and implementing the program or the joint 
+POC.
+Integration  is the third stage and refers to the time span 
+between the beginning of a first collaboration test and the 
+integration of the opportunity’s value into the company. With 
+“value,” the authors refer to anything from which the corpora -
+tion can benefit from: knowledge, products or services, a 
+mind-set toward innovation, processes, business models and 
+revenue sources.
+This stage usually requires checking the results of the previous 
+stage: determining whether to internalize the collaboration or 
+continue with an external collaboration; deciding whether to 
+continue collaborating through the current corporate venturing 
+mechanism or to use another one; investing either more time or 
+a bigger budget in the company; and identifying the best way to 
+integrate the value generated and to assimilate that value into 
+the parent company.2.2.3 Development stages 
+ of an external opportunity
+Although there are several accepted definitions of “entrepre -
+neurial opportunity,” the authors have used these commonly 
+cited definitions: “an idea that has developed into a business 
+form” or “the possibility of introducing a new product to the 
+market at a profit.”32
+As described in some of the authors’ previous studies, 
+opportunities can be engaged through a corporate venturing 
+process at their different development stages (discovery, 
+start-up and scale-up),9,1 depending on the maturity of the 
+opportunity. Each venturing mechanism is suitable in specific 
+ways for opportunities during the different stages of its 
+development. 
+A corporation with mechanisms at the discovery phase—such 
+as scouting missions, hackathons, challenge prizes and sharing 
+resources—is looking to catch opportunities at a very early 
+stage, such as ideas or new technologies.
+Mechanisms such as corporate accelerators, corporate 
+incubators, strategic partnerships, venture builders and CVC are 
+used instead to engage opportunities that are established, or 
+ideas or technologies that need to be crafted. Crafting consists 
+of developing and aligning a business model and designing the 
+corresponding organization that could exploit the value of that 
+innovation.9 Four of the mechanisms previously mentioned 
+(excluding CVC) may also be useful in the ideation phase but are 
+more relevant for their contribution to this phase.
+In the crafting phase, the company would work with organiza -
+tions that already have a business model, a prototype or even a 
+well-developed working business.9
+CVC, acquisitions and venture clients instead deal with 
+well-developed opportunities that are in the phase of being 
+scaled up and deployed.
+Source: Prepared by the authors. For more details, see Appendix 1.Figure 14. Development stages of an opportunity
+DISCOVERY START-UP SCALE-UP
+Scouting mission
+Hackathons
+Challenge prize
+Sharing 
+resources
+Strategic 
+partnershipCorporate 
+accelerator
+Corporate 
+incubator
+Venture builder
+Corporate 
+venture capital 
+Strategic 
+partnershipAcquisition
+Venture client
+Corporate 
+venture capital 
+Strategic 
+partnership19
+Open Innovation This study is mainly answering two questions. On average, 
+how much time and ongoing cost per opportunity in each 
+corporate venturing mechanism are required to integrate 
+value in the parent company? Can they be improved?
+In short, since CVC is the oldest corporate venturing 
+mechanism, the main answers in the literature relate to this 
+mechanism. For instance, how long does it take for CVC to 
+return capital to its investors per opportunity, once the CVC 
+has been created? 19,33 This can depend on other external 
+factors, such as the type of goals and the time frame that has 
+been established by the corporation. A particular example of 
+CVC might have objectives that are strategic, financial or 
+hybrid. Additionally, it can take a long- or mid-term view.
+There are studies that answer similar questions for the 
+venture capital (VC) industry. For instance, there is a study 
+citing data from 80 major US companies with strategically 
+oriented venture capital program. It found that their reported 
+return on investment, for programs that had been in 
+operation for five years or more, averaged 14% to 15%.34
+With the VC industry as a benchmark, the estimation is that 
+VC exits happen in five to seven years after investment in 
+start-ups. VCs sell their equity position in the ventures after 2.3 WHAT HAS BEEN SAID, MAINLY ABOUT CVC
+2.4 WHAT WE DO NOT KNOW AND WHY THE ANSWER MATTERS
+Not only speed but also cost is still a main worry of firms’ 
+CIOs. In particular, cost is a special concern of innovation 
+units, where quick wins are sometimes demanded with no 
+long-term commitment.
+Tweeting about the shutdown of Ogilvy Labs in 2016 (Figure 
+15), the former director of innovative solutions at Ogilvy Group 
+UK wrote: “It’s with regret that Labs has been shut down.” In a 
+subsequent interview, she said: “If you’re not attached to 
+revenue you’re always in a precarious position.”7,38
+Source: Quoted in Omar Oakes and Britanney Kiefer, “Ogilvy Labs 
+Shuts Down,” Campaign  (August 9, 2016).Figure 15. Tweet of Nicole YershonAccording to a 2017 article published in Harvard Business 
+Review, “When a CEO announces a major initiative to foster 
+innovation, mark your calendar. Three years later, many of 
+these ambitious ventures will have quietly expired without an 
+obituary.” 39
+Considering the above, it is important to know the numbers in 
+terms of time and cost to manage the risk of corporate 
+venturing units properly.
+When a CIO is defining a corporate venturing strategy and 
+deciding which mechanisms to combine and which to 
+prioritize, there are two important questions that she will 
+highlight: How long is the process and how much does it cost 
+to generate value from an opportunity in each mechanism? To 
+find out the answer, the CIO would need to know: (a) the time 
+and cost needed to build each mechanism, and (b) the time 
+and cost needed to generate value from one opportunity.
+Our previous study, has reported the time and cost of building 
+each mechanism.1 However, no study has provided the time 
+and cost needed to complete the corporate venturing cycle 
+for an opportunity through each mechanism. So, in the 
+academic literature, this is an unanswered question that is very 
+relevant to firms’ CIOs and is attracting increasing attention.eight to 10 years of investment. VCs wait for returns seven to 
+10 years after investment.35
+Also, in previous studies by some of the authors, we analyzed 
+the cost in terms of time and money needed to build each 
+corporate venturing mechanism. However, the authors 
+either carried out only a qualitative categorization9 or did not 
+consider the ongoing cost and speed of the opportunity, 
+once the mechanism had been created.1
+In the case of corporate accelerators, the annual budget 
+required to operate them can range anywhere from $2 million 
+to $5 million, including expenses for office space, marketing 
+and internal teams. If there are no third-party vendors 
+running the program, the number may be lower.30 
+It is also important to consider that independent and virtual 
+accelerators are more cost-efficient than those that are more 
+tightly bound to the parent company, whether positioned 
+inside or outside of it a company.36 
+Lastly, there are categorizations made by other institutions. 
+However, in some cases those did not give empirical data or 
+detailed numbers to support their conclusions.37 IESE Business School and BeRepublic   20
+How much will it cost (in time and money) to integrate opportuni -
+ties’ value into the parent company using each corporate 
+venturing mechanism? How can those costs be reduced, while 
+increasing the speed? Do the costs differ according to mecha -
+nism? Which mechanisms are quicker? And which are the most 
+cost-effective? How long should a chief innovation officer wait 
+before killing an opportunity?
+Executives usually do not have this kind of data because of the 
+novelty of the opportunities and the lack of historical data. Based 
+on 121 interviews with firms’ chief innovation officers and those in 
+related roles in the United States, Europe and Asia (see Appendix 
+2), this section covers these questions.
+2.5.1 Speed per opportunity by mechanism
+Speed is an important factor to consider when deciding which 
+corporate venturing mechanisms are more apt for the institution’s 
+goals. While a challenge prize may take only around six months to 
+complete one opportunity, a venture client program can last more 
+than two years. Figure 16 shows the average number of months 
+required for one opportunity to go through the whole cycle of one 
+corporate venturing mechanism, once it has been built. The time 
+spans are divided into the three stages of a corporate venturing 
+project (i.e., identification, collaboration, and integration).
+The deviations of these metrics are quite different for the reasons 
+described in section 2.5.3 such as the level or organizational agility 
+of the parent company, brand awareness for attracting 
+opportunities, the objectives of the mechanism, the executive 
+committee’s urgency to close a deal, any differences in the legal 2.5 THE RESULTS
+frameworks governing the start-ups and the parent company, and 
+how regulated the sector is. Figure 17 shows the average and the 
+coefficient of variation (i.e., low, medium or high) of the number 
+of months required.
+Not only does the total duration of the corporate venturing cycle 
+vary between mechanisms but so too does the duration of the 
+identification, collaboration and integration phases. For example, 
+the durations of the identification and integration phases are 
+almost inverted in hackathons and challenge prizes.  
+(See Figure 18.)
+2.5.2 Tackling integration, usually the longest stage
+A common feature shared by mechanisms is that the integration 
+phase is usually the longest. This phase generally takes up at least 
+50% of the whole innovation cycle (except in venture builders) 
+and can take up to 72% in the case of hackathons and CVC. (See 
+Figure 18.)
+Source: Prepared by the authors.Figure 16. Months required per stage and mechanism (mean)
+Stage 1: Identification10 5 15 20 25 30 0Strategic partnership
+Corporate incubator
+Corporate venture capital
+Acquisition
+Sharing resources
+Scouting mission
+Corporate accelerator
+Challenge prize
+Venture builder
+Hackathon
+Venture client
+Stage 2: Collaboration Stage 3: Integration21
+Open Innovation Figure 17. Months required per stage and mechanism (mean and variation)
+Source: Prepared by the authors. The deviation has been measured with the coefficient of variation (defined as the ratio of the standard deviation 
+to the mean): low (<35%), medium (≤60%) and high (>60%). The lower the deviation, the more accurate the mean.Stage 1:
+Identification
+(months)Stage 2: 
+Collaboration
+(months)Stage 3:
+Integration
+(months)
+Strategic partnership 3.5 11.3 12.8
+Corporate incubator 3.5 7.0 16.0
+Corporate venture capital 1.9 4.1 16.0
+Acquisition 3.3 6.8 9.4
+Sharing resources 4.0 2.0 8.3
+Scouting mission 2.4 2.9 6.8
+Corporate accelerator 2.2 2.3 6.8
+Challenge prize 3.5 0.6 6.8
+Venture builder 3.0 3.0 4.0
+Hackathon 1.3 1.0 5.9
+Venture client 0.3 3.2 4.4
+Low variation Medium variation High variationIESE Business School and BeRepublic   22
+0% 25% 50% 75% 100%
+Source: Analysis conducted by the authors. The complete data are shown in Appendix 1.Figure 18. Months required per stage and mechanism (mean as a percentage)
+2.5.3 Organizational agility: 
+ A competitive advantage
+While conducting interviews, the authors realized that 
+some companies implementing the same mechanism as 
+others required significantly less time to complete the 
+innovation cycle. Some companies spent less time on each 
+mechanism but still achieved similar results as their slower 
+counterparts. The authors found that what gave the 
+quicker-acting companies an advantage was the 
+implementation of agile principles, among other best 
+practices.
+In our previous studies, we found that the application of 
+agile principles throughout an organization helps to 
+increase the speed of implementation while maintaining 
+the impact, if those agile principles are implemented 
+appropriately. These principles involved characteristics of 
+the company such as the delegation of authority; a bias for 
+action; the freedom to test new ideas; modular processes; 
+aversion to bureaucracy; an ownership mentality; and 
+flatter, faster, simpler structures.7
+In particular, it was found that those principles can also 
+speed up the integration of opportunities from corporate 
+venturing units into the parent company.
+Some insightful cases of innovation speed are analyzed 
+below:
+Hackathon:  There are two types of hackathon. The first 
+and most common one lasts about a day or two, is easy to 
+implement and has a high impact in terms of the media. It Stage 1: Identification Stage 2: Collaboration Stage 3: IntegrationStrategic partnership
+Corporate incubator
+Corporate venture capital
+Acquisition
+Sharing resources
+Scouting mission
+Corporate accelerator
+Challenge prize
+Venture builder
+Hackathon
+Venture client
+is often used for indirect marketing. The second type lasts 
+between four and six months and is carried out in 
+collaboration with universities. It is launched during the 
+academic year to target students, and usually the 
+participants are required to make a final pitch to the 
+company. In the second case, companies aim to attract 
+young talent who would not otherwise be interested in 
+entering so-called traditional sectors. Overall, in both 
+cases, the opportunities generated are usually at too early 
+stage to be integrated.
+Another aspect was that some interviewees, while bearing 
+in mind the definition of “value” given in this study (see 
+section 2.2.2), sometimes reported spending less than 
+one month on integrating the created value into the 
+parent company.
+For instance, one European company in the energy sector 
+launched a hackathon and reported having integrated 
+value before the end of the competition. The reason was 
+it was able to increase brand awareness in its area 
+(innovation ecosystems), making it more attractive to 
+start-ups.
+In other words, the company was able to increase its 
+desirability, to make it more appealing to start-ups to 
+collaborate with the company in a short period of time. 
+Moreover, the corporation reported increased awareness 
+and a cultural change among its employees, while 
+becoming one of the top-of-mind players for start-ups 
+compared to the competitors in its  industry.
+Seventh, there is the size of the deal. The bigger the deal, 23
+Open Innovation the longer the time required for an opportunity to go 
+through the whole corporate venturing cycle.
+Sharing resources:  This process is usually shorter when the 
+start-up is in the same continent as the company’s 
+headquarters. The process is longer when this is not the 
+case, such as when a European company is working with a 
+US start-up. This is because two obstacles that hinder agility 
+come into the picture: the internal bureaucracy of getting 
+approval, and the differences in the countries’ legal 
+frameworks. 
+So, what should be done? After defining the geographical 
+scope of its search for start-ups, the corporation should 
+analyze the differences between the headquarters and the 
+target geography and prepare internal mechanisms to 
+speed up the process.
+For instance, a European pharmaceutical company decided 
+to build a corporate venturing unit that would focus on 
+scouting missions and sharing resources. After deciding on 
+the search fields, the scouting team found that most of the 
+start-ups that would solve its internal challenge were 
+located on the west cost of the United States. However, 
+these start-ups’ speeds and legal frameworks differed 
+significantly from those of the European company. 
+Therefore, the company allocated a legal expert specializing 
+in the US market who had a long track record of working 
+with start-ups to integrate them at a fast pace into the 
+corporate venturing unit. This improved the time span 
+required to work with US start-ups.
+CVC:  After talking to interviewees, the authors found two 
+key factors that allow CVC units to increase its speed during 
+the corporate venturing process.
+The first factor concerns the identification and collaboration 
+stages, enabling the speed and ease of such tasks to be 
+improved: international recognition of the company’s brand 
+increases the deal flow of opportunities and, at the same 
+time, gives the company greater powers of persuasion when 
+it comes to signing an agreement.   
+The second factor concerns all three stages (identification, 
+collaboration and integration) and refers to the urgency of 
+closing a deal, as required by the company’s executive 
+committee.
+Two examples should be taken into account. First, imagine a 
+bank that is challenged by a new development in blockchain 
+technology, which was acknowledged as one of the top 
+priorities in the previous executive committee meeting. The 
+CEO may ask the CVC unit to identify a possible start-up 
+focused on the problem so the company could invest in it 
+and eventually acquire it. On the other hand, another CVC 
+unit spots the same opportunity in the market but does not 
+consider it to be a high priority of the executive committee. 
+In cases like the second example, the whole process of 
+identification, collaboration and integration usually takes 
+longer than if the problem is given priority.
+Venture builder: It was also found that quicker units of venture building usually minimize the interaction with their 
+parent firm’s technology department. They look to avoid 
+internal conflict over integration processes by developing 
+low-risk testing environments.
+For instance, one of the analyzed companies was 
+struggling to prototype new technologies because it was 
+in a sector that must ensure high levels of security. It 
+created a parallel low-risk internal environment to allow 
+quick prototyping (i.e., a testing server). In fintech is 
+usually called sandbox or application program interface 
+(API), which enables banks testing new technologies.
+This company was able to reduce the time required for a 
+POC from 12 to 3 months, increasing the speed and the 
+agility of the corporate venturing process.
+Partnerships: Although the average time span for the 
+whole process of identification, collaboration and 
+integration is almost 30 months, the range is quite wide: 
+from four to 48 months. (See Appendix 1.) Seven main 
+factors affect this variation.
+First of all, there is the stage of development of the 
+selected opportunity. For instance, building a partnership 
+to jointly create a minimal viable product (MVP) from 
+scratch is not the same as building a partnership with an 
+already established business model that just needs either a 
+boost in visibility or an improved distribution channel. The 
+earlier in the process a partnership is formed, the longer it 
+will take.
+Second, it is important to know how mature the 
+relationship with the start-up is. If the company and 
+start-up have worked together previously, the more they 
+know each other’s organization, decision makers and KPIs, 
+so the faster the process will be. 
+Third, the more regulated the sector (e.g., the chemical 
+and pharmaceutical sectors are tightly regulated), the 
+longer it will take to build the partnership and execute the 
+whole process. The authors found in their sample that, 
+when a start-up partnered with a business-to-business 
+(B2B) company working in two business areas (such as 
+chemicals and technology), the partnership in the first 
+business area tackled took up more time than the 
+partnership in the second. Usually the main obstacles are 
+legal compliance and the related bureaucracy, which may 
+include preliminary chemical studies (adding three to five 
+months), further due diligence, etc.
+A fourth factor is whether the partnership is going to be an 
+equity model or codevelopment in the collaboration stage, 
+an aspect that echoes some of the previous literature.40
+Fifth, there is the flexibility of the company’s business 
+model in the integration stage. Depending on whether the 
+result of the previous stage is a regulated product or not, 
+the product may have to be validated and pass legal 
+procedures, which could slow down the process.
+A sixth factor is whether the partnership is negotiated in a IESE Business School and BeRepublic   24
+country whose legal framework is different from that of 
+the headquarters: for example, a Chinese company 
+forming a partnership with a US start-up.
+2.5.4 Ongoing cost per opportunity per   
+mechanism per year
+With this report, the authors wanted to equip readers 
+with the knowledge needed to identify the best 
+corporate venturing mechanism for their goals. However, 
+there is a challenge: it is difficult to find a cost metric to 
+compare opportunities by mechanism, ensuring that 
+apples are being compared with apples and not with 
+pears.
+The two main challenges are: the FTE cost (work 
+outsourced or in the parent company), and the number 
+of opportunities with which the corporation wants to 
+collaborate (higher or lower).
+In the first case, if you outsource 90% of your process, 
+your ongoing cost of management will be higher, while 
+your internal FTE cost will be lower. If you outsource 5% 
+of your process, your ongoing cost of management will 
+be lower, while your internal FTE cost will be higher.
+In the second case, the cost of collaborating with two 
+start-ups is usually lower than with 50 start-ups.
+Since our previous studies1 already disclosed the average 
+cost of launching each mechanism, this study has 
+focused on the cost of an opportunity once the 
+mechanism has been created. In short, the authors 
+analyzed the annual cost for one opportunity (at any 
+development stage: discovery, start-up or scale-up) to 
+move through the whole cycle (i.e., identification, 
+collaboration and integration) of a corporate venturing 
+mechanism. This annual ongoing cost includes 
+management and FTE costs.
+Firstly, the managerial cost refers to the annual amount 
+(in euros) required to identify value, collaborate and 
+integrate value from one opportunity into each 
+mechanism, once the mechanism has been launched. It 
+includes costs such as legal services, marketing, travel, 
+databases and facilities (e.g., coworking space, testing 
+servers). It does not include the actual investment (e.g., 
+the capital principal or investment fee). In the cases of 
+mechanisms that have several “editions” during a year 
+(e.g., some incubation programs), interviewees provided 
+the cost for the whole year, unless there were more than 
+three months between each edition.
+Secondly, the FTE cost refers to the annual amount (in 
+euros) to sustain the mechanism once it has been 
+launched in terms of how many full-time equivalent 
+employees are required per year to keep the mechanism running.
+Figure 19 shows the ongoing costs of an opportunity 
+going through the whole corporate venturing process. 
+One interesting result was the deviation of the results in 
+some mechanisms (e.g., strategic partnership, 
+acquisition, CVC, corporate accelerator and sharing 
+resources). The interviews showed that there were 
+companies integrating value from a similar number of 
+opportunities but some were more cost-effective than 
+others.
+Strategic partnerships were not included in the chart 
+because of the high standard deviation. This variation 
+exists because of the amount of different forms such 
+partnerships can take, bearing in mind that a strategic 
+partnership can work to collaborate on opportunities at 
+different stages (e.g., opportunity, start-up and scale-up).
+What factors increase the chances of reducing the 
+internal cost of a corporate venturing mechanism?
+2.5.5 Connecting venturing mechanisms  
+and business units to reduce structural 
+costs
+One trigger is the level of the corporate venturing unit’s 
+integration into its parent company. When it is highly 
+integrated, it can leverage many of the parent company’s 
+structural resources, by spotting synergies and 
+eliminating redundancies. For example, a corporate 
+venturing unit that wanted to launch a marketing 
+campaign for a new hackathon might try to engage the 
+company’s marketing department. Since the hackathon 
+would also make the company’s brand more visible, the 
+company’s marketing department would agree to help in 
+the endeavor with its own employees, reducing the 
+internal costs of the corporate venturing unit’s FTE 
+employees.
+Another fact affecting FTE costs is that corporate 
+venturing units, in order to get business units to support 
+a future opportunity integration, often start to share not 
+only costs but also employees in joint projects. For 
+instance, the authors found that the team of a company’s 
+venture builder was composed of members from different 
+units who worked together on the production of an initial 
+proof of concept. Usually, the departments involved are 
+innovation, technology and marketing.
+Another helpful way to save on FTE costs is to connect 
+several mechanisms. A common example is a 
+combination of the scouting mission, the corporate 
+accelerator and the CVC. The authors found that, in many 
+cases, the scouting mission team provided the corporate 
+accelerator and the CVC with opportunities. Finally, 
+accelerated start-ups are investment opportunities for 
+the CVC. In this case, the FTE cost required for the CVC 
+decreases because the CVC leverages the FTE employees 
+of the scouting unit.Ongoing cost per opportunity per mechanism per year 
+= managerial cost + internal FTE cost25
+Open Innovation Source: Prepared by the authors. The complete data are shown in Appendix 1. Strategic partnerships have not been included because of the high 
+standard deviation. The euro exchange rate used was from January 2019.Figure 19. Ongoing cost (€) per opportunity per mechanism per year (mean and standard deviation)Companies are increasingly connecting and integrating 
+their corporate venturing mechanisms, developing a 
+more holistic and unified perspective of new 
+opportunities and redundancies. These can be seen as 
+internal innovation ecosystems within the corporations.
+Another pattern found in the data was the correlation 
+with mechanisms that produce more developed 
+opportunities (e.g., start-ups or scale-ups) and the 
+ongoing cost per opportunity. The only exceptions were 
+corporate incubators, which have more ongoing costs 
+compared to a corporate accelerator or CVC but usually 
+provide opportunities during earlier stages. Additionally, 
+as explained in previous research, the cost of building a 
+corporate incubator from scratch is quite significative.1
+2.5.6 Relationship among speed, 
+ cost and the opportunity stage
+To understand in greater depth the trade-off between 
+cost and speed, it is important to bear in mind the 
+--
+Notes. The calculation assumed that no external employees were included. However, the more work is outsourced, the higher the managerial cost (i.e., of 
+outsourcing) and the lower the number of internal FTE employees. For the FTE cost, the authors used several sources (e.g., Glassdoor) to estimate the salaries of 
+innovation positions in Europe. (In the case of the United States and China, the FTE costs are proportionally higher.) The salaries ranged from €50,000 for some 
+roles managing a scouting mission or working for a corporate incubator up to €130,000 for those working in CVC units.development stage of the opportunity being worked with 
+(i.e., discovery, start-up and scale-up). (See section 2.2.1.) 
+For instance, the development stage of a discovery 
+found in a scouting mission is different from a scale-up 
+to be acquired.
+In Figure 20, the three factors are put together: speed, 
+cost and maturity of the opportunity. It shows the 
+months required for a corporate venturing opportunity 
+to go through the whole corporate venturing cycle of 
+identification, collaboration and integration (x-axis), 
+along with the ongoing cost of that process including 
+managerial and FTE costs (y-axis), and the development 
+stage of an opportunity (diameter of the circles).
+700,000 600,000 500,000 400,000 300,000 200,000 100,000 0Corporate venture capitalAcquisition
+Corporate accelerator
+Corporate incubator
+Venture builder
+Sharing resources
+Hackathon
+Challenge prize
+Scouting mission
+Venture clientIESE Business School and BeRepublic   26
+The interesting insights in Figure 20 are connected with the 
+relationship between months and ongoing cost per 
+opportunity vs. development stage of the opportunity. 
+These are the patterns and the outliers.
+Starting with the patterns, the more mature the opportunity 
+(either a scale-up or start-up) with which to collaborate, the 
+longer the time required to go through the whole corporate 
+venturing process and the higher the ongoing costs per 
+opportunity, as can be seen in the top-right quadrant (e.g., 
+acquisition and CVC) and in the bottom-left quadrant (e.g., 
+hackathon, sharing resources, challenge prize and scouting 
+mission).
+However, there are a few exceptions:
+Firstly, the corporate incubator is the mechanism with the 
+longest time span but the development stage of the opportunity is only that of a start-up (not a scale-up). 
+Therefore, the opportunity is at an earlier stage compared to 
+an opportunity from an acquisition or CVC. In other words, it 
+provides a less developed opportunity to the parent 
+company at a slower speed.
+Secondly, the opportunity stage of the corporate 
+accelerator and the venture builder is a bit more developed 
+compared to that of the corporate incubator and the 
+ongoing costs are similar, but these two mechanisms 
+require less time for the corporate venturing cycle, meaning 
+the process is around two to three times as quick.
+Lastly, the speed and cost of the venture client is similar to 
+the hackathon, sharing resources or challenge prize. 
+However, the opportunity stage of the venture client is more 
+developed.Figure 20. Relationship between months and ongoing cost 
+per opportunity vs. development stage of the opportunity
+Source: Prepared by the authors. The complete data are shown in Appendix 1.Ongoing 
+cost per 
+opportunity 
+per year (€)
+0100,000200,000300,000400,000500,000600,000
+Acquisition
+Corporate venture capitalCorporate 
+incubatorCorporate accelerator
+Venture builder
+Sharing resources
+Venture clientChallenge prize
+Scouting mission Hackathon
+Total months required per opportunity5 10 0 15 20 25
+Scouting mission
+Sharing resources
+Corporate accelerator
+Venture builder
+Venture clientHackathon
+Challenge prize
+Corporate venture capital
+Corporate incubator
+AcquisitionCorporate venturing mechanism (colour) Opportunity stage (diameter)
+Discovery
+Start-up
+Scale-up27
+Open Innovation Improving your strategy:
+1. Tailor your corporate venturing strategy with numbers: 
+Choose the right combination of corporate venturing 
+mechanisms, based on data rather than intuition or media 
+hype. Since the speed and costs per opportunity per 
+mechanism are different, understand first what your company’s 
+objectives and expectations are (in terms of goals, capital and 
+time horizon) and then analyze the numbers relating to each 
+mechanism that fits those expectations. Do not copy and paste 
+but tailor your corporate venturing strategy. Now you have a 
+benchmark.
+2. Plan realistically, ask for the time and budget you need, 
+and keep track of the results:  Now that you have the available 
+data, estimate more accurately (with a benchmark) the time 
+and budget you will need for the opportunities you want to 
+integrate. This will help you secure the minimum budget and 
+time horizon needed to see results. In particular, if you are 
+taking your first steps in corporate venturing and you do not 
+have yet historical data, this will really help you. Bear in mind 
+that, depending on the mechanism, you will need between 
+eight and 28 months to integrate value from one opportunity.
+3. Identify where your bottleneck is:  Identification, 
+collaboration or integration: Breaking down the corporate 
+venturing process into various components will give you some 
+clues to identify where your bottlenecks are in terms of speed 
+and cost and therefore help you design your scorecard of 
+performance indicators. Additionally, with this benchmark, you 
+will know whether you are spending too much time or money 
+or whether you have to ask your company’s executive 
+committee for a bigger budget or a longer time horizon. 
+4. Think twice critically about having a corporate incubator: 
+While the maturity of a corporate incubator as an opportunity 
+is at an earlier stage compared to a corporate accelerator, the 
+speed of taking that opportunity through the whole corporate 
+venturing cycle is more than twice that of corporate 
+incubators, while the costs are very similar. Consider other 
+mechanisms that may give you “more with less” such as the 
+venture client, which provides more developed opportunities 
+at a lower cost and higher speed.
+Increasing the speed:
+5. Adopt agile principles, especially in the longest 
+stage—integration:  Since integration has the longest time 
+span of the corporate venturing process, think about how you 
+can improve your organizational agility in that process to 
+adopt the value you have successfully generated: flatter, faster, 
+simpler structures; modular processes; delegated authorities; 
+and more. This may give you a competitive advantage.
+6. Prevent delays in your corporate venturing mechanism:  
+The average time span required by an opportunity to go 
+through the whole innovation process may vary for several 
+reasons. For instance, if the opportunity with which you want 
+to collaborate (i.e., discovery, start-up or scale-up) is outside 
+your regulatory framework (e.g., in another continent), involve How can these results help companies’ chief innovation officers do their jobs?
+someone with the relevant legal expertise who can speed up 
+the process. Secondly, the urgency required by the company’s 
+executive committee will speed up your venturing process.
+7 . Be the player in your industry with which start-ups most 
+want to work: Your brand awareness in the innovation 
+ecosystem and the relationship you have forged there in the 
+past will help you not only seduce the best start-ups (by 
+putting yourself top of mind) but also will speed up your 
+processes of identification (i.e., they will come to you) and 
+collaboration (i.e., you will close an agreement faster).
+Reducing your cost: 
+8. Use the “joint three pockets” rule to increase your budget 
+and other units’ involvement:  Since innovation units have 
+tight budgets (especially at the beginning) and have to 
+maximize their ability to integrate value, try to secure the 
+involvement (with some budget and a decision maker) of 
+business units and of corporate headquarters*. So, get one of 
+each pocket. For instance, finance one POC with a start-up 
+with a third of the budget from the innovation unit, a third 
+from corporate headquarters and a third from a business unit. 
+To go further, get a member from each of those three units 
+involved in the decision-making process. This will reduce your 
+cost for POCs.
+9. Leverage the resources of the parent company: If it does 
+not slow you down too much, use all the available resources of 
+the corporation, such as marketing services, space, and 
+expertise. This will not increase your absolute budget but will 
+give you the chance to reinvest those costs in something that 
+may create more value for the corporation.
+10. Connect your internal corporate venturing ecosystem:  If 
+your company has been in the corporate venturing arena for 
+five to seven years, you may start experiencing having a 
+fragmented message about the job of your different corporate 
+venturing units. In other words, not showing one unique 
+“story” explaining, to internal and external stakeholders, what 
+these are doing.
+For this purpose, it is important to design a connected 
+strategy of corporate venturing among units (with a holistic 
+perspective) and to understand how the deal flow of 
+opportunities works (e.g., the scout identifies an opportunity 
+that connects with the corporate accelerator, which may lead 
+to the CVC, followed by an acquisition proposal, and so on).
+The other principle for this organizational connectivity is use 
+of the MECE** principle, so there should be a person in charge 
+of each initiative but no more than one. Therefore, every 
+project can run at speed, while accountability is maintained for 
+every project. All these principles will help you reduce 
+redundancies, enhance synergies and increase corporate 
+agility.
+--
+* In the vernacular, “corporate headquarters” may be referred as “corporate” or 
+the “head office.”
+** Mutually exclusive and collectively exhaustive.2.6 CONSEQUENCES: WHAT NOW?
+Corporate 
+incubatorIESE Business School and BeRepublic   28
+Appendixes
+1. Detailed data
+Figure 21. Months required per stage and mechanism and the ongoing cost per opportunity (mean and variation)
+Source: Prepared by the authors. The deviation has been measured with the coefficient of variation (defined as the ratio of the standard deviation to 
+the mean): low (<35%), medium (≤60%) and high (>60%). The lower the deviation, the more accurate the mean.Stage 1:
+Identification
+(months)Stage 2: 
+Collaboration
+(months)Stage 3:
+Integration
+(months)Ongoing cost per 
+opportunity per year
+(€)
+Strategic partnership 3.5 11.3 12.8 NA
+Corporate incubator 3.5 7.0 16.0 294,500
+Corporate venture capital 1.9 4.1 16.0 331,148
+Acquisition 3.3 6.8 9.4 447,363
+Sharing resources 4.0 2.0 8.3 152,450
+Scouting mission 2.4 2.9 6.8 55,175
+Corporate accelerator 2.2 2.3 6.8 310,333
+Challenge prize 3.5 0.6 6.8 85,000
+Venture builder 3.0 3.0 4.0 255,000
+Hackathon 1.3 1.0 5.9 105,762
+Venture client 0.3 3.2 4.4 47,000
+Low variation Medium variation High variation29
+Open Innovation 2. Research methodologyFigure 22. Corporate venturing mechanisms categorized by development, capital and time 
+Source: Prats, J., Siota, J., Canonici, J., and Contijoch, X., Open Innovation: Building, Scaling and Consolidating Your Firm’s Corporate Venturing 
+Unit. IESE, Opinno  (2018).
+This study was carried out to answer the question of how much 
+will it cost (in time and money) to integrate opportunities’ value 
+into the parent company using each corporate venturing 
+mechanism in established firms. To achieve this objective, the 
+authors used several sources. Initially, they reviewed the 
+literature on the topic. Then, they conducted fieldwork 
+consisting of interviews with 121 chief innovation officers and 
+executives involved in corporate venturing activities (experts 
+located in the United States, Europe and Asia): 63 with a formal 
+protocol (167 questions) and 58 with an informal protocol. Then, 
+the authors led an exhaustive analysis of corporate venturing 
+activities of 26 companies.
+An interview protocol was developed, and the interviews
+were recorded. Each interview had an introductory phase in 
+which the interviewer explained the definitions of possible 
+ambiguous words of the questionarie to ensure a common 
+understanding. The interviews consisted of both open and 
+closed questions. Afterward, the answers were classified and analyzed twice. Later, the authors twice carried out a 
+codification of the interviews and the quantitative analysis of the 
+answers, using correlation and regression analysis. Then two 
+independent experts reviewed the rigor of the process and the 
+quality of the results obtained.
+The authors acknowledge that, given the complexity of the 
+phenomena, a larger sample may increase the understanding of 
+this important practice. However, the sample group was 
+selected using the practice of looking for representation to 
+increase that understanding.
+Further research in forthcoming white papers will be welcome to 
+provide guidance on additional questions such as what regions 
+are more developed in terms of corporate venturing; how to 
+align the corporate venturing KPIs of the executive committee, 
+the entrepreneur and the CV units’ head; the performance of 
+venture capital compared to corporate venture capital; and how 
+to measure the strategic impact of corporate venturing.Capital
+(required)
+Development
+(of the external opportunity)Time
+(to get results) Long-term Mid-term
+High
+Low
+Discovery Start-up Scale-upVenture builder Venture clientStrategic partnershipCorporate incubatorCorporate venture capital
+Corporate acceleratorAcquisition
+Scouting team
+Hackathon
+Challenge prize
+Sharing resourcesIESE Business School and BeRepublic   30
+3. Mechanisms available for corporate venturing
+Scouting mission
+A scouting mission is a mission undertaken by professionals 
+from an industry in which a company is interested. The 
+professionals are tasked with holding meetings with 
+start-ups, inventors or university researchers. They look for 
+interesting innovations that are aligned with the company’s 
+strategy. Companies gain insights and valuable information 
+from leading innovation hubs around the world. Start-ups are 
+exposed to potential financing opportunities and business 
+deals.
+Company objective: Gaining insight into leading innovations.
+Hackathon
+A hackathon is a focused, intense workshop in which 
+software developers collaborate, either individually or in 
+teams, to find technological solutions to a corporate 
+innovation challenge within a restricted time. Start-ups solve 
+specific technical problems for companies or produce a 
+particular piece of code in a short period of time and, in 
+return, they get access to new segments, markets and 
+financing opportunities. 
+Company objective: Finding technological solutions to a 
+corporate challenge.
+Sharing resources
+Sharing resources is the simplest form of collaboration 
+between corporations and start-ups. It allows companies to 
+improve corporate branding, attract and keep talent, and 
+gain visibility. Meanwhile, start-ups get access to cost-
+effective or free corporate resources, increase their visibility 
+and are able to network with other similar ventures.
+Company objective: Getting closer to the ecosystem to 
+understand its composition and needs.
+Challenge prize
+A challenge prize is an open competition that focuses on a 
+specific issue. It gives innovators an incentive to provide new 
+solutions based on new opportunities and technological 
+trends to foster internal learning. Companies get to adopt 
+external opportunities, improve corporate branding and gain 
+visibility, while start-ups get access to new segments, 
+markets and financing opportunities.
+Company objective: Obtaining new solutions based on new 
+technological trends.
+Corporate accelerator
+A corporate accelerator is a program that provides intensive 
+short or medium-term support to cohorts of rapid-growth 
+start-ups via mentoring, training, physical working space and 
+company-specific resources. These resources can include 
+money invested in a start-up, normally in exchange for a 
+variable share of equity. Through corporate accelerators, 
+firms and start-ups get benefits similar to those of a 
+corporate incubator.Company objective: Supporting start-ups with a structured 
+program.
+Corporate venture capital
+In the case of corporate venture capital, corporations target 
+equity investment at start-ups that are of strategic interest 
+beyond a purely financial return. Companies become more 
+diversified and get access to products, services and 
+technology, while start-ups get access to financial resources, 
+know-how and advice from experienced corporations.
+Company objective: Fast-tracking access to innovations, 
+strengthening internal research, or accessing new 
+distribution channels.
+Venture builder (or excubator, if outsourced)
+Corporations aim to fast-track the growth of start-ups 
+through a combination of several tools (e.g., corporate 
+incubators, corporate accelerators). In practice, an excubator 
+functions as such for a company. While start-ups develop 
+tailor-made prototypes to solve a problem for a corporation, 
+entrepreneurs gain access to facilities, expertise and 
+technical support, including skilled mentorship, which 
+increases their chances of getting access to funding. 
+Company objective: Getting an MVP outside the regular 
+structure.
+Corporate incubator
+A corporate incubator is a program in which entrepreneurs 
+are provided with a set of value-added mentoring services 
+(centralized legal or marketing support) and working spaces 
+to build viable opportunities and business models ready to 
+go to market, in exchange for a share of equity. Corporations 
+get a cost-effective and outsourced R&D function, while 
+start-ups get access to facilities, expertise and technical 
+support.
+Company objective: Providing viability to promising 
+innovation and its commercialization.
+Strategic partnership
+A strategic partnership is an alliance between corporations 
+and start-ups to enable them to define, develop and pilot 
+innovative solutions together. It allows both sides to build a 
+relationship and synergies.
+Company objective: Defining, developing and piloting 
+innovative solutions with an existing company.
+Venture client (or client accelerator)
+A venture client involves a specific type of strategic 
+partnership and a highly integrated tool that companies can 
+use to purchase the first unit of a start-up’s product, service 
+or technology when the start-up is not yet mature enough to 
+become a client. While corporations get access to start-ups 
+with a ready MVP, start-ups get revenue and a consolidated 
+company as their client.31
+Open Innovation 4. Acknowledgments
+The authors would like to thank all those who have helped make 
+this study reality. They especially wish to express their sincere 
+gratitude to IESE Business School’s Bertrán Foundation Chair of 
+Entrepreneurship, IESE’s Entrepreneurship and Innovation Center, 
+BeRepublic and John Andrew Carter. Without their effective 
+support, the authors would have been unable to complete this 
+project. Company objective: Offering a client relationship to 
+insource external innovation.
+Acquisition
+Acquisitions involve the purchase of start-ups by companies 
+to access the start-ups’ commercially ready products, 
+complementary technology or capabilities that solve 
+specific business problems or to enter new markets. The 
+buyer benefits from the acquisition of talent, skills and 
+knowledge, while the start-up receives monetary rewards 
+and a reputational advantage.*
+Company objective: Accessing commercially ready 
+products, complementary technology or capabilities.
+* Note that this mechanism does not include the acquisition of large corporations. In those 
+cases, these units usually move the opportunity to another department, such as that in 
+charge of mergers and acquisitions.IESE Business School and BeRepublic   32
+1. Prats, J., Siota, J., Contijoch, X. & Canonici, T. Open 
+Innovation: Building, Scaling and Consolidating Your Firm’s 
+Corporate Venturing Unit. IESE,  Opinno  (2018).
+2. Chesbrough, H. W. Open Innovation: The New Imperative for 
+Creating and Proﬁting from Technology  (Harvard Business 
+School Press, Boston, 2003).
+3. The agility of a start-up and the strength of a corporation. 
+IESE Alumni Magazine (2018).
+4. Burke, K. The auto industry will change more in next five 
+years than prior 50, says GM’s president. MarketWatch  (2016).
+5. The History Of CVC: From Exxon And DuPont To Xerox And 
+Microsoft, How Corporates Began Chasing ‘The Future’. CB 
+Insights Research  (2017).
+6. Brigl, M., Hong, M., Roos, A., Schmieg, F. & Wu, X. Corporate 
+Venturing Shifts Gears: How the Largest Companies Apply 
+a Broad Set of Tools to Speed Innovation. Boston Consulting 
+Group  (2016).
+7. Prats, M. J., Siota, J., Gillespie, D. & Singleton, N. 
+Organizational agility: Why large corporations struggle to 
+adopt the inventions created by their innovation units and 
+how to improve it. IESE, Oliver Wyman  (2018).
+8. Bolshaw, L. Can corporate venture solve the innovation 
+paradox? Ernst & Young Global Limited (2018).
+9. Prats, J., Amigó, P., Ametller, X. & Batlle, A. Corporate 
+Venturing: Achieving Profitable Growth Through Startups. 
+IESE (2017).
+10. Chesbrough, H. W. Making Sense of Corporate Venture 
+Capital. Harvard Business Review. 80, 133 (2002).
+11. Caillard, J.-F. Why is the corporate venture growing so fast? 
+What are the keys? Medium.com (2017).
+12. Peterson, B. Inside Salesforce Ventures - the investment arm 
+behind the $1 billion software ecosystem fueling growth.  
+Business Insider (2018).
+13. Nijjar, P. Salesforce.com Inc. Seeks to Expand on Past 
+Success With Latest $100 Million Venture Fund. The Money 
+Fool (2017).
+14. Intel Capital, Investing in Global Innovation. Intel Capital  
+(2014).
+15. Early-Stage Investing: The Qualcomm Ventures Way. Medium.
+com (2018).
+16. Siota, J., Contijoch, X., Buñuel, M. Á., Santo Domingo, S. & 
+Sandoval, F. Presentation of the report Open Innovation at 
+IberCaja. (2018).
+17. Open Innovation for SMEs (2016). Inspire . [online] Available 
+at: http://www.inspire-smes.eu [Accessed 1 Nov. 2018].
+18. Preparing FP9: Designing the successor to the Horizon 2020 
+research and innovation framework programme. European 
+Parliament  (2018).
+19. Gompers, P. & Lerner, J. The Determinants of Corporate 
+Venture Capital Success Organizational Structure, Incentives, 
+and Complementarities. International Journal of Geriatric 
+Psychiatry  18, (2000).
+20. GCV data review and 2018 outlook. Global Corporate 
+Venturing Analytics  (2018).5. References
+21. Lee, S., Park, G. & Kang, J. The double-edged effects of the 
+corporate venture capital unit ’s structural autonomy on 
+corporate investors’ explorative and exploitative innovation. 
+Journal Business Research 88, 141–149 (2018).
+22. Ashkenas, R. Manage With a Portfolio Mindset. Harvard 
+Business Review (2012).
+23. Baghai, M., Coley, S. & White, D. The Alchemy of Growth: 
+Practical Insights for Building the Enduring Enterprise (Orion 
+Business Publishing, London, 1999).
+24. Cabiedes, L. and Siota, J. Entrepreneurs Don’t Need More 
+Venture Capitalists But More Customers. European Financial 
+Review , July-August, (2016).
+25. Siota, J. Linked innovation: Commercializing discoveries at 
+research centers . (Palgrave Macmillan, 2018).
+26. Glenn, M. Organizational agility: How business can survive 
+and thrive in turbulent times. The Economist Intelligence Unit  
+(2009).
+27. West, J. & Gallagher, S. Challenges of Open Innovation: The 
+Paradox of Firm Investment in Open Source Software. R&D 
+Management  3, 319–331 (2006).
+28. Atkinson, R. Project management: cost time and quality. 
+Elsevier  17, 337–342 (1999).
+29. De, P., Dunne, E. J., Ghosh, J. B. & Wells, C. E. The discrete 
+time-cost tradeoff problem revisited. Journal of Operational 
+Research  (1995).
+30. Desai, F. Corporate Accelerator Launches Slowing Down. 
+Forbes  (2016).
+31. Souitaris, V. & Zerbinati, S. How do corporate venture 
+capitalists do deals? An exploration of corporate investment 
+practices. Strategic Entrepreneurship Journal  1, 321–348 
+(2014).
+32. Hansen, D. J., Shrader, R. & Monllor, J. Defragmenting 
+Definitions of Entrepreneurial Opportunity. J. Small Business 
+Management  (2011).
+33. Park, H. D. & Steensma, H. K. When does corporate venture 
+capital add value for new ventures? Strategic Management 
+Journal  (2011). 
+34. Sykes, H. B. Corporate venture capital: Strategies for success. 
+Journal of Business Venturing  (2002).
+35. Silviera, R. & Wright, R. The Venture Capital Cycle. Working 
+Paper. Available https://goo.gl/efafs7 (2007).
+36. Kohler, T. Corporate accelerators: Building bridges between 
+corporations and startups. Business Horizons 59, 347–357 
+(2016).
+37. Menezes, C. Why Corporate Venture Building is the best 
+model for disruptive innovation. Medium.com (2018).
+38. Oakes, O. & Kiefer, B. Ogilvy Labs shuts down. Campaign  
+(2016).
+39. Kirsner, S. The Stage Where Most Innovation Projects Fail. 
+Harvard Business Review  (2017).
+40. Chesbrough, H. & Schwartz, K. Innovating business models 
+with co-development partnerships. Research Technology 
+Management  (2007).33
+Open Innovation Copyright © 2019 IESE Business School and BeRepublic.
+All rights reserved. This report may not be reproduced or 
+redistributed, in whole or in part, without the written permission of 
+IESE Business School or BeRepublic.  
+IESE Business School and BeRepublic accept no liability whatsoever 
+for the actions of third parties in this respect. The information and 
+opinions in this report were prepared by IESE Business School and 
+BeRepublic. IESE Business School and BeRepublic have made every 
+effort to use reliable, up-to-date and comprehensive information 
+and analysis, but all information is provided without any warranty of 
+any kind, express or implied. IESE Business School and BeRepublic 
+accept no liability for any loss arising from any action taken or not 
+taken as a result of information contained in this report or any reports 
+or sources of information referred to herein or for any consequential, 
+special or similar damages, even if advised of the possibility of such 
+damages. This report may not be sold without the written consent of 
+IESE Business School and BeRepublic.IESE Business School and BeRepublic   34
+www.iese.edu
+Barcelona 
+Madrid
+Munich
+New York
+São Paulo

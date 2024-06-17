@@ -1,0 +1,777 @@
+STATE OF  
+MARKETING  
+AI REPORT2023
+© 2023, Marketing AI Institute, All Rights Reserved.
+2  |  2023 State of Marketing AI Report
+3  A Letter from Paul Roetzer
+4  Executive Summary 
+8 Methodology 
+9  The Respondents
+ Roles  9
+ Areas of Marketing 9
+ Industry 10
+ B2B vs. B2C 10
+ Revenue 11
+ Employees 11
+12  Key Findings 
+ Understanding of AI 12 
+ Role in Evaluating and Purchasing Marketing AI Technology  13 
+ Marketing AI Confidence Level 14 
+ AI’s Impact on Marketing Jobs 15
+ Stage of Marketing AI Transformation  16
+ Importance of AI to Marketing  17
+ Marketing AI Outcomes 18
+ Barriers to Marketing AI Adoption  19 
+ Marketing AI Education and Training  20 
+ AI Ownership  21 
+ Personal Use of AI Tools  22 
+ Generative AI Policies  23 
+ AI Ethics Policy  24 
+ Feelings on AI  25 
+ Preferred Ways to Advance Knowledge  26 
+27  Final Thoughts
+28  About Drift
+28  About Marketing AI Institute 
+ Table of Contents3  |  2023 State of Marketing AI Report
+We are at the dawn of the most profound 
+technological shift in human history. 
+AI is changing everything about how we 
+communicate, sell, learn, teach, design products, 
+start and grow businesses, hire and develop talent, 
+manage tech stacks, build strategies, allocate 
+resources, and drive performance. 
+Big tech is battling for AI supremacy, while pouring billions 
+into AI infrastructure, models, and applications. 
+AI startups are building tools that can generate text, 
+images, videos, audio, and code. 
+Governments are racing to understand and regulate AI. 
+Schools are struggling to adapt curriculum and policies.
+Businesses are scrambling to evolve and innovate.
+Entrepreneurs are emerging from everywhere to launch  
+AI native companies that will disrupt industries. 
+Professionals are balancing fear of the unknown, with 
+excitement for the previously unimaginable. 
+AI is creating boundless opportunities, while sowing  
+chaos and uncertainty in society.
+And this is the least capable AI we will ever know.For many businesses, ChatGPT’s release in November 
+2022 was a wake-up call. But, ChatGPT and large 
+language models (LLMs) are just the tip of the iceberg for 
+what’s to come in AI. 
+AI advancements in language, vision, prediction, 
+reasoning, decisioning, and action will reinvent business 
+models and industries, and redefine knowledge work at a 
+rate and scale that the economy has never seen. 
+Millions of jobs will be impacted as companies realize the 
+power and potential of AI to drive productivity, efficiency, 
+and profits. 
+Yet, the vast majority of leaders charged with guiding 
+their organization’s vision, strategy and teams lack even a 
+baseline understanding of the technology. 
+We have to do more—individually as marketers, and 
+collectively as an industry—to move past fear and 
+uncertainty; to embrace smarter technologies; and to lead 
+in the responsible application of AI in our organizations, 
+schools, and communities. 
+We can choose to make the future more intelligent, and 
+more human. 
+PAUL ROETZER
+Founder & CEO, Marketing AI Institute
+Making the Future More  
+Intelligent and More Human
+A Letter from Paul Roetzer, Founder & CEO, Marketing AI Institute
+20234  |  2023 State of Marketing AI Report
+The 2023 State of Marketing AI Report contains never-before-seen data from more than 900 
+marketers on how AI is being used in their work.
+What we learned is that the marketing industry is diving headfirst into AI usage and adoption, but is in desperate need of 
+executive leadership and support to realize the transformative benefits of AI in their companies and careers.
+1. AI IS A CLEAR TOP PRIORITY FOR MARKETERS THIS YEAR.
+ 
+64% of marketers say AI is either very important or critically important to their marketing success over the next 12 months. 
+This is a significant change in sentiment over 2022, when only 51% said the same thing.
+2. MARKETERS ARE PRIMARILY LOOKING TO USE AI TO SAVE TIME.
+ 
+77% of marketers say that reducing the time spent on repetitive tasks is the top outcome they want to achieve with AI. 
+This is also the top desired outcome among AI decision-makers and the C-suite.
+3. THERE IS SIGNIFICANT AI ADOPTION IN MARKETING.
+ 
+98% of all marketers surveyed say they are already personally using AI in some way—most commonly, they’re 
+experimenting with it (45%). 29% say it’s already infused into their daily workflows.
+4. THERE IS SIGNIFICANT AI OPTIMISM IN MARKETING.
+Not to mention, 64% of marketers say they have positive feelings about AI’s impact on marketing, business, and 
+society. Just 5% say they have outwardly negative feelings about the technology. (Though 31% are neutral or not 
+sure how to feel.)Executive Summary
+Marketing AI Institute and Drift have teamed up once again to provide unparalleled 
+insight into the awareness, understanding, and adoption of artificial intelligence 
+in the marketing industry with the third annual State of Marketing AI Report.
+20235  |  2023 State of Marketing AI Report
+5.  CONFIDENCE IN EVALUATING AND PURCHASING AI   
+TECHNOLOGY IS SLOWLY IMPROVING.
+ 
+The percentage of respondents who say they have low confidence in evaluating and purchasing AI technology has 
+decreased from 29% in 2022 to 21% today, while the percentage of those expressing medium confidence has increased 
+from 39% in 2022 to 46% today. The percentage of those with high or very high confidence has also modestly improved, 
+from 29% last year to 32% this year.
+6.  MOST MARKETERS STILL REMAIN IN THE EARLY STAGES OF  
+UNDERSTANDING AND ADOPTING AI.
+ 
+When asked how they classify their understanding of AI, the vast majority of marketers say they’re at beginner (35%) or 
+intermediate (54%) levels. Just 11% say they’re advanced.
+Yet, when compared against the 2022 State of Marketing AI Report, these statistics indicate that many more people 
+have moved from the beginner to intermediate stage of AI understanding. Because in 2022, 45% of marketers classified 
+themselves as beginners while only 43% said they were intermediate, indicating that a sizable portion of the industry has 
+moved their AI understanding forward in the last 12 months.
+However, many are still in the early phases of marketing AI transformation. 58% of marketers say they’re still learning how 
+AI works, and exploring its applications and potential value. 35% say they’re starting to prioritize and run AI pilot projects. 
+And just 7% say they’re actually scaling AI today.
+7.  COMPANIES LAG BEHIND IN PROVIDING AI EDUCATION   
+AND GUIDANCE.
+ 
+78% of respondents say their employers have no internal AI-focused education or training. Predictably, then, when 
+asked about their top barriers to adopting AI, a lack of education and training topped the list for the third straight year. 
+(64% of respondents said it was a barrier.) Other top barriers included a lack of AI awareness or understanding, and a 
+lack of AI strategy.
+8.  COMPANIES LAG BEHIND IN PROVIDING GENERATIVE AI AND   
+ETHICS POLICIES.
+ 
+Only 22% of organizations have generative AI policies. And only 21% of organizations have an AI ethics policy or 
+responsible AI principles. Smaller companies ($0 - $10M in revenue) are the most likely to lack these policies.
+2023Executive Summary6  |  2023 State of Marketing AI Report
+9.  LACK OF COMPANY SUPPORT MAY BE CREATING FEAR AND   
+UNCERTAINTY AROUND AI.
+ 
+Despite their widespread AI usage, marketers are still conflicted about how AI will impact their jobs. 
+When asked how AI will affect marketing jobs in the next three years, 40% of respondents say they believe more jobs will 
+be eliminated over this time due to AI. Conversely, 36% say more jobs will be created by AI in the same timeframe.
+Interestingly, those with the role of CEO/President are more likely than any other role to think that more jobs will be 
+eliminated due to AI in the next 3 years (47%). 
+10.  ENTRY-LEVEL ROLES MAY BE PARTICULARLY LAGGING BEHIND  
+WHEN IT COMES TO AI.
+ 
+Those who say they work in entry-level roles are most likely to say they’re beginners when it comes to understanding AI. 
+They are also far more likely than other seniority levels to not use AI at all, with a full 10% saying they don’t use it.
+Additionally, entry-level roles are most likely to say AI will have no meaningful impact on jobs at all (18%).
+11. CEOS AND CMOS ARE OWNING AI ADOPTION IN MARKETING.
+ 
+Respondents were asked who owns adoption and integration of AI technology for marketing within their organization. 
+CEOs are most commonly cited (35%) as the full owner or a partial owner alongside other roles. CMOs are a close 
+second, with 33% either partially or fully owning AI.
+Other roles don’t come anywhere close. Just 15% of respondents say the Chief Technology Officer is involved in AI 
+ownership, while 8% say the IT department or the Chief Digital Officer is involved. 21% say that no one owns AI at all.
+This leaves CEOs and CMOs far and away as the two most important roles owning AI within marketing organizations. 
+And, the larger the organization, the more AI ownership falls on CMOs. Smaller organizations of $0 - $10M in revenue 
+are most likely to cite the CEO as the AI owner while CMOs begin to be most commonly cited as partial or full AI owners 
+once organizations grow above $10M in revenue.
+And out of the 33% of respondents who say CMOs are involved in AI ownership, two-thirds do not include the CEO in a 
+co-ownership role—further indicating that CMOs are taking the AI reins in larger companies.
+2023Executive Summary7  |  2023 State of Marketing AI Report
+12.  CMOS IN PARTICULAR MUST MAKE AI UNDERSTANDING,   
+TRAINING, AND STRATEGY URGENT PRIORITIES.
+ 
+Though CMOs play a starring role in AI ownership, they also have gaps in their AI knowledge—gaps that may be partially 
+responsible for why organizations are lagging in AI understanding, training, and strategy.
+When benchmarked against the rest of the C-suite, CMOs fall behind in AI understanding, confidence, and usage. 
+Among the C-suite, CMOs are most likely to say they have a beginner’s understanding of AI (30%) and are least likely 
+to say they have an advanced understanding (10%). They also are the least likely to have high or very high degrees of 
+confidence in evaluating AI technology (33%) and are the least likely to be infusing AI into their daily workflows (26%).
+If organizations expect to survive and thrive in the coming age of AI, CMOs must take urgent action to upskill 
+themselves—and their teams—on AI understanding, usage, and training.
+2023Executive Summary8  |  2023 State of Marketing AI Report
+The 2023 State of Marketing AI Report collected responses to 15 questions 
+about AI and its role in marketing, as well as responses to six questions about the 
+demographics of the survey takers.
+The survey took place between April 26 and July 12, 2023. Respondents were not required to answer all of the questions 
+in order to submit their responses. 918 respondents completed at least some of the survey, with the vast majority (96%) 
+completing the full survey.
+As such, the data presented in this report may reflect varying participation rates across different data points. Throughout 
+the report, we clearly indicate the sample size of respondents for a particular answer set. In some places, percentages 
+may add up to more than 100%, either due to multiple responses being selected or the rounding up of percentages for 
+easy reading.
+The survey was primarily promoted via the Marketing AI Institute website, newsletter, podcast, and webinars, so it is 
+possible that respondents, who have shown a predisposition to AI content and information, may have higher awareness 
+and adoption levels of AI than the broader industry. Methodology
+20239  |  2023 State of Marketing AI Report
+Survey respondents represent a diverse set of roles, 
+marketing disciplines, and company sizes.
+Areas of Marketing
+Respondents were asked about the areas of marketing they’re involved in.  
+They could select multiple marketing categories. 
+Content marketing leads the pack at 83%, followed by email marketing at 68%. Other top 
+areas include social media marketing (67%), advertising (61%), and analytics (59%).The Respondents
+61%  
+OF RESPONDENTS  
+IDENTIFY THEIR ROLES  
+AS DIRECTOR-LEVEL   
+OR ABOVE.
+83% 
+OF RESPONDENTS ARE  
+INVOLVED IN CONTENT  
+MARKETING—THE  
+HIGHEST PERCENTAGE  
+OF RESPONDENTS.
+2023RolePercentage  
+of Respondents
+Manager 24%
+CEO/President 23%
+Director 18%
+Chief Marketing  
+Officer9%
+RolePercentage  
+of Respondents
+Content  
+Marketing83%
+Email Marketing 68%
+Social Media 
+Marketing67%
+Advertising 61%
+Analytics 59%
+Search Engine  
+Optimization 
+(SEO)55%RolePercentage  
+of Respondents
+Other 9%
+Vice President 7%
+Entry-Level 6%
+Other C-Suite 4%
+n = 901
+RolePercentage  
+of Respondents
+Communications/
+PR54%
+Customer  
+Experience/ 
+Customer Service39%
+Sales 36%
+Ecommerce 21%
+Other 10%
+n = 915Roles
+The highest percentage of respondents (24%) identify themselves as managers. The 
+next highest role cited is CEO/President (23%). The C-suite as a whole comprises 36% of 
+respondents. Chief Marketing Officers comprise 9% of the total.10  |  2023 State of Marketing AI Report
+The Respondents
+88%  
+OF RESPONDENTS   
+WORK IN B2B.RolePercentage  
+of Respondents
+Professional  
+Services27%
+Software 14%
+Other 10%
+Media 7%
+Education 6%
+Health Care 5%
+Finance 5%
+Manufacturing 4%
+Publishing 3%
+Construction 3%
+Consumer Packaged 
+Goods (CPG)3%
+Retail 2%RolePercentage  
+of Respondents
+Insurance 2%
+Consumer Services 2%
+Real Estate 1%
+Transportation 1%
+Telecommunications 1%
+Entertainment 1%
+Government 1%
+Hotels 1%
+Arts 1%
+Travel 1%
+Recreation 0%
+Restaurants 0%
+n = 912
+B2B vs. B2CPercentage  
+of Respondents
+B2B 53%
+B2C 10%
+Both 35%
+NA 2%
+n = 883Industry
+Professional services is the industry most commonly identified by respondents, comprising 
+27% of those surveyed. Other common industries include software, media, education, health 
+care, and finance.
+B2B vs. B2C
+When asked if their company was business-to-business (B2B) or business-to-consumer 
+(B2C), 53% say they are exclusively in B2B, while 35% say they are in both B2B and B2C. 
+Just 10% say they are exclusively in B2C. 
+Given the overlaps, 88% either work exclusively or partially in B2B, while 45% work 
+exclusively or partially in B2C.27%   
+OF RESPONDENTS  
+WORK IN  
+PROFESSIONAL  
+SERVICES, THE  
+HIGHEST PERCENTAGE  
+OF RESPONDENTS.  
+202311  |  2023 State of Marketing AI Report
+The Respondents
+RevenuePercentage  
+of Respondents
+$0 - $1M 31%
+$1 - $10M 26%
+$10 - $50M 16%
+$50 - $100M 6%
+EmployeesPercentage  
+of Respondents
+1 - 9 32%
+10 - 49 21%
+50 - 99 12%
+100 - 249 9%
+250 - 499 6%
+500 - 999 5%RevenuePercentage  
+of Respondents
+$100 - $250M 5%
+$250 - $500M 4%
+$500M - $1B 3%
+$1B+ 8%
+n = 892
+EmployeesPercentage  
+of Respondents
+1,000 - 2,499 4%
+2,500 - 4,999 2%
+5,000 - 9,999 3%
+10,000 - 19,999 2%
+20,000+ 5%
+n = 908Revenue
+More than half (57%) of respondents work at companies with $10M or less in revenue,  
+a significantly smaller proportion than last year (68% at $10M or less in 2022).
+Larger enterprises are significantly represented, with 26% coming from people at 
+companies with $50M or more in revenue (compared to 23% in 2022).
+Employees
+In line with revenue numbers, 53% of respondents work at organizations with fewer than  
+50 employees, while 27% work at companies with 250 or more employees—a rise from 
+2022, when only 21% cited being at companies with 250 or more employees.57%   
+OF RESPONDENTS  
+WORK IN  
+ORGANIZATIONS  
+WITH $10M OR LESS  
+IN REVENUE.
+53%   
+OF RESPONDENTS  
+WORK AT  
+ORGANIZATIONS   
+WITH FEWER THAN  
+50 EMPLOYEES.
+202312  |  2023 State of Marketing AI Report
+Key Findings
+2023
+As part of the State of Marketing AI Report, respondents were 
+asked to answer 15 questions about their AI knowledge and how 
+their organization uses AI in marketing. 
+The questions came in two types. There were questions where respondents could only select one 
+answer and there were questions where respondents could select multiple answers. In each key 
+finding that follows, questions with multiple responses possible are indicated as such.
+When asked how they classify their understanding of AI terminology and capabilities, 54% of 
+respondents say they are at the intermediate level, while just 35% say they are beginners.
+This was a major difference from 2022, when 45% said they were beginners and 43% said 
+they were intermediate, indicating that a significant portion of the industry has moved their 
+AI understanding forward in the last 12 months.
+Those with advanced levels of understanding, however, remain largely unchanged compared 
+to last year (11% in 2023 vs. 12% in 2022).
+AI understanding appears to increase with seniority 
+of role. Entry-level roles are most likely to say they are 
+beginners (51% of entry-level respondents; n = 51), 
+with managers coming next (46%; n = 218), followed by 
+directors (37%; n = 167).
+Chief Marketing Officers are the role most likely to say they 
+have an intermediate understanding of AI (60%; n = 79). 
+Of the roles saying they have an advanced understanding 
+of AI, other C-Suite roles (outside of CEOs or CMOs) lead 
+the pack with 28% (n = 36) saying they’re at an advanced 
+level of understanding. CEOs come in second (23%; n = 
+205), and notably, just 10% of CMOs consider themselves 
+advanced in AI understanding.54% 
+OF MARKETERS  
+CLASSIFY THEIR  
+UNDERSTANDING OF  
+AI AS INTERMEDIATE.Understanding of AI
+Q:  “HOW WOULD YOU CLASSIFY YOUR UNDERSTANDING   
+OF AI TERMINOLOGY AND CAPABILITIES?”
+ 
+n = 91613  |  2023 State of Marketing AI Report
+Key Findings
+More than a third of respondents (38%) say they’re decision-makers within their organization, 
+with the authority and budget to purchase marketing AI technology. 
+Another 25% say they’re champions who advocate for marketing AI purchases internally, 
+while 20% are influencers who research and recommend solutions.
+That means, overall, 83% of 2023’s respondents are involved in researching, recommending, 
+championing, and/or deciding on marketing AI technology purchases.
+Most often, respondents who are CEOs/presidents are the ones making decisions, with 82% (n = 203) saying they are 
+decision-makers with the authority and budget to make purchases. 
+CMOs are the second most-likely role to have decision-making authority (56%; n = 77).38%  
+OF RESPONDENTS  
+ARE MARKETING  
+AI TECHNOLOGY  
+DECISION-MAKERS  
+WITH PURCHASING  
+AUTHORITY.Role in Evaluating and Purchasing  
+Marketing AI Technology
+Q:  “WHICH BEST DESCRIBES YOUR INVOLVEMENT IN   
+EVALUATING AND PURCHASING MARKETING TECHNOLOGY?”
+ 
+n = 911
+202314  |  2023 State of Marketing AI Report
+Key Findings
+Respondents most commonly (46%) rate their confidence in evaluating AI-powered 
+marketing technology at a medium level. That was also last year’s most-cited confidence 
+level, (39% in 2022), though more people overall rate their confidence as medium this year. 
+This year, fewer people also rate themselves at the low confidence level—21% compared to 
+last year’s 29%. More also say their confidence is high or very high this year than last year—
+32% compared to 29% respectively. 
+In line with respondents’ understanding of AI, it seems the biggest gains have been made in 
+moving people from lower levels to medium levels of confidence in evaluating AI technology. 
+As a whole, decision-makers predominately say they have medium levels of confidence when evaluating AI technology (42%; 
+n = 345). A sizable portion also say they have high degrees of confidence (30%). 
+Predictably, those who say they have an advanced understanding of AI are also most likely to say they had high 
+confidence in evaluating AI technology (50% of this group; n = 101).
+Interestingly, out of all respondents who say they have beginner levels of AI understanding, most say they have medium 
+confidence in evaluating AI by a slight margin (44% of this group; n = 318). 42% say they had low confidence.
+CEOs/Presidents (n = 203) are tied with Other C-Suite roles (n = 36) in having the largest proportion of respondents with 
+high confidence in evaluating marketing technology (33% for both). However, Other C-Suite roles are a bit more likely to say 
+they have very high confidence (17%) than CEOs/Presidents (15%).
+Only 24% of CMOs (n = 78) say they have a high degree of confidence in evaluating marketing technology and just 9% rate 
+themselves as having very high confidence. The majority (53%) rate their confidence as medium, and 14% say it is low.69%  
+RATE THEIR  
+CONFIDENCE LEVEL  
+IN EVALUATING  
+AI-POWERED  
+MARKETING  
+TECHNOLOGY AS  
+MEDIUM, LOW,   
+OR NONE.Marketing AI Confidence Level
+Q:  “HOW WOULD YOU RANK YOUR CONFIDENCE  
+EVALUATING AI-POWERED MARKETING TECHNOLOGY?”
+ 
+n = 918
+202315  |  2023 State of Marketing AI Report
+Key Findings
+When asked about how AI will affect marketing jobs in the next 3 years, respondents are 
+pessimistic, albeit by a small margin. 40% of respondents say AI will eliminate more jobs than 
+it creates over the next 3 years, while 36% say more jobs will be created by AI.
+It isn’t possible to directly compare this answer to 2022’s report because last year’s report 
+asked about AI’s impact on marketing jobs over a 10-year timeline. When asked that 
+question in 2022, 57% of marketers said more jobs would be created by AI than eliminated 
+and just 22% said more jobs would be eliminated.
+This could mean that marketers are overall far more pessimistic this year versus last year, thanks to 
+the stunning advancements in AI over the last 12 months, or it could mean that marketers are more 
+optimistic that, over time, AI will create new careers and opportunities, but believe short-term job 
+elimination will have to come first.
+Interestingly, CEOs/Presidents are more likely than any other role to think that more jobs will be eliminated by AI (47%; 
+n = 204) on a 3-year timeline. Entry-level roles are most likely to say that AI will not have a meaningful impact on jobs 
+(18%; n = 51).
+CMOs are the most optimistic group out of all roles, being most likely to say they think more jobs will be created by AI (41%; 
+n = 75) over the next three years—a higher percentage than any of the other roles. However, CMOs as a group are still 
+exactly divided, with 41% also saying that they think more jobs will be eliminated by AI.40%  
+OF MARKETERS  
+SURVEYED SAY AI  
+WILL ELIMINATE  
+MORE JOBS THAN  
+IT CREATES.AI’s Impact on Marketing Jobs
+Q:  “WHAT DO YOU BELIEVE THE NET EFFECT OF AI WILL   
+BE ON MARKETING JOBS OVER THE NEXT 3 YEARS?”
+ 
+n = 914
+202316  |  2023 State of Marketing AI Report
+Key Findings
+Respondents were asked which stage of marketing AI transformation best describes their 
+marketing teams. Most commonly, respondents cite being in the understanding phase (58%), 
+where they are learning how AI works, and exploring its applications and potential value.
+In total, 35% of respondents say they’re starting to pilot AI by prioritizing and running AI 
+experiments. Just 7% say they’re actually scaling AI.
+While last year’s question allowed respondents to pick multiple answers, so a direct 
+comparison isn’t possible, in 2022, 67% of respondents said they were in the understanding 
+phase and 36% in the piloting phase. 
+The biggest swing between last year and this year was in scaling. Last year, 15% said they were 
+scaling AI, compared to this year’s 7%.
+Out of all company sizes, $1B+ enterprises are most likely to be in the preliminary understanding phase of AI (66%; n = 74). 
+Organizations with $50 - $100M in revenue are the leaders in the piloting phase (40%; n = 50), and $0 - $1M size firms (n = 
+272) are tied with $1 - $10M size firms (n = 234) as the company size most likely to be in the scaling phase (9%). 58%  
+OF MARKETERS  
+SAY THEY’RE STILL  
+LEARNING HOW  
+AI WORKS, AND  
+EXPLORING ITS  
+APPLICATIONS AND  
+POTENTIAL VALUE.Stage of Marketing AI Transformation
+Q:  “WHICH STAGE OF AI TRANSFORMATION BEST  
+DESCRIBES YOUR MARKETING TEAM?”
+ 
+n = 907
+202317  |  2023 State of Marketing AI Report
+Key Findings
+Nearly two-thirds of respondents (64%) say AI is either very important or critically 
+important to the success of their marketing over the next 12 months. That’s a significant 
+jump from 2022 when just 51% said the same thing. Many more people also say AI is 
+critically important in 2023 (26%) versus 2022 (17%).Importance of AI to Marketing
+Q:  “HOW IMPORTANT IS AI TO THE SUCCESS OF YOUR  
+MARKETING OVER THE NEXT 12 MONTHS?”
+ 
+64%  
+OF MARKETERS  
+SAY AI IS EITHER  
+VERY IMPORTANT  
+OR CRITICALLY  
+IMPORTANT TO THEIR  
+MARKETING SUCCESS  
+OVER THE NEXT 12  
+MONTHS.
+n = 906
+202318  |  2023 State of Marketing AI Report
+Key Findings
+Respondents were asked which outcomes their organizations were interested in achieving 
+with AI, and could choose multiple options.
+Most commonly, respondents say they want to reduce time spent on repetitive, data-driven 
+tasks (77%). The next most-desired AI outcome is unlocking greater value from marketing 
+technologies (62%), followed closely by generating greater ROI on campaigns (61%), and 
+accelerating revenue growth (60%).
+Interestingly, the two least-common desired outcomes are shortening sales cycles (28%) and 
+predicting consumer needs and behaviors with greater accuracy (39%).
+Among decision-makers buying AI technology, the most desired outcome is using AI to reduce the time 
+spent on repetitive, data-driven tasks, with 80% (n = 341) of them citing it as a desired outcome. This is 
+also the most-desired outcome for both CEO/Presidents (n =203) and CMOs (n = 77). 77%   
+SAY THAT REDUCING  
+TIME SPENT ON  
+REPETITIVE TASKS IS  
+THE TOP OUTCOME  
+THEY’RE INTERESTED  
+IN ACHIEVING WITH AI.Marketing AI Outcomes
+Q:  “WHAT ARE THE PRIMARY OUTCOMES THAT YOUR  
+ORGANIZATION IS INTERESTED IN ACHIEVING WITH AI?  
+CHOOSE ALL THAT APPLY.”
+ 
+Primary Outcomes to Achieve with AIPercentage  
+of Respondents
+Reduce time spent on repetitive, data-driven tasks 77%
+Unlock greater value from marketing technologies 62%
+Generate greater ROI on campaigns 61%
+Accelerate revenue growth 60%
+Get more actionable insights from marketing data 59%
+Create personalized consumer experiences at scale 55%
+Drive costs down 50%
+Increase qualified pipeline 42%
+Predict consumer needs and behaviors with greater accuracy 39%
+Shorten the sales cycle 28%
+None of the above 2%
+n = 911
+202319  |  2023 State of Marketing AI Report
+Key Findings
+Respondents were asked which barriers they faced when it came to adopting AI in their 
+marketing. They could choose multiple barriers.
+The top barrier is a lack of education and training (64%), which remains the top barrier from 
+2022 at nearly the same percentage (63%).
+At 56%, a lack of understanding and awareness is the second most common barrier. Other top 
+barriers include: lack of strategy (44%), lack of talent with the right skill sets (38%), fear or mistrust of 
+AI (36%), and lack of resources (32%).64%   
+SAY A LACK OF  
+EDUCATION AND  
+TRAINING IS A TOP  
+BARRIER TO AI  
+ADOPTION.Barriers to Marketing AI Adoption
+Q:  “WHICH OF THE FOLLOWING DO YOU CONSIDER  
+BARRIERS TO THE ADOPTION OF AI IN YOUR  
+MARKETING? CHOOSE ALL THAT APPLY.”
+ 
+Barriers to Adoption of AIPercentage  
+of Respondents
+Lack of education and training 64%
+Lack of awareness or understanding 56%
+Lack of strategy 44%
+Lack of talent with the right skill sets 38%
+Fear or mistrust of AI 36%
+Lack of resources 32%
+Unknown risks 31%
+Lack of ownership or governance 27%
+Lack of technology infrastructure 26%
+Lack of executive support or vision 25%
+Lack of the right data 22%
+Unrealistic expectations 22%
+None of the above 3%
+n = 917
+202320  |  2023 State of Marketing AI Report
+Key Findings
+When asked if their organization offered AI-focused education and training for the 
+marketing team, 78% say either no (54%) or that it is in development (24%). 
+Just 17% say their employer offers this type of training. 
+Though low, these numbers are improving compared to last year. The number of people 
+who say their organization doesn’t offer training dropped significantly, from 65% in 2022 to 
+54% today. More people also say training is in development this year, with 24% saying it’s 
+in development compared to 16% last year.
+This seems to indicate that, although still in the early stages, organizations are putting more 
+emphasis on developing or offering internal AI training.78%  
+OF RESPONDENTS’  
+EMPLOYERS DO NOT  
+HAVE INTERNAL  
+AI-FOCUSED  
+EDUCATION OR  
+TRAINING CURRENTLY  
+DEVELOPED.  Marketing AI Education and Training
+Q:  “DOES YOUR ORGANIZATION OFFER ANY AI-FOCUSED  
+EDUCATION AND TRAINING FOR THE MARKETING TEAM?”
+ 
+Of companies offering some form of AI-focused training, those with $1 - $10M in revenue led the pack, with 23% of 
+respondents (n = 235) at these companies saying they had it. Following these companies were $1B+ revenue companies 
+at 22% (n = 74). 
+Companies with $500M - $1B in revenue were least likely to have AI training—66% say they don’t have it (n = 29).n = 914
+202321  |  2023 State of Marketing AI Report
+Key Findings
+Respondents were asked who owns the adoption and integration of AI for marketing, and 
+could pick multiple roles. The most common response is the CEO (35%), followed very closely 
+by the Chief Marketing Officer (CMO) at 33%. 21% say nobody owns AI for marketing. 
+Less-common owners cited by respondents include Chief Technology Officer (15%), the IT 
+Department (8%), Chief Digital Officer (8%), and Chief Information Officer (7%). 35%   
+SAY THE CEO OWNS  
+THE ADOPTION AND  
+INTEGRATION OF AI  
+FOR MARKETING,  
+FOLLOWED CLOSELY  
+BY THE CMO.AI Ownership
+Q:  “WHO IN YOUR ORGANIZATION OWNS THE ADOPTION  
+AND INTEGRATION OF AI TECHNOLOGY FOR  
+MARKETING? CHOOSE ALL THAT APPLY.”
+ 
+Predictably, smaller organizations are most likely to say the CEO owns AI. 53% of 
+respondents at companies of $0 - $1M in revenue (n = 275) say the CEO owns AI, while 
+39% at $1 - $10M in revenue (n = 234) indicate the same.
+Ownership begins to shift in part or in full to the CMO at the $10 - $50M level (n = 147).  
+In organizations from $10 - $50M to $1B+ (n = 378), the CMO is most likely to be cited as a 
+full or partial owner of AI.AI Owners Within OrganizationPercentage  
+of Respondents
+CEO 35%
+Chief Marketing Officer 33%
+No one owns it 21%
+Chief Technology Officer 15%
+Other 12%
+Other C-Suite 10%
+IT Department 8%
+Chief Digital Officer 8%
+Chief Information Officer 7%
+Not sure 7%
+Chief Data Officer 4%
+n = 915
+202322  |  2023 State of Marketing AI Report
+Key Findings
+When asked how they personally use AI, respondents most commonly (45%) say they 
+are experimenting with AI tools. However, 29% say they have infused AI into their daily 
+workflows. Another 18% said they use AI periodically. 
+Just 2% say they don’t use AI at all.98%   
+OF MARKETERS ARE  
+PERSONALLY USING   
+AI IN SOME WAY.Personal Use of AI Tools
+Q:  “HOW WOULD YOU BEST DESCRIBE YOUR PERSONAL USE  
+OF AI TOOLS?”
+ 
+Interestingly, entry-level employees are far and away most likely to not use AI at all, with 10% (n = 51) giving this answer.
+The role of CEO/President (n = 203) is most likely to say AI is infused into their daily workflows already, tied with Other 
+C-Suite roles (n = 35), with both groups at 37%. These two groups are also most likely to say they can’t live without AI 
+(14% of Other C-Suite; 11% of CEO/Presidents). Directors are most likely to be experimenting with AI (50%; n = 167), 
+followed closely by CMOs (49%; n = 78). 
+When looking at purchasing authority, decision-makers are far and away most likely to say they can’t live without AI  
+(59%; n = 345).n = 914
+202323  |  2023 State of Marketing AI Report
+Key Findings
+When respondents were asked if their organizations had generative AI policies that guided 
+the use of AI-generated text, images, video, audio, and/or code, 72% say no. 22% say their 
+organization has one or more of these policies, and 5% are unsure if these policies exist.22%   
+OF ORGANIZATIONS  
+HAVE GENERATIVE   
+AI POLICIES.Generative AI Policies
+Q:  “DOES YOUR ORGANIZATION HAVE GENERATIVE AI  
+POLICIES WHICH GUIDE THE USE OF AI-GENERATED  
+TEXT, IMAGES, VIDEO, AUDIO, AND/OR CODE?”
+ 
+The smallest companies, $0 - $1M in revenue (n = 271), are least likely to have a generative AI policy, with 80% saying 
+they don’t have one. Companies at $250 -$500M in revenue (n = 33) are most likely to have such a policy, with 36% 
+saying one is in place.n = 910
+202324  |  2023 State of Marketing AI Report
+Key Findings
+Respondents were asked if their organization had any type of AI ethics policy or 
+responsible AI principles, either publicly or internal-facing. The vast majority (71%) say no. 
+Only 21% say they have such policies. And 8% say they don’t know if they have them.21%   
+OF ORGANIZATIONS  
+HAVE AN AI  
+ETHICS POLICY OR  
+RESPONSIBLE AI  
+PRINCIPLES.AI Ethics Policy
+Q:  “DOES YOUR ORGANIZATION HAVE AN AI ETHICS POLICY  
+AND/OR RESPONSIBLE AI PRINCIPLES—EITHER PUBLIC-
+FACING OR FOR INTERNAL USE?”
+ 
+As with the generative AI policies, the smallest companies ($1 - $10M), are also least likely to have an AI ethics 
+policy—77% say they don’t have one (n = 234). Companies with $50 - $100M in revenue are most likely to have one  
+(36%; n = 50).
+n = 911
+202325  |  2023 State of Marketing AI Report
+Key Findings
+We asked respondents how they felt personally about AI and the significant impact it’s 
+having on marketing, business, and society. 64% say they have positive feelings about AI’s 
+impact and just 5% say they have negative feelings. 14% are neutral and 17% are unsure 
+how they feel.64%   
+OF RESPONDENTS FEEL  
+POSITIVE ABOUT AI  
+AND ITS IMPACT.Feelings on AI
+Q:  “HOW DO YOU FEEL PERSONALLY ABOUT AI AND THE  
+IMPACT IT’S HAVING ON MARKETING, BUSINESS, AND  
+SOCIETY?”
+ 
+n = 914
+202326  |  2023 State of Marketing AI Report
+Key Findings
+We wanted to learn how marketers advance their AI knowledge and capabilities, so we 
+asked which ways they preferred. The most popular answer (84%) is through attending online 
+events like webinars and virtual summits. The second most popular option (75%) is taking 
+online courses. Reading books and articles round out the top three at 68% of respondents.
+Interestingly, the least preferred method is by attending in-person events.84%   
+OF MARKETERS PREFER  
+TO ADVANCE THEIR AI  
+KNOWLEDGE THROUGH  
+ONLINE EVENTS.  Preferred Ways to Advance Knowledge
+Q:  “WHICH OF THESE ARE YOUR PREFERRED WAYS TO  
+ADVANCE YOUR AI KNOWLEDGE AND CAPABILITIES?  
+CHOOSE ALL THAT APPLY.”
+ 
+Preferred Ways to Advance AI KnowledgePercentage  
+of Respondents
+Attend online events (webinars, virtual summits, etc.) 84%
+Take online courses 75%
+Read books and/or articles 68%
+Listen to podcasts 59%
+Join and participate in online communities 49%
+Attend in-person events 41%
+None of the above 1%
+n = 918
+202327  |  2023 State of Marketing AI Report
+Final Thoughts
+2023
+It’s never been more important for leaders to act with urgency when it comes to AI.
+AI is a top priority this year for marketing decision-makers and practitioners in the marketing industry. And it is quickly 
+being integrated into the daily workflows of marketers to significantly impact productivity and performance. But marketers 
+clearly need education, guidance, and direction from leaders on how to use AI effectively and ethically.
+Leaders, especially CMOs, must act with urgency to devise and implement AI training programs, strategies, and policies. 
+Without formal organizational support for AI, the industry risks missing out on the full potential of AI in marketing across 
+organizations of any size in any industry.
+The good news?
+Every marketer has the opportunity to step up and become an AI leader within their organization, whether in a formal 
+capacity as an AI owner or an informal one as a champion for AI in their company and career.
+Don’t wait for the marketing world to get smarter around you.
+Be curious, and explore AI.28  |  2023 State of Marketing AI Report
+2023About Drift
+Drift®, the Conversation Cloud company, helps businesses connect with people at the right time, in the right place with the 
+right conversation. Using the Drift Conversation Cloud, businesses can personalize experiences that lead to more quality 
+pipeline, revenue, and lifelong customers. Drift brings Conversational Marketing, Conversational Sales, and Conversational 
+Service into a single platform that integrates chat, email, and video and powers personalized experiences with artificial 
+intelligence (AI) at all stages of the customer journey. More than 5,000 customers use Drift to deliver a more enjoyable and 
+more human buying experience that builds trust and accelerates revenue. Representing less than 1% of unicorns led by 
+Latino founders, Drift is building an equitable, enduring company to transform the way businesses buy from businesses.
+For more information, visit www.drift.com and follow @drift. 
+About Marketing AI Institute
+Marketing AI Institute is a media, event, and education company that makes AI approachable and actionable for marketers 
+and business leaders. The Institute owns and operates the Marketing Artificial Intelligence Conference (MAICON), hosts  
+The Marketing AI Show podcast, runs the AI Academy for Marketers featuring dozens of on-demand courses, and published 
+Marketing Artificial Intelligence: AI, Marketing and the Future of Business (Matt Holt Books, 2022). The Institute also hosts  
+AI for Writers Summit, AI for Agencies Summit, and AI for B2B Marketers Summit. 
+Founded in 2016, Marketing AI Institute educates marketers and business leaders on the present and future 
+potential of artificial intelligence and connects them with AI-powered technologies to drive marketing performance 
+and transform their careers. Today, subscribers and community members come from major brands including AARP , 
+Accenture, Adidas, Adobe, Campbell’s, Cleveland Clinic, Disney, Ford, The Gap, IBM, KPMG, LEGO, LinkedIn, 
+MassMutual, MasterCard, Mayo Clinic, Microsoft, Nasdaq, Nestle, Nissan, Nvidia, Oracle, Prudential, Salesforce, 
+Samsung, S&P Global, VMware, and Wolters Kluwer.
+Learn more at www.marketingaiinstitute.com.

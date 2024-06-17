@@ -1,0 +1,38 @@
+Régua Pesquisa
+Qual a 
+urgência
+?
+Imediatamente Próximos 30 dias Até 3 meses Até 6 mesesSó estou 
+pesquisando
+E- mail semanal 
+catálogo de imóveis 
+segundo $/ localidadeE- mail quinzenal 
+catálogo de imóveis 
+segundo $/ localidade
+clicou em 
+um 
+imóvelD+1
+E- mail agende uma 
+visita no imóvel %XX%agendou 
+visita ?Sim
+NãoSIM
+Solicitação de uma 
+visitaD+1
+agendou 
+visita ?SIMComprador
+Régua pesquisaNãoContinua em Régua 
+pesquisaNãoDark Posts / Redes 
+sociais / Artigos de 
+blog
+LP receba 
+curadoria de 
+imóveis imóveis
+-  Valor;
+-  Região;
+-  Urgência;Direciona
+E- mail quinzenal 
+conteúdosinstantâneoE- mail boas vindas à 
+BNSIR **
+próximo envio
+PESQ1 PESQ2
+PESQ3RÉGUA CONTEÚDO

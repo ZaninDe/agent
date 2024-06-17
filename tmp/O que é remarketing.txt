@@ -1,0 +1,93 @@
+O que é remarketing? 
+Você já se arrependeu de não ter comprado algo? Aquele bule que brilha no escuro, por exemplo? Com o remarketing, você entra em contato 
+novamente com as pessoas que saíram do website ou aplicativo de seu cliente sem comprar algo. Assim, enquanto elas navegam na Internet, 
+usam aplicativos para dispositivos móveis e pesquisam no Google, vocês as relembra daquela ótima oferta que eles perderam. Não haverá mais 
+arrependimento, mas sim mais tempo para tomar chá no escuro. 
+Como funciona? 
+Adicione a tag de remarketing a seu website ou aplicativo 
+Para começar a usar o remarketing, adicione a tag de remarketing a todas 
+as páginas de seu website ou aplicativo para dispositivos móveis. A tag é um 
+pequeno snippet de código que você recebe do Google AdWords. Use a tag 
+do Google Analytics (GA) para ativar o remarketing por meio de ativação 
+instantânea, assim não há necessidade de adicionar a tag novamente. 
+Crie listas de remarketing 
+Depois que você adicionar tags a seu website ou aplicativo, crie listas de 
+remarketing. Uma lista de "todos os visitantes" será criada automaticamente, e 
+você poderá elaborar sua própria lista específica. Por exemplo, crie uma lista 
+de todos os clientes que abandonaram os carrinhos de compra deles. 
+A tag de remarketing fala para o Google AdWords salvar os visitantes em cada 
+lista. Então, quando uma pessoa acessa esta página, o ID de cookie  dela é 
+adicionado ao remarketing. 
+Crie campanhas de remarketing que usam suas listas 
+Por fim, crie uma campanha com uma mensagem específica para mostrar 
+somente às pessoas em sua "Lista de categoria em alta" enquanto elas 
+pesquisam no Google ou procuram websites da Rede de Display. 
+Suas mensagens de remarketing não serão mostradas às pessoas que não 
+estão na lista. 
+Introdução ao remarketing 1/2 
+Benefícios do remarketing 
+● Aumento do tráfego para o site de seu cliente 
+● Aumento de vendas 
+● Aumento da reputação de seu cliente 
+● Aumento da lealdade e da retenção de cliente 
+● Melhora do ROI 
+Como fazer remarketing com o Google 
+Remarketing estático da Rede de Display:  mostra anúncios a visitantes antigos 
+enquanto eles procuram websites e usam aplicativos da Rede de Display. 
+Remarketing dinâmico:  mostra anúncios dinâmicos a visitantes antigos com 
+produtos e serviços que eles visualizaram em seu website enquanto procuram 
+websites na Rede de Display. Isso é o ideal para varejistas. 
+Remarketing para aplicativos para dispositivos móveis:  mostra anúncios 
+às pessoas que usaram seu aplicativo ou website para dispositivos móveis 
+enquanto elas usam outros aplicativos ou websites para dispositivos móveis. 
+Listas de remarketing para anúncios da Rede de Pesquisa:  mostram anúncios 
+a visitantes antigos enquanto eles fazem acompanhamento de pesquisas daquilo 
+que eles precisam no Google, depois de sair de seu website. 
+Remarketing de vídeo:  mostra anúncios às pessoas que interagiram com seus 
+vídeos ou canal do YouTube enquanto elas usam o YouTube e procuram vídeos, 
+websites e aplicativos na Rede de Display. 
+Saiba mais sobre como o remarketing funciona na Rede de Display do Google: 
+Com a tag do Google AdWords . 
+Com a tag do Google Analytics .
+Introdução ao remarketing 2/2 Lista de remarketing O que ela inclui Como criar 
+Usuários da 
+página inicial Todos os usuários 
+ da página inicial ● Crie uma regra que declare que o 
+URL equivale a sua página inicial. 
+Usuários da página 
+de categoria Todos os usuários 
+da página 
+de categoria ● Crie uma regra que declare que 
+o URL equivale à página de nível 
+de categoria. Repita para cada 
+página de nível de categoria 
+Usuários da página 
+de produto ou oferta Todos os usuários 
+da página de nível 
+de produto ● Crie uma regra que permita 
+que você capture suas páginas 
+de nível de produto 
+Usuários que 
+abandonaram 
+carrinhos Todos os usuários 
+que adicionaram 
+produtos ao carrinho 
+de compra, mas que 
+não converteram ● Selecione "Visitantes de uma página 
+que não acessaram outra página" 
+● Em "Pessoas que acessaram uma 
+página com algum dos seguintes", 
+adicione sua página de carrinho 
+de compra ou formulário de lead 
+● Em "Mas não acessaram outra 
+página com algum dos seguintes", 
+adicione sua página de confirmação 
+de compra ou formulário de lead 
+Usuários antigos que 
+não converteram Usuários antigos 
+que não 
+converteram ● Crie uma regra que declare 
+que o URL equivale à página 
+de confirmação de compra 
+ou formulário de lead. 
+Configure o lance de CPA desejado  ou confira nosso guia fácil de seguir acima. Listas de remarketing recomendadas 

@@ -1,0 +1,3378 @@
+APRIL 2023100 Practical Applications and 
+Use Cases of Generative AI
+1 Breakthrough Technology 
+and Promising Prospects 
+3 What Is Artificial 
+Intelligence (AI)? What is 
+Generative AI? 
+4 The Importance of 
+Protecting Data Privacy
+5 Insufficient Arabic 
+Language Applications 
+for Natural Language 
+Processing
+6 Platforms at Risk of Being 
+Sold or Dying Out
+7 Difficulties Associated with 
+the Utilization of Generative 
+AI Technologies
+8 Are Inputs and Outputs 
+Always Reliable Despite 
+Quality-Related Concerns?
+9 How Can You Engage with 
+and Obtain Information 
+from Generative AI? 
+11 Reinforcement Learning 
+from Human Feedback 
+(RLHF)Preface Applications and Use Cases
+1 ChatGPT 
+3 Useful Guidelines 
+and Techniques for 
+ChatGPT
+12 Use Cases for New 
+Businesses 
+27 Use Cases for 
+Students
+42 Use Cases for Fresh 
+Graduates, Job 
+Seekers and New 
+Employees 
+57 Use Cases for 
+Employees 72 Midjourney
+76 Other Platforms
+76 Jasper
+77 Syhthesia
+78 DALL·E 2
+79 Tome 
+80 WellSaid
+81 Runway
+82 Galileo AI
+83 Pebblely
+84 GPTZero
+85 Fliki
+86 Meetcody
+87 Sheet AI88 Quillbot
+89 MeetGeek
+90 ChefGPT
+91 MJ Prompt tool
+92 Krisp
+93 Socratic
+94 Talk to Books
+95 Podcast.ai
+96 Excelformulabot
+97 Interior AI
+98 Getfloorplan
+99 Durable
+100 ELSATable of Contents
+ - 1 - The rise of generative Artificial Intelligence 
+is a major factor in the world’s current rapid 
+advances in digital technologies. With 
+the help of this innovation, we have been 
+able to create material that is incredibly 
+inventive and useful as well as manage new 
+task-accomplishing tools and approaches 
+across several industries. Experts concur 
+that the influence of Artificial Intelligence on 
+the economy will rise in the coming years. 
+These expectations are underpinned by the 
+significant demand for these technologies, 
+which has culminated in an unparalleled 
+transformation in the field of Artificial 
+Intelligence. 
+According to many global studies, Artificial 
+Intelligence will change the shape of the 
+world in the coming years. We have seen 
+Artificial Intelligence play a significant 
+role in shaping how humans interact with 
+modern technologies and machines, and we 
+can use it as a driver of future diverse and 
+flexible innovations that keep up with rapid 
+cultural and technological transformations 
+and open up new horizons for innovation.
+In line with the wise leadership’s directives 
+to ensure future readiness, the United Arab 
+Emirates is keen to keep abreast of the 
+emerging technologies,  with the aim of 
+researching the most effective means of 
+leveraging generative Artificial Intelligence 
+in diverse fields such as education, healthcare, media, advanced sciences, and 
+more. ChatGPT’s emergence has attracted 
+a remarkable turnout, with 100 million users 
+from November 2022 to January 2023, and 
+over one million users in the first five days.
+In response to these developments, the UAE 
+government issued the ‘Generative Artificial 
+Intelligence Guide,’ which aims to address 
+the challenges and opportunities presented 
+by this technology. The guide examines 
+various prompt models that can be used 
+to obtain optimal and efficient Artificial 
+Intelligence responses, as well as data 
+privacy protection in the context of these 
+digital advancements. 
+The ‘Generative Artificial Intelligence Guide’ 
+also highlights the vast capabilities of 
+generative Artificial Intelligence and its 
+potential to significantly improve business 
+productivity and quality of life, as well as 
+various other recommendations on how to 
+harness these innovative technologies to 
+overcome present and future challenges 
+across all sectors and service fields.Breakthrough Technology and 
+Promising Prospects
+His Excellency Omar Sultan Al Olama
+Minister of State for Artificial Intelligence,  
+Digital Economy and Remote Work ApplicationsAccording to the OECD, Artificial 
+Intelligence (AI) refers to a machine-based 
+system that can, for a given set of human 
+defined objectives, make predictions, 
+recommendations, or decisions influencing 
+real or virtual environemnts.  
+Since its inception, Artificial Intelligence 
+has undergone numerous developments. 
+In 1956, at a scientific conference at 
+Dartmouth University, American computer 
+scientist, John McCarthy, first coined 
+the term “ Artificial Intelligence”. During 
+this conference, the audience reached a 
+consensus that AI referred to the creation of 
+machines with intelligence similar to that of 
+humans.
+AI development can be broadly categorized 
+into three stages: ANI, AGI, and ASI. Artificial 
+Narrow Intelligence (ANI), also known as 
+weak AI, refers to the development of 
+computer systems that are designed to 
+perform a specific task or solve a particular 
+problem. Artificial General Intelligence (AGI), 
+ - 2 - 
+A happy-suprised reaction by John Maccarthy (the founder of 
+AI), when he found out about AI for the first time. Assume that 
+this was 1956  --v 5 --q 2 --s 750
+A person scouting a book that is made out of AI --v 5 --q 2 --s 
+750 -also known as strong AI or human-level 
+AI, refers to the development of computer 
+systems that can perform any intellectual 
+task that a human can. Artificial Super 
+Intelligence (ASI) refers to the development 
+of computer systems that surpass human 
+intelligence and can perform intellectual 
+tasks that exceed human capacity.
+There are various Artificial Intelligence 
+technologies that are used in our daily 
+lives. Some examples include “smart 
+writing” features that offer suggestions 
+for email composition, spam message 
+classifiers, and voice assistant applications 
+like Amazon’s Alexa or Microsoft’s Cortana, 
+which utilize natural language processing.
+Artificial intelligence applications possess 
+the capability to continuously learn from 
+new experiences and make deductions 
+based on past experiences gathered from 
+data. In so-doing, the machine is taught 
+how to execute specific tasks based on the 
+knowledge it has acquired from such data.What is Artificial 
+Intelligence?
+AI-generated image showing the reaction 
+of John McCarthy’s (founder of AI) when he 
+discovered Artificial Intelligence for the first time 
+in 1956. The image was created on Midjourney. 
+You can copy the text below to get a similar result.
+AI Image of a person exploring a book made 
+with Artificial Intelligence. The image was created 
+on Midjourney. 
+You can copy the text below to get a similar result. - 3 - 
+Generative AI --v 5 --q 2 --s 750 What is Generative AI?
+Generative AI refers to a subset of Artificial 
+Intelligence that involves training machines 
+to generate new and original data, such 
+as images, music, text, or even videos. 
+Unlike traditional AI, which operates on 
+pre-existing data sets to recognize patterns 
+and make predictions, generative AI can 
+produce entirely new content by learning 
+from existing data sets and generating 
+something new based on that information. 
+This technology has various applications, 
+such as in art and design, content creation, 
+and even the development of chatbots and 
+virtual assistants.
+Generative Adversarial Networks (GANs) are 
+a type of deep learning model that consist 
+of two neural networks: a generator and a 
+discriminator. The generator creates new 
+data instances that resemble the training 
+data, while the discriminator evaluates 
+whether the generated data is similar to 
+the training data or not. During training, the 
+generator tries to produce data that can fool 
+the discriminator, while the discriminator 
+tries to distinguish between the generated 
+data and the training data.A Variational Autoencoder (VAE) is a type 
+of neural network architecture used for 
+generative modeling that employs both an 
+encoder and decoder network. The encoder 
+network maps the input data into a latent 
+space, while the decoder network maps the 
+latent variables back into the original data 
+space. By training the network to minimize 
+the reconstruction error between the input 
+and output data, the VAE can learn the 
+underlying structure of the data distribution 
+and generate new data samples from it.
+Generative AI has revolutionized numerous 
+industries by generating data for training 
+machine learning models, producing 
+top-notch images and videos, developing 
+advertising texts, conducting awareness 
+campaigns, and scripting virtual assistant 
+dialogs for customer service and chatting. 
+However, despite its unique capabilities, 
+users must carefully consider the strengths 
+and limitations of these cutting-edge 
+applications and choose them judiciously 
+based on the task at hand.
+Note: 
+The guide is impartial and does not show any preference 
+towards specific companies, institutions, or platforms. Its 
+primary objective is to demonstrate the practical applications 
+of generative AI and how to leverage its potential benefits.  AI-generated image on Midjourney. - 4 - 
+A theif trying to steal information and 
+data --v 5 --q 2 --s 750 The Importance of Protecting Data Privacy
+A theif trying to steal 
+information and data.  
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.Data privacy refers to the protection of 
+an individual’s personal information or 
+data, including sensitive information 
+such as financial and health data, from 
+unauthorized access, use, or disclosure. It 
+involves controlling how data is collected, 
+used, stored, shared, and disposed of 
+by organizations or entities that collect 
+or process that data. Data privacy is an 
+essential component of information security 
+and is governed by various laws, regulations, 
+and best practices aimed at ensuring the 
+confidentiality, integrity, and availability of 
+personal information.
+Data privacy is necessary for several 
+reasons. Firstly, it protects individuals’ 
+personal information from being accessed, 
+collected, and used without their knowledge 
+or consent. Secondly, it ensures that 
+sensitive information such as financial 
+records, medical records, and confidential 
+business information is kept safe and secure. Thirdly, it helps prevent identity theft 
+and other forms of cybercrime. Additionally, 
+data privacy is important for maintaining 
+trust between organizations and their 
+customers, as well as for complying 
+with legal and regulatory requirements. 
+Without proper data privacy measures in 
+place, individuals’ personal and sensitive 
+information can be compromised, leading to 
+potential harm and loss. 
+Transparency is crucial to data privacy 
+because it enables individuals to know how 
+their data is collected, processed, and used 
+by organizations. By being transparent, 
+organizations can provide clear and concise 
+information about their data privacy 
+practices, policies, and procedures. This 
+empowers individuals to make informed 
+decisions about whether to share their 
+personal information and to understand the 
+potential consequences of doing so. - 5 - 
+Scientists wearing lab coats trying to 
+push the arabic language to a computer 
+to make it learn arabic for AI --v 5 --q 2 
+--s 750 Insufficient Arabic Language Applications for 
+Natural Language Processing
+Natural Language Processing (NLP) is a 
+field of Artificial Intelligence that focuses 
+on enabling computers to understand, 
+interpret, and generate human language. It 
+involves developing algorithms and models 
+that can process and analyze large amounts 
+of natural language data, such as written 
+text or spoken speech.
+Arabic language, spoken by over 420 
+million people, ranks fifth in terms of its 
+prevalence worldwide. Nonetheless, the 
+limited availability of Arabic language 
+resources and tools in software applications 
+is a significant obstacle to programming 
+development in the Arab world, as most 
+software applications primarily support English and other foreign languages. The 
+complexity of Arabic language, with rich 
+vocalization and context-dependent word 
+forms, presents a significant challenge in 
+creating precise linguistic models for Arabic.
+Despite the difficulties involved, there 
+are ongoing efforts by AI and technology 
+institutes to create Arabic language 
+resources and tools that can be 
+incorporated into software applications. 
+To learn more about the initiatives taken by 
+these institutes, please refer to the linked 
+article.
+Click here>>
+Equis audias moluptat pa 
+voloreiur molupta nonsequ 
+oditatempor alitat restium 
+ipienisAI image of scientists in lab 
+coats trying to push Arabic 
+into a computer to teach 
+it to Artificial Intelligence. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result. - 6 - Arabic being developed exponentially in AI
+Platforms at Risk of Being Sold or Dying Out
+Similar to any other platform or technology, 
+generative AI platforms are subject to the 
+possibility of being shut down, acquired, 
+or merged with another platform through 
+acquisitions and sales.
+The generative Artificial Intelligence market 
+generated revenues of roughly $86.9 billion 
+in 2022, according to a Markets and Markets 
+report. This sector is poised to grow at CAGR 
+of 36.2% from 2022 to 2027 , due to the 
+surging demand for Artificial Intelligence. 
+Various industries including healthcare, 
+automotive, media, and wellbeing, are 
+increasingly interested in purchasing or 
+selling generative AI platforms.In recent times, there have been several 
+instances of mergers and acquisitions in the 
+generative AI industry. One such example is 
+the acquisition of Aligorithmics, a company 
+specializing in 3D materials creation, by 
+Adobe in 2019.
+The generative AI market is currently in its 
+early stages of development, leading to 
+its rapid growth. Investors and companies 
+are also seeking investment opportunities 
+resulting from mergers or acquisitions with 
+generative AI companies and applications.
+AI image showing the 
+exceptional development 
+of the Arabic language 
+using Artificial Intelligence. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result. - 7 - 
+Man’s head with a geographical location 
+behind itDifficulties Associated with the Utilization of 
+Generative AI Technologies 
+Generative AI technology is technically 
+accessible on a global scale, however, the 
+degree of its accessibility and usage may 
+vary depending on economic, technological, 
+and regulatory factors in different 
+geographical areas. Developed countries 
+with advanced digital infrastructures tend 
+to have greater access to generative AI 
+technology, with the United States, China, 
+and Europe currently at the forefront of AI 
+research and development.
+Less developed countries may face 
+challenges in accessing the latest 
+generative AI technologies due to various 
+factors such as inadequate technological 
+infrastructure and regulations, including 
+data privacy restrictions that can hinder the 
+development and adoption of generative AI.Certainly, there are several limitations 
+to running generative AI applications 
+continuously. One of the main challenges 
+is the need for substantial computational 
+resources to power AI models, which 
+requires high processing power and 
+memory. Additionally, running generative 
+AI models beyond the operating capacity 
+of computers can cause overheating or 
+malfunctions.
+Generative AI applications require regular 
+maintenance and updates, just like any 
+other software, which can hinder their ability 
+to run around the clock. These updates are 
+necessary to address vulnerabilities and 
+improve performance. It is also important 
+to provide periodic training using new data 
+to ensure the accuracy and effectiveness of 
+these applications.
+AI image showing a man’s 
+head with a geographical 
+location behind it. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result. - 8 - Three men in Arab attire in front of a 
+digital system.
+Are Inputs and Outputs Always Reliable Despite 
+Quality-Related Concerns?
+Generative AI applications may produce 
+imperfect outputs due to inaccuracies, 
+outdated data, inherent biases, or 
+malicious intentions. This could result in the 
+generation of incomplete, false, or biased 
+content. Additionally, detecting subtle 
+biases in the outputs can pose further 
+challenges.
+Generative AI applications rely solely on 
+self-learning to generate text. So while they 
+may produce text that is grammatically 
+correct, it may not always be factually 
+accurate, or can be misleading. Therefore, 
+human supervision is crucial to ensuring the 
+accuracy of the text produced by generative 
+AI. 
+ A report from IDC suggests that the amount 
+of data created globally is projected to 
+reach 175 zettabytes by 2025, a significant 
+increase from 33 zettabytes in 2018. 
+This growth in data volume is driving the 
+development of advanced AI models that 
+can generate more comprehensive and 
+realistic content.
+The progress in machine learning and deep 
+learning algorithms has enabled the training 
+of generative AI models with vast amounts 
+of data. OpenAI’s 3-GPT language model is 
+a significant example, as it is trained on a 
+massive collection of text data that exceeds 
+570 GB, making it one of the largest and 
+most resilient language models available 
+today.
+AI image of three men in 
+Arab attire in front of a digital 
+system. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.  - 9 - 
+prompt draw for me a building:: 16-
+bit::2 moonlight::2.1 360 panorama::1 
+wooden::1 defocus::-0.5 --v 5How Can you Engage with and Obtain Information 
+from Generative AI? 
+To effectively engage with generative AI, one 
+must be able to comprehend the principles 
+of interaction and exploit the potential it 
+provides. 
+Here are some recommendations for 
+handling and assimilating information from 
+generative AI:
+• Acquire a good understanding of 
+Artificial Intelligence: Familiarizing 
+oneself with the basics of AI and gaining 
+knowledge about generative systems 
+and how they function can enhance 
+one’s ability to interact with them 
+proficiently.
+• Give clear instructions: It is crucial 
+to provide clear and unambiguous 
+instructions when seeking information 
+from generative AI. 
+• Authenticate data reliability: While 
+generative AI can be beneficial in gathering information, it is crucial to 
+authenticate the sources’ credibility and 
+verify the accuracy of the information 
+furnished. 
+• Reiterate instructions as required: In 
+case of unsatisfactory outcomes, reword 
+your request or provide additional details 
+to enhance the quality of the results.
+• Responsible utilization: It is essential to 
+exercise ethical and responsible usage 
+of generative AI and acknowledge the 
+privacy and intellectual property rights 
+of others. 
+• Stay up-to-date: With rapid 
+advancements in the field of Artificial 
+Intelligence, it is imperative to keep 
+oneself informed about the latest 
+developments and progress.
+• Learn through experience: To interact 
+efficiently with generative AI, assimilate 
+knowledge from previous experiences 
+AI image of a building with 
+certain specifications and 
+high resolution. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result. - 10 - 
+An ancient poet who wore a sword stood 
+on a small boat. In one hand, he held a 
+book. Surrounded by mountains, the poet 
+looked up at the sky, where stars twinkled 
+all around.and devise tactics to better engage with 
+the systems. Building on past errors 
+and achievements can facilitate more 
+accurate and effective information 
+retrieval by refining the approach 
+towards directing the system.
+• Engage with the AI community: 
+Participate in online forums and groups 
+related to AI and machine learning to 
+exchange experiences, tips, and ideas 
+with fellow members of the community.
+• Incorporate  human intelligence: Human 
+expertise and experience may be 
+indispensable to verify information and 
+elevate the quality of outcomes. Do not solely rely on generative intelligence and 
+do not hesitate to seek guidance from 
+experts or colleagues when necessary.
+• Critical assessment: In certain 
+contexts, it may be indispensable to 
+adopt a critical approach towards the 
+information furnished by generative 
+intelligence. Before implementing the 
+information into projects or making 
+crucial decisions, meticulously evaluate 
+and analyze the data.
+The above guidelines help the users to 
+proficiently engage with generative AI, 
+harness its capabilities, and enhance work 
+quality while making informed decisions.
+AI image of an old poet on 
+a small boat holding a book 
+in his hand. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result. - 11 - 
+Decorate the astronaut playing golf on 
+the moon The background is 2050, and I 
+want you to make it look like you’re looking 
+at the Earth and taking a driver tee shot 
+Make a person’s image bigger. Make it real 
+and vivid, surreal fantasy golf abstract in 
+infographic style without text, maximum 
+texture --ar 16:9 --v 5Reinforcement Learning from Human Feedback 
+(RLHF) 
+Reinforcement Learning from Human 
+Feedback (RLHF) is a type of machine 
+learning technique that involves using 
+human feedback to train an AI system. In 
+RLHF, a human provides feedback to the AI 
+system in the form of rewards or penalties 
+based on the actions it takes.
+The AI system then learns to optimize its 
+actions to achieve the desired outcome 
+based on the feedback received. RLHF is 
+particularly useful in scenarios where it is 
+difficult to define a clear objective, such as 
+in creative tasks or in situations where the 
+optimal outcome may be subjective.Reinforcement Learning from Human 
+Feedback (RLHF) is a relatively new and 
+emerging field in machine learning that 
+aims to address some of the limitations 
+of traditional reinforcement learning 
+algorithms. While traditional reinforcement 
+learning algorithms are highly effective in 
+scenarios where a clear reward function can 
+be defined, they can struggle in situations 
+where the optimal outcome may be 
+subjective or difficult to define.
+By incorporating human feedback, RLHF 
+can improve the accuracy and efficiency of 
+AI systems while ensuring that they align 
+with human values and preferences.
+AI image of an astronaut 
+playing golf on the moon with 
+a background of the year 2050. 
+The image was created on 
+Midjourney.
+ You can copy the text below to 
+get a similar result.ChatGPT#1
+ChatGPT Midjourney Other Platform
+Click here
+ChatGPT
+ChatGPT is an Artificial Intelligence chatbot that is built to comprehend human 
+language and produce text responses that closely mimic natural human 
+language. It is capable of generating accurate and contextually appropriate 
+responses to user input.  
+Recently developed by OpenAI, ChatGPT is a state-of-the-art chatbot that has 
+been trained in multiple languages using advanced deep learning techniques. 
+Its sophisticated technology enables it to comprehensively understand text 
+and effectively respond to a wide range of inquiries. The software has numerous 
+potential applications across a variety of industries, including:
+• Learning and Teaching: ChatGPT has the potential to be a valuable resource 
+for students and teachers alike, as it can assist with learning and teaching 
+by providing information, answering questions, and addressing challenges 
+related to the curriculum. It can serve as an ideal virtual assistant for educa-
+tional purposes.
+• Consulting and Technical Support: ChatGPT can be utilized as an information 
+source to offer advice and support in a wide range of technical areas such as 
+IT, programming, engineering, and other related fields. Its ability to compre-
+hend technical jargon and provide contextually relevant responses makes it 
+an ideal virtual assistant for such applications.
+• Translation: ChatGPT has the capability to enhance communication by 
+accurately translating text between different languages, thereby facilitating 
+cross-lingual communication.
+• Time Planning and Task Management: ChatGPT has the potential to improve 
+personal and professional productivity by assisting with daily organization, 
+task tracking, and priority setting. It can serve as a virtual assistant to help 
+manage agendas, track tasks, and optimize time management, leading to 
+increased productivity.
+• Marketing and Advertising: Marketing and advertising experts can utilize 
+ChatGPT to craft appealing ad scripts and produce successful marketing 
+content.
+The applications of ChatGPT technology are extensive and diverse, 
+encompassing various fields and industries. GPT-4 GPT-3 Generation
+Reasoning
+Speed
+Conciseness
+More advanced than GPT-3 Relatively advanced  Accuracy
+Better performance in 
+a variety of tasks and 
+applicationsDepends on text and 
+contextPerformance
+More sophisticated and 
+capable of learning than 
+GPT-3Excellent Ability to
+learn
+An updated database was 
+uploaded in September 
+2021An updated database was 
+uploaded in September 
+2021Data
+Same uses as GPT-3 but 
+with better performance 
+and higher accuracyAI conversations, 
+summarization, 
+translation, question 
+answering, content 
+creation Uses
+GPT-3 vs GPT-4#2
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #3
+ChatGPT Midjourney
+ Other Platform
+How to Enhance the Effectiveness of 
+ChatGPT?
+The efficiency of the ChatGPT application can be enhanced by implementing the 
+following measures:
+1.  Ask ChatGPT to disregard any prior conversations, if there were any. This is 
+crucial to ensure that previous commands do not impact the accuracy of the 
+new texts and responses.
+2.  In the second part of the prompt, specify a clear and specific goal for 
+ChatGPT to assume the character of a domain expert. This will help avoiding 
+general answers.
+3. The third part of the request body should include a specific task for ChatGPT 
+to perform. This will ensure that the system provides a precise and accurate 
+response to the request. 
+4. The fourth part of the request body should include specific conditions for 
+ChatGPT to follow. This will improve the likelihood of producing the most opti-
+mal and precise response.  
+5. In the fifth part of the prompt, ask the system whether it has fully compre-
+hended the instructions. This is to allow the system to seek clarification on 
+any ambiguous points.  Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #4
+ChatGPT Midjourney
+ Other Platform
+Could you kindly provide me with the weekdays in English, Arabic, 
+and Spanish and arrange them in a table format
+Creating a table opposite to top of Burj 
+Khalifa (Make the quality 8K) --ar 4:3 --v 
+5 --s 250
+The Prompt
+Create a Table on ChatGPT
+Upon the user’s request, ChatGPT is capable of generating responses as tables. 
+The user can ask for various inputs to be incorporated into the table.
+AI image of a table facing 
+the top of the Burj Khalifa. 
+8K resolution. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #5
+ChatGPT Midjourney
+ Other Platform
+To download extension, please click here >>
+Searching the Internet via ChatGPT
+By selecting “Web Access,” as depicted in the image below, the request text in 
+ChatGPT can be augmented with pertinent outcomes from the Internet. This 
+criterion improves the significance of web results associated with the request 
+text, resulting in more precise and current conversations.
+Access to this functionality is also provided through the hyperlink below, which 
+grants entry to the ChatGPT project’s open-source platform, i.e. access to 
+private programming codes for anyone to review and contribute to the code >>Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #6
+ChatGPT Midjourney
+ Other Platform
+The universe in a bottle of water. the 
+picture should be in 8K quality, make 
+the picture to be inspiring --ar 4:3 --v 5 
+--s 250 
+ChatGPT + YouTube
+Follow the steps below to allow ChatGPT to produce a text summary of a video 
+from the YouTube platform: 
+1. To access the ‘Show transcript’ feature on YouTube, click on the three-dot 
+button located beneath the video.
+2. Copy the written content of the video.
+3. Go to ChatGPT and type ‘Summarize the following’ and paste the text copied 
+from the YouTube platform.
+4. You can get different forms of summarization by specifying the type of 
+summarization form for ChatGPT . For example, “Summarize what person X 
+said in 15 full sentences in the form of bullet points”
+AI image of the universe in a 
+bottle of water. The image was 
+created on Midjourney. You can 
+copy the text below to get a 
+similar result.Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #7
+ChatGPT Midjourney
+ Other Platform
+Imagine you are a marketing executive at a private company, can 
+you generate for me …… 
+Imagine you are a primary school teacher, can you suggest …. 
+Imagine you are the director of finance in a public company, can 
+you state …. 
+A person with a head of a computer 
+wearing a suit and commuting to work. 
+This person is sitting in a car, and is 
+rolling down his window, while frustrated 
+with the traffic--v 5 
+Ask ChatGPT to Impersonate a Specific 
+Character 
+The user can ask ChatGPT to impersonate a specific character. This can result in 
+more precise ideas and suggestions, compared to a general context.
+The Prompt
+AI image of a person with a 
+computer head wearing a suit 
+driving to work. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #8
+ChatGPT Midjourney
+ Other Platform
+Topic : Increasing views for blogposts 
+For the above topic, give examples that contradict the dominant 
+narrative. Generate an outline for topics with some description 
+that challenges assumptions. 
+A 2022  Porsche 911 GT 3RS. Make the 
+colour of the car flashy green --ar 4:3 --v 
+5 --s 250
+Introducing New Ideas
+To produce inventive texts, it can be advantageous to examine alternative 
+perspectives, enabling individuals to adopt fresh points of view. This is because 
+creativity and innovation often stem from embracing viewpoints that differ from 
+conventional wisdom. ChatGPT users can prompt the system to generate novel 
+ideas that deviate from prevailing thinking in a specific field of innovation.
+The Prompt
+AI image of 2022 Porsche 
+GT3RS 911, attractive green 
+color. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #9
+ChatGPT Midjourney
+ Other Platform
+Topic : How can I know what to prioritize ?
+For the above topic, brainstorm new angles and approaches. 
+Priortize ideas that are uncommon and unique. 
+A big and detailed cloud that looks like a 
+brain ,it is 8k --ar 4:3 --v 5 --s 250  
+Advanced Brainstorming
+Users can brainstorm to generate fresh solutions, opportunities, and ideas. 
+However, it is possible that some of these ideas may not be original. In such 
+cases, the user can request ChatGPT to identify unique and valuable ideas 
+that can be incorporated into the original text, potentially leading to innovative 
+insights.
+The Prompt
+AI Image of a large, detailed 
+brain-like cloud. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #10
+ChatGPT Midjourney
+ Other Platform
+https://beebom.com/how-use-chatgpt-app-android-ios/
+A man sitting on a rocking chair, drinking 
+coffee, he overlooks a window and the 
+window overlooks a digital and futuristic 
+world --ar 4:3 --v 5 --s 250 
+Phone app for ChatGPT?
+At present, ChatGPT can be accessed via web browsing on the Internet. 
+However, there are ways for users to create a shortcut application for quicker 
+access to ChatGPT . The instructions for creating such an application are 
+provided in the following link:
+The Prompt
+AI image of a man sitting in 
+a rocking chair drinking coffee 
+and looking out the window at 
+a digital world.  The image was 
+created on Midjourney.  
+You can copy the text below to 
+get a similar result.Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #11
+ChatGPT Midjourney
+ Other Platform
+Siri + ChatGPT
+By following the steps below, users can utilize ChatGPT in conjunction with Siri, 
+Apple’s smart virtual assistant.
+Video introducing Siri + ChatGPTUseful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #12
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#12
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Cash Flow Management
+The prompt below helps new business owners seeking advice from the AI-
+based system on cash flow management, suggestions for improving cash flow 
+and cost management, and addressing potential obstacles that may arise in 
+financial flows.
+To receive precise and pragmatic responses, users can include the industry 
+in which they work within the context of their request, allowing the system to 
+provide tailored answers.
+A riverstream made out of cash, instead 
+of water flowing downhill --ar 4:3 --v 5 
+--s 500 
+The Prompt
+ As a [Enter industry] business owner, I’m always looking for ways 
+to enhance and develop my cash flow management skills. I want 
+to make sure that I am optimizing my cash flow to cover expenses, 
+pay employees, and invest in growing my business. What are 
+some effective strategies or tools that I can use to improve my 
+cash flow management skills? How can I anticipate potential cash 
+flow issues and plan for them in advance to ensure my business’s 
+financial stability? 
+AI image of a river course 
+full of paper money. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result. 
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #13
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#13
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Cultivating a Culture of Innovation
+As a [Enter industry] business owner, I recognize the importance 
+of innovation in remaining competitive and gaining an edge in the 
+market. However, continuously generating new ideas and staying 
+ahead of the competition can be difficult. What strategies and 
+tools can I use to foster innovation in my business? How can I 
+guarantee that my business remains a leader in our industry and 
+continues to provide exclusive value to our customers? The prompt below helps new business owners seeking advice from the AI-based 
+system on fostering a culture of innovation. It also suggests various strategies 
+and tools for cultivating such a culture within private businesses.
+To receive precise and practical responses, the user can mention their industry 
+while making a request, allowing the system to provide relevant and accurate 
+answers.
+A small boy standing below a clear night 
+sky, the sky is filled with glowing stars. the 
+photo should be very clean and clear. 8K 
+Quality --c 100
+The Prompt
+AI image of a boy standing 
+on a clear night under a starry 
+sky. The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #14
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#14
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you please create a table of social media content for my 
+[Enter industry] business? The table should include the following 
+columns: 
+1. Social media platforms 
+2. Type of engagement on social media 
+3. Content for the engagement 
+4. Timeline 
+5. Date column
+I want to effectively plan and organize my  social media strategy 
+for my business and track the progress of my social media 
+campaigns. With this table, I hope to ensure that my social media 
+content is consistent, relevant to my target audience, and aligns 
+with my overall marketing goals. Thank you in advance for your 
+assistance.Planning a Social Media Marketing 
+Campaign
+The prompt below helps new business owners seeking advice from the AI-based 
+system on crafting a marketing plan for a social media campaign. The request 
+generates a table for the plan, outlining the social media platforms to be utilized, 
+the type of interaction, content creation, the time period, and the publication 
+date.
+To receive accurate and practical responses, users can specify their industry 
+within the context of their request, allowing the system to provide relevant and 
+precise answers.
+The Prompt
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #15
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#15
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you create a table checklist with descriptions of each section 
+of a business plan that I can use as a small business owner in 
+[Insert sector] sector? The table should include the following 
+columns: 
+Section of Business Plan 
+Description of Section 
+Completed (tick mark when done) 
+I want to make sure that my business plan is comprehensive and 
+includes all the necessary components to be successful. With 
+this table, I hope to understand the purpose and contents of each 
+section of a business plan, which can help me create a strong plan 
+that can help me secure funding, attract investors, and guide the 
+growth of my business.  Create a Checklist for a Business Plan 
+The prompt below helps new business owners seeking advice from the AI-based 
+system on developing a checklist for a business plan. The request includes a 
+checklist table with three main topics: the business plan section, a description, 
+and a tick mark to indicate completion. 
+Users can also ask the system to provide more detailed suggestions for the 
+proposed sections based on the information provided.
+To obtain precise and practical responses, the users can provide information 
+about their industry within the request, allowing the system to offer relevant and 
+accurate answers.
+The Prompt
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #16
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#16
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you explain to me what a CRM is and the benefits of using 
+one for my small business? Additionally, can you suggest some 
+CRM options that would be suitable for my business in the [insert 
+industry] industry? I’m looking for a solution that will help me 
+manage customer relationships, streamline communication, and 
+improve overall efficiency.  
+A small business owner in a barter market. 
+looks like an old Da vinci type of painting. 
+the small business owner is speaking to 
+many customers and he is having a direct 
+discussion with them, like 50 customers 
+--v 5 --s 250
+Explaining and Proposing Customer 
+Relationship Management Software 
+The prompt below helps new business owners seeking advice from the AI-
+based system on customer relationship management software. The request 
+also provides suggestions for software that can improve communication and 
+enhance overall efficiency.
+By specifying the industry they work in within the request, the user can receive 
+precise and practical responses from the system. This helps ensure that the 
+answers provided are relevant and applicable to their specific industry.
+The Prompt
+AI image of a small business 
+owner in a market that 
+looks like a Da Vinci painting 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #17
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#17
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner, I’m interested in building a website or 
+application for my business. Can you suggest some actionable 
+steps for each option, including the use of freelancers and hiring a 
+company? Additionally, what are some resources I can use to get 
+started with my research and find the best solution for my needs? 
+I want to make sure that I choose the best approach for my 
+business, whether that means building the website or application 
+myself, hiring freelancers, or working with a company. I’m also 
+interested in any resources that can help me get started with my 
+research, such as websites or tools for comparing options and 
+finding the best fit for my business.  Examining the Techniques Used to 
+Construct a Website or Application 
+The prompt below helps new business owners seeking advice from the AI-based 
+system analyzing methods on creating websites or applications. The prompt 
+explores three primary solutions for website or app development, including using 
+a website that specializes in such services, hiring freelancers, or working with a 
+specialized company.
+ChatGPT will also provide suggestions for resources that can aid entrepreneurs 
+in finding services to further assist them in constructing their project.
+The Prompt
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #18
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#18
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner, I’m looking to [discuss/negotiate] a 
+[challenge/opportunity] with someone. Can you help me draft a 
+letter or email that can be sent to anyone? I want to make sure that 
+the communication is clear, concise, and professional, while still 
+being effective in achieving my goals. 
+A steampunk robot writing a message 
+using a feathered pen on a scroll, 
+realistic, octane render, 50mm lens, film 
+still, photorealistic, intricate detail, high 
+definition, dramatic lighting, cinematic 
+lighting, in the style of Wes Anderson --ar 
+4:3 --v 5 --s 250Writing a Letter/Email
+The prompt below helps new business owners seeking to write a letter or email. 
+The AI-based system will offer its perspective on composing a discussion or 
+negotiation letter for a particular challenge or opportunity.
+All you need to do is enter the required content in the designated spaces in the 
+prompt.
+The Prompt
+AI image of a fictional robot 
+writing a message using a 
+feather pen in a realistic effect.
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #19
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#19
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner in [Insert industry], I want to learn more 
+about effective networking. Can you provide me with some tips on 
+how to network effectively to grow my business? Additionally, can 
+you create a checklist of networking goals for me to achieve in a 
+timeline format, perhaps in a table format for easy reference? 
+ I want to make sure that I’m making the most of my networking 
+opportunities and building strong relationships that can help my 
+business succeed. Thank you!Building Effective Relations
+The prompt below helps new business owners seeking advice on building 
+effective relationships and implementing effective strategies to develop those 
+relationships. Furthermore, the system will generate a checklist in the form of a 
+table that includes objectives and deadlines for achieving those objectives. 
+The user has the option to input their industry within the prompt, which allows 
+the system to provide more precise and practical responses.
+The Prompt
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #20
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#20
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a [Insert Industry] small business owner, I’m interested in 
+finding a mentor who can provide guidance and support in my line 
+of business. Can you suggest some practical steps for me to take 
+to find a mentor who can help me grow my business and succeed 
+in my industry? I’m looking for actionable advice that I can put into 
+practice right away. Thank you! 
+A network of glowing translucent brains 
+connected by spider web, octane 
+rendered, hyperrealistic, 8k, highly 
+detailed, a network of glowing translucent 
+brains connected by spider web, photo 
+realistic, 4k, octane render, dramatic 
+lighting, hyperdetailed, high resolution 
+--ar 4:3 --v 5 --s 250Finding a Supervisor in the Private Sector  
+The prompt below helps new business owners seeking advice from the AI-based 
+system on how to locate a supervisor in the private sector. The prompt will 
+provide practical and actionable steps to help the user find a suitable person.
+The user has the option to input their industry to allow the AI-based system to 
+provide more precise and useful responses within the context of the request. 
+The Prompt
+Image of a transparent 
+glowing web of brains 
+connected to a spider’s web.
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #21
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#21
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner in [insert industry], I’m always looking 
+for ways to improve my bottom line. Can you suggest 50 practical 
+and innovative ideas that I can implement to either increase sales 
+or decrease costs? I’m looking for specific and actionable ideas 
+that are tailored to my industry, rather than generic concepts. 
+Thank you! 
+Innovation --c 100
+Suggesting 50 Innovative Ideas to Increase 
+Sales and Reduce Costs
+The prompt below helps new business owners seeking the views of an AI-based 
+system on generating innovative ideas to boost sales and minimize costs. The 
+system offers 50 practical ideas that are specific to the owner’s industry, with an 
+emphasis on actionable suggestions customized to the business. The user can 
+input their industry for more precise and useful answers.
+The user has the option to input their industry within the prompt, which allows 
+the system to provide more precise and practical responses.
+The Prompt
+AI image of Innovation. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #22
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#22
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner in [insert industry], I would like to 
+create a presentation to showcase my services to potential 
+corporate clients. Can you help me by providing a structure for the 
+presentation in a table format as a checklist, and also leave space 
+for me to insert my own content? I want to make sure that my 
+presentation is clear, concise, and effective in communicating the 
+value of my services. Thank you!  
+Building under construction.  
+8K ultra-clear. --v 5 --c 100
+Developing a Presentation
+The prompt below helps new business owners to seek the opinion of the 
+AI-based system on structuring a presentation. The request entails creating a 
+checklist in accordance with the business sector of the project owner.
+The user has the option to input their industry within the prompt, which allows 
+the system to provide more precise and practical responses.
+The Prompt
+AI image of a building under 
+construction. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #23
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#23
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner in [insert industry], I’m looking to 
+hire a new employee for my business. Can you provide me with 
+actionable steps to take in the hiring process? I want to make 
+sure that I’m following best practices and attracting the right 
+candidates for the job. Thank you! 
+HR department intervieing a candidate for 
+the first time. the HR department are on 
+one side. while the interviewee is on the 
+other side. they are sitting on two different 
+tables opposite to each other. the shape 
+of the table are arcs. 8K ultra-clear. --v 
+5 --c 100
+Practical Hiring Methods
+The prompt below helps new business owners seeking the advice of the 
+AI-based system on talent recruitment for their projects. ChatGPT provides 
+practical recommendations and methods for hiring the right talents based on 
+the specific needs and characteristics of the business sector.
+The user has the option to input their industry within the prompt, which allows 
+the system to provide more precise and practical responses.
+The Prompt
+AI image of a job interview in 
+the HR department on a curved 
+table. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #24
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#24
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner in the [Insert industry] industry, I need 
+to hire a freelancer for an upcoming project. Can you provide me 
+with actionable steps and best practices for hiring and working 
+with freelancers? Additionally, could you suggest some resources 
+and websites for finding and hiring freelancers that are tailored to 
+my industry?  
+A law firm library with nice lighting and 
+decor. Includes a person working in the 
+corner --ar 4:3 --v 5 --s 250
+Working with Freelancers
+The prompt below helps new business owners seeking advice on how to work 
+with freelancers to achieve their goals. The AI-based system will provide 
+actionable strategies and steps for selecting freelancers, as well as recommend 
+materials and resources for finding suitable candidates.
+The user has the option to input their industry within the prompt, which allows 
+the system to provide more precise and practical responses.
+The Prompt
+AI image of a dimly lit law 
+firm and a person looking like a 
+lawyer. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #25
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#25
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner in the [Insert industry] industry, I’m 
+interested in rolling out new products or services [Insert details 
+about product/service]. Can you provide me with a checklist in 
+the form of a table outlining actionable steps for rolling out new 
+products or services? Additionally, could you suggest some 
+resources and websites that are tailored to my industry and that I 
+can use to support my product launch? Thank you! 
+Launch of rockets in parallel. the quality of 
+the photo should be 8K. — s 1000 --ar 4:3 
+--v 5 --s 250
+Outlining the Steps of Rolling Out New 
+Products or Services 
+The prompt below helps new business owners seeking advice on creating a step-
+by-step schedule for launching new products or services. The system will provide 
+tailored recommendations and resources relevant to the specific industry to 
+ensure a smooth and efficient product launch process.
+The user has the option to input their industry within the prompt, which allows 
+the system to provide more precise and practical responses.
+The Prompt
+AI image of few rockets 
+launched together. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result.
+Useful guidelines 
+and techniques for 
+ChatGPT
+Use Cases for
+Employees 
+Use Cases for 
+Students
+Use Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses #26
+ChatGPT Midjourney
+ Other Platform
+ ChatGPT Midjourney#26
+Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a small business owner, I need to create content for my [website/
+newsletter/social media post] that accurately represents my 
+[brand/product/service] and communicates with my [message/
+promotion] effectively. Can you help me by providing draft content 
+for the [website/newsletter/social media post]? 
+For the [website], could you please provide draft content for the 
+following sections: 
+Creating Content for the Website/
+Newsletter/Social Media Posts 
+The prompt below helps new business owners seeking advice on generating 
+content for their website, newsletter, or social media post. By entering various 
+specifics into the prompt, the user can receive near-precise suggestions on the 
+content they require.
+To ensure accuracy and suitability of the content for their website, the user has 
+the option to input details within the square brackets […] while removing any 
+unnecessary prompts from the prompt. For instance, the user may opt to retain 
+the section that prompts for website content creation while disregarding the 
+sections asking for newsletter and social media post content.
+The Prompt
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses 
+Home page: [Insert specific details about what you want to 
+highlight on your home page, such as your unique selling 
+proposition, featured products/services, or a welcome message] 
+About Us: [Provide information about your company’s history, 
+mission statement, and team members] 
+Services/Products: [Highlight your key services or products and 
+explain their benefits to customers] 
+Contact Us: [Provide contact information for your business, such 
+as your phone number, email address, and physical address] 
+Testimonials: [Include customer testimonials to build social proof 
+and trust with potential customers] 
+For the [newsletter], could you please provide draft content for 
+the following sections:
+Introduction/Welcome: [Provide a warm welcome to your 
+subscribers and introduce the purpose of your newsletter] 
+Recent News/Updates: [Share any recent company news or 
+updates, such as new product launches or upcoming events] 
+Featured Product/Service: [Highlight a specific product or 
+service that you want to promote] 
+Upcoming Events: [Share details about any upcoming events or 
+promotions that your subscribers should know about] 
+Call to Action: [Encourage your subscribers to take a specific 
+action, such as visiting your website or making a purchase]#26
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for
+New Businesses 
+For the [social media post], could you please provide draft content 
+that includes the following: 
+Purpose of post: [Describe the purpose of your post, such as 
+promoting a new product or sharing a company update] 
+Key message: [Draft a message that will resonate with your target 
+audience and encourage engagement] 
+Call to Action: [Encourage your followers to take a specific action, 
+such as liking or sharing your post, or visiting your website]
+Planet earth facing a huge moon. the 
+moon should be glowing brightly with a 
+blue ambiance. the photo should be 8K. 
+— s 1000 --ar 4:3 --v 5 --s 250 
+#26
+AI image of planet earth 
+facing a huge moon. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result.#27
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Atlantis under the water photo should be 
+8K --ar 4:3 --v 5 --s 250  
+As a student, I need help drafting an outline for my essay. Can 
+you assist me with creating an outline that is [insert number of 
+words] long and tailored to the subject of [insert subject] and the 
+topic of [insert topic]? Additionally, can you help me contrast my 
+arguments with other arguments on this topic? Outlining an Essay 
+The prompt below helps students develop an essay outline. This prompt will 
+suggest counterarguments and compare the available arguments with their 
+respective counterarguments.
+By providing details such as the essay topic, word count, and subject, the user 
+can input the necessary information into the prompt, allowing the system to 
+generate an outline for the essay.
+The Prompt
+AI image of Atlantis under 
+the water. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#28
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a student, I’m having trouble understanding the concept of 
+[enter concept/term here]. Can you please explain it to me in a 
+very basic way, and provide specific examples to help me better 
+understand? 
+Very detailed photo of a spider web photo 
+should be 8K --ar 4:3 --v 5 --s 500
+Simplifying Difficult Concepts
+The prompt below helps students seeking the input of an AI-based system 
+on how to simplify complex concepts and rephrase problems in a more 
+straightforward manner. Additionally, this prompt will provide examples to aid in 
+the comprehension of the simplified concept.
+To receive an accurate response, the user may input the concept or term into the 
+prompt, allowing the system to provide a suitable explanation.
+The Prompt
+AI image of very detailed 
+photo of a spider web. 
+The image was created on 
+Midjourney.  
+You can copy the text below to 
+get a similar result.#29
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a student, I want to understand my learning style better so I can 
+study more effectively. Can you help me determine whether I am a 
+visual, auditory, or kinesthetic learner? 
+Please provide a questionnaire or assessment to help me 
+determine my learning style. Additionally, can you explain each 
+of these learning types and provide examples of effective study 
+techniques for each one? Lastly, I would like to have a dedicated 
+space to enter my responses to the questionnaire or assessment. 
+Thank you! 
+Students sitting in a classroom in the 
+1930s. the picture is in black and white. 
+all students are focused on the teacher. 
+who is giving a lesson. 8K --ar 4:3 --v 5 
+--s 500
+Identifying the Best Learning Technique for 
+the Student
+The prompt below helps students evaluate and determine the most effective 
+learning technique for them, whether it be visual, auditory, or kinesthetic. The 
+prompt includes a comprehensive explanation of each learning technique, 
+accompanied by relevant examples, and offers practical steps to help identify 
+the most suitable learning technique for the student.
+The Prompt
+AI image of Students sitting 
+in a classroom in the 1930s. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#30
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a student, I would like to create a schedule for my studying that 
+will help me manage my time effectively. Can you please create a 
+table for me that outlines my study schedule? 
+• I would like the table to include the following information: 
+• Date/Day [Insert details] 
+• Time slots for studying (e.g. 9am-10am) [Insert time slots] 
+• Subject to study during each time slot [Insert subjects] 
+Please create the table with enough rows and columns to cover 
+the timeframe that I will be studying for, and provide me with a 
+clear layout that is easy to read and follow. Thank you!  Organizing a Study Plan
+The prompt below helps students seeking to enhance their productivity by 
+developing a study plan. To do so, the user can provide details such as the 
+desired study hours, subjects, and the day(s) they intend to study.
+To receive an accurate response, the user may input relevant details into the 
+prompt, allowing the system to generate a suitable and relevant output.
+The Prompt#31
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+I’m a university student looking to enhance my English writing skills. 
+Could you please ask me some questions to test my knowledge 
+and understanding of the language? After each question, please 
+provide me with a rating and feedback to help me improve. I’m 
+eager to learn and take your feedback into consideration, so please 
+don’t hesitate to be detailed and specific in your feedback.
+A teacher in France in the 1800s teaching 
+in a classroom about René Descartes, 
+In front of the students 8K --ar 4:3 --v 5 
+--s 500 
+ChatGPT as an English Teacher
+The prompt below helps students seeking assistance in improving their 
+English language skills. The system will function as an English teacher by 
+generating a series of questions for the student to answer. Once the student has 
+responded, the system will offer feedback and advice to assist in their language 
+development.
+The Prompt
+AI image of teacher in 
+France in the 1800s teaching 
+in a classroom about René 
+Descartes. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#32
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+I’m working on an academic paper and need help citing a reference 
+in a [Enter citation style] citation style. Can you please assist me 
+with this? Here’s the information I have: 
+• Type of source: 
+• Author(s): 
+• Title of the source: 
+• Title of the container: 
+• Publication date: 
+• Publisher: 
+• Volume and issue number (if applicable): 
+• Page numbers: 
+• DOI or URL (if applicable):
+Please help me create a citation for this source in the citation style 
+of my choice.”Citing References
+The prompt below helps students requiring assistance in locating and citing 
+references in a specific style. The user may input details such as the citation 
+style, author, reference title, etc. into the prompt, allowing the system to 
+generate a complete and accurate citation.
+The Prompt#33
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+I’m a university student and I’m looking for academic sources on 
+a specific topic for a research paper. Can you help me find some 
+relevant sources? Please tell me how to proceed and provide me 
+with a list of sources. 
+Topic: [insert topic of interest here] 
+An academic sitting alone in Oxford’s 
+university Library reading a journal, where 
+the only light that is allowing him to read 
+is a small candle. The picture should be 
+shown in a very realistic way. 8K --ar 4:3 
+--v 5 --s 500
+Finding Academic References for a Specific 
+Topic
+The prompt below helps students seeking assistance in finding academic 
+references related to a specific topic. By inputting the topic into the prompt, the 
+system will provide recommended academic references on the given topic.
+The Prompt
+AI image of an academic 
+sitting alone in Oxford’s 
+university Library. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result.#34
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you please help me find quotes by a specific person for an 
+essay or speech? Please provide a list of quotes by [person’s 
+name] in the following topic: [Insert topic] 
+Superman flying dodging bullets to reach 
+to a Big Book. The picture should be 
+shown in a very realistic way. 8K --ar 4:3 
+--v 5 --s 500
+Quoting Specific Sources
+The prompt below helps students seeking assistance in locating quotes from 
+various individuals on multiple topics. By inputting the person’s name and the 
+topic of interest, the system will extract several quotes by the individual on the 
+given topic.
+The Prompt
+AI image for Superman with 
+a book in a very realistic way. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#35
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you please help me write a speech on [topic] for an upcoming 
+event? Please provide the following details to help personalize the 
+speech: 
+• [The occasion and audience of the event] 
+• [The tone and style of the speech] 
+• [Key points or ideas to be included in the speech] 
+• [Any specific quotes, anecdotes, or references to be included] 
+• [Desired length and format of the speech] 
+Someone standing on a stage giving a 
+speech make it look super real and that 
+the audience are interacting with the 
+person --ar 4:3 --v 5 
+Writing a Speech
+The prompt below helps students seeking assistance in writing a speech on a 
+particular topic. By outlining the desired elements to be included in the speech, 
+the system will generate a clear and high-quality speech tailored to the user’s 
+needs.
+The Prompt
+AI image for a person 
+standing on a stage giving a 
+speech. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.#36
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you please summarize this piece of text for me in the form 
+of bullet points or full sentences in a table? Please provide the 
+following details: 
+• The piece of text that needs to be summarized : [Type here] 
+• The key points or ideas to be included in the summary : [Type 
+here] 
+• The format and layout of the summary table, including any 
+specific headings or sections : [Type here] 
+• Any additional instructions or requirements for the summary 
+: [Type here] 
+The real batman giving a speech in the 
+UN. Show the green background of the 
+UN. He should be using his body language 
+as he is giving the speech. The picture 
+should be ultra-relestic. 8K --ar 4:3 --v 5 
+--s 500
+Summarizing Texts
+The prompt below helps students seeking assistance in summarizing texts in a 
+clear and precise manner that meets their requirements. By providing the user’s 
+specifications in the request, the system can generate an accurate summary of 
+the text that aligns with the user’s needs.
+The Prompt
+AI image of real batman 
+giving a speech in the UN. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#37
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you help me assess how critically I’m thinking about a specific 
+subject? Please provide me with a list of questions to answer 
+about [the subject of interest] that will help me evaluate my critical 
+thinking skills. 
+A young person with goals and 
+aspirations opening a door that only 
+light could be seen through --ar 4:3 --v 
+5 --s 500Evaluating Critical Thinking
+The prompt below helps students seeking assistance in testing the critical 
+thinking skill, by answering a set of questions suggested by the system. Based 
+on the answers, the system will give a detailed assessment of the user’s critical 
+thinking skills.
+The user may attach the request and write the subject so that the system can 
+measure the skills of critical thinking.
+The Prompt
+AI image of a young man 
+with aspirations who opens 
+a door from which only light 
+can be seen. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#38
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+What are the different types of note-taking techniques? How can I 
+determine which one works best for me? Please provide examples, 
+pros, and cons for each technique to help me make an informed 
+decision.
+Someone carving drawings in the Inca 
+civilization times on a wall --ar 4:3 --v 5 
+--s 500Assessing Various Note-Taking Techniques
+The prompt below helps students outline various note-taking techniques and 
+assist them in selecting the one that suits them best.
+The system will provide a list of advantages and disadvantages for each type of 
+note-taking technique.
+The Prompt
+AI image of A picture of a 
+person carving graffiti on the 
+wall dating back to the era 
+of Inca era. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#39
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you help me determine if I am a procrastinator? Please provide 
+me with a points-based test and the corresponding interpretation 
+of results. Additionally, can you suggest some strategies to help me 
+overcome this habit? 
+Someone trying to pull a rope as hard as 
+he can, the person is using two hands to 
+pull the rope. make the generated photo to 
+be ultra-realistic 8K. --ar 4:3 --v 5 --s 500 Assessing Procrastination Habits 
+The prompt below helps students identify whether they have a tendency to 
+procrastinate. In addition to the evaluation, the system will provide a range of 
+strategies for overcoming  procrastination and establishing beneficial habits.
+The Prompt
+AI image of a person trying 
+to pull a stuck rope as hard as 
+he can. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.#40
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you help me evaluate my study space and suggest ways to 
+enhance it? Please provide me with a points-based test to assess 
+my current study environment, along with the interpretation of 
+results. Additionally, can you suggest some strategies to help me 
+improve my study space based on the assessment? 
+An tidy office. classic style. situated in 
+a small library in an attic, in Hampshire, 
+the attic has a window that overlooks 
+greenery. the attic and office style is 
+based on mahogany wood. make the 
+generated photo to be ultra-realistic 8K. 
+--ar 4:3 --v 5 --s 500Evaluating the Study Environment
+The prompt below helps students assess their overall study environment using a 
+point-based system and provides recommendations on how to improve it.
+The Prompt
+AI image of an elegant office 
+with a classic style located in 
+Hampshire, with a wonderful 
+view. Atlantis under the water. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#41
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Imagine that you are a student who wants to improve your ability to 
+ask questions and engage in class discussions. Can you suggest 
+any techniques or resources to help me become a more active 
+participant in my classes? 
+Albert Einstein debating with Erwin 
+Schrödinger in the 1950 in Princeton 
+University. make each figure to stand on 
+a podium in front of the other. and in the 
+middle, there is a small table. Make the 
+generated photo to be ultra-realistic 8K. 
+--ar 4:3 --v 5 --s 500 Build Your Dialogue Skills
+The prompt below helps students improve their debating skills. It suggests 
+various actions and techniques to enhance their ability to participate in debates 
+and manage them effectively.
+The Prompt
+AI image of an of a dialogue 
+between Albert Einstein and 
+Erwin Schrödinger dating back 
+to 1950 at Princeton University 
+in a very realistic setting, with 
+high accuracy and certain 
+specifications. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#42
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Assuming the role of an interviewer, please provide me with a list of 
+questions for the position of [insert position] in the [insert sector] 
+industry. Please include a space for me to provide my responses. 
+After providing my answers, can you give me feedback on my 
+responses to help me improve my chances of getting the job? 
+A digital drawing in the style of Anime. of 
+a man wearing a suit, sitting on a round 
+table, being interviewed by a big screen. 
+make the generated photo quality 8K. --ar 
+4:3 --v 5 --s 500 ChatGPT Assumes the Role of a Job 
+Interviewer
+The prompt below helps fresh graduates, job seekers and new employees, pass a 
+job interview. The AI acts as a virtual job interviewer, presenting commonly asked 
+interview questions. Users can practice answering these questions and receive 
+feedback and evaluation from the system, improving their chances of landing a 
+job.
+For a more accurate interview, the user needs to specify the job position they are 
+applying for, as well as the industry they are interested in.
+The Prompt
+AI digital style image of 
+a man sitting at a table is 
+interviewed through a screen. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#43
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you provide me with actionable steps to make my LinkedIn 
+profile more attractive and unique? Please present these steps in a 
+table format, and also include advice on how to effectively expand 
+my network on the platform. 
+Thousands of stars, at night, all glowing, 
+and are linked together with a visible link. 
+8K. --ar 4:3 --v 5 --s 500 Expanding Your LinkedIn Contacts
+The prompt below helps fresh graduates, job seekers and new employees find 
+jobs. It provides a table containing practical techniques and approaches to 
+enhance their LinkedIn profiles, as well as useful advice on how to broaden their 
+network. 
+To improve the user’s LinkedIn profile and increase their connections, the 
+ChatGPT prompt provides a table with practical strategies and methods, along 
+with helpful suggestions.
+The Prompt
+AI image of thousands of 
+stars at night, all glowing, 
+linked by a noticeable star. 
+The image was created on 
+Midjourney.  
+You can copy the text below to 
+get a similar result.#44
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you provide me with tips and strategies to negotiate my salary 
+effectively when enrolling in a job? Please provide me with a step-
+by-step guide and some key points to keep in mind during the 
+negotiation process. Additionally, can you give me examples of how 
+to respond to common salary-related questions and objections 
+that may arise during the negotiation? 
+A big star almost absorbing a smaller star. 
+8K. --ar 4:3 --v 5 --s 500Salary Negotiation
+The prompt below helps job seekers, fresh graduates and new employees with 
+practical strategies and methods for negotiating a salary and offers responses 
+to salary-related questions that may arise during the negotiation process.
+The Prompt
+AI image of big star almost 
+absorbing a smaller star. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#45
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you help me assess how well I am adapting to my new working 
+environment? Please provide me with a test system to evaluate my 
+current level of adaptation, along with an interpretation of results. 
+Additionally, can you suggest some strategies to help me enhance 
+my adaptation to the new environment based on the assessment? 
+Flower growing in the middle of molten 
+lava c 100Assessing the Adaptability Levels of New 
+Employees 
+The prompt below helps fresh graduates, job seekers and new employees test 
+their adaptability in the workplace and provides strategies to improve their ability 
+to adjust and succeed in their career.
+The Prompt
+AI image of a flower growing 
+in the middle of molten lava. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#46
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you help me evaluate my communication skills with my 
+colleagues and managers and suggest ways to improve them? 
+Please provide me with a test system to assess my current level 
+of communication skills, along with an interpretation of results. 
+Additionally, can you suggest some strategies to help me enhance 
+my communication skills based on the assessment? Please 
+support each technique that you propose with a book, study, or 
+framework to back it up. 
+A boston dynamics robot, sitting on a table 
+writing a letter with a quill. --v 5 
+Assessing Communication Skills
+The prompt below helps fresh graduates, job seekers and new employees assess 
+their communication skills in the workplace by administering a test based on key 
+criteria and recommending strategies, drawn from books, studies, and models, 
+to improve their communication abilities with colleagues and managers.
+The Prompt
+AI image of a boston 
+dynamics robot, sitting on a 
+table. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.#47
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a new joiner to a company, how can I effectively convey that 
+I possess a certain set of skills to my colleagues and superiors? 
+Please provide me with actionable steps to showcase my skills and 
+highlight my strengths in the workplace. 
+Stars drawn as a person, while the person 
+is thinking 8K. --ar 4:3 --v 5 --s 500
+Showcasing the Strengths of a New 
+Employee
+The prompt below helps fresh graduates, job seekers and new employees 
+evaluate their skills, identify their passions and talents, and determine their 
+strengths and areas for improvement. The system will provide a test based on 
+specific key points and suggest strategies based on relevant books, studies, and 
+models.
+The Prompt
+AI image of a person thinking 
+drawn by stars. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#48
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+As a new employee, I want to understand the work culture of my 
+company. Can you explain how I can use the Competing Values 
+Framework to assess the work culture and provide advice on how 
+to navigate it effectively? Specifically, can you suggest how I should 
+act and what to prioritize within each type of culture identified by 
+the framework? 
+Situate the following : The Colosseum, 
+Rome, Italy. ... The Great Wall of China. ... 
+The Taj Mahal, India .. Machu Picchu, Peru. 
+... Chichén Itzá, Mexico. ... Petra, Jordan.. 
+place all of these landmarks on an island 
+in the middle of the pacific ocean. 8K. --ar 
+4:3 --v 5 --s 500 
+Identifying Work Culture
+The prompt below helps fresh graduates, job seekers and new employees with 
+new ideas on how to identify the type of work culture they fit in, based on the 
+widely-used “Competing Values” framework for assessing the work environment. 
+Moreover, the prompt provides guidance on how to navigate and work effectively 
+in different types of work cultures.
+The Prompt
+AI image of a situate the 
+Colosseum, Rome, Great Wall 
+of China, Taj Mahal, India, 
+Machu Picchu, Peru, Chichén 
+Itzá, Mexico and Petra, Jordan 
+on an island in the middle of 
+the Pacific Ocean. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result.#49
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you provide me with a point-based test to assess my level 
+of professionalism in the workplace? Additionally, can you offer 
+strategies and tips on how I can improve my professionalism, 
+supported by research or best practices in the industry? Please 
+include actionable steps that I can take to enhance my professional 
+image in my work environment. 
+Sheik Zayed Road Skyscrapers --ar 4:3 --v 
+5 --s 500
+Measuring the Level of Professionalism
+The prompt below helps fresh graduates, job seekers and new employees with 
+a professionalism test consisting of crucial points and recommends effective 
+strategies and steps to enhance the employee’s professionalism. 
+The Prompt
+AI image of skyscrapers 
+in Sheik Zayed Road, Dubai. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#50
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you help me write an email on [topic/subject]? Please include 
+the following information in your response: 
+ 
+• Recipient’s name and email address : [Insert details]  
+• Purpose or reason for the email : [Insert details]  
+• Desired outcome or action from the recipient: [Insert details]  
+• Any important details or background information: [Insert details]  
+• Tone or level of formality required: [Insert details]  
+• Closing or sign-off: [Insert details] 
+A middle-aged man writing a letter in the 
+1970’s. --ar 4:3 --v 5 --s 500 -
+Writing an Email
+The prompt below helps fresh graduates, job seekers and new employees create 
+a professional email through a fill-in-the-blank format. The system will provide 
+the user with the necessary prompts to ensure that the email is written to a high 
+standard and meets the user’s requirements.  
+The Prompt
+AI image of a man in his 
+forties, sitting writing a letter 
+in the 1970s. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#51
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+I’m looking to expand my understanding in my field and would like 
+to read some highly rated and widely read books. Can you suggest 
+a list of introductory books in [Insert topic of intrest] ? 
+A modern library that has white shelves. 
+and bright white straps. A robotic machine 
+with a robotic arm that is grabbing a book 
+and bringing it down. Make the photo to be 
+ultra realistic. --ar 4:3 --v 5 --s 1000
+Suggesting Work-Related Books 
+The prompt below helps fresh graduates, job seekers and new employees by 
+recommending a list of helpful books in the user’s field of work based on the 
+subject entered by the user in the prompt space.
+The Prompt
+AI image of a of a modern 
+library with shelves, lights and 
+a robotic arm picking a book. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#52
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“I’m interested in pursuing some accredited certifications in my 
+field to enhance my career prospects. Can you suggest some 
+of the top certifications in [insert field] that are highly valued by 
+employers? Additionally, please provide details on the requirements 
+to attain these certifications, any associated costs, and resources I 
+can use to prepare for them.” 
+A sky filled with certificates (make the 
+photo to be ultra-realistic, 8K) c 100
+Suggesting Recognized Certificates in Your 
+Field
+The prompt below helps fresh graduates, job seekers and new employees 
+who are seeking to enhance their professional credentials. In this prompt, the 
+system will recommend a variety of highly recognized and globally accepted 
+certifications related to the user’s specified field. The user will need to provide 
+the field they wish to explore. 
+The Prompt
+AI image of a realistic picture 
+of a raining sky with scientific 
+certificates. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#53
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+A bright link between satellites in the 
+space. make the photo be ultra-realistic 
+--ar 4:3 --v 5 --s 500
+“I’m trying to decide between pursuing a higher degree [Insert 
+degree] or gaining more practical work experience [Insert industry]. 
+Could you create a SWOT analysis comparing the two options and 
+support statements with statistics? Please include strengths, 
+weaknesses, opportunities, and threats for each option to help me 
+make an informed decision.” SWOT Analysis to Help You Choose Between 
+Studying and Working 
+The prompt below helps fresh graduates, job seekers and new employees 
+compare the benefits and drawbacks of pursuing a higher degree versus gaining 
+practical work experience. The user will need to specify their field of study and 
+the sector they wish to work in. The system will provide relevant statistics and 
+information to help the user make an informed decision. 
+The Prompt
+AI image of a bright link 
+between satellites in space. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#54
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“I’m preparing for a job interview and I want to know what types 
+of questions I should ask during the interview. Can you provide me 
+with a list of questions that I can ask?.” 
+A person in the middle of the desert, 
+wearing an Armani suit sitting on a chair, 
+and in front of him is a table made out 
+of mahogany wood. The person is sitting 
+in the middle of the desert. --ar 4:3 --v 5 
+--s 500
+Mock Interview Questions
+The prompt below helps individuals who are new to the job market and are 
+preparing for job interviews. The system will offer a list of recommended 
+questions that job applicants can ask during their interview to demonstrate their 
+interest in the job and learn more about the company and position.
+The Prompt
+AI image of a person in the 
+middle of the desert wearing 
+an Armani suit, sitting on a 
+chair with a mahogany table 
+in front of him. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#55
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“Can you provide me with an outline for a report on [Insert topic]? 
+Please include the necessary sections and information that 
+should be included to ensure that the report is comprehensive and 
+effective. Additionally, can you provide any tips or best practices for 
+researching and writing?” 
+Construction site in the 1990’s. The 
+building being constructed is still in its first 
+phase. --ar 4:3 --v 5 --s 1000
+Report Structure Suggestions
+The prompt below helps fresh graduates, job seekers and new employees 
+seeking jobs to create a structured report based on a specified topic, as well as 
+offering guidelines and recommendations for effective report writing.
+The Prompt
+AI image of a construction 
+site in the 1990s where the 
+building is still in its early 
+development. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#56
+ChatGPT Midjourney Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for
+ StudentsUse Cases for
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“I need to ask someone for something at work, but I’m feeling 
+hesitant and don’t want to come across as demanding. Can you 
+suggest a step-by-step approach that I can take to make the 
+request in a professional manner? Please provide tips on how to 
+frame the request and any language to use that can help me feel 
+more comfortable and confident in making the ask.” 
+A person wearing a full white suit walking 
+through the time in the middle of Times 
+Square. Many other people are also 
+walking in Times Square, however all other 
+individuals are wearing a full grey suits. 
+Make the picture to be detailed and ultra-
+realistic 8K.--ar 4:3 --v 5 --s 500
+Confidently Asking for Help 
+The prompt below helps fresh graduates, job seekers and new employees who 
+are struggling with the challenges of starting a new job. By filling in the blanks 
+in the prompt, the system will provide specific and practical steps to overcome 
+these challenges, as well as provide assistance with certain work-related topics. 
+The Prompt
+AI image of a person in a 
+white suit walking through 
+time surrounded by people in 
+gray suits in Times Square. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#57
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“Can you explain to me what the Eisenhower Matrix and time-
+blocking technique are, and how I can combine them in a creative 
+way to enhance my productivity? Please provide examples of how I 
+can use these techniques in my daily work routine and any tips on 
+how to make the most of them.”
+A wall being built fully by alarm clocks. The 
+clocks should be analog. The wall is being 
+built in a middle of a garden situated in 
+Baden-Baden. Make the picture detailed 
+and ultra-realistic 8K.--ar 4:3 --v 5 --s 500
+Task Management (Part I)
+The prompt below helps employees who wish to learn about the Eisenhower 
+Matrix and Time-blocking technique. The system will explain the two methods 
+and their advantages, as well as provide practical tips on how to use them 
+effectively to prioritize tasks and manage time efficiently.
+The Prompt
+AI image of a wall built by 
+clocks symmetrically in the 
+middle of a park in Baden-
+Baden. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.#58
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you create a time-blocking schedule, in a table format, for me 
+based on my list of tasks? Please include the following fields:
+List of tasks that I need to complete 
+1. [Insert task]
+2. [Insert task]
+3. [Insert task]
+4. [Insert task]
+5. [Insert task]
+Working hours: [Insert time] 
+Break times : [Insert time]
+Using the Eisenhower Matrix, please categorize each task based on 
+its level of importance and urgency. This will help ensure that the 
+most critical tasks are prioritized appropriately.
+Please make sure that the fields are clearly labeled so I can easily 
+enter the necessary information. Task Management (Part II)
+The prompt below helps employees integrate the Eisenhower Matrix and Time-
+blocking technique into a table that can help them prioritize tasks and improve 
+productivity. 
+To complete this request, the user needs to provide specific tasks that need to 
+be accomplished and the amount of time available to work on them. The system 
+will then create a table that combines both techniques, allowing the user to 
+manage their time more effectively and efficiently.
+The Prompt#59
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“Can you generate for me [Insert number] innovative ideas about 
+[Insert topic] topic?” 
+A wall being built fully by alarm clocks. The 
+clocks should be analog. The wall is being 
+built in a middle of a garden situated in 
+Baden-Baden .Make the picture detailed 
+and ultra-realistic 8K.--ar 4:3 --v 5 --s 500
+Generating Innovative Ideas
+The prompt below helps employees to generate creative ideas on a specific topic 
+that they should identify by filling in the blanks in the prompt.
+The Prompt
+AI image of a wall built by 
+clocks symmetrically in the 
+middle of a park in Baden-
+Baden. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.#60
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you provide me with practical tips from the PMP syllabus on 
+project management and suggest resources to support each tip? I 
+want to ensure that I am utilizing best practices and have access to 
+relevant materials for successful project management. 
+A tight rope stretched between two 
+airships. A man trying to stand with a pole 
+on the tightrope. --v 5
+Project Management
+The prompt below helps employees seeking information about successful 
+project management techniques. By requesting this prompt, the system will 
+suggest innovative project management techniques based on the Project 
+Management Professional (PMP) syllabus, which is considered the best in the 
+field.
+The Prompt
+AI image of a tight rope 
+stretched between two airships 
+and a man trying to stand 
+with a pole on the tightrope. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#61
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+“Can you create a Scope of Work (SOW) for me? Please include the 
+following components for me to fill in:
+1. Project overview and objectives : [Insert information here] 
+2. Deliverables and milestones : [Insert information here] 
+3. Timeline and deadlines: [Insert information here] 
+4. Resources and material needed: [Insert information here] 
+5. Roles and responsibilities of each party: [Insert information here] 
+6. Budget and payment terms: [Insert information here] 
+Please provide a clear area for me to type in the information, and 
+include any additional instructions or tips that may be helpful.
+Drawing a blueprint in the 1930s for a 
+building in New York. --v 5 
+Developing a Scope of Work for a Project
+The prompt below helps employees generate a project scope of work by 
+providing the necessary information in the blanks within the prompt. Additionally, 
+the system will provide general guidance on how to create multiple scopes of 
+work.
+The Prompt
+AI image of a 1930s blueprint 
+of a building in New York. 
+The image was created on 
+Midjourney. 
+You can copy the text below to 
+get a similar result.#62
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you assist me in writing a speech on a specific topic?
+Here is the description of the speech: 
+1. The topic or theme of the speech: [Insert topic here]
+2. The purpose of the speech: [Insert purpose here]
+3. The intended audience: [Insert audience description here]
+4. The desired length of the speech: [Insert the desired length here]
+5. Any specific points or key messages to include: [Insert points/
+messages here]
+6. Any personal anecdotes or stories to incorporate: [Insert 
+anecdotes/stories here]
+7. Tone or level of formality required: [Insert tone/formality here]
+8. The setting or occasion where the speech will be given: [Insert 
+setting/occasion here]
+9. Any additional information that may be relevant: [Insert 
+additional information here]
+Writing a Clear and Accurate Speech 
+The prompt below helps employees generate a precise and well-crafted speech, 
+by providing specific details in the prompt. This would ensure that the generated 
+speech meets the user’s specific requirements.
+The Prompt#63
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+What are the different frameworks I can use when creating a 
+presentation that is based on slides? I would like to know more 
+about the different approaches that can be used to structure a 
+presentation. Please provide a brief overview of each framework, 
+including its key features and when it would be most appropriate 
+to use. 
+A man preparing a presentation v 5 
+Developing a Presentation Structure (Part I)
+The prompt below helps employees request an introduction to various 
+presentation frameworks and obtain general advice on each of them, including 
+their main characteristics.
+The Prompt
+AI image of a man preparing 
+a presentation. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#64
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you generate a detailed outline for the [Insert framework] 
+framework, applied to the topic [Insert topic], that incorporates the 
+key elements of the framework and their relevance to creating an 
+effective presentation? 
+A person skydiving --ar 4:3 --v 5 --s 500 
+Developing a Presentation Structure (Part II)
+The prompt below helps employees create a presentation outline. To do so, 
+the user needs to specify the presentation framework selected in the previous 
+prompt, as well as the presentation topic.
+The Prompt
+AI image of a person 
+skydiving. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#65
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you create a schedule for me to stay in touch with my 
+professional network? Please include the following fields in a table 
+format:
+1. List of people I should stay in touch with: [Insert names]
+2. Frequency of contact: [Insert Frequency]
+3. Additional column to indicate if a meeting was scheduled or 
+not
+4. Checklist column to mark off when contact has been made 
+Please make sure that the fields are clearly labeled so I can easily 
+enter the necessary information.
+A sea of phones --ar 4:3 --v 5 --s 500
+Keeping in Touch 
+The prompt below helps employees develop a schedule for maintaining and 
+improving their professional network according to the time they specify in the 
+prompt. The user will need to fill in the blanks to allow the system to create a 
+personalized schedule that will help them stay connected with their network.
+The Prompt
+AI image of a large number 
+of mobile phones. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result.#66
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+I’m interested in learning more about [Subject of Interest], and I’ve 
+heard about the Feynman method of learning. Can you provide me 
+with actionable steps and examples of how to apply the Feynman 
+method to learn about this subject? I would appreciate a clear and 
+concise explanation, including any resources or tools that could 
+assist me in my learning process.
+Richard Feynman trying to explain a hard 
+concept on a chalkboard. --ar 4:3 --v 5 
+--s 500
+Learning Concepts Based on Feynman’s 
+Technique 
+The prompt below helps employees seeking new concepts using the Feynman 
+method of learning developed by physicist Richard Feynman for simplifying 
+complex concepts. By filling in the blanks with the specific topic, the system will 
+provide step-by-step instructions on how to apply the technique effectively.
+The Prompt
+AI image of a Richard 
+Feynman trying to explain a 
+hard concept. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#67
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+I’m looking to expand my understanding in my field and would like 
+to read some highly rated and widely read books. Can you suggest 
+a list of advanced books in [Insert topic] ?
+A huge library c 100Recommending a Book on a Specific Topic
+The prompt below helps employees request book recommendations on a 
+specific subject. Users can fill in the blanks with the topic of interest, and the 
+system will provide recommendations for advanced books.
+The Prompt
+AI image of a huge library. 
+The image was created on 
+Midjourney.
+You can copy the text below to 
+get a similar result.#68
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+What are some effective methods for motivating employees, and 
+how can I implement these methods in a practical and actionable 
+way? I am looking for specific strategies and tactics that I can 
+use to boost morale, increase productivity, and improve overall 
+job satisfaction among my team members. Please provide clear 
+examples and practical advice that I can apply in my workplace.
+A proton accelerating. The proton looks 
+very clear. --ar 4:3 --v 5 --s 500
+Motivating Employees
+The prompt below helps employees find actionable methods and real-world 
+examples of motivating employees, along with suggesting strategies and ideas.
+The Prompt
+AI image of a very clear 
+proton accelerating. The image 
+was created on Midjourney. 
+You can copy the text below to 
+get a similar result.#69
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+How can I improve my problem-solving and critical-thinking skills?
+A person just finished climbing Mount 
+Everest. He has an Oxygen tank on his 
+back. Make the picture look super realistic, 
+8K quality. --ar 4:3 --v 5 --s 500
+Improving Critical Thinking and Problem-
+Solving Skills
+The prompt below helps employees find techniques for enhancing their critical 
+thinking and problem-solving abilities.
+The Prompt
+AI image of person who 
+has reached the top of Mount 
+Everest carrying Oxygen tank 
+on his back. The image was 
+created on Midjourney. 
+You can copy the text below to 
+get a similar result.#70
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you please help me summarize an email and identify the action 
+point required from my side? I received an email but I am not sure 
+what I need to do next. Please provide me with a brief overview of 
+the email content and specify the action that is expected from me
+[Insert email]
+A person holding a magnifying glass 
+towards a letter. --ar 4:3 --v 5 --s 500
+Summarizing Emails 
+The prompt below helps employees create email summaries. The user can copy 
+and paste the email into the prompt box for processing.
+The Prompt
+AI image of person holding 
+a magnifying glass towards a 
+letter. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.#71
+ChatGPT Midjourney
+ Other Platform
+Useful guidelines 
+and techniques for 
+ChatGPTUse Cases for
+Employees Use Cases for 
+StudentsUse Cases for 
+fresh graduates, 
+job seekers and 
+new employeesUse Cases for 
+New Businesses 
+Can you provide me with actionable steps and methods for 
+identifying the strengths and weaknesses of my employees? I’m 
+looking for ways to better understand the skills and abilities of my 
+team members so that I can assign tasks and responsibilities more 
+effectively. 
+Sun with other stars.--ar 4:3 --v 5 --s 500
+Identifying the Employee’s Strengths and 
+Weaknesses 
+The prompt below helps assess employees’ strengths and weaknesses and 
+enhance their abilities throughout their career.
+The Prompt
+AI image of sun with other 
+stars. The image was created 
+on Midjourney. 
+You can copy the text below to 
+get a similar result.Midjourney#72
+ChatGPT Midjourney Other Platform
+Click here
+Midjourney
+Similar to OpenAI’s DALL -E, Midjourney is an Artificial Intelligence image 
+generator that produces images based on a user-provided description. It has 
+been utilized by various TV shows, journals, newspapers, and institutions. 
+Some of the 
+institutions 
+and programs 
+that are using 
+Midjourney.#73
+ChatGPT Midjourney Other Platform
+Your name Today at 12:07
+galaxies, spirals, space, nebulae, stars, iridescent, intricate 
+detail, in the shape of a horse, octane render, 8k, --q 2 --ar 2:3 
+--uplightA galactic horse. This image has been generated on Midjourney.
+Copy the prompt below to get a similar image.#74
+ChatGPT Midjourney Other Platform
+Beautiful falcon catching a fish, cinematic lighting --ar 4:3 
+--upbeta Your name Today at 12:07
+A falcon snatching a fish from the water. This image has been generated on 
+Midjourney.
+Copy the prompt below to get a similar image.#75
+ChatGPT Midjourney Other Platform
+A real photographic landscape painting with incomparable 
+reality, Ominous sky, Sailing boat, Lotus, Huge waves, Starry 
+night, Volumetric lighting, Clearing, Realistic, artstation --ar 4:3Your name Today at 12:07
+A ship in a stormy sea with a moonlit sky. This image has been generated on 
+Midjourney.
+Copy the prompt below to get a similar image.Other  
+Platforms#76
+ChatGPT Midjourney Other Platform
+Click here
+Jasper 
+Video 
+introducing 
+Jasper:
+Jasper is an AI-powered aide that assists businesses with producing and 
+enhancing their content through helpful features such as image searching, text 
+response creation, and organizing ideas that align with the user and employer’s 
+specifications.#77
+ChatGPT Midjourney Other Platform
+Click here
+Synthesia
+Video 
+introducing 
+Synthesia:In just a few minutes, this platform utilizes a written prompt to generate genuine 
+visual content (in the form of a video) for a virtual character. To use this service, 
+the user must first create an account and then input the desired scenario they 
+wish for the virtual character to present. 
+Using AI technology, Synthesia will then transform the written prompt into a 
+complete visual production.#78
+ChatGPT Midjourney Other Platform
+Click here
+DALL·E 2
+Video 
+introducing 
+DALL·E 2:DALL·E 2 is an AI-based system developed by OpenAI to transform people’s 
+written prompts into images and paintings.
+Providing more information and specific details in the written prompt can lead to 
+the creation of precise and creative artwork or a particular image generated by 
+DALL·E 2.#79
+ChatGPT Midjourney Other Platform
+Click here
+Tome 
+Video 
+introducing 
+TomeTome is an AI-based platform that facilitates interactive and efficient 
+presentation creation by allowing users to input their ideas through a prompt. 
+To enhance the visual support for the presentation text, Tome employs DALL·E 2, 
+a platform used to generate images using AI.#80
+ChatGPT Midjourney Other Platform
+Click here
+WellSaid 
+Wellsaid’s 
+website:WellSaid is an AI-based technology helps in seamlessly and effectively 
+transform written text into high-quality audible content. 
+Companies that focus on content creation can benefit from this technology as it 
+can expedite the content creation process and reduce expenses.#81
+ChatGPT Midjourney Other Platform
+Click here
+Runway
+Video 
+introducing 
+Runway:Runway is a platform that leverages AI to facilitate the process of editing 
+visual content, including tasks such as removing backgrounds from images, 
+editing pictures, tracking animations, and generating images based on written 
+descriptions.
+Runway has launched a service that allows users to merge multiple visual 
+components into a single design, enabling them to add motion from one video 
+element to another (although this service is still in beta).#82
+ChatGPT Midjourney Other Platform Galileo AI
+Click here
+Galileo AI 
+Video 
+introducing 
+Galileo AI:Galileo AI is a platform that is currently in beta. It is based on AI to create 
+customized designs for mobile apps.
+Users can provide design specifications through text input, and the platform 
+generates the design in a short time. 
+One of the advantages of this platform is to minimize the costs and time 
+required for designing a user interface.#83
+ChatGPT Midjourney Other Platform
+Click here
+Pebblely
+Video 
+introducing 
+Pebblely:Pebblely is a platform dedicated to designers, employers, and innovators. Users 
+can upload product images to the platform and use its features to remove the 
+background and replace it with a more suitable one that aligns with the brand. 
+Furthermore, users can enhance the quality of the images using the platform’s 
+tools.#84
+ChatGPT Midjourney Other Platform
+Click here
+GPTZero
+Video 
+introducing 
+GPTZero:GPTZero is a website that can determine the likelihood that a given text was 
+generated by Artificial Intelligence.
+Users can simply copy and paste the text onto the website and receive an 
+output.#85
+ChatGPT Midjourney Other Platform
+Click here
+Fliki
+Video 
+introducing 
+Fliki:Fliki is a platform based on AI text-to-video technology and is used to transform 
+written text into visual content.
+Over 250,000 global enterprises have employed this platform.#86
+ChatGPT Midjourney Other Platform
+Click here
+Cody
+Cody’s websiteCody is an intelligent assistant that operates using AI, much like ChatGPT . It 
+is capable of being customized to suit the needs of your business, operations, 
+clients, and contacts. 
+Cody supports your team, answer inquiries, assist in creative work, identify and 
+resolve obstacles, and propose inventive concepts.#87
+ChatGPT Midjourney Other PlatformSheetAI
+Click here
+SheetAI
+SheetAI is a platform that uses Artificial Intelligence to allow users to create 
+spreadsheets by simply typing in a prompt. After processing the prompt, the 
+platform converts it into a format that can be accessed via Google Sheets.
+The platform utilizes AI technology to automate data analysis processes.
+SheetAI’s 
+website#88
+ChatGPT Midjourney Other Platform
+Click here
+Quillbot
+Quillbot is an AI-powered platform that rewrites texts based on the language or 
+writing style preferences of the user.
+This platform can save up to 75% of the time spent on reviewing, editing, and 
+proofreading.
+Video 
+introducing 
+Quillbot: 
+(non-official)#89
+ChatGPT Midjourney Other Platform
+Click here
+MeetGeek
+MeetGeek is an intelligent meeting assistant that utilizes Artificial Intelligence. 
+It can record virtual meetings, transcribe audio content into written text, 
+automatically summarize the content, and highlight the most crucial ideas from 
+each meeting.
+Meeteek can be integrated with various other platforms such as Zoom, Microsoft 
+Teams, and Google Meets.
+MeetGeek’s 
+Website #90
+ChatGPT Midjourney Other Platform
+Click here
+ChefGPT
+ChefGPT is a virtual assistant that uses ChatGPT technology to help users with 
+cooking tasks. ChefGPT generates a variety of meal recipes tailored to the user’s 
+preferences by taking specific user inputs.
+ChefGPT’s 
+Website #91
+ChatGPT Midjourney Other Platform
+Click here
+MJ Prompt
+MJ Prompt is a tool that generates more authentic text for Midjourney 
+automatically. To create the desired output, users can choose their preferred 
+style, lighting, camera type, drawing method, colors, and materials.
+Users can copy the material generated by the tool and paste it into Midjourney to 
+achieve a more precise image in accordance with the prompt.
+MJ Prompt 
+Tool’s Website #92
+ChatGPT Midjourney Other Platform
+Click here
+Krisp
+Krisp is a virtual meeting technology designed to eliminate any unintended 
+background noise caused by secondary speakers. The platform can also track 
+the user’s speaking time to measure their level of participation during the virtual 
+meeting.
+Video 
+introducing 
+Krisp#93
+ChatGPT Midjourney Other Platform
+Click here
+Socratic
+Socatric is a mobile app that helps users solve mathematical problems. Users 
+can input or take a photo of the problem, and Socatric will guide them through 
+the necessary steps to solve it
+Socatric is developed by Google.
+Video 
+introducing 
+Socatric#94
+ChatGPT Midjourney Other Platform
+Talk to Books 
+Click here
+Talk to Books is a website where users can ask questions by typing them into 
+the search box. The platform employs an Artificial Intelligence system to search 
+a massive library of books for relevant answers to the user’s questions. The 
+outcomes are then presented as quotes from various books.
+Talk to Books is owned by Google
+Talk to Books’s 
+website#95
+ChatGPT Midjourney Other Platform
+Click here
+Podcast.ai 
+Podcast.ai is a project that aims to use Artificial Intelligence to create podcast 
+episodes featuring real people who have never been interviewed before.
+To create a unique interview, the AI generates material based on the person’s 
+previous works or experiences.
+For example, it could generate a podcast episode based on a conversation 
+between interviewer “Lex Friedman” and physicist “Richard Feynman.”
+The Swiss company “Sniper” is behind this project.
+Podcast.ai’s 
+website#96
+ChatGPT Midjourney Other Platform
+Click here
+Excelformulabot
+Excelformulabot is an AI-based bot that creates formulas and commands for the 
+Excel platform.
+When the user inputs a specific order containing a prompt, the bot generates an 
+equation to solve the problem. 
+The Excel Formula Bot is compatible with both Excel and Google Sheets, which 
+are well-known spreadsheet applications.
+Excelformulabot’s 
+website#97
+ChatGPT Midjourney Other Platform
+Click here
+Interior AI
+InteriorAl is a software that utilizes Artificial Intelligence to create design ideas 
+that assist in the development of interior design concepts. 
+To generate multiple suggestions for a particular space, the user must provide 
+an image of the area that requires modification and answer a set of specific 
+questions.
+InteriorAl’s 
+website#98
+ChatGPT Midjourney Other PlatformGetfloorplan
+Click here
+Getfloorplan
+Get Floorplan is a program that utilizes Artificial Intelligence to produce 2D and 
+3D floor plans. 
+To create a higher-quality drawing, the user must upload the initial design into 
+the program, which will then transform it using AI technology.
+Get Floorplan’s 
+website#99
+ChatGPT Midjourney Other Platform
+Click here
+Durable
+Durable is a website builder software that utilizes Artificial Intelligence to 
+construct a website in just 30 seconds. 
+By providing specific inputs regarding the type of website to be created, the 
+platform can generate a fully functional site. 
+According to the company, Durable has generated over 600,000 websites to 
+date.
+Durable’s 
+website#100
+ChatGPT Midjourney Other Platform
+Click here
+ELSA
+ELSA is a mobile application powered by Artificial Intelligence that helps users 
+improve their English-speaking proficiency. By speaking into the phone’s 
+microphone, the app utilizes AI to provide feedback and suggestions for 
+language improvement.
+Elsa’s websitewww.ai.gov.ae

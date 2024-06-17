@@ -1,0 +1,132 @@
+Primeiros passos para avaliar as conversões utilizando 
+Metas inteligentes 
+O que são as Metas inteligentes? 
+Metas inteligentes são um novo tipo de meta do Google Analytics (GA) que ajuda você a identificar 
+os usuários mais engajados em seu website e a contar as visitas deles como conversões .
+Principais benefícios 
+● Com as Metas inteligentes, você avalia as visitas mais engajadas no seu 
+website, utilizando mais de 30 métricas (por exemplo: duração da sessão, 
+páginas por sessão, local, dispositivo e navegador). 
+● As Metas inteligentes foram desenvolvidas para ajudar você a otimizar suas 
+campanhas assim que elas forem importadas para o Google AdWords. 
+Quem se beneficia das Metas inteligentes? 
+● Anunciantes que não acompanham as conversões 
+Com as Metas inteligentes, você avalia mais do que impressões e cliques, e elas 
+só devem ser utilizadas quando as conversões reais (vendas, leads, chamadas) 
+não estiverem disponíveis para acompanhamento. 
+● Anunciantes com baixo volume de conversões no Google AdWords 
+Use as Metas inteligentes para capturar mais conversões. Assim, você pode tomar 
+decisões melhores para a conta e utilizar ferramentas, como lances automáticos. 
+● Anunciantes que acompanham somente "metas de engajamento", como duração 
+ou Páginas/telas por sessão 
+As Metas inteligentes combinam o melhor das Metas de engajamento com 
+insights adicionais para oferecer a você conversões com qualidade superior 
+e ajudar a otimizar suas campanhas. 
+Dias desde 
+a última visita: 
+1
+Dispositivo: 
+Computador 
+desktop 
+Resolução da tela: 
+1280x1024 
+Dispositivo: 
+Dispositivo móvel 
+Páginas por visita: 
+8
+Tempo no site: 
+06:42 
+Primeiros passos 
+Etapa 1: Ative as Metas inteligentes no Google Analytics 
+Verifique se sua conta está qualificada 
+● Vincule suas contas do Google Analytics e do Google AdWords .
+● Para que você possa configurar as Metas inteligentes, 
+a conta do Google AdWords vinculada deve ter enviado 
+no mínimo 500 cliques, nos últimos 30 dias, para a 
+visualização selecionada do Google Analytics. 
+● A visualização de relatórios não deve receber mais do que 
+10 milhões de sessões por dia. 
+Caso sua visualização do Google Analytics esteja qualificada, você poderá 
+ativar as Metas inteligentes selecionando o tipo de meta ao seguir este fluxo 
+de configuração de meta regular: 
+● Selecione a guia Administrador  e navegue até a visualização  desejada 
+● Na coluna Visualização , clique em Metas 
+● Clique em + Nova meta 
+● Selecione Meta inteligente  (se disponível) 
+● Nomeie sua Meta inteligente  e clique em Salvar .
+Não são necessárias configurações ou personalizações adicionais. Esse é um 
+dos motivos pelos quais elas são denominadas "Metas inteligentes". 
+Etapa 2: Importe Metas inteligentes para o Google AdWords 
+Para utilizar as Metas inteligentes você deve primeiro importá-las para o Google AdWords. 
+Estas são as etapas básicas para fazer isso: 
+● Após ativar as Metas inteligentes no GA, acesse sua conta do Google AdWords, 
+clique na guia Ferramentas  e selecione Conversões 
+● Clique em Analytics , localizado no menu à esquerda 
+● Marque as caixas de seleção ao lado das metas ou transações que você deseja 
+importar. Clique em Continuar 
+● Na página seguinte, você verá configurações que se aplicarão a todas as metas 
+ou transações selecionadas. Selecione as opções desejadas e clique em 
+Importar metas .
+O Google AdWords começará a importar as Metas inteligentes de sua conta do Google 
+Analytics. Dados do histórico anteriores à importação não serão incluídos. 
+Para mais informações, leia o artigo da Central de Ajuda .
+Crie Metas inteligentes, importe-as para o Google AdWords 
+e inicie as otimizações! 
+Google Analytics 
+Escolha metas do Google Analytics para importar para o Google AdWords 
+como conversões. 
+Meta
+Meta inteligente Configurações Ações de conversão 
+Google Analytics 
+Atribuição
+Importar Cancelar Selecione metas 
+para importar Escolha as configurações 
+de conversão Página inicial Campanhas Oportunidades RelatóriosFerramentas Etapa 3: Otimize o desempenho do Google AdWords utilizando Metas inteligentes 
+Para otimizar seu desempenho no Google AdWords usando as Metas 
+inteligentes, você pode utilizar os lances de CPC manuais  (para gerenciar 
+os lances você mesmo) ou o lance de CPA desejado , uma estratégia de 
+lances flexível e automatizada. 
+Após importar as Metas inteligentes para o Google AdWords, execute-as 
+para que elas acumulem dados suficientes (50 a 100 conversões). 
+Se você utiliza o CPA desejado com as Metas inteligentes, divida o custo 
+de seus anúncios pela quantidade de Metas inteligentes concluídas. Esse 
+é seu custo por aquisição (CPA). Posteriormente, você poderá utilizar esse 
+valor no Google AdWords para definir seu CPA desejado. Lembre-se de 
+definir as Metas inteligentes como a única conversão na coluna "Conversões ".
+Exemplo: 
+Você gastou R$ 2.000 no Google AdWords durante as duas últimas semanas 
+e tem 80 conversões de Metas inteligentes. Portanto, o CPA médio para uma sessão 
+de Metas inteligentes durante aquele período foi de R$ 25 (R$ 2.000/80 = R$ 25). 
+Esse é o custo médio para você adquirir uma sessão com alta probabilidade de 
+conversões, com base no modelo de Metas inteligentes. Nesse exemplo, você 
+deve definir seu CPA desejado no Google AdWords para R$ 25. 
+Metas inteligentes 
+Atalho Personalizar Enviar por e-mail  Exportar Adicionar ao Painel 
+Todas as sessões 
+100%
++ Adicionar segmento 1º de janeiro de 2016 - 31 de janeiro de 2016 
+Relatórios de pesquisa e ajuda 
+Sim
+8 de janeiro 15 de janeiro 22 de janeiro 29 de janeiro Explorador 
+vs Selecione uma métrica Todo o tráfego 
+Google AdWords  
+Mecanismo de pesquisa 
+Otimização 
+ 
+Redes sociais 
+ 
+Campanhas 
+Comportamento 
+Visão geral 
+ 
+Fluxo de omportamentos 
+ 
+Conteúdo do site 
+ 
+Velocidade do site 
+Pesquisa no site 
+ 
+Eventos 
+ 
+Editor 
+ Sessões 

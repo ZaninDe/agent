@@ -1,0 +1,700 @@
+COVER OPTION 2
+20
+1914 Trends  
+Shaping Tech2
+14 Trends Shaping Tech In 20192019 Trends
+The hyper-personalization of everything   4 
+The smart home targets the senior citizen market 7 
+Malls are out. Retail moments are in.   11 
+Maps become a layer for all kinds of real-world data 14 
+Last-mile delivery gets automated    17 
+Tech comes for your sleep    20 
+Data becomes a hot-button geopolitical issue  23 
+Smart buildings maximize comfort,  
+       wellness, and efficiency    26 
+Buses and logistics providers go green   29 
+China sets the bar for social network innovation 32 
+Electric vehicle makers expand into  
+       lifestyle products and services    34 
+Tech apprenticeships grow in popularity  36 
+Digital swag makes big money    38 
+The new healthcare clinic is your home  41
+3
+14 Trends Shaping Tech In 2019Technology is now central to every industry — from building construction 
+to healthcare administration to food production. 2019 will be the year 
+we see new use cases emerge as AI creates new possibilities for 
+personalization, monitoring, and marketing. It will also create new 
+challenges around how to regulate data and access. 
+As a more tech-savvy generation ages up, we’ll see the smart home begin 
+acting as a kind of in-home health aide, monitoring senior citizens’ health 
+and well-being. We’ll see logistics players experiment with finally moving 
+beyond a human driver. And we’ll see cross-industry collaborations, 
+whether via ancestry-informed Spotify playlists or limited-edition  
+Fortnite game skins. We’ll also see technology brands expand  
+beyond their core products and turn themselves into a lifestyle. 
+We asked our industry analysts at CB Insights to look back over a year’s 
+worth of research briefs, data crunching, and reports to identify the trends 
+they believe will shape the tech sector in 2019. 
+In each case, we examine the tea leaves pointing to each trend as 
+something to watch out for next year. From at-home health kits to 
+personalized makeup to data governance, these are 14 of the tech  
+trends we’ll be watching.
+The smart home and healthcare are 
+converging. Autonomous vehicles  
+are coming for last-mile delivery.  
+And data is becoming a hot-button 
+geopolitical issue. We look at the trends 
+poised to reshape industries in 2019.
+4
+14 Trends Shaping Tech In 2019The hyper-personalization  
+of everything
+5
+14 Trends Shaping Tech In 2019In 2019, we’ll see an increase in cross-industry collaborations to 
+better understand users and offer them more fine-tuned products. 
+In September 2018, for example, Spotify partnered with Ancestry.
+com to utilize DNA data to create unique playlists for individuals. 
+Playlists reflect music linked to different ethnicities and regions. A 
+person with ancestral roots in Bangalore, India, for example, might 
+see Carnatic violinists and Kannada film songs on their playlists. 
+DNA data is also informing how we eat. GenoPalate, for 
+example, collects DNA info through saliva samples and analyzes 
+physiological components like an individual’s ability to absorb 
+certain vitamins or how fast they can metabolize nutrients. From 
+there, it matches this information to nutrition analyses that it has 
+conducted on a wide range of food and suggests a personalized 
+diet. It also sells its own meal kits that use this information to map 
+out menus. 
+The more data collected about 
+an individual, the more intimately 
+companies believe they can 
+understand and market to them.6
+14 Trends Shaping Tech In 2019Critics believe that some of these DNA-based personalization 
+tactics rely on pseudoscience. Other more straightforward 
+personalization tactics are emerging via tools like image recognition. 
+For example, patents indicate that the beauty industry is looking at  
+image recognition to create products catered to individual customers. 
+A patent filed in August 2016 by L ’Oreal describes using some type 
+of visual mechanism, like a smartphone camera or in-store video 
+device, to gather data on the texture and color of a shopper’s skin 
+and hair. From there, the company would use the information to 
+create a blend that best fits a shopper. 
+Personalization is inspiring more than just new product features. 
+It’s also helping set preferences for services that are otherwise  
+one-size-fits-all.
+Autonomous vehicles, for example, might use personalization data 
+to offer responsive car settings.
+In July 2018, Amazon and Apple were both granted patents that 
+would personalize features for autonomous vehicles. 
+7
+14 Trends Shaping Tech In 2019Amazon’s patent outlines passenger profiles that build in 
+preferences for how AVs should operate. Preferences include 
+safety, like automatically detecting a child passenger and child 
+locking the doors of a car accordingly. Amazon might even use its 
+technology to limit a car from going to certain locations, like a bar if 
+an underage driver is in the car. 
+Apple’s patent focuses on comfort profiles. Comfort in an 
+autonomous vehicle includes acceleration, braking, and turning. 
+Hypothetically, when a customer enters a car, Apple’s facial 
+recognition algorithms will recognize a passenger and monitor 
+things like posture, eye movement, and heartbeats to gauge 
+comfort level.
+In 2019, get ready for even more tangential streams of data to 
+broaden the opportunities for personalization. 
+Amazon has patented a system to activate in-car preferences based on the 
+passenger that gets in.
+8
+14 Trends Shaping Tech In 2019The smart home targets  
+the senior citizen market
+9
+14 Trends Shaping Tech In 2019And as tech-friendly generations age up, new markets open up  
+as well. 
+But technology that requires user inputs can be a difficult sell, 
+especially to senior citizens. It’s a big ask to input blood sugar 
+data into a device or weigh yourself every day. And what if a senior 
+suffers from a heart attack? There’s little chance they’ll be able to 
+summon a doctor through Alexa while in pain. 
+For this reason, we’ll see smart home-based healthcare technology 
+enter the senior citizen market in 2019 as a passive tool. Patents 
+outline this broad, surveillance-enabled future. 
+In January 2018, Google patented the use of always-on optical 
+sensors in places like bathrooms to capture data on cardiovascular 
+function. Theoretically, the sensors will track changes in colors in 
+skin to see if blood flow was disrupted. Every time a senior steps 
+into the bathroom to brush their teeth or wash their hands, they will 
+passively provide blood flow data to these sensors.
+There’s a major difference between 
+the senior of 10 years ago and seniors 
+today — older people are much more 
+comfortable with technology.10
+14 Trends Shaping Tech In 2019In October 2018, Amazon was granted a patent to detect 
+“abnormal” voice conditions like coughing, sore throats, and even 
+different emotional states like sadness and excitement. If a senior 
+is coughing, Alexa might suggest that they order medicine. If 
+programmed to do so, this coughing data might even go directly to 
+a loved one or a care provider. 
+11
+14 Trends Shaping Tech In 2019Surveillance technology also helps with passive tracking. The 
+Amazon Echo’s drop-in feature allows people to broadcast to any 
+speaker within a home, which means that a user can reach out to a 
+senior without them having to pick up the phone. Indoor cameras 
+like Google Clips use artificial intelligence to keep specific people 
+within its line-of-vision. 
+12
+14 Trends Shaping Tech In 2019An initiative from Amazon-backed smart thermostat Ecobee urges 
+customers to share their data anonymously to help the company 
+understand behavior better — especially seniors.
+Ecobee’s sensors might use this data to better understand the 
+movement and changes in behavior of an elderly family member. If 
+a senior has reduced the number of times they go up and down the 
+stairs, for example, they might be experiencing knee pain.
+The more passive behavioral data we have on seniors, the more 
+likely these devices will be used to detect major behavioral changes 
+that signal a medical problem. 
+13
+14 Trends Shaping Tech In 2019Malls are out.  
+Retail moments are in.
+14
+14 Trends Shaping Tech In 2019According to Adobe, shoppers spent nearly 24% more this year on 
+Black Friday than in 2017. Cyber Monday hit $7.9B — up nearly 20% 
+from last year.
+But retail isn’t just moving online. It’s also starting to infiltrate other 
+aspects of our offline world, like car rides.
+Startups like Cargo are tapping into the idle moments that riders 
+spend in cabs. Cargo installs boxes with products from big brands 
+inside the cars of ride-hailing companies like Uber. If a customer 
+gets into a Cargo-equipped car, they can scan a QR code or enter 
+a numerical ID to browse the car’s inventory and choose a product 
+to purchase. Now, the 30 minutes that might have otherwise been 
+wasted in traffic can be used to buy an iPhone charger or a bag  
+of chips. 
+Major brands are already signing on to these new retail moments 
+and using them as an opportunity to pilot and sell products. Cargo 
+sources products from big brands, from Kellogg’s to Coca-Cola. 
+Theoretically, these retail moments aren’t limited to cab rides. 
+They can be anywhere, enabled by the rise of technologies like 
+augmented reality, cashierless stores, and smart factories.  
+Patents outline what the future might look like.
+In August 2018, for example, Walmart was granted a patent that 
+would allow customers to strap on virtual reality headsets and 
+sensor-laden gloves to interact with a Walmart store in a virtual 
+world. Autonomous robots would then fulfill these virtual orders in 
+a Walmart factory.Traditional retail outlets might be 
+struggling, but shopping itself is still 
+as popular as ever, the channels are 
+just changing.
+15
+14 Trends Shaping Tech In 2019An older patent filed by Walmart showed that the company might 
+also be envisioning retail pods that can be set up in office spaces, 
+malls, and even in apartment buildings. 
+16
+14 Trends Shaping Tech In 2019In the future, you might be able to pick up dish detergent on your 
+way home from work at the Walmart pod that sits in your lobby.
+17
+14 Trends Shaping Tech In 2019Maps become a layer for  
+all kinds of real-world data
+18
+14 Trends Shaping Tech In 2019But there’s more potential for maps than just locating nearby 
+happy hour spots — in the future, maps might offer a user bar 
+recommendations based on past preferences, connect them with 
+friends in the area, and even warn them from visiting locations that 
+have high pollen counts. 
+In 2019, maps will begin to become a layer on which we do 
+everything from communicate to compile data. 
+We saw an inkling of these possibilities with the smart home 
+in October 2018, when Roomba-maker iRobot partnered with 
+Google Maps. As the Roomba cleans a home, it collects mapping 
+information based on low-resolution photos and how far its  
+wheels move. 
+The new partnership aims to make the smart home more 
+responsive. Map-based data would make the smart home easier 
+to set up and allow for a more complex chain of commands, 
+like summoning a robot arm to “fetch a beer.” To carry out that 
+command, the robot arm would have to know where the kitchen 
+was, where the refrigerator was, and where a beer might sit. For most, maps are a feature of a 
+smartphone. A user pulls up Google 
+Maps, types in “bars, ” and navigates 
+over to the nearest one.
+19
+14 Trends Shaping Tech In 2019Beyond the smart home, new streams of data are making other 
+kinds of mapping possible. In October 2018, Google rolled out 
+detailed electric vehicle charging station information, including  
+the number of chargers and charging speeds available.
+A project last year launched in collaboration with the Environmental 
+Defense Fund and Colorado State University involves adding 
+sensors to Google’s Street View cars so they can track methane 
+leaks as they pass through streets. 
+20
+14 Trends Shaping Tech In 2019Methane, which contains 80 times the warming power of carbon 
+dioxide over a twenty-year period, can leak from outdated 
+infrastructure meant to transport natural gas into homes. Data 
+from these maps can help utilities decide when infrastructure 
+replacements might be needed.
+Google Maps is also starting to add social aspects to its features. 
+In September 2018, Google Maps officially rolled out a polling 
+feature to Maps users. Users can now create a list of places and 
+poll their friends to pick the ones they’re interested in.
+While Google Maps is the front-runner, Apple Maps is improving its 
+own mapping software as well to better compete.
+The company announced plans to build out an entirely new maps 
+interface using its own data. Apple has also mentioned human 
+editors that will go street-by-street to understand the unique and 
+specific geometrics that make up our world. 
+Its fleet of information-collecting cars have even been spotted  
+with lidar arrays, which help with precise 3D mapping. It also  
+plans to crowdfund this data using “anonymous probes” collected 
+from phones. 
+These maps will only become smarter and more robust, allowing 
+them to become the latest layer on which we interact.
+21
+14 Trends Shaping Tech In 2019Last-mile delivery  
+gets automated
+22
+14 Trends Shaping Tech In 2019Driving humans across long distances without a driver? Difficult. 
+Driving groceries across short distances without a driver? Much 
+easier. The latter is less of a risk and has immediate use cases. The 
+technology is also easier to develop than full-size passenger-based 
+vehicles — it’s smaller, slower, and lighter, and the stakes are lower 
+without human cargo.
+Last-mile delivery with a human driver is actually a pretty expensive 
+undertaking. Last-mile costs per delivery can range between 1.50 
+and 4.00 euros ($1.75 and $4.56 in USD), according to McKinsey. 
+More general approximations across the industry place last-mile 
+delivery costs at about 30% of delivering a good. It’s a massive 
+industry with a lot of money to be made by solving its inefficiencies. 
+Uber’s standalone food delivery app Uber Eats, for example, is the 
+most profitable part of the company. 
+Major grocery companies and retailers have started piloting 
+autonomous vehicles for last-mile delivery in communities across 
+the US. AVs can reduce fuel costs because they are often electric 
+and need less power to carry cargo than people. They also, of 
+course, save on the cost of paying a human driver.
+These pilots are part PR and part strategic initiatives — both for the 
+retailers and the vehicle makers. The promise of autonomous driving 
+hasn’t quite arrived, but last-mile 
+delivery may be the first place  
+where we see fully autonomous  
+fleets deployed.
+23
+14 Trends Shaping Tech In 2019For example, Kroger partnered with self-driving startup Nuro 
+to deliver groceries from its Fry’s Food Stores to residents in 
+Scottsdale, Arizona. The pilot launched in August 2018.
+Another example involves automaker Ford and Domino’s. In 
+July 2018, the duo began a two-month partnership in Ann Arbor, 
+Michigan where customers would order food and have Ford Fusion 
+hybrids deliver it. 
+24
+14 Trends Shaping Tech In 2019While human drivers were still in control of the car, there was 
+minimal interaction with the customers. Instead, they typed a code 
+in a keypad to retrieve food. However, Ford still pitched the pilot as 
+an autonomous vehicle test — autonomy is a powerful buzzword. 
+Buzzwords aside, the pilot allowed the company to collect data 
+on what autonomous delivery in the region would look like. Small-
+scale, low-risk pilots can help companies train their vehicles for 
+future rollouts. 
+Pilots can also contribute to user research to understand how 
+customers might interact with AVs once they’re fully launched. 
+In 2019, expect more companies to begin using autonomous 
+vehicles in their last-mile deliveries. Some of these use cases might 
+even potentially move beyond pilots depending on regulations, 
+which tend to vary widely by state.
+25
+14 Trends Shaping Tech In 2019Tech comes for your sleep
+26
+14 Trends Shaping Tech In 2019From smart mattresses to smart pillows, the products that are being 
+released into the sleep market aim to improve sleep by tracking some 
+of the most enigmatic hours of our days. In 2019, we will see that the 
+trojan horse into this industry is wearable technology.
+FitBit announced in August 2018 that it had plans to launch a sleep 
+tracking program known as SleepScore. The technology will use 
+heart-rate tracking sensors on newer FitBits to give users nightly 
+sleep scores and comprehensive views on how they’ve been 
+sleeping. The sensors can measure oxygen levels in the blood  
+and detect events that might be disrupting breathing during sleep.Tech has already infiltrated your 
+waking hours. Now, it’s coming  
+for your sleep.
+27
+14 Trends Shaping Tech In 2019But Fitbit’s devices aren’t FDA-approved (yet) which means that 
+they can’t offer users a diagnosis on what might be ailing them. 
+However, we’ll likely soon see more healthcare-based wearables for 
+sleep diagnoses.
+In October 2018, Beddr’s SleepTuner became one of the few 
+consumer sleep wearables to receive FDA approval. The SleepTuner 
+is a small sensor-equipped patch that a user can place on their 
+forehead while sleeping to track factors that change through the 
+night, like heart rates and sleeping position. 
+And while the Apple Watch doesn’t explicitly track sleep patterns, 
+it has received FDA approval for other health-related technologies. 
+We may soon see the company enter the growing sleep market.
+28
+14 Trends Shaping Tech In 2019Other companies are moving into your dreams as well. Dreem, 
+which has raised $58M in funding, sells a headband that customers 
+can wear around their heads while asleep. The band is equipped 
+with sensors that measure key biological signals, like brain activity, 
+heart rate, or movement. It claims that its artificial intelligence tools 
+are precise enough to achieve the same results that a customer 
+might have while testing sleep activity in a laboratory. 
+The band is also equipped with audio that can coach a customer 
+through meditation and breathing exercises, and emit sound waves 
+that the company claims can help increase the quality of deep 
+sleep. It also attempts to improve waking hours. Its smart alarm 
+only goes off when it detects that a user has moved into light sleep.
+While companies have piloted all sorts of technology to try and 
+track sleep data, wearables offer an extra level of precision and 
+granularity that was previously hard to achieve. Expect to see more 
+sleep technology enter the market in 2019 piggybacking on the 
+success of wearables. 
+29
+14 Trends Shaping Tech In 2019Data becomes a hot-button 
+geopolitical issue
+30
+14 Trends Shaping Tech In 2019Alphabet’s Sidewalk Labs entered Toronto earlier this year with a 
+plan to launch a “smart neighborhood” in Quayside, a pedestrian 
+walkway by the water. But the company’s entrance was met with 
+backlash. Toronto residents wanted to know what the company 
+planned to do with the behavioral data that it would collect from 
+this project. If data really is the new oil, we’re 
+starting to see owners of this  
+data protect it like they would  
+a precious resource.
+Then, in October 2018, Sidewalk Labs released initial proposals on 
+how digital governance might look in the new Toronto waterfront. 
+They proposed that the information collected from the Quayside 
+environment should be kept in a “Civic Data Trust.” Any entity — 
+including Sidewalk Labs — that hoped to collect or use smart city 
+data would have to submit an impact assessment of their data  
+with the data trust. Furthermore, the company promised that all 
+data would be stored on “open standards” — anyone could plug in.
+31
+14 Trends Shaping Tech In 2019But critics pushed back against it. Because Alphabet’s technology 
+allowed it to do m uch more with that public data than the average 
+organization, the data trust would actually grant equal access to 
+players that were unequal in their technological prowess.
+Solutions to this issue have ranged from selling this data for a price 
+or partially walling it and only allowing access to some. 
+This kind of clash between citizens, governments, and tech 
+companies over how to protect, access, and manipulate user data 
+is likely to intensify in the coming year. Across the world, we’re 
+seeing a data localization trend start to take hold.
+India’s Prime Minister Narendra Modi mandated in October 2018 
+that all non-Indian fintech companies operating within the country, 
+like Mastercard and Visa, had to keep payment data on domestic 
+transactions within the country. 
+32
+14 Trends Shaping Tech In 2019The country is also working on a law that will localize all data 
+produced in the country, including e-commerce and cloud data. 
+These moves aren’t pure protectionism. They also provide Indian 
+companies with a fighting chance to win over the country’s 
+customers that are being aggressively pursued by tech companies 
+from United States and China. While lobby groups that represent big 
+tech, including FAMGA, are fighting against these laws, the Indian 
+government has shown little sign that it will change its mind. 
+In neighboring China, data localization is already the norm, with 
+stringent regulations around companies across industries, from 
+telecommunications to fintech.
+With tech company data breaches and misuse in the spotlight, and 
+more people recognizing the power that comes with owning mass 
+user data, expect to see more push back around who gets to hold 
+and own data in 2019.
+33
+14 Trends Shaping Tech In 2019Smart buildings maximize  
+comfort, wellness, and efficiency
+34
+14 Trends Shaping Tech In 2019We want our offices to be places where we can do our most 
+productive work, from ergonomic chairs to the right type of lighting.
+The problem is comfort is hard to define. No two people necessarily 
+agree on what comfort looks or feels like. (Think co-workers 
+disagreeing over the best temperature to set the thermostat.) In 
+2019, expect to see the word “comfort” used as a metric more 
+often, and to see increased effort to bring greater comfort to 
+buildings and workplaces.
+Rooms are warmer when there are more people in them, but are 
+often cooled with the same settings regardless of occupancy. New 
+sensors will track the number of people present at any given time 
+and adjust aspects like heating, cooling, and lighting to match. In 
+2018, Amazon-backed Ecobee released an occupancy sensor to 
+track the number of people that are in a room and adjust HVAC 
+systems accordingly.Whether it’s home offices or coworking 
+spaces, we’re seeing a new emphasis on 
+comfortable, intuitive office spaces .
+35
+14 Trends Shaping Tech In 2019Envairo, on the other hand, uses sensors that take in data on 
+factors like heat, carbon dioxide, and moisture to determine the 
+number of people in a room. From there, HVAC systems are 
+adjusted to match occupancy.
+Occupancy metrics are also useful for energy efficiency.  
+Buildings are not left wasting energy once people have left. 
+Buildings will also begin to emphasize personalization. While 
+sensors in different zones can gather data on larger areas, it’s 
+much more difficult to get a data-driven understanding of what’s 
+happening at each employee’s desk. And different weights,  
+clothing styles, and preferences change how each person 
+experiences their workplace. 
+GreenMe’s Cubes are small enough to be placed on individual 
+desks, and they measure parameters from lighting and temperature 
+to air quality, noise level, and light flickering. In aggregate, this data 
+feeds into a building monitoring and control system. From there, 
+operators can come to a consensus on heating and cooling norms.
+In addition, by providing employees with controls over HVAC 
+systems, office workers can monitor how cold or warm they like 
+their workplaces.
+36
+14 Trends Shaping Tech In 2019Comfy, which was acquired by Siemens in June 2018, has created 
+limited, occupant-facing controls that can be used with existing 
+HVAC systems. The company installs sensors and IoT devices in 
+buildings so that occupants can adjust temperature and lighting.
+Many companies also crowdsource information on controls.
+BuildingIQ’s app comes with a “Comfort” module, which allows 
+tenants to notify the facilities team if an area is too hot or too cold. 
+The module creates a heat map from this information and compares 
+it with the building’s heating and cooling system settings.
+Similarly, CrowdComfort allows occupants to send locations and 
+images of issues detected in their workplace. They can also send 
+in temperature control requests. CrowdControl describes this 
+community as a “human sensor network.”
+Why now for smart(er) buildings? Wellness, mental health, and 
+productivity are all top-of-mind. And fancy tech offices and 
+coworking spaces have made the workplace environment a new 
+battleground for recruitment.
+37
+14 Trends Shaping Tech In 2019Buses and logistics  
+providers go green
+38
+14 Trends Shaping Tech In 2019This is likely why we’re seeing electrification come first for larger 
+fleets of vehicles, often operated by governments and companies. 
+Buses and trucks emit more toxic materials than the average 
+vehicle. And with larger budgets, the move to electric vehicles — 
+and the long-term financial payoff — can be an easier sell.
+Buses, especially for school and public transit, will see increased 
+electrification next year. Bus electrification circumvents some of 
+the problems that an individual electric vehicle owner might face: 
+routes are static and predictable, and infrastructure is easy to build 
+out and plan for. And, just like electric vehicles, studies have shown 
+that the elevated upfront costs eventually pay for themselves  
+over time. 
+Many school buses have operated on the same engines for the past 
+several decades, with the Diesel Technology Group estimating that 
+roughly 95% of school buses in the US still burn diesel fuel. Perhaps 
+most importantly, school buses carry precious cargo who may be 
+adversely affected by emissions — children.
+In September 2018, electric bus maker Proterra raised a round of  
+funding with participation from Daimler. Together, the two 
+announced plans to work on electrifying Daimler’s line of school 
+buses. While the duo haven’t announced any initial buyers, they have 
+guaranteed that electric school buses will soon enter the market.
+Convincing individual consumers to 
+change out their conventional gas-powered 
+cars for electric vehicles is a steep ask.  
+It’s expensive, and owning an electric 
+vehicle can still be inconvenient.39
+14 Trends Shaping Tech In 2019Estimates place school bus counts across the United States at 
+480,000, making it the country’s largest form of mass transit. In 
+White Plains, New York, electric buses got on the road in fall 2018. 
+Each bus cost around $380K, much more than the $100K expense 
+of traditional buses. 
+But there are ways that these buses might be able to balance costs 
+over the long-term. White Plains bus operator National Express 
+partnered with New York utility Con Edison to figure out how to use 
+these buses to help power the grid during the summer. This is a use 
+case that is particular to school buses: with long stretches of idle 
+time, including peak hours in the evening and all summer, they have 
+the capacity to help balance the grid.
+Public transportation buses are also getting electrified. In January 
+2018, New York’s MTA began a pilot with Proterra and New Flyer to 
+roll out ten electric buses across its fleet. The pilot also included 
+plans to build out infrastructure for buses to charge in the future, 
+including charging stations at warehouses.
+Another broader vehicle demographic that will begin electrification 
+in 2019 is trucks. Earlier this year, Volvo partnered with Greenlots, 
+which builds electric vehicle charging infrastructure and 
+management software, to build out infrastructure in warehouses  
+in Southern California. 
+40
+14 Trends Shaping Tech In 2019
+Across the trucking industry as well, greener vehicles are gaining 
+traction. In May 2018, beer-maker Anheuser-Busch placed an order 
+for 800 fuel cell-powered trucks from Nikola Motor Company. 
+These trucks use hydrogen fuel to refuel, and can drive longer 
+distances than electric vehicles. 
+Coupled with the urgency of decreasing emissions and the long-
+term lowered costs that come with electrification, expect to see 
+other large fleets of vehicles go green in 2019. 
+41
+14 Trends Shaping Tech In 2019China sets the bar for  
+social network innovation
+42
+14 Trends Shaping Tech In 2019The company operates a video mashup app TikTok, which allows 
+users to record videos, overlay them with music and filters, and 
+share them with friends. 
+$75B for a video app may seem like a lot, but the company is 
+popular across the globe. After it acquired Shanghai-based rival 
+Musical.ly in November 2017, it rebranded the company under 
+its name. Musical.ly was popular in the West, while TikTok was 
+popular in the East — together, they had millions of users. In July 
+2018, Bytedance estimated that 500M users across the world were 
+active users of its app every month.
+To keep up, Facebook launched a similar app known as Lasso in 
+November 2018. Just like Musical.ly, Lasso users can film short 
+videos, edit them with soundtracks and filters, and share the results 
+with friends.
+As of October 2018, the world’ s most 
+valuable private tech company is China’s 
+Bytedance, valued at $75B.43
+14 Trends Shaping Tech In 2019This isn’t the first time we’ve seen a major American tech  
+company copy popular features piloted by Chinese companies. 
+The face filters that are so ubiquitous now, on Snapchat and 
+Instagram. The idea first came from popular Chinese photo  
+booths from the early 2000s — in 2008, face filter app Meitu 
+became operational.
+In October 2018, Facebook-owned WhatsApp enabled the use of 
+stickers. Stickers are already a big part of popular messaging apps 
+from Asia, like Line and WeChat. Many of these companies even 
+charge for more premium stickers — according to Japan’s Line’s 
+filings when it went public two years ago, it made about $270M  
+on stickers.
+In the future, we expect to see more China-based social networking 
+activity influence Western tech, especially as companies from  
+China start to cross borders and gain market share with  
+non-Chinese users. 
+44
+14 Trends Shaping Tech In 2019Electric vehicle makers expand  
+into lifestyle products and services
+45
+14 Trends Shaping Tech In 2019But electric vehicles also require a lot of time from their owners 
+who must wait for their batteries to charge for anywhere from 30 
+minutes to two hours. 
+That’s a lot of idle time — and is sometimes the reason cited by 
+conventional car owners for not buying an EV. Now electric vehicle 
+companies are trying to turn this idle time into an asset.
+China’s NioHouse couples charging stations with a host of 
+activities. At the NioHouse, a user can visit the library, drop  
+children off at daycare, cowork, and even visit a nap pod to rest  
+while charging.
+Nio has also partnered with fashion designer Hussein Chalayan 
+to launch and sell a fashion line, Nio Extreme. The pieces in the 
+line are inspired by Nio’s EP9, which it claims is the world’s fastest 
+electric vehicle.
+Buying an electric vehicle is an 
+environmental choice for some  
+and a luxury purchase for others.46
+14 Trends Shaping Tech In 2019Elon Musk has also teased the idea of rolling out similar lifestyle 
+options at Tesla charging stations. 
+Right now, Supercharger stations have small convenience stores 
+and lounges. But the Tesla charger of the future might include a 
+restaurant with a drive-in movie theater and waiters on roller skates, 
+according to Musk. 
+As electric vehicles inevitably overlap with the luxury vehicle 
+market, many customers may be ready to buy into alternative 
+lifestyles. And for electric vehicles to compete against traditional 
+combustion engine vehicles, they need to sell everything — the 
+luxury, the environmentalism, and the lifestyle. 
+47
+14 Trends Shaping Tech In 2019Tech apprenticeships  
+grow in popularity
+48
+14 Trends Shaping Tech In 2019Meanwhile, students rack up thousands of dollars in debt. 
+Tech companies are attempting to bridge the gap between 
+academia and the career market. 
+Companies like the Lambda School and Flatiron School offer 
+courses to train students on exactly the skills they will need to 
+get a job. These apprenticeships mostly focus on tech skills like 
+computer science and coding. Training comes with the explicit goal 
+of employment and students only need to pay their tuition once 
+they’ve landed a job that pays them above a certain range.
+These schools aren’t just reaching out to students. They’ve also 
+partnered with tech companies who recruit from these more 
+vocational-focused training programs. Lambda School partners 
+with major technology companies to build out curriculums and set 
+up post-graduation introductions. 
+The tech industry moves fast. It’s not 
+always easy to gain skills in college  
+that employers are still looking for  
+after graduation.49
+14 Trends Shaping Tech In 2019Big tech companies are also starting to offer their own internal 
+apprenticeship programs. IBM, for example, takes in apprentices 
+and trains them on the specific skills needed for roles that involve 
+cybersecurity, data analytics, and product management within the 
+company. Apprentices are all ages and come from a diverse range 
+of backgrounds. 
+So does this signal the end of college? Probably not. But for the tech 
+savvy, apprenticeships are an emerging, more affordable option.
+50
+14 Trends Shaping Tech In 2019Digital swag  
+makes big money
+51
+14 Trends Shaping Tech In 2019The entirety of that money came from in-game purchases,  
+like skins. 
+Skins change how your player looks, not how they play, and can be 
+bought with V-bucks for the equivalent of $8 to $20. 
+They’re so popular, they’re even bringing in partnerships. 
+Early in November 2018, NFL partnered with Epic Games to add 
+NFL skins to the game. They were taken off within a week, with 
+many speculating that the addition might have sparked controversy 
+at a time when the NFL is under scrutiny. However, the partnership’s 
+short time frame might also be a part of the business model:  
+the skins become limited edition and more valuable when  
+they’re scarce. 
+The craze around digital goods and collectibles is a trend that 
+will continue into 2019. While these goods can’t be owned in the 
+physical world, they come with clout, and offer personalization 
+and in-game experiences to otherwise one-size-fits-all characters. 
+They’re also just fun.
+In July 2018, Epic Games’ free-to-
+download game Fortnite hit over  
+$1B in sales. 52
+14 Trends Shaping Tech In 2019Investors are betting on the rise of these goods. CryptoKitties, 
+which is an Ethereum-based game that lets people buy, breed, 
+and collect different types of rare digital cats, has raised $27M 
+in funding from a star-studded list of backers, including Google 
+Ventures, Andreessen Horowitz, and Union Square Ventures. 
+CryptoKitties is using the notion of scarcity to its benefit. Limited 
+edition first-generation cryptokitties go for high rates. In May 2018, 
+a buyer purchased a cryptokitty, pictured below, for $140,000 worth 
+of ether. CryptoKitties continues to make its kitties scarce. In 
+February 2018, it capped the number of Fancy Cats, a type of digital 
+kitten, thereby making them “limited edition.”
+53
+14 Trends Shaping Tech In 2019For individuals, digital collectibles open the door for personalized, 
+immersive experiences. And for companies, digital collectibles  
+are one way to offer a diverse range of experiences within  
+their ecosystem.
+Most importantly, users are willing to shell out for digital swag. 
+54
+14 Trends Shaping Tech In 2019The new healthcare  
+clinic is your home
+55
+14 Trends Shaping Tech In 2019In rural areas, hospitals and clinics are often many miles away. 
+There aren’t always certified professionals available and patients 
+often put off trips to the clinic if the issue doesn’t feel urgent. While 
+telemedicine can solve some of these problems, tech startups in 
+2019 will start to focus more on another distribution method: at-
+home kits. 
+Companies are launching home kits for everything from sequencing 
+the microbiome to DNA testing to check for health risks. Most 
+importantly, these companies are adapting best practices from 
+other D2C (direct-to-consumer) companies, like enabling automatic 
+refills and allowing for personalization.
+The need is particularly urgent for stigmatized health services, 
+like women’s reproductive health, which is regulated and limited in 
+different parts of the world. Nurx, for example, sells birth control 
+pills in states like Texas, where some areas have limited access to 
+women’s reproductive health services. It connects customers with 
+local physicians who are equipped with the credentials needed to 
+write prescriptions. The company can also automatically refill and 
+renew these prescriptions.
+The lack of affordable, widely available 
+medical care is a well-documented problem.56
+14 Trends Shaping Tech In 2019Another perk of having in-home kits is that more data can be 
+gathered when kits are used regularly at home. Quanovate’s 
+Miracare, which helps women track their fertility cycles, sends 
+customers a urine tracking device and analyzer. It collects 
+information on changing fertility hormone levels and sends this 
+information to an app. 
+This data can then help personalize fertility predictions to match an 
+individual’s cycle. 
+These kits can help make services that may otherwise be expensive 
+and hard-to-access more affordable.
+57
+14 Trends Shaping Tech In 2019The CB Insights platform 
+has the underlying data 
+included in this report
+CLICK HERE TO SIGN UP FOR FREEWHERE IS ALL THIS DATA FROM?

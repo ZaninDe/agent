@@ -1,0 +1,632 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Develop Customer Centricity with CRM  
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+This report has been designed to provide practical advice for adopting a 
+customer -centric business strategy. Customer Relationship Management 
+(CRM) is a top priority for mid -sized enterprises; leverage it effectively 
+to differentiate your firm.  
+ 
+Read this  brief 13 -page report to:  
+ 
+ 
+ Understand the Definition of CRM  
+ Develop a Return on Investment Strategy  
+ Identify Implementation Costs & Benefits  
+ Perform a Cost/Benefit or ROI Calculation  
+ Differentiate CRM System Architectures  
+ Learn CRM Features & Functi onality  
+ Build a Business Case & Project Charter for CRM  
+ Identify Risks & Key Success Factors  
+ Provide Implementation Best Practices  
+ 
+ 
+Read this report to learn how to make customer relationship 
+management work for your organization.  
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+ 
+Table of Contents                                Page  
+ 
+ 
+ 
+Introduction         3  
+ 
+CRM Definition         4  
+ 
+Return on Investment Strategy       4  
+ 
+Implementation Costs        5  
+ 
+Implementation Benefits        6  
+ 
+CRM System Architectures       7  
+ 
+CRM Features &  Functionality       8  
+ 
+Risks & Key Success Factors       9  
+ 
+Implementation Best Practices       11  
+ 
+Conclusion          12 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+Introduction    
+ 
+ 
+ 
+ 
+Contrary to popular belief, Customer Relationship Management (CRM) is 
+not a system, or a technology, or a simple application. CRM is a holistic 
+strategy that places customers at the center of all business operations. 
+Some call this customer -centricity; others coin this approach as listening 
+to the “voice of the customer.”  
+  
+Regard less of semantics, CRM is the integration of people, processes, 
+and technology, which allow a company to leverage its information 
+assets to identify, attract, and retain profitable customers. CRM 
+applications should not be viewed as the Holy Grail that wil l fix all your 
+business challenges; they are simply facilitators.  
+  
+Effectively implementing a customer -focused business strategy requires 
+a cultural shift that converts the focus from products to customer needs. 
+Is your product management process support ed by empirical market 
+research data? Do you ever stop to consider what the lifetime value of a 
+customer is to your organization?  
+  
+Rather than heavily promoting products to create perceived needs, 
+consider working collaboratively with customers to really  understand 
+how you can help them. Advancements in customer self -service & 
+support technologies are making it much more convenient for customers 
+to help themselves, while simultaneously reducing costs.  
+  
+With the rise of software -as-a-service (SAAS), or “ on-demand” 
+applications, which are hosted by the vendor and available over the 
+internet, mid -sized organizations are taking advantage of the low start -
+up costs, and rapid deployments.  
+  
+In a perfect world, your company would have the budget and resources 
+to fully integrate CRM with ERP and/or financial systems, before the first 
+user acceptance tests. Realistically, you will find more success by 
+starting with a simple sales force automation (SFA), marketing 
+automation, or customer service module. Eventually , you can add more 
+functionality to your CRM platform, and perform back -end integrations, 
+but to mitigate risks we recommend a structured approach.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+Return on Investment Strategy  CRM Definition   
+ 
+   
+ 
+ 
+Info-Tech Research Group defines CRM as: “a term that encompasses 
+how an organization manages its interactions with its customers. The 
+end goal is to eliminate disparate departmental information systems, 
+and have a 360 -degree profile of each customer…in order to hone and 
+personalize each customer interaction in the future. CRM allows 
+companies to make more meaningful contact with their customers, 
+giving the customer access to the products and information they need 
+when they need it.”  
+Source : Info-Tech Research Group  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Developing a return on investment strategy is essential for determining 
+initial & ongoing costs, and estimating returns or benefits from 
+deploying a CRM system. The simplest method for demonstrating ROI is 
+to ask each stakeholder for a key performance indicator (KPI) that they 
+are looking to improve as a result of the project.  
+  
+Customers may want to reduce support ticket resolution time; Sales 
+may have an eye on increasing win -rates; Marketing will likely want to 
+reduce acquisiti on cost per customer; and Senior Management should be 
+interested in benchmarking and improving the average Customer 
+Lifetime Value (CLV) of your client base.  
+  
+When building your business case for the CRM implementation, it is 
+important to clearly communi cate the up -front & ongoing support costs. 
+These costs be amortized over 3 -5 years and be compared to the 
+benefits derived in each functional department.  
+  
+Cost reductions for sales, marketing, and support, are the first areas to 
+analyze when determining long-term return on investment. Increased 
+revenues are hard to match directly to CRM initiatives, but can generally 
+be expected. This section will help you demonstrate the impact that 
+investing in CRM can have on your business.  
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+Implementation Costs   
+ 
+   
+ 
+ 
+What are the key implementation costs to consider?    
+  
+ 
+1. Hardware  - if you select “client -server” architecture, you will 
+likely need to purchase a dedicated server.  
+ 
+2. Software Licensing  - hosted CRM systems vary in cost from 
+$20-100/user/month, depend ing on which edition is needed. If 
+your organization has complex requirements, expect to spend 
+$65-100/user/month.  
+ 
+3. Implementation Consulting & Training  - business process 
+workshops (5 -15K); system design &  construction (10 -20K); 
+data migration (5 -15K); and user training (5 -10K) all need to be 
+considered. These ranges are all estimates, based on client 
+consulting projects .  
+ 
+4. Support & Maintenance  - you will require a CRM Administrator 
+to manage your system internally, or you may prefer to 
+outsource the support function. Either way, it would be wise to 
+budget 20 -40K/year for user support.  
+  
+5. Customization  - if extensive customization is required, be sure 
+to add this cost to your ROI calculation. Given the nature of 
+customization, it is difficult to provide an estimate without first 
+understanding business requirements.  
+ 
+6. Back -end Integration  - working with a systems integrator to 
+perform a back -end or ERP integration can be expensive initially, 
+but will provide a longer -term payback from process automation 
+and streamlining. There are many “connectors” that have been 
+specifically designed to integrate CRM systems with other 
+software packages. Add middle -ware to your ROI.  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+Implementation Benefits   
+ 
+ 
+ 
+ 
+Develop a CRM Project Charter  and CRM Business Case  with an 
+accompanying  CRM Readiness Assessment  to internally communicate 
+the cost/benefit of this project. Following are key benefits:    
+  
+1. Increased Revenue  - most organizations report an increase in 
+annual sales revenue of between 5 -15% per sales representative 
+following a successful CRM implementation. When completing 
+your ROI, consider how much time will be saved due to 
+streamlined processes, and how that equates to more time for 
+selling.  
+ 
+2. Boosted Margins  - knowing your customers implicitly reduces 
+the need to discount offerings, helps identify new ways to add 
+value to your products, and reduces the overhead required to 
+cement new business.  
+ 
+3. Higher Conver sion Rates  - an increase of 3 -5% in sales 
+conversion rates can be expected, especially if you add an e -
+commerce module to your system. Having a better 
+understanding of your sales cycle will facilitate “no -bidding” on 
+less profitable or low -probability deal s.  
+ 
+4. Improved Customer Satisfaction  - as your organization 
+becomes more customer -centric, satisfaction ratings can be 
+expected to improve. If you don’t have a satisfaction survey  
+process, strongly consider developing one.  
+ 
+5. Reduced Sales, Marketing, & Support Costs  - a decrease of 
+5-10% is reasonable for sales, marketing, & support 
+administration costs. As you become more proficient with 
+knowing your customers, se gmentation and more highly targeted 
+marketing occurs, saving time and money.  
+ 
+6. Informed Product Management  - placing customers at the 
+center of the product management process will certainly provide 
+the information needed to make better product management 
+decisions. Strikingly, many companies are not leveraging focus 
+groups, or customer advisory panels. Strongly consider doing so.  
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+CRM System Architectures   
+ 
+ 
+ 
+ 
+There are two major types of CRM system: in -house or hosted. Hosted 
+software, or “on -demand” as it is often called, is delivered via the 
+Internet. Examples of common hosted software systems include Google, 
+Hotmail, & Travelocity.com.  
+  
+Demand Metric recom mends hosted CRM systems for most mid -sized 
+enterprises, unless an existing ERP system with a built -in CRM module is 
+available. Following are a few of the reasons why. To learn more, read 
+our “ Evaluating Hosted CRM ” research note, which contains a brief 
+profile of 6 leading hosted CRM vendors.  
+ 
+ 
+Hosted CRM System Architecture Benefits:    
+  
+ Monthly Subscription -Based Pricing  – most hosted CRM 
+systems provide a very attractive subscription -based pricing 
+model. Ranging between $20 -$125/user/month, these systems 
+are affordable for mid -sized enterprises.  
+ 
+ Minimal I/T Resources Required  – organizations that have 
+minimal I/T resou rces find exceptional value from the hosted 
+model, as system users and administrators can have little or no 
+prior technology experience.  
+ 
+ Very Quick Implementation  – most deployments can be 
+implemented within a few weeks. When compared to in -house 
+deploym ents of 6 -18 months, the hosted model becomes a much 
+more viable option.  
+ 
+ High Availability  – hosted CRM Application Service Providers 
+(ASP) deliver hosted systems with Service Level Agreements, 
+which guarantee availability. Although these systems have be en 
+known to go down from time -to-time, there is a better chance 
+that your in -house system would be less reliable.   
+   
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 8 
+CRM Features & Functionality   
+ 
+ 
+ 
+What is available and what should I look for in a system?    
+  
+ Contact & Account Management  - tracking of activity history, 
+key contacts, customer profiles, sales cycle history, current and 
+future opportunities.  
+ 
+ Sales Force  Automation  - account & contact management, 
+opportunity management, sales pipeline forecasting.  
+ 
+ Field Sales Support  - data uploading & order entry via mobile 
+devices such as blackberries. Retrieving collateral, proposals, or 
+other documents.  
+ 
+ Simple User -Friendly Interface  - as adoption rates are one of 
+your chief concerns, having a very easy -to-use system is 
+essential for CRM success.  
+ 
+ Security: Role Based Rights & Access  - in the age of 
+Sarbanes -Oxley, it is critical that your system has inherent role -
+based security sett ings. Ensure that only the right people have 
+access to sensitive information.  
+ 
+ Sales Management & Reporting  - look for forecasting, sales 
+metrics, sales cycle analysis across teams, and other sales 
+reporting features.  
+ 
+ Marketing Management & Automation  - email marketing, 
+campaign planning, campaign ROI analysis, customer 
+segmentation, integration with web analytics, collateral content 
+management, real -time messaging, lead capturing etc.  
+ 
+ Customer Support & Self -Service  - incident management, 
+tracking, and assignment, web -based order tracking & self -
+service, resource library, warranty, SLA, and contract 
+management.  
+ 
+ Partner Relationship Management  - visibility into channel 
+partner pipeline, partner recruiting, partner opportunity 
+management, workflow, a nalytics.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 9 
+Risks and Key Success Factors   E-Commerce Features  - shopping cart & checkout, online order 
+entry, request for proposal (RFP), request for information (RFI), 
+email order confirmation.  
+ 
+ Contract Management  - ability to create, manage, update, and 
+renew contracts. Service Level Agreement (SLA)  creation & 
+automated monitoring.  
+ 
+ Quote Generation  - integration of quote generation 
+applications, or inherent quote building capabilities.  
+ 
+ Process Automat ion Technology  - lead & opportunity 
+assignment and transferring, activity management, calendaring, 
+HTML email, channel management, collateral delivery, campaign 
+execution, help -ticket resolution, contract monitoring.  
+ 
+ Scalable & Flexible Architecture  - it should be relatively 
+straightforward to integrate new applications to expand the scope 
+of your CRM system. Salesforce.com.s API called AppExchange 
+houses over 500 applications that are ready to be tested and 
+deployed very quickly. Be sure you system is sc alable.  
+ 
+ Dashboards  - determine if your potential system will require 
+visual dashboards that synthesize metrics to provide predictive 
+insight. Different views (Senior Management, Sales Management, 
+Marketing Management, Customer -Service Management) should 
+be available for different users.  
+ 
+ ERP Integration  - although it is not recommended that you 
+complete a full ERP or back -end integration right away, knowing 
+that the project is feasible is essential to making the right 
+decision on a CRM platform.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Read our research note: “ Are you Prepared for CRM ” to conduct a 
+CRM Readiness Assessment , which will identify your current 
+capabilities and areas of weakness that need to be rectified to ensure a 
+smooth deployment.  
+  
+ Senior M anagement Commitment  - your executives must 
+understand that CRM is a complex, long -term initiative. They  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 10 
+need to commit to providing the required budget, resources, and 
+potentially upgrade backend I/T systems. Additionally, senior 
+management must enforce C RM adoption or risk project failure.  
+ 
+ Customer -Centricity  - is your business driven by customer 
+needs? Have you profiled an ideal customer and communicated 
+that profile across departments? Do customers typically deal with 
+more than one representative? Are  you customer -centric?  
+ 
+ User -Driven Project Management  - working with stakeholders 
+from the beginning is essential for nailing business requirements 
+and starting the adoption process on the right path. Engage a 
+project team & sponsor.  
+ 
+ Alignment with Goa ls & Objectives  - CRM must be on your 
+strategic plan for organizational development priorities. Each 
+department needs to document their requirements for the 
+system, and indicate how the functionality will help them achieve 
+current/future goals.  
+ 
+ Process M aturity & Documentation  - defined, repeatable, and 
+measurable processes need to be documented for Sales, 
+Marketing, Customer Service, Billing, and Order Management.  
+ 
+ Data Management & Accuracy  - customer and product 
+information needs to be accurate. Have your system 
+administrator diligently check data accuracy, re -train users when 
+errors occur, and monitor data quality, to ensure your reporting 
+is reliable.  
+ 
+ Customization & Integration  – don’t make the mistake of 
+trying to build the perfect system before it ever gets released. 
+Most CRM projects that fail are the result of too much up -front 
+integration. Ensure you customize your system to align to your 
+processes & workflows, but don’t be afraid t o take a phased 
+approach to back -end integrations.  
+ 
+ System Training & Support  - appropriate resources need to be 
+allocated for training system users and administrators. Consider 
+creating a position for a Director of Sales Support  and/or a 
+CRM Administrator  who can manage the CRM program, 
+monitor adoption rates, and provide application support.  
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 11 
+Implementation Best Practices   
+ 
+ 
+ 
+ 
+1. Build the Business Case  - your CRM Business Case  needs t o 
+address  the following key questions:  
+ 
+ How does the business want to work with customers?  
+ What business process re -engineering needs to be done?  
+ How can technology be used to automate processes?  
+ What are the key success factors & risks involved?  
+ How pr epared is the organization for a CRM strategy?  
+ What does the cost/benefit and long -term ROI look like?  
+ Do we have executive sponsorship to make this work?  
+ What impact will “customer -centricity” have on results?  
+ Which problems can we solve by implementi ng CRM?  
+ 
+2. Plan the Plan  - Use a Project Charter  to: identify an executive 
+sponsor and use a stakeholder analysis matrix  to determine buy -
+in; allocate a project manager; assemble a project team  & clarify 
+roles; develop a project budget, determine timelines, define 
+project scope; outline deliverables; identify milestones; provide 
+cost/benefit analysis.  
+ 
+3. Evaluate Business Processes  - document your current 
+workflo ws and business processes; use maps if required. Next, 
+isolate problem areas, bottlenecks, or areas that could be 
+streamlined. Identify which process improvements will have the 
+most financial impact and prioritize enhancements accordingly. 
+Create a busines s impact report to document high -level 
+recommendations and drive the requirements gathering phase 
+forward. Consider using an expert consultant who can pull 
+together stakeholders and facilitate a workshop.  
+ 
+4. Identify Needs & Requirements  - use a CRM System RFP 
+Template  to define your business requirements, before going to 
+look at solutions. Most CRM projects that fail are the result of  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 12 
+poorly defined requirements. P rioritize requirements into three 
+categories: must have, nice to have, and do not apply.  
+ 
+5. Research Potential Solutions  - there are numerous vendor 
+reviews conducted by firms like Gartner Group , CRM Magazine, 
+and Forrester. Demand Metric’s research note “ Evaluating 
+Hosted CRM ” has a short -list of 6 key vendors that are working 
+well for other mid -sized enterprises.  
+ 
+6. Short Li st Candidates  - based on your research of potential 
+solutions, make a short -list of 3 -4 key candidates who can 
+deliver the functionality you require.  
+ 
+7. Conduct Vendor Evaluations  - invite your candidates in but 
+don’t accept a “dog & pony” show. Instead, us e your RFP to set 
+the agenda and control the evaluation by having your key 
+questions prepared in advance. Don’t forget to analyze the 
+stability of the vendor. Are they a threat to be bought out? What 
+is their current market share and position? What is thei r 
+competitive advantage for customers in your industry? Use our 
+CRM Vendor Evaluation  to help you with this process.  
+ 
+8. Select the Right System  - the final stage o f the selection 
+process involves meeting with all the key stakeholders to build 
+consensus on which system to purchase. Negotiate near the end 
+of the month or quarter to get the best deal on your licensing 
+contract.  
+ 
+9. Partner with a CRM Expert  - read Demand  Metric’ s research 
+note, “ CRM Consulting Partners Revealed ” to understand 
+their role in the CRM value chain, and use our CRM Consulting 
+RFP Template  to determine your requirements from 
+implementation, training, and support perspectives.    
+ 
+10. Take a Phased Approach  - start with a modular  approach, 
+perhaps with sales force automation, customer support, or 
+marketing management. Once you have built momentum and 
+bolstered adoption rates, consider performing back -end 
+integrations with ERP, financial, or other reporting applications. 
+Salespeopl e love to see how much commission they have earned!  
+ 
+11. Roll-out & Train Users  - consider rolling out to a pilot group of 
+users before conducting a wide -sweeping adoption campaign. 
+This will help you develop “power users” who really understand 
+how to use the  system and can help relieve some of the burden 
+on your helpdesk in the first few months. Provide scenario -based  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 13 
+Conclusion  training sessions to ensure each user understands how to use the 
+system to complete their daily tasks and activities.  
+ 
+12. Provide Support & Monit or Adoption  - keep tabs on user 
+adoption rates and login history. Consider creating a Sales 
+Growth Team  to share best practices and make CRM a 
+successful endeavor. Identify new areas to expand the scope of 
+your CRM system, and build a solid platform with customers as 
+the foundation.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Remember that CRM is not a technology; it is a business strategy that 
+puts customers at the focal point of your business. People and processes 
+are what will enable technology to streamline and automate workflows.  
+  
+Before you commit to CRM, review your bu siness goals & objectives, 
+assess your preparedness, consider the return on investment, and 
+analyze your current business processes. Once senior management has 
+agreed to go down the CRM path, understand the marketplace, 
+determine your requirements, evaluat e solutions, and find a consulting 
+partner that can take your business to the next level.  
+  
+Product -centric companies will not exist in 20 more years. A global 
+marketplace has shifted the balance of power from sel lers to buyers. 
+Organizations that  plan to  survive and capitalize on this new business 
+climate must adopt a customer -centric business strategy, or risk losing 
+market share to those companies who excel at customer relationship 
+management.  
+ 

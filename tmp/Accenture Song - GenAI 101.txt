@@ -1,0 +1,145 @@
+July, 2023Generative AI Primer2
+•This deck is not meant to replace the official Accenture point of view coming out of the GenAI Center of Excellence.•Their content is very good.  •You should spend the time reviewing and learning that material.•This deck is meant to be a high-level primer/overview for Song people to compliment that content.•You should also take the TQ training that was recently released.•The videos are short and do a great job of explaining GenAI.•(Also, Simon is way cooler than I am.  And has a better accent.  And beard.)3
+Quick Poll:1)I have a higher degree in Artificial Intelligence or related field.2)I have extensively self-studied this topic and can explain it to my boss, spouse, dog, etc.3)I am generally aware it’s a thing that many people seem to like to talk about right now.4
+5
+Artificial Intelligence safety & ethics arguably require more global attention than currently given by humankind6
+1.GenAI is ushering in a new era for reinvention.2.People and skills will drive the value from GenAI.3.There is an opportunity to get this right from the start.7
+8
+•Artificial Intelligence is a type of technology that allows computers to do things that would normally require human intelligence.•It was founded as an academic discipline in 1956.
+•So…Artificial Intelligence has been a focus of researchers for decades, even if progress has not been as clear as it has recently become.
+9
+•Divided into various subfields such as:•Machine learning•Natural language processing•Computer vision•Robotics•Each subfield has its own set of techniques and tools used to enable computers to learn and make decisions.10
+11
+•A neural network is a type of machine learning model that is inspired by the human brain. •It is made up of a network of nodes, or artificial neurons, that are connected to each other.
+12
+•A foundation model is a large neural network.•It’s also known as a pre-trained model or base model.•It has been trained on massive amounts of data to learn to perform a specific task. 
+Artificial Intelligence (Neural Network)Foundation Models13
+•A large language model (LLM) is a type of foundation model.•It has been trained on large amounts of text data to generate human-like text. •LLMs are trained on massive datasets, such as web pages and books, and can generate coherent text in response to a given prompt.Artificial IntelligenceFoundation ModelsLarge Language Models14
+Artificial IntelligenceFoundation ModelsLarge Language ModelsUser Interfaces such as ChatGPT, Bard, Others15
+•Researchers use many different types of algorithms for Generative AI.  They are basically pieces of code.  A few AI examples include:•Generative Adversarial Networks (GANs)•Recurrent Neural Networks (RNNs)•Variational Autoencoders (VAEs)•Autoregressive Models•Restricted Boltzmann Machines (RBMs)
+16
+17
+•The “transformer algorithm” was first introduced by researchers at Google in 2017.•It has since been widely adopted and adapted by researchers and engineers across the AI community, including OpenAI. 
+18
+•Previous algorithms process input words one at a time in sequential order.•Transformers algorithms use new techniques to efficiently process and analyze large sequences of text.•For example, attention is a mechanism that enables the model to weigh the importance of different parts of an input sequence when generating an output.
+19
+•When we say “Large Language Model” we actually mean much more now:•Text•Sound•Videos•Code•DNA•Music•Radio Waves•fMRI (literally reading your mind)•All of the data related to these things can be treated as a “language” and run through neural networks.
+20
+•The flow of blood in our brains, as measured by Functional Magnetic Resonance Imaging (fMRI), is just a “language” to an AI.•This means that the power of neural networks can be used with this data to find patterns and, well, “read minds”.
+21
+22
+•A San Francisco-based Artificial Intelligence company founded in 2015 bySam Altman,Elon Musk,and others.•The company consists of thenon-profitOpenAI Incorporated(OpenAI Inc.) and its for profitsubsidiarycorporationOpenAI Limited Partnership(OpenAI LP).•Their declared intention was originally to promote and develop afriendly AI.
+23
+•No.  This is not correct.•Elon Musk parted ways with OpenAI back in 2018.•He presumably departed due to a conflict of interest with Tesla’s own AI efforts, but has had some opinions on OpenAI in recent months:
+24
+•In a few slides we will talk more about Generative AI and ChatGPT in particular.•But the recent AI frenzy was fueled by ChatGPT3.5 being launched on Nov 30th, 2022.
+25
+26
+ 27
+•Generative AI is a specific type of artificial intelligence.•It can create (generate) new things like pictures, music, or even stories all by itself.•It uses a type of computer program called a neural network that learns from examples of things that humans have made before. •It looks at lots of pictures or listens to lots of music, and then it tries to create something new based on what it has learned. Machine LearningDeep LearningGenerative AI
+Voice assistant
+Newsfeed
+Book recommendations
+Movie recommendationsLearn to learnMastery of perceptual dataLearn once and adapt in many waysSearch
+Autonomous vehicles
+•Decision trees•Logistic/Linear regression•Clustering•Classification•Image, object recognition•Speech and facial recognition•Fraud detection•Reinforcement learning•Neural network•Language mastery across context, sentiment, emotion, grammar, syntax, etc.•AI takes a more autonomous role to generate actions or contenta type of machine learninga type of deep learning using LLM and foundation models Apple face recognition
+https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf29
+investors pumped into Generative AI in 2022 (as much as they invested in the previous 5 ys combined)start-ups are now working on Generative AI
+“of all data could be AI generated in just 3 ys”Text-to-Image (T2I)Text-to-Video (T2V)Text-to-Audio (T2A)Text-to-Text (T2T)Text-to-Motion (T2M)Text-to-Code (T2C)Text-to-NFT (T2N)Text-to-3D (T2D)Audio-to-Text (A2T)Audio-to-Audio (A2A)Brain-to-Text (B2T)Image-to-Text (I2T)
+ChatGPT-100 million users within 2 months
+https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf30
+Key innovations that have allowed for the adoption of AI:1)Availability of greater compute power2)Breakthroughs in foundational algorithms (transformer) that speed up analyses3)Access to massive quantities of data 
+31
+98%of global executives agree AI foundation models will play an important role in their organizations’ strategies in the next 3 to 5 years.40% of all working hours can be impacted by LLMs like GPT-462% of total time worked are language tasks, and…65% of that time can be transformed into more productivity through augmentation and automationWhy now?1)Availability of greater compute power2)Breakthroughs in foundational algorithms (transformer) that speed up analyses3)Access to massive quantities of data https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf32
+33
+34
+35
+•First released on Jan 5th, 2021. The name DALL-E is a blend of Salvador Dali and Pixar's WALL-E movie.•It is an advanced artificial intelligence system that is capable of creating original images and animations from textual descriptions. 
+•Think of it like this - you can describe an object or scene in words, and DALL-E will use its deep learning algorithms to generate a visual representation of that description.
+36
+•Diffusion Modeling works by starting with a random noise image or text, and then gradually adding detail until it resembles the desired output.•For example, if you wanted to create a diffusion model that could generate images of cats, you would start by feeding it a large dataset of cat images. •The model would then learn the patterns that are common in cat images, such as the shape of the head, the size of the ears, and the color of the fur.•Once the model has learned these patterns, it can be used to generate new cat images.37
+•Craiyon•Midjourney•Stable Diffusion Online•Microsoft Designer•DiffusionBee•GauGAN2
+38
+•GitHub Copilot is a cloud-basedartificial intelligencetool developed byGitHubandOpenAIto assist software developers byautocompletingcode.•It was announced by GitHub back on June 29th, 2021.
+39
+1.GitHub’s Product.2.But also…any time an AI is assisting someone to do their job.40
+41
+•It’s effectively just a chatbot that generates content, but what its really done is allowed the world to see how far Artificial Intelligence has been quietly advancing for years.•Chat: The interface that brought visibility to the progress humankind has made with AI.•Generative: It creates (generates) content.•P: Pre-trained.•Transformer: The magic algorithm that sparked the AI craze happening now.
+42
+•“GPT-4” is an example of the underlying language model.•“ChatGPT” is the interface or application built on top of the language model.  In the case of ChatGPT,  it is an application specifically designed for conversation.43
+•Language translation: Can translate text from one language to another, for example, from English to French or Chinese to Spanish.•Text summarization: Can read long documents or articles and create shorter summaries of their main points.•Text classification: Can classify text into different categories based on their content, for example, news articles can be classified into politics, sports, entertainment, etc.•Sentiment analysis: Can analyze text to determine the overall sentiment of the writer, whether it is positive, negative, or neutral.•Question answering: Can answer questions based on a given context, for example, answering questions about a particular topic or providing information on a specific subject.•Chatbot interactions: Can converse with humans in a natural language and provide answers to questions or engage in simple conversations.•Writes Code: Can generate code in several programming languages, including Python, JavaScript, Java, C++, and many others•Data Extraction: Can extract specific information, such as dates, names, or numbers, from unstructured text.•Creative applications: Can be used for generating poetry, storytelling, or even generating code snippets.44
+•Python•JavaScript•C++•C#•Java•Ruby•PHP•Go•Swift•TypeScript•SQL•Shell•Others45
+•After its release in Nov 2022, ChatGPT scaled to one million users faster than any other online service has ever achieved before.•It set the record forthe fastest-growing platformby gaining100 million users by January. It reached 1 billion visits in February and1.6 billion visits in March 2023.
+46
+47
+•OpenAI used a massive dataset of diverse texts from the internet, including books, articles, and websites. •45TB of text•Snapshot of the internet as of 2021•Tens-of-thousands of books (Corpora Books 1 & 2)
+48
+•>$100M to train •$700K/day to run
+49
+•It analyzes text input from a user.•It then processes that input through multiple layers of a neural network. •The model next generates a sequence of text that is most likely to follow the input, based on the many patterns and associations learned during training.•The generated text is then outputted to the user as a response. •The response may be further refined based on additional inputs from the user, creating a back-and-forth conversation between the user and the model.
+50
+In the context of GenAI prompts, "zero-shot", "one-shot", and "two-shot" refer to different ways of providing context or information to the model to generate a response.•Zero Shot: The AI can and learn and do something correctly without any previous practice or examples.•One Shot: The AI needs just one example or a little bit of practice.•Two Shot: The AI needs more practice or several examples to learn and perform a task correctly.51
+52
+Peanut Butter and...
+53
+Winners and…54
+Salt and…55
+•As a form of GenAI, ChatGPT is not an Artificial General Intelligence (AGI).•At the risk of over-simplifying things, ChatGPT is really just predicting the next word.•But the neural network and IMMENSE amount of data that it was trained on allows it to do this really, really well.
+56
+57
+58
+1.Google (DeepMind, Google Brain)2.IBM (IBM Watson)3.Microsoft (Microsoft Research, Azure Cognitive Services)4.Amazon (Amazon Web Services, Amazon Lex)5.Facebook AI Research (FAIR)6.Salesforce (Einstein AI)7.NVIDIA (NVIDIA AI)8.Baidu (Baidu Research, PaddlePaddle)9.Tencent (Tencent AI Lab)10.Hugging Face59
+1.ChatSonic2.JasperChat3.LaMDA 4.Socratic5.DialoGPT6.Megatron-Turing7.Elicit8.Chinchilla9.Character AI10.Replika11.NeevaAI12.CoPilot13.Tabnine14.Amazon Codewhisperer15.ElsaSpeaks16.Bloom17.DeepL Write18.YouChat19.Perplexity60
+61
+62
+AdviseEver-present co-pilot for every worker, boosting productivity with hyper-personalized intelligenceCreateCreative partner across design, research, copy generation, and personalizationCodeMastering tools and methods across the software development lifecycleAutomateTransforming business processes with contextual intelligence and hyper-efficiencyProtectImplementing Responsible AI processes, tooling, and governance to mitigate ethical, legal, and security risksEvery role in every enterprise has the potential to be reinvented40% of all working hours and 70% of all jobs are ready for reinventionIn a customer service job with 13 tasks, 4 would continue to be done by humans; 4 fully automated; 5 augmented57% of companies will pilot Gen AI for learning in 2023, 42% will make a large investment
+https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdf63
+An MIT study showedwhilewhenbusiness professionals used ChatGPT.
+ShakkedNoy and Whitney Zhang (2023): Experimental Evidence on the Productivity Effects of Generative Artificial Intelligence, MIT Economics Department working paper64
+Picsart Adds AI-Powered Image Generation And Copywriting Tools
+How Generative AI Is Changing Creative Work
+ChatGPT and AI tools help a dyslexic worker send near-perfect emails65
+We believe that organizations have an unprecedented opportunity to become more relevant through new levels of , while improving  at scale.
+Unleashing CreativityGo from zero to one, combine distant concepts, spark ideas, explore unexpected paths, instantly iterate and generate multiple variations, react, fine-tune and adapt.Amplifying Quality & ConsistencyDrive consistency and improved quality by reducing human error in executing tasks – for example, using tools that support QA & tagging, organization of ideas, or summarization of discussions or documents. Saving Time, Increasing ProductivityLeverage AI-assisted processes that reduce manual effort to decrease time spent across the organization on all kids of tasks, from data analysis to content creation.Continuous Learning & Accessible IntelligenceCreating a system of AI-powered learning and intelligence that can be applied across a process or system that has the potential to improve over time, to enhance quality of experience, and to elevate human learning in daily work and life.https://www.accenture.com/content/dam/accenture/final/accenture-com/document/Accenture-A-New-Era-of-Generative-AI-for-Everyone.pdfHuman Insights•UXR•Trend forecasting•Product innovationDesign•Product and service design•Prototyping•TestingCreative•Ideation•Branding•Storyboarding•Visual•SonicMarketing•Planning•Ads•Email•Social•CRO•SEOContent•Creation•Adaptation•Translation•Transcreation•PersonalizationCommerce•PDP•LoyaltySales & Service•Sales scripting•Customer Service •Customer Success•ChatbotsRadius represents level of accelerationGenerative AI will disrupt (and super-charge) every area of the CMO’s agenda
+6667
+68
+69
+What we typed into the prompt:“1960s woman with brown hair on a New York street in a white dress.”What we typed into the prompt:“1960s street-style fashion photo capturing a beautiful 30-year-old woman with long brown hair, slightly blush cheeks, and a sly grin walking confidently on a bright spring morning in TriBeCa. She's wearing a stunning white lace Gucci gown with a full tulle skirt, intricate lace detailing, long lace sleeves, a high collar, and a fitted bodice adorned with delicate floral appliques. The soft lighting and careful composition emphasize the dreamy and romantic elegance of the gown.”“Project the size of the global sustainability fashion market.Then give me 10 multimillion dollar businesses that a low-cost fashion retailer could launch in order to grow their digital fashion business with 18-24 year olds along with a catchy new brand name for each.”
+7273“We’re launching a new brand of sustainable denim fashion items called “denim done right.”We’re dedicated to ethical and sustainable fashion as well as world-class responsible denim products.Write 5 impactful, eye catching, and memorable marketing headlines for a billboard ad that will launch our product.”🔎Give me my weekly shop for a family of 4 (2 kids < 4). Trying to eat more plant-based. (But not exclusively) As good-value as possible. With 5 corresponding recipes. 
+Purchase now
+7475
+•Cybercrime•Deep Fakes•Bias•Hallucinations•Inaccurate responses•Creepy responses•2024: Last (truly) human election?
+76
+77
+•Transfer learning•Creative text generation•Conversational skills•Abstract reasoning•New languages•Research grade chemistry“Emergent abilities are those that manifest in language models only when they reach a certain scale. It's as if the models are suddenly "awakened" and granted new powers that were not explicitly included in their training.”
+https://www.aibloggs.com/post/the-phenomenon-of-emergent-abilities79
+80
+81
+•The Wheel: 3500 B.C.•Written Language: 3200 B.C.•Invention of Paper: 100 B.C.•Printing Press: 1440•Grist Mill: 1621•Steam Engine: 18th Century•Electricity and Light Bulb: 19th Century•Airplane: 1903•Computers: Mid 20th Century•Internet: Late 20th Century
+82
+•Previously, new technologies took decades if not centuries to become mainstream.•The steam engine and electricity had profound impacts on jobs and economies, but these changes unfolded over long periods.•Interconnectedness of global economic and social systems potentially mean a compressed timeline for the disruption from GenAI.•We also need to consider the impact to a broader range of jobs all at once.83
+86
+87
+88
+89
+90
+91
+.
+93
+94
+•Intellectual Property battles.•Tsunami of helpful (and harmful) use-cases discovered.•AI Startup Boom: 5000+ startups being tracked.•More and more employees will begin to use GenAI to do their jobs.•More emergent capabilities.•And…95
+My story.  My plot.  My characters.  All created just for me.
+96
+No more body suits and motion sensors.  How about a 1962 James Bond movie, but with a different actor?
+97
+CEOCFOCTOCIOCMO
+98
+99
+100
+101To prepare for this work, Accenture recommends that enterprises hoping to tap into the power of GenAI and foundation models consider 1Dive in, with a business-driven mindset2Take a people- first approach3Get your proprietary data ready4Invest in a sustainable tech foundation5Accelerate ecosystem innovation6Level-up your responsible AI102
+•GenAI is ushering in a new era for enterprise reinvention.•People and skills will drive the value from GenAI.•There is an opportunity to get this right from the start.103
+•Technology underpinning Chat GPT has potential to fundamentally transform everything from science to business…and across society. •With the power to draw from anything that is conveyed through language—whether written, audio or visual—language-based AI can mimic human dialogue or decision-making in ways that feels distinctly human.•Businesses are right to be incredibly excited about the possibilities created by this major technological breakthrough. They also need to be realistic about the challenges.104
+•Helping people keep up with technology-driven change will be the biggest factor in realizing the full potential of language-based AI. •Accenture has established a company-wide team to build deep expertise in LLM-related skills, advise on responsible uses of the technology and provide technical guidance in this space.•Generative AI applications depend on people to guide them based on human experience, perception, and expertise. •Every role in an enterprise has the potential to be reinvented and reimagined for a new future of human + machine work. Expect generative AI’s to be seen working with people across these key areas:oAdvising: a permanent, always-on advisor for knowledge workoCreating: an essential creative partner, offering new ways to reach and appeal to audiences and bring unprecedented speed and innovationoCoding: Software coders will use generative AI to significantly boost productivity Automating. Some business processes and functions will be partially or significantly automated oProtecting: Over time, companies will learn to use generative AI to their advantage in enterprise governance and information security, protect against fraud, improve regulatory compliance and proactively identify risk105
+•Tapping into the power of the underlying AI technology calls for a profound rethink of how the organization works, with multiple implications for enterprise IT architecture, organization, culture, and more.•What’s crucial to understand is that companies must reinvent work to find a path to generative AI value. Business leaders must lead the change, starting now, in job redesign, task redesign and reskilling people. •There are six crucial steps to using generative AI:oStart with people: Companies should dramatically ramp up investing to build talent to develop and use generative AI.oDive in: The time to move is now. Companies can start by experimenting with low-risk knowledge and creative work use cases while also exploring where the technology can be differentiating and lead to breakthrough innovation. oStay responsible: Generative AI brings fresh urgency to the need for every organization to have a robust responsible AI framework in place. oGet your data ready: For business use, generative AI will need to perform context-specific activities at a granular level. oInvest in a sustainable tech foundation: Companies need the right technical infrastructure, architecture, operating model and governance structure to meet the high compute demands of large language models and generative AI.oAccelerate ecosystem innovation: Creating a foundation model can be a complex, compute-intensive and costly exercise. For all but the very largest global companies, doing this entirely on their own will be beyond their means and capabilities. Having the right network of partners will be key to navigating rapid change. Two of the most helpful capabilities of Generative AI are its ability to summarize information and its ability to interact like a human would. Put these to work by using ChatGPT to learn about the Key Terms on the following slide.  1. Go to https://chat.openai.com/ and sign up to access ChatGPT. 2. Experiment with the tool by asking it to explain each of the key terms on the following slide. If an explanation doesn’t make sense to you, ask for clarification.  3. Ensure you understand each of the Key Terms before moving on! •If you are uncomfortable using or are unable to use ChatGPT for any reason, feel free to use Google to search key terms (or reread this slide deck).•This is a public tool, so be careful not to share any personal or proprietary Accenture information while you experiment. •“Please explain one-shot and no-shot learning as they’re related to generative AI models.”•“I don’t understand. Please explain this as you would to a fifth grader.”•“Could you clarify what you mean by ‘new domains’ in this context?”107AIGenAIOpenAIChatGPThallucinationsprompt engineeringOpenAI CodexLLM (large language models)stable diffusionDALL-Emachine learningstructured dataexplainabilitymulti-modaltraditional AIfine-tuningneural networkstraining datafoundation model one-shot & zero-shot learningunstructured dataThese will come up repeatedly in your conversations about Generative AI, so make sure you have a working understanding of them!108
+109
+Accenture is a leading global professional services company that helps the world’s leading businesses, governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent and innovation led company with 738,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology with unmatched industry experience, functional expertise and global delivery capability. We are uniquely able to deliver tangible outcomes because of our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Accenture Song. These capabilities, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients succeed and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities

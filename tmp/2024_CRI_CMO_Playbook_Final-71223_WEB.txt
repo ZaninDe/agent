@@ -1,0 +1,2680 @@
+Generative AI and the evolving role of marketing: A CMO's PLAYBOOK#GetTheFutureYouWant
+Executive 
+Summary Generative AI in marketing: 
+A revolution unfolding
+In a remarkably short time, generative AI has gained 
+widespread popularity, emerging as a transformative force in 
+marketing. Its rapid adoption rate is extraordinary. Currently: 
+• almost 60% of organizations are integrating generative AI 
+into their marketing efforts, from minimal to no adoption 
+just a year ago,
+ –of these, 37% are actively implementing it across 
+various initiatives, while an additional 21% are in the 
+experimental phase
+• close to 80% of organizations have either already allocated 
+budget or plan to do so in the next six months to integrate 
+generative AI into their marketing initiatives• those investing in generative AI are dedicating 62% of their 
+marketing tech investments to it, reflecting the growing 
+maturity of both current and upcoming generative AI 
+solutions. 
+Marketers are using generative AI to craft compelling 
+campaigns, elevate and personalize customer service and 
+experiences, analyze data, optimize search, and undertake 
+various other transformative initiatives. 
+Unlocking value: Embracing the 
+benefits of generative AI
+The technology has rapidly proven itself. Nearly 60% of 
+organizations surveyed believe the benefits of generative 
+AI outweigh its costs and risks. These benefits span brand 
+enhancement, cost efficiency, innovation, time optimization, 
+and improved and personalized customer experience.2
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKExecutive 
+Summary Redefining and augmenting, not 
+replacing human creativity
+Generative AI is not replacing human creativity; instead it’s 
+redefining it and acting as a catalyst for innovation. More 
+than half of the organizations surveyed say that balancing AI 
+and human creativity is an ongoing challenge. But the strong 
+consensus among marketers is that generative AI will not 
+diminish but rather augment human creativity in the long run. 
+It seems inevitable that marketing roles will be profoundly 
+impacted by generative AI. From customer insights specialists 
+to SEO experts, copywriters, digital marketers, and data 
+analysts, all can expect to experience a new era of creative 
+possibilities and related productivity gains.Addressing ethical and copyright challenges 
+While the potential impact of generative AI on marketing 
+is vast, there are ethical and copyright concerns that 
+require clear regulation and new guidelines. As AI adoption 
+in marketing increases, there is an urgent and growing 
+need to ensure responsible practice. The current lack of 
+comprehensive and clear guidelines means that 70% of 
+organizations are potentially exposed to ethical challenges 
+over their use and oversight of AI. 
+Simultaneously, copyright challenges around AI-generated 
+content indicate a need for decisive regulation and 
+guidelines. At present, only 42% of organizations address 
+these issues adequately by using robust cybersecurity 
+protocols and monitoring for AI-derived versions of their 
+work, for example.3
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKExecutive 
+Summary Integrating generative AI into marketing
+To seamlessly integrate generative AI, organizations should 
+take a comprehensive approach. This means:
+• Strategic direction:  Precisely define integration goals, 
+adopt a pragmatic investment approach, and assess tech 
+infrastructure. 
+• Leadership and oversight:  Mobilize generative AI 
+specialists, establish a task force, craft robust ethical 
+guidelines, and remain vigilant while navigating the 
+evolving regulations and compliance.
+• Iterative execution:  Initiate selective, small-scale 
+initiatives, drive iterative implementation with robust 
+data security, and navigate responsibly considering the 
+environmental impact of generative AI.
+Finally, growing and expanding boundaries  requires 
+marketing departments and organizations to cultivate 
+partnerships and encourage upskilling, balancing generative 
+AI with human ingenuity, and embracing a new era of tech-
+driven collaboration. 76%
+of organizations have either already 
+allocated budget or plan to do so in the 
+next six months to integrate generative AI 
+into their marketing initiativesUnleashing the generative AI playbook
+To fully embrace the transformative potential of generative 
+AI in marketing, organizations must foster a culture of 
+innovation and experimentation. In this way, they can 
+strategically integrate AI technologies to unlock novel 
+approaches, enhance customer experiences, and gain a 
+competitive edge.4
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKThis report is written for leaders of marketing functions in 
+all business sectors. In particular, it will be useful for chief 
+marketing officers (CMOs) and other senior marketers 
+in larger organizations. Its insights will also extend its 
+relevance not only to CEOs and senior sales leaders but also 
+to individuals with a strategic stake in marketing. It caters to 
+tech team leaders fostering marketing functions, as well as 
+advisors and consultants specializing in the dynamic realm of 
+marketing strategies.
+This report provides an in-depth exploration of the 
+transformative potential of generative AI within the marketing 
+landscape across all sectors. Through insightful use cases, the 
+report elucidates practical applications of generative AI across 
+diverse marketing domains. As well as discussing the benefits of 
+generative AI, the report addresses the challenges its adoption 
+can bring and proposes effective remedial strategies.This report is based on:
+• the findings of a comprehensive survey of 1,800 CMOs 
+and business leaders (director-level and above) from 14 
+countries and
+• 25 in-depth interviews with leading CMOs and 
+industry experts.
+For a comprehensive understanding of the broader 
+landscape, we encourage you to explore our first two 
+reports, which cover consumer and industry perspectives on 
+generative AI:
+• Why consumers love generative AI:  
+https://www.capgemini.com/insights/research-library/
+creative-and-generative-ai/
+• Harnessing the value of generative AI:  
+Top use cases across industries:  
+https://www.capgemini.com/insights/research-library/
+generative-ai-in-organizations/Who should read this report and why?
+5
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKIntroduction In a span of about one year, the generative AI market is on 
+the verge of significant growth. It is expected to reach $1.3 
+trillion in the next decade, growing from $40 billion in 2022. 1  
+No technology has reached 100 million users faster than 
+ChatGPT, which crossed that threshold in just two months. 2  
+Based on our recent cross-sector and cross-functional 
+research, generative AI shows the greatest potential within 
+IT, sales and customer service, and marketing functions. 3  
+Furthermore, our consumer research on generative AI reveals 
+that consumers who use generative AI tools are satisfied 
+with them. In addition, 62% of consumers are comfortable 
+with the implementation of generative AI in marketing 
+and advertising, provided it doesn't negatively impact their 
+overall experience. 4
+Consequently, we have undertaken this in-depth exploration 
+of its impact on marketing. 
+Generative AI can be leveraged to create, innovate, and 
+adapt autonomously. And it is reshaping traditional 
+marketing strategies.This study, the second in the chief marketing officer (CMO) 
+playbook series, 5 explores the following:
+1. The rapid integration of generative AI in the 
+marketing domain.
+2. Implementation areas for generative AI within marketing 
+and anticipated benefits.
+3. Generative AI's role in augmenting – but not replacing – 
+human creativity within marketing.
+4. The urgent need for organizations to address ethical and 
+copyright concerns arising from the use of generative AI 
+in marketing.
+We conclude the report by outlining key best practices for 
+organizations to effectively harness generative AI technology 
+in marketing.6
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKIntroduction In addition to delving into generative AI, the report 
+showcases the evolution of the marketing function,  
+taking on vital roles in business decision-making and 
+customer experience shaping. It also emphasizes  
+increased data adoption, empowering marketers  
+with agile marketing strategies. 
+For our research we surveyed 1,800 CMOs or executives 
+responsible for marketing within their organizations. The 
+respondents were drawn from organizations with over 
+$1 billion annual revenue, across Australia, Brazil, Finland, 
+France, Germany, India, Italy, the Netherlands, Norway, 
+Singapore, Spain, Sweden, the UK, and the US. We spoke 
+to executives from multiple sectors, including automotive, 
+consumer products, retail, financial services, telecom, 
+utilities, high-tech, industrial manufacturing, life sciences, 
+public sector, and media. In addition, we conducted 25 
+in-depth interviews with CMOs and other marketing 
+executives with firsthand knowledge or awareness of their 
+organization's generative AI initiatives. For more details on 
+the survey sample, please refer to the research methodology.
+7
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGenerative AI is technology that has the capability to learn from 
+and reapply the properties and patterns of data for a wide range 
+of applications, from creating text, images, and videos in different 
+styles to generating tailored content. It enables machines to perform 
+creative tasks previously thought exclusive to humans. The following 
+table summarizes the top generative AI applications and gives some 
+examples.Definition of  
+generative AI 
+8
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKSelected generative AI applications 
+Text
+Images and 
+video generation
+Audio
+Chatbots
+SearchIndicative examples
+Generating new text/reports, summarizing and translating into 
+multiple languagesOpenAI’s GPT-4, Google Palm 2, Scribe, Claude
+Generating new images/videos, analyzing existing images/video 
+(e.g., video games, VR, animation)Adobe Fireﬂy, Stability AI, Midjourney, Nvidia, Dall-E2, 
+Synthesia, Nvidia, Runway ML
+Generating music and remixing, speech synthesis, sound 
+eﬀects, voice conversion, audio enhancementSynthesia, Amazon Polly, Sonix.ai 
+Generate human-like contextually relevant text responses in 
+real-time to expand and improve customer service and adviceOpenAI’s ChatGPT, Amazon Lex, Google Bard
+Enhanced search functions, adding language capabilities to 
+search (e.g., “RAG,” retrieval augmented generation)Google Bard, Landing AI, Azure, Facebook Llama 2, Perplexity AI9
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGENERATIVE AI IN MARKETING 
+IS RAPIDLY GAINING PACE0110
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMarketers are moving 
+fast to embrace the 
+possibilities of 
+generative AI  
+The marketing function is swiftly adopting generative 
+AI, witnessing substantial adoption of a technology that 
+gained popularity within the past 12 months. In our report 
+on generative AI  across sectors and functions published this 
+year, approximately 40% of organizations were adopting 
+a “wait and watch” approach. This approach now applies 
+to only 12% of organizations in terms of the marketing 
+function (see Figure 1).
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing 
+responsibilities from unique organizations; Generative AI Executive Survey, April 2023.FIGURE. 1
+The marketing function is rapidly embracing generative AI
+12%ORGANIZATIONS WHO ARE ADOPTING A "WAIT AND WATCH" APPROACH ON GENERATIVE AI 
+Share of organizations across all functions, 
+April 2023
+Share of organizations in marketing function,
+October 202339%11
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMost organizations 
+already use generative  
+AI in marketing
+Currently, almost 60% of organizations have adopted 
+generative AI into their marketing initiatives, including 
+37% who have progressed from experimentation to active 
+implementation (see Figure 2).
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing 
+responsibilities from unique organizations.FIGURE. 2
+Marketing functions are deploying generative AI at pace
+STATE OF IMPLEMENTATION OF GENERATIVE AI IN MARKETING
+37% 21% 13% 10% 12% 5% 3%
+Using across multiple/few initiatives
+Testing/experimenting Don't know what it is and have no 
+intention to bring it into 
+marketing soon
+Not using, but have a strategyNot using, and don't have a strategy
+Taking a “wait and watch” approach
+Used in the past, but don’t use it now58%
+of organizations are integrating 
+generative AI into marketing12
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKBusiness-to-business (B2B) sectors (e.g., manufacturing, 
+life sciences) are only very slightly behind their business-to-
+consumer (B2C) counterparts (e.g., consumer products, retail, 
+automotive) in incorporating generative AI into marketing 
+strategies (see Figure 3).
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing 
+responsibilities from unique organizations.FIGURE. 3
+Both B2B and B2C sectors are actively deploying generative AI in marketing
+STATE OF IMPLEMENTATION OF GENERATIVE AI IN MARKETING, BY SECTOR
+Using across multiple/few initiatives
+Testing/experimenting Don't know what it is and have no 
+intention to bring it into 
+marketing soon
+Not using, but have a strategyNot using, and don't have a strategy
+Taking a “wait and watch” approach
+Used in the past, but don’t use it nowB2B sectorsB2C sectors
+33% 25% 14% 12% 11% 4%2%38% 20% 13% 10% 12% 5% 3%
+13
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGenerative AI is gaining traction not just in B2C but also in 
+B2B sectors. Forrester predicts that, by 2024, B2B teams will 
+use generative AI to swiftly extract valuable insights from 
+diverse customer data to streamline idea generation and 
+innovation, ultimately identifying unique capabilities in a fifth 
+of launched products. 6 
+Moreover, the US already stands out for their robust embrace 
+of generative AI in marketing. On average, Europe lags 
+behind the U.S. in implementing generative AI, potentially 
+attributable to its more stringent regulations in the field of AI 
+(see Figure 4).
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing 
+responsibilities from unique organizations.FIGURE. 4
+The US is ahead in implementing generative AI in marketing
+Average, GlobalAverage, Europe and UKSwedenFranceNetherlandsSpainItalyBrazilNorwayIndiaUKGermanyFinlandAustraliaSingaporeUSSTATE OF IMPLEMENTATION OF GENERATIVE AI IN MARKETING, BY COUNTRY
+Using generative AI across 
+multiple/few initiativesNot using or experimenting with 
+generative AITesting/experimenting with 
+generative AI50% 19% 31%
+42% 15% 44%
+40% 20% 40%
+38% 23% 39%
+37% 21% 43%
+36% 24% 41%
+35% 20% 45%
+34% 27% 39%
+34% 21% 44%
+33% 24% 43%
+33% 22% 44%
+32% 19% 49%
+32% 21% 47%
+31% 18% 51%
+34% 22% 44%
+37% 21% 42%14
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKOrganizations investing in generative 
+AI are allocating a significant portion of 
+their marketing technology budget to it  
+Marketing functions are actively establishing governance 
+systems and practices to leverage generative AI. 
+Half of the organizations we surveyed have a dedicated 
+budget to implement generative AI within marketing, and 
+a quarter plan to create one in the next six months. When 
+this is considered alongside the nearly 40% of organizations 
+that already have progressed from experimentation to 
+implementation (as established above), it is evident that 
+organizations are proactively investing in their forthcoming 
+generative AI initiatives within marketing. 
+Moreover, nearly half have formed dedicated teams within 
+marketing to implement generative AI. A third more plan to 
+establish them in the coming months (see Figure 5).
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,752 executives with marketing 
+responsibilities from unique organizations who are aware about generative AI.FIGURE. 5
+Marketing teams are swiftly allocating budgets and establishing dedicated teams for generative AI initiatives 
+THE BUDGET AND TEAM STRUCTURE FOR IMPLEMENTING GENERATIVE AI WITHIN MARKETING
+Already in place
+Plan to in the next six months
+No plans to do so in the next six monthsA team (speciﬁc to marketing) for generative AI Budget for implementation of generative AI within marketing26%
+50%25%
+33%
+47%20%15
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKA breakdown of budget allocation specifically for generative 
+AI in marketing across various sectors, highlights that 
+although there are variations, the allocation remains 
+substantial across all sectors (see Figure 6).
+Figure 6 illustrates that three-quarters of the B2C 
+organizations surveyed have allocated or plan to allocate 
+budgets for generative AI within the next six months. Even 
+for B2B sectors at the opposite end of the spectrum, such 
+as life sciences and manufacturing, this figure remains 
+high at 65%. This underscores the swift and substantial 
+commitment of resources to generative AI in marketing 
+across diverse sectors.
+Moreover, the budget for generative AI now represents 
+a substantial portion of the total marketing technology 
+budget, as businesses increasingly recognize the potential 
+of generative AI. As shown in Figure 7, those organizations 
+that currently invest in generative AI have earmarked 62% of 
+their marketing technology budget for such initiatives. These 
+investment plans reflect the rapidly advancing maturity 
+of both existing and forthcoming generative AI solutions 
+and offerings.
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,752 executives with marketing 
+responsibilities from unique organizations who are aware about generative AI.FIGURE. 6
+Three in four organizations have either already allocated a budget for generative AI marketing initiatives or have plans to do so 
+within the next six months
+BUDGET ALLOCATION PLANS TOWARDS GENERATIVE AI WITHIN MARKETING, BY SECTOR
+Already in place No plans to do so in the next 
+six monthsPlan to in the next 
+six monthsAverage
+Life 
+sciencesManufacturing
+Public 
+sectorTelecom
+UtilitiesBanking
+RetailInsurance
+High-techAutomotive
+Consumer
+ goodsMedia63%15%21%
+55%25%20% 24%
+54%22%
+52%22%26%
+51%27%22%
+51%25%25%
+49%28%23%
+46%27%27%
+46%28%26%
+44%30%26%
+42%24%34%
+31%34%35%
+50%26%25%16
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKSource: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; 
+N=1,142 executives with marketing responsibilities from unique organizations who 
+invest in generative AI.FIGURE. 7
+Among those investing in generative AI, over half of their marketing 
+technology budget is specifically allocated to these initiatives
+SHARE OF MARKETING TECHNOLOGY BUDGET ALLOCATED 
+TO GENERATIVE AI AMONG ORGANIZATIONS INVESTING IN 
+THIS TECHNOLOGY
+62%
+17
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of B2C organizations.  
+Note: Research conducted in 2021 exclusively focused on B2C sectors.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,404 executives with marketing 
+responsibilities from unique B2C organizations; A new playbook for chief marketing officers, September 2021.FIGURE. 8
+CMOs at B2C organizations are increasingly pivotal in strategic decision-making processes
+B2C ORGANIZATIONS ACKNOWLEDGE THE GROWING IMPORTANCE OF MARKETING IN 
+STRATEGIC DECISION-MAKING
+72%
+49%71%
+57%
+2021 Current, 2023Our C-suite executives (e.g., CEO, CFO, CTO, CIO) 
+see marketing as a strategic partner in driving 
+business growth and not as solely a cost centerOur CMO is involved when critical decisions to drive 
+business goals and objectives are made 
+(e.g., on growth strategy, new product development)HOW MARKETING HAS 
+EVOLVED INTO A 
+STRATEGIC BUSINESS 
+DRIVER  
+Marketing has been transformed in recent 
+years, emerging as a strategic force driving 
+organizational success. CMOs now play a central 
+role in shaping the decisions that steer businesses 
+towards their goals and objectives. Armed with a 
+good understanding of market trends, consumer 
+behavior, and digital technologies, CMOs can now 
+contribute significantly to the development of 
+growth strategies and new products (see Figures 
+8 and 9).
+Dustin Sedgwick, Chief Marketing Officer and 
+Managing Director – Payments, JPMorgan Chase 
+& Co, says: “Marketing is more and more going to 
+be seen as revenue generator and a profit center as 
+opposed to a cost center.”18
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of B2C organizations.
+Note: Research conducted in 2021 exclusively focused on B2C sectors.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,404 executives with marketing responsibilities from 
+unique B2C organizations; A new playbook for chief marketing officers, September 2021.FIGURE. 9
+CMOs at B2C organizations are assuming greater accountability for revenue and profit-related decisions 
+Contribution to 
+revenue growth 2021 2023 2021 2023 2021 2023
+Contribution 
+to proﬁt DIRECT  
+RESPONSIBILITY OF CMOSSHARED  
+RESPONSIBILITY OF CMOS INFLUENCING ROLE /  
+NO RESPONSIBILITY 
+24% 49% 59% 33% 17% 18% 
+25% 44% 53% 36% 23% 21% 
+19
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of B2C organizations.
+Note: Research conducted in 2021 exclusively focused on B2C sectors.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,404 executives with marketing 
+responsibilities from unique B2C organizations; A new playbook for chief marketing officers, September 2021.FIGURE. 10
+CMOs at B2C organizations are taking on more significant roles in managing the customer experience
+Managing end-to-end 
+customer experience 
+across touchpoints (e.g., 
+stores/dealers, social 
+media, web/apps) 2021 2023 2021 2023 2021 2023DIRECT  
+RESPONSIBILITY OF CMOSSHARED  
+RESPONSIBILITY OF CMOS INFLUENCING ROLE /  
+NO RESPONSIBILITY 
+30% 47% 46% 31% 24% 23% WHY MARKETING IS 
+PROGRESSIVELY 
+TAKING 
+RESPONSIBILITY  
+FOR CUSTOMER 
+EXPERIENCE
+Marketers have evolved beyond promoting 
+products; they now focus on creating 
+personalized customer interactions. Our 
+research shows that 66% of B2C organizations 
+believe their CMOs have increased 
+responsibility for customer experience, 
+compared to 46% in 2021. By understanding 
+the entire customer journey, marketers 
+can tailor strategies to engage consumers 
+effectively. Consequently, the direct 
+involvement of CMOs in managing the end-to-
+end customer experience has risen significantly 
+since 2021 (see Figure 10).20
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKTo ensure a seamless end-to-end customer 
+experience, marketers have a wide range of tools 
+and platforms at their disposal. However, our 
+findings suggest that, on an average, less than 
+four in 10 organizations use such tools extensively 
+to map and track customer interactions and 
+touchpoints (see Figure 11).
+Linda Ha, Global Customer Engagement & Loyalty 
+Manager, Ikea Ingka, says:  “We’ve transitioned 
+from transactional interactions to fostering genuine 
+relationships with our customers. This shift allows 
+us to create a meaningful value exchange, enabling 
+us to collect valuable data about our customers – 
+understanding and supporting their needs and life 
+stages. This proactive approach not only strengthens 
+our foundation in first-party data but also prepares 
+us for a cookie-less future. Leveraging Salesforce 
+Marketing Cloud and integrating data from Google 
+Cloud Platform, we’ve developed customer-centric 
+programs, incorporating customer journeys across 
+emails, SMS, and now extending to data from the 
+Ikea app.”
+Percentages represent share of organizations.
+Note: Research conducted in 2021 exclusively focused on B2C sectors.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with 
+marketing responsibilities from unique organizations.FIGURE. 11
+Most organizations do not use digital tools extensively to optimize customer experience
+USAGE OF TOOLS AND PLATFORMS BY ORGANIZATIONS TO OPTIMIZE CUSTOMER EXPERIENCE
+Use it extensively Use it sparsely Plan to use it in the next 6 months No plan to use it in the next 6 monthsCustomer Journey Platforms
+ (e.g., Adobe Journey Optimizer)Customer Data Platform
+ (e.g., Salesforce 360, Adobe AEP)SaaS based Cloud Marketing Platforms
+ (e.g., Salesforce/Adobe marketing cloud)33%30%24%13%
+31%35%21%14%
+40%30%18%11%21
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKHOW MARKETERS ARE USING 
+GENERATIVE AI AND WHY0222
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMarketers employ 
+generative AI for creating 
+campaigns, enhancing 
+customer experiences, 
+and conducting data 
+analysis
+Our research shows widespread integration of AI in 
+marketing, touching upon diverse marketing activities that 
+encompass both internal operations and customer-centric 
+areas. Not confined to any specific domain, the applications 
+span across diverse functions, ranging from ideation and 
+campaign creation to data analysis, personalized customer 
+experiences, and search engine optimization.
+For example, 32% of the marketers we interviewed use 
+generative AI extensively for data analysis, including 
+managing data, predictive modeling, A/B testing, and social 
+media listening. The same percentage focus on delivering 
+personalized customer experiences, indicating a targeted and 
+customer-centric approach (see Figure 12).23
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK
+DEEPALI NAAIR
+Group Chief Marketing Officer,
+CK Birla Group, an Indian 
+multinational conglomerate“As a marketer, it's crucial for me to experiment with  
+this new technology and explore its possibilities.”
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,112 executives with 
+marketing responsibilities from unique organizations who are using generative AI.FIGURE. 12
+Use of generative AI is widespread within marketing
+IMPLEMENTATION OF GENERATIVE AI USE CASES IN MARKETING, CURRENT
+Use extensively 
+(for > 50% of initiatives)Use for < 50% of 
+initiativesDon't use at present Don’t use, but plan 
+to in 6–12 monthsAverageMeasure and track brand metricsCustomer serviceMetahumans for engagement,
+ forecasting or simulationInnovation (new product/concept development)Personalized customer and brand avatarsText/content creation
+ (emails, blogs, scriptwriting)Customer understanding and journey mappingImage and video generationSearch engine optimizationCampaign creationPersonalized customer experienceData analysis32%
+32%
+31%
+31%
+29%
+29%
+29%
+29%
+28%
+28%
+28%
+27%
+29%30%
+28%
+25%
+25%
+30%
+28%
+26%
+28%
+29%
+28%
+27%
+29%
+28%13%
+11%
+13%
+12%
+12%
+14%
+14%
+12%
+15%
+12%
+12%
+16%
+13%25%
+29%
+31%
+32%
+29%
+29%
+31%
+31%
+28%
+32%
+33%
+28%
+30%Deepali Naair, Group Chief Marketing Officer, CK Birla 
+Group, an Indian multinational conglomerate, emphasizes 
+on the need to embrace generative AI: “As a marketer, it's 
+crucial for me to experiment with this new technology and 
+explore its possibilities.”
+Further, the executives we interviewed shared insights 
+on how they are integrating generative AI within their 
+marketing initiatives – 
+Strategy and decision-making: Aaren Ekelund, Chief 
+Marketing Officer & Chief Communication Officer, 
+Microsoft Denmark: “As a CMO, utilizing generative AI 
+and machine learning for tasks like forecasting, strategy 
+alignment, and pipeline management is vital. We've 
+developed an advanced financial modeling platform over the 
+years. With the accessibility of technology, we now efficiently 
+cluster customers, conduct AB testing, and leverage data-
+driven insights for informed decision-making.”
+Customer experience:  Veronique Bruhat, Head of 
+Digital Health Specialty Care, Sanofi: “Generative AI has 
+accelerated the speed of delivering the right personalized 
+message to the patient when it matters.”24
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKContent creation:  Rupert Bedell, Chief Marketing 
+Officer, Paysend, a global fintech company from the UK: 
+“We're delving into generative AI for video production, a 
+domain where we typically engaged external video production 
+agencies. It crafts exceptionally high-quality custom videos, 
+even achieving cinematic standards. This opens up exciting 
+possibilities for our creative endeavors.”
+Search engine optimization:  Torie Wilkinson, Chief 
+Marketing Officer, Lovat Park, a privately-owned company 
+in hospitality from the UK: “ChatGPT is instrumental for 
+us, especially when dealing with extensive content from an 
+organic SEO perspective. It aids in crafting the initial draft by 
+amalgamating diverse possibilities, forming an itinerary for 
+visitors, such as suggesting activities, local coffee shops, and 
+more. These foundational details, which remain relatively 
+consistent year after year, are efficiently organized with the 
+help of ChatGPT.”
+Moreover, the utilization of generative AI across all the 
+aforementioned marketing use cases is anticipated to see 
+a rise in the next 2–3 years (see Figure 13).
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,112 executives with marketing 
+responsibilities from unique organizations who are using generative AI.FIGURE. 13
+The use of generative AI in marketing is set to increase over the next 2–3 years
+IMPLEMENTATION OF GENERATIVE AI USE CASES IN MARKETING, NEXT 2–3 YEARS
+Will use extensively (for > 50% of 
+initiatives) in the next 2–3 yearsDon't plan to use in the 
+next 2–3 yearsWill use for < 50% of initiativesAverageMetahumans for engagement, forecasting
+ or simulationCampaign creation Innovation (new product/ concept development)Personalized customer experienceText/content creation (emails, blogs, scriptwriting)Data analysis Image and video generationMeasure and track brand metrics Customer understanding and journey mappingCustomer serviceSearch engine optimizationPersonalized customer and brand avatars 45%
+45%
+45%
+44%
+44%
+42%
+42%
+42%
+42%
+41%
+41%
+40%
+43%42%
+44%
+44%
+44%
+42%
+45%
+48%
+46%
+45%
+46%
+46%
+47%
+45%13%
+11%
+11%
+12%
+14%
+12%
+10%
+12%
+13%
+13%
+13%
+13%
+12%25
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKUse case Example
+Personalized customer 
+experienceHere are some examples of how organizations are using generative AI for marketing:
+Search engine optimization
+Image and video generation
+Content creation
+Campaign creation 
+Customer service
+Data analysis
+InnovationContinental has partnered with Google Cloud to enable drivers to interact with their car in a natural dialogue. The vehicle can inform the driver about tire pressure, local 
+points of interest at their destination, and so on, and can respond to driver questions.7 
+Nike uses generative AI to create custom-designed sneakers through their “Nike By You” platform. Customers can personalize and design their shoes, leveraging generative 
+AI to generate unique design combinations based on user preferences.8
+Walmart is experimenting with generative AI to help shoppers in all stages of the shopping experience, from the search and discovery phase to making a purchase. Three 
+features in development include a shopping assistant, generative AI-powered search, and an interior design feature.9
+Google deployed the Search Generative Experience (SGE) to combine reliable data from multiple organic search results and turn it into a prose answer to a user’s search – 
+all without having to click on any links in the results page.10 
+IKEA is using generative AI to generate realistic images of its products in customer homes. This helps customers to visualize how IKEA products would look in their own 
+homes before making a purchase.11 
+Unilever uses generative AI to craft tailored product descriptions for e-commerce platforms like Amazon UK. This helps to improve the ranking of their product pages in 
+Search Engine Results Pages (SERPs) and drives more traﬃc to their websites.12 
+Adobe integrated generative AI into a digital marketing platform called “Adobe GenStudio.” The platform uses generative AI to automate and optimize the creation of 
+digital advertisements.13
+Allstate has developed a generative AI application based on ChatGPT 3.3, MyStory, which reduces the time for customers to report a claim. Customers can now recount the 
+incident just once, which then gets delivered to all necessary parties.14 
+Marqeta, a global issuing and payment processor, uses an external-facing question and answer tool powered by generative AI called Marqeta Docs AI, which helps users 
+quickly navigate the site and reduces the overall time to value for customers.15 
+Moody’s has formed strategic partnerships to use generative AI to conduct faster ﬁnancial analysis and insights for its customers and employees.16
+Bayer Pharmaceuticals explores generative AI to speed up drug development, aiding data analysis and correlation, and automating tasks like drafting clinical trial communi-
+cations. This may cut down time and costs in bringing new drugs to market.17 
+Coca-Cola launched Coke Y3000, their eighth iteration in the Coke Creations platform and the world’s ﬁrst futuristic ﬂavor co-created with AI. The launch has demonstrated 
+strong initial results.1826
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMarketers expect a wide 
+range of benefits from 
+generative AI  
+Our research indicates that 57% of organizations believe 
+the benefits of generative AI outweigh its costs and risks. 
+This figure, although significant, has decreased from 74% 
+in our previous report on generative AI across sectors and 
+functions published earlier this year (see Figure 14). This 
+decline might suggest an acknowledgment of the current 
+challenges of generative AI, including data security risks, 
+copyright issues, and ethical concerns.
+David Hirsch, General Manager, Marketing at QBE, a 
+multinational insurance group headquartered in Sydney 
+says: “Generative AI is not just another buzzword; its tangible 
+impact is becoming increasingly apparent and is poised to 
+grow significantly. Marketers have only begun to explore its 
+potential, and it presents a significant opportunity. However, 
+it also comes with risks - understanding how to harness this 
+technology effectively and without detriment to customers is 
+key to staying ahead.”FIGURE. 14
+Organizations believe that the benefits of generative AI use will outweigh its costs
+ORGANIZATIONS AGREEING THAT THE BENEFITS OF UTILIZING GENERATIVE 
+AI OUTWEIGHS ITS ASSOCIATED COSTS AND RISKS
+Share of organizations across all 
+functions, April 2023
+74%Share of organizations in the marketing 
+function, October 2023
+57%
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,752 executives with marketing 
+responsibilities from unique organizations who are aware about generative AI; Generative AI Executive Survey, April 2023.27
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKDAVID HIRSCH  
+General Manager Marketing,
+QBE, a multinational insurance group 
+headquartered in Sydney“Generative AI is not just another buzzword; its tangible impact is 
+becoming increasingly apparent and is poised to grow significantly. 
+Marketers have only begun to explore its potential, and it presents 
+a significant opportunity. However, it also comes with risks - 
+understanding how to harness this technology effectively and 
+without detriment to customers is key to staying ahead.”
+28
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKBy harnessing the power of generative AI, businesses 
+expect to fuel innovation, enhance satisfaction, conduct 
+scenario analysis, and save time. For example, 67% of 
+organizations believe generative AI will be helpful in long-
+term brand building (see Figure 15).
+Generative AI is poised to enhance 
+efficiency and customer satisfaction 
+Figure 16 illustrates the extent of the benefits 
+organizations expect to gain by integrating generative 
+AI into their marketing strategies over the next 2–3 
+years. The anticipated advantages include accelerated 
+content creation, prompt results leading to streamlined 
+marketing processes, heightened customer satisfaction 
+and engagement, lowered marketing costs, and an 
+improvement in content quality, reaching up to 14%.
+We are in the early stages, and generative AI technology 
+is just over a year old. Given this, organizations exhibit 
+cautious optimism in anticipating benefits from adopting 
+generative AI in marketing. However, considering the 
+swift advancement and integration of this technology 
+within marketing, the actual benefits are likely to surpass 
+current expectations among marketers. 
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,137 executives with marketing 
+responsibilities from unique organizations who are using generative AI.FIGURE. 15
+Expected benefits from the use of generative AI in marketing encompass brand building, cost reduction, innovation, 
+enhanced customer satisfaction, and more
+SHARE OF ORGANIZATIONS STATING VARIOUS BENEFITS OF USING GENERATIVE AI IN MARKETING
+67%
+65%
+65%
+65%
+65%
+65%
+65%66%
+66%
+64%
+64%
+63%
+63%
+63%
+Brand building Market understanding Eﬃciency Innovation Customer experienceProduct/service/content creation that is more
+ accessible and inclusive, serving a wider range of customersGreater personalization and tailored experiences for customersImprovement in customer support Creation of brand avatars to uniquely represent the brand to customersImprovement in customer satisfaction and engagementCreation of products that are not possible with current design approachesInnovation in new channelsImprovement in quality of contentMore eﬃcient and streamlined design processTime saved by getting faster content/resultsReduction in marketing costsMarket simulations for scenario analysisAccurate and insightful analysis of performance, customer and market trendsHelp in long term brand building29
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKWe have already seen those implementing generative 
+AI realizing greater benefits. For example, Heinz used 
+an AI image generator to create a ketchup bottle image 
+and invited people to propose new ketchup-based ideas. 
+These suggestions were transformed into the company’s 
+inaugural campaign featuring visuals entirely generated by 
+AI. The campaign received 850 million earned impressions 
+globally (a 2,500% + return on media investment) and a 
+39% higher engagement rate than previous campaigns.19  
+Generative AI is also instrumental in enhancing 
+personalized experiences across channels, ensuring 
+consistency and relevance. It can ensure that each 
+interaction through each touchpoint (such as SMS, social 
+media, etc.) contributes to a consistent and personalized 
+customer experience. By integrating data from diverse 
+channels, it provides a comprehensive customer view, 
+facilitating tailored content and promotions that are not 
+only personalized but also aligned with the customer's 
+buying journey stage.
+For example, Spotify’s GenAI DJ tool curates personalized 
+playlists and audio ads based on users’ listening habits. 
+This has helped increase user engagement and reduce 
+churn.20  Similarly, Sephora’s chatbot, Sephora Virtual 
+Artist, utilizes generative AI to provide personalized 
+makeup recommendations based on customer 
+preferences and facial features.21Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,137 executives with marketing 
+responsibilities from unique organizations who are using generative AI.FIGURE. 16
+Marketers expect both operational and customer benefits by integrating generative AI 
+EXTENT OF BENEFITS PERCEIVED BY MARKETERS BY USING GENERATIVE AI IN MARKETING OVER 
+THE NEXT 2–3 YEARS
+14.1% 14.0% 13.9% 13.7%
+Improvement in
+ quality of contentReduction in overall 
+marketing costs Improvement in 
+customer satisfaction
+ and engagementTime saved by 
+getting faster content
+ and results30
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMore examples of benefits from using generative AI are highlighted in the following table.
+Industry Example
+E-commerceAutomotive
+Food 
+Amazon is using generative AI to simplify how sellers create more thorough and captivating product descriptions, titles, and listing details. This simpliﬁes and 
+expedites the process of listing new products and enhancing existing ones, ultimately aiding customers in making conﬁdent purchase decisions.26 To enhance the driver experience, Mercedes has integrated a GPT model into over 900,000 cars as part of a beta program. Drivers can access this model 
+through the’company's voice assistant, enabling inquiries about destination locations and answering various questions.22 
+Coca-Cola has rolled out its third generative AI initiative of the year. As part of a global holiday campaign, it allows people to experiment with holiday-themed 
+content, from selecting images to personalizing holiday greetings through generative AI-driven text capabilities, shareable across social platforms and 
+WhatsApp.23
+Casper, the mattress company from the US, launched a generative AI enabled bot to engage with customers who cannot sleep. Insomnobot3000 is “extra 
+chatty between 11 PM and 5 AM,” providing companionship for night owls.24
+Flipkart, an Indian e-commerce company, has a three-pronged approach to generative AI. It plans to create chat-led experiences for customers and sellers, 
+upgrade the search function based on large language models (LLMs), an build internal tools for productivity and eﬃciency.25 31
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of B2C organizations.
+Note: Research conducted in 2021 exclusively focused on B2C sectors.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,404 executives with marketing 
+responsibilities from unique B2C organizations; A new playbook for chief marketing officers, September 2021.FIGURE. 17
+An increasing number of CMOs at B2C organizations are now at the forefront of driving digital transformation in marketing 
+In our organization, the CTO/CIO and the CMO have a shared responsibility for driving 
+digital transformation in marketing2021 2023
+Our organization believes that marketing must be technology and data driven today52% 65% 
+50% 61% HOW MARKETING HAS 
+BECOME INCREASINGLY 
+DATA-POWERED   
+Marketing leaders are increasingly using data 
+and technology to drive marketing strategies 
+and business outcomes. As shown in Figure 17, 
+marketing is more technology and data-powered 
+today than it was in 2021, with a growing number 
+of CMOs having joint responsibility for driving 
+digital transformation within their organizations.
+Monica Gonzalez Peñas from Allianz underscores 
+the significance of data and analytics for 
+marketers, emphasizing: “In today's landscape, 
+understanding data and digital platforms is crucial 
+for success. A mindset rooted in data analytics and 
+digital is increasingly indispensable for marketers.”
+Likewise, Rupert Bedell of Paysend delves into 
+the growing partnership between marketing 
+professionals and technology leaders: “There’s 
+significant overlap between my role and the CTO, 
+and we’re collaborating effectively to determine the 
+necessity of implementing a new CRM system.”32
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of B2C organizations.   
+Note: Research conducted in 2021 exclusively focused on B2C sectors.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,404 executives with marketing 
+responsibilities from unique B2C organizations; A new playbook for chief marketing officers, September 2021 .FIGURE. 18
+Use of data in different marketing scenarios at B2C organizations has increased over the past couple of years
+OUR MARKETING TEAM USES DATA TO ...
+64%42%
+40%
+63%
+48%
+35%
+61%
+43%
+46%61%
+58%
+58%41%60%
+2021 Current, 2023… build retargeting campaigns across channels (i.e., to
+ remind website/app visitors, after they leave without buying)… optimize the media mix (e.g., decide
+ which social media platform/oﬄine activities to target)… decide a go-to-market strategy for a new product/service… introduce new business models… decide content to include for brand messaging… modify campaign strategy
+(e.g., add more customer touchpoints like emails, website)… be more agile in responding to customer and market needsIt is imperative for organizations to break down 
+silos in order to harness extensive data more 
+effectively. Simon Rost, Chief Marketing Officer 
+for Enterprise Imaging, GE Healthcare, explains: 
+“Healthcare generates enormous datasets, especially 
+in imaging. Leveraging technology can unlock the 
+potential of this often untapped and isolated data, 
+extracting valuable insights and optimizing decision-
+making processes.”
+Figure 18 explores how marketing teams use 
+data-powered strategies. It shows the increase in 
+the share of organizations using data since 2021. 
+For example, almost 65% employ data-driven 
+methods to adapt to shifting market dynamics and 
+customer demands or to adjust their campaign 
+strategies. In 2021, only around 40% used such 
+approaches. 
+Florence Lemetais, VP Customer, Marketing 
+and Business Development at Fnac Darty, a 
+multinational retail company headquartered in 
+France: “Now we measure everything, and we take 
+the decision linked by measurement and performance. 
+So, the data has become the center of everything.”33
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK“Now we measure everything, and we take the 
+decision linked by measurement and performance. So, 
+the data has become the center of everything.”Executives we interviewed elucidated the uses of 
+data for their operations:
+• Rupert Bedell from Paysend: “The two 
+applications of big data that we spend a lot of time 
+analyzing and based on which we make continual 
+changes are the acquisition funnel and our search 
+marketing.”
+• Torie Wilkinson from Lovat Park: “We are using 
+data for A/B testing across our website, SEO and 
+journey mapping based on search traffic, pricing 
+strategies, UX projects, analyzing paid traffic, etc.”
+FLORENCE LEMETAIS 
+VP Customer, Marketing and Business Development, 
+Fnac Darty, a multinational retail company 
+headquartered in France
+34
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMarketers use diverse channels to engage their 
+audience. Social media platforms like TikTok, 
+Meta, and X (formerly known as Twitter) are used 
+by nearly 80% of marketers, highlighting the 
+enduring significance of social networks. Around 
+75% use direct messaging platforms such as 
+WhatsApp Business and Facebook Messenger for 
+personalized communication, emphasizing the 
+value of one-on-one interactions. Voice Search 
+Optimization (VSO) platforms such as Amazon’s 
+Alexa, Google Assistant, and Apple’s Siri are also 
+important (see Figure 19).
+According to the Harvard Business Review, the 
+pandemic pushed businesses to adopt new 
+marketing channels to engage with customers. 
+Nearly two-thirds (61%) reported increasing the THE CHANNELS 
+MARKETERS USE  
+TO ENGAGE WITH 
+CUSTOMERS 
+EFFECTIVELY
+Percentages represent share of organizations.
+The figures may not sum to 100% due to rounding.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing responsibilities from 
+unique organizations.FIGURE. 19
+Social media is being used extensively by marketing teams to engage with customers
+Social: e.g., TikTok, Instagram, Facebook, X 
+(formerly known as Twitter)Use it 
+frequentlyUse it 
+occasionallyPlan to use in the 
+next 6 monthsNo plans to use it in 
+the next 6 months
+44% 34% 16% 6% 
+Direct messaging: e.g., WhatsApp Business, 
+Facebook Messenger42% 33% 22% 3% 
+Voice search optimization (VSO) e.g., Amazon's 
+Alexa, Google Assistant, Apple's Siri40% 34% 21% 5% 
+Chatbots and AI-driven customer support: 
+e.g., Drift, Intercom, ManyChat36% 33% 20% 10% 
+Augmented reality (AR), virtual reality (VR): 
+e.g., Facebook's Oculus, Roblox29% 27% 29% 16% 
+The metaverse 16% 37% 30% 17% 35
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKnumber of channels they use. This is more marked 
+in the case of B2C services, where 77% reported 
+an increase in the number of channels used.27
+In the next few years, the metaverse, along with 
+immersive technologies such as augmented and 
+virtual reality, are poised to grow, offering new 
+ways to reach customers through interactive 
+experiences and innovations. Again it seems 
+likely that B2C organizations will embrace these 
+technologies the fastest (see Figure 20).
+A report from the Harvard Business Review 
+suggests that enterprises, alongside consumer 
+adoption, will be pivotal in revealing the value of 
+metaverse technology. The pace of metaverse 
+adoption hinges on government support. Notably, 
+Asia, MENA, and Europe exhibit higher adoption 
+rates owing to improved access to necessary 
+devices.28  Our 2022 report on immersive 
+technologies reveals that 93% of consumers 
+express curiosity about the metaverse, while 51% 
+express a willingness to use it once it becomes 
+accessible to them.29
+Percentages represent share of organizations.  
+The figures may not sum to 100% due to rounding.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing 
+responsibilities from unique organizations.FIGURE. 20
+Usage of immersive technologies such as the metaverse and augmented/virtual reality will pick up in the next few years
+Social: e.g., TikTok, Instagram, Facebook, X 
+(formerly known as Twitter)Will use it frequently 
+in the next 2–3 yearsWill use it occasionally 
+in the next 2–3 yearsWon’t use it in the 
+next 2–3 yearsCan’t say/don’t 
+know
+46% 31% 3% 20% 
+Direct messaging: e.g., WhatsApp Business, 
+Facebook Messenger45% 32% 4% 20% 
+Voice search optimization (VSO) e.g., Amazon's 
+Alexa, Google Assistant, Apple's Siri45% 33% 5% 16% 
+Chatbots and AI-driven customer support: 
+e.g., Drift, Intercom, ManyChat43% 33% 6% 19% 
+The metaverse 39% 33% 5% 23% 
+Augmented reality (AR), virtual reality (VR): 
+e.g., Facebook's Oculus, Roblox37% 31% 10% 21% 36
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKVERONIQUE BRUHAT
+Head of Digital Health Specialty Care, 
+Sanofi"Generative AI has accelerated the speed of 
+delivering the right personalized message to  
+the patient when it matters.”
+37
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGENERATIVE AI WILL AUGMENT 
+HUMAN CREATIVITY IN 
+MARKETING0338
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKFinding a balance 
+between generative AI 
+and human creativity is an 
+ongoing challenge
+Navigating the relationship between generative AI 
+and human creativity poses an ongoing challenge for 
+organizations. While generative AI streamlines tasks and 
+content creation, excessive reliance on this technology may 
+undermine the spontaneity and emotional depth of human 
+creativity. Additionally, the AI-generated content may contain 
+factual errors and flawed logic, as discussed later. Thus, 
+humans will need to dedicate time to checking and editing. 
+Consequently, striking the right balance between generative 
+AI and human engagement in creative work is a critical 
+challenge, as acknowledged by 55% of organizations 
+surveyed. Analyzed by sector, consumer products and 
+automotive sectors express the strongest concerns about 
+this issue compared to high-tech, public sector, and life 
+sciences (see Figure 21).
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,752 executives with marketing 
+responsibilities from unique organizations who are aware about generative AI.FIGURE. 21
+Organizations within the consumer products and automotive sectors are particularly challenged about finding a 
+balance between generative AI and human creativity
+SHARE OF ORGANIZATIONS STATING THAT FINDING THE BALANCE BETWEEN GENERATIVE AI AND 
+HUMAN CREATIVITY IS AN ONGOING CHALLENGE
+61%59%57% 56% 55% 54% 53%51%49%47%44%55%62%
+Average
+High-techPublic sector
+Life sciencesUtilities
+InsuranceMedia
+TelecomManufacturing
+BankingRetail
+AutomotiveConsumer 
+goods39
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK55%
+of organizations say striking the 
+right balance between generative AI 
+and human engagement in creative 
+work is a critical challenge
+CHRISTOPHER WILLIAMS 
+Chief Communications Officer,  
+COMPASS Pathways, a biotechnology 
+company from the UK“Machines excel at recognizing patterns and enhancing 
+efficiency by mimicking human communication. However, 
+they lack the ability to convey genuine human emotions 
+authentically, connecting with others on a deep emotional 
+level. I don't know how AI is ever going to do that.”Florence Lemetais from Fnac Darty says: “We are striving to 
+strike a balance between algorithms, automated generation, 
+and human input. While humans alone may not suffice, relying 
+solely on automation doesn't capture the complexities of the real 
+world.”
+Analyzing this challenge by country, it is evident that 
+organizations in the US, UK, India, Brazil, and Australia are 
+the most concerned about maintaining a balance between 
+generative AI and human creativity. Organizations in Sweden 
+and Norway have fewer concerns.
+40
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,735 executives with marketing 
+responsibilities from unique organizations who are aware about generative AI.FIGURE. 22
+In the long-run (next 5–10 years), generative AI will serve as a catalyst for human creativity 
+IN THE NEXT 5–10 YEARS, GENERATIVE AI WILL ...
+19% 33% 29% 20%
+… completely replace 
+human creativity and 
+ingenuity in marketing … augment human creativity 
+and ingenuity in marketing, 
+but humans will remain the 
+central decision-makers… will play a limited role 
+in augmenting human 
+creativity and ingenuity 
+in marketing… not have any impact on 
+the human creativity and 
+ingenuity in marketing
+In time, generative AI will 
+augment human 
+creativity, not replace it
+In the longer term (next 5–10 years), marketers believe 
+that generative AI will augment rather than replace human 
+creativity. Talking about how generative AI cannot replace 
+creativity, Christopher Williams, Chief Communications 
+Officer, COMPASS Pathways, a biotechnology company 
+from the UK, adds: “Machines excel at recognizing patterns 
+and enhancing efficiency by mimicking human communication. 
+However, they lack the ability to convey genuine human emotions 
+authentically, connecting with others on a deep emotional level. I 
+don't know how AI is ever going to do that.”
+While AI is poised to replace human labor on mundane, 
+repetitive tasks, marketers acknowledge the unique human 
+elements of creativity, such as intuition, emotion, and context 
+understanding. AI is viewed as a potent tool to augment 
+these intrinsic qualities (see Figure 22).
+Organizations adopting a cautious “wait and watch” stance, 
+and those without a strategy for incorporating generative AI 
+in marketing tend to believe less in its significant impact on 
+creativity. Conversely, those actively experimenting with or 
+implementing generative AI more robustly acknowledge its 
+role in augmenting human creativity.41
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPratik Thakar, global head of generative AI at Coca-Cola 
+underscores that the collaboration of AI and human 
+intervention is essential for achieving their notable output: 
+“I think it will be a long time before human creativity can be 
+completely simulated. Our generative AI advert Masterpiece 
+couldn’t have been made without human input. And I don’t think 
+it would be able to come up with something that could become 
+as iconic as the Coca-Cola logo. That doesn’t mean businesses 
+won’t try to use it to save money, particularly on repetitive work 
+such as mass personalization. But in the near term, being able 
+to augment your skills with AI is likely to open doors to new and 
+interesting opportunities.” 30
+Further emphasizing the crucial role of human creativity in 
+the era of AI adoption Elizabeth Cunnigham, Head of Loyalty 
+Marketing and Brand at IAG Loyalty, part of International 
+Airlines Group (IAG), adds: “At this moment, what we truly value 
+is the innate human qualities of insight, empathy, and creativity. 
+Can a machine match the depth of human creativity? While AI 
+certainly has its place, I remain unconvinced as yet about its 
+ability to replace the human touch in marketing.”
+ELIZABETH CUNNIGHAM
+Head of Loyalty, Marketing and Brand, 
+IAG Loyalty, part of International Airlines 
+Group (IAG)"At this moment, what we truly value is the innate human 
+qualities of insight, empathy, and creativity. Can a machine 
+match the depth of human creativity? While AI certainly has its 
+place, I remain unconvinced as yet about its ability to replace 
+the human touch in marketing.”
+42
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMarketers view 
+generative AI as a 
+catalyst for innovation  
+Marketers envision a future where generative AI acts as 
+a catalyst, unlocking new creative possibilities. As shown 
+in Figure 23, 57% of respondents anticipate creative 
+teams leveraging generative AI outputs as a starting 
+point in their creative process as part of a collaborative 
+relationship between human creativity and AI-driven 
+innovation. Moreover, 55% foresee generative AI as a 
+catalyst for innovation, motivating teams to think beyond 
+conventional boundaries.
+For instance, 
+• Nestle used generative AI to refine and add significant 
+details and new characters to an original painting created 
+more than 360 years ago to promote their La Laitière 
+yogurt.31 
+• Wendy’s, an American international fast food restaurant 
+chain, employs a generative AI tool to automate routine 
+tasks such as drive-thru customer orders. This innovation 
+enables human employees to concentrate on essential 
+duties like food preparation.32  Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,752 executives with 
+marketing responsibilities from unique organizations who are aware about generative AI.FIGURE. 23
+Generative AI will play a crucial role in enhancing the creative process 
+Generative AI will reﬁne and
+ enhance ideas generated by creative teamsGenerative AI will motivate teams
+ to think beyond conventional boundariesBy automating routine tasks, generative
+ AI will give more time for teams to innovateCreative teams will use generative AI
+ outputs as a foundation in their creative processSHARE OF ORGANIZATIONS STATING THE IMPORTANCE OF GENERATIVE AI IN THE 
+CREATIVE PROCESS
+55%57%
+55%
+54%43
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKPercentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,736 executives with marketing 
+responsibilities from unique organizations; Generative AI Executive Survey, April 2023 .FIGURE. 24
+Organizations believe that generative AI is disruptive for marketing 
+ORGANIZATIONS AGREEING WITH GENERATIVE AI BEING DISRUPTIVE
+Share of organizations across all 
+functions, April 2023
+21%Share of organizations in the marketing 
+function, October 2023
+46%A director of digital marketing at a multinational cosmetic 
+company emphasizes that while generative AI is valuable 
+for refining ideas, the task of revealing and effectively 
+communicating the underlying meaning behind the idea remains 
+fundamentally human-led: “Generative AI can help you find 
+variations. It can help you find the right lexicon, hitting the right tone. 
+But the authentic idea and the campaign message or the deeper 
+meaning behind a campaign, I think that is going to be human led.”
+Further underscoring the significance of human involvement in 
+strategy and vision creation, Dustin Sedgwick from JPMorgan 
+Chase & Co adds: “In creative industries, human involvement remains 
+essential for shaping the vision, strategy, and direction. Generative AI 
+acts as a tool, opening new creative avenues.”
+Generative AI is seen as an increasingly 
+disruptive force, reshaping nearly 
+every role in the field of marketing 
+While generative AI is not set to replace human creativity, its 
+impact will be felt across marketing teams, enhancing the 
+efficiency and effectiveness of various marketing roles.
+Nearly half of the marketers surveyed believe that generative AI 
+will significantly disrupt the marketing function. This perception 
+has intensified in the last six months – only 21% of executives 
+across sectors and functions shared this belief earlier in 2023, as 
+highlighted in our recent report on generative AI across sectors 
+and functions (see Figure 24).44
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKDUSTIN SEDGWICK
+Chief Marketing Officer and 
+Managing Director – Payments, 
+JPMorgan Chase & Co.“In creative industries, human involvement 
+remains essential for shaping the vision, strategy, 
+and direction. Generative AI acts as a tool, 
+opening new creative avenues.”
+45
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMarketers in high-tech, consumer products, retail, life 
+sciences, media, public sector, insurance, and automotive 
+sectors express a stronger belief in the disruptive potential 
+of generative AI. Notably, these sectors also align with 
+those that have actively allocated budgets for generative AI 
+in marketing.
+Generative AI’s impact on marketing is evident in the ease 
+with which it can generate personalized campaigns and 
+predict consumer responses, as well as its speed in crafting 
+visually appealing content, all of which can help foster 
+customer engagement and brand loyalty.
+Consequently, as shown in Figure 25, while 29% of 
+organizations, on average, believe generative AI will not 
+affect job roles, the majority anticipate significant or 
+moderate impact on key positions. For example:
+• SEO specialists – significant impact in refining online 
+visibility and content optimization strategies. 
+• Digital marketing specialists and creative directors – 
+significant impact in enhancing digital strategies and 
+creative campaigns.
+Percentages represent share of organizations.High impact=must gain extensive knowledge about generative AI for very frequent use, 
+Moderate impact= need some knowledge about generative AI for occasional use, Little impact= need very limited/no knowledge about 
+generative AI for rare use.   
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,783 executives with marketing 
+responsibilities from unique organizations.FIGURE. 25
+Almost all marketing roles will be impacted by generative AI 
+Brand managerPR/CommunicationsContent marketing specialistData analystsSocial media specialistProduct marketerDigital marketing specialistCopywriterCreative directorSearch engine optimization specialistCustomer insights specialistsIMPACT OF GENERATIVE AI ON MARKETING JOB ROLES
+73%
+73%
+72%
+72%
+71%
+71%
+71%
+71%
+70%
+69%
+67%27%
+27%
+28%
+28%
+29%
+29%
+29%
+29%
+30%
+31%
+33%
+Role will be highly/moderately impacted Role will not be impacted much46
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK• Customer insights specialists, data analysts and social 
+media specialists – significant impact in processing 
+extensive data and optimizing social media interactions.
+• PR/communications specialists and brand managers, 
+copywriters, and content marketing specialists – impact in 
+communication and storytelling aspects.
+Dustin Sedgwick from JPMorgan Chase & Co. says: “I think we 
+will go through a short-term displacement and role composition 
+change, similar to previous technological step-changes 
+throughout history. It'll be hard at first, but we'll eventually 
+adapt and evolve. People really underestimate humans' ability to 
+identify new areas not previously explored that need their unique 
+skills and perspectives. While certain tasks or functions will get 
+replaced by automation and AI, humans will inevitably find new 
+areas to add value that AI isn’t trained for and can’t replicate.”
+Conrad Bird, Director, Campaigns & Marketing at the Cabinet 
+Office, UK, says: “Despite fears about AI, I believe that AI will not 
+replace humans, but it will challenge marketers who don’t use AI.”
+CONRAD BIRD
+Director, Campaigns & Marketing, 
+Cabinet Office, UK“Despite fears about AI, I believe that AI will not 
+replace humans, but it will challenge marketers 
+who don’t use AI.”
+47
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKORGANIZATIONS ARE 
+USING BOTH EXTERNAL 
+COLLABORATIONS AND 
+INTERNAL INITIATIVES 
+TO BRIDGE THE AI  
+SKILLS GAP  
+A majority (63%) of organizations say demand for 
+generative AI skills in marketing significantly 
+outstrips supply. This reflects the growing 
+recognition of the potential of generative AI in 
+enhancing marketing strategies and initiatives. 
+Analyzing hiring behavior, freelance work 
+marketplace Upwork noted that posts for 
+generative AI jobs increased more than 1000% in 
+Q2 2023 compared to the end of 2022. 33 
+Some examples of skills that are gaining 
+prominence in marketing are:
+• Prompt engineering skills to get the 
+desired information.• Verification skills to evaluate responses to identify 
+biases, inconsistencies, misleading information and 
+ethical considerations.34
+To address this skills gap and harness the full 
+potential of generative AI in marketing, organizations 
+are implementing internal and external strategies. On an average, 53% of companies have definite plans 
+to provide generative AI training for their marketing 
+teams in the next six months, particularly companies 
+from the Netherlands, India, Australia, and the US. 
+Sectors such as media, insurance, automotive, and life 
+sciences also show higher-than-average commitment 
+48
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKto generative AI training for their marketing teams. 
+Linda Ha from Ikea Ingka says: “People are worried that 
+their jobs will be replaced by generative AI, but I think 
+this is our opportunity to empower our teams – to upskill 
+and reskill the teams we have in order to meet the new 
+capabilities.”
+Marketing leaders must look not only for technology 
+and AI skills but also need an understanding of how 
+to balance AI with human creativity. Christopher 
+Williams from COMPASS Pathways adds: “The skillset 
+that people like me are going to need is knowing how 
+to balance what something like generative AI can do 
+against the unique thing that a human being can bring to 
+it. This is the key skill that I'm looking for when it comes 
+to bringing talent onto my team.”
+Nearly a quarter of organizations rely solely on 
+external applications and platforms for generative 
+AI in marketing. However, half of them are in the 
+process of either developing or using in-house 
+applications alongside external ones. A smaller group 
+leverages external generative AI applications but 
+relies on internally developed prompt, constraint, or 
+knowledge models, and another group exclusively 
+uses in-house applications and platforms  
+(see Figure 26).Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,051 executives 
+with marketing responsibilities from unique organizations who have implemented at least one generative 
+AI initiative.FIGURE. 26
+Half of the organizations are either developing or using in-house applications alongside external 
+ones for generative AI solutions in marketing
+We completely rely on external
+ generative AI applications available in the marketWe currently use external applications,
+ but looking at developing exclusive in-house onesWe have developed in-house applications, which are
+ used along with external applications based on requirementWe leverage external generative AI applications,
+ but always leveraging internally developed prompt,
+ constraint or knowledge models which are retained in-houseWe only use in-house applications
+ to implement generative AI solutionsAPPROACH TOWARDS LEVERAGING GENERATIVE AI SOLUTIONS FOR MARKETING
+14%13%
+22%
+28%
+23%49
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKURGENT ACTION IS NEEDED TO 
+ADDRESS ETHICAL AND COPYRIGHT 
+ISSUES ASSOCIATED WITH 
+GENERATIVE AI IN MARKETING 0450
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKThe ethical concerns 
+around generative AI use 
+in marketing are 
+signficiant
+As AI algorithms become increasingly sophisticated, 
+marketers face enduring ethical considerations around 
+issues such as the responsible use of customer data, the 
+transparency of AI-driven decision-making processes, and 
+ensuring algorithms do not reinforce social inequalities.
+Our research indicates that 70% of organizations are 
+potentially exposed to ethical challenges due to the absence 
+of comprehensive and clear guidelines for the use and 
+oversight of AI systems (see Figure 27).
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing 
+responsibilities from unique organizations.FIGURE. 27
+Seven in ten organizations have not established ethical guidelines for use of AI in marketing
+We are unaware of the potential ethical
+ implications of AI in marketingEthical considerations are not a priority
+ in our AI marketing initiativesWe are exploring ethical frameworks for AI but have
+ not implemented them comprehensively yetEthical considerations are a part of our AI strategy, and
+ we involve diverse stakeholders in decision-makingWe have established ethical guidelines for AI usage
+ and continually monitor AI-generated contentSTATE OF ADOPTION OF ETHICAL GUIDELINES AND FRAMEWORKS IN MARKETING
+28%30%
+21%
+12%
+10%51
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKVarious ethical issues could give rise to problematic 
+output, including :
+• inappropriate or inaccurate content, commonly 
+termed as AI “hallucinations”
+• bias, skew, or discrimination arising from the training 
+data-set
+• generation of content based on copyrighted or 
+unauthorized data.
+Recent instances illustrate how prominent organizations 
+have incurred financial losses due to inaccuracies 
+propagated by their generative AI tools, stemming from 
+inadequate and questionable ethical practices.
+Our research shows that organizations often overlook 
+attributes such as trust and responsibility when 
+selecting AI systems, and less than half consider issues 
+like transparency, human involvement, legal compliance, 
+social benefit, and environmental consciousness (see 
+Figure 28).FIGURE. 28
+Less than 50% of organizations consider attributes of trust and responsibility when selecting AI systems for marketing 
+Considers data privacy and security from the 
+design phase, for data usage that is secure 
+and legally compliant with privacy regulationsDesigned for human beneﬁt, with a clearly deﬁned purpose 
+setting out what the solution will deliver, to whomAI with carefully delimited impact
+AI respectful of privacy and data protection
+Enables humans to make more 
+informed choices and have the ﬁnal sayControllable AI with clear accountability
+Delivers outcomes that can be understood, 
+traced, and audited as appropriateTransparent and explainable AI
+Produced by diverse teams using sound data 
+for unbiased outcomes and the inclusion of 
+all individuals and population groupsFair AIDeveloped with the needs of all 
+stakeholders in mind, to avoid damage to 
+the environment, and to address pressing 
+challenges such as climate changeSustainable AIIncludes a fallback plan when neededRobust and safe AIORGANIZATIONS CONSIDERING ATTRIBUTES OF TRUST AND RESPONSIBILITY WHILE SELECTING 
+THE AI SYSTEMS FOR MARKETING
+53%
+49%
+46%
+46% 44%43%40%
+AI systems in 
+marketing
+Percentages represent share of organizations.
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with marketing responsibilities 
+from unique organizations.52
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKThe use of generative AI in 
+marketing raises copyright issues
+Generative AI in marketing might raise significant 
+copyright concerns, as AI-generated content can create 
+challenges in determining ownership and intellectual 
+property rights and, consequently, legal disputes could 
+arise. 
+Stock photo provider Getty Images sued Stability AI, 
+creators of AI art tool Stable Diffusion, over alleged 
+copyright violation, accusing them of misusing more than 
+12 million Getty photos to train their Stable Diffusion AI 
+image-generation system.35
+Despite this, organizations are not currently 
+implementing sufficient measures to address copyright 
+issues. Our research indicates that, on an average, only 
+42% of organizations are implementing measures, such as 
+strong cybersecurity protocols, monitoring or searching 
+for AI-derived versions of their work, including logos and 
+artwork. We note that 36% of organizations expressed an 
+intention to implement such measures within six months 
+(see Figure 29).FIGURE. 29
+A little over 40% of organizations, on average, have taken concrete steps to address copyright issues  
+Demand compensation from generative
+ AI platforms for intellectual property
+ infringement due to absence of licensed input dataMonitor digital and social channels to check
+ for derived versions of our workProactively search for our work in datasets/databases,
+ including logos, artwork, textual elementsImplement strong cybersecurity measures to
+ ensure the security of external AI tools we useRestrict employee usage of generative AI platforms to
+ prevent input of conﬁdential business information and
+ ensure work-related queries don't expose sensitive dataDemand terms of service from generative AI platforms
+ to conﬁrm proper licensure of their training dataSTEPS TAKEN TO ADDRESS COPYRIGHT ISSUES ARISING OUT OF USE OF GENERATIVE AI IN MARKETING
+45%
+43%
+43%
+42%
+40%
+39%34%
+35%
+36%
+36%
+38%
+38%21%
+22%
+21%
+22%
+23%
+23%
+Already implementing No plans to implement in the next 6 months Plan to in the next 6 months
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,752 executives with marketing 
+responsibilities from unique organizations who are aware about generative AI.53
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKTHE NEED TO 
+ADDRESS 
+GREENWASHING IN 
+MARKETING CLAIMS
+Organizations frequently overlook the issue of 
+greenwashing (the practice of overselling or 
+overstating an environmental claim for a product or 
+service) in their marketing. Our research indicates 
+that only 39% of marketing leaders consider 
+greenwashing a significant concern, although we find 
+that consumers globally are becoming more wary of 
+it. Our recent sustainability research revealed that 
+49% of consumers never, rarely, or only sometimes 
+trust an environmental claim about a purchase 
+they are considering, rising to 65% among Gen Z 
+consumers (see Figure 30).36 
+Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 executives with 
+marketing responsibilities from unique organizations; A world in balance 2023: Heightened sustainability awareness yet 
+lagging actions, November 2023.FIGURE. 30
+There is a perception gap between marketing executives and consumers on the significance of greenwashing
+Greenwashing is one of our top concerns
+ since it erodes customer trust and
+ damages brand reputation, marketers
+ from all organizationsAll consumers: We never, rarely,
+ or only sometimes trust an
+ environmental claim about a
+ purchase we are consideringGen Z: We never, rarely, or only 
+sometimes trust an environmental claim
+ about a purchase we are consideringSHARE OF ORGANIZATIONS AND CONSUMERS ON THE IMPORTANCE OF GREENWASHING
+49%65%
+39%Marketing 
+executives Consumers54
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKThe research also showed that a third of consumers 
+believe that organizations/brands greenwash their 
+initiatives. This rises to 45% for Millennials and 50% 
+for Gen Z consumers.37 
+Despite this, most organizations do not take 
+measures to tackle the problem – only 39% 
+of marketers use independent sustainability 
+certifications to uphold their brand reputation and 
+only 42% substantiate their sustainability marketing 
+claims with concrete evidence (see Figure 31).
+As consumers become increasingly discerning and 
+environmentally conscious, marketers must prioritize 
+transparency and authenticity, ensuring their claims 
+align with concrete eco-friendly practices to build 
+credibility and maintain consumer trust. A Harvard 
+Business Review study estimates that organizations 
+perceived to be greenwashing suffer, on an average, 
+a 1.34% drop in their American Customer Satisfaction 
+Index (ACSI) score and are open to accusations of 
+corporate hypocrisy.38
+The EU and the UK both implemented new or 
+updated regulations to combat greenwashing and 
+protect consumers in 2023.39 Source: Capgemini Research Institute, CMO Playbook #2 research, Sep–Oct 2023; N=1,800 
+executives with marketing responsibilities from unique organizations.FIGURE. 31
+Most organizations do not consistently adhere to sustainability monitoring and reporting practices
+We use various sustainability certiﬁcations and
+ independent third-party assessment to
+ preserve customer trust and brand reputationWe back up our sustainability marketing
+ claims with credible evidenceSHARE OF ORGANIZATIONS FOLLOWING SUSTAINABILITY MONITORING AND REPORTING 
+PRACTICES TO ADDRESS GREENWASHING
+44%
+42%55
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKA GUIDE TO MOVING FORWARD 
+WITH GENERATIVE AI IN 
+MARKETING0556
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKFigure 32 shows areas for organizations to focus on to 
+accelerate the use of generative AI in marketing.
+STRATEGIC DIRECTION 
+Precisely outline integration objectives for generative AI 
+• Set clear, strategy-aligned goals  for generative AI 
+implementation in marketing. Whatever the focus of 
+implementation. These goals pinpoint areas for value 
+addition and relevant use cases, which helps in selecting 
+tailored tools.
+Simon Rost from GE Healthcare says: “Define your use case 
+clearly upfront. It is very important to understand what you 
+want to achieve before you think about the tool. The tool should 
+basically help you get to that goal faster or better.”
+• Align generative AI objectives with broader 
+business goals for impact and relevance. Close 
+collaboration between marketing teams and key 
+stakeholders is essential. Ensure generative AI objectives 
+complement business goals like revenue growth or 
+customer satisfaction.
+The director of marketing at a global e-commerce company 
+says: “It is super important to get to understand goals in advance, 
+understand what each organization is capable of, and define 
+priorities. There might be occasions where we want to automate, 
+but there might be other occasions where the customer needs 
+human interaction for a specific reason.”Source: Capgemini Research Institute analysis.FIGURE. 32
+Key considerations for organizations to drive generative AI initiatives in marketing 
+Establish a dedicated task force to 
+integrate generative AI  
+Craft robust ethical guidelines 
+Stay informed about evolving AI 
+regulations requirementsOutline integration goals for 
+generative AI
+Adopt a pragmatic approach for 
+investments in generative AI 
+Evaluate tech infrastructure for AI 
+system compatibility and consolidate 
+into a uniﬁed framework
+Start small and drive iterative implementation
+Implement robust security and privacy protocols
+Navigate responsibly, addressing the environmental impact of generative AI
+Cultivate dynamic partnerships, and enhance internal skills
+Maintain equilibrium between generative AI and human ingenuity
+Transcend conventional roles and embrace tech-driven collaborationLeadership 
+and 
+oversight
+Iterative 
+executionStrategic 
+direction
+Expand boundaries57
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKAdopt a pragmatic approach for 
+investments in generative AI
+Over the last 12 months, generative AI has garnered 
+substantial attention, prompting significant investments. 
+Recognizing the substantial initial investment  
+required for venturing into this domain, it is imperative 
+for companies to adopt a pragmatic approach to their 
+investment decisions . It is crucial for them to craft a Evaluate tech infrastructure for AI 
+system compatibility and consolidate 
+into a unified framework
+Ensure compatibility and integration capabilities.  
+Begin by evaluating your marketing infrastructure to 
+pinpoint potential bottlenecks, ensuring a seamless 
+integration between generative AI tools and existing 
+platforms. Recognizing the strengths and limitations of 
+current technologies empowers strategic adjustments 
+and investments, facilitating the smooth incorporation of 
+generative AI.
+Integrate diverse solutions into a unified framework.  
+Marketers face a multitude of generative AI tools and 
+solutions, necessitating a strategic architecture to avoid  
+being overwhelmed. Consolidating these tools into a 
+single platform is vital, transitioning from isolated point 
+solutions to a unified framework. This also facilitates 
+ethical and responsible architecture management, and 
+streamlining the incorporation of brand standards across 
+all solutions. SIMON ROST
+Chief Marketing Officer  
+for Enterprise Imaging, 
+GE Healthcare“Define your use case clearly upfront. It is very 
+important to understand what you want to achieve 
+before you think about the tool. The tool should 
+basically help you get to that goal faster or better.”
+strategic roadmap that meticulously prioritizes short and 
+medium-term objectives.
+Furthermore, foresight is paramount, as companies should 
+anticipate the necessity for continuous investments 
+over time  to guarantee the sustained maintenance 
+and augmentation of their capabilities. This approach 
+ensures alignment with the dynamic nature of technology 
+development and deployment.58
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKLEADERSHIP AND OVERSIGHT 
+Assemble specialized marketing task 
+forces to integrate generative AI  
+For expediting adoption, organizations should establish a 
+well-defined ownership and governance framework – 
+• Create a specialized marketing team to explore 
+generative AI. This team’s role involves pinpointing 
+specific areas and use cases where generative AI can 
+yield significant outcomes.
+• Allow for interdisciplinary collaboration (include 
+sales and IT teams as a minimum) to develop customized 
+solutions that align with marketing goals and 
+customer needs.
+A director of digital marketing at a multinational cosmetic 
+company says: “Establishing a clear governance structure 
+is crucial. It delineates responsibilities, defines remits, and 
+ensures the availability of necessary resources and tools 
+for agile and consistent implementation. Equally important 
+is appointing a dedicated leader for generative AI and 
+determining its organizational placement.”Craft robust ethical guidelines for 
+the conscientious use of AI 
+Establishing robust ethical guidelines for AI usage in 
+marketing is essential to ensure responsible and inclusive 
+practices within the industry. 
+Conrad Bird from the UK Cabinet Office says: “When 
+employing AI in our communication efforts, we will prioritize 
+transparency and ethical responsibility. We aim to set 
+industry standards in the ethical use of AI. Given our public 
+accountability, we are committed to making decisions that 
+prioritize human values.”
+• Develop ethical guidelines and a comprehensive 
+framework  emphasizing transparency, fairness, and 
+user privacy in AI-driven decision-making processes. 
+Simon Rost from GE Healthcare says: “It helps to bring the 
+experts from business, IT, compliance and legal departments 
+together early on in the evaluation of these generative AI tools 
+to understand what to look out for.”• Conduct regular audits and assessments 
+of AI systems to check for biases and 
+discriminatory outcomes.
+• Actively engage with diverse communities 
+and customers  to understand their concerns and 
+perspectives regarding AI applications in marketing so 
+guidelines reflect the values and expectations of the 
+wider society.
+• Participate in workshops  alongside the research, law, 
+and education community to identify comprehensive 
+ways to build trustworthy AI.
+• Train and continuously educate employees across 
+marketing  on the ethical implications of their work, 
+emphasizing the importance of unbiased data sourcing, 
+fairness in algorithms, and the responsible use of 
+AI-generated content. Establish mechanisms for 
+reporting ethical concerns and violations, along with 
+clear consequences for non-compliance.59
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK• European Union and Italy:  The EU AI Act is 
+approved and expected to be finalized by the 
+end of 2023, and will classify AI usage based 
+on risk levels, prohibiting certain uses and 
+imposing stringent monitoring and disclosure 
+requirements for high-risk applications. In 
+March 2023, Italy briefly banned ChatGPT, 
+citing concerns about how – and how much – 
+user data was being collected by the chatbot. 
+Since then, approximately $33 million has been 
+allocated to help unemployed people and 
+workers in positions at risk of automation to 
+boost their digital skills.40  
+• US: Initial steps are being taken to produce 
+legislation to regulate AI. Certain interim 
+measures are in place, including the White 
+House recently announcing a voluntary 
+agreement with seven prominent generative 
+AI companies to provide minimum guardrails STEPS TAKEN BY COUNTRIES TO 
+REGULATE AI
+for safety, security, and public trust, as 
+safeguards.41
+• UK: Currently, the UK plans to split 
+responsibility for governing AI between existing 
+regulators for safety, transparency, fairness, 
+and accountability rather than creating a new 
+body dedicated to the technology.42 
+• Brazil:  A draft AI law outlines the rights of AI 
+usage and provides guidelines for categorizing 
+different types of AI based on the risk they pose  
+to society.43 
+• Japan:  Japan has adopted a “soft law” 
+approach to AI regulation: the country has no 
+prescriptive regulations governing specific ways 
+AI can and can’t be used. Instead, it has opted to 
+wait and see how AI develops, citing a desire to 
+avoid stifling innovation.44 Aaren Ekelund from Microsoft Denmark says: “There is a 
+concerted effort at Microsoft to educate all employees on ethics. 
+Comprehensive training sessions have been conducted in marketing 
+and sales organizations, as well as the development sector to ensure 
+employees are well informed and encouraged to voice concerns if 
+they notice any deviations from ethical guidelines.”
+Remain vigilant, navigating the ever-evolving 
+realm of AI regulations and compliance 
+• Consider assigning a dedicated compliance officer or 
+team  to track and interpret the rapidly evolving laws and 
+guidelines related to generative AI. 
+• Proactive engagement with policymakers, privacy 
+regulators, and global subject matter experts  on an 
+ongoing basis should also be considered.
+• Further steps , as highlighted in our recent research,  
+could include: 
+ –requesting disclosures about the capabilities and limitations
+ –drafting/revisiting policies
+ –establishing accountability
+ –providing more control to users.60
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKHighlighting the importance of governing AI, Aaren 
+Ekelund from Microsoft Denmark says: “It's essential to 
+govern generative AI effectively, providing adequate education 
+to ensure people understand its implications, rather than 
+outright preventing them from exploring its potential.”
+Similarly, Veronique Bruhat from Sanofi underscores the 
+significance of regulations: “Regulatory processes and data 
+privacy are critical in pharmacovigilance, integrating AI into 
+these processes has the potential to accelerate our ability to 
+meet patients' needs and make more informed decisions about 
+adverse events, in a way that maintains responsibility and 
+ethics in the core of the way we work.”  
+ITERATIVE EXECUTION 
+Drive implementation through experimentation and 
+continuous iterations  
+• Start with small-scale projects as testing grounds to 
+help you evaluate the effectiveness of generative AI in 
+specific marketing tasks – look for simple, high-impact,  
+low-risk use cases.
+Claudia Willvonseder, Executive Board Member at Dr. 
+Oetker, says: “We need to exercise caution and not rush into 
+using generative AI simply because it’s trending. Strategic and 
+thoughtful implementation is key.”AAREN EKELUND
+Chief Marketing Officer & Chief  
+Communication Officer,  
+Microsoft Denmark“It's essential to govern generative AI effectively, 
+providing adequate education to ensure people 
+understand its implications, rather than outright 
+preventing them from exploring its potential.”
+Establish a rigorous testing and verification strategy  
+with synthetic scenarios and adversarial testing to monitor 
+AI outputs for incorrect results or invalid representations. 
+Human involvement is crucial to address contextual and 
+nuanced limitations in AI results.
+• Learn from small projects and monitor continuously . 
+Implement robust monitoring systems to track and 
+analyze data to measure ROI, customer engagement, and 
+overall progress.
+Elizabeth Cunnigham at IAG Loyalty says: “Test generative AI 
+on small use cases: learn, tweak, and optimize. In as agile a way as possible and using the same process, try to understand how we 
+can use this technology to get the greatest benefit from it.”
+• Use a process of iterative refinement , and adjust 
+strategies based on real-time feedback. This ensures that 
+the marketing team stays agile and responsive.
+Linda Ha from Ikea Ingka says: “The assignment-based approach 
+has proven highly effective in uniting cross-functional teams to 
+define specific use cases and adopt an iterative test-and-learn 
+method for applying new technologies. This approach enables  
+a phased transformation that meets both business and customer 
+needs.”61
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKMONICA GONZALEZ PEÑAS 
+Chief Customer and Marketing Officer, 
+Allianz“In banking and insurance there is huge amount of 
+critical data for customers. The key challenge for us 
+is ensuring that artificial intelligence stays within 
+regulations on data and security.”Safeguard success by implementing 
+robust security and privacy protocols 
+Our research highlights concerns around data collection, 
+data security, and copyright. For example, nearly seven in ten 
+organizations surveyed agree that the use of sensitive data 
+in generative AI processes could pose a risk of cyberattacks 
+and data breaches. A similar proportion acknowledge issues 
+associated with generative AI content, citing concerns about 
+copyright and intellectual property rights infringement as 
+well as the risk of generating misinformation or inappropriate 
+content, which could lead to reputational damage and 
+legal repercussions. To protect against these issues, we 
+recommend marketers follow the steps below.
+• Curate data meticulously,  verifying its authenticity 
+and relevance to avoid misleading outcomes and skewed 
+results. 
+The chief marketing and digital officer of an Indian 
+multinational automotive manufacturing corporation says: 
+“One of the requirements to make generative AI more effective 
+is to have a very clear data strategy in place, because it takes out 
+output from the data which you supply. So, it's important to filter 
+and curate the data which goes in.”
+• Focus on collection of diverse, high-quality datasets  
+through rigorous validation and cleansing processes, 
+ensuring representative and unbiased data. 
+62
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK• Collaborate with domain experts  to gain valuable 
+insights, enhancing dataset accuracy. 
+• Invest in continuous monitoring and updates  to 
+reflect changing consumer trends.
+A product management and marketing executive for 
+a French digital automation and energy management 
+company says: “Concern arises when data contains biases 
+due to errors in collection or unusual comments, potentially 
+leading to flawed or biased outputs. This issue raises the risk 
+of incorrect implications, a critical concern for us.”
+• Safeguard sensitive data through robust privacy 
+protocols to maintain customer trust, ensure legal 
+compliance and prevent breaches. Adhere to data 
+privacy laws such as the EU’s GDPR, Japan’s Protection 
+of Personal Information Act, Singapore’s Personal Data 
+Protection Act (PDPA), the California Consumer Privacy 
+Act (CCPA) enforceable from March 2024, India's Digital 
+Personal Data Protection (DPDP) Act enforceable soon, 
+and other similar legislations.45 
+• Build a data governance framework to ensure data 
+is managed, processed, and utilized in a standardized, 
+secure, and compliant manner. Clear guidelines on data 
+access, usage, retention, and organization can mitigate 
+risks associated with data misuse.
+• Review transaction terms  and insist on terms of 
+service from generative AI platforms, ensuring proper licensure of training data, and seek broad compensation 
+for failure to license data appropriately.
+• Limit employee access to generative AI platforms , with 
+guidelines encouraging use only when necessary. Protocols 
+should prevent inadvertent input of sensitive business data 
+and address concerns highlighted by incidents such as the 
+Samsung data leakage.46 
+Monica Gonzalez Peñas, Chief Customer and Marketing 
+Officer at Allianz, says: “In banking and insurance there is huge 
+amount of critical data for customers. The key challenge for us 
+is ensuring that artificial intelligence stays within regulations on 
+data and security.”
+Navigate responsibly, addressing the 
+environmental impact of generative AI  
+Measuring generative AI's carbon emissions is challenging. 
+Despite its marketing benefits, 50% of organizations fear 
+generative AI’s environmental impact might exceed that 
+of traditional methods due to the high energy demand of 
+complex AI models. For instance, GPT-3 training emitted over 
+550 Mt of CO2 and OPT surpassed 75 Mt of emissions.47  
+Our survey shows that 53% of organizations now aim for 
+sustainable integration within marketing initiatives, compared 
+to 77% in our previous report across sectors and functions 
+(see Figure 33).Source: Capgemini Research Institute, CMO Playbook #2 
+research, Sep–Oct 2023; N=1,752 executives with marketing 
+responsibilities from unique organizations who are aware 
+about generative AI; Harnessing the value of generative AI: Top 
+use cases across industries, July 2023.FIGURE. 33
+Organizations are less conscious about implementing and 
+scaling generative AI in marketing in a sustainable way
+SHARE OF ORGANIZATIONS WHO ARE CAUTIOUS 
+ABOUT IMPLEMENTING AND SCALING 
+GENERATIVE AI IN A SUSTAINABLE WAY
+53%77%
+Marketing function,
+ October 2023Across all functions, 
+April 202363
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKThe growing awareness of generative AI's energy-intensity 
+highlights the need for sustainable marketing strategies. 
+Organizations should: 
+• Establish clear sustainability guidelines,  especially 
+considering the carbon footprint of generative AI. A 
+single query can emit 4–5 times more carbon than a 
+search-engine query48 (and ChatGPT had 173 million 
+users/1.8 billion monthly visits in April 202349). 
+• Conduct regular training sessions and internal 
+communications  to educate marketing staff about the 
+energy-intensive nature of AI use.
+• Our recent report on AI use outlined key ways to 
+promote a sustainable user model, including optimal 
+model architecture, compression techniques, 
+parallel computing, early stopping, larger batch 
+size, and energy-efficient hardware and data 
+centers.50
+Ronaldo Art, Chief Marketing Officer for Kimberly Clark 
+Brazil says: “The marketing of the future is about what is 
+going on in your surroundings, and that includes sustainability, 
+environmental, social, and governmental aspects in your city/
+province/country that affect your consumers. Therefore, 
+marketing is required to be done in a more responsible way.”EXPAND BOUNDARIES
+Cultivate dynamic partnerships and enhance in-house 
+expertise for an expansive utilization 
+Collaborating with external generative AI experts and 
+simultaneously investing in internal employee training is 
+a powerful strategy. Our research finds that close to half 
+(46%) of organizations intend to partner with external 
+agencies or consultancies for generative AI guidance in 
+the near future. 
+As we saw earlier, there is a talent gap with respect 
+to generative AI expertise in marketing. Further, 63% 
+of surveyed organizations also feel that new, as yet 
+unknown, job roles in marketing will emerge in the next 
+few years. 
+To fill in the skills gap and be future-ready, organizations 
+should:
+• Partner with external experts and firms, including 
+hyperscalers and technology providers (such as AWS, 
+Microsoft, Adobe, Salesforce, Google) to gather fresh 
+perspectives, knowledge, and innovative solutions that 
+might not be available within the organization. These 
+experts can provide insights into the latest trends, 
+best practices, and real-world applications, enabling 
+marketers to stay ahead. FELICIA LEKSELL
+Chief Marketing Officer, 
+Ericsson ONE“Employees need to learn effective 
+prompting of AI models. Inadequate 
+prompts compromise the quality 
+of output and the possibility of 
+harnessing the full potential of AI and 
+LLMs (large language models).”
+64
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKCLAUDIA WILLVONSEDER
+Executive Board Member, 
+Dr. Oetker“Strategic thinking, creativity, and the generation 
+of unique ideas remain in the domain of experts 
+– humans. The key is to empower these experts 
+with AI tools.”
+• Invest in internal training programs  to equip employees 
+with generative AI skills, reducing reliance on external 
+experts. Offer workshops on generative AI to give the 
+team a sense of potential applications and the confidence 
+to begin experimenting. To ensure meaningful outcomes, 
+train employees on how to prompt generative AI tools 
+correctly. Felicia Leksell, Chief Marketing Officer, Ericsson 
+ONE, says: “Employees need to learn effective prompting of 
+AI models. Inadequate prompts compromise the quality of 
+output and the possibility of harnessing the full potential of AI 
+and LLMs (large language models).”
+Organizations handling highly sensitive personal data, 
+especially in the public sector, may adopt a hybrid strategy 
+for developing generative AI skills. This approach involves 
+strategic partnerships for specific components while 
+retaining crucial institutional knowledge in-house. Conrad 
+Bird from the UK Cabinet Office says: “Our primary choice is 
+internal development of the generative AI platform. However, 
+as a contingency, a hybrid approach is considered, outsourcing 
+specific components while preserving vital skills and institutional 
+knowledge in-house. This balances external expertise with 
+internal security protocols."65
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKStrike a harmonious equilibrium 
+between generative AI 
+and human ingenuity
+Organizations must recognize the distinctive 
+strengths of both AI and humans, ensuring that 
+technology augments rather than replaces human 
+capabilities. Marketing leaders should acknowledge 
+AI's proficiency in data-driven tasks and content 
+generation,  while valuing human creativity in 
+storytelling and understanding nuanced emotions.  
+A marketing technology executive at an American 
+clothing organization says: “It’s possible for a brand 
+to create and showcase a campaign using generative AI. 
+However, this could demotivate employees who were not 
+involved in this initiative. Leaders need to recognize that 
+happy employees lead to satisfied customers. Balancing 
+technological advancements with human creativity and 
+recognition is essential.”AI should be left to handle repetitive tasks, freeing 
+marketers to focus on creatively interpreting data, 
+infusing campaigns with genuine human experiences, and 
+building meaningful audience connections. Linda Ha from 
+Ikea Ingka says: “I believe that generative AI will fuel our 
+creativity by automating operational processes, allowing us to 
+free our time and focus on delivering enhanced value to our 
+customers and exploring innovative engagement strategies. It 
+opens up new horizons for creativity.” 
+By recognizing the unique strengths each brings to the 
+table, organizations can harness the full potential of both 
+generative AI and human input, ensuring a future where 
+human creativity and technology seamlessly coexist. 
+Claudia Willvonseder from Dr. Oetker says: “Strategic 
+thinking, creativity, and the generation of unique ideas 
+remain in the domain of experts – humans. The key is to 
+empower these experts with AI tools.”“The marketing of the future is about 
+what is going on in your surroundings, 
+and that includes sustainability, 
+environmental, social, and governmental 
+aspects in your city/province/country 
+that affect your consumers. Therefore, 
+marketing is required to be done in a more 
+responsible way.”
+RONALDO ART
+Chief Marketing Officer,         
+Kimberly Clark Brazil 66
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKLINDA HA 
+Global Customer Engagement & 
+Loyalty Manager, 
+Ikea IngkaI believe that generative AI will 
+fuel our creativity by automating 
+operational processes, allowing 
+us to free our time and focus on 
+delivering enhanced value to our 
+customers and exploring innovative 
+engagement strategies. It opens up 
+new horizons for creativity.”
+Transcend conventional roles to embrace 
+a new era of tech-infused collaboration
+It is crucial for marketing leaders to transcend 
+traditional roles, moving beyond brand custodianship 
+and communication management. Modern marketers 
+need to understand and utilize cutting-edge tools and 
+digital platforms, including generative AI. Rupert Bedell 
+from Paysend highlights the crucial role of technology 
+adoption for CMOs: “ The demands on a CMO are much 
+greater … as well as being a creative influencer, you need 
+to understand the technology more than ever before. To 
+transition into a CMO role in the future, understanding AI 
+absolutely needs to be on everybody's development plan.”
+By embracing technology, marketers can drive real-
+time engagement, analyze market trends, personalize 
+customer experiences, and, ultimately, ensure the 
+sustained success of their organizations in the digital age. 
+Highlighting the limitations of inadequate technological 
+capabilities, a marketing technology executive at an 
+American clothing brand asserts: “If marketing leaders 
+lack a deep understanding of technology’s capabilities, they 
+are forced to rely on others. This can create an imbalance, 
+especially with external partners keen on promoting their 
+own products. They might not fully disclose the drawbacks, 
+leaving marketing leaders in a vulnerable position. ”67
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGenerative AI has emerged as a transformative force in marketing, 
+with almost half of the surveyed organizations dedicating specific 
+resources for its implementation. Currently, nearly 60% of marketers 
+are actively incorporating generative AI into their strategies, 
+leveraging its potential to create content, enhance campaigns, and 
+optimize data analysis. Generative AI is also instrumental in delivering 
+a high level of personalization across various channels.
+However, there are challenges, including ethical dilemmas and 
+copyright concerns, surrounding AI-generated content. There is a 
+need for clear regulation and ethical frameworks. 
+To successfully adopt generative AI in marketing, firms must 
+strategically redefine their direction, outlining integration goals, 
+adopting a pragmatic investment approach, assessing tech 
+infrastructure, and mobilizing marketing specialists. Simultaneously, Conclusion
+they should strengthen oversight with robust ethical guidelines that 
+emphasize iterative execution through experimentation, robust data 
+security, and environmental awareness. These efforts should be 
+integrated and pursued in parallel, for a comprehensive, positive and 
+sustainable approach.
+Maintaining a balance between generative AI and human creativity 
+is vital if we are to preserve authenticity and innovation in marketing 
+approaches. The profound impact of generative AI not only 
+promises enhanced creativity and efficiency but also holds unlimited 
+potential for the future. Organizations that hesitate to embrace this 
+technological shift risk falling behind in a rapidly evolving landscape 
+where innovation and adaptability are crucial for success.68
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKResearch methodology
+We conducted a focused survey in October 2023, 
+engaging 1,800 executives overseeing marketing 
+strategies across diverse organizations worldwide. To 
+complement this research we interviewed 25 chief 
+marketing officers (CMOs) and marketing leaders 
+with firsthand knowledge or awareness of their 
+organization's generative AI initiatives.
+Charts comparing 2021 and 2023 data exclude 
+respondents from B2B sectors, as they were not 
+part of the 2021 survey. The covered sectors include 
+automotive, banking, consumer goods, insurance, 
+retail, telecom, and utilities.
+Our findings reflect the views of the respondents to 
+our online questionnaire and are aimed at providing 
+directional guidance. Please contact one of the 
+Capgemini experts listed at the end of the report to 
+discuss specific implications.% OF ORGANIZATIONS 
+BY HEADQUARTERS LOCATION
+12%12%
+7%
+7%
+7%
+7%6%
+6%
+6%
+6%
+6%
+6%6%6%US
+UK
+Australia
+France
+Germany
+India BrazilFinlandItalyNetherlandsNorwaySingaporeSpainSweden% OF ORGANIZATIONS BY SECTOR
+12%12%
+12%
+12%4%
+4%
+6%
+9%
+9%
+12%4%4%Automotive
+Banking
+Consumer 
+goods
+Insurance
+RetailTelecomUtilitiesHigh-techManufacturingLife sciencesPublic sectorMedia
+69
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKRESPONDENTS BY TITLE
+34%
+7%19%
+8%
+9% 9%14%
+Director/
+Senior 
+Director
+Assistant Vice 
+President
+Vice President Senior Vice President
+/Executive Vice PresidentPresidentChief 
+Marketing 
+Oﬃcer or 
+the 
+equivalentOther C-level executive
+(e.g., CEO, CTO, CDO)ORGANIZATIONS BY ANNUAL REVENUE
+19%
+22% 19%
+21%19%$1 billion –
+$4.99 billion
+$5 billion –
+$9.99 billion
+$10 billion – 
+$14.99 billion$15 billion – 
+$19.99 billionMore than $20 billionORGANIZATION BY TYPE OF 
+MARKETING FUNCTION
+40%
+28%31%
+Centralized marketing function, that handles all 
+marketing initiatives for the entire organization
+Decentralized marketing function, where individual 
+departments/ business units/geographies are 
+responsible for their own marketing initiatives
+Mix of both centralized and decentralized models
+Source: Capgemini Research Institute, CMO Playbook #2 research, 
+Sep–Oct 2023; N=1,800 executives with marketing responsibilities 
+from unique organizations.70
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKReferences
+9. Techcrunch, “Walmart experiments with generative 
+AI tools that can help you plan a party or decorate,” 
+October 2023.
+10. Insight Partners, “Generative AI, SEO, and what leaders 
+should know: Google search in the future,” September, 
+2023.
+11. Designboom, “IKEA AI app replaces your furniture with its 
+products to help you shop,” June, 2022.
+12. Medium, “Companies and Marketing agencies steadily 
+adopting GenAI in Marketing!”, August 2022.
+13. Adobe, “Adobe Unveils Adobe GenStudio for Enterprises,” 
+September 2023.
+14. ARN, “Allstate’s cloud-first approach to digital 
+transformation pays off,” October, 2023.
+15. Marqeta, “Marqeta announces new Generative AI 
+investments,” August 2023.
+16. PR Newswire, “Moody’s and Google Cloud partner on 
+generative AI applications tailored for financial services 
+professionals,” October, 2023.17. LinkedIn, “Meaningful Use of Google's Generative AI,” 
+August 2023.
+18. CGT, “Coca -Cola Creations Travels to Year 3000 With 
+Generative AI-Powered Experience,” September 2023.
+19.  COTW, “Heinz A.I. Ketchup,” August 2022.
+20. Analytics Vidhya, “Spotify embraces AI: From 
+personalized playlists to audio ads,” July 2023.
+21. Sephora website, accessed on October 2023.
+22. Economic Times, “Generative AI and all about its 
+automotive application,” September 2023.
+23. Adweek, “Coca-Cola's Holiday Campaign Gets a 
+Generative AI-Powered Makeover,” November 2023.
+24. Persado, “Generative AI for the customer experience: 
+Understanding 4 big opportunities,” August 2023.
+25. The Hindu business line, “Flipkart leverages GenAI to 
+improve customer experiences,” September 2023.
+26. Amazon, “Amazon launches generative AI to help sellers 
+write product descriptions,” September 2023.1. Bloomberg, “Generative AI to Become a $1.3 Trillion 
+Market by 2032, Research Finds,” June 2023.
+2. Mint, “No technology has ever reached 100 million users 
+faster than ChatGPT, which crossed that threshold in just 
+two months,” March 2023.
+3. Capgemini Research Institute, Harnessing the value of 
+generative AI: Top use cases across industries, July 2023 .
+4. Capgemini Research Institute, Why consumers love 
+generative AI, June 2023 .
+5. Capgemini Research Institute, A New Playbook for Chief 
+Marketing Officers, September 2021 . 
+6. Forrester, “Predictions 2024: GenAI And Partners Help 
+B2B Marketing, Sales, And Product Endure A Wild Ride 
+Ahead,” October 2023.
+7. TechwireAsia, “Google Cloud and Continental to equip 
+generative AI in cars,” September 2023.
+8. Aum, “Generative AI : How Generative AI Is 
+Revolutionizing the Digital Marketing?”, August 2023.71
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOK27. LinkedIn, “The Adoption of Digital Marketing Pre and 
+Post-Pandemic,” August 2023.  
+28. Harvard Business Review, “Yes, the Metaverse Is Still 
+Happening,” May 2023.
+29. Capgemini Research Institute, Total Immersion: How 
+immersive experiences and the Metaverse benefit customer 
+experience and operations, December 2022.
+30. Forbes, “The Amazing Ways Coca-Cola Uses Generative AI 
+In Art And Advertising,” September 2023.
+31. Adweek,” Nestlé Brand Is Latest to Venture Into Brave 
+New World of AI Art Direction,” September 2022.
+32. WordStream, “How to Harness the Power of Generative 
+AI in Digital Marketing Responsibly & Effectively,” July 
+2023.  
+33. CIO, “10 most in-demand generative AI skills,” September 
+2023. 
+34. LinkedIn, “Skills Workers Will Need in the Age of 
+Generative AI – Part 1: Digital and Technical Skills,” 
+April 2023.35. The Verge, “Getty Images is suing the creators of AI 
+art tool Stable Diffusion for scraping its content.” 
+January 2023.
+36. Capgemini Research Institute, “A world in balance 2023: 
+Heightened sustainability awareness yet lagging actions,” 
+November 2023.
+37. Ibid.
+38. Harvard Business Review, “How greenwashing affects the 
+bottom line,” July 2022.
+39. Capgemini Research Institute, “A world in balance 2023: 
+Heightened sustainability awareness yet lagging actions,”  
+November 2023.
+40. Washington Post, “From China to Brazil, here’s how AI is 
+regulated around the world,” September 2023.
+41. Pillsburylaw, “Unleashing the AI Imagination: A Global 
+Overview of Generative AI Regulations,” August 2023.
+42. Ibid43. Washington Post, “From China to Brazil, here’s how AI is 
+regulated around the world,” September 2023.
+44. Ibid.
+45. PIWIK, “17 new privacy laws around the world and 
+how they’ll affect your analytics,” accessed on 
+November 2023.
+46.  LinkedIn, “Risks and security considerations for 
+organizations starting on Generative AI,” August 2023.
+47. MIT Technology Review, “We’re getting a better idea of 
+AI’s true carbon footprint,” November 14, 2022.
+48. Euronews, “ChatGPT: What is the carbon footprint of 
+generative AI models?” May 2023.
+49. Nerdy Nav, “97+ ChatGPT statistics & user Numbers in 
+May 2023,” May 2023.
+50. Capgemini Research Institute, Harnessing the value of 
+generative AI: Top use cases across industries, July 2023.72
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKKey contributors
+Gagandeep Gadri
+Managing Director, frog  
+and Head of frog, UK
+gagandeep.gadri@frog.co
+Bhavesh Unadkat
+Vice President,  
+Head of Marketing Services, frog
+bhavesh.unadkat@frog.co
+Ron Tolido
+CTO,  
+Insights and Data Global Business Line 
+Capgemini
+ron.tolido@capgemini.com
+Valerie PERHIRIN
+Managing Director, Sustainability powered 
+by Data & AI, Capgemini
+valerie.perhirin@capgemini.com
+Mark Oost
+Global Offer Leader AI, Analytics and Data 
+Science, Insights and Data, Capgemini
+mark.oost@capgemini.com
+Steve Jones
+Executive Vice President, Data Driven 
+Business, Capgemini
+steve.g.jones@capgemini.com
+Alex Smith-Bingham
+Executive Vice President,  
+Customer Experience Group Offer Lead, 
+Capgemini
+alex.smith-bingham@capgemini.com
+Yvo Booisma
+Vice President, Global Offer Leader 
+Marketing, Capgemini
+yvo.booisma@capgemini.com
+Darshan Shankavaram
+Executive Vice President,  
+Digital Customer Experience Global 
+Practice Leader, Capgemini
+darshan.shankavaram@capgemini.com
+73
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKSusan Maginn
+UK Live Marketing Lead, frog
+susan.maginn@frog.co
+Hiral Shah
+Manager, Capgemini Research Institute
+hiral.shah@capgemini.com
+Amrita 
+Senior Manager,  
+Capgemini Research Institute
+amrita.a.amrita@capgemini.com
+Jerome Buvat
+Head of Capgemini Research Institute
+jerome.buvat@capgemini.com
+Subrahmanyam KVJ
+Senior Director, 
+Capgemini Research Institute
+subrahmanyam.kvj@capgemini.com
+Christina Schehl
+Executive Vice President
+Head of Customer First Germany, Capgemini
+christina.schehl@capgemini.com
+The contributors would like to especially thank Marisa Slatter and 
+Anushree Kanodia for their contribution to the research. 
+The contributors would also like to thank Anu Jain, Naresh Khanduri, 
+Lee E Dempsey, Shawn Goodin, Courtney Holm, Cortney Knoll, 
+Marc Peeters, Alon Tirosh, Ed Bolton, David Robert, Chris Harrison, 
+Markus Cramer, Oscar Olsson, Andreas Markdalen, Philippe Thobie, 
+Christopher Baird, Laurence Parkes, Ross Landles, Rob Bartlett, 
+Aarti Kulkarni, Jane Asscher, Komi Sarna, Marion Lecorbeiller, Kazari 
+Anupam Patra, Kristin Morris, Rupali Chakraborty, Ashwani Kumar 
+and Punam Chavan for their contributions to the research. 74
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGenerative AI, with its unparalleled ability to generate 
+entirely new content, can change how marketers work 
+and how customers interact with their favorite brands. 
+Beyond efficiency gains and enhanced creativity, 
+generative AI can accelerate market research, leading to 
+a more nuanced understanding of customer needs and 
+behaviors. With a better perception of what motivates 
+customers, we can make personalized and contextually 
+relevant interactions an every-moment occurrence for 
+them along any journey.
+At Capgemini, we’re leading the charge in this era 
+of experience empowerment to give organizations 
+responsible and ethical AI solutions that align with 
+compliance frameworks and their business objectives. 
+Our five offerings represent steppingstones toward 
+making generative AI a valuable tool for CMOs to be 
+more efficient and effective in how they meet today’s 
+customer expectations.1. Understand and tailor each customer journey
+Since no two customers or journeys are alike, there’s no 
+reason why the content should all be the same. Everyone 
+knows that personalized content will naturally engage 
+more customers. But relevant content is just as important. 
+That’s why organizations must first grasp the intricacies 
+behind all the possible paths customers take and make 
+them more compelling for each unique persona. 
+Depending on the channel, touchpoint, and customer 
+objective, we can build customized generative AI chat 
+interfaces that act like personal assistants, ready to give 
+customers exactly what they want. When queried, these 
+interfaces respond with images, videos, and messaging 
+geared towards moving the journey forward – and every 
+new interaction contributes to AI’s goal of refining the 
+next experience.
+Contact us  to learn how this offering can help you define 
+and shape your customer journeys.ELEVATE YOUR MARKETING 
+POSSIBILITIES WITH THRILLING 
+GENERATIVE AI OPPORTUNITIES
+2. Design the experience
+Generative AI can assist in the rapid prototyping of ideas, 
+providing visual or conceptual models for evaluation, thus 
+reducing the time and resources traditionally required 
+in the design process. During ideation, generative AI 
+becomes a brainstorming partner, suggesting creative 
+concepts and product and service designs based on a blend 
+of historical data, current market trends, and emerging 
+consumer preferences. This ensures the generated ideas 
+are unique and relevant. Although we don’t believe 
+generative AI will fully replace human creativity and 
+expertise, it can save marketers valuable time, which they 
+can channel into crafting and launching more exceptional 
+campaigns at record speed. After all, it’s much easier to 
+slightly tweak an almost complete marketing asset than it 
+is to build one from the ground up.    75
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKImagine being able to create multiple campaigns 
+targeting diverse audiences across many different 
+channels – with just a single brief. That’s the promise 
+of our campaign accelerator. In a pioneering proof 
+of concept, we put this tool in the hands of an 
+automotive marketing department: first they select 
+a car as the focal point for their campaign, then the 
+features to highlight (safety, performance, space, 
+etc.), the target audience (working professionals, 
+parents/families, sports enthusiasts, etc.), and lastly 
+the platform (Facebook, Instagram, Twitter, etc.) on 
+which the campaign will run. With this input, the tool 
+generates a theme, combines images and messages, 
+and filters everything through the company’s 
+brand guidelines for consistency and cohesive 
+representation. It provides several initial options from 
+which the marketer can then add the final touchups 
+and deploy the campaign in a matter of weeks – 
+significantly reducing the time to market. The tool 
+has been developed to accommodate any industry’s 
+requirements. 
+Contact us  for a customized demo.Your Gen AI  
+Campaign Builder3. Power the experience
+After identifying the journeys and creating the bespoke 
+designs, it’s time to activate them with real-time 
+customer information. Capgemini’s Connected Marketing 
+Engine platform leverages AI, machine learning, and 
+advanced analytics to pool all customer data in one place. 
+With its ability to bridge technology tools and break down 
+marketing silos, the platform can be integrated into any 
+existing ecosystem to:
+• Create 360° customer profiles that bring both online 
+and offline touchpoint data together.
+• Give marketers and in-store staff access to relevant 
+customer information through dashboards.
+• Deliver real-time personalized content using 
+generative AI.
+With vital customer data in hand – and generative AI 
+assistance on demand – employees can enhance their 
+marketing, sales, and service capabilities to forge lasting 
+customer connections.
+Contact us  for a demo and read our PoV to learn more 
+about this offering.4. Scale up marketing assets with greater efficiency
+With the engine powering exceptional customer 
+experiences, it’s time to speed up content production. 
+Despite being at an all-time high, demand for even more 
+personalized content will keep growing, which means 
+CMOs must find ways to be more efficient and relevant in 
+how they communicate with various audiences. 
+With this offering, CMOs can integrate generative AI into 
+their creative workflows and quickly put together multiple 
+variations of content that considers a recipient’s age, 
+gender, health, political views, important life moments, 
+and more for on-point delivery. This integration will 
+empower marketing teams to increase efficiency, lowering 
+costs per asset, and transform their operating models to 
+rely less on agency involvement.76
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKCapgemini is making content precision and speed 
+an imperative for many organizations. We’re 
+currently working closely with a leading global 
+consumer products brand to strategically place 
+advertisement videos within social media. 
+The brand knows that to get maximum 
+engagement, the videos must be adapted to suit 
+different audiences, which means one broad stroke 
+likely won’t make huge engagement ripples. This 
+is where generative AI’s ability to glean real-time 
+customer behaviors comes in handy – in addition to 
+helping create and distribute multiple versions of 
+the same intended message.Adaptive content 
+creation powered by 
+generative AI5. Deliver concrete business outcomes
+How can CMOs ensure their generative AI initiatives 
+meet compliance standards and make a real difference 
+across the organization? Capgemini’s Generative AI Lab 
+helps clients adhere to a reliable and secure framework 
+so that all solutions are developed with the best quality 
+and ethical standards in mind. Our lab includes a 
+dedicated team of AI experts, whose priority is to follow 
+the evolution of the technology as well as to research 
+and apply the most relevant generative AI use cases for 
+our clients.
+For more information, visit https://www.capgemini.com/
+aifuturesUnlock the future of superior 
+customer experience now
+When the power and beauty of human intelligence 
+combine with technological innovation, the imagined 
+possibilities become tangible. Our aim is to help CMOs 
+discover the multitude of possibilities generative AI will 
+unveil as the technology amplifies human potential. 
+With a global collective of 30,000+ data and AI consultants 
+and engineers, frog, a leading global creative consultancy, 
+part of Capgemini Invent, our exceptional industry 
+experts, and a strong ecosystem of partners all along the 
+generative AI value chain, we bring to life our clients’ most 
+relevant use cases for substantial business impact every 
+time. 
+Contact us  and learn how you can apply generative AI 
+across the full content life cycle, leveraging our five 
+offerings:
+Generative AI-Driven Customer Journeys
+Generative AI Synthetic Design
+The Connected Marketing Engine
+Generative AI-Driven Content Velocity
+Generative AI Lab77
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKCapgemini is well aware of the risks that leveraging 
+generative AI can pose to businesses. That’s why 
+we’re building a fully packaged generative AI 
+innovation toolkit to equip organizations with 
+the materials and guidelines they need to dial up 
+their innovation efforts, safely and effectively. We 
+already have a few assets available:
+• Project initiation form: designed to simplify 
+generative AI project briefings with creative 
+agencies, ensuring clarity and efficiency from 
+the outset while bolstering project scalability 
+and safety.
+• Legal risks and recommendations guide:  
+guidance covering generative AI legal challenges, 
+from IP ownership to AI ethics, paired with 
+actionable strategies and a handy checklist for 
+safe and responsible adoption.• Best practice pilot framework: an essential 
+guide to navigating generative AI projects 
+with confidence, including legal, data, ethics, 
+and security measures, to help organizations 
+innovate responsibly while maximizing the 
+technology’s potential.
+• Generative AI tool selector: a dynamic 
+framework designed to help organizations select 
+the most suitable generative AI tool for each use 
+case, with a traffic light grading system to clearly 
+indicate tool effectiveness and safety.
+• Tip sheets: guidelines, including the dos and 
+don’ts of selecting and using generative AI tools. Tackling some generative AI 
+adoption risksfrog- Unlocking the Power of AI
+Defining your GenAI enabled Marketing Strategy
+frog is a leading global creative consultancy, part of Capgemini 
+Invent. We enable CMOs and marketing executives to push the 
+frontier of brand and consumer relationships, develop robust 
+capabilities, and launch new ventures that enhance the customer 
+journey. At frog, we help clients imagine new opportunities 
+by leveraging emerging technologies like Gen AI as a tool for 
+accelerating innovation and growth. This includes:
+• Crafting brand narratives that engage new audiences and deepen 
+customer loyalty
+• Redefining customer experiences through AI-powered 
+hyper-personalization
+• Empowering human creativity through AI
+• Defining a blueprint for ethical AI through clear and 
+robust governance
+Get in touch to learn how to unlock Gen AI's unprecedented creative 
+potential: https://www.frog.co/contact78
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKAbout the 
+Capgemini Research Institute 
+The Capgemini Research Institute is Capgemini’s in-house think 
+tank on all things digital. The Institute publishes research on the 
+impact of digital technologies on large traditional businesses. 
+The team draws on the worldwide network of Capgemini 
+experts and works closely with academic and technology 
+partners. The Institute has dedicated research centers in India, 
+Singapore, the UK, and the US. It was recently ranked number 
+one in the world by independent analysts for the quality of its 
+research. 
+Visit us at www.capgemini.com/researchinstitute
+79
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKItaly
+Andreas Markdalen  
+Global Chief Creative Officer, frog
+andreas.markdalen@frog.co
+Spain
+Raul Bartolome Ruiz  
+Head of Generative AI and Insights and 
+Data, Capgemini
+raul.bartolome-ruiz@capgemini.comThe Netherlands
+Eric de Wit  
+Generative AI for CX Lead, Capgemini
+eric.de.wit@capgemini.comIndia  
+Ramakrishna Srinivasa  
+Generative AI for CX Lead, Capgemini 
+ramakrishna.srinivasa@capgemini.com
+Syed Husain Imam  
+Head of frog India
+syed-husain.imam@frog.coThe Nordics  
+Wei Wei Feng  
+Gen AI Expert, Insights & Data, Capgemini
+weiwei.feng@capgemini.com
+Peter Alsterberg  
+Head of frog Sweden, Denmark & Finland
+peter.alsterberg@frog.co
+The United Kingdom  
+Rebecca Rusby  
+Generative AI for CX Lead, Capgemini
+rebecca.rusby@capgemini.com
+Bhavesh Unadkat   
+Vice President, Head of Marketing Services, frog
+bhavesh.unadkat@frog.co The United States  
+Shawn Goodin  
+Generative AI for CX Lead, Capgemini 
+shawn.goodin@capgemini.com
+Jessica Leitch   
+Vice President frog, North America
+jessica.leitch@frog.co Local contacts
+Brazil
+Caue Moresi  
+Insights & Data Practice Leader, Capgemini
+caue.moresi@capgemini.comFrance
+Ramzi Haddad  
+Generative AI for CX Lead, Capgemini
+ramzi.haddad@capgemini.com
+Philippe Thobie  
+Executive Vice President frog, France
+philippe.thobie@frog.coGermany   
+Sargon Korkis  
+Generative AI for CX Lead, Capgemini 
+sargon.korkis@capgemini.com
+Christina Schehl  
+Head of frog, Germany
+christina.schehl@frog.coGlobal contacts
+Alex Smith-Bingham  
+Customer Experience Group Offer Lead, 
+Capgemini
+alex.smith-bingham@capgemini.com
+Gagandeep Gadri  
+Managing Director, frog
+gagandeep.gadri@frog.co
+Naresh Khanduri  
+Global Generative AI for CX Lead, 
+Capgemini 
+naresh.khanduri@capgemini.com
+Mark Oost  
+Global Offer Leader AI, Analytics and Data 
+Science, Insights and Data, Capgemini
+mark.oost@capgemini.comFor more information, please contact:80
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKHarnessing the value of generative AI: 
+Top use cases across industries
+The power of open minds: 
+How open innovation offers benefits for 
+all
+Intelligent products and services: Unlock 
+the opportunity of a connected business
+Why Consumers love generative AI  
+ A world in balance: Heightened 
+sustainability awareness yet lagging 
+actions
+The art of software: The new route to 
+value creation across industries 
+Digital twins: Adding intelligence to  
+the real world
+Networks on cloud: A clear advantageMore Capgemini 
+Research Institute Publications81
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKFirst Name
+Last Name
+EmailFields marked with an    are required  Capgemini Research Institute
+By submitting this form, I understand that my data will be processed by Capgemini as indicated above and 
+described in the Terms of use. 
+SubmitReceive copies of our reports by scanning 
+the QR code or visiting
+https://www.capgemini.com/insights/research-institute/subscribe/Subscribe to latest research 
+from The Capgemini Research Institute82
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKNOTES83
+Capgemini Research Institute 2023Generative AI and the evolving role of marketing: A CMO's PLAYBOOKGenerative AI and the evolving role of marketing: A CMO's PLAYBOOK
+Copyright © 2023 Capgemini. All rights reserved.About Capgemini
+Capgemini is a global leader in partnering with companies to 
+transform and manage their business by harnessing the power 
+of technology. The Group is guided every day by its purpose of 
+unleashing human energy through technology for an inclusive and 
+sustainable future. It is a responsible and diverse organization of 
+nearly 350,000 team members in more than 50 countries. With its 
+strong 55-year heritage and deep industry expertise, Capgemini is 
+trusted by its clients to address the entire breadth of their business 
+needs, from strategy and design to operations, fueled by the 
+fast evolving and innovative world of cloud, data, AI, connectivity, 
+software, digital engineering, and platforms. The Group reported in 
+2022 global revenues of €22 billion.
+Get the Future You Want |  www.capgemini.com

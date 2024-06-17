@@ -1,0 +1,111 @@
+Como configurar o remarketing 
+Siga nosso guia sobre como configurar uma campanha de remarketing para que tudo funcione bem. 
+Codifique todo o seu site para computador e para dispositivo móvel 
+Parece óbvio? Você ficaria surpreso se soubesse quantas empresas não concluem esta etapa. 
+As tags capturam os insights do cliente, necessários para listas de remarketing bem-sucedidas. 
+Veja o exemplo de tipos de tags abaixo: 
+Como configurar o remarketing 1/2 
+ 
+Tag Principais benefícios 
+Tag do 
+Google AdWords Se você deseja ativar somente o remarketing, a tag do Google AdWords é recomendada. 
+ 
+Se você já utiliza listas de remarketing para anúncios da Rede de Pesquisa  (RLSA, na sigla em inglês), 
+continue a usar a mesma tag. Crie listas de remarketing com base em URLs de página da Web ou em parâmetros 
+personalizados. 
+Tag do Google 
+Analytics (GA) Se você deseja usar dados analíticos detalhados do site para o remarketing, a tag do GA é recomendada. 
+O GA também fornece recursos completos de dados analíticos de website para analisar e otimizar 
+o desempenho. 
+ 
+Se você já utiliza o GA, poderá ativar o remarketing facilmente  a partir da UI sem atualizações de tag. 
+Nas configurações avançadas, defina Ativar recursos de anunciante  como ATIVADO . Crie listas de remarketing 
+com base em URLs de página da Web, parâmetros personalizados ou no comportamento do website de seus 
+clientes, como tempo no site ou número de páginas acessadas. 
+Gerenciador de tags 
+do Google (GTM) Se você deseja inserir uma tag totalmente nova em seu website, o Gerenciador de tags do Google (GTM, 
+na sigla em inglês) é recomendado. É uma tag única para todo o site que usa regras para disparar tags do Google 
+e de terceiros. Insira a tag de contêiner em todas as páginas de seu site. 
+ 
+Para implementar o Gerenciador de tags do Google , copie o snippet de código fornecido na interface do 
+Gerenciador de tags, substituindo GTM-XXXX  pelo ID de seu contêiner. Cole este snippet na página de 
+modelo de seu website para que ele apareça imediatamente depois da tag <body> de abertura. Crie listas de remarketing separadas para usuários da página inicial, usuários da página 
+de categoria, usuários da página de produto ou oferta, usuários que abandonaram carrinhos 
+e usuários antigos que já converteram. Tudo o que contribuir para simplificar. 
+Você pode personalizar seus lances e anúncios de acordo com a forma como seus visitantes 
+mais valiosos interagem. Veja o exemplo abaixo: Segmente seus clientes em potencial 
+Usuários  
+da página 
+inicial Usuários 
+da página 
+de categoria Usuários 
+da página 
+de produto 
+ou oferta Usuários que 
+abandonaram 
+carrinhos Usuários 
+antigos 
+que já 
+converteram 
+ 
+Mensagem: 
+"Descubra 
+ótimas ofertas" Mensagem: 
+"Confira 
+os lançamentos" Mensagem: 
+"Só hoje: 
+30% de desconto" Mensagem: 
+"Frete gratuito" Mensagem: 
+"Talvez você goste 
+de outros produtos 
+como este" 
+Estratégia recomendada de segmentação de lista 5. Use remarketing dinâmico para mostrar o anúncio mais personalizado possível. Leia mais 
+Motivo:  é mais provável que os consumidores que veem anúncios com a oferta real que visualizaram 
+(ou ofertas semelhantes) voltem a seu site para concluir a compra. 
+Dê o próximo passo  
+6. Mude do lance de CPA desejado para o retorno do investimento em publicidade (ROAS, na sigla em 
+inglês) desejado. Saiba mais sobre como definir lances e formatos de anúncio bem-sucedidos. 
+Motivo:  mudar do CPA desejado para o ROAS desejado geralmente resulta no valor total máximo no 
+nível desejado. 
+Remova restrições para ter melhor desempenho 
+7.  Remova exclusões de idioma, locais e canais. Leia mais 
+Motivo:  quando as pessoas já visitaram seu site, é mais provável que elas façam uma compra 
+independentemente do contexto. 
+8. Automatize seus limites de frequência. Leia mais 
+Motivo:  os algoritmos do Google otimizarão os limites de frequência para você com base 
+na probabilidade de cada usuário clicar e converter a partir de seu anúncio. 
+Procure novos clientes qualificados 
+9. Use Públicos-alvo semelhantes ou segmentação automática para expandir suas listas de 
+remarketing e alcançar novos clientes. Leia mais 
+Motivo:  esses recursos podem aumentar o volume de remarketing e conquistar novos clientes 
+pelo preço certo. 
+10. Use Públicos-alvo no mercado para conquistar clientes no meio do funil de compras. Leia mais 
+Motivo:  você pode direcionar tráfego mais qualificado para seu site quando alcançar pessoas que 
+estão pesquisando ativamente ou pretendem comprar o que você oferece. Saiba mais sobre como 
+configurar o remarketing. 
+Como configurar o remarketing 2/2 Combine o remarketing com o lance  de CPA desejado 
+O lance  de CPA desejado oferece uma maneira mais inteligente, fácil e eficaz para comprar na 
+Rede de Display. Ele ajuda você a inserir seus anúncios onde há mais conversões.  
+Use todos os tipos de anúncios gráficos, inclusive responsivos, para dispositivos móveis, 
+de imagem e HTML5 
+Os anúncios funcionam melhor quando são personalizados de acordo com o cliente que você 
+deseja alcançar. Use todos os tipos de tamanhos e formatos de anúncio, e você terá mais chances 
+de aparecer em mais lugares na hora certa. 
+Práticas recomendadas de remarketing  
+Como configurar corretamente 
+1. Codifique todo o seu site para computador e para dispositivo móvel. Leia mais 
+Motivo:  as tags capturam os insights do cliente, necessários para listas de remarketing 
+bem-sucedidas. 
+Segmente seus clientes em potencial 
+2. Crie listas de remarketing separadas para usuários da página inicial, usuários da página 
+de categoria, usuários da página de produto ou oferta, usuários que abandonaram carrinhos 
+e usuários antigos que já converteram. Leia mais 
+Motivo:  você pode personalizar seus lances e anúncios de acordo com a forma como seus 
+visitantes mais valiosos interagem. 
+Defina lances e formatos de anúncio bem-sucedidos 
+3. Combine o remarketing com o lance de CPA desejado. Leia mais 
+Motivo: lances dinâmicos geralmente trazem resultados melhores e economizam tempo 
+que pode ser gasto em outras áreas vitais. 
+4. Use todos os tamanhos e formatos de anúncios gráficos, inclusive responsivos, para dispositivos 
+móveis, de imagem e HTML5. Leia mais 
+Motivo:  isso ajuda a alcançar seu público-alvo no momento exato. 

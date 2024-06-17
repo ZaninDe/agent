@@ -1,0 +1,26 @@
+Answers: DOWN: 1 Coupon code 2 Fulﬁllment 3 Stock keeping unit 4 Registration 6 Average order value 7 Merchant account 9 Return policy 
+10 Privacy policy 11 Drop ship 13 Inventory 14 Checkout ACROSS:3 Shopping cart 5 Product feed 8 Ecommerce platform 12 Tax 15 
+Merchandis -ing 16 SSL certiﬁcate 17 Category 18 Anonymous checkout The language of
+Ecommerce
+Are you an ecommerce expert? Complete the crossword to see how many terms you know
+DOWN
+1 A special code used at checkout to apply a discount (6,4)
+2 The process of completing and delivering a customer order (11) 3 A unique identiﬁer given to individual products (5,7,4)4 The process of creating an account with an online retailer (12)6 Metric showing the average amount spent per customer order (7,5,5)7 An account a retailer holds with an institution e.g. a bank or payment gateway provider (8,7)9 A statement that explains when and how a customer may send products back (6,6) 10 A statement that explains what personal data a retailer 
+collects and how they use it (7,6) 11 A method of fulﬁlling orders where items are shipped 
+directly from the supplier (4,4)13 A complete list of a seller’s current stock (9)
+14 The process of completing a transaction (8)
+ACROSS
+3 Site functionality that allows visitors to select multiple products for eventual purchase (8,4)5 A ﬁle that contains a current list of product inventory and product details (7,4)8 A program or application that lets businesses sell online (9,8)12 A fee that must be collected as part of an order, per local 
+laws and policies (3)15 The displaying of products to entice a customer (13)
+16 A ﬁle that encrypts sensitive information and lets consumers know a site is secure (3,11)17 A group of products on an ecommerce site (8)
+18 A process where the customer makes a purchase without 
+creating an account (9,8) 
+Didn’t know some of these terms? Check out the full ecommerce jargon buster  »7
+12
+189853
+6
+10
+11
+161541 2
+13 14
+17

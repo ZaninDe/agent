@@ -1,0 +1,401 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Implementing a Marketing Automation Solution  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+This report provides practical advice for designing a Marketing 
+Automation strategy, aligning Sales & Marketing processes, and 
+implementing a Marketing Automat ion solution.  
+ 
+Read this brief 8 -page report to learn:  
+ 
+ Top Marketing Challenges in 2009  
+ 
+ Definition of Marketing Automation  
+ 
+ Marketing Automation Solution Benefits  
+ 
+ Marketing Automation System Components  
+ 
+ Implementing a Marketing Automation Solution  
+ 
+ 
+Review this report to understand how to implement a Marketing 
+Automation infrastructure that w ill provide a consistent supply of 
+qualified leads to your sales organization.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+ 
+Table of Contents                                Page  
+ 
+ 
+ 
+Top Marketing Challenges in 2009      3  
+ 
+Definition of Marketing Automation      3  
+ 
+Marketing Automation Solution Benefits     4  
+ 
+Marketing Automation System Components     5  
+ 
+Implementing a Marketing Automation Solution    7  
+ 
+ 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+Top Marketing Challenges  
+Definition of Marketing Automation   
+  
+ 
+ 
+ 
+ 
+According to the CMO Council’s Marketing Outlook 2008  study that 
+polled over 820 senior marketing professionals, some of the top 
+challenges for marketing leaders in 2008 include:  
+ 
+1. Quantifying the Value  of Marketing : measuring the impact of 
+marketing programs and investments continues to be the top 
+challenge for marketers.   
+ 
+2. Increasing Credibility of the Marketing Function : while 79% 
+of respondents are increasing the perceived value of marketing, 
+19% are  losing credibility.   
+ 
+3. Improving Marketing Department Efficiency : many 
+organizations will be automating key marketing processes and 
+implementing marketing ROI systems.  
+ 
+4. Generating More Qualified Leads : emphasis on leveraging 
+analytics to score lead quality, and lead nurturing strategies to 
+incubate & develop prospects.  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Marketing automation solutions incorporate business strategies, 
+marketing processes, and automation technologies to generate, qualify, 
+and develop leads along the entire sales cycle.  
+  
+Key Marketing Automation concepts include: Lead Acquisition, Lead 
+Scoring, Lead Nurturing, and Lead Assignment.  
+   
+Following are definitions for each concept:  
+  
+ Lead Acquisition : leads are acquired when pro spects inquire or 
+respond to marketing campaigns such as tradeshows, email 
+marketing, direct mail, cold -calling, search engine marketing, 
+online advertising, etc.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+Marketing Automation Solution Benefits   Lead Scoring : leads are scored for quality based on explicit 
+profile criteria (job title, co mpany size, location, etc) and implicit 
+behaviors (website visits, downloads, event registrations, form 
+submissions, etc).  
+ 
+ Lead Nurturing : leads are incubated until they are ready for 
+follow -up by sales. Typically, nurturing involves a steady flow of 
+comm unications designed to educate the buyer and align 
+purchasing and sales cycles.  
+ 
+ Lead Assignment : once leads reach a specified quality score, 
+they are deemed sales -ready and are assigned to sales 
+representatives for immediate follow -up. 
+  
+In the past, mark eters were using disparate systems for email 
+marketing, website analytics, direct mail, online advertising, etc, making 
+it extremely difficult to accurately track the results of integrated 
+marketing efforts.  
+  
+New advances in Marketing Automation technology are providing mid -
+sized enterprises with systems that can automate manual marketing 
+processes and drive efficiency.  
+  
+Most Marketing Automation solutions can be integrated directly with 
+CRM systems to track leads from initial inquiry to sale, pr oviding a 
+closed loop reporting mechanism for marketing activities, enabling 
+campaign ROI measurement.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+Implementing an integrated Marketing Automation infrastructure 
+composed of skilled people, automated processes, and integrated 
+technology provides numerous benefits, including:  
+  
+ Alignment of Sales & Marketing : alignment occurs when sales 
+and marketing can agree on the definition of a qualified lead; 
+systems are integrated to provide visibility into activ ities and 
+results; and the loop is closed between lead source and revenue 
+generated.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+Marketing Automation System Components   Increased Win Rates : leads that are scored and nurtured 
+before being handed off to sales close at higher win rates as 
+purchasing & sales cycles are more aligned.  
+ 
+ Reduced  Cost per Lead : when key marketing processes such 
+as lead scoring, lead nurturing, and lead assignment are 
+automated, less resources are required to manage new 
+opportunities. Additionally, the use of a web/email -based 
+approach can drastically reduce acquis ition costs for new 
+prospects and opportunities.  
+ 
+ Improved Accountability & Credibility : marketing leaders can 
+provide accountability for their spending once they are able to 
+quantify the impact of their investments. When deployed 
+properly, Marketing Autom ation solutions increase credibility by 
+providing a system of record that tracks and measures marketing 
+activities and associated business results.  
+ 
+ Better Allocation of Resources : having detailed analytics on 
+prospect behaviors and campaign ROI provides m arketers with 
+the insight needed to optimize spending on the most profitable 
+marketing programs.  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+At a high level, most marketing automation systems provide similar 
+functionality: campaign measurement & reporting; marketing 
+automation & lead management; individual web analytics & search 
+engine marketing; direct marketing & database management; lead 
+conversion & landing pages/forms; CRM/MS Outlook Integration.  
+  
+If you are interested in marketing automatio n systems, consider 
+researching the following vendors: Eloqua , Manticore , Marketo , 
+Pardot , LoopFuse , and eTrigue . 
+  
+For more information on key vendors, review Demand Metric’s 
+Marketing Automation Vendors Matrix . 
+  
+  
+ 
+ 
+   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+Marketing Automation System Components & Functionality:  
+  
+ Marketing Automation & Lead Management : leads can be 
+automatically scored based on profile criteria and behaviors; 
+leads can be added to nurturing campaigns to align purchasing & 
+sales cycles; prospects can be routed to the appropriate sales 
+representative based on assignment rules; sales users can be 
+notified of prospect behavior such as website visits or document 
+downloads; auto -responder emails are sent when a prospect 
+interacts with the website (completes a form, etc); automation 
+rules can be configured to add/delete prospects from programs 
+based on their activities.  
+ 
+ Web Analytics & Search Engine Marketing : individual 
+website v isitor activity can be tracked and provided to sales 
+users; paid search campaigns and online advertisement 
+programs can be integrated to track original lead source; website 
+search queries can be tracked and tied to prospects; 
+natural/organic search traffic  can be tracked and keywords used 
+to find your website are identified; non -registered companies can 
+be identified based on their corporate IP address.  
+ 
+ Direct Marketing & Database Management : contact lists can 
+be imported, stored, and de -duplicated; email marketing 
+campaigns can be executed with tracked URLs to determine click -
+through rates; prospects from all channels (events, cold -calling, 
+direct mail, etc) can be tracked by original lead source; variables 
+such as “first name” can be dynamically inserted into email/direct 
+mail collateral; bi -directional CRM system integration.  
+ 
+ Lead Conversion, Landing Pages/Forms, & PURLs : web 
+forms can be created by marketing without I/T support; unique 
+URLs can be used to track leads from advertising, direct mail, or 
+other offline campaigns; personalized URLs (PURLs) or landing 
+pages can be created to provide more customized interactions 
+with customers; data can be captured from web forms that were 
+not completed or submitted; forms can block invalid/free email 
+addresses (hotmail, yahoo, gmail, etc) to ensure leads are 
+qualified; form fields can be customized and set up to capture 
+additional information during subsequent web visits.  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+Implementing a Marketing Automation Solution   
+ 
+ 
+ 
+ 
+Developing an integrated Marketing automation strategy that is highly 
+automated and measures return on investment is not reserved for 
+Fortune 500 marketing organizations. In fact, there are many affordable 
+Marketing automation solutions that can be integrated and implemented 
+very rapidly.  
+  
+If you are charged with generating measurable demand, follow these 
+best practices to optimize your processes and leverage advances in 
+Marketing Automation technology:  
+  
+ 
+1. Learn Best Practices : attend webcasts such as Optimizing 
+Lead Generation  or High Performance Demand Creation  
+with industry thought -leaders. Alternatively, read b log postings 
+from innovative marketing leaders in the Marketing Automation 
+industry: Best Practices in Demand Generation , Lead 
+Management , and Innovative Marketer .  
+ 
+2. Understand Strengths & Weaknesses : complete our 
+Marketing Automation Maturity Assessment  to see how your 
+current processes & systems compare to best practices and other 
+mid-sized marketing organizations  
+ 
+3. Develop a Marketing automation Strategy : use our Lead 
+Generation Scorecard  to set your strategic objectives, 
+initiatives, measures, and targets.  
+ 
+4. Agree on “Qualified Lead” Definition : use our Lead Scoring 
+Index  and Lead Definition Tool  to build alignment between 
+sales and marketing on the de finition of a “qualified lead.”  
+ 
+5. Document Sales & Marketing Processes : define the stages in 
+your sales pipeline and clearly document key marketing 
+processes & campaigns for lead acquisition, lead nurturing, and 
+lead assignment. For assistance, use our Marketing 
+Automation Consulting RFP  to hire a consultant to facilitate 
+this initiative.  
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 8 
+6. Benchmark Key Metrics : if you don’t have historical data, 
+establish benchmarks for the following metrics:  
+ 
+ Cost Per Lead  = budget / total # leads  
+ Win Rate %  = wins / closed opportunities  
+ Acquisition Cost  = cost per lead / win rate  
+ Lead Conversion %  = # opportunities / leads  
+ Lead Source %  = # leads / # total leads  
+ Return on Marketing  = pipeline value / spend  
+ 
+7. Research Marketing A utomation Systems : review key 
+marketing automation vendors with our Marketing Automation 
+Vendors Matrix . 
+ 
+8. Select a Marketing A utomation Vendor : use our Marketing 
+Automation System RFP  to document your key busines s & 
+system requirements. Next, use our Marketing Automation 
+Vendor Evaluation Matrix  to compare solutions based on your 
+key requirements.  
+ 
+9. Implement Marketing A utomation System : import contact 
+lists; add tracking code to your corporate website; customize 
+landing pages & forms for lead conversion; create marketing 
+automation rules for sales alerts, lead scoring, lead nurturing, 
+and lead assign ment; integrate with MS Outlook, CRM system, 
+and online advertising platforms; design HTML email templates 
+for campaigns and “drip” programs.  
+ 
+10. Post Value -Added Content on your Website : add content to 
+your website to provide an incentive for prospects to re gister 
+(complete form) and become leads. Some examples of great 
+value -added content include: Whitepapers & Data Sheets, Case 
+Studies , Business Cases  & ROI Calculators, and Webcasts & 
+Podcasts.  
+ 
+11. Execute Integrated Multi -Channel Campaigns : leverage your 
+websites new tracking capability to measure prospect behavior 
+and buying signals. Ad d unique URLs to track ads & direct mail, 
+or place tracked URLs in your email marketing campaigns to 
+monitor response rates and individual website visitor activity.  
+ 
+12. Monitor Results and Refine Processes : evaluate your 
+programs to tweak lead acquisition, lead scoring, lead nurturing, 
+and lead assignment processes. Report on improvements to key 
+metrics and invest in programs that are providing a quantifiable 
+return on investment.  

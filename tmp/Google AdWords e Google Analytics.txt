@@ -1,0 +1,84 @@
+Google AdWords e Google Analytics 
+Façamos as devidas apresentações. Google AdWords, este é o Google Analytics. Google Analytics, este é o Google 
+AdWords. Ambos oferecem insights sobre o desempenho de suas campanhas. Esses insights são aprimorados 
+quando você usa o Google Analytics (GA) e o Google AdWords juntos. Vincule essas contas para melhorar seus 
+lances, suas mensagens e seu desempenho. Agora que todos foram apresentados,  vamos começar a trabalhar. 
+Principais avaliações no Google Analytics 
+Quando as contas são vinculadas, os dados das Campanhas do Google AdWords são 
+importados automaticamente para a seção "Publicidade" do Google Analytics. Isso 
+permite a você ver como os usuários que clicam nos anúncios de seu cliente se 
+comportam no website dele. 
+Com base nesse comportamento, é possível refinar ainda mais as campanhas para 
+alcançar melhores resultados. Veja abaixo: 
+Novas visitas:  essa é a porcentagem de novas visitas. Ela representa o quanto do tráfego 
+do site pode ser atribuído às Campanhas do Google AdWords. 
+Páginas por visita e duração média da visita:  essas métricas mostram o nível de 
+engajamento no website. Uma pequena quantidade de páginas por visita combinada com 
+um tempo curto no site pode indicar que o usuário não encontrou as informações que ele 
+buscava ou não entendeu como navegar pelo site. 
+Taxa de rejeição:  uma taxa de rejeição alta para Campanhas do Google AdWords pode 
+significar que os usuários saem do site de seu cliente imediatamente, sem visitar outras 
+páginas. Isso sugere que a página de destino talvez não seja relevante para o anúncio. 
+Avaliações de comércio eletrônico 
+Para lojas on-line, o Google Analytics mostra dados adicionais obtidos de uma venda ou dos 
+números de comércio eletrônico. É possível vincular o Acompanhamento de conversões ao ativar o 
+compartilhamento de dados com outros produtos. Além disso, a codificação automática deve ser 
+ativada no Google AdWords ou em um carrinho de compras, já que as pessoas podem não concluir 
+essa ação. 
+Google AdWords e Google Analytics 1/2 Dica importante:  você pode ver essas avaliações por campanha, grupo de anúncios ou palavras-chave. Refine seus 
+relatórios para ter insights que tornarão as campanhas de seu cliente mais eficazes. Grupos 
+de anúncios Visitas Páginas/
+visita Duração média 
+da visita Novas visitas (em %) Taxa 
+de rejeição 
+1. Carro de luxo 147 3,50 00:01:39 88,44% 43,54% 
+2. Chofer 88 2,94 00:01:39 93,18% 62,50% 
+3. Limusine 55 4,35 00:02:08 98,18% 34,55% 
+Insira as métricas do Google Analytics no Google AdWords para ter 
+insights mais aprofundados 
+1. Importe conclusões de meta e transações de comércio eletrônico  para analisar 
+melhor as metas personalizadas do Analytics. 
+2. Crie listas personalizadas de remarketing  para ser visto pelos usuários que 
+expressaram interesse no que seu cliente oferece. 
+3. Use Listas inteligentes  para agrupar usuários do site que têm mais chances 
+de converter. 
+4. Entenda quais Campanhas do Google AdWords, anúncios ou palavras-chave 
+impulsionam o engajamento dentro do site.  
+5. Monitore "% de novas sessões"  para verificar quais palavras-chave atraem novos 
+usuários e saber onde concentrar seus esforços. 
+Saiba mais sobre como inserir as métricas do Google Analytics no Google AdWords para ter 
+insights mais aprofundados. 
+Analisar o desempenho do Google AdWords no Google Analytics 
+6. Codifique os anúncios automaticamente  para gerar relatórios mais detalhados 
+do GA. 
+7. Segmente o comportamento  para entender seu público-alvo do Google AdWords. 
+8. Inclua as dimensões secundárias do GA em seus relatórios específicos do Google 
+AdWords  para verificar quais dispositivos, palavras-chave, canais e outros atraem 
+usuários de alta qualidade. 
+9. Use as Dimensões secundárias do Google AdWords nos relatórios do GA  para 
+melhorar o desempenho de sua conta. 
+10. Use o comparativo de mercado  para comparar o site de seu cliente com os 
+da concorrência. 
+Saiba mais sobre como analisar o desempenho do Google AdWords no Google Analytics. 
+Saiba mais sobre como vincular o Google AdWords e o Google Analytics. 
+Google AdWords e Google Analytics 2/2 As guias Comércio eletrônico  e Cliques  mostram uma perspectiva diferente das estatísticas 
+da campanha. Elas também oferecem mais oportunidades para refinar as campanhas de seu 
+cliente para ter o melhor retorno. 
+Grupos 
+de anúncios Visitas Impressões Custo Taxa 
+de cliques CPC ROI Margem 
+1. Produto A 1.541 39.544 R$ 773,48 3,76% R$ 0,52 436,75% 81,37% 
+2. Produto B 295 4.647 R$ 103,98 6,31% R$ 0,35 475,69% 82,63% 
+3. Produto C 199 1.454 R$ 66,75 13,34% R$ 0,34 211,31% 67,88% 
+Análise das origens de tráfego 
+O gráfico "Origens de tráfego” mostra um detalhamento do tráfego do site com base na origem dele. 
+Tanto os dados de tráfego quanto os de comércio eletrônico podem ser detalhados por origem. Use esses 
+relatórios para identificar as origens mais lucrativas. 
+Google/custo por clique (CPC):  tráfego das Campanhas do Google AdWords. 
+Google/orgânica:  tráfego de resultados de pesquisa orgânica no Google. 
+Direto/nenhum:  tráfego de um usuário que digita o endereço da Web diretamente na barra de endereços. 
+Origem/meio         Visitas Receita Transações Taxa de conversão 
+de comércio eletrônico 
+Google/CPC 4.443 R$ 31.536,84 214 4,82%
+Google/orgânica 960 R$ 11.420,57 68 7,08%
+(direto)/(nenhum) 950 R$ 10.995,71 79 8,32%

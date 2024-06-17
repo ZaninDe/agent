@@ -1,0 +1,166 @@
+Leveraging Impression Tracking in Google Analytics to 
+Understand the Full Value of Display Campaigns 
+Why  activate? 
+Every customer journey is different — a customer may see 
+your display or video ads, receive an email, and then click 
+through to your site from a search ad or organic search 
+listing. 
+Often, viewing display ads can attract your clients’ interest 
+in your product and brand even if no click occurs . 
+Traditionally, measurement technology separated out 
+impressions from clicks, but this separation missed out on 
+valuable data on the impact of display advertising . 
+Thanks to our integration with the Google Display Network 
+(GDN), Google Analytics can now show display 
+impressions in the path to conversion and give a more 
+complete view of the customer journey. 
+Read the AdWords Blogpost about GDN 
+Impression Reporting in GA - link goo.gl/CU54sA 
+of customer journeys 
+involve 
++1 channel of 
+interaction 
+38% 
+Turning complex online user behavior into marketing insights: 
+Source: Google Analytics - Conversions - Multi-Channel Funnels - Overview 
+How to activate? 
+Ask your Google contact to whitelist your Analytics account for the Beta with UA-code. Once you're whitelisted, activate: 
+1Enable Advertiser Features [ link goo.gl/XKvW1e ]
+Google Analytics Admin > Property > Tracking Info > Data 
+Collection > Advertising Reporting Features 
+Navigate to ‘AdWords linking’ in Admin, click the 
+relevant link group and enable 'Additional Data' 
+Property / AdWords Linking / Link Group Name / Additional Data 2
+Leveraging Impression Tracking in Google Analytics to 
+Understand the Full Value of Display Campaigns 
+INSIGHTS - Visualize the presence of Display Campaigns 
+in Conversion Paths 
+Navigate to Conversions > Multi-Channel Funnels > Top Conversion Paths 
+See the total number 
+of  impression- 
+assisted conversions 
+& revenue 
+1
+Display 
+Click 
+Display Impression/ 
+Rich Media Key
+Display 
+Impression 
+- Impression of a display  image ads  
+(does not include Smart Display 
+Campaigns) 
+- Impression of (1) responsive 
+display ad , or 
+(2) Rich Media ad  (Lightbox ad) 
+Use advanced filters to: 
+ 2
+2.1 Total volume of conversions / revenue inﬂuenced  by display clicks & 
+impressions 
+2.2 Total volume of conversions / revenue that was initiated by display 
+clicks & impressions (aka, display-created demand ) 
+2.3 Visualize how speciﬁc display campaigns  inﬂuenced conversions 
+from other channels 
+(direct) / (none) 
+3_Intent Audiences 
+1_Smart Display 
+(direct) / (none) 
+2.1Conversion paths containing a Display interaction 
+2.3Campaign / Channel view of conversion paths 
+3.1. Remove credit from Direct. Choose MCF Channel 
+Grouping, select Direct, apply credit within “0” to “0.5” 
+range 
+Why? Direct conversions do not happen on their own : other 
+marketing activities create demand & awareness of your business. 
+However, if a Direct conversion cannot be attributed back to an 
+online marketing activity, it will get full credit. Leveraging Impression Tracking in Google Analytics to 
+Understand the Full Value of Display Campaigns 
+Congratulations!  Tracking impressions of display campaigns is now available for you in Google Analytics. Now it's time to 
+set up reporting that accurately reﬂect the role your advertising channels played in your business growth. 
+3Set up a Full Value Custom Attribution Model 
+Conversions > Attribution > Model Comparison Tool > Select model > Create new custom model 
+Important! Once impression tracking is enabled, Attribution models in Model Comparison Tool will include impressions along with clicks .
+Pick Data-Driven model if available. If not: 
+Position Based  if your business is Growth-Oriented  (highest credit to 
+channels creating demand AND driving ﬁnal conversions) 
+Time Decay  if your business has a Conservative strategy (more credit to 
+interactions closer in time to the ﬁnal conversion) 
+    
+Create a Custom Attribution model [How To goo.gl/WHULQb ]
+As baseline model, pick one in line with your business goals 
+[goo.gl/DR4s4D ]
+A
+Switch ﬁeld "Adjust credit for impressions"  ON to adjust 
+credit for impressions: 
+When GDN Impressions beta is activated, all impressions are included 
+into attribution models at 100% credit along with clicks. We recommend 
+the following adjustments: 
+B
+* 24 hours is the industry standard; adjust as needed 
+* 0% credit to impressions >24 hours ago is a conservative approach; adjust as needed 
+If impressions occurred more than 24* hours ago: 0%* credit compared to a 
+click 
+If impressions occurred less than 24 hours ago:  100% credit compared to a 
+click "Apply custom credit rules" ON to apply viewability 
+standards and exclude Direct channel 
+C
+3.1 
+3.2 
+3.2. Remove impressions that do not align with Google  
+viewability standards .
+a) Add a ﬁlter "Above the Fold", select "No" AND 
+b) Add a ﬁlter "Interaction Type", selection "Impression" 
+c) Apply credit of “0” 
+This is a suggested setup of the custom model. Please adjust the credit for impressions as well as choose an attribution 
+model as best suited to your business goals. Leveraging Impression Tracking in Google Analytics to 
+Understand the Full Value of Display Campaigns 
+INSIGHTS - based on Custom Attribution Model 
+Once the Custom Attribution Model is set up:  
+● Switch baseline model for comparison to Last Non-Direct Click. It's closest 
+to reporting in the Google Ads account. 
+● Switch to the right Dimension for analysis. By default, " Display " as a 
+channel grouping contains all of display advertising. In order to isolate the 
+results of Google Display, switch Primary Dimension to Source / Medium  
+and analyze " google / display " 
+1
+2
+Toggle between metrics: Conversions & CPA , 
+or Conversion Value & ROAS 
+ 3.1
+How to get to the Campaign-level view: 
+- Click on " Display " channel in the list of channels to narrow down analysis to 
+display campaigns. 
+- Change Type from "All" to "AdWords"  - AdWords campaigns will be populated 
+in the table, instead of channel-level view. 
+4
+What actions can I undertake? 
+Can I import results of the Full Value model into 
+Google Ads? 
+No. Currently results of this model can only be 
+viewed in Google Analytics, Model Comparison Tool. 
+Does it mean I cannot leverage these results in 
+bidding in display campaigns? 
+Not quite . Here are a few options you can leverage: 
+a. If you're also tracking conversions with a 
+Google Ads conversion tracking pixel, you 
+will see VTC in the Google Ads account. 
+Consider Bidding to View-Through 
+Conversions  (BETA )
+b. Consider raising the tCPA  (lowering 
+tROAS) in the Google Ads account, in order 
+to boost the volume of conversions 
+c. You can consider reallocating budgets if 
+you see that certain campaigns / channels 
+are driving a signiﬁcantly stronger or poorer 
+results, disproportionate to the amount 
+invested into them 
+(e.g., consider what is the difference between % of 
+conversions / conversion value the campaign is 
+driving vs. % of spend of this campaign) 
+Remember:  Results of Display campaigns are 
+currently reported & optimized in Google Ads under 
+Last-Click, click-only models only (even if model is 
+changed to non-last click for Search). Therefore, the 
+result of mid- & upper-funnel display reported by 
+default is highly conservative and not reﬂective of its 
+true value. 

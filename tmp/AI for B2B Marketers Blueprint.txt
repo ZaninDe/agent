@@ -1,0 +1,471 @@
+AI for B2B Marketers 
+Blueprint
+Sponsored By
+© 2023, Marketing AI Institute, All Rights Reserved.
+Published October 20232  |  AI for B2B Marketers Blueprint3  Why Artificial Intelligence Is a Must for B2B Marketers
+4  What Is AI, Really? 
+ 3 Core Types of AI  5
+7  How to Find AI Use Cases in B2B Marketing 
+8  Top AI Use Cases in B2B Marketing  
+11  Top Companies Using AI for B2B Marketing 
+ Software company runs 240 years of A/B tests in 12 months.   11
+ Conversational AI platform sees 129% conversion lift in less than 90 days.   12
+13  Top AI Tools for B2B Marketing
+ Intellimize  13
+ 6sense  14
+ AiAdvertising  14
+ Amazon Web Services (AWS)  14
+ Drift  14
+ Jasper  14
+ Lately  14
+ MarketMuse  14 
+ Persado  15 
+ Rasa.io  15
+ Writer  15
+ Yext  15
+16  Why B2B Marketing of the Future Depends on AI
+ About Marketing AI Institute  18
+ About Intellimize  18Table of Contents3  |  AI for B2B Marketers Blueprint
+B2B marketers have a lot on their shoulders. They’re tasked with acquiring and nurturing 
+customers over a long and complex buyer journey. 
+There are more stakeholders, more touchpoints, and more data to juggle than ever before — not 
+to mention an ever-growing number of channels and devices. And B2B marketers are expected 
+to do it all while giving buyers a 1:1 consumer experience.  
+In fact, according to Intellimize’s research, 90% of B2B buyers expect a B2C personalized 
+experience when making a business purchase.
+On top of this, they’re under increasing pressure to drive bottom-line growth for their 
+organizations: HubSpot found that B2B marketers’ top priority in 2023 is to increase revenue  
+and sales — replacing increase brand awareness from the previous year. 
+Artificial intelligence can help. And by “help,” we mean: 
+1. Increase productivity. AI software can complete tasks in seconds that might take 
+humans hours to complete. From analyzing data, to debugging code, to building 
+entire campaigns, AI can unlock efficiencies that make the impossible possible. AI 
+can perform manual tasks at scale and free up team members to focus on uniquely 
+strategic and creative elements. 
+2. Decrease costs. Efficiency gains can also streamline marketing costs, which means you 
+can do more, publish more, and deliver more value to your organization at a price that still 
+fits within your marketing budget and drives down customer acquisition costs (CAC). 
+3. Elevate performance. AI can analyze data sets more massive than humans are capable 
+of alone, and is able to test, learn, and pivot at lightning speed. This means performance 
+gains for you and your team.
+While this all sounds great, the truth is that most organizations, business leaders, and marketers are 
+entirely unprepared for the power and potential of AI. 
+The good news is: You don’t need to become an overnight expert in data science or machine 
+learning to understand and benefit from AI. You just need to understand:
+•  What AI is and what it can do.
+•  What AI use cases are available to B2B marketers today, and how to identify relevant use 
+cases for your organization.
+•  Which specific AI tools would most benefit your company.
+We cover all three in this guide. You’ll see real-life examples of companies like yours succeeding with 
+AI, gain the confidence to adopt AI in your marketing strategy, and turn the following pages into real 
+business results.
+Why Artificial Intelligence  
+Is a Must for B2B Marketers
+90%  
+of B2B buyers 
+expect a B2C 
+personalized 
+experience 
+when making 
+a business 
+purchase.4  |  AI for B2B Marketers BlueprintAI has been making waves in the media this past year. Sensationalist headlines about labor-stealing 
+robots have reached a fever pitch, while “AI-powered companies” and “experts” have been popping 
+up left and right. 
+In all of this, it’s become hard for B2B marketers to distinguish the signal from the noise. So let’s take a 
+step back. 
+AI is a collection of technologies that make machines smart. And what does it mean for a machine to 
+be smart? 
+ 
+Traditional software requires strict rules and parameters to complete defined tasks. 
+When we’re talking about AI and smarter machines, we’re typically talking about machine learning: a 
+subset of AI that can recognize patterns, change course dynamically, and determine its own path to 
+achieve a desired outcome. 
+So, is AI going to take our jobs?
+Not exactly. With today’s AI, humans must still remain in the loop in order to: 
+1. Define the goal that the AI is trying to achieve.
+2. Provide the initial training data. New AI models require massive amounts of data to 
+understand the objective and possible solutions. Based on these past examples, machine 
+learning predicts an output that meets the set goal or criteria.
+3. Offer feedback on the AI’s outputs so it can improve over time.
+4. Review the output in the context of your company’s goal, industry, audience, brand 
+standards, etc., and then add in uniquely human perspectives, examples, and creativity. 
+Despite lurid headlines and fear-mongering narratives, humans remain a critical piece in wielding AI 
+strategically and responsibly. 
+Let’s look at a practical example: Your CMO wants to improve the website’s conversion rate to capture 
+more leads in Q2. So the marketing team outlines an experiment to A/B test. 
+You wait for the copywriter to deliver new text for the headline, or for your graphic designer to pull 
+together new images; and for the analytics team to make sure all of the correct tracking is set up. 
+You launch the test — and wait for enough data to be collected. Once it is, you wait some more, for 
+the analytics team to analyze the data and deliver the results. If you’re lucky, the results are conclusive 
+enough to drive a decision.
+Rinse and repeat for every single test of every single element.
+… Now, let’s try this again using AI. 
+Instead, the team uses an AI-powered personalization solution like Intellimize to run unlimited 
+experiments across your site. Intellimize’s AI Copy Suggest instantly crafts headlines, copy, and CTAs. 
+The technology shows unique page variations to website visitors. 
+What Is AI, Really?  5  |  AI for B2B Marketers Blueprint
+Using proprietary AI trained on more than 10 billion web pages, it serves website visitors the version of your page 
+with the highest probability of converting. 
+As a result, you now run data-driven experiments 25x faster than traditional testing methods. You’re testing 
+hypotheses, getting answers, and continuously iterating your web experience to optimize for conversions and sales. 
+It’s not science fiction, and it’s not hype. It’s AI, and it’s here to stay.  
+Just like programmatic advertising revolutionized digital ads, AI is reimagining what’s possible with conversion rate 
+optimization (CRO), website personalization, 1:1 customer experiences, and more. 
+Data is central to sophisticated digital strategies, but historically it’s taken time, and effort, to collect, analyze, and 
+make decisions on that data. AI can unlock new insights, process huge amounts of data, and iterate more rapidly 
+than humans can on their own. 
+With the help of AI, your marketing team can: 
+•  Produce assets at scale, maintaining quality while reaping massive efficiencies.
+•  Make better decisions, using data-driven insights to supercharge your learnings. 
+•  Iterate faster, and dynamically serve up the content and creative with the greatest likelihood of converting. 
+•  Lower customer acquisition cost (CAC) through personalization by serving up the right message at the 
+right time to increase conversions.
+And the best part is, AI learns based on past performance — so you get better results each time. 
+3 Core Types of AI
+To be honest, there’s a lot of AI jargon and applications out there, but B2B marketers only need to pay attention to 
+three core AI applications: Language, Vision, and Prediction.
+Language 
+The ability for machines to analyze, understand, and generate language. This includes the written and spoken word. 
+Common terms that fall under Language AI include: 
+ 
+•  Natural Language Generation (NLG)
+•  Voice Recognition
+•  Natural Language Processing (NLP)
+•  Text Analysis and Summarization
+•  Sentiment Analysis
+An example of Language AI is an AI-powered chatbot. The machine can understand a website visitor’s message, 
+answer questions, respond to requests, transfer the visitor to the correct employee, and even analyze the visitor’s tone.  What Is AI, Really?  6  |  AI for B2B Marketers Blueprint
+Vision 
+The ability for machines to analyze and understand data in images and videos.  
+Common terms that fall under Vision AI include: 
+•  Object Recognition
+•  Emotion Generation
+•  Image Generation
+•  Optical Character Recognition (OCR) 
+•  Video Generation
+Examples of Vision AI are object detection and image classification. A social media team might use these 
+capabilities to monitor User Generated Content (UGC) for its products in action. Vision AI would make it 
+possible to flag UGC (whether still images or videos) that contain one of the company’s products, and identify 
+the product category and model in use.  
+Prediction
+The ability for machines to predict future outcomes based on data. 
+Common terms that fall under Prediction AI include: 
+•  Personalization
+•  Pattern Recognition
+•  Forecasting
+•  Recommendation
+An example of Prediction AI is surfacing personalized content recommendations to a website visitor based on their 
+location or past purchasing behavior. What Is AI, Really?  7  |  AI for B2B Marketers BlueprintTo summarize what we’ve covered so far: AI can help B2B marketers digest and analyze massive 
+datasets, make better decisions based on their data, and generate assets at an unlimited scale and 
+with unprecedented efficiency.
+With so much potential, it can be hard to figure out where and how to utilize AI in your marketing strategy.
+A good starting point to discover possible AI use cases in your organization is to ask: 
+Is it data-driven? Are you already using data to do this task — or could you? Consider any tasks that 
+rely on customer demographics, transaction history, browsing behavior, and other data points. Also 
+consider your most robust and reliable sources of marketing and customer data. 
+Is it repetitive? Is the task clearly defined, highly structured, and repeatable? For example, pulling 
+a monthly report or summarizing blog posts for a weekly newsletter. AI is fantastic at completing 
+mundane or routine tasks — freeing up your team to focus on more strategic, unstructured, and 
+creative work. 
+Is it making a prediction? Looking to improve the performance of an asset, channel, or campaign? 
+Do you have substantial historical data to learn from? AI can crunch the numbers of seemingly 
+massive data sets, so you can uncover patterns, unearth new insights, and better predict which 
+elements of your marketing will perform best. 
+If you can answer “yes” to any one of these questions, you’ve identified an opportunity to boost 
+your organization’s productivity or performance with AI. If you’ve answered “yes” to all three, you’ve 
+just found your first AI pilot project. 
+How to Find AI Use Cases 
+in B2B Marketing8  |  AI for B2B Marketers BlueprintNow let’s look at some AI use cases for B2B marketing teams. 
+Conversion Rate Optimization (CRO) 
+•  Easily test any element of your website (creative, color, copy, size, placement) to learn faster 
+and improve customer experiences.
+•  Set up and more precisely target different audience segments based on firmographic, technographic, 
+first-party, or third-party data to dynamically serve the right content to each audience.
+•  Easily tailor website messaging to deliver personalized customer experiences.
+•  Show different website versions to each visitor to deliver the combination with the highest 
+likelihood of converting. 
+•  Execute sophisticated tests of site landing pages, headlines, images, offers, calls to action 
+and more, and automatically apply the learnings to maximize conversion rates.
+Account-Based Marketing (ABM) 
+•  Predict the accounts that will buy based on your existing customers and help team members 
+prioritize similar leads.
+•  Generate digital assets at scale. Transform one core page into an ABM campaign by 
+customizing it using AI, whether it’s 1:1, 1:few, or 1:many.
+•  Create hyper-personalized assets including content, creative, format, number of touchpoints, 
+etc. Base these campaigns on each company’s unique needs, pain points, internal 
+stakeholders, past interactions with your brand, and more. 
+•  Use predictive AI to determine the best messaging to pair with each organization’s internal 
+decision-making processes, company ethos, business goals, and specific challenges. 
+Analytics and Reporting
+•  Track and report on the full customer lifecycle across different stakeholders, channels, and devices. 
+•  Synthesize massive data sets for patterns and emerging trends.
+•  Measure the full funnel impact to see which marketing channels are the highest converting. 
+Use these learnings to inform future campaigns.
+•  Scan social media for mentions of your company and products, allowing you to identify 
+influencers, analyze brand sentiment, and gather insights about how your products, services, 
+or messaging are being perceived.
+•  Track and measure performance on all marketing activities in dashboards and interactive reports.
+•  Discover insights on top-performing content and campaigns for each industry, product 
+category, or business segment.
+Top AI Use Cases in B2B Marketing9  |  AI for B2B Marketers Blueprint
+Top AI Use Cases in B2B Marketing
+Content and Brand Compliance
+•  Develop and maintain editorial policies, brand standards, style guides, and content governance 
+guidelines, even across large organizations and many different teams.
+•  Personalize product and content recommendations. Better match products to each prospect’s 
+needs, to increase the conversion rate for initial purchases, as well as cross-sell and upsell 
+opportunities to “land and expand” key accounts. 
+•  Serve users individualized content recommendations that increase content consumption and 
+brand engagement.
+•  Surface relevant organizational information to employees while they work, like your products, 
+internal initiatives, or industry jargon.
+•  Dynamically serve the content that will most likely help a prospect take the desired next step 
+toward a purchase, like downloading an implementation guide.
+•  Automatically correct copy so it reflects the brand’s language, grammar, and formatting standards. 
+•  Provide real-time guidance on brand tone, phrasing, and complexity.  
+•  Generate, edit, and remix images, video, and audio to produce professional-grade content in 
+different formats and styles.
+•  Predict which content will perform best and generate ROI.
+•  Test different content formats, headlines, lengths, etc.
+•  Transcribe presentations, podcasts, and webinars.
+Website Experience and Personalization
+•  Create dynamic and personalized website experiences that help users find the product they’re 
+looking for based on their job title, industry, or product lines they’ve purchased from in the past.
+•  Automatically serve personalized website versions to anonymous and first-time visitors.
+•  Better engage visitors with contextual greetings using AI-powered chatbots and personalized 
+website content.
+•  Create contextualized recommendations. Provide recommendations based on specific contextual 
+factors, such as device type, location, time of day, etc.
+•  Make product and content discovery intelligent. AI can analyze product metadata to serve up 
+smarter search results and help customers find what they want faster.
+•  Streamline customer service and support with AI-powered chatbots that can provide relevant 
+answers immediately. Direct site visitors to relevant website resources or route them to the 
+correct department.
+•  Tailor ads, emails, push notifications, and more to individual user behavior, and mirror that 
+experience on your website.
+•  Maximize the value of your data by unlocking information trapped in product descriptions, 
+reviews, or other unstructured text to generate more relevant recommendations.10  |  AI for B2B Marketers Blueprint
+Top AI Use Cases in B2B Marketing
+Trade Show and Event Marketing
+•  Use an AI chatbot on a tablet at your trade show booth to answer frequently asked questions 
+and collect contact information. As a bonus, this frees up team members to have deeper, more 
+personalized conversations with potential customers.
+•  Rapidly create unique assets for each event your team attends. Better yet, create hyper-
+personalized landing page experiences based on a booth visitor’s demographics, company 
+characteristics, purchasing history, and past digital interactions. 
+•  Analyze data collected from each event to uncover patterns and insights your team might not 
+have noticed — such as traffic patterns around the booth, engagement with marketing materials, 
+and conversion rates of different audience segments.
+•  Rely on AI-powered algorithms to run sophisticated lead scoring and predict which booth 
+attendees are most likely to become customers. By identifying high-quality leads, marketing 
+teams can better prioritize their follow-up efforts.
+•  Use predictive AI to forecast potential success based on data collected from previous events. 
+This can help the marketing and sales teams optimize their approach for each event.
+•  Create an interactive and engaging experience for booth visitors with a voice-powered AI 
+assistant. It can interact with booth visitors, answer common questions, provide information 
+about your product or service, and more. 
+•  Leverage AI to automate and personalize the post-event nurturing campaigns. Score and 
+prioritize leads, determine the optimal timing for follow-up, and tailor messaging based on 
+interactions at the trade show.
+Another way to unlock value from AI is to look for vertical-
+specific technology or use cases. As AI technology proliferates, 
+you’re bound to see more and more players in the market, 
+building tools tailored to your specific needs. 
+Software-as-a-Service (SaaS) and Technology
+•  Predict the intent behind search topics, so you can create more 
+content on topics being searched by sales-ready buyers.  
+•  Predict the messaging, creative, and timing most likely to convert 
+a freemium user or upgrade accounts to a higher-paying tier.
+•  Provide content recommendations to increase user adoption 
+and retention.
+•  Streamline podcast or video production to differentiate your 
+SaaS brand in your industry.
+•  Test which text, video, and imagery will lead to the highest 
+number of product signups or app download conversions.
+•  Discover topics and keywords where you have a unique 
+competitive advantage to outrank better-resourced competitors. 
+Manufacturing and Supply Chain
+•  Create images and videos that show how complex systems and 
+parts work.
+•  Proactively recommend content, product, or parts based on 
+personalized replacement or upgrade timelines.
+•  Predict the accounts most likely to churn and flag them for 
+extra nurturing and support.•  Identify cross-sell and upsell opportunities best suited for a 
+particular buyer based on browsing history.
+•  Speed up the RFP process with predictive text and generative 
+writing programs.
+•  Better predict project scope based on historical data.
+•  Draft compelling sales content, sales presentations, and 
+proposals personalized to each prospect’s challenges, goals, 
+and decision-making style.
+•  Allow website visitors to automatically set up meetings with 
+the right person on your team and avoid the back-and-forth of 
+scheduling with field teams.
+Financial Services
+•  Automatically outline, generate, and summarize long-form 
+content assets, like whitepapers and reports, to explain 
+complex financial topics clearly to audiences.
+•  Standardize financial terminology and messaging to be more 
+inclusive of audiences from all backgrounds.
+•  Personalize content and messaging to a user’s specific financial 
+data or goals, making it highly relevant to audiences with 
+different incomes, financial targets, or lifestyles.Industry-Specific Use Cases11  |  AI for B2B Marketers BlueprintThis all sounds great in theory, but what does AI adoption look like today? Here are just a couple 
+stories of B2B organizations like yours that are winning big using AI.
+Software company personalizes the web experience with 590,000 
+versions of its homepage at the same time. 
+Coupa Software Incorporated is a cloud-based Business Spend Management (BSM) platform that 
+unifies processes across supply chain, procurement, and finance functions. Like many B2B companies, a 
+“land and expand” approach to Account-Based Marketing (ABM) is a core pillar of its growth strategy. 
+The Coupa marketing team was looking to elevate its digital strategy through more dynamic website 
+optimization and more sophisticated ABM. With Intellimize, they found both.
+The team identified four target verticals, then isolated these audiences using first- and third-party 
+data, to ensure the right audience saw the right website variation. Then came 28 separate homepage 
+experiences with industry-specific headings, logos, images, and more. 
+With Intellimize, the team could test different copy and image variations within each vertical without 
+writing a single line of code. What came next could only be possible with an AI-driven solution: Coupa 
+tested 590,000 versions of its homepage at the same time, all while ensuring the experiences users 
+saw were relevant to them.
+And it turns out, delivering uniquely personalized experiences works: Coupa has seen a 32% lift in revenue 
+from the homepage, with some of their best experiments realizing over 100% lift. Not to mention, they’ve 
+completed the equivalent of 240 years of A/B testing in just one year working with Intellimize. 
+For Coupa, this is just the beginning. The team has big plans to continue to refine and optimize their 
+ABM programs. Plus, with a site redesign underway, it knows it has the right tech in its corner to test 
+new ideas before pushing them out.
+“ With the Intellimize team, we’ve been able to partner on strategy in 
+the best way to build our audiences, which has really been the key to 
+success with our ABM efforts. We love working with their team and the 
+results we’ve achieved speak for themselves.” 
+ - Ally Vandenherik, Conversion Rate Optimization Manager, Coupa Software Incorporated 
+Top Companies Using  
+AI for B2B Marketing12  |  AI for B2B Marketers Blueprint
+Top Companies Using AI for B2B Marketing
+Conversational AI platform sees 129% conversion lift in less than 90 days.
+Imagine running 30 million A/B tests in 90 days. 
+Drift, an AI-powered conversational platform that integrates chat, email, and video, is no stranger to 
+personalization. The company powers personalized experiences at scale, so when it came to its own 
+website, it lets the data do the talking. 
+Make no mistake: The marketing team had opinions on what their new site design should look like. 
+(The top navigation bar was a particularly hot topic.) So they partnered with Intellimize and turned to 
+testing to settle the debate. 
+The team needed confirmation that the site’s all-new look, feel, and messaging would resonate with 
+their target audience. And of course, it was critical to maximize engagement with website visitors and 
+convert as many as possible into qualified sales leads.
+Drift tested 19 different campaigns, with 121 variations. In particular, they focused on the main 
+navigation bar, headlines on top pages, the sign-up form, and the site’s resource section.  
+In total, the team used Intellimize to test more than 30 million unique page combinations. This large-
+scale testing paid off: They experienced a 129% improvement in website conversions in less than 90 
+days. That translated into more than $2.8 million in incremental revenue.
+With Intellimize, Drift got data-backed answers to its top website personalization questions. It got 
+assurance that its new site would convert. It got results.
+Lesson learned: When you listen to your customers, everyone wins.  
+“ Websites are never done; they’re a living organism. And the information 
+we got made us very confident going into a website launch, which can 
+ordinarily be a very anxiety-ridden process.” 
+ - Justin Keller, VP Revenue Marketing, Drift13  |  AI for B2B Marketers BlueprintIf you’re ready to take the next step, here are 12 AI companies you need to check out today.
+Intellimize
+Drive 1:1 Personalized Experiences at Every Touchpoint
+Intellimize is an AI-driven experience optimization platform that enables companies to deliver uniquely 
+personalized 1:1 website experiences to every unique visitor, maximizing revenue and reducing 
+acquisition costs.
+• Launch A/B tests in minutes and find a single winner with confidence.
+• Target 1:1 audiences and personalize the first page visit for known and anonymous visitors.
+• Dynamically optimize each visitor’s experience to convert faster.
+“ AI has allowed me to push the team and be more creative and more daring. The AI 
+technology is going to decide the right route and help us find what good looks like 
+faster. Let’s find 10 great ideas and let the machine tell us what’s going to work.”
+ - Chris Baszto, Head of Marketing, Industrious
+Intellimize makes it easy for you and your team to work together to accomplish your aggressive 
+optimization goals. Quickly make changes in the Visual Editor or code it on your own. AI Content 
+Studio allows your team to create blog, ad, website, and social copy, and then bake those into your 
+testing program.
+Intellimize is: 
+• Easy. Move, add, or update copy, font, imagery on any page instantly.
+• Insightful. Understand what’s working and get recommendations on suggested copy for new tests.
+• Flexible. Use Intellimize’s WYSIWYG Visual Editor or custom code experiences.
+• Impactful. Measure the full funnel impact of your testing and personalization programs.
+Top AI Tools for B2B Marketing
+Sound good?
+START HERE14  |  AI for B2B Marketers Blueprint
+Top AI Tools for B2B Marketing
+6sense
+6sense Revenue AI™ helps B2B organizations eliminate guesswork to proceed with confidence putting 
+the power of AI, big data, and machine learning behind every member of the revenue team. Its 
+platform uncovers anonymous buyers, understands their behavior, and directs you to engage the ones 
+most likely to buy….with the right message at precisely the right time.
+AiAdvertising
+AiAdvertising is a cloud-based Artificial Intelligence-as-a-Service (AIaaS) advertising platform that 
+allows marketers to easily plan, predict and execute hyper-personalized advertising campaigns with full 
+transparency, while gaining the intelligence they need to prove advertising’s impact on the bottom line. 
+This means powerful, high-impact ads that convert.
+Amazon Web Services (AWS)
+Amazon Personalize empowers you to quickly build and deploy an array of personalized 
+recommendations and intelligently segment users at scale. It uses the same proven machine learning 
+technology that Amazon.com has used for more than 20 years on its own website.
+Amazon Personalize is an API AI service that allows you to host machine learning models for 
+recommendations and user personalization. These models can be tailored to your individual needs, 
+and the solution is designed to easily integrate personalized recommendations into your existing 
+websites, applications, email marketing systems, and more.
+Drift 
+Drift increases lead generation and efficiently grows revenue by connecting with website visitors 
+instantly to share content, answer questions, and book meetings 24/7/365.
+Drift’s Conversation Cloud breaks down the silos across your team so you can deliver personalized 
+experiences that turn into more quality pipeline, revenue, and happy customers.
+Jasper
+Jasper is an AI content generation tool that can write blog posts and generate images in seconds. 
+First, tell Jasper what you want to write about. Then, provide it with a few bullet points to work off. 
+Click a button, and voila! Fresh content written by AI.
+Lately
+Lately is a social selling platform that learns the voice of each individual employee and what will make 
+each of their unique audiences click, like, comment or share. Then it takes all of your content and turns 
+it into targeted, effective social media posts – increasing visibility and leads.
+MarketMuse
+MarketMuse is an AI platform that identifies your top content opportunities. The platform uses AI to 
+tell you which topics to target and how to rank for them, and it even generates content briefs for those 
+suggested topics. Plus, it can show you what other pieces of content on Page 1 of SERPs missed, so 
+you can beat out your competitors.15  |  AI for B2B Marketers Blueprint
+Top AI Tools for B2B Marketing
+Persado
+Persado allows you to automatically personalize each and every message to an individual user’s 
+preferences. Its AI knows what type of language a user prefers, adjusting your content to make it 
+maximally appealing to that individual. And it does it at scale across your entire audience.
+Rasa.io
+With rasa.io, you can send personalized smart newsletters that are tailored to each prospect’s individual 
+content preferences. Using AI, rasa.io evaluates how each user engages with content in your email 
+newsletter. Then it customizes future newsletters to deliver more of the content an individual prefers, 
+making it more likely they’ll open and engage with your email.
+Writer
+Writer is an AI writing platform built for teams. Unlike other GPT-powered applications, Writer is trained 
+on your data — your best-performing blog posts, landing pages, social media posts, as well as your 
+brand style guide.
+Yext
+Yext helps organizations build digital experiences across any channel on its open and composable 
+platform. The Yext Digital Experience Platform collects and organizes content to deliver AI-led 
+experiences for any organization’s customers, employees, or partners. 16  |  AI for B2B Marketers BlueprintAI has the power to simplify the complex buying processes of B2B organizations — giving marketers 
+the ability to deliver 1:1 experiences that their buyers deserve. 
+B2B marketers can use AI to drive growth, personalize and optimize customer experiences, produce 
+content at scale, reduce customer acquisition costs (CAC), and increase marketing ROI.
+In fact, many of your peers already are: Forrester recently found that two-thirds of B2B companies are 
+already using AI in their marketing programs. 
+But it’s still early. You have an opportunity to be the change agent and leader within your organization. 
+To champion responsible, ethical, and strategic AI adoption in your marketing strategy and campaigns. 
+To shape the future of your company — and your career. 
+You’ve already taken a critical first step: by investing in and learning more about how AI can 
+supercharge your marketing strategy.
+Now it’s time to explore, test, and see what’s possible. There’s no time to waste. 
+Why B2B Marketing of  
+the Future Depends on AI17  |  AI for B2B Marketers BlueprintLearn more at intellimize.com18  |  AI for B2B Marketers BlueprintAbout Marketing AI Institute
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders. The Institute owns and operates the 
+Marketing Artificial Intelligence Conference (MAICON), AI for Writers Summit, AI for Agencies Summit  
+and AI for B2B Marketers Summit, hosts The Marketing AI Show podcast, runs the AI Academy for 
+Marketers featuring dozens of on-demand courses, and published Marketing Artificial Intelligence: AI, 
+Marketing, and the Future of Business (Matt Holt Books, 2022). 
+Learn more at www.marketingaiinstitute.com.  
+About Intellimize
+Intellimize is an experience optimization and personalization SaaS platform that uses AI to 
+dynamically personalize website experiences across the entire buyer’s journey. ABM and Demand 
+Generation Marketers gain a competitive edge when using Intellimize to drive efficient pipeline 
+and revenue growth in a cookieless world. Leading marketing teams at Gong, Mercari, Okta, 
+Dermalogica, Drift, Tubby Todd and more trust Intellimize to create, test and learn faster, drive 
+revenue, and be more efficient.
+Learn more at Intellimize.com.

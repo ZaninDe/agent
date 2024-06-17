@@ -1,0 +1,1001 @@
+The AI for Higher 
+Education Blueprint: 
+Preparing Universities  
+for the Future
+Published July 2023
+Sponsored By
+© 2023, Marketing AI Institute, All Rights Reserved.
+2  |  AI for Higher Education Blueprint  3  AI in Higher Education: A Paradigm Shift
+ What Is AI? 5
+ Language, Vision, and Prediction    6
+ The Capabilities and Limitations of AI Today    6
+7   How AI Will Empower Administrators  
+Strategic Planning, Budgeting and Financial Management 7 
+Academic Program Oversight and Policy Making 8
+ AI Detectors: The Next-Gen Plagiarism 8
+ Student Affairs 9
+10  How AI Will Empower College Marketing and Admissions Teams 
+ Enrollment  10
+ Admissions and Administration 10
+ The Role of International Student Counselors and Recruiters 11
+ How Are Real-World Higher Ed Marketers Using AI? 12
+13  How AI Will Empower Educators 
+ AI-Optimized Curriculum 13 
+ AI-Assisted Assessments and Grading  13 
+ AI-Driven Research Assistance 14 
+ How Are Real-World Educators Using AI? 14 
+15  How AI Will Empower Students
+ Student Engagement 15
+ Job Placement 16
+  Engaging and Supporting Alumni 16
+17  Implementing AI in Higher Education
+ AI Challenges and Risks 17
+ AI Ethics, Developing an AI Strategy, and Responsible AI Usage 19
+20  8 AI Considerations for Higher Education
+21  The Future of AI in Higher Education
+ Table of Contents3  |  AI for Higher Education Blueprint  
+“Education as we know it will never be the same.”
+Those words come from Josh Antonuccio, the Director of the School of Media Arts and Studies at 
+Ohio University. 
+We asked him—and more than a dozen other higher education leaders—to share with us how 
+artificial intelligence was impacting their work.
+Their responses inform the AI for Higher Education Blueprint you’re reading now.
+Their perspectives are diverse. And not all agree that AI’s impact will be entirely positive in their 
+classrooms and institutions. But, no matter their views on AI or use of the technology, they all 
+agreed on one thing:
+AI in higher education is here to stay—and every higher education leader must begin learning 
+how to understand and harness the technology.
+This goes way beyond ChatGPT. Powerful AI systems—of which ChatGPT is just one—are 
+already fundamentally changing every aspect of the way we live, work, and learn.
+For many, that’s an uncomfortable, or even terrifying, thought…
+And understandably so. We are inundated with stories about the very real dangers of AI when 
+the technology is thoughtlessly or maliciously applied. In higher education, leaders are losing 
+sleep at night over many issues, many of which don’t have easy answers:
+AI in Higher Education:  
+A Paradigm Shift
+•   Cheating. Will students simply use ChatGPT to undetectably cheat on every assignment? Will we have to 
+throw out our standard lesson plans and assignments in response?
+ 
+•  Factual accuracy. Even when using AI tools responsibly, how do we ensure that we’re getting accurate, useful 
+information from them? How do we prevent these tools from actively generating misinformation?
+ 
+•  Bias. How do we prevent AI outputs from producing and promoting harmful biases that contribute to systemic 
+injustices and inequalities?
+ 
+•  Impact on students. Will students simply substitute AI-generated answers for critical thinking and creativity? 
+Are we doomed to a future generation of students who can’t produce original work?
+ 
+•  Copyright and ownership. Who actually owns the outputs of AI tools? How do we generate AI outputs legally 
+and responsibly?
+ 
+•  Workplace readiness and rate of change. How do we keep up with the blazing fast rate of technological 
+change? How do we adequately prepare students for the workforce?
+ 
+•  The role of higher education. How do universities market their value when information becomes free, courses 
+become irrelevant, and jobs change? Powerful 
+AI systems 
+are already 
+fundamentally 
+changing 
+every aspect 
+of the way we 
+live, work, and 
+learn. 4  |  AI for Higher Education Blueprint  
+It is enough to make any higher education leader’s head spin.
+But don’t worry, you’re not alone…
+Every leader in every organization in every industry is grappling with the same exact 
+issues and questions surrounding AI. And it’s important for every higher education 
+leader to do the same—because the students they serve will graduate into a job market 
+being rapidly impacted by AI. 
+(In fact, research from Goldman Sachs estimates AI could impact up to 300 million 
+current full-time roles and create brand new roles that lead to an economic boom.)
+That’s a lot to take in, but here’s the good news…
+Plenty of higher education leaders are already starting to successfully and responsibly 
+incorporate AI into their classrooms and institutions. As a result, they’re beginning to 
+see the enormous potential of AI in higher education.
+Because, make no mistake, despite the fear and uncertainty, the AI paradigm shift 
+in higher education can create enormous opportunities for administrators, university 
+marketing teams, educators, and students. Opportunities to:
+•  Create better student outcomes.  AI can better personalize curriculum for 
+students and predict their needs, leading to lower dropout rates, increased 
+academic performance, improved mental health, and higher post-graduation 
+hiring rates. 
+•  Make educators more effective and efficient.  AI can serve as the ultimate 
+teaching assistant and in-class tutor, helping unlock new teaching methods and 
+freeing up the time that educators spend on tasks like grading and admin.
+•  Make institutions more attractive and impactful.  AI can help institutions more 
+effectively and efficiently attract new students, better attract a more diverse student population, and 
+better engage with alumni, resulting in lower costs and better results.
+Universities that embrace AI have a once-in-a-generation opportunity to empower students, educators, 
+marketing teams and administrators to deliver unprecedented levels of personalization and performance in 
+education. Those that don’t will struggle to adapt to coming disruptions and retain their relevance in an AI-
+first world. 
+This guide is a resource to help you do just that.AI in Higher Education: A Paradigm Shift
+“ With a little 
+effort (and 
+willingness), we 
+can do right by 
+our students 
+and the firms 
+who rely on 
+us to prepare 
+their young 
+professionals.” 
+-  Mike Frechette, 
+Assistant Professor 
+of Marketing at 
+Sacred Heart 
+University5  |  AI for Higher Education Blueprint  
+What Is AI?
+If you ask 10 experts to define “AI,” you’ll get 10 different definitions given the complexity of the 
+subject. Our favorite is a simple one from DeepMind CEO and Co-Founder Demis Hassabis: “AI is 
+the science of making machines smart.” 
+By “being smart,” these machines, in turn, enhance human knowledge and capabilities. 
+So, what does “being smart” actually mean?
+AI is smart because it can determine its own pathways to achieving an overall goal.
+When we talk about AI, we’re really talking about a collection of technologies, tools, and techniques 
+that make machines smart. 
+Combined, AI technologies are capable of ingesting massive amounts of structured and unstructured 
+data, finding patterns within this data, and using it to generate outputs, make predictions, offer 
+recommendations, and even take actions on behalf of the user. And, if you think about it, many of the 
+tasks that higher education leaders do every day involve these exact capabilities:
+•  University marketing teams predict which images and words are most likely to appeal to 
+prospective students when creating advertising and communications collateral. 
+•  Educators predict which examples and approaches are most likely to connect with students, 
+illustrate the curriculum, and enhance learning. 
+•  Administrators predict which language, anecdotes, and statistics are most likely to reassure 
+parents, engage alumni, or inspire donors. 
+ 
+These predictions may be founded on instinct, experience, educated guesses, and data. In many 
+cases, AI can produce these types of predictions as well or better than humans, using immense 
+amounts of data and compute.
+Additionally, thanks to machine learning, a subset of AI, AI-powered technologies can often learn on 
+their own and improve their performance over time based on new data. 
+This is fundamentally different from how traditional (non-AI) technology operates. With AI, you can unlock 
+superpowers previously inaccessible, thanks to a smart machine’s ability to get better at tasks over time.
+The easiest way to wrap your head around what AI can do in higher education is to understand AI’s 
+three primary applications: language, vision, and prediction.
+“ AI is the 
+science 
+of making 
+machines 
+smart.”
+-  Demis 
+Hassabis, 
+CEO and 
+Co-Founder, 
+DeepMindAI in Higher Education: A Paradigm Shift6  |  AI for Higher Education Blueprint  
+AI in Higher Education: A Paradigm Shift
+Language, Vision, and Prediction  
+As we wrote about in Marketing Artificial Intelligence: AI, Marketing, and the Future of Business, the primary 
+applications of AI are language, vision, and prediction. 
+•  Language: The ability to understand and produce the written or spoken word. ChatGPT has received 
+widespread attention for its ability to generate human-like writing based on a prompt.  
+•  Vision: The ability to detect, analyze, and create elements in image or video formats. For example, 
+Midjourney uses natural language descriptions to produce images in any imaginable style, while 
+QuantPlus deconstructs ad performance to the elemental level and provides educators the ability to 
+pre-optimize ad creatives before they launch into market.
+•  Prediction: The ability to predict outcomes based on historical data. AI companies like Persado  
+can use past performance data to identify the language and messaging most likely to motivate 
+prospective students to convert. 
+We’ll cover more examples throughout this guide, but it’s important to keep these broad applications in mind 
+as you begin to uncover use cases for your organization and in your career. 
+The Capabilities and Limitations of AI Today
+AI isn’t the stuff of science fiction anymore—but that doesn’t mean that it’s omnipotent and infallible. Those in 
+higher education must consider AI adoption with eyes wide open to its capabilities and its limitations today. 
+So, what can AI do? AI can:
+•  AI cannot make independent decisions, 
+enforce ethics, or have opinions. Its abilities 
+are limited to the data on which it was trained.
+•  AI cannot perform beyond what it is asked 
+to do. Despite some speculation and 
+misinformation, AI will not teach itself 
+chemistry without being asked—but it can 
+continue to execute a task indefinitely if not 
+instructed otherwise.
+•  AI should not run unassisted. It can, and does, 
+commonly produce false information and misguided findings, and requires oversight and 
+guidance from human counterparts to produce 
+high-quality outcomes.
+•  Today’s AI is narrow AI: Even the most 
+advanced AI technologies are executing tasks 
+within specific use cases. Artificial general 
+intelligence (AGI)—or AI capable of fully 
+replicating human intelligence, doesn’t exist 
+yet. And even the leading minds in AI debate 
+over what AGI will look like, and if or when it 
+could ever be realized.
+The fastest way to understand and reap the benefits of AI is to look at use cases within your 
+organization. So let’s get away from the theoretical and into the practical: In the following 
+sections, we explore how AI can benefit administrators, marketing teams, educators, and 
+students across the educational lifecycle.  •  Pre-optimize advertising creative, using 
+performance data down to the elemental level 
+across any industry, enabling marketers to 
+start campaigns with ads they know will work.
+•  Produce written, audio, image, and video 
+content at massive scale and exponentially 
+faster than any human could do so.•  Detect patterns, such as the words and 
+phrases corresponding to the highest-
+converting alumni donation campaigns.
+•  Analyze and synthesize information, like 
+reviewing student course surveys and 
+summarizing the topics students are 
+struggling to grasp.
+That said:7  |  AI for Higher Education Blueprint  
+Strategic Planning, Budgeting and Financial Management
+In a world of widespread AI adoption, where will higher education fit in? When skills, knowledge, 
+and careers are changing and iterating at the pace of technology, how can colleges and 
+universities keep up? 
+The answer, of course, is to evolve or to fade away. And so, these are the questions college 
+administrators must address to ensure their institutions remain relevant and competitive in 
+the years ahead. Consider, for example, a next-generation university: 
+Such a transformation, however, would have institution-wide implications: on staffing and 
+hiring, on course offering and admissions, on marketing and messaging, on vision and values. 
+ 
+AI isn’t just the catalyst for this change, though. AI can also be an aide in this process, 
+assisting administrators to make better strategic and budgeting decisions. For example, AI’s vast 
+computing power can analyze data to: 
+•   Identify and recommend proper enrollment numbers to inform acceptance rates and 
+expected graduation rates.
+•   Determine which programs and schools to invest or divest funds.
+•   Optimize resources, everything from class sizes to on-campus electricity usage. 
+•   Run complex financial modeling and enrollment forecasts for long-term strategic planning.
+•   Better predict the student profiles most likely to attend your school, informing course 
+offerings, faculty decisions, and recruiting budgets.
+Armed with this information, administrators will be empowered to reimagine their institutions and 
+align resources with their renewed vision. How AI Will Empower 
+Administrators
+•   Formerly a place where students would acquire specific knowledge or a fixed set 
+of skills, now one that promises the development of the critical thinking, problem-
+solving, and emotional intelligence necessary to succeed in an AI-first world. 
+•   Once a brief stopover before undergraduates set out on a 40-year career, now a life-
+long destination where professionals return again and again to upskill and reinvent 
+themselves at each stage of their many jobs and career paths. 
+•   Where academics once struggled to juggle course loads with research, they’re now revered 
+as a hub of access to exports, mentors, cross-disciplinary collaboration, and networking.Administrators 
+will be 
+empowered to 
+reimagine their 
+institutions and 
+align resources 
+with their 
+renewed vision.8  |  AI for Higher Education Blueprint  
+How AI Will Empower Administrators
+Academic Program Oversight and Policy Making
+Administrators are charged with presenting a top-down vision for their institutions. 
+While this has always included decisions around technology purchases and policies, 
+none have been as significant as AI. 
+Each institution’s perspective on, adoption of, and policies around, AI will shape 
+every aspect of the student and staff experience. 
+•   Which degrees and courses will thrive? Which will be challenged, disrupted, or 
+eliminated altogether? 
+•   How well will the university’s programs and curriculum keep pace with job 
+market needs and student expectations? 
+•   Will students and faculty be allowed, or encouraged, to use AI? What 
+guidelines will be put in place to dictate its use, define cheating, etc.? 
+•   How much will AI skills and knowledge be weighted in hiring decisions—from 
+faculty to admissions to operations? 
+A May 2023 report released by the U.S. Department of Education underscores the 
+urgency with which educators and administrators must develop policies around AI.
+Make no mistake, your university’s stance on AI adoption will determine how 
+attractive it is to prospective students and staff alike. 
+ 
+Cheating. In education, it’s the lightning rod of 
+every AI conversation. And educators’ concerns 
+are warranted: In addition to all of AI’s other 
+use cases, AI-assisted cheating is here, and 
+likely here to stay. 
+Courseology , a Google Chrome extension, 
+purports to offer an undetectable way for 
+students to find answers to homework 
+assignments. Meanwhile, platforms like 
+TurnItIn claim to detect AI in student writing 
+(though after testing, The Washington Post 
+has cautioned against its pattern of producing 
+false positives).
+The question is, can AI detectors keep pace 
+with advancements in AI? Or more directly, can 
+AI solve a problem created by AI? And what 
+are the risks and trade-offs of doing so? For some educators, it’s a battle 
+not worth fighting. Instead, their 
+focus is on incorporating AI into 
+the classroom and rethinking their assessments 
+and assignments to better align with an AI-first 
+world. 
+“Some educators fear AI because they 
+think it’s going to help students cheat on 
+assignments or exams, replace their jobs, 
+etc.,” said Sydney Chinchanachokchai, Ph.D., 
+Associate Professor of Marketing, Akron 
+University. “[But] many (including myself) see 
+it as an opportunity and that we cannot avoid 
+or ban AI in higher education. We just have 
+to embrace the technology and redesign the 
+assignment/the way we teach/the curriculum 
+to reflect this change.”AI Detectors: The Next-Gen Plagiarism “ ...it is imperative 
+to address AI in 
+education now 
+to realize key 
+opportunities, 
+prevent and 
+mitigate emergent 
+risks, and tackle 
+unintended 
+consequences.” 
+-  Artificial Intelligence 
+and the Future 
+of Teaching and 
+Learning: Insights and 
+Recommendations, 
+U.S. Department of 
+Education, May 2023.9  |  AI for Higher Education Blueprint  
+Student Affairs
+AI-led changes to careers and job markets will impact not just course offerings and curriculum 
+requirements; they’ll upend students’ expectations around their education, career prospects,  
+and futures. 
+In 2022, PwC’s annual global workforce survey showed that nearly one-third of respondents fear 
+that their job will be replaced by technology in the next three years. Thirty-nine percent worry 
+about not getting sufficient training in digital and technology skills from their employer—and 
+these concerns are even higher among younger respondents.
+These anxieties are understandable. Perhaps more than any previous generation, college students 
+are going to be confronted by existential questions like: 
+• What purpose do I serve?
+• What should I do with my life and my career? 
+• How valuable are my skills? What are my contributions worth? 
+• What happens if, and when, my job is disrupted or replaced?
+This means the role of student counselors and career counselors may take on even greater 
+significance on college campuses, as students navigate these new challenges.
+Nearly one-
+third of 
+respondents 
+fear that their 
+job will be 
+replaced by 
+technology in 
+the next three 
+years. How AI Will Empower Administrators10  |  AI for Higher Education Blueprint  
+In the U.S. alone, roughly 20 million undergraduate students will attend colleges and universities each 
+year—and many more will tour, apply, and decide where to pursue postsecondary education.
+Marketing and admissions teams have the massive task of wielding budgets and resources to 
+target, recruit, and select students for their incoming class. AI can enable them to perform these 
+functions with greater precision, personalization, and productivity. 
+Enrollment
+AI can support college enrollment efforts by helping college marketing teams and international 
+recruiters identify students most likely to choose their institution and nurture these prospective 
+students with more targeted marketing campaigns. 
+Predictive Analytics for Targeted Marketing
+Digital marketing efforts have already enabled college marketing teams to more precisely pinpoint 
+students that are a fit for their organization, based on demographic and geographic factors. For 
+years, colleges have been using Big Data to track prospective students. AI-powered analytics tools 
+can up their game even more.  
+•  Intelligently segment students to personalize information based on interests, area of study, 
+geography, or financial aid needs.
+• Identify new cross-sections of student populations to recruit. 
+• Hyper-target student populations based on complex criteria.
+Personalized Communication and AI-Powered Recruitment
+Once cohorts of prospective students have been identified, AI can improve targeting and personalization 
+at every stage of the recruitment process. AI-powered marketing tools have the potential to: 
+•  Identify the highest-performing creative elements, like images, color, and composition, in ad 
+campaigns, marketing collateral, and communications. 
+•  Personalize messaging to different students based on their profile, behaviors, and engagement. 
+•  Tailor content to individual user preferences across different schools or majors.
+•  Adjust messaging across channels to prompt students to engage and take action.
+•  Make content recommendations to achieve specific goals, like increasing scholarship applicants. 
+•  Alter user experiences for students, parents, alumni, and other key audiences.
+•  Proactively recommend content based on graduation date and other milestones or behaviors.
+Admissions and Administration
+University admissions processes today often look something like this: 
+•  Submission: Students submit applications online or on paper, and include personal 
+information, academic transcripts, standardized test scores, essays, and personal statements.
+•  Review: Admissions staff review applications and evaluate each student’s academic 
+achievements, extracurricular activities, test scores, and other factors to determine whether 
+they are a good fit for the school.
+•  Selection: Based on the application review, admissions staff decide whether to admit the 
+student, or place them on a waitlist.
+•  Notification: Once a decision has been made, the university notifies students of their 
+admission status through a letter, email, or online portal.
+•  Enrollment: If the student is admitted, they will typically be required to submit  
+additional paperwork to confirm their decision to attend the college.
+How AI Will Empower College  
+Marketing and Admissions Teams11  |  AI for Higher Education Blueprint  How AI Will Empower College Marketing and Admissions Teams
+Throughout the process, the admissions staff may also conduct interviews or request additional information 
+from applicants. Even with digital applications, the process can still be manual, complex, and time-
+consuming for staff.
+Now imagine an admissions process with AI technologies infused throughout: 
+Automated application processing sends notifications and follow-up communications to students across 
+channels, and requests and collects supplemental application information. AI-based assessment scores and 
+sorts hundreds of applications in seconds, surfaces insights, recommends follow-up questions, and ranks 
+waitlist candidates. Every step along the way, the process is better, faster, and smarter.
+The Role of International Student Counselors and Recruiters
+It’s common for higher education institutions 
+to work with student counselors and recruiters 
+abroad to attract international students to their 
+colleges. These individuals support recruitment 
+and admissions services for international 
+students by building relationships with local 
+high schools, colleges/universities, and study 
+abroad advisors; advising on and implementing 
+international marketing strategies; meeting 
+in person with families to answer questions; 
+reviewing international student applications; 
+and more. 
+But as AI empowers students and their parents 
+to conduct more research on their own about 
+international opportunities, how does the 
+recruiter’s role evolve? 
+AI can match students with overseas 
+opportunities that meet their academic and 
+course requirements, qualifications, location 
+preferences, and price point, among a myriad 
+of other factors—likely better than a local 
+agent could. 
+“ Show me the three top-ranking 
+undergraduate Biology programs in the 
+United States. Rank them by price, proximity 
+to the city and safety rating of the city 
+they are in. Based on the above, provide 
+recommendations for where my 18-year-old 
+son should study Biology.”  It can also streamline routine tasks like 
+answering common inquiries, document 
+chasing or deadline reminders. And offer multi-
+lingual support and translation services, making 
+the admissions process more accessible to 
+global students. 
+International recruitment agents need to 
+understand and embrace these technologies 
+to offer the level of personalization and speed 
+needed to compete. But, as Corey Snow, the 
+director of Education Industry Solutions for 
+Salesforce was quoted as saying in the ICEF 
+Monitor: “Technology only gets you so far. 
+The best way to build meaningful and durable 
+relationships is via one-to-one (one-to-few) 
+real-time human interactions.” 
+And it is here that the recruiter will thrive. By 
+working with technology to automate the 
+mundane and the repetitive, recruiters, in turn, 
+can focus efforts on having the meaningful 
+conversations that can really set a school apart 
+from the rest and give families peace of mind 
+that they made the correct choice.12  |  AI for Higher Education Blueprint  How AI Will Empower College Marketing and Admissions Teams
+How Are Real-World Higher Ed Marketers Using AI?
+TAFE Queensland is an Australian Government owned education institution with more than 125,000 
+students across 50+ locations. As they kicked off a major international recruitment campaign, the school 
+asked themselves a fundamental question: 
+Would the domestic campaign that had worked so well locally, have the same effect internationally? 
+Would the beautiful domestic images, that included many localized Australian situations, resonate with 
+their potential students from Japan and South Korea?
+ 
+But how could the marketing team be sure their domestic creative would attract prospective students 
+from these countries? And, how could they know that what works for a Japanese student would work for a 
+South Korean one? (After all, students in different geographies react differently to the same creative.)
+ 
+The TAFE Queensland had experienced marketers with some well formed views about what they believed 
+would work in these markets. However, at its core they were still using only their collective knowledge, 
+advertising experience and intuition in the creative development process.
+ 
+It’s a common problem. Higher education marketing teams often rely on intuition and guesswork to devise 
+marketing campaigns - because, historically at least, there were no other resources that could deliver 
+deeper insights without significant time and money investment.  Even with multiple creatives and A/B split 
+testing, they often lack the data to point to why something does or doesn’t work.
+ 
+TAFE Queensland was the same way. Until they turned to AI.
+ 
+For their international recruitment campaign, TAFE Queensland turned 
+to AI from QuantPlus to generate data-driven creative insights linked to 
+performance metrics.
+Unique to the ad industry, QuantPlus’ AI evaluates trillions of data points from 
+campaigns around the world to determine what text and image elements 
+work best with a specific audience before you launch your campaign. Using 
+QuantPlus, TAFE Queensland was able to gain confidence its campaign 
+would produce results before spending a dime to launch and test in-market.
+With QuantPlus, the marketing team was able to understand what calls to 
+action, keywords, phrase combinations, imagery, colors, and other creative 
+elements resonated most with each different markets, then proactively build 
+ads that matched what was already statistically proven to perform well.
+TAFE Queensland was able to determine the precise differences in visual elements and ad copy that Japanese 
+and South Korean markets tended to prefer. It turned out each audience had different color, image, and text 
+preferences, which the team was able to incorporate into unique campaigns for each country.
+The result?
+ 
+Across both markets, TAFE Queensland attracted a 90% lift in unique visitors to the landing pages and a 
+33% increase in ROI, when compared to previous campaigns. TAFE Queensland attributed this increase 
+directly to the new creative informed by the QuantPlus insights. 
+ 
+“We are not afraid to challenge traditional thinking. Particularly if the end result can lead to better outcomes 
+for our students or TAFE,”   says Marty Lock, Manager International Student Engagement at TAFE Queensland.
+Click to learn more about how AI from QuantPlus can help you.
+GET STARTED13  |  AI for Higher Education Blueprint  
+It’s no secret that most educators feel overworked—fighting to keep up with grading, 
+to adapt to new standards and new technologies, to give each student the personal 
+attention and instruction they need.  
+AI can help lighten the workload of teachers by automating tasks such as grading 
+essays, providing feedback, and answering student questions. Better yet, it can unlock 
+brand new ways of delivering content, engaging students, and assessing learning. 
+AI-Optimized Curriculum
+Curriculum building, lesson planning, and vertical alignment are all time-intensive 
+requirements of any course. But AI’s ability to analyze, synthesize, research, and reorganize 
+can increase productivity while producing more effective and engaging curriculum. 
+AI tools can: 
+•  Find statistics on sources to support key concepts.
+•  Suggest examples and analogies to connect abstract concepts to real-world ideas.
+•  Review course outlines for multiple professors, and flag redundancies and topic 
+gaps for greater vertical alignment.
+•  Provide alternative explanations to help illustrate key concepts, reinforce ideas, 
+and help students learn. 
+AI-First Learning Experiences and Enhancing Teaching Methods with AI
+AI can also provide alternative methods of teaching content and create new 
+opportunities for more engaging and interactive teaching. Educators are already 
+testing out new prompts, assignments, and strategies to enhance their teaching with 
+AI. For example, students can: 
+•  Interview the AI acting as a particular viewpoint or historical figure to gain new 
+insights and a “first person” perspective. 
+•  Debate topics with the AI taking the opposing point of view.
+•  Ask AI to identify and explain cognitive bias or logical fallacies in the student’s 
+work, to improve writing, communication, and critical thinking skills.
+•  Prompt AI to rewrite their work in different tones or styles to analyze their own 
+writing and explore alternative angles. 
+AI-Assisted Assessments and Grading 
+Assessments are the default method of gauging students’ mastery of a subject, but they have 
+understandably come under fire for the ways they might favor a particular learning style. Conversely, 
+they could also unfairly punish students from a particular geographic or socioeconomic background, 
+or degree of English fluency.
+AI-generated assessments may be able to produce more objective diagnostic tests and flag the 
+potential blindspots of existing assessments.
+AI excels at following route processes, especially when given clear guidelines. AI-assisted grading, 
+aided by a clear rubric, is another way in which AI can increase grading efficiency while reducing 
+personal bias for particular students or styles.
+How AI Will Empower Educators
+“ AI is dramatically 
+changing how I 
+personally teach. 
+I have dropped 
+long essay 
+assignments in 
+my courses … In 
+my courses, I am 
+making it more 
+experiential where 
+we use AI to help 
+with assignments 
+in class.”
+-  David Rice, Professor 
+and Executive Director 
+of the Future of 
+Marketing Institute at 
+the Schulich School 
+of Business, York 
+University 14  |  AI for Higher Education Blueprint  
+How AI Will Empower Educators
+AI-Driven Research Assistance
+For publishing scholars, AI can also be the ultimate research assistant: Finding sources, organizing 
+information, and so much more.  
+•   Find patterns, follow trends, and surface insights in massive datasets. 
+•   Transcribe audio and video interviews.
+•   Identify key concepts, common themes, and outlier opinions across primary or secondary sources. 
+•   Search databases and academic journals for relevant research studies and organize findings in 
+a meaningful way.
+•   Run statistical analyses of data, and generate visualizations to help interpret the results.
+•   Synthesize large amounts of information from various sources, and summarize complex ideas. 
+•   Create outlines or summaries of research findings.
+•   Manage citation and reference lists more easily and efficiently.
+•   Organize sources and generate indexes.  
+•   Write first drafts of research articles and report introductions. 
+•   Fine-tune writing by identifying grammatical errors, suggesting alternative word choices, and 
+providing feedback on writing clarity and readability.
+How Are Real-World Educators Using AI? 
+We asked college-level educators how they’re beginning to incorporate AI in their marketing, 
+curriculum and classrooms. Here’s what they had to say:  
+•   Introducing AI concepts and tools into existing courses. For example, requiring the use of AI 
+tools in assignments to illustrate their capabilities.
+•   Creating new courses specifically dedicated to AI and its applications. 
+•   Leading discussions on the motivations, choices, and outcomes of using AI to encourage 
+students to use AI tools appropriately.
+•   Adding AI policies to course overviews, such as requiring students to disclose the use of AI 
+when completing assignments.
+•   Adding project-based learning activities that require the hands-on use of AI technologies, 
+including relevant tools that employers will expect them to know.
+•   Exploring AI’s abilities to provide learning experience personalization.
+•   Increasing class participation and on-camera work to replace essays and other more traditional 
+assignments.
+•   Facilitating a holistic discussion of AI and its impact on students’ lives. Using AI-based 
+activities in courses to explore its potential use cases, challenges, and opportunities.15  |  AI for Higher Education Blueprint  
+Students enter college with the hope that they’ll leave with the knowledge, skills, and 
+network to exceed in their chosen careers. How well does your university rise to meet 
+this challenge today? 
+By incorporating AI into your institution, you can help students thrive from their first 
+day on campus to crossing the stage on graduation day, and beyond. AI can aid 
+students by improving classroom engagement, providing them with individualized 
+support, and better connecting them to resources both on- and off-campus.
+ 
+Student Engagement  
+Effective pedagogical strategies are well-known and well-documented, but adoption 
+of these principles remains inconsistent and uneven in education—largely due to 
+resource constraints.
+Empowered by AI, teachers will be able to provide more personal, more hands-on, 
+more responsive, and more engaging instruction.  
+Identifying Skill Gaps and AI-Based Learning Recommendations
+Differentiated instruction adapts curriculum to students’ unique learning styles and 
+background knowledge—an effective but time-intensive pedagogical strategy. AI tools 
+can help teachers assess student knowledge more quickly and comprehensively than 
+the educator could on their own.
+•   Develop pre-tests and other assessments to evaluate students’ background 
+knowledge at the start of term.
+•   Analyze assessments and assignments, and identify weaknesses in skills or 
+content areas. 
+•   Provide early warnings of struggling students in need of greater intervention. 
+•   Suggest alternative lesson plans, examples, or activities to reinforce hard-to-
+grasp concepts.  
+Colleges may be able to flag students who are struggling academically and in need of 
+greater support and even identify students at risk of dropping out and provide them 
+with earlier intervention services.
+Personalized and Adaptive Learning Pathways
+Active learning has been demonstrated to be more effective than the passive learning 
+found in most lecture halls, but class sizes and student-teacher ratios often make this 
+impossible, especially in entry-level courses. AI technologies can supplement this one-
+to-many instruction to provide more tailored and responsive support. 
+•   Offer self-paced courses that adapt the pace and difficulty of instruction to meet 
+each student’s needs.
+•   Administer adaptive quizzes, tests, and other assessments that match question 
+difficulty to the student’s level of understanding.
+•   Provide detailed feedback on assessments with personalized learning 
+recommendations.
+•   Source supplemental videos, articles, and practice exercises to strengthen 
+student knowledge and understanding of key concepts.
+How AI Will Empower Students
+“ There needs to be 
+more wide-scale 
+acceptance and 
+recognition that 
+today/tomorrow’s 
+students need 
+to build their 
+AI skill sets. 
+Encouraging them 
+to explore and 
+experiment with 
+using generative 
+AI tools or 
+interacting 
+with other AI 
+applications 
+will enable the 
+students to be 
+at the cutting 
+edge of digital 
+transformation in 
+their workplace.”
+-  Andy Dahl, Associate 
+Professor, Marketing, 
+University of 
+Wisconsin-Whitewater16  |  AI for Higher Education Blueprint  
+How AI Will Empower Students
+AI Assistants and Tutors
+AI assistants can reinforce student learning, practice skills, and provide one-on-one educational support 
+at scale. Khan Academy has already begun a beta rollout of its AI-assisted tutor , a chatbot that can: 
+•   Offer guidance, such as discussing how to approach a problem. 
+•   Work collaboratively with students, offering assistance without providing answers outright.
+•   Challenge blindspots in students’ thinking and problem-solving. 
+•   Take an opposing view in a debate.
+•   Explain why an answer is right or wrong.   
+Job Placement
+Preparing graduates for careers in a rapidly changing world is a tall order. Fortunately, AI tools and 
+technologies can help. By aligning university offerings and career services with the needs of the job 
+market, universities can ensure that graduates are well-prepared for the workforce.
+•   AI-powered career counseling: Armed with robust data on the current job market and the 
+skills and experience that employers are looking for, college career counselors can provide 
+more effective career services, including resume reviews and job search assistance. 
+•   Predictive analytics for job market trends: AI excels at data-driven tasks and with AI-
+powered predictive analytics tools, college administrators can keep a pulse on job market 
+trends, identify emerging careers, and adjust their program offerings accordingly. Predictive 
+analytics can also identify the employers that are most likely to hire graduates with certain 
+skill sets, degrees, and experience. This information can be used to better align recruitment 
+efforts, resulting in higher employment rates for graduates. 
+•   Track and analyze graduates’ employment outcomes: This information can be used to 
+guide decision-making around issues such as program development and funding.
+Engaging and Supporting Alumni
+In the best cases, the university-alumna relationship is a life-long, mutually beneficial partnership. AI 
+can make it easier to nurture personal connections with alumni, provide personalized support, foster 
+loyalty, and solicit donations. 
+•   AI-driven networking and mentorship: AI-powered mentorship platforms like Chronus 
+already exist in the workforce, using algorithms to match mentors and mentees based on 
+profile data. Similar personalization could provide robust “matchmaking” services to provide 
+better-fit mentorship relationships, better engage alumni, and create a stronger and more 
+robust alumni network. 
+•   AI-driven fundraising and alumni support: A wide range of AI-assisted marketing, 
+advertising, and communication technologies are coming on the market, many of which could 
+be used for fundraising and donor relations. More precisely segment your alumni databases, 
+send personalized fundraising requests, optimize creative elements to maximize conversions, 
+and much, much more. 
+•   Lifelong learning opportunities through AI: AI enables personalization at a scale far beyond 
+what was previously possible. Not only can universities stay in touch with their alumni, but by 
+providing them with hyper-targeted career resources and more tailored support, they can help 
+graduates succeed in their career paths and build stronger relationships with alumni.17  |  AI for Higher Education Blueprint  
+AI adoption can seem daunting, particularly in large-scale organizations like colleges 
+and universities. But change can start small: First, by understanding the challenges and 
+considerations, and then by building a plan for responsible, intentional AI use.  
+AI Challenges and Risks 
+Haphazard use of AI tools can be irresponsible at best, and dangerous at worst. Let’s 
+look at some of the top risks posed by AI, so higher ed professionals can leverage AI 
+to maximize its potential and minimize its risks.
+Unconscious Bias in Training Models 
+AI is only as “smart” as the training model, or data set that was used as the foundation 
+of the algorithm. A couple of notable real-world examples: 
+ 
+•   An AI algorithm was developed to identify cancerous moles. The algorithm 
+incorrectly began to associate rulers with skin cancer. Why? Because of the 
+thousands of photos used to train the AI, the presence of a ruler was often 
+associated with dermatological appointments and potentially cancerous moles.
+•   In 2018, Amazon had to scrap an unintentionally discriminatory hiring algorithm. 
+Because of a predominantly male workforce (and therefore, training data based 
+largely on male employee resumes), the algorithm penalized resumes containing 
+the names of women-only colleges, among other factors common among 
+female candidates.  
+Both are examples of how AI can reach flawed conclusions based on flawed training 
+data, despite the best intentions of their creators. 
+Now imagine AI-powered admissions software trained on a narrow set of well-crafted 
+personal essays. Such a tool may unfairly reward the admissions essays of students of 
+a particular race, gender, or socioeconomic background—exacerbating privilege and 
+decreasing the diversity of accepted candidates.  
+AI trained on biased data will produce biased results. Perhaps even more dangerous, outputs 
+produced by software carry a suggestion of objectivity, which may allow biased feedback to go 
+unchecked and unchallenged. And even then, training models are often a “black box,” making 
+it difficult to reverse-engineer or root out unconscious bias in algorithms.  
+Personal Data, Privacy, and Security Considerations
+AI training models require substantial data, but few laws, regulations, or legal 
+precedent exist to dictate what data can be used to train algorithms or how that 
+data can be collected, stored, and analyzed. Within colleges and universities, this creates 
+conflicts and vulnerabilities on several fronts, not limited to: 
+•   AI that use copyrighted, or otherwise illegally obtained or unauthorized material in 
+their training models.
+•   Exposure of personal data or confidential information to publicly available AI programs. 
+•   Vulnerability of AI-assisted software to cyber attacks or other security threats. 
+Higher education leaders will need to involve other subject matter experts in the AI 
+implementation process, including IT professionals and legal teams.
+Implementing AI in 
+Higher Education
+“ There are issues of 
+privacy, of validity 
+and reliability, 
+of inequities 
+that are parts 
+of both inputs 
+and outputs, 
+the potential 
+replacement of 
+human capital. 
+All of these are 
+concerns that 
+humans will need 
+to determine 
+when and how to 
+mitigate for the 
+harms that are and 
+will happen.”
+-  Thor Wasbotten, 
+Professor, Kent State 
+University18  |  AI for Higher Education Blueprint  
+Implementing AI in Higher Education
+Copyright and Ownership 
+As of publishing, little legal precedent exists for AI-generated work. The U.S. Copyright 
+Office recently clarified that human authorship (not generative AI) is essential for copyright 
+approval. This space continues to evolve, but the outcomes will shape everything from 
+professors’ use of generative AI in academic research papers to college’s policies around 
+AI use for faculty, students, and staff.  
+Factual Inaccuracy and Errors 
+Generative AI occasionally produces outright inaccurate or false information, a 
+phenomenon known as “hallucinating.” As of this writing, AI experts haven’t expressed 
+confidence in their ability to understand why hallucination occurs, or their ability to stop 
+it from happening. This means human oversight is essential to fact check and verify AI-
+generated outputs. 
+Workplace Readiness in an AI-First World
+Put simply: In the future, every career is an AI-assisted career. (And the future is much 
+closer than we think.) 
+AI won’t just alter the way curriculum is taught. It will simultaneously reshape courses, 
+content, and majors as universities work to prepare students for the careers awaiting 
+them beyond graduation.  
+From prompt engineering to prompt copiloting to the World of Bits—working 
+alongside AI may soon be a requirement in many knowledge work jobs. 
+In Robot-Proof: Higher Education in the Age of Artificial Intelligence, Joseph Aoun 
+argues that these three literacies will be essential in a world where machines and 
+humans are working more closely together: 
+•  Data literacy: Ability to understand and work with data, including how data is 
+collected, stored, and analyzed, as well as the ethical implications of data use.
+•  Human literacy: Ability to understand and work with other people, including 
+empathy, emotional intelligence, communication, and collaboration.
+•  Technological literacy: Ability to understand and work with technology. This 
+goes beyond technical skills like programming and includes comprehending the 
+ways technology is impacting society, thinking critically about its applications 
+and limitations, and understanding the implications of its use.
+Rate of Change 
+Perhaps the most dizzying aspect of AI adoption is simply the speed at which the 
+space is changing. AI technology will continue to evolve at a compounding rate, with 
+breakthroughs being made all the time. To keep up, higher education must develop 
+flexible and adaptable curricula, integrating the latest developments in AI.
+Even so, in a world of compounding change, how can educational standards and 
+syllabi keep up? 
+“The classroom will never be fast enough to implement from my perspective,” 
+says Dan Farkas, Strategic Communication Lecturer at The Ohio State University. 
+Instead, he sees extracurricular activities, like student-led marketing and PR firms, to 
+supplement classroom instruction. 
+Students need practical experience with AI tools and technologies to understand their 
+applications, limitations, and abilities. These extracurricular opportunities for students 
+to work with AI in real-world contexts, including clubs, internships, and capstone 
+courses, can be beneficial by providing a testing ground for emerging technologies. “ Helping students 
+learn to use AI 
+effectively will be 
+necessary for us 
+as we prepare 
+them for their 
+future careers, 
+and really their 
+interaction with 
+technology as a 
+whole in their lives. 
+The opportunity 
+is to aggressively 
+integrate AI 
+into students’ 
+experiences.”
+-  Scott Titsworth, Dean, 
+Scripps College of 
+Communication, Ohio 
+University
+“ The changes are 
+rapid and the 
+speed of change 
+is increasing. 
+How do we best 
+understand these 
+changes and their 
+implications? More 
+importantly, how 
+to teach to be the 
+agent of change?” 
+-  Madhavi Chakrabarty, 
+Assistant Professor of 
+Professional Practice, 
+Rutgers Business School19  |  AI for Higher Education Blueprint  
+Implementing AI in Higher Education
+AI Ethics, Developing an AI Strategy, and Responsible AI Usage
+AI ethics in education will be the subject of books, lectures, and debate for years 
+to come. To get started, below are five steps all organizations should prioritize to 
+develop a proactive and responsible AI strategy. 
+1.  Prioritize staff training and upskilling.  
+Invest in your staff so they can prepare themselves for all the changes ahead. Offer 
+introductory AI courses so faculty better understand AI’s uses, limitations, and 
+vulnerabilities. Get curious: Educators are already creating use cases, sample prompts, 
+and other best practices that can be adopted and adapted by professors. Choose 
+small use cases to pilot before scaling AI within your organization.  
+2. Create an internal AI Council. 
+Universities must have a top-down vision for the responsible use of AI within the 
+institution. An internal council is a good place to start, with stakeholders from across 
+the organization charged with shepherding AI adoption and guidance.   
+3. Develop responsible AI principles and generative AI policies. 
+Begin to develop policies around AI that can guide students and staff. This may include: 
+•  How AI-powered technologies are vetted and approved for organizational use. 
+•  How university staff can use AI, including policies to protect sensitive data and 
+proprietary information.
+•  How professors can use AI in their research and academic work. 
+•  How students can use AI in assignments, and sample AI policies for staff to use 
+in syllabi. 
+The Marketing AI Institute published a Responsible AI Manifesto for Marketing and 
+Business under Creative Commons, which you can use as a starting point. Boston 
+Consulting Group has also published extensive reports and articles on responsible 
+AI principles.
+4. Conduct an impact and exposure assessment for your institution. 
+Initiate a comprehensive evaluation of how AI could impact your institution. Assess the tasks, roles, 
+and responsibilities most likely to be disrupted by AI, along with the careers, courses, and areas of 
+study most likely to be disrupted. This will provide actionable insights across technology, staffing, 
+data use, course offerings, and more.   
+5. Build an AI Roadmap for your university. 
+Using what you’ve learned, outline an AI roadmap. Include short-term and long-term plans to adopt 
+AI technologies and ways to respond to students’ use of AI. “ We call upon all 
+constituents to 
+adopt ‘humans 
+in the loop’ as a 
+key criterion for 
+educational use 
+of AI.”
+-  Artificial Intelligence 
+and the Future 
+of Teaching and 
+Learning: Insights and 
+Recommendations,  
+U.S. Department of 
+Education, May 2023.20  |  AI for Higher Education Blueprint  As you evaluate AI in your own institution, here are some questions to consider: 
+1.  Which tasks or processes are the most manual or repetitive? 
+2.  Where could we benefit from increased productivity or efficiency? 
+3.  Where would increased efficiencies allow us to cut costs? 
+4.  In which areas of our organization are we struggling? Could AI help us optimize performance here? 
+5.  What proprietary data do we have? How can we improve our data quality and protect our 
+personal and proprietary data? 
+6.  How will we address privacy and security concerns around AI?
+7.  How will we prevent, detect, and address unconscious bias in our AI tools? 
+8.  What is our university’s stance on the role of AI in education and learning? In the student experience? 
+8 AI Considerations for 
+Higher Education
+21  |  AI for Higher Education Blueprint  In the 1970s, calculators were introduced to the classroom—a change that was met 
+with backlash by many educators and parents. The technology, they argued, would 
+remove the student’s ability to solve the problem themselves, prevent them from 
+checking their work, and reduce their overall understanding of mathematics.  
+(A similar thing occurred with the release of the graphing calculator in the late 1990s.) 
+Fast-forward to today, and graphing calculators are on the school supply lists of most 
+U.S. high schools. Students still learn math, but they do so in new ways. 
+From typewriters to calculators, personal computers to search engines, educators have 
+adapted to technological change. AI may follow a similar narrative. But with some 
+notable differences: 
+The pace is faster.
+The power is greater. 
+The potential is unprecedented. 
+One thing is certain: Organizations that hesitate will be left behind. 
+To transform higher education, leaders in academia must face AI head-on. The future 
+of higher ed will be built collectively, by evaluating the impact of AI, weighing its 
+value, creating a shared vision, and developing new approaches and processes. 
+Together, building a new promise of higher education with AI at the center. 
+“ It’s here. It’s a game changer. Get on board, and 
+get over your fears. It’s the most exciting thing 
+since the Internet, and it changes the rules of 
+the game entirely. It allows new opportunities 
+for my students to replace the old world order of 
+marketing far more quickly.”
+ - Ian Cross, Professor, Bentley University
+The Future of AI in 
+Higher Education
+“ I think the ‘It will 
+make students 
+take short cuts’ 
+and ‘It’s cheating’ 
+fears are just over-
+paranoia. Same 
+was said about the 
+use of calculators 
+in class 35 years 
+ago. It’s a tool, 
+and we’ll all learn 
+to adapt and use 
+it as appropriate. 
+No one today 
+is complaining 
+about calculators 
+or spell check in 
+word processing 
+programs any 
+more!” 
+-  Jim Lecinski, Clinical 
+Associate Professor 
+of Marketing, Kellogg 
+School of Management, 
+Northwestern University22  |  AI for Higher Education Blueprint  
+23  |  AI for Higher Education Blueprint  
+About Marketing AI Institute
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders. The Institute owns and operates 
+the Marketing Artificial Intelligence Conference (MAICON), AI for Writers Summit and AI for Agencies 
+Summit, hosts The Marketing AI Show podcast, runs the AI Academy for Marketers featuring dozens of 
+on-demand courses, and published Marketing Artificial Intelligence: AI, Marketing, and the Future of 
+Business (Matt Holt Books, 2022). Learn more at www.marketingaiinstitute.com.
+About QuantPlus
+QuantPlus is world-first in AI-driven data insights. Its reporting system breaks down advertising 
+creative performance at an “elemental” level and has boosted campaign ROI by 300 percent. 
+QuantPlus has analyzed more than 100 billion ads across 55 countries within the education industry 
+to unlock the secrets of what creative elements in ads drive maximum enrollments. Ads can be 
+pre-optimized using text, imagery, colors, and calls to action that are linked to known performance 
+before a single impression has been served. Learn more at www.quantplus.io. 
+Thank You to Our Contributors
+A special thank you to the higher-education professionals who shared their insight on the topic:
+Josh Antonuccio, Director, School of Media Arts & Studies, Ohio University
+Paul Benedict, Director, Center for Entrepreneurship, Ohio University
+Madhavi Chakrabarty, Assistant Professor of Professional Practice, Rutgers Business School
+Sydney Chinchanachokchai, Ph.D., Associate Professor of Marketing, University of Akron
+Ian Cross, Professor, Bentley University
+Andy Dahl, Associate Professor, Marketing, University of Wisconsin-Whitewater
+Dan Farkas, Strategic Communication Lecturer, The Ohio State University
+Mike Frechette, Assistant Professor of Marketing, Sacred Heart University
+Edyta Gołąb-Andrzejak, Professor, Gdańsk University of Technology
+Jim Lecinski, Clinical Associate Professor of Marketing, Kellogg School of Management, 
+Northwestern University
+David Rice, Professor and Executive Director of the Future of Marketing Institute, Schulich School of 
+Business, York University.
+Scott Titsworth, Dean, Scripps College of Communication, Ohio University
+Thor Wasbotten, Professor, Kent State University

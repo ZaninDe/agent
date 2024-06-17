@@ -1,0 +1,414 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Building Effective Email Marketing Campaigns  
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+This report has been designed to provide practical advice for building an 
+effective email marketing campaign .  
+ 
+Read this brief 9 -page report to learn how to:  
+ 
+ 
+ Identify the benefits & risks of email marketing   
+ 
+ Build a business case for an email marketing initiative  
+ 
+ Improve your delivery rates   
+ 
+ Track key email metrics   
+ 
+ Follow email marketing best pr actices  
+ 
+ 
+ 
+Read this report and avoid the common mistakes and pitfalls of email 
+marketing.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+Table of Contents                                Page  
+ 
+ 
+ 
+Email Marketing Defined         3  
+ 
+Benefits of Email Marketing       4  
+ 
+Email Marketing Risks         5  
+ 
+Email Delivery Best Practices        5 
+ 
+Benchmarking & Metrics        7  
+ 
+Email Marketing Best Practices       8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+Email Marketing Defined    
+ 
+ 
+ 
+ 
+“E-mail marketing is a form of direct marketing that uses electronic mail  
+as a means of communicating messages to an audience. This term 
+usually refers to emails that are being sent over the internet and can 
+include:  
+ 
+ Sending e -mails with the purpose of enhancing the relationship of 
+a merchant with its current or old customers and to encourage 
+customer loyalty and repeat business.  
+ 
+ Sending e -mails with the purpose of acquiring new customers or 
+convincing old customers to buy something immediately.  
+ 
+ Adding advertisements in e -mails sent by other companies to 
+their customers.”  
+ 
+                           Source – Wikipedia  
+ 
+ 
+Other Important Definitions:  
+ 
+ Unique Opens : A single open by a single user.  
+ 
+ Unique Clicks : A single click by a single user.  
+ 
+ Hard Bounces : A permanent failure due to a non -existent 
+address or a blocking condition by the receiver that returns the 
+email to the server that sent it.  
+ 
+ Soft Bounces : A temporary failure due to a full mailbox or an 
+unavailable server that returns the email to the server that sent 
+it. 
+ 
+ Open Rate : The total number of emails opened divided by the 
+total number of emails delivered as a percentage.  
+ 
+ Click Through Rate (CTR) : The percentage of those clicking on 
+a link out of the total number who see the link.  
+ 
+ Click To Open Rate (CTOR) : The ratio of unique clicks as a 
+percentage of uniqu e opens.  
+ 
+ Conversion Rate : The number or percentage of visitors who 
+convert casual content views or website visits into desired 
+actions.   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+Benefits of Email Marketing   
+ 
+   
+ 
+ 
+Many companies have been able to reduce their marketing costs by 
+running effective email marketing campaigns. According to the Direct 
+Marketing Association , email will deliver $45. 56 in sales for every 
+dollar spent in 2008 . Although this indicates a steady decline in the ROI 
+associated with email marketing in recent years, the tangible and 
+intangible benefits of email marketing can’t be ignored.  
+ 
+Most companies are using email marketing for the following reasons:  
+ 
+ 
+ Lower Cost : Email marketing provides a very inexpensive way 
+of communicating with your target audience.  
+ 
+ Increased Sales : Not only can a permission based email 
+campaign increase your sales conversion, but it can also help to 
+generate repeat business and cross/up sell existing customers.  
+ 
+ Faster Delivery : Email provides a faster medium than 
+traditional forms of marketing (i.e. direct mail) because it 
+reaches your audience almost immediately.  
+ 
+ Build Relationships : Email allows you to make your customers 
+happier by keeping them “in the loop.” It also provides the 
+opportunity to raise brand awareness by reaching out to 
+customers while positioning yourself as you would like to be seen 
+in the market.  
+ 
+ Go Green : Email is an environmentally friendly way of reaching 
+out to prospects and customers.  
+ 
+ Save Time : Emails are quick to create and allow for more 
+frequent contact.  
+ 
+ Measure Results : Email metrics are displayed almost 
+immediately. By tracking and monitor campaigns, email 
+marketers have the ability to improve and refine their strategy 
+over time.  
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+Email Marketing Risks  
+Email Delivery Best Practices   
+  
+ 
+ 
+ 
+When it comes to email marketing you need to be aware of all the 
+legislation restricting the use of email before beginning any campaign – 
+regardless of your intentions. In the United States, the Federal Trade 
+Commission (FTC) is authorized to enforce the C AN-SPAM Act. This act 
+also gives the Department of Justice the authority to enforce criminal 
+sanctions for the improper use of email. Click here for more information 
+on the CAN -SPAM Act .  
+ 
+The bottom line is that this law has 4 main provisions:  
+ 
+ It bans false or misleading header  information  
+ 
+ It prohibits deceptive subject  lines 
+ 
+ It required that you give recipients an opt-out method  
+ 
+ It requires that commercial email be identified  as an 
+advertisement and include the sender's valid physical postal 
+address.  
+ 
+The penalties for not complying with this Act are severe and can include 
+hefty fines. Not only can an illegal email marketing campaign hurt your 
+company financially, SPAMMING can  also damage your brand, hurt 
+relationships with customers/prospects, and make you appear 
+desperate.  
+ 
+ 
+ 
+   
+ 
+ 
+As discussed above, email marketing can tarnish your brand if it’s n ot 
+done correctly. Follow these  simple guidelines to ensure your next email 
+marketing campaign will provide you with a solid ROI.  
+ 
+ 
+ Send Email only when it’s Relevant : Send emails based on 
+what you know about the recipient (i.e. where they are in the 
+buying cycle, what content they have  requested, etc.). It is also 
+important to make sure you show respect for recipient’s time by 
+sending emails at the frequency the recipient asks for.   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+ 
+ Establish Credibility : The consistency and timeliness of 
+communication has an impact on your brand. By ma intaining 
+consistent communication and delivering content that is valuable 
+to the recipient you will improves your brand image and create 
+longer customer relationships.  
+ 
+ Include a Privacy Policy Link : Ensure that prospects and 
+customers know what you plan  to do with their personal 
+information by creating a privacy policy that is easily accessible.  
+ 
+ Make Unsubscribe Easy : Make sure the unsubscribe link is 
+easily noticeable, clearly defined and easy to use.  
+ 
+ Have a Clear Call to Action : Don’t send an email u nless the 
+required action is easy to understand and will provide value to 
+the recipient.  
+ 
+ Personalize the Email : Include the recipient’s  name and ensure 
+the spelling is correct.  
+ 
+ Monitor and Measure Campaigns : It is critical that metrics are 
+identified wel l in advance and improvements are made over time.  
+ 
+ Include both Plan Text and HTML : It is important that the 
+formatting is done properly. Emails should be tested to ensure 
+they can be seen properly on different screen sizes, with different 
+browsers and on  Blackberry’s.  
+ 
+ Subject Line should be Clear and Concise : As a general rule 
+of thumb, try not to include a dollar sign, the word free, or 
+multiple exclamation marks as they increase the likelihood of 
+being identified as spam. Use a subject line that actua lly speaks 
+to what is in the email.  
+ 
+ Keep the Sender Consistent : Make sure the sender is well 
+known and well respected. Use someone from the company 
+instead of a generic email account.  
+ 
+ Clean your List : Keep your list of subscribers clean by asking 
+receivers to update their information on an ongoing basis.  
+ 
+ Monitor and Classify your Bounces : This will help to ensure 
+your lists are clean and up -to-date. A review of your bounces will 
+also help you understand why emails are undeliverable (ISP, 
+Domain, e tc.) and adjust your strategy accordingly.   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+Benchmarking & Met rics  
+ Use Email Marketing as part of an Integrated Marketing 
+Plan: Email alone will not allow you to achieve your desired end 
+result. Read Demand Metric’s report on “ Integrating Lead 
+Generation Campaigns ” for practical advice on how to use 
+email as part of an integrated marketing plan.  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+If you are interested in obtaining benchmarking data, Marketing Sherpa 
+released an “Email Marketing Benchmarking Guide” in 2008. Although 
+the metrics are a bit outdated (the study was conducted in October 
+2007 – November 2007) the report contains real life  data as reported by 
+1210 marketers. It also contains data from private, third -party and 
+other research studies. Other sources of benchmarking information 
+include eMarketer  and EmailLabs . 
+ 
+Depending on your objectives, there are many metrics you can monitor. 
+The most popular performance based metrics include:  
+ 
+ Open rate  
+ Click-through rate  
+ Click to open rate  
+ Bounce rate  
+ Delivery rate  
+ Unsubscribe rate  
+ Referral rate  
+ Subscriber retention  
+ Number of orders, transactions, downloads or actions  
+ Total revenue  
+ Conversion rate  
+ 
+ 
+If you would like more information on selecting the right metrics, 
+contact Demand Metric  and schedule an appointment with one of our 
+research analysts.  
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 8 
+Email Marketing Best Practices   
+ 
+ 
+ 
+ 
+Consider these Best Practices for creating an effective email marketing 
+campaign.  
+ 
+1. Build a Business Case : use Demand Metric’s Business Case 
+Template  to provide an opp ortunity overview and document 
+objectives, requirements, scope, timelines, budget and 
+benchmarks.  
+ 
+2. Select the Right Vendor : It is critical that you evaluate vendors 
+based on your business requirements. Demand Metric’s Email 
+Marketing Vendor Evaluation Matrix  provides a structured 
+approach to evaluating vendors and should be used as a 
+customizable framework.  
+ 
+3. Develop an Email Marketing Strategy : use our  Lead 
+Generation Strategy Scorecard  to set your strategic 
+objectives, initiatives, measures and targets.  
+ 
+4. Build your Lists : read Demand Metric’s “ Creating  a 
+Permission Based Marketing Campaign ” and follow the step -
+by-step action plan for creating an effective list.  
+ 
+5. Create the Content : Depending on the nature of your 
+objectives, select content that is relevant and valuable to the 
+recipient. It is also important to decide on the type and frequency 
+of communication as well as the sender.  
+ 
+6. Test the Solution : Test your email messages prior to sending 
+out a major campaign. Send your email to different browsers to 
+ensure it is being displayed correctly.  
+ 
+7. Launch the Campaign : Split testing is extremely important 
+during your first few email campaigns. By sending  2 different 
+emails to the same list at the same time, you can determine:  
+ 
+ Headline A vs. Headline B  
+ Long email vs. Short Email  
+ Single link vs. Two / three links  
+ The effectiveness of putting the name in the headline  
+ Hard sell vs. Presell  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 9 
+ 
+8. Monitor and  Review : Evaluate your program following every 
+batch of email that is sent. Pay close attention to trends (i.e. 
+Best time to Sent email) Report on improvements to key metrics 
+and invest further in programs that are providing a quantifiable 
+return on invest ment.  
+ 

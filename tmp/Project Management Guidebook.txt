@@ -1,0 +1,416 @@
+METHOD 123
+empowering managers to succeed
+Project Management 
+Guidebook
+ISBN 0-473-10445-8bout this e-book
+This e-book was created by Method123
+(see www .method123.com ) to help provide
+you with a simple Method for managing projects, assimple as 1-2-3. Learn about how to Initiate, Plan,Execute and Close a project whilst managing time,cost, quality, staff, suppliers, equipment and cus-tomers. You will read in detail about the four proj-ect management phases and understand which doc-ument templates to use within each phase to com-plete a project successfully.
+This Guidebook is suitable for all project sizes,
+types and industries. Whether embarking on asmall, medium or large project, this Guidebookprovides a standardized approach to achieving suc-cess.About Method123©
+We are a group of Project Managers who havecome together to offer you a simple method forundertaking projects. After many years of manag-ing hundreds of projects around the world, we real-ized that if we used standard methods and tem-plates on all projects then we would complete ourprojects faster, improve the quality of our deliver-ables and save money. As a result, we spent literallythousands of hours creating the Method123Methodology and a suite of comprehensive tem-plates to offer to you. Founded in 2001, we haveachieved enormous growth in the market tobecome World Leaders in providing ProjectManagement templates to our customers. For acomplete set of templates supporting thisGuidebook, see www
+.method123.com .A
+©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.comTable of Contents
+1 INTRODUCTION........................................................................................................ 1
+1.1 WELCOME..................................................................................................................... ........ 1
+1.2 WHAT IS A PROJECT?....................................................................................................... 11.3 WHAT IS PROJECT MANAGEMENT?......................................................................... 1
+2 PROJECT LIFECYCLE................................................................................................ 2
+2.1 INITIATION.................................................................................................................. ......... 4
+2.1.1 Develop Business Case............................................................................................. 42.1.2 Perform Feasibility Study.......................................................................................... 42.1.3 Establish Terms of Reference................................................................................. 42.1.4 Appoint Project Team............................................................................................... 52.1.5 Set up Project Office................................................................................................. 52.1.6 Perform Phase Review...................................................................................................
+5
+2.2 PLANNING.................................................................................................................... ........ 6
+2.2.1 Develop Project Plan................................................................................................ 62.2.2 Develop Resource Plan............................................................................................. 62.2.3 Develop Financial Plan............................................................................................. 72.2.4 Develop Quality Plan................................................................................................ 72.2.5 Develop Risk Plan..................................................................................................... 72.2.6 Develop Acceptance Plan........................................................................................ 82.2.7 Develop Communications Plan............................................................................... 82.2.8 Develop Procurement Plan...................................................................................... 82.2.9 Contract Suppliers...................................................................................................... 82.2.10 Perform Phase Review...................................................................................................
+8
+2.3 EXECUTION................................................................................................................... ...... 9
+2.3.1 Build Deliverables...................................................................................................... 92.3.2 Monitor and Control................................................................................................. 92.3.3 Perform Phase Review...................................................................................................
+11
+2.4 CLOSURE..................................................................................................................... ........... 12
+2.4.1 Perform Project Closure........................................................................................... 122.4.2 Review Project Completion..................................................................................... 12
+3 APPENDIX.................................................................................................................... 13
+3.1 ADDITIONAL RESOURCES............................................................................................ 133.2 GLOSSARY OF TERMS...................................................................................................... 14
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+Are unique in nature. They do not involve repeti-
+tive processes. Every project undertaken is differ-ent from the last, whereas operational activitiesoften involve undertaking repetitive (identical)processes
+Have a defined timescale
+. Projects have a clearly
+specified start and end date within which thedeliverables must be produced to meet a specifiedcustomer requirement
+Have an approved b
+udget. Projects are allocated a
+level of financial expenditure within which thedeliverables must be produced to meet a specifiedcustomer requirementInvolve an element of risk
+. Projects entail a level
+of uncertainty and therefore carry business risk
+Achieve beneficial c hang e. The purpose of a proj-
+ect, typically, is to improve an organizationthrough the implementation of business change.
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+1 Introduction
+1.1 Welcome
+Welcome to the Project Management Guidebook.
+This Guidebook provides a practical approach towhat many consider a complex process: the man-agement of projects. This Guidebook is designed tosimplify the management processes required tomanage a project successfully from end to end. Itdefines Project Management in simple terms andprovides you with all of the documentation toolsrequired to make your project a success.
+1.2 What is a Project?
+A project is "a unique endeavor to produce a set ofdeliverables within clearly specified time, cost andquality constraints".
+Projects are different from standard business oper-
+ational activities as they
+:Have limited resources. At the start of a projectan agreed amount of labor, equipment and mate-rials is allocated to the project
+1.3 What is Project Management?
+"Project Management is the skills, tools and man-agement processes required to undertake a projectsuccessfully".
+Project Management comprises:
+A set of skills
+. Specialist knowledge, skills and
+experience are required to reduce the level of riskwithin a project and thereby enhance its likeli-hood of success
+A suite of tools . Various types of tools are used
+by project managers to improve their chances ofsuccess. Examples include document templates,registers, planning software, modeling software,audit checklists and review forms
+A series of pr ocesses . Various management tech-
+niques and processes are required to monitor andcontrol time, cost, quality and scope on projects.Examples include time management, cost man-agement, quality management, change manage-ment, risk management and issue management.
+1©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+2 Project Lifecycle
+The following diagram outlines the Project
+Lifecycle.
+2
+©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+The Project Lifecycle consists of four phases:
+Project Initiation 
+The Initiation Phase is the first phase in the project.In this phase a business problem (or opportunity) isidentified and a business case which provides vari-ous solution options is defined. A feasibility study isthen conducted to investigate the likelihood of eachsolution option addressing the business problemand a final recommended solution is put forward.Once the recommended solution is approved, aproject is initiated to deliver the approved solution.A 'Terms of Reference' is completed, which out-lines the objectives, scope and structure of the newproject, and a Project Manager is appointed. TheProject Manager begins recruiting a project teamand establishes a Project Office environment.Approval is then sought to move into the detailedplanning phase.
+Project PlanningOnce the scope of the project has been defined inthe Terms of Reference, the project enters thedetailed planning phase. This involves the creationof a:
+Project Plan (outlining the activities, tasks,
+dependencies and timeframes).
+Resource Plan (listing the labor, equipment andmaterials required)
+Financial Plan (identifying the labor, equipmentand materials costs)
+Quality Plan (providing quality targets, assuranceand control measures)
+Risk Plan (highlighting potential risks and actionstaken to mitigate them)Acceptance Plan (listing the criteria to be met togain customer acceptance)
+Communications Plan (listing the informationneeded to inform stakeholders)
+Procurement Plan (identifying products to besourced from external suppliers).
+At this point the project has been planned indetail and is ready to be executed.
+Project ExecutionThis phase involves the execution of each activityand task listed in the Project Plan. While the activi-ties and tasks are being executed, a series of man-agement processes are undertaken to monitor andcontrol the deliverables being output by the project.This includes the identification of changes, risksand issues, the review of deliverable quality and themeasurement of each deliverable being producedagainst the acceptance criteria. Once all of thedeliverables have been produced and the customerhas accepted the final solution, the project is readyfor closure.
+Project ClosureProject Closure involves releasing the final deliver-ables to the customer, handing over project docu-mentation, terminating supplier contracts, releasingproject resources and communicating the closureof the project to all stakeholders. The last remain-ing step is to undertake a Post ImplementationReview to quantify the overall success of the proj-ect and list any lessons learnt for future projects.
+The following sections provide a more detailed
+description of each phase and list document tem-plates which provide the Project Manager withguidance on how to complete each phase success-fully.
+3The Business Case is approved by the Project
+Sponsor and the required funding is allocated toproceed with the project.
+Template: Business Case2.1.2 Perform Feasibility Study
+At any stage during (or after) the development of aBusiness Case, a formal Feasibility Study may becommissioned. The purpose is to assess the likeli-hood of a particular solution option's achieving thebenefits outlined in the Business Case. TheFeasibility Study will also investigate whether theforecast costs are reasonable, the solution is achiev-able, the risks are acceptable and/or any likelyissues are avoidable.
+Template: Feasibility Study
+2.1.3 Establish Terms of Reference
+After the solution has been agreed and funding allo-cated, a project is formed. The Terms of Referencedefines the vision, objectives, scope and deliver-ables for the project. It also provides the organiza-tion structure (roles and responsibilities) and a sum-marized plan of the activities, resources and fund-ing required to undertake the project. Finally, anyrisks, issues, planning assumptions and constraintsare listed.
+Template: Terms of Reference
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+2.1 Initiation 
+The initiation phase essentially involves the project
+'start-up'. It is the phase within which the businessproblem or opportunity is identified, the solutionis agreed, a project formed to produce the solutionand a project team appointed. The diagram belowdepicts the activities undertaken:
+2.1.1 Develop Business Case 
+Once a business problem or opportunity has beenidentified, a Business Case is prepared. Thisincludes:
+A detailed definition of the problem or opportu-
+nity
+An analysis of the potential solution optionsavailable. For each option, the potential benefits,costs, risks and issues are documented. A formalfeasibility study may be commissioned if the fea-sibility of any particular solution option is notclear
+The recommended solution and a generic imple-mentation plan.
+4
+2.1.5 Set up Project Office
+The Project Office is the physical environment
+within which the team will be based. Although it isusual to have one central project office, it is possi-ble to have a 'virtual project office' environment,with project team members in various locationsaround the world. Regardless of the location, a suc-cessful project office environment will comprise thefollowing components:
+Template: Project Office Checklist2.1.6 Perform Phase Review
+At the end of the Initiation Phase, a Phase Reviewis performed. This is basically a checkpoint toensure that the project has achieved its stated objec-tives as planned.
+Template: Phase Review Form (Initiation Phase)
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+2.1.4 Appoint Project Team
+At this point the scope of the project has been
+defined in detail and the project team are ready tobe appointed. Although a Project Manager can beappointed at any stage of the project, s/he will needto be appointed prior to the establishment of theproject team. The Project Manager documents adetailed Job Description for each project role andappoints a human resource to each role based onhis/her relevant skills and experience. Once theteam are 'fully resourced', the Project Office isready to be set-up.
+Template: Job Description (for Project Manager)
+Location (either physical or virtual) 
+Communications (telephones, computer network,email, internet access, file storage, database stor-age and backup facilities)
+Documentation (methodology, processes, formsand registers)
+Tools (for accounting, project planning and riskmodeling).
+52.2.1 Develop Project Plan
+The first step is to document the Project Plan. A
+'Work Breakdown Structure' (WBS) is identified,which includes a hierarchical set of phases, activi-ties and tasks to be undertaken on the project. Afterthe WBS has been agreed, an assessment of theeffort required to undertake the activities and tasksis made. The activities and tasks are sequenced,resources are allocated and a detailed project sched-ule is formed. This project schedule will becomethe primary tool for the Project Manager to assessthe progress of the project.
+Template: Project Plan2.2.2 Develop Resource Plan
+Immediately after the Project Plan is formed, it isnecessary to allocate the resources required toundertake each of the activities and tasks within theProject Plan. Although general groups of resourcesmay have already been allocated to the Project Plan,a detailed resource assessment is required to identi-fy the:
+A schedule is assembled for each type of resource
+so that the Project Manager can assess the resourceallocation at each stage in the project.
+Template: Resource Plan
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+2.2 Planning
+By this stage, the benefits and costs of the project
+have been clearly documented, the objectives andscope have been defined, the project team havebeen appointed and a formal project office envi-ronment established. It is now time to undertakedetailed planning to ensure that the activities per-formed in the execution phase of the project areproperly sequenced, resourced, executed and con-trolled.Types of resources (labor, equipment and materi-
+als)
+Total quantities of each resource type
+Roles, responsibilities and skill-sets of all humanresources
+Items, purposes and specifications of all equip-ment resource
+Items and quantities of material resource.
+6
+Finally, it is important to review the quality not only
+of the deliverables produced by the project but alsoof the management processes which produce them.A summary of each of the management processesundertaken during the execution phase is identified,including Time, Cost, Quality, Change, Risk, Issue,Procurement, Acceptance and CommunicationsManagement.
+Template: Quality Plan 
+2.2.5 Develop Risk Plan
+The foreseeable project risks are then documentedwithin a Risk Plan and a set of actions to be takenformulated to both prevent each risk from occur-ring and reduce the impact of the risk should iteventuate. Developing a clear Risk Plan is an impor-tant activity within the planning phase as it is nec-essary to mitigate all critical project risks prior toentering the Execution phase of the project.
+Template: Risk Plan 
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+2.2.3 Develop Financial Plan
+Similar to the Resource Plan, a Financial Plan is
+prepared to identify the quantity of money requiredfor each stage in the project. The total cost oflabor, equipment and materials is quantified and anexpense schedule is defined which provides theProject Manager with an understanding of the fore-cast spending vs. the actual spending throughoutthe project. Preparing a detailed Financial Plan isextremely important as the project's success willdepend on whether or not it is delivered within the'time, cost and quality' estimates for this project.
+Template: Financial Plan
+2.2.4 Develop Quality Plan
+Meeting the quality expectations of the customer iscritical to the success of the project. To ensure thatthe quality expectations are clearly defined and canreasonably be achieved, a Quality Plan is docu-mented. The Quality Plan:
+Defines what quality means in terms of this proj-
+ect
+Lists clear and unambiguous quality targets foreach deliverable. Each quality target provides a setof criteria and standards which must be achievedto meet the expectations of the customerOutlines a plan of activities which will assure thecustomer that the quality targets will be met (i.e. aQuality Assurance Plan)
+Identifies the techniques used to control the actu-al level of quality of each deliverable as it is built(i.e. a Quality Control Plan).
+72.2.7 Develop Communications Plan
+Prior to the Execution phase, it is also necessary to
+identify how each of the stakeholders will be keptinformed of the progress of the project. TheCommunications Plan identifies the types of infor-mation to be distributed, the methods of distribut-ing information to stakeholders, the frequency ofdistribution and responsibilities of each person inthe project team for distributing information regu-larly to stakeholders.
+Template: Communications Plan 
+2.2.8 Develop Procurement Plan
+The last planning activity within the Planning phaseis to identify the elements of the Project which willbe acquired from external suppliers to the project.The Procurement Plan provides a detailed descrip-tion of the Products (i.e. goods and services) to beprocured from suppliers, the justification forprocuring each product externally, as opposed tofrom within the business, and the schedule for pro-curement. It also references the process for theselection of a preferred supplier ("Tender Process")and the process for the actual order and delivery ofthe procured products ("Procurement Process").
+Template: Procurement Plan 2.2.9 Contract Suppliers
+Although external suppliers may be appointed atany stage of the project, it is usual to appoint sup-pliers after the Project Plans have been document-ed but prior to the Execution phase of the project.Only at this point will the Project Manager have aclear idea of the role of the supplier and the expec-tations for his/her delivery. A formal TenderProcess is invoked to identify a short-list of inter-ested suppliers and select a preferred supplier tomeet the procurement needs of the project. TheTender Process involves creating a Statement ofWork, a Request for Information and Request forProposal to obtain sufficient information from eachpotential supplier to select a preferred supplier.Once a preferred supplier has been chosen, aSupplier Contract is agreed for the delivery of therequisite product.
+Templates: Statement of Work (SOW), Request forInformation (RFI), Request for Proposal (RFP),Supplier Contract
+2.2.10 Perform Phase Review
+At the end of the Planning phase, a Phase Reviewis performed. This is basically a checkpoint toensure that the project has achieved its stated objec-tives as planned.
+Template: Phase Review Form (Planning Phase)
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+2.2.6 Develop Acceptance Plan
+The key to a successful project is gaining accept-
+ance from the customer that each deliverable pro-duced meets (or exceeds) his/her requirements. Toclarify the criteria used to judge each deliverable forcustomer acceptance, an Acceptance Plan is pro-duced. The Acceptance Plan provides the criteriafor obtaining customer acceptance, a schedule ofacceptance reviews within which customer accept-ance will be sought and a summary of the processused to gain acceptance of each deliverable fromthe customer.
+Template: Acceptance Plan 
+82.3 Execution
+The Execution phase is typically the longest phase
+of the project (in terms of duration). It is the phasewithin which the deliverables are physically con-structed and presented to the customer for accept-ance. To ensure that the customer's requirementsare met, the Project Manager monitors and controlsthe activities, resources and expenditure required tobuild each deliverable throughout the executionphase. A number of management processes are alsoundertaken to ensure that the project proceeds asplanned.
+2.3.1 Build Deliverables
+This phase requires the physical construction ofeach deliverable for acceptance by the customer.The actual activities undertaken to construct eachdeliverable will vary, depending on the type of proj-ect (e.g. engineering, building development, com-puter infrastructure or business process re-engi-neering projects).2.3.2 Monitor and Control
+Whilst the Project Team are physically producingeach deliverable, the Project Manager implements aseries of management processes to monitor andcontrol the activities being undertaken. Anoverview of each management process follows.
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+9Deliverables may be constructed in a 'waterfall'
+fashion (where each activity is undertaken insequence until the deliverable is finished) or an 'iter-ative' fashion (where iterations of each deliverableare constructed until the deliverable meets therequirements of the customer). Regardless of themethod used to construct each deliverable, carefulmonitoring and control processes should beemployed to ensure that the quality of the finaldeliverable meets the acceptance criteria set by thecustomer.
+Time Management
+Time Management is the process within which timespent by staff undertaking project tasks is recordedagainst the project. As time is a scarce resource onprojects, it is important to record the time spent byeach member of the team on a Timesheet to enablethe Project Manager to control the level of resourceallocated to a particular activity. A TimesheetRegister provides a summary of the time currentlyspent on the project and enables the Project Plan tobe kept fully up to date.
+Templates: Time Management Process, TimesheetForm, Timesheet Register
+Cost ManagementCost Management is the process by which costs (orexpenses) incurred on the project are formally iden-tified, approved and paid. Expense Forms are com-pleted for each set of related project expenses suchas labor, equipment and materials costs. ExpenseForms are approved by the Project Manager andrecorded within an Expense Register for audit pur-poses.
+Templates: Cost Management Process, ExpenseForm, Expense Register
+Quality ManagementQuality is defined as "the level of conformance ofthe final deliverable to the customer's require-ments". Quality Management is the process bywhich the quality of the deliverables is assured andcontrolled for the project, using Quality Assuranceand Quality Control techniques. Quality reviews arefrequently undertaken and the results recordedwithin a Quality Register.
+Templates: Quality Management Process, QualityReview Form, Quality RegisterChange ManagementChange Management is the process by whichchanges to the project's scope, deliverables,timescales or resources are formally defined, evalu-ated and approved prior to implementation. A coreaspect of the Project Manager's role is to managechange within the project successfully. This isachieved by understanding the business and systemdrivers requiring the change, documenting the ben-efits and costs of adopting the change and formu-lating a structured plan for implementing thechange. To formally request a change it is often nec-essary to complete a Change Form. The changerequest details may then be recorded within aChange Register.
+Templates: Change Management Process, ChangeForm, Change Register
+Risk ManagementRisk Management is the process by which risks tothe project (e.g. to the scope, deliverables,timescales or resources) are formally identified,quantified and managed during the project. A proj-ect risk may be identified at any stage of the projectby completing a Risk Form and recording the rele-vant risk details within the Risk Register.
+Templates: Risk Management Process, Risk Form,
+Risk Register
+©2003 Method123 Ltd. All rights reserved.Visit 
+www .method123.com
+10Issue Management
+Issue Management is the method by which issuescurrently affecting the ability of the project to pro-duce the required deliverable are formally managed.After completion of an Issue Form (and loggingthe details within the Issue Register), each issue isevaluated by the Project Manager and a set ofactions undertaken to resolve the issue at hand.
+Templates: Issue Management Process, Issue Form,
+Issue Register
+Procurement Management
+Procurement Management is the process by whichproduct is sourced from an external supplier. Torequest the delivery of product from a supplier, aPurchase Order must be approved by the ProjectManager and sent to the supplier for confirmation.The status of the purchase is then tracked using aProcurement Register until the product has beendelivered and accepted by the project team.
+Templates: Procurement Management Process,
+Purchase Order Form, Procurement Register
+Acceptance Management
+Acceptance Management is the process by whichdeliverables produced by the project are reviewedand accepted by the customer as meeting his/herspecific requirements. To request the acceptance ofa deliverable by the customer, an Acceptance Formis completed. The Acceptance Form describes thecriteria from which the deliverable has been pro-duced and the level of satisfaction of each criterionlisted.
+Templates: Acceptance Management Process,
+Acceptance Form, Acceptance RegisterCommunications Management
+Communications Management is the process bywhich formal communications messages are identi-fied, created, reviewed and communicated within aproject. The most common method of communi-cating the status of the project is via a ProjectStatus Report. Each communication item releasedto the project stakeholders is captured within aCommunications Register.
+Templates: Communications Management Process,
+Project Status Report, Communications Register
+2.3.3 Perform Phase Review
+At the end of the Execution Phase, a Phase Reviewis performed. This is basically a checkpoint toensure that the project has achieved its statedobjectives as planned.
+Template: Phase Review Form (Execution Phase)
+©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+11©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com2.4 Closure
+Following the completion of all project deliverablesand acceptance by the customer, a successful proj-ect will have met its objectives and be ready for for-mal closure. Project Closure is the last phase in theproject and must be conducted formally so that thebusiness benefits delivered by the project are fullyrealized by the customer.
+2.4.1 Perform Project Closure
+Project Closure involves undertaking a series ofactivities to wind up the project, including:
+A Project Closure Report is submitted to the
+Customer and/or Project Sponsor for approval.The Project Manager is then responsible for under-taking each of the activities identified within theProject Closure Report on time and according tobudget.2.4.2 Review Project Completion
+The final activity undertaken on any project is areview of its overall success by an independentresource. Success is determined by how well it per-
+formed against the defined objectives and con-
+formed to the management processes outlined in
+the planning phase. To determine perf
+ormance ,a
+number of questions are posed. For example:
+To determine conformance, a review is undertaken
+of the level of conformity of the project activitiesto the management processes outlined in theQuality Plan. The above results, key achievementsand lessons learnt are documented within a PostImplementation Review report and presented tothe Project Sponsor for approval.
+Template: Post Implementation Review
+Project Closure involves undertaking a series of
+activities to wind up the project, including:
+Identifying any outstanding items (activities, risksor issues)
+Producing a hand-over plan to transfer the deliv-erables to the customer environment
+Listing the activities required to hand over docu-mentation, cancel supplier contracts and releaseproject resources to the business
+Communicating closure to all stakeholders andinterested parties.Did it result in the benefits defined in theBusiness Case?
+Did it achieve the objectives outlined in the Termsof Reference?
+Did it operate within the scope of the Terms ofReference?
+Did the deliverables meet the criteria defined inthe Quality Plan
+Was it delivered within the schedule outlined inthe Project Plan?
+Was it delivered within the budget outlined in theFinancial Plan?The project is closed only when all activities identi-fied in the Project Closure Report have been com-pleted.
+Template: Project Closure Report
+12
+©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+3 Appendix
+3.1 Additional Resources
+Method123© offer all of the templates listed with-
+in this Guidebook. See www.method123.com forthe full suite of document templates required tosupport your project from Initiation and Planningto Execution and Closure. The following templatesare available:
+13The Project Management Kit comprises the entiresuite of templates used to initiate, plan, execute andclose projects successfully. More than 50 Word andExcel documents comprising over 300 pages ofhelpful hints, real-life examples, charts and tablesare included as follows:
+Project Initiation 
+Business Case 
+Feasibility Study Terms of Reference Job Description Project Office Checklist Phase Review Form (Initiation) 
+Project Planning  
+Project Plan Resource Plan Financial Plan Quality Plan Risk Plan Acceptance Plan Communications Plan 
+Procurement Plan Tender Management Process Statement of Work Request for Information Request for Proposal Supplier Contract Tender Management Register Phase Review Form (Planning)
+Project Closure
+Project Closure Report 
+Post Implementation Review
+Project Execution  
+Time Management Process 
+Timesheet Form 
+Timesheet Register Cost Management Process Expense Form Expense Register Quality Management Process Quality Review Form Deliverables Register Change Management Process Change Request Form Change Register Risk Management Process Risk Form Risk Register Issue Management Process Issue Form Issue Register Procurement Management Process Purchase Order Form Procurement Register Acceptance Management Process Acceptance Form Acceptance Register Communications Management 
+Process 
+Project Status Report 
+Communications Register 
+Phase Review Form (Execution)©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+14The process by which deliverables produced by the proj-
+ect are reviewed and accepted by the customer as meetingtheir specific requirements
+The process of identifying the milestones, criteria and
+standards for the acceptance of project deliverables by thecustomer
+A document outlining the justification for the initiation of
+a project. It includes a description of the business prob-lem (or opportunity), a list of the available solutionoptions, their associated costs and benefits and a preferredoption for approval
+The process by which changes to the project scope, deliv-
+erables, timescales or resources are formally defined, eval-uated and approved prior to implementation
+The process by which formal communications messages
+are identified, created, reviewed and communicated withina project
+The process of identifying the type and regularity of
+information to be provided to all project stakeholders tokeep them informed of the progress of the project
+The process by which costs (or expenses) incurred on the
+project are formally identified, approved and paid
+A quantifiable outcome of the project which results in the
+partial (or full) achievement of the project objectives
+A logical relationship between two or more project activi-
+ties. The four types of dependencies include: start-to-fin-ish, start-to-start, finish-to-start, finish-to-finish
+A document which identifies each of the solution options
+to a particular business problem (or opportunity) andassesses the likelihood of each option's achieving thedesired resultTer m Description
+Acceptance Management
+Acceptance PlanningBusiness Case
+Change Management
+Communications ManagementCommunications PlanningCost Management
+DeliverableDependency
+Feasibility Study3.2 Glossary of Terms©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+15The process of identifying the financial resources required
+to undertake the project. This includes a list of the typesof costs to be incurred on the project (e.g. labor, equip-ment, materials and administration costs) and a scheduleoutlining when the respective costs are likely to beincurred
+Events which are currently affecting the ability of the
+project to produce the required deliverables
+The process by which issues are formally identified, com-
+municated, monitored and resolved
+A document which describes a role and its responsibilities
+within a project
+The recognition of an important event within the project,
+usually the achievement of a key project deliverable
+The process by which product is actually sourced from a
+preferred supplier, including the on-going management ofthe supplier relationship
+The process of identifying the products to be sourced
+externally and the methods for acquiring them
+A good or service which is acquired from an external sup-
+plier to assist with the production of a project deliverable
+A unique endeavor to produce a set of deliverables within
+clearly specified time, cost and quality constraints
+A set of project tasks which usually results in the partial
+(or full) completion of a project deliverable
+A series of project phases which are undertaken in either
+sequential or parallel order
+The skills, tools and management processes required to
+successfully undertake a project
+The physical premises within which Project
+Administration staff (e.g. the Project Manager and sup-port staff) resideFinancial Planning
+Issue
+Issue ManagementJob Description Milestone Procurement Management
+Procurement Planning
+Product Project Project Activity Project Lifecycle Project ManagementProject Office©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+16A set of project activities and tasks which usually result in
+the completion of a project deliverable
+A document which lists the phases, activities, tasks, time-
+frames and resources required to complete the project
+A series of planned dates within which activities and tasks
+have to be completed to achieve project milestones
+A specific work item to be undertaken which usually
+results in the partial completion of a project deliverable
+A collation of people who report to the Project ManagerThe level of conformance of the final deliverable(s) to
+the customer's requirements
+The pr
+eventativesteps taken to eliminate any variances in
+the quality of the deliverable produced from the qualitytargets set
+The cur
+ativesteps taken to eliminate any variances in the
+quality of the deliverable produced from the quality tar-gets set
+The process by which the quality of the deliverables and
+management processes is assured and controlled for theproject, using Quality Assurance and Quality Controltechniques
+The process of identifying the approach taken to ensure
+the quality of the deliverables produced by the project andof the management processes undertaken. This includes alist of the quality criteria and standards to be achieved aswell as the Quality Assurance and Quality Control tech-niques to be undertaken
+A document which is issued by a project to a wide group
+of potential suppliers to enable those suppliers to providesummarized information outlining how they will meet theprocurement requirements of the projectProject Phase
+Project PlanProject ScheduleProject Task Project Team
+Quality
+Quality Assurance
+Quality ControlQuality Management
+Quality Planning
+Request for Information©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+17A document which is issued by a project to a short-listed
+group of suppliers to enable the suppliers to submit adetailed proposal outlining how they will meet the pro-curement requirements of the project
+The labor, equipment and materials used to undertake a
+Project
+The process of identifying the resources required to com-
+plete the project. This includes a list of the types ofresources required and a schedule providing the use ofand activities undertaken by each resource
+Any event which is likely to adversely affect the ability of
+the project to achieve the defined objectives
+The process by which risks to the project (e.g. to the
+scope, deliverables, timescales or resources) are formallyidentified, quantified and managed during the project. Theprocess entails completing a number of actions to reducethe likelihood of occurrence and the severity of impact ofeach risk
+A set of actions to be taken to avoid, transfer or mitigate
+a risk, based on its priority. This includes the preventativeactions to be taken during the project to reduce the likeli-hood of the risk's occurring as well as the contingentactions to be taken to reduce the impact on the projectshould the risk eventuate
+The formulation of a document which outlines the fore-
+seeable project risks and provides a set of actions to betaken to both prevent the risk from occurring and reducethe impact of the risk should it eventuate
+The total aggregation of deliverables to be produced by
+the project
+A set of deliverables which, once combined, solve a par-
+ticular business problem (or realize a particular businessopportunity) Request for Proposal
+Resource
+The labor, equipment and materials
+used to undertake a Project
+Risk
+Risk Management
+Risk MitigationRisk Planning
+Scope 
+Solution©2003 Method123 Ltd. All rights reserved.
+Visit www .method123.com
+18A checkpoint at the end of each project phase to ensure
+that the project has achieved its stated objectives anddeliverables as planned
+A document which defines the procurement requirements
+of the project in sufficient detail to enable potential sup-pliers to determine if they are able to meet those require-ments
+An agreement between the Project Team and an external
+supplier for the acquisition of a defined set of productsto meet the procurement requirements of the Project
+A formal document included during the tender process
+which outlines the information required to provide theProject Team with the confidence that a supplier can meetthe procurement needs of the project. The RFI and RFPare both examples of Tender Documents
+The process by which interested suppliers are identified,
+evaluated and selected for the supply of products (goodsor services) to the project. This process entails formaliz-ing the procurement requirements and tender documenta-tion, receiving tender responses and selecting a preferredsupplier
+A document which outlines the purpose of the project,
+the manner in which the project will be structured andhow it will be successfully implemented
+The process within which time spent by staff undertaking
+project tasks is recorded against the projectPhase Review
+Statement of Work
+Supplier Contract
+Tender Document
+Tender Management
+Terms of Reference
+Time Management
+See www .method123.com for the complete set of
+Microsoft Word and Excel document templatessupporting this Guidebook.
+ISBN 0-473-10445-8

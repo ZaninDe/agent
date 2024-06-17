@@ -1,0 +1,723 @@
+BlueprintAI for Content Marketing 2  |  AI for Content Marketing Blueprint  3  Why Artificial Intelligence Is a Must for Content Marketers
+5  A Quick Introduction to AI for Content Marketing  
+ What Is AI? 5
+ About Killer Robots and Out-of-Control Machines 6
+ Machine Learning and the Core Types of AI 7
+9  How to Find AI Use Cases for Content Marketing 
+ Top AI Use Cases in Content Marketing 9
+ Top Content Marketing Use Cases by Industry 10
+ How Content Teams Can Scale AI 11
+13  Top Companies Using AI for Content Marketing 
+ Software company increases content output by 500% 13
+ High-growth ecommerce startup saves 35 hours per month, per writer 13
+ Intuit overhauls brand voice and inclusivity 14
+15  Top AI Tools for Content Marketing 
+ Writer 15
+ ChatGPT  17
+ Cohere 17
+ Copy.ai 17
+ DALL-E 2 18
+ Descript 18
+ GoCharlie 18
+ Grammarly 18
+ Jasper 19
+ HyperWrite 19
+ MarketMuse 19
+ Persado 19
+ Wordtune 20
+ Writesonic 20
+21  Why AI Is the Future of Content Marketing Table of Contents3  |  AI for Content Marketing Blueprint  
+Every content marketing team faces some version of the same problem: 
+Content bottlenecks prevent you from hitting content and revenue targets. 
+There are plenty of factors to blame for that. Do any of these sound familiar?
+• Your team must do more with less due to scrutiny of budgets, headcount, and productivity.  
+•  Your team doesn’t move fast enough to publish the type and volume of content your 
+audience demands.  
+• You have glaring content or messaging gaps in topic areas that your audience cares about.
+These problems are not easy to solve on your own. And, left unresolved, they put your company 
+and career at risk. 
+That’s why smart content marketers are turning to artificial intelligence (AI). 
+AI is not about robots taking over or machines running out of control. (That’s a fantasy from 
+science fiction and movies.) Instead, AI is a very real, very powerful technology that is available 
+right now. And you can use AI to scale your content marketing—without compromising on quality. 
+Today, AI can:
+1 C-suite Series: The 2021 CEO Study
+2 The State of Marketing Budget and Strategy in 2022
+3 Leadership Vision for 2021: Chief Marketing Officer
+Why Artificial Intelligence Is  
+a Must for Content Marketers
+• Speed up content creation by generating content, outlines, summaries, and ideas.  
+•  Make writers more productive by creating templates for 
+reuse at scale.  
+• Align brand, language, and style across content teams.  
+•  Provide data-driven recommendations on what content 
+works and what doesn’t.  
+•  Predict which assets and formats will perform best before 
+you launch.  
+•  Identify exactly what content topics have the highest 
+impact on audience and revenue.  
+In the process, AI turns your human teams into superheroes. 
+It makes them 10X more productive, agile, and adaptable. 
+In fact, competing in content marketing will soon be 
+impossible without AI. 
+The future of content marketing is human + machine.The future  
+of content 
+marketing 
+is human + 
+machine.
+4  |  AI for Content Marketing Blueprint  
+Content strategy. AI can now build smart content programs with unprecedented strategic 
+insight and personalization. AI tools like MarketMuse predict performance before you create 
+content. Tools like Persado   
+hyper-personalize messages, so they resonate with different types of audiences.  
+Content ideation. AI can now ideate at scale in seconds. Tools like ChatGPT provide content 
+ideas, topics, and angles. Others, like DALL-E 2, produce variations of any image in any style, 
+from scratch, for low cost.  
+Content creation. AI can now create expert content at a near-human level of quality. Tools 
+like Writer , Jasper , and Copy.ai write articles, headlines, ads, social posts, and more. They also 
+outline and summarize content instantly. Tools like these have secured more than $1 billion in 
+funding to disrupt content marketing as we know it.
+1 C-suite Series: The 2021 CEO Study
+2 The State of Marketing Budget and Strategy in 2022
+3 Leadership Vision for 2021: Chief Marketing Officer
+For proof, look at how AI is taking over major areas of expertise in content marketing—
+specifically, content strategy, ideation, and generation.
+These powerful AI tools are commercially available to anyone. And they’re usable by anyone, 
+regardless of technical background. In fact, top brands are already using them to boost 
+performance, productivity, and revenue.
+If you’re not using AI today, you need to be. Otherwise, you risk becoming obsolete. 
+Thankfully, you don’t need a degree in data science or machine learning to take advantage of AI. 
+You just need to understand the following:
+• What AI is and what it is capable of doing.
+•  What AI use cases are available for content marketing, and how to find your brand’s specific 
+use cases.
+• What specific AI tools can create real business outcomes for you.
+The rest of this guide shows you exactly how to do all three. In it, you’ll become completely up 
+to speed on AI for content marketing. And you’ll become equipped to explore AI for your own 
+company and career.Why Artificial Intelligence Is a Must for Content Marketers
+If you’re not 
+using AI 
+today, you 
+need to be. 
+Otherwise, 
+you risk 
+becoming 
+obsolete. 5  |  AI for Content Marketing Blueprint  
+To grasp what’s possible with AI, you need to understand the technology. But don’t worry. You don’t 
+need to get a Ph.D. in the subject to do that. All you need is a simple, useful definition of AI. That will 
+allow you to see how it’s different—and much smarter—than the technology you use today.
+Let’s dive in.
+What Is AI?
+If you ask 10 experts to define “AI,” you’ll get 10 different definitions given the complexity of the 
+subject. Our favorite definition is simple. It comes from Demis Hassabis, Co-Founder and CEO of 
+Google DeepMind, a major player in AI:
+AI is “the science of making machines smart.”
+By “being smart,” these machines, in turn, enhance human knowledge and capabilities. 
+So, what does “being smart” actually mean?
+We don’t even agree on a definition of intelligence in humans, so how can we determine one for 
+machines? That’s a topic for a graduate seminar, not a practical blueprint on AI. Instead, what we  
+mean by smart in regard to AI is simple:
+AI is smart because it can determine its own pathways to achieving an overall goal.
+To illustrate what we mean, let’s look at the traditional software you use today. That software can only 
+do what you tell it to do. You give it rules and instructions. It follows those rules and executes those 
+instructions to the letter. 
+Let’s look at an example:
+Say you are launching a new ebook campaign designed to attract and convert three core audiences for 
+your business. Here’s what that typically looks like:
+1.  You manually brainstorm, research, outline, write the asset, and generate images and 
+designs to complete it.
+2.  You manually construct a landing page to host the asset after brainstorming and choosing 
+a compelling headline, and determining an interesting value proposition for the page.
+3.  You manually promote the landing page across paid advertising, site CTAs, and social 
+media to drive downloads, manually adjusting the language of each promotional method 
+to appeal to your three different audiences.
+Every step of the way, your traditional software makes this process more efficient. It helps you quickly 
+publish and host the finished asset. It makes building a landing page easy and intuitive. And it makes it 
+more efficient to schedule ads and social media posts in bulk.
+This is helpful, no doubt. But, every step of the way, you’re in charge of giving the machine instructions 
+and telling the machine what to do. And it follows them without deviation.
+It’s like having an army of talented interns who follow your instructions literally. They don’t  
+offer new ideas. They don’t innovate new approaches. They just follow commands.
+A Quick Introduction to AI  
+for Content Marketing
+AI is “the 
+science 
+of making 
+machines 
+smart.”6  |  AI for Content Marketing Blueprint  
+A Quick Introduction to AI for Content Marketing
+AI is fundamentally different than traditional software.
+Let’s stick with our ebook campaign as an example. Instead of just doing what we say faster than  
+if we did it manually, AI-powered content marketing technology can do things like:
+1.  Automatically generate outlines, copy, images, ads, and social shares from text prompts 
+or from work your human content teams have produced.
+2.  Automatically test different landing page headlines and formats dynamically in real-time 
+for all three of your different audiences, then display only the highest-performing ones to 
+drive more downloads.
+3.  Automatically serve different variations of ads, CTAs, and social shares to different 
+audiences based on their preferences, motivations, and needs, then adjust those 
+campaigns based on performance.
+Now, that’s impressive on its own. But here’s the real AI secret sauce:
+AI learns each time it tries to achieve your goals.
+Each time you promote your content, AI learns more about what copy and content your audiences like 
+best. It learns more about what headlines work well. And it adjusts its approach to even better reflect 
+an audience member’s behavior.
+So, the next time you go to create a content campaign, your AI tool isn’t just following the 
+playbook from the last one. It’s actually following a new and improved one.
+That’s why AI is so powerful: It has the ability to unlock exponential performance gains over 
+time the more you use it.
+If traditional software is like having an army of interns, AI is like having an army of pros at the top 
+of their game working independently for you 24/7.
+Traditional software simply can’t compete. And neither can companies using it.
+In all this talk of AI’s ability to learn 
+and act on its own, you might worry 
+about AI acting outside of your 
+control. Given how powerful the 
+technology is, it’s understandable to 
+wonder about what you’ve seen in 
+the movies.Don’t worry. There are no killer 
+robots and out-of-control machines 
+in the real world. While AI can act on 
+its own to achieve a goal, you always 
+control when it acts. It’s not able to 
+go send emails on its own while you 
+sleep or do other tasks it’s not built 
+specifically to do.(Now, make no mistake: There are 
+plenty of legitimate concerns about 
+how AI may use data or choose to 
+achieve goals.)
+But, when you use AI, you’re just 
+using much smarter software to 
+achieve a very narrow goal. You’re 
+not unleashing some superhuman 
+intelligence.About Killer Robots and Out-of-Control MachinesAI is 
+fundamentally 
+different than 
+traditional 
+software.
+AI learns each 
+time it tries  
+to achieve 
+your goals.7  |  AI for Content Marketing Blueprint  
+A Quick Introduction to AI for Content Marketing
+Machine Learning and the Core Types of AI
+We’ve established why AI is much different—and much better—than traditional technology.
+Now, let’s define a few final ways of thinking about AI that are important to fully grasp the subject.
+The term “artificial intelligence” is a category of technology, not a single tool. It’s a broad suite of 
+tools that leverage smart machines in different ways.
+These tools rely on “machine learning” to work their magic. 
+Machine learning is the primary subset of artificial intelligence technology. It’s how AI tools 
+achieve goals on their own and learn from their efforts.
+There are a couple of steps to get a machine to be smart. First, humans have to train the machine. 
+We show the machine data, then train it to recognize patterns in that data. Using those patterns, 
+the machine learns how to achieve goals. Once fully trained, it can recognize those patterns and 
+achieve those goals in the wild. It can also then train itself on what it learns rather than returning to 
+its human teachers.
+For instance, we could train the machine to recognize high-performing blog post headlines. Once 
+it learns, customers like you then use the machine to write blog post headlines. It learns even 
+more from each blog post you publish, improving its performance over time.
+That’s all possible because of machine learning.
+Now, you might be asking yourself:
+What if the machine is trained on blog post headlines that have nothing to do with my business?
+That can certainly happen. It doesn’t mean the machine can’t perform well. (Often, it can perform 
+spectacularly.) But it does mean that an AI tool may not be specifically suited for your business’ needs.
+(After all, subject lines and their effectiveness vary wildly between industries.)
+That’s why custom training is so powerful. Custom training is when a machine learns from your data, 
+not a generic dataset. AI tools like Writer can be trained on data from your specific business. They can 
+learn how to write like you, in your specific tone and voice, not another brand’s.
+Now, machine learning isn’t the only term you’ll hear in discussions of AI, like:
+• Deep learning  • Reinforcement learning
+• Neural networks  • Topic modeling
+• Robotics   • And many, many more
+These terms can be useful to learn. But you don’t need to know all the jargon to understand how and 
+where to apply AI in your business.Machine 
+learning is the 
+primary subset 
+of artificial 
+intelligence 
+technology. It’s 
+how AI tools 
+achieve goals 
+on their own 
+and learn from 
+their efforts.8  |  AI for Content Marketing Blueprint  
+A Quick Introduction to AI for Content Marketing
+You only need to know that there are three core applications of AI: Language, Vision, and Prediction.
+Language AI. This is the ability of machines to understand and generate written and spoken words. 
+Language AI technologies and terms you may encounter include:
+• Natural language generation. • Voice recognition.
+• Natural language processing. • Text analysis and summarization.
+• Sentiment analysis.   
+An example of Language AI in your everyday life is Gmail’s Smart Compose feature. You type an 
+email, and Gmail predicts how to complete your next sentence.
+Vision AI. This is the ability of machines to analyze and understand data from still images and 
+videos. In essence, vision AI seeks to automate tasks that the human visual system can naturally 
+do. Vision AI technologies and terms you may encounter include:
+• Computer vision.  • Video generation.
+• Facial recognition. • Emotion detection.
+• Image generation.
+An example of Vision AI in your everyday life is the facial recognition that unlocks your iPhone. 
+Vision AI determines if the face it is seeing is yours and, if it is, grants you access to the device.
+Prediction AI. This is the ability of machines to predict future outcomes based on historical data. 
+With machine learning, predictions continually evolve and improve based on new data. The better 
+the data that goes in (the inputs), the better the predictions that come out (the outputs). Prediction AI 
+technologies and terms you may encounter include:
+• Personalization.  • Pattern recognition.
+• Forecasting.  • Recommendation.
+An example of Prediction AI in your everyday life is the alerts from the weather app on your phone. 
+The AI predicts it will begin raining in 20 minutes in your location, then notifies you.
+All three types of AI—Language, Vision, and Prediction—apply to content marketing.
+•  Language AI can create/edit blog posts, ebooks, landing pages, ads, and social posts. You 
+can also use it to generate and edit audio and video content.
+•  Vision AI can generate original, eye-catching images for digital content. And it can 
+automatically extract video clips from longer content and edit visuals.
+•  Prediction AI can predict content performance before you publish. It can also forecast which 
+topics you should be creating content around for maximum ROI.
+There are literally hundreds of use cases for AI in content marketing. But they all fall under one or more 
+of these three core applications.
+Now, let’s find one or more use cases for your work and business.All three 
+types of AI—
+Language, 
+Vision, and 
+Prediction—
+apply to 
+content 
+marketing.9  |  AI for Content Marketing Blueprint  
+Finding AI use cases doesn’t need to be rocket science. You don’t have to go from where you are today 
+to having fully AI-powered and AI-infused content marketing. (Though that’s a worthy long-term goal.) 
+All you have to do is figure out how AI can supercharge select tasks you do all the time (or wish you 
+could do all the time).
+So, how do you do that? Start by listing out all the tasks you do in any given day, week, month, or 
+quarter. Go down the list and ask three questions about each task.
+•  Is it data-driven? Are you using data to do the task? Alternatively, do you have data 
+you should be using to do the task, but you’re not? Data is the lifeblood of AI systems. 
+If your task is data-driven, AI can likely do it better and faster.  
+•  Is it repetitive? Do you do the same thing over and over again to accomplish the task? 
+Is there a process to accomplish the task that you can define steps for? AI excels at 
+augmenting or automating tasks that have standardized, repeatable steps. You also 
+don’t even need to automate an entire repetitive task with AI. You can look at making 
+individual steps of the process better and faster using AI.  
+•  Is it making a prediction? Almost everything we do as marketers is trying to predict an 
+outcome or behavior. And making predictions is what AI does best.
+You don’t have to answer “yes” to all three questions to have an AI use case. Answer “yes” to one 
+or two questions, and the task is a likely use case for AI. Answer “yes” to all three questions, and it 
+definitely is.
+Top AI Use Cases in Content Marketing
+To show you what’s possible, here are some of the top use cases that content marketers rely on AI 
+for today:
+• Develop intelligent content strategies and briefs.
+•  Develop and maintain editorial policies, brand standards, style guides, and content  
+governance guidelines.
+• Discover insights into top-performing content and campaigns.
+• Distribute content at scale across different owned, earned, and paid channels.
+• Generate, edit, and remix images, video, and audio to produce professional-grade content.
+•   Optimize website content for search engines.
+•   Recommend highly targeted content to users in real-time.
+•   Predict which content will perform best and generate ROI.
+•   Repurpose content into different formats and styles.
+•   Test different content formats, headlines, lengths, etc.
+•   Transcribe presentations, podcasts, and webinars. 
+•   Write and edit marketing copy, blog posts, website content, ebooks, whitepapers, case 
+studies, and other collateral.
+How to Find AI Use Cases  
+for Content Marketing
+All you have 
+to do is figure 
+out how AI can 
+supercharge 
+select tasks 
+you do all the 
+time.
+10  |  AI for Content Marketing Blueprint  
+How to Find AI Use Cases for Content Marketing
+Top Content Marketing Use Cases by Industry
+Another way to look at AI use cases in content marketing is to draw inspiration for use cases by industry.
+Software-as-a-Service (SaaS)
+•  Predict the intent behind search topics, so you can create more content on topics being 
+searched by consumers ready to do a demo or make a purchase.
+•  Streamline and automate podcast creation and production to differentiate your SaaS brand 
+in your industry.
+•  Predict which text, video, and imagery will lead to the highest number of conversions into 
+product signups or app downloads.
+•  Surface topics and keywords where you have a unique competitive advantage to outrank 
+better-funded competitors. 
+• Automatically outline and generate blog posts for your target audiences and verticals. 
+Financial Services
+•  Automatically outline, generate, and summarize long-form content assets, like ebooks and 
+reports, to explain complex financial topics clearly to audiences.
+•  Standardize content language and messaging to be more inclusive of audiences from all 
+walks of financial life.
+•  Personalize content and messaging to a user’s specific financial data or goals, making it 
+highly relevant to audiences with different incomes, financial targets, or levels of interest in 
+specific financial products.
+• Generate outlines, scripts, and transcripts for hosted webinars or partner webinars.
+• Scale content creation and improve writer productivity across teams and product lines.
+Healthcare
+•  Automatically generate content about common health conditions, symptoms, and medications.
+•  Improve operational efficiency by refining time-consuming processes like claims processing, 
+denials, and collections.
+•  Deliver customized recommendations on health content based on a user’s content 
+consumption habits.
+•  Generate summaries, outlines, and simplifications of longer-form and more technical health content.
+•  Automatically summarize and simplify language from medical studies.
+•  Intelligently optimize existing healthcare content to rank higher in search.
+•  Standardize the usage of medical terminology across teams and departments.
+Ecommerce
+•  Dynamically test landing page headlines, copy, and content to improve conversion rates.
+•  Predict which ad content and images will lead to the highest conversion rates.
+•  Automatically generate product descriptions.
+•  Automatically generate different variations of product listings and images at scale to fit the 
+standards of different content channels.
+•  Intelligently recommend content and products based on consumer preferences and behaviors.
+11  |  AI for Content Marketing Blueprint  
+How to Find AI Use Cases for Content Marketing
+How Content Teams Can Scale AI
+Any content marketing team of any size can use AI across a wide variety of profitable use cases. 
+Once you’ve successfully used AI across some use cases, you can turn your attention to scaling it. 
+Here are some ways AI can help you scale content operations: 
+•  Use custom training to train AI on your own content, tone, and style. That allows AI to create 
+content, headlines, and summaries that sound like your brand and team.  
+• Use AI to create and enforce extensive team-wide style guides. This automatically keeps 
+content creators consistent without having to manage writers manually.  
+• Use AI to create and enforce common language and messaging across different assets.  
+•  Automatically create AI-powered content using snippets and templates. This allows you to 
+reuse content that already exists.  
+•  Use AI-powered insights to determine how teams are using current AI tools. Some tools can 
+show you usage rates across teams. You can use that information to get more value out of your 
+existing technology.  
+•  Use AI to stay secure and compliant across use cases. Find AI platforms designed to follow all privacy 
+and data laws in your industry.
+Successfully scaling AI implementation depends on your team’s current content maturity level. 
+Content maturity refers to your ability to execute content strategies.
+More mature content organizations will get the most out of AI, plain and simple. As you pursue AI 
+scaling, you need to gauge your content maturity level. 
+To do that, Writer has a content maturity rating system detailing the five levels of content maturity. 
+At each level, the system has recommendations on how to approach AI.
+Level 1: Chaotic
+Teams that have no formal content operations should focus on creating standardized content 
+processes before bringing in AI tools.
+Do:  
+Dissect the content strategies of the companies in your space; develop a basic content strategy 
+framework.
+Don’t:  
+Use AI to start spewing keyword volume plays that can hurt your domain and brand before you’ve 
+even started.
+Level 2: Piloting
+Teams that are starting to develop a content strategy can use AI to speed up ideation and 
+experimentation. Use AI tools to support writers to edit their own work, get help with top-of-funnel 
+article outlines and first drafts, generate headlines, create FAQs for SERPs, and speed up landing 
+page creation.
+Do:   
+Invest in hiring at least 1 strong writer who is AI savvy. Build out a style guide that clearly defines your 
+brand voice, messaging, audience goals, differentiated POVs in the market, and your head terms.12  |  AI for Content Marketing Blueprint  How to Find AI Use Cases for Content Marketing
+Don’t:  
+Neglect to staff your team with strategic, skilled writers or become overly reliant on AI — it can 
+prevent you from getting to Level 3. 
+ 
+Don’t try to scale without building out the basics of your style guide and messaging.
+Level 3: Scaling
+Teams who have experience with creating quality content can use AI to scale. Use AI tools to build 
+out blog posts from human-created search-optimized outlines, repurpose content into shorter 
+snippets for different channels, like social media, and create distribution support content like 
+newsletters, social posts, and metadata.
+Do:  
+Invest in a business-grade AI platform; connect with and learn from other marketing teams who are 
+scaling with AI; get AI into your growth/demand marketing teams.
+Don’t: 
+Reinvent the wheel: learn how to prompt AI effectively; learn how to grow SEO traffic with AI.
+Level 4: Sustaining
+Teams with a mature, scaled-up content operation can use AI tools to enhance their content strategy. 
+Use AI to develop your own draft templates, train your own content models, find keywords, develop 
+briefs, and analyze content performance.
+Do:  
+Use a platform like Writer to build a library of customized templates for first drafts and develop 
+training data for your own AI models.
+Don’t:  
+Expect AI to do your research; the richer and more unique the stats and quotes you feed AI, the 
+higher quality your output (and the better you’ll get TOFU content to rank).
+Level 5: Thriving
+Teams with mature and integrated content operations can use AI to enhance all areas of their 
+content process. They can use AI to personalize content by identifying different customer cohorts to 
+target with different types of content.
+Do: 
+Think about ways AI can help with content personalization.
+Don’t: 
+Brag about how efficient, successful, and happy your content team is; keep learning!
+ 13  |  AI for Content Marketing Blueprint  You have a foundational understanding of AI. You have—or know how to find—use cases for AI. 
+Now, let’s look at how real brands are using real AI technology to excel at content marketing.
+Software company increases content output by 500%
+iManage’s document management system helps you 
+activate the knowledge inside your organization.
+As an industry leader, the company was publishing 
+a ton of content. But their small content team was 
+underwater. They were swamped with a backlog of 
+reviews and edits. It got so bad that they had to turn 
+away authors who had valuable things to say to their 
+audience.
+The worst part? 
+iManage knew their content was a hit with their audience based on the numbers. And they knew the 
+audience wanted more. But they couldn’t provide it.
+There was a big culprit to blame:
+The content team spent a huge amount of time making the same types of edits time and time again. 
+They had constant issues keeping writers consistent on language, style, messaging, and terminology.
+That changed when the team turned to AI.
+Using Writer, a leading generative AI platform, iManage vastly streamlined its content operations.
+The company used Writer’s AI-powered style guides to transform how they worked. Instead of 
+manual reviews, Writer automatically enforced style guidelines across all content creators. That 
+meant iManage’s team no longer had to review pieces for consistency. Writers were now empowered 
+to correct issues on their own. iManage was even able to customize Writer to learn their own 
+specialized terminology. That tailored the system to their exact needs, not some generic style guide.
+Here’s what happened next:
+AI from Writer helped iManage remove these editing bottlenecks holding up publication. That freed 
+up their writers to do what they do best: Create industry-leading content. As a result, the company’s 
+small content team went from publishing 200 articles a year to 1,000. And they did it without 
+significantly increasing headcount.
+Top Companies Using  
+AI for Content Marketing
+14  |  AI for Content Marketing Blueprint  
+Top Companies Using AI for Content Marketing
+High-growth ecommerce startup saves 35 hours per month, per writer
+Adore Me is a women’s fashion ecommerce company that is in 
+high-growth startup mode.
+As a high-growth startup, time and resources are everything to 
+Adore Me. Employees wear a lot of hats and work in a lot of 
+different areas of the business. Every hour (and dollar) spent 
+on any given task means a missed opportunity to make an 
+impact elsewhere. And Adore Me was spending a lot of time on 
+mundane but necessary types of content creation. 
+Adore Me thrives by creating content like product descriptions, 
+ads, and press releases. But, creating this content was a 
+massive time-suck for their writers. Instead of coming up with the next big thing, they were 
+bogged down creating core assets. That was a major disadvantage in a ruthlessly competitive 
+and innovative industry.
+AI came to the rescue. 
+Using AI-powered features from Writer, Adore Me could generate content automatically. That 
+included product descriptions, Google and Facebook ads, and press releases. Adore Me’s writers 
+stopped spending hours crafting these assets. Instead, they started creating them in minutes by 
+giving Writer bullet points as a guide. And the AI learned the company’s style, so tone and brand 
+were consistent across assets and teams.
+As a result, Adore Me saves each of its writers 35 hours per month on these types of content creation 
+tasks. In other areas, they’re saving up to 50% of the time it takes to create content. Is there an 
+impact on the company’s content creators? You bet. A hugely positive one. 
+At every level, AI is freeing up content resources. Those resources are now redeployed to bigger and 
+better campaigns with higher impact.
+15  |  AI for Content Marketing Blueprint  
+Top Companies Using AI for Content Marketing
+Intuit overhauls brand voice and inclusivity
+Intuit is the $100 billion company behind the hit accounting 
+software product QuickBooks. And, it had a problem.
+It had just overhauled the brand voice of QuickBooks, one of 
+its leading products. The brand voice was now more engaging, 
+relevant, and differentiated. At the same time, the company made 
+a public commitment to making its language more inclusive. 
+Being more inclusive meant using language that resonated more 
+with people of different backgrounds. It also meant avoiding 
+terms and phrases that might carry racist historical baggage.
+That wasn’t the problem. In fact, audiences and employees loved the new initiatives. 
+The problem was making sure that writers followed the standards consistently. 
+To solve the challenge, Intuit leaders adopted Writer’s generative AI platform. Writer’s AI showed 
+writers exactly when language needed to change in their work. It then empowered them to change it. 
+That included adjusting writing to read at a fifth- to eighth-grade reading level for clarity. It also 
+included making writers aware of how to make language more inclusive. It even helped writers 
+remove the passive voice from their work. 
+This was all made possible due to custom training. The AI learned Intuit’s specific brand and 
+inclusivity standards. Then, it deployed them across writers and teams.
+Turns out, AI was a huge hit at Intuit. More than 300 people at Intuit ended up using Writer to follow 
+brand guidelines. Staff also raved about how proud they were that the company had committed to 
+inclusivity.
+All in all, doing the right thing also turned out to be the smart thing to do.
+All in all, doing the right thing also turned out to be the smart thing to do.
+16  |  AI for Content Marketing Blueprint  
+Ready to try out AI for yourself? We’ve got you covered with 14 top-of-the-line AI tools for content 
+marketing that you need to try today.
+Writer
+Writer is a generative AI platform that helps you create content at scale. It does that by accelerating 
+your writing workflow, from ideation to drafting to distribution, using the power of AI. With Writer, 
+you can use AI to: 
+• Brainstorm content ideas.
+• Generate first drafts in seconds.
+• Automate brand, editorial, and style edits.
+• Instantly produce content distribution.
+• Repurpose content into different formats quickly.
+• And much more.
+Writer is built specifically for teams with enterprise-grade functionality, data, and security features. 
+Writer’s core features are designed from the ground up to harness the power of AI:
+•  Styleguide: Build an AI-powered style guide that enforces style and brand automatically 
+and in real time.
+•  Terms: Writer’s AI also manages and enforces the specific language choices that matter to 
+your brand.
+•  Snippets: With Writer, you can write something once, then use it endlessly on repeat to save time.
+•  CoWrite: Writer CoWrite automatically generates content for headlines, press releases, blog 
+posts, and more.
+Top AI Tools for  
+Content Marketing
+17  |  AI for Content Marketing Blueprint  
+Top AI Tools for Content Marketing
+Not to mention, Writer also offers the powerful ability to custom-train its AI on your specific content 
+and data, so it produces outputs that sound exactly like your brand.
+No other tool offers such a robust combination of AI capabilities specifically designed for teams.
+Use cases for Writer include:
+•  Content strategy: Automate and accelerate 
+your content strategy by using Writer as a single 
+source of AI-powered truth.
+•  Marketing: Create high-quality, consistent 
+content and messaging at scale.
+•  Editorial: Create and enforce consistent editorial 
+guidelines across assets, teams,  
+and products.
+•  Support: Empower agents to write better 
+responses to customers.
+•  Documentation: Write clear, consistent, and 
+scannable documentation.
+•  Learning and development: Build high-quality 
+learning content.
+•  Operations and IT: Roll out Writer’s AI 
+capabilities across teams quickly with a fully 
+compliant and secure platform
+•  HR: Improve communication and encourage 
+healthy communication across teams.
+Writer offers two main licenses, Team (for 1-5 people) 
+and Enterprise.
+The best part? It’s absolutely free to try.
+SIGN UP HERE18  |  AI for Content Marketing Blueprint  
+19  |  AI for Content Marketing Blueprint  
+Top AI Tools for Content Marketing
+AI can now assist you with a range of content marketing tasks, and the only limit is your imagination.
+ChatGPT from OpenAI is an AI tool that responds to natural language prompts.
+Just type in a question or command into ChatGPT, and it gives you a cohesive, complete answer.
+You can tell it to do common content marketing tasks like:
+•  Organize notes into outlines.
+•  Write short blog posts based on bullet points.
+•  Summarize transcripts and articles.
+•  Reword or rewrite content.
+•  Brainstorm content ideas and headlines. 
+•  Populate editorial calendars.
+•  And much, much more.
+ChatGPT doesn’t replace content marketers. And you always need to verify its output. But, even so, it 
+saves content marketers hours of time each day ideating and creating.
+Cohere provides a suite of tools that use AI to help you build custom AI-powered content solutions for 
+your business.
+Using Cohere’s API, you can tap into large language models for a variety of use cases. That includes:
+•  Harnessing the power of content and language classification using its Classify product.
+•  Tapping into text generation capabilities with Cohere Generate.
+•  Uncovering trends in text using the company’s Embed product.
+If you need help creating content for blogs, social, or email, AI’s got your back. Copy.ai creates content 
+in just a few clicks for a variety of content marketing use cases, including:
+•  Blog content.
+•  Sales copy.
+•  Social media content.
+•  Website copy.
+•  And much, much more.
+In the process, it helps you beat writer’s block, come up with new ideas, and get started writing faster.20  |  AI for Content Marketing Blueprint  
+1 C-suite Series: The 2021 CEO Study
+2 The State of Marketing Budget and Strategy in 2022
+3 Leadership Vision for 2021: Chief Marketing Officer
+Top AI Tools for Content Marketing
+If you need eye-catching original art for your content, AI can help.  
+ 
+DALL-E 2 automatically creates and edits images based on the text prompts you give it.  
+ 
+First, describe the image you’d like DALL-E 2 to create. It can be almost anything you want, in any style.  
+ 
+Then, DALL-E 2 generates several professional-grade images that match your prompt in seconds.
+It’s that simple. It’s perfect for content marketers tired of combing through tired stock photos. Instead, 
+why not generate stunning original art to go with each piece of your content?
+All-in-one video and audio editing just became simple, thanks to AI.
+Descript uses AI to put professional-grade video and audio production in your hands. The tool’s simple 
+UI makes it easy for anyone to produce videos, audio clips, transcripts, and more.
+It’s perfect (and affordable) for podcast, webinar, and course production. And you don’t need to hire 
+pricy production firms to create multimedia content assets.  
+Content repurposing is key to getting the most out of your content marketing. And AI can help you do 
+it better, faster, and cheaper.
+GoCharlie is an AI writing tool that can turn YouTube videos into blog outlines. Just drop in a URL 
+for your YouTube video, and GoCharlie fetches a complete blog outline. You can then have the tool 
+generate a full blog post based on that outline. (It generates content, too.)
+Last, but not least, it can summarize content for you. 21  |  AI for Content Marketing Blueprint  
+Top AI Tools for Content Marketing
+AI doesn’t just create content for you. It can also make your existing content better.
+Grammarly uses AI to automatically check your writing for typos and grammatical errors. But that’s 
+just the beginning. Grammarly also shows you how to adjust tone to achieve specific effects on your 
+audience. And, it’ll help you communicate with crystal clarity through writing recommendations. 
+It’s like having a professional editor on-call 24/7.
+Need to create blog posts fast? AI from Jasper can help.
+Jasper is an AI content generation tool that can write blog posts and generate images in seconds.
+First, tell Jasper what you want to write about. Then, provide it with a few bullet points to work off of. 
+Click a button, and voila! Fresh content written by AI.
+Writer’s block is the enemy of every content marketer. AI from HyperWrite can help you beat it.
+After you’ve written a sentence in HyperWrite, it can complete your sentence or paragraph. From 
+there, you can break through a block—or tell it to keep writing. No more staring at a blank page. No 
+more banging your head against a wall trying to figure out what to write next.
+ 
+If you’re creating content strategies without AI, you’re at a disadvantage.
+MarketMuse is an AI platform that identifies your top content opportunities.
+The platform uses AI to tell you which topics to target and how to rank for them. It even shows you 
+what other pieces of content on Page 1 of SERPs missed, so you can outcompete them.
+Not to mention, MarketMuse generates AI-powered content briefs. The briefs give your writers precise 
+guidance on how to craft content that dominates.
+The result? Incredible—and predictable—content performance.22  |  AI for Content Marketing Blueprint  
+1 C-suite Series: The 2021 CEO Study
+2 The State of Marketing Budget and Strategy in 2022
+3 Leadership Vision for 2021: Chief Marketing Officer
+Top AI Tools for Content Marketing
+What if you could automatically tailor your messages to an individual user’s preferences?
+AI platform Persado shows users the language that motivates them most to engage and act.
+Say goodbye to one-size-fits-all messaging. Persado’s AI actually knows what type of language a user 
+prefers. Then, it adjusts your content to make it maximally appealing to that individual. And it does it at 
+scale across your entire audience.
+The result is higher rates of content engagement and increased revenue.
+Sometimes, you don’t need to just create content. You need to say it in the right—or a different—way. 
+That’s where AI from Wordtune comes in.
+Wordtune can rewrite and rephrase any piece of text you give it. It can also alter a piece of text to have 
+a more formal or casual tone. It can even shorten or expand your text as needed. 
+Want to write content like top brands do? Check out AI from Writesonic. 
+Writesonic’s AI has been trained on the top-performing copy from major brands. That means it 
+can generate blog posts, landing pages, and other types of content like the pros. It also features a 
+ChatGPT-like interface to prompt the AI writer with voice or text.23  |  AI for Content Marketing Blueprint  AI is the future of content marketing because it solves content marketing’s biggest 
+challenge: removing content bottlenecks that cripple performance and revenue.
+AI gives you the ability to 10X the impact of your content marketing team, no matter how 
+big or small. That, in turn, makes it possible to actually scale your content marketing—an 
+outcome impossible to achieve with traditional technology.
+And it’s just the beginning. AI’s capabilities are rapidly improving, and its cost is dropping. 
+Today, AI for content marketing is highly powerful, easy to use, and affordable across 
+hundreds of use cases. In the coming months, it will only grow more so.
+Businesses that invest in understanding AI, finding use cases, and testing tools will 
+outcompete anyone doing things the old way.
+So, what are you waiting for?
+You have the understanding. You have the use cases. And you have the tools. 
+Now, it’s time to get to work.
+Why AI Is the Future  
+of Content Marketing
+AI is the future 
+of content 
+marketing 
+because it 
+solves content 
+marketing’s 
+biggest 
+challenge.24  |  AI for Content Marketing Blueprint  
+About Marketing AI Institute
+Marketing AI Institute is an online education and event company that makes AI approachable and 
+actionable to marketing leaders around the world. 
+The Institute owns and operates Marketing AI Conference (MAICON), a global event that attracted 
+300 marketing leaders from 12 countries in its inaugural year, and Piloting AI for Marketers, a 
+course series that teaches marketers and business leaders how to drive productivity, creativity, and 
+performance with AI.
+Since its launch in 2016, Marketing AI Institute has educated tens of thousands of marketers on 
+the present and future potential of artificial intelligence, and connected them with AI-powered 
+technologies to drive marketing performance and transform their careers. 
+Today, our weekly newsletter subscriber list includes marketing leaders from major brands such as 
+Accenture, Adidas, Adobe, Disney, Ford, IBM, KPMG, LEGO, LinkedIn, MasterCard, Mayo Clinic, 
+Microsoft, Nasdaq, Nvidia, Oracle, and Samsung. 
+Marketing AI Institute’s founder and CEO is Paul Roetzer. Roetzer is founder and CEO of Marketing 
+AI Institute, and founder of Ready North (formerly PR 20/20), HubSpot’s first partner agency. He is 
+the author of Marketing Artificial Intelligence (Matt Holt Books, 2022), The Marketing Performance 
+Blueprint (Wiley, 2014) and The Marketing Agency Blueprint (Wiley, 2012), and creator of the Marketing 
+AI Conference (MAICON). 
+About Writer
+Writer is the leading generative AI platform built for the needs of companies and teams. Unlike other 
+AI products, Writer’s training happens securely on a company’s own provided data and their style and 
+brand guidelines. The result is content that’s consistent and on-brand, whether the initial text came 
+from humans or from AI.
+Writer is enterprise-grade with all of the security and data privacy features needed for organization-
+wide rollouts. Writer is deployed widely at leading companies like UnitedHealthcare, Accenture, Intuit, 
+UiPath, HubSpot, Spotify, Hilton, Uber, and Deloitte.

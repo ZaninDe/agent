@@ -1,0 +1,589 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Implementing Effective Marketing Dashboards  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+Measuring marketing performance has become a top priority for  almost 
+every organization, yet most do  not have a  comprehensive system in 
+place.  
+ 
+Marketing Dashboards provide a high -level snapshot of the  most critical 
+metrics that relate to business performance.  
+ 
+Benefits of implementing a Marketing Dashboard include:  
+ 
+ Ability to Measure Marketing Effectiv eness/ROI  
+ Improved Visibility for Senior Management  
+ Better Allocation of Resources  
+ 
+ 
+This report will define Marketing Dashboards, highlight their  benefits, 
+and provide high -level Best Practices for establishing  an integrated 
+performance measurement system . 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+Table of Contents                                Page  
+ 
+ 
+ 
+Introduction         3 
+ 
+What are Marketing Dashboards?      4 
+ 
+Benefits of Marketing Dashboards      4 
+ 
+Implementation Best Practices       5 
+ 
+Conclusion          12 
+ 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+Introduction    
+ 
+ 
+ 
+ 
+Over the past 10 years there has been a distinctive shift in Marketing 
+activities; budgets are only being allocated to investments that can 
+produce measurable returns, such as sales support and lead generation. 
+In a time of Sarbanes -Oxley compliance, repeatable controls, processes, 
+and policy & procedures, have been implemented to ensure 
+accountability.  
+ 
+This cultural shift is spreading into Marketing as senior executives have 
+witnessed increased efficiency & effectiv eness by standardizing, 
+measuring, and benchmarking, key metrics in functions like Finance, 
+I/T, Sales, and Operations.  
+  
+Structured processes and analytics are new for most Marketing 
+departments, so it is no wonder that in a recent CMO Council  Survey, 
+Marketing Performance Measurement was  highlighted as a significant 
+priority by over 90% of the companies. Strikingly, less than 14% of 
+these companies reported having any type of comprehensive system to 
+measur e Marketing. Those who did have systems in place significantly 
+outperformed their competitors in revenue growth, market share, and 
+profitability.  
+  
+Clearly, it is essential that Marketing professionals learn the Marketing 
+Performance Measurement discipline  if they are to survive. No longer is 
+it acceptable to provide gut -feel estimates of the impact of marketing 
+programs. Results must be measured.  
+   
+A simple approach to measuring performance is implementing a 
+“Marketing Dashboard .” This report will define Marketing Dashboards, 
+highlight their benefits, and provide high -level Best Practices for 
+implementing an integrated performance measurement system. Before 
+implementing any MPM solution, be sure to read our summary, “ Get 
+Ready to Measure Marketing Performance ” and complete the 
+Dashboard Readiness Assessm ent. If you are already measuring 
+your marketing perform ance, use our Marketing Measurement  
+Maturity Assessment  to benchmark your strengths & weaknesses and 
+to identify areas for  improvement .    
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+Benefits of Marketing Dashboards  What are Marketing Dashboards?   
+ 
+   
+ 
+ 
+Marketing Dashboards are comprised of the most vital diagnostic and 
+predictive marketing metrics, structured so that executives can quickly 
+identify trends in performance.  
+  
+Typically, Marketing Dashboards have 3 -5 key metrics in each of the 
+following categories:  
+  
+ Customer  
+ Product  
+ Brand  
+ Channels  
+ Efficiency  
+ Organizational Development  
+ Environment (macro -economic)  
+  
+Once the key metrics have been established to highlight performance for 
+that aspect of marketing, data can be sorted by: geography, business 
+unit, markets, or any other relevant perspective.  
+ 
+ 
+ 
+  
+ 
+ 
+ 
+There are numerous reasons why you should consider improving your 
+performance measurement system for marketing.  
+  
+Some of the key benefits are:  
+  
+ Development of a Performance -Driven Culture  
+ Increased Visibility for Senior Executives & Board  
+ Ability to Demonstrate Effectiveness & ROI  
+ Justification of Marketing Budget & Spending  
+ Improved Sales & Demand Gene ration  
+ Better Allocation of Department Resources  
+ Financial Risk Mitigation of Future Investments  
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+Implementation Best Practices   
+ 
+   
+ 
+ 
+Following are the 7 key stages of implementing a Marketing Dashboard:  
+  
+1. Discuss Project with Steering Committee  
+2. Assemble a Project Team & Complete Project Plan  
+3. Review Data Sources & Identify Gaps  
+4. Select Critical Performance Metrics  
+5. Build a Framework for Measuring Results  
+6. Develop a Brand Scorecard  
+7. Select a Marketing Dashboard Solution  
+  
+Next, we will examine these stages and provide practical advice to help 
+you with each step of the implementation.  
+ 
+ 
+1.  Discuss Project with Steering Committee    
+  
+Marketing Dashboards are not for every organization. If your senior 
+leadership does not buy -in to the concept, your project will never get off 
+the ground. Achieving cross -functional alignment on the role of 
+marketing in your organization is a key success f actor for a successful 
+implementation of a performance measurement system. Use our 
+Dashboard Readiness Assessment  to determine how prepared your 
+organization i s for a Marketing Performance Measurement or 
+Dashboarding initiative.  
+  
+Influence the key stakeholders in your organization by communicating 
+the benefits of your business case, from their perspective. If it is a VP 
+Sales, speak in terms of increased Sales Support , Lead Generation , 
+and better Customer Relationship Management . For a CFO, focus on 
+the ability to track financial returns from Marketing investments, and 
+better allocation of resources & budgets. Us e Demand Metric’s 
+Stakeholder Analysis Matrix  to identify key stakeholders and 
+evaluate their interest, power, support level, and buy -in. 
+  
+Once you have achieved  approval to implement a Marketing 
+performance measurement program, and obtained a solid commitment 
+from your peers to help you with the process, you are ready to assemble 
+your project team.  
+  
+   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+2.  Assemble a Project Team & Complete Project Plan   
+  
+First, determine the goals & objectives of your project plan . Ensure you 
+have alignment with the general business strategy, and create high -level 
+goals that will resonate with your sponsors at the executive level.  
+  
+As measuring performance and developing a Marketing Dashboard is an 
+integrated exercise, build a cross -functional team including leaders from 
+the Sales, Information Technology, Finance, and Customer Service 
+departments. You will require insights from each of these areas if you 
+are serious about keeping a pulse on your department and its 
+effectiveness. Distribute a project p lan, which includes the following: 
+goal & objectives, scope of work, deliverables, costs & scheduling, and 
+acceptance criteria.  
+  
+Having a detailed roadmap of your project will ensure that you stay on 
+track, gain momentum as you achieve milestones, and man age 
+expectations accordingly. Many performance measurement initiatives 
+have failed as a result of improper planning up -front. To minimize risk, 
+be sure you invest the time to document what you are trying to 
+accomplish.  
+  
+  
+3. Review Data Sources & Identify Gaps   
+  
+Every organization contains huge volumes of information that can be 
+converted into insightful, decision -making data, if properly extracted. 
+Information can come in many forms: staff industry knowledge, 
+operational transaction data, and sto red information on shared drives, or 
+filing cabinets.  
+  
+Following are a few areas to check first:  
+  
+ Historical Transaction Data  - every company should have a 
+record of past results. Examine the impact your previous 
+Marketing efforts had on the business. Ge t a grip on future by 
+analyzing the results of your past.  
+ Marketing Research  - perhaps you have some raw survey 
+results from customers that can provide some insight into the 
+dynamics of your markets.  
+ Intuition & Experience  - if you have access to executive s who 
+have been in the industry long enough to know that if you do 
+this, that will happen, leverage their experience to provide at 
+least a base level of understanding.  
+   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+While you are mapping your knowledge base and gaps , you will develop 
+hypotheses about the relationships between key data and predictive 
+insights. For example, you may draw parallels between client 
+satisfaction and customer retention rates which influences profitability. 
+The whole goal of a Marketing Dashboard is to help you understand the 
+casual links between marketing performance and business results.  
+  
+  
+4.  Select Critical Performance Metrics  
+  
+Reconsider the agreed -upon role for marketing in your organization to 
+determine what information you need to be able to effectively measure 
+your performance. Determining the questions that you will inevitably 
+need to answer is a precursor when establishing an effective dashboard.  
+  
+Work backwards from th e business objectives to identify what marketing 
+needs to do to support these goals. If market share is the key 
+performance indicator, attempt to find that kind of information, so you 
+can put a stake in the ground. Alternatively, if you are in a mature 
+market, your key benchmarks might be focused on client retention, or 
+superb customer service.  
+  
+After you have documented what you need to know, assess the value & 
+cost to obtain that information. Pluck the low -hanging fruit that is high 
+value & low cost; di sregard completely what is low value, high cost; 
+ignore the low value, low cost; and work slowly towards the information 
+that is high value, high cost.  
+  
+Following is an example of a matrix that you ca n map your knowledge 
+needs into:  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 8 
+This mapping exercise leads to the identification of your opportunities 
+(what you know), risks (what you don’t know), and key success factors, 
+which in turn, limit the scope of what could be measured, to what needs 
+to be measured. Your goal is to el iminate any potential metrics that 
+don’t correlate to business results in a straightforward manner.  
+  
+In the initial stages of your dashboard, you may have an alarming 
+number of “ key performance indicators ” that have been highlighted. 
+A typical company will have anywhere from 25 -40 of these measures, 
+based on the 7 key categories of metrics.  
+  
+Over time, you will test & refine your hypotheses regarding the  causal 
+chains, eliminate redundant measures, sort, prioritize, and learn which 
+are truly the most effective indicators of performance. Keep structure in 
+mind, as it will be easier to glean insight and identify patterns if your 
+metrics are organized in a s ensible way. In the end, you will likely focus 
+on 10 -20 key metrics that help you operate more efficiently & 
+effectively.  
+  
+Most companies are able to effectively measure direct mail, 
+telemarketing, and internet marketing, as many software tools have 
+these  capabilities. While these areas are certainly important, don’t forget 
+that branding, channel marketing, sales & marketing collateral, 
+advertising, and market research, represent a significant portion of 
+marketing budgets, and therefore need to be analyzed  and measured. 
+Build momentum with the easier areas to measure, but don’t omit the 
+other aspects.  
+  
+  
+5.  Build a Framework for Measuring Results  
+  
+The cultural shift to approve corporate initiatives that have immediate 
+quantifiable impact is a dangerous dynamic for marketing professionals. 
+On the one hand, it is critical that a business invests in areas that have 
+short-term benefits and returns, but on the other, it can leave out key 
+areas such as Brand Equity. Overcoming this near -sightedness depends 
+on your ability to develop a measurement framework that incorporates 
+both short -term and long -term financial results.  
+  
+Instead of focusing on return on investment for each marketing program 
+individually, establish a Customer -Base Value (CBV) benchmark that you 
+can monitor to track results. Work with Finance & Accounting to agree 
+on the calculation for Customer -Base Value. Take the total number of 
+customers and multiply that by the net present value of these customers 
+(gross profit contribution) over their av erage lifetime. Be conservative 
+with your estimates and only take into account the products that your  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 9 
+customers are currently purchasing or expected to continue purchasing. 
+It may take a few passes to have everyone agree on the formula, but 
+once you have t his benchmark you can start measuring performance 
+over various periods of time.  
+  
+Using a standard benchmark like Customer -Base Value will make it 
+easier to present business cases for investments, and track results. For 
+short-term investments like tradesho ws, you can demonstrate the 
+impact over a few months. When measuring long -term programs like 
+Branding, you can take a snap shot of your CBV before and 12 -24 
+months after. Having a common denominator like CBV is also good for 
+measuring the effectiveness and  efficiency of your marketing spend.  
+  
+Your metric for effectiveness can now be the actual change in CBV for 
+each period compared to the expected change in CBV. If a particular 
+initiative, like CRM, is expected to increase CBV by a certain amount, 
+you can now measure the effect of that program based on a real 
+increase in CBV. Similarly, marketing efficiency can be defined as 
+change in CBV/dollar spent.  
+  
+Both efficiency and effectiveness measures are best analyzed from a 
+historical perspective and compared to targeted goals. Setting and 
+refining goals and expectations will help your organization continuously 
+improve and advocate performance measurement. Once you have 
+developed your CBV benchmark, you are in a position to analyze the 
+return on short & long -term marketing investments from a financial 
+perspective.  
+  
+  
+6. Develop a Brand Scorecard   
+  
+One of the most difficult elements to measure is the impact of your 
+brand on future economic value. Marketers tend to convince their peers 
+that a solid brand is the foundation for retaining customers, attracting 
+new customers, and maintaining prices in a competitive environment.  
+  
+In reality, measuring the long -term value of marketing investments that 
+create “preference” and “loyalty” for your brand is critical. In ma ny 
+industries, over half of the annual marketing budget is spent on 
+programs that do not clearly relate to incremental profits, but do 
+improve the vitality of the brand in the marketplace. Since this type of 
+investment doesn’t provide a means of generating  increased revenue in 
+the short -term, it needs to be treated as a separate asset.  
+  
+Given that strong brands produce returns over a longer period of time, 
+you need to develop a method of calculating brand equity and track its  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 10 
+improvement. This is where a B rand Scorecard can help you; it 
+measures your brand strength in the perceptions of your customers and 
+prospects. Diverging from the marketing Dashboard, which evaluates 
+marketing investments from a corporate perspective, the Brand 
+Scorecard asks “what do o ur customers, prospects, and employees, 
+believe about our brand?” and “how do these perceptions translate into 
+opportunities for economic development, or risks that need to be 
+mitigated?”  
+  
+Use a Brand Scorecard  in conjunction with your Marketing Dashboard 
+to track the accumulating goodwill that has yet to transform into 
+revenue for your business. Avoid the common mistake of thinking that 
+achieving “brand awareness” is an  end in itself. We all know many 
+brands that we don’t buy from on a regular basis. Instead, focus on how 
+your brand creates value for your business, by leveraging its equity to 
+generate profits.  
+  
+Following is a simple brand value chain that outlines how m arketing 
+activities convert unaware  prospects into loyal customers:  
+ 
+ 
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ 
+ 
+ 
+ 
+ 
+The successful link between your Activities and Brand Image depends on 
+how clear, differentiated, and consistent your messages are. Gaining a 
+positive Brand Equity relies on having competitive advantages that are 
+relevant to your market, and ensuring that you are correctly positioned 
+in the mind of your customers & prospects. Understanding why 
+customers buy from you, or from your competitors, will help you adj ust 
+your activities to maximize economic value.  
+  
+ 
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 11 
+Your Brand Scorecard should track how effective your activities are at 
+developing brand imagery; how your imagery creates the right attitudes 
+and beliefs; and how these equities are creating tangible return s in the 
+form of Customer -Base Value (CBV). It is essential that you define, test, 
+and demonstrate clear links between each of these stages, if you are to 
+continue to obtain funding for long -term Branding programs.  
+  
+Use customer satisfaction surveys , customer relationship 
+management tools, and internal/external branding exercises to gather 
+the metrics & knowledge you need to add a Brand Scorecard  to your 
+Marketing Dashboard . 
+  
+  
+7.  Select a Marketing Performance Measurement Solution   
+  
+There are many software tools in the market that can assist you  with 
+collecting & organizing data, building reports, and establishing your 
+Marketing Dashboard. Some companies will find it suitable to build an 
+internal Marketing Dashboard solution with help from the I/T 
+department; most will find it easier to implement  a standardized, proven 
+solution, in the form of an on premise  or on -demand platform. Click 
+here to request more information on how to select the right MPM 
+solution for your business.  
+ 
+If you don ’t want to invest in a software solution, try using our Sales 
+and Marketing Performance Dashboard  to collect, analyze, and 
+communicate key performance indicators and metrics for sales & 
+marketing.   
+ 
+Key areas in our dashboard include:  
+ 
+ Customers  
+ Branding  
+ Advertising  & Public Relations  
+ Events & Tradeshows  
+ Direct Marketing  
+ Website & Online Marketing  
+ Sales  
+ Marketing Collateral  
+ Channel Sales  
+ Pricing & Discounts.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 12 
+Conclusion   
+ 
+ 
+ 
+ 
+The requirements for marketing departments in mid -sized enterprises 
+are changing. It is more essential than ever to be  able to measure 
+results and demonstrate your effectiveness.  Fortunately, there are many 
+skilled experts who have helped  companies transform under -performing 
+marketing departments  into strategic, aligned, and accountable profit -
+centers.  
+ 
+Now that you know what Marketing Dashboards are, what  benefits they 
+bring, and have an understanding of the high -level implementation Best 
+Practices, discuss this initiative with Senior  Management.   
+ 
+By being up -front and honest about your inability to measure  the 
+performance of your department, you will build credibility,  trust, and 
+buy-in, to implement a solution. It will be absolutely  critical that your 
+Senior Management team is committed to this  initiative.  
+ 
+Invest some time to learn if a Marketing Dashboard is right for  your 
+organization. Among other things, it can help you drive  measurable 
+increases to the top -line, and justify your exis tence.  If you decide that 
+monitoring the performance of your  department is not a top priority, at 
+least you will be aware of  how many other market -leading companies 
+are operating.  
+ 
+ 
+ 

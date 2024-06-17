@@ -1,0 +1,2125 @@
+Insight Report
+Operating Models 
+for the Future  
+of Consumption
+January 2018A Report by the World Economic Forum’s System Initiative on  
+Shaping the Future of Consumption prepared in collaboration with Accenture
+Contents
+3. Preface 
+4. Executive Summary 
+6. Why Do Organizations Need to Change? 
+8. What Will Operating Models Look Like in the Future? 
+19. How Can Society Achieve a Brighter Future? 
+24.  Conclusion 
+25. Appendices 
+27. Research & Acknowledgements
+29. Endnotes 
+World Economic Forum®
+ 
+© 2018 – All rights reserved.
+No part of this publication may be reproduced or
+Transmitted in any form or by any means, including 
+Photocopying and recording, or by any information Storage 
+and retrieval system.
+REF 3105173
+Operating Models for the Future of ConsumptionPreface
+The Fourth Industrial Revolution is transforming entire systems of production, 
+distribution and consumption, providing opportunities for value creation through 
+game-changing technologies and challenges to ensure inclusivity. To ensure 
+success in the midst of digital disruption, there will be a premium placed on 
+innovation, a willingness of organizations to disrupt themselves, a quest for active 
+collaboration and a commitment to advance inclusive growth strategies.
+In the context of this seismic change, the World Economic Forum System Initiative 
+on Shaping the Future of Consumption envisions a future where technology is firmly 
+embedded in people’s lives, making their daily experiences simpler, highly personal 
+and more enjoyable as well as imbued with trust and harmonious with nature.  
+It takes a holistic view by addressing the question, “How can technological 
+disruption drive enhanced models of consumption with sustainable benefits for 
+business and society?”  
+Introduced in June 2016, this System Initiative features a portfolio of projects 
+designed to create forward-looking scenarios with corresponding roadmaps as 
+the consumption landscape rapidly evolves. Its inaugural project,  Shaping the 
+Future of Retail,  deepened the understanding of how the world of retail, the largest 
+private employer in the world, will continue to evolve over the next decade, fuelled 
+by hyperconnected consumers and a multitude of technology-enabled business 
+models. In 2017, the Operating Models of the Future project explored how 
+organizations must transform to support innovative business models and integrate 
+disruptive technologies and data analytics into the DNA of their businesses to 
+realize benefits across the enterprise. 
+The Forum is pleased to present this insight report developed in partnership with 
+Accenture to global leaders as they manage disruption on multiple fronts. Extensive 
+qualitative and quantitative research was conducted to understand the current 
+environment and develop a vision of the future. The future-oriented insights along 
+with the commensurate challenges in the report can be applied to a broad range 
+of businesses that are preparing to navigate the uncharted waters of the Fourth 
+Industrial Revolution. It is important to highlight that the transformation of operating 
+models will impact employees by altering roles, requiring new skills and changing 
+how work is done. To mitigate employment risk, the private and public sectors have 
+the opportunity to leverage the perspectives in this report and proactively advance 
+workforce transition strategies to meet the demands of the digital age while also 
+ensuring economic equality.
+It is only through collective effort that a pathway to realizing a prosperous future 
+with substantial benefits for both business and society can gain momentum. On 
+behalf of the Forum’s Future of Consumption System Initiative team, our profound 
+appreciation and gratitude are extended to all parties that played a key role in the 
+development of this insight report: the Accenture team led by Oliver Wright, the 
+project Steering Committee and all participants who contributed via interviews and 
+workshops. 
+Sarita Nayyar,  
+Chief Operating Officer,  
+World Economic 
+Forum LLC
+Zara Ingilizian,  
+Head of Future of 
+Consumption System 
+Initiative, Member 
+of the Executive 
+Committee, World 
+Economic Forum LLC4
+Operating Models for the Future of ConsumptionIntroduction
+The Fourth Industrial Revolution will accelerate the 
+introduction of game-changing technologies that will 
+further empower consumers and enable once-impossible 
+business models. The ability to respond to changing 
+needs of the marketplace will be key to future success 
+and implies material changes to the way companies 
+operate. Businesses must re-invent themselves by 
+establishing an agile and enduring enterprise in a highly 
+disruptive world while also ensuring inclusive societies. 
+This insight report presents a perspective on the future 
+of consumer-centric enterprises, identifies essential 
+characteristics that companies of the digital age must 
+embrace and integrate into their operating models, and 
+illuminates the significant societal challenges that are 
+underway and the commensurate call to action. 
+The Imperative: Making the Case for Change
+As explored in the 2017 Shaping the Future of Retail  
+insight report, over the next decade consumers will have 
+more choices and control than ever before. They will be 
+presented with a growing array of products and services 
+customized for their specific preferences. Over this 
+period, new innovative approaches to meet consumer 
+expectations will proliferate, particularly with eCommerce 
+penetration growing from 10% to more than 40%. As 
+these shifts catapult the importance of how data is utilized 
+and shared to new heights, consumers’ fears regarding 
+privacy, security and transparency will only elevate.  
+Despite these consumer and market opportunities, 
+evidence suggests that business transformation is 
+not occurring at the pace and scale required. 41% of 
+Consumer Industry companies in the S&P 500 have 
+either been acquired or gone out of business since 
+2000. Moreover, half of current S&P 500 companies are 
+predicted to face the same fate within the next ten years. 
+To survive disruption and thrive in the future, companies 
+must move to the modern and find their purpose. This 
+unequivocally demands a comprehensive change in each 
+component of the operating model including how it is 
+governed, how it deploys processes and technologies, 
+how it organizes its people to get work done, as well 
+as the ecosystems it creates. The reinvention must not 
+only deliver efficiencies for the business but also be 
+orchestrated with a profound sense of responsibility for all 
+stakeholders of the enterprise - consumers, the workforce, 
+shareholders, communities and the environment.   The Outlook: Consumer-Centric Enterprises  
+of the Future
+Consumer landscapes will change more in the next 10 years 
+than they have in the past 40. Wholesale disruption will 
+redefine every element of business. Industry boundaries will 
+fade as technology and consumer-centric industries fuse. 
+To deliver optimal consumer experiences, companies will 
+be compelled to leverage extensive ecosystems, doing far 
+less in-house than ever before. Co-opetition will multiply as 
+companies that were previously competitors work together 
+to deliver value that they cannot deliver on their own. At 
+the extreme, small groups of individuals will create virtual 
+organizations to orchestrate full ecosystems that design, 
+make, market and distribute products and services.   
+At its core, each digitally-enabled company will be 
+“consumer-obsessed” with a relentless focus on creating 
+growth through holistic consumer value, delivered across the 
+lifecycle of consumer engagement. As consumer needs and 
+demands shift, so will the company by developing and scaling 
+new opportunities that disrupt and ultimately cannibalize 
+existing businesses. 
+Large organizations will have fewer layers and use contingent 
+workers as market needs change. Small management teams 
+at the center will use data to direct the activities of front line 
+employees more precisely than ever before. Productivity 
+improvements will be created through the concurrent arrival 
+and scaling of two massive disruptions: the comprehensive 
+automation of repetitive tasks across the front and back 
+office; and the use of analytics to drive decision-making down 
+to the front line. 
+The workforce will transform to consist of internal employees, 
+freelancers and even consumers. Continuous learning will 
+be the norm, with workers seeking ongoing enhancement 
+of “soft” skills and “hard” skills. With a focus on self-directed 
+project work, workers will take unprecedented accountability 
+for their own careers and personal development. Executive Summary
+5
+Operating Models for the Future of ConsumptionThe Transformation: Essential Characteristics  
+of Future Operating Models
+Incremental changes will not suffice. To support the 
+aforementioned view of the future, each component of 
+the operating model must embrace seven transformative 
+characteristics that will establish new mindsets and 
+structures, ensuring economic viability in a disrupted world. 
+ –Mindset:  A profound shift in culture and ways of working
+1. Human:  Purpose is deeply embedded in the 
+organization of the future to empower employees 
+to deliver consumer outcomes, while also being 
+authentically engaging and partnering with employees 
+to foster intrapreneurial, life-long learning
+2. Living:  Businesses operate in a highly agile 
+organization that continually re-shapes and adapts by 
+using self-organising teams, prioritizing progress over 
+perfection and acting at a vastly accelerated pace 
+3. Enhanced:  The use of technology and analytics 
+transforms each function and, ultimately each worker’s 
+role
+ –Structure:  Fundamental changes in the shape and 
+execution
+4. Ecosystem:  A network of relationships enables each 
+participating company to accomplish far more than 
+it can alone; ecosystems form to deliver consumer 
+solutions, capabilities, or data sharing where each 
+company has a clear understanding of its core 
+capabilities and relies on others for the rest 
+5. Modular:  Businesses within the business monetize 
+internal capabilities by establishing a “plug-and-play” 
+structure to efficiently accelerate the development 
+and integration of new business ideas, start-ups, 
+acquisitions and outside capabilities
+6. Liquid:  Companies source and manage their 
+workforces by accessing the best talent at the right 
+time to meet demand through employment models 
+that include permanent employees, company affiliates, 
+partners, publicly available talent and consumers
+ –Economic Viability:  Responsibility to generate lasting 
+performance and sustainable impact
+7. Enduring: The holistic application of the other six 
+characteristics and focus on achieving sustainable, 
+profitable growth that is aligned to societal values and 
+establishing lasting trust and transparencyThe Implications: Addressing Societal 
+Challenges to Achieve a Brighter Future
+The reinvention of future operating models will require 
+significant effort, impacting all of society. Implications range 
+from the ability of workers to engage in digitally-enabled 
+organizations, security to protect individuals in fluid labor 
+markets and measures to both democratize and protect 
+information. Public-private partnerships across these key 
+areas are vital to minimize risks and optimize the potential for 
+value creation. 
+ –Worker Enablement in the Digital Age
+The technology-driven reinvention of the operating model 
+will create new digital skills requirements for jobs, in 
+addition to rapidly impacting existing roles. Today, 54% of 
+the activities currently performed by Consumer Packaged 
+Goods (CPG) workers and 40% of those performed by 
+Retail workers could potentially be automated. Therefore, 
+the workforce must be supported to master new 
+technological, analytical and interpersonal skills, while 
+embracing new ways of working to be effectively prepared 
+for jobs in the digital age.
+ –Flexicurity
+As consumer-centric industries transition to more 
+flexible operating models, workers that engage in 
+non-traditional career paths deserve access to similar 
+safety nets historically afforded them in more traditional 
+employment models. New contracts for employment, with 
+transparency and transferable benefits, will be needed 
+to support worker flexibility. Governments, industry 
+and individuals must collaborate to establish these new 
+contracts, which will be vital to promote a liquid workforce, 
+foster radical reskilling, support job mobility and ultimately 
+ensure worker welfare. 
+ –Consumer Data Principles
+The success of consumer-centric industries will be 
+predicated on the exponentially increasing use of consumer 
+data. Recent surveys find that 57% of consumers are 
+concerned with how businesses use their information, with 
+41% of consumers feeling they need greater transparency 
+into companies to have confidence in their products/
+services. To build long term trust, the industry must carefully 
+protect the privacy and security of consumers’ data and be 
+transparent about how they are utilizing it. 
+In conclusion, the decade ahead will fuel the acceleration 
+of technology-driven change which can lead to the creation 
+of significant value for consumers, workers and the 
+enterprise. As operating models transform to enable these 
+new opportunities for growth, there is the potential for both 
+positive and negative impacts on society. To ensure an 
+inclusive society, key stakeholders must work together in 
+focused collaboration to proactively manage this disruption to 
+achieve a brighter future. 6
+Operating Models for the Future of ConsumptionFor decades, the largest CPG and retail companies 
+dominated by exploiting economies of scale across a 
+linear value chain. Big-format shops offered wide ranges 
+of products at competitive prices and – as long as those 
+products delivered on expectations – consumer loyalty was 
+assured.
+Owning and selling big, global brands no longer guarantees 
+survival. This trend is further challenging the long-standing 
+symbiotic relationship between CPG and retail. Manufacturers 
+are selling directly to the consumer. Innovation has emerged 
+from unexpected sources, with small CPG companies 
+generating more than half of industry growth in many 
+categories. Extrapolated across the industry, analysis 
+indicates that half of future value will come from new sources 
+of growth.1 Retailers and e-commerce players alike are 
+aggressively pursuing private labels. Five of the largest 
+e-commerce players who dominate the global e-retail market 
+present the most compelling examples of value creation 
+through ecosystems. 
+41% Percentage of S&P 500 Consumer Industry 
+companies that have gone bankrupt, been 
+acquired or ceased to exist since 2000.2
+50% Percentage of today’s S&P 500 that are 
+expected to face the same fate within the  
+next ten years.3
+49% Percentage of global e-commerce market 
+held by the top five largest retailers.4
+53% Percentage of US food and beverage  
+industry growth captured by small companies  
+in 2016 compared to 2% growth captured  
+by incumbents.5
+Companies must shift their strategies and make the related 
+adjustments in how they operate, or risk obsolescence. 
+For incumbents, those existing companies currently at the 
+forefront, this reality will compel them to undertake the largest 
+changes in operating models since the Second World War. For consumer-centric industries, this Fourth Industrial 
+Revolution has three driving forces:
+1. Disruptive Technologies 
+The impact of technology is exponentially greater because 
+individual innovations increasingly work together. These 
+“combinatorial technologies” have enabled new entrants 
+to offer novel methods of consumer engagement that 
+create, deliver and capture value. Barriers to entry have 
+fallen as visibility and brand presence no longer depend 
+on expensive television advertising. Combinatorial 
+technologies are also transforming company operations. 
+Last year’s Future of Retail  insight report outlined the 
+impact of eight technologies on the value chain of 
+consumer industries. In the past 12 months, this impact 
+has shifted and deepened at a faster rate than previously 
+anticipated. For example, consider how 3D printing 
+companies have truncated R&D, scale production 
+and distribution. Historically, rapid prototyping was 
+the core use-case in 3D printing; today, technological 
+advancements have reframed these organizations as 
+active scale manufacturers (that is, those that can actively, 
+in an agile way, scale operations up or down to meet 
+demand). These changes have long-reaching impacts, 
+including the potential repatriation of manufacturing as 
+companies bring production closer to end consumers. 
+(For more on these changes, see Appendix A.)
+2. Proliferating New Business Models
+Rapid growth in the number of new business models 
+makes it much easier for companies to micro-target 
+offerings that meet precise consumer needs. Instead of 
+employing a discrete business model, industry players will 
+operate flexibly across a portfolio of models. No company 
+will be able to do everything in-house. Firms that were 
+previously standalone will need to become “ecosystem 
+enablers”, where success is measured, in part, by 
+the overall impacts the system produces. This ability 
+will be dynamic, with the most successful companies 
+continuously evolving what they do while making 
+conscious choices about how they generate economic 
+value.
+3. Empowered Consumers 
+Ever-connected consumers have higher expectations 
+than ever before as combinatorial technology and 
+new business models provide many ways for them to 
+discover, purchase and engage. Not only are consumers 
+dictating exactly what they want, but they are embedding 
+themselves at all stages of the value chain – acting as 
+developers, marketers, salespeople and even employees. 
+This is a fundamental change in the consumer value 
+equation, amplifying historic drivers – cost, choice and 
+convenience – and adding both control and end-to-end 
+experience. Why Do Organizations Need to Change?
+Disruptive technologies, new business models and the empowered consumer are accelerating industry change.  
+Companies must transform to survive.
+7
+Operating Models for the Future of ConsumptionIn many cases, a tailored experience outweighs cost 
+considerations. Analysis of Google search data6 shows 
+that consumers are increasingly seeking the “best” versus 
+This means that companies are no longer just selling products 
+to consumers, but are instead anticipating and meeting 
+consumers’ needs as part of deeper, more enduring, and in 
+many cases increasingly interactive, relationships. This implies 
+a shift in focus from maximizing market share and revenue to 
+creating material consumer value.
+Consider, for example, that a food company may move from 
+simply selling food items to participating in a healthy-eating 
+ecosystem. This network might provide a range of offerings, 
+including healthy packaged foods, personalized nutrition 
+subscriptions, and physical and emotional coaching. In this 
+scenario, rather than maximizing individual profits, participants 
+will strive to maximize the value of the entire system, while 
+realizing sustainable value for each stakeholder – consumers, 
+partners and self. 
+Search for
+“Best Make-up”
+Search for
+“Best Paper Towels”Search for
+“Cheap Make-up”
+Search for
+“Cheap Paper Towels”1 Oct 2010
+1 Oct 20101 Feb 2007
+1 Feb 200725
+2550
+5075
+75100
+100Average
+Average1Jun 2014
+1Jun 2014Figure 1: Consumer Search Analysis
+To ensure continued success, firms will need to craft an 
+operating model that recognizes these significant changes in 
+profit pools —the sources and distribution of profit within the 
+industry— across consumer-centric industries, and design 
+both organizations and ecosystems to unlock opportunities.
+Profit pools of the future will focus on the consumer. 
+Companies will need to seek revenue opportunities that 
+increase consumer value and balance cost savings with 
+consumer outcomes.the “cheapest”; this trend holds true for both high-touch 
+products, such as make-up, as well as utilitarian products 
+such as paper towels. 
+8
+Operating Models for the Future of ConsumptionCharacteristics of Future  
+Operating Models
+Operating models of the future – tightly focused on 
+consumers – will be built on characteristics that define the 
+mindset, structure and economic viability of the company. 
+Figure 2: The Three Core Tenets of Future Operating Models What Will Operating Models Look Like in  
+the Future? 
+Operating models of consumer-centric businesses must embody three core principles, enabled by seven essential 
+characteristics, to transform for the future and ensure their continued existence in a disruptive world. 
+Cultural shift in 
+approach and 
+ways of workingFundamental 
+changes in shape 
+and executionHuman,
+Living,
+EnhancedEcosystem, 
+Modular,
+Liquid
+Responsibility to generate 
+lasting performance and 
+sustainable impactECONOMIC 
+VIABILITY
+Enduring
+company and direct their own skill development through 
+continuous learning. By creating clear decision-making criteria 
+and managing outcomes, rather than activities, employees at 
+all levels will be “masters of their own fate”. These workers will 
+be able to act as “intrapreneurs”, who use an entrepreneurial 
+mindset within a larger organization.
+We have a saying at Andela – ‘YOYO Learning – 
+You Own Your Own Learning’. The people who 
+do this are the ones who will succeed.
+Jeremy Johnson – Chief Executive Officer of AndelaMindset  outlines the substantial cultural change that needs 
+to occur in an organization’s vision, objectives and ways 
+of working. Structure  describes the integration within 
+ecosystems and the internal platform that facilitates liquid 
+talent and capabilities. Economic viability  combines lasting 
+and renewable business impact with the licence to operate 
+through sustainable practices. 
+Mindset: The Cultural Shift in Approach  
+and Ways of Working
+Human
+In the future, companies will be more human – driven by an 
+organizational purpose and focused on consumer-centric 
+outcomes. In a world where technology is embedded into all 
+consumer interactions, this purpose will connect employees 
+to consumers and consumers to the company or brand. 
+Authenticity and personalization will be woven throughout 
+the culture, as well as the consumer experience. Purposeful 
+organizations will drive personal accountability, with individual 
+employees able to define their unique contribution to the 
+company’s purpose, while also maximizing their potential. 
+Employees will now be able to chart their own course at a MINDSET
+STRUCTURE9
+Operating Models for the Future of ConsumptionCase Study: Picnic – Empowerment Through Purpose
+Picnic is a Dutch online grocery organization that uses a 
+“milkman” model, where the same “runners” deliver to the 
+same homes at regular times. Customers trust and enjoy 
+seeing their favourite runners, who are selected for both their 
+people skills and their problem-solving abilities. Importantly, 
+and unusually, individual runners are able to determine the 
+best way to solve customer service issues. If a product is 
+missing, the runner can decide to purchase it in a local outlet 
+or deliver it at another time. The company also shares its 
+data with runners so that runners can proactively address 
+situations. Most people who started shopping at Picnic 
+two years ago are loyal customers, making an average of 
+40 purchases per year. With very low customer acquisition 
+costs – 75% of customers join Picnic via word-of-mouth – 
+and the efficiency of the last mile (that is, delivering locally, all 
+the way to the consumer’s doorstep), every customer adds 
+considerably to the contribution margin of the operation. 
+Human organizations will, thus, be characterized by a 
+fundamental change in how leaders lead. Critical leadership 
+skills will include the ability to focus on mobilizing the right 
+resources, regardless of tenure, and an understanding of 
+how best to act on the opportunities that will truly make a 
+difference. This is a shift that P&G Europe President Gary 
+Coombe calls “servant leadership”. To support this objective, 
+P&G leaders employ “upward” mentorship by looking to junior 
+members for insight into areas such as technology and social 
+media.  
+ 
+Future leaders in consumer-centric industries will need to 
+embrace this mentality and augment their approach into 
+“student leadership” – seeking mentors and learning from 
+non-traditional disruptors to maintain a high level of external 
+awareness. Leaders must adopt a new continuous-learning 
+mindset that contrasts with the “command and control” 
+behaviours that persist in many organizations today. 
+Living
+A hallmark of operating models of the future will be their 
+agility. Only 15% of today’s industry leaders believe their 
+operating models can respond sufficiently quickly to 
+changing market conditions, while more than 62% of 
+digital disruptors believe their operating models can do so.7 
+Living organizations will continually evaluate the external 
+environment and nimbly adjust to changing conditions. They 
+will be self-organizing, and their work will be project-based, 
+with new initiatives forming organically. Teams will act with 
+resolve and resiliency, prioritizing progress over perfection – a 
+“corporate garage” model enabling rapid experimentation 
+and the development of “minimum viable products” that they 
+test quickly, learning from successes and failures. Teams will 
+also respond to changing market dynamics and innovate 
+at a rapid pace, having the will to experiment and the ability 
+to do so. The end goal will be value creation across all 
+stakeholders.Case Study: Instacart – Rapid Experimentation
+Instacart serves a large network of physical locations, carrying 
+out millions of shopping occurrences. This allows for rapid, 
+statistically significant experimentation in real-life situations. 
+The San Francisco-based grocery delivery company runs 
+hundreds of experiments at any point in time, ranging from 
+two to four weeks in length. Chief Business Officer Nilam 
+Ganenthiran describes Instacart’s “culture of experimentation” 
+as one where individuals must be comfortable with fast failure 
+as only 10–20% of experiments succeed. 
+Case Study: Graze – Unleashing Agility
+London-based Graze is a natural-food company that delivers 
+directly to the consumer, sells to retailers in the UK and US, 
+and has a subscription model business with personalized, 
+monthly snack boxes. Explicit objectives, well-defined 
+guardrail metrics (which help to guard against potential 
+negative outcomes by covering additional dimensions on 
+which the primary objective is not necessary focused) and 
+independent initiatives enable unusual agility through a series 
+of sprints.  Just seven weeks after entering Sainsbury’s, Graze 
+created an alternate full line of products with simultaneous 
+packaging development, manufacturing and marketing. Once 
+in market, teams took a test-and-learn approach, making 
+immediate adjustments based on signals within days of 
+products being placed on shelf. 
+Enhanced
+Operating models of the future will see the creation of both 
+turbocharged capabilities and new ways of working through 
+technological innovation, continually enhanced by data that 
+improves decisions and resulting activities. Digitalization will 
+permeate every functional area; intelligent automation and 
+artificial intelligence will be incorporated into operations to 
+increase efficiency and accuracy, freeing human workers to 
+drive market growth and efficiency.
+Recent press articles have focused on a dystopian scenario 
+sometimes called the “Terminator” future, one in which robots 
+replace humans. Research and in market examples, however, 
+suggest an “Iron Man” future, with technology instead 
+enhancing human abilities, creating “super workers” capable 
+of delivering twice as much as non-augmented peers.8
+This will involve a significant shift in mindset and the ongoing 
+discovery and use of technology. Technology will no longer 
+be defined as the provenance of IT. Instead, it will be the 
+responsibility of each business unit and individual employee 
+to understand the new opportunities that technology unlocks, 
+and integrate those technologies into their day-to-day 
+activities – an ability that only 33% of current companies claim 
+to have.9 At the same time, the role of IT will expand, with a 
+focus on identifying and exercising disruptive technologies, 
+to unlock combinatorial technology that opens new strategic 
+options. As a result, each worker across the organization 
+will embrace technology and every company will become a 
+technology-powered company. 10
+Operating Models for the Future of Consumption27% Percentage of processes digitalized by 
+incumbent consumer industry companies.
+50% Percentage of processes digitalized by 
+consumer industry disruptors.10
+Case Study: Voodoo Manufacturing – The Power of 
+Combinatorial Technology
+To borrow a software development term, the 
+future of manufacturing is agile, not waterfall.
+Jonathan Schwartz  – Co-founder of Voodoo Manufacturing
+Voodoo Manufacturing, the New York-based 3D printing 
+start-up, uses combinatorial technology to continually 
+improve production efficiency on a manufacturing floor that 
+seamlessly melds human technicians, robots, 3D printers, AI 
+and other technology. In-house design software manages 
+and coordinates the process from order to shipping. Machine 
+learning increasingly streamlines processes. Voodoo is adding 
+robotics to automate tasks currently performed by technical 
+staff (for instance, robots “harvest” completed printing plates 
+and put clean ones in the printer). In the future, they believe 
+robots will clean parts, ensure quality and automate packing 
+and shipping, while human technical support troubleshoots 
+and continually enhances the effectiveness of the line.
+Next to technology adoption, a data mindset and 
+analytical capabilities will be the most significant factors 
+in determining future success: these are the building blocks 
+for enabling technology and understanding customers and 
+consumers. While few companies dispute the importance of 
+data, most have not yet gone through the dramatic change 
+necessary to become truly data-driven organizations. Future 
+operating models will view and incorporate data as DNA, the 
+fundamental ingredients for the entire organization, governed 
+by a top-down mandate and actively supported by every 
+employee. Serving the core, consumer-obsessed purpose 
+of the company will require significant increases in individual 
+consumer insight. As the pace of change accelerates, 
+dramatically expanded and continually renewed data becomes 
+vital to survival. Data will be the vital factor enabling leaders and 
+individual employees to make the best decisions at the optimal 
+speed. 
+Imperatives for the data-driven organization include:
+ –Top-down mandate, with leadership themselves actively 
+using data, driving its improvement and extending data as 
+DNA to every member and structural component of the 
+organization
+ –Exponential insights aided by data science and a real-time 
+data system across every function and role within the company
+ –Centrally facilitated and seamless flow of data across 
+business models, functions and project teams –Obvious, rapid decisions based on a single version of the 
+truth, driven by undisputed facts; time to action is reduced 
+by a factor of ten.
+Case Study: StitchFix – Enhancing Style with Data 
+Science
+This San Francisco-based on-demand styling service and 
+apparel subscription company marries predictive data science 
+with human skills to create a virtuous cycle that achieves and 
+sustains consumer relevance by unifying sales, marketing, 
+R&D and supply chain. The 80+ data scientists link every 
+aspect of operations. Algorithms guide human stylists to 
+the clothing choices that clients are most likely to enjoy and 
+purchase. Simultaneously, data science informs the supply 
+chain, determining the logistical flow that optimizes delivery to 
+the client’s door. Finally, live feedback from clients generates 
+a vast amount of consumer preference data by clothing 
+characteristic, which the company uses to predictively design 
+its private label line.11
+Case Study: Farmers Business Network – Unlocking 
+Agribusiness Value through Data Sharing
+Farmers Business Network (FBN) is a US-based analytics and 
+commerce platform that crowd-sources data from farmers to 
+help farmers make better decisions. Participants contribute 
+their individual data, which is consolidated into a significant 
+and powerful base of knowledge. This collaboration allows 
+all participants to benefit from the shared insights across 
+the platform. FBN farmers generate 9% higher corn yields 
+and 11% higher soy bean yields than average, illustrating 
+how good data and information enable this community to 
+make better decisions to increase output. Additionally, FBN 
+offers the first national e-commerce buying system for farm 
+inputs, premiums for speciality crops, and access to credit 
+programmes. While some farmers are at first hesitant to share 
+information with competitors, FBN has expanded primarily 
+through word-of-mouth as farmers realize the benefits to be 
+had in terms of profits of the digital farm economy and gain 
+strength in numbers during big agriculture’s era of mega-
+consolidation.
+Structure: The Fundamental Change in Shape 
+and Execution within the Operating Model
+Ecosystem
+Operating models of the future will be transformed 
+structurally, bringing ecosystems to the core of companies’ 
+strategies. Extending far beyond the existing supplier/
+customer value chain relationships, an ecosystem is the 
+network of cross-industry players who work together to 
+define, build and execute market-creating customer and 
+consumer solutions. An ecosystem is defined by the depth 
+and breadth of potential collaboration among a set of 
+players: each can deliver a piece of the consumer solution, or 
+contribute a necessary capability. 11
+Operating Models for the Future of ConsumptionThe power of the ecosystem lies in the fact that no single 
+player need own or operate all components of the solution, 
+and the value the ecosystem generates is larger than 
+the combined value each of the players could contribute 
+individually. Company strategies will assess which capabilities 
+and assets are truly “core” and vital to control – either 
+because they are vital to the business value proposition 
+or because there are winning economies of scale/scope. 
+Ecosystems accelerate the development of new markets as 
+potential solutions and capabilities can be quickly exploited 
+as an idea is born. This requires executive management and 
+strategists to collaborate to acquire these capabilities and 
+have an agile, innovative mindset.
+Companies will need to create ways to engage with start-
+up and accelerator communities by hosting competitions, 
+setting up collaborative working spaces and creating large 
+open-sourced innovation networks, often involving up to a 
+thousand different companies. Today, internet players have 
+some of the most sophisticated models, a complex web of 
+capabilities and relationships representing what ecosystems 
+will look like in the coming years. Case Study: Alibaba – Ecosystems Expanding Market 
+and Industry Reach
+Alibaba, the Chinese internet giant, manages a complex web 
+of business models, capabilities and other investments. This 
+ecosystem allows them to access capabilities from best-in-
+class providers, expand new businesses quickly and extend 
+into adjacent industries:12
+ –E-commerce Platforms: Alibaba manages many business-
+to-consumer and business-to-business marketplaces 
+(e.g. Taobao, Tmall and Alibaba.com), online-to-offline 
+businesses (e.g. Koubei) and investments in other 
+marketplaces (e.g. Lazada)
+ –Capabilities: In support of its diverse businesses, 
+Alibaba has built and invested in alternative payments 
+(e.g. Ant Financial, Paytm), logistics (e.g. Cai Niao, Didi, 
+Lyft), marketing analysis (e.g. Alimama) and supporting 
+technology (e.g. Alibaba Cloud)
+ –Extra-Industry Ventures: The company is building its 
+consumer health offerings through AliHealth.Figure 3: Components of the Data-Driven Organization  
+Data Engagement
+Basic: Sporadic usage of data  
+Good:  Standalone  
+analytics team
+Better: Analytics are 
+embedded in each function 
+Best: Every individual actively 
+and directly uses data, from 
+leadership on downData Sources
+Basic:  No data
+Good:  Internal quantitative data
+Better:  Diversity and depth 
+of real-time internal/external 
+quantitative and qualitative data
+Best: Ecosystem of partners 
+with two-way data sourcing
+Decision-Making
+Basic:  Asymmetric decisions 
+loop; no “right” answer
+Good:  Clear enterprise financial 
+targets; tactical targets by team  
+Better:  Teams independently 
+empowered to drive targets
+Best: Individual empowerment – 
+clear guardrails allow employees 
+to make rapid and independent 
+decisionsData Exchange*
+Basic:  Individuals hold data
+Good: Data shared within 
+functions
+Better: Cross-functional 
+data sharing
+Best: Cross-business 
+model data sharing
+* For example, the corporate centre takes in data from across business models and facilitates the continuous flow of data between them – thus, what 
+one business model learns about a consumer is immediately known to and affects the activities of other business models touching that consumer.Best
+Better
+BasicGood
+Representative 
+DisruptorRepresentative 
+Incumbent12
+Operating Models for the Future of ConsumptionCore Commerce
+ Mobile Media & Entertainment
+ Local Services
+	
+Payment & Financial Services
+Logistics
+Cloud Computing
+Marketing Services & Data Management Platform
+Data
+DrivenData
+Refuel
+Case Study: Royal Philips – Creating an Ecosystem to 
+Deliver Consumer Solutions
+As digitalization reshapes healthcare, Philips is adapting 
+from a transactional, product-focused technology company 
+to a solutions provider with customer needs at its centre. 
+Established in 2013 and now 20 people strong, Philips 
+HealthWorks runs 90-day programmes that have worked 
+with over 50 start-ups this past year to help build, test, de-risk 
+and expand new businesses in health technology. For each 
+cohort, Philips looks externally to select seven companies out 
+of around 400 to provide mentoring, access to the expertise 
+in the Philips network, and connections to help grow these 
+small businesses. Each cohort is selected based on a singular 
+theme (e.g. cardiology or neonatal care) and matched to be 
+non-competitive, allowing them to work easily together on 
+solutions. Companies are chosen without commitment to 
+future ownership.
+To extend the ecosystem, Philips started the HealthTech 
+Ventures investment organization in 2017 to formalize 
+partnerships with select companies in the HealthWorks 
+programmes and other early-stage companies. From seed 
+funding, indirect investing in fund-to-funds, and minority 
+stakes in select companies, Philips exchanges capital and 
+expertise for access to products and exposure to companies 
+in the direct fund that are agile, flexible and have specific skill 
+sets not currently found in the larger Philips organization. 
+The four-person team starts by assessing 2,000 companies, 
+then vetting 300 of those to identify 12–15 companies 
+in which to invest. By investing in innovation, creating an 
+ecosystem within the healthcare space, and learning from 
+small companies, this global health-technology player is 
+strengthening its impact in the hospital and the home.Currently, companies’ reluctance to share data for fear 
+of losing competitive advantage is often a key inhibitor to 
+ecosystem engagement. This attitude severely constrains the 
+value that players can gain from a more open approach. Best 
+practices for open data sharing include:
+ –Define data-sharing agreements that recognize 
+comparative advantage, and optimize total ecosystem 
+value, while protecting individual interests
+ –Outline data governance for appropriate use, including 
+compliance with local regulations
+ –Build integrated technology platforms that support data 
+interoperability, as well as protect data security.
+Ecosystems or Platforms?
+Platforms are one type of ecosystem. While every company 
+will be part of an ecosystem, some may have only peripheral 
+involvement in platforms. Research has identified three types 
+of platforms:
+1. Marketplace Platforms  hosting buyers and sellers
+2. Internal Company Platforms  that support multiple business 
+models
+3. Business-to-Business Platforms  on which ecosystem 
+partners trade capabilities (e.g. borrowing or monetizing 
+another’s existing capabilities and assets, such as 
+manufacturing or regulatory management)
+While conventional definitions focus on the first type of 
+platform, all three will play significant roles in the future. What 
+differentiates platforms from the types of exchanges seen in 
+the past is that platforms are enabled by technology and data, 
+and based on network effects that enhance the value of the 
+platform as the number of participants increases.Figure 4: The Alibaba Ecosystem13
+Operating Models for the Future of ConsumptionModular
+To meet market demands in the future, organizations will 
+employ modular capabilities to support various business 
+models. “Modular” is a characteristic that is defined as the 
+ability to develop and deploy a business capability that can be 
+utilized in a flexible, repeatable way across multiple business 
+models with minimal re-design. This is a deliberate, “plug-
+and-play” approach that is distinctly different from previous 
+eras in business that were focused on driving efficiencies 
+through linear process design for a single business use case 
+(e.g. business process re-engineering). Modular capabilities 
+enable the organization to adapt quickly to market changes 
+and more easily pivot their strategies and business models. 
+Case Study: GLAMSQUAD – Building A Modular Business
+GLAMSQUAD is a New York-based multi-business model 
+platform supporting beauty services and products. The 
+company’s portfolio of business models includes: on-demand 
+beauty services, retail partnerships to provide salon services 
+in stores, beauty services for fashion designers’ runway 
+shows, sales of partners’ products and beauty tools, and 
+their own private label products leveraging alliances with 
+established manufacturers. GLAMSQUAD leverages a level of 
+trust established with the consumer across business models 
+to create an end-to-end consumer experience.
+A modular design is also a key building block and facilitator 
+of ecosystem strategies, tapping into the $1.5T potential 
+value from increased collaboration between companies.13 
+Modular capabilities can be used to support external partners 
+or provide core capabilities to deliver an ecosystem-driven 
+consumer solution.Case Study: Louis Vuitton Moet Hennessy – Multi-brand 
+Luxury Platform
+Louis Vuitton Moet Hennessy (LVMH), the French luxury goods 
+company, has launched 24 Sèvres, an eCommerce luxury 
+platform that carries not only LVMH’s in-house brands, but 
+also those of other prestigious fashion houses. Brands on 
+the platform leverage the platform’s overall features, including 
+chatbots, on-demand stylists, stunning graphics, efficient 
+checkout and fast delivery. In addition, the company gathers 
+and analyses cross-brand consumer insights across the 
+platform.14
+A lean corporate centre will orchestrate the entire entity, 
+managing multiple, autonomous business models. The 
+application of a “plug-and-play” approach allows for internal 
+usage across business models as well as external usage by 
+ecosystem partners, who will seamlessly integrate and utilize 
+the organization’s assets and capabilities. Consumer insights, 
+new innovations and technologies will flow from each of these 
+businesses back into the corporate center to be leveraged for 
+new value creation as relevant.
+Liquid
+Liquid organizations unlock value through ecosystems by 
+seamlessly accessing the best talent to meet demand and 
+respond to changing market conditions, whether inside or 
+outside traditional company boundaries. Through a liquid 
+workforce, companies will source and manage talent via 
+internal and external employment models.
+Figure 5: The Five Employment Models of the Future
+Core Workforce 
+(Permanent Employees)
+Organization’s talent filling adaptive 
+roles as incremental gigs beyond 
+day-to-day work and meeting 
+needs across multiple teams, 
+enabling scalability and flexibilityPublicly Available Talent
+Specialized expert talent sourced and/or 
+managed via service provider
+Company Affiliates
+External workers who have 
+strong associations and 
+existing understanding 
+and relationships (e.g. 
+organization’s alumni with 
+known capabilities and 
+relationships)
+Partners
+Talent provided by outsourcing/
+managed service providersConsumers
+Crowdsourced talent to solve 
+problems, get ideas, gather 
+information/data, complete 
+“on-the-ground” tasksCore Workforce
+(Permanent 
+Employees) 
+Company Affiliates
+Partners
+Publicly Available  
+Talent
+Consumers14
+Operating Models for the Future of ConsumptionCase Study: Quri — Using Consumer as Employees
+Quri is an American retail intelligence company that employs 
+consumers to collect data, which provides real-time 
+visibility into products and promotion performance in-store. 
+Used by roughly half of the top 25 CPG companies, Quri 
+allows companies to convert consumers into employees 
+by completing “on-the-ground” tasks. For example, Quri 
+collected promotion compliance and execution data for a 
+beer and wine manufacturer, which then created an incentive 
+programme that increased display execution performance by 
+8% and annual revenue by $45 million.15
+Case Study: Pluralsight – Expanding with New 
+Employment Models
+Pluralsight is a Utah-based training platform that creates 
+and delivers educational content for software developers, 
+IT administrators and creative professionals. All of the 
+courses are taught by experts in their respective fields. To 
+maximize scalability and “fresh” content, Pluralsight uses new 
+employment models with more than 800 core employees, 
+5,000 affiliated freelance “mentors” and several thousand 
+experts who help author the 6,000-plus courses offered. 
+Pluralsight has thoughtfully designed its employment structure 
+to keep pace with technology and enable its customers to do 
+the same. 
+While only 16% of the consumer industries’ workforce is 
+currently comprised of freelancers, the CPG industry is the 
+most active user of the full range of employment models of 
+any industry globally.16 Some 79% of executives believe a 
+liquid workforce provides a competitive advantage and 81% 
+believe freelancers will be a seamless part of the workforce 
+within three years.17 Historically, human resources (HR) has 
+owned traditional employment while contractors have typically 
+fallen under the purview of procurement. This separation can 
+limit an organization’s ability to effectively source and engage 
+the best talent. By contrast, Upwork CEO Stephane Kasriel 
+advocates “total talent management” – merging procurement 
+and HR activities to oversee a fluid base of external workers. 
+To exploit the full potential of liquid workforce strategies, the 
+industry should take a leadership role in defining how best to 
+support the movement to a more fluid way of working that 
+supports the best outcomes for society.
+Economic Viability: The Responsibility to 
+Generate Lasting Performance and Sustainable 
+Impact
+Enduring
+Operating models of the future will be defined by their ability to 
+subsist in a disrupted world. Enduring organizations will establish 
+the necessary mindsets (human, living, enhanced) and structures 
+(ecosystem, modular, liquid) to ensure that the company has 
+long-term economic viability. Companies will drive financial 
+value through sustainable practices and by enabling trust and 
+transparency, as well as by reflecting stakeholder values. Stakeholders will consider the company’s corporate citizenship 
+when determining whether to do business with the enterprise – 
+as consumers, employees or partners. Enduring companies will 
+develop strong relationships with their stakeholders through the 
+development of mutual trust and by displaying behaviour that is 
+consistent with the expectations of society and stakeholders. 
+Succeeding in an increasingly difficult environment takes 
+a combination of skill and will: companies must have the 
+capabilities for a wholesale transformation, as well as the 
+desire and willingness to execute it. The challenges of survival 
+are clear. In the 1920s, the average lifespan of an S&P 500 
+company was 67 years; today it is 15.18 This underscores 
+the need for companies to design their operating models in a 
+flexible manner to allow for sustained business performance 
+and ensure long-term economic viability. 
+The Path Forward
+Organizing to Drive Operating Model Transformation
+Activating the three core principles, and the seven essential 
+characteristics, will require significant changes to enterprises’ 
+organization, processes and ways of working. Today, 80% 
+of executives believe that company goals will increasingly 
+be completed in collaborative teams, with less emphasis on 
+functional roles.19 In the future, organizations will move from 
+traditional functional groups to end-to-end integration. This will 
+lead to a blending of skills across jobs (e.g. supply chain experts 
+will also need to understand marketing, as these activities 
+directly link to one another, and procurement experts will need to 
+collaborate with HR teams to efficiently manage non-traditional 
+talent). Instead of being organized by role, cross-functional 
+teams will work together to achieve holistic outcomes. 
+Case Study: Hepsiburada – Organizing to be a Truly 
+Consumer-Centric
+Hepsiburada, the Turkish e-commerce leader, is organizing its 
+business around defined consumer “personae” (e.g. “Working 
+Mothers”, “Techies”, “Sports Man”), bringing them physically 
+to life within the working environment. The new persona 
+teams focus on providing an end-to-end experience across 
+traditional functional roles, tailoring each aspect of consumer 
+engagement to the specific persona.
+As companies move from single to multiple business models, 
+go-to-market functions will need to change accordingly – from 
+standardized central functions to flexible functional support 
+organized around, and simultaneously managing, each 
+business model’s distinct objectives, activities and metrics. 
+Functions will become porous, with a rapidly expanding 
+ecosystem changing players’ roles, responsibilities and 
+activities, and with companies borrowing or lending entire 
+capabilities to other partners. “Co-boting”, the collaboration 
+between people and machines, will be commonplace in the 
+automation of simple tasks and more so as artificial intelligence 
+amplifies truly human capabilities. Technology will help create 
+the functions of the future by integrating and redesigning 
+activities to drive efficiency and create greater consumer value. 15
+Operating Models for the Future of ConsumptionCase Study: Carbon – Technology Blurs Functional Lines
+Carbon, the San Francisco-based 3D technology 
+manufacturer, enables design-to-manufacturing at 
+astonishing speed. With ongoing prototyping and iterative, 
+parallel processes, Carbon reduces design, prototyping and 
+manufacturing processes that usually take 8–12 months to 
+a matter of days. The company sees opportunities to merge 
+manufacturing and distribution and is in discussions with 
+shipping carriers to house 3D printers in their distribution 
+centres, which would enable carriers to receive orders, print 
+products and ship directly. As traditional “back-office” functions change focus by linking 
+into the extended ecosystem, they will achieve scale and 
+flexibility with partnerships providing on-demand capabilities. 
+The nature of these functions will need to shift from 
+supporting services to actively driving business outcomes. 
+HR will manage both a liquid workforce and fluid processes. 
+Finance will evolve from a compiler of historic financials to 
+a true strategic partner by exploiting predictive analytics. 
+Procurement will enable liquid capabilities, working with both 
+project teams and central functional areas to identify, secure 
+and integrate external capabilities. 
+Figure 6: Operating Model Framework of the Future
+Governance
+refers to the organizational 
+accountabilities, the critical 
+decisions that need to be taken, 
+and the forum in which they will 
+be decided
+What’s Changed?  
+Agile; decentralized;  
+accelerated  
+decision-making
+ 
+Technology
+outlines the underpinning 
+technology, digital and analytical 
+requirements to support 
+business capabilities and 
+processes
+What’s Changed?  
+Continually renewing disruption; 
+technology awareness across 
+the companyProcess
+defines how work will get done 
+within the organization and 
+between partners, outlining the 
+key activity steps, roles and 
+responsibilities
+What’s Changed?  
+Integrated,  
+outcome-focused;  
+ongoing innovation
+ 
+Culture
+reflects the core values  
+of the organization and the 
+behaviours they drive
+What’s Changed?  
+Bias towards action; 
+incorporation of new 
+stakeholders’/society’s values 
+Organization  
+& Workforce 
+includes the structure of  
+the organization and its 
+approach to accessing  
+and managing talent
+What’s Changed?  
+Flatter, liquid and  
+intrapreneurial;  
+converging teams
+ 
+Metrics & Incentives 
+addresses the KPIs measured 
+by the company, their usage, 
+and their ability to drive 
+behaviours
+What’s Changed?  
+Forward-focused;  
+real-time data  
+and analysisIntent 
+provides direction on what the company is trying to achieve,  
+and what will enable it to be successful in its chosen strategy and business model
+What’s Changed?  
+Purposeful exploration of ecosystems to unlock the power of intra- and  
+cross-industry external networks across new business models, capabilities and data16
+Operating Models for the Future of ConsumptionOperating Model Design
+The sheer complexity of operations now requires a more 
+refined operating model execution framework. That is, 
+as companies look to make changes, a more detailed 
+framework is needed to account for the key components in 
+the executional complexity of today’s operating models. 
+Developing an operating model for the future will involve every 
+operating model building block – but not in the same way for 
+each company. While these operating model components 
+are common to all companies, one thing remains certain in 
+consumer-centric industries: incumbents must become more 
+like disruptors in their approach to operating models. 
+The differentiating features of each component exhibited 
+by disruptors can be adopted by incumbents. While 
+understandably more difficult, given the significant 
+transformation required and sea-change implications to 
+governance, culture, and metrics and incentives, it can be 
+done, and the impact will be extremely powerful.Learning from Disruptors
+Much is made of the “advantages” of disruptors. They benefit 
+naturally from different market expectations and performance 
+metrics, as well as a lack of legacy (historic) operations. 
+This has allowed them to develop a series of “disruptive 
+behaviours” from which incumbents can learn:
+ –Risk-embracing behaviour
+ –Intense focus on chosen core competencies while 
+divesting the rest
+ –Data as DNA at every level of the organization 
+ –Willingness to disrupt market and self
+ –Viewing failure as a learning opportunity
+ –Persistently seeking the one “yes” (rather than being 
+derailed by the one “no”).
+Figure 7: Operating Model Design – Incumbents versus Disruptors
+Component Traditional Operating Models Disruptive Operating Models
+GovernanceTop-down decision-making, guided  
+by experienceData-driven decisions, individual empowerment 
+with clear decision guardrails all the way to the 
+front line
+ProcessFunctional groups, managing dependent but 
+separate activitiesFunctions merge to deliver outcomes, enabled 
+by combinatorial technology
+ 
+Organization  
+& WorkforceDefined as an independent, individual company; 
+maximizing company financial valuePorous organization with plug-and-play platform 
+supporting self-organizing project teams focused 
+on driving outcomes; multiple internal/external 
+employment models
+ 
+TechnologyEnterprise IT, with focus on standardization; 
+shadow IT addresses specific business needsTechnology roadmap developed with 
+intentionality continually renews – scan and 
+integrate new technologies, creating business 
+opportunities; AI and automation simplify 
+activities
+ 
+CultureTradition and excellence; valuing experience and 
+historical knowledge; focus on preserving and 
+building on legacy; value of leaders is determined 
+by size of team and book of business managed“Disrupt thyself” and learn by doing; risk tolerant; 
+prizes individual intrapreneurship; student 
+leadership; value of leaders is determined by 
+impact to the business
+Metrics & 
+IncentivesPremium placed on stability, longevity, 
+predictable growth and profitability; 
+standardization across businessesConsumer value and forward-looking metrics; 
+different metrics for different business models17
+Operating Models for the Future of ConsumptionFuture Jobs and Skills
+New Jobs Within Future Operating Models
+As the market refocuses on living services and the delivery of 
+holistic consumer experiences, individual roles will change. 
+In 2016, OECD analysis showed that 65% of children would 
+work in jobs that do not yet exist,20 underscoring the need for 
+a highly adaptive workforce, career-long continuous learning 
+and educational reform. In consumer-centric industries, roles 
+such as retail sales associates or manufacturing machine 
+operators will be redefined around human activities – for 
+instance, providing a creative, personalized in-store consumer 
+experience or applying complex problem-solving to optimize 
+robotic production. 
+Case Study: Amazon – The Evolution of Warehouse Jobs
+Seattle-based online retail giant Amazon has been at the 
+forefront of automation, with more than 100,000 robots 
+working in its facilities around the world. In addition to 
+efficiency gains, the company intends to have machines 
+perform monotonous or physically strenuous tasks, refocusing 
+humans on more engaging roles such as managing a group 
+of robots and troubleshooting issues. To aid this transition, the 
+company provides courses in robot operation. Making workers 
+more efficient through the use of technology ultimately boosts 
+employee productivity, generating almost $400,000 in revenue 
+per employee in 2016 – nearly twice that of leading traditional 
+retailers.21
+New Skills for Employment
+Future operating models will require a broad range of new 
+roles, significantly altering the composition and structure of 
+the workforce. The nature of the skills in these new roles 
+will be significantly more multidisciplinary. This will open 
+up a broad range of career paths for workers. Rather than 
+following linear career paths, workers will increasingly move 
+fluidly across organizations. 
+Historically, companies targeted individuals with specific 
+experience and knowledge. In recent years, the balance has 
+tipped to demand for “hard skills” such as coding or data 
+science. Looking ahead to an era of continuous change and 
+flexible careers, human skills will be an increasingly important 
+complement. For a company to remain viable, it must enable 
+its employees to build both soft and hard skills. 
+Case Study: Digital Skills Create Job Opportunities
+In 2017, a global study exploring the current and future 
+landscape of jobs conducted by Boston-based labour market 
+analytics company Burning Glass Technologies found that 
+82% of jobs that pay a living wage and do not require a 
+bachelor’s degree, currently also known as middle-skill jobs, 
+require digital skills. The share of these jobs is increasing 
+rapidly, providing improved economic opportunities for 
+workers, commanding 17% higher salaries than non-digital 
+roles.22Figure 8: ‘Soft’ and ‘Hard’ Skills for the Future 
+Growth
+• Adaptability
+• Resilience
+• Global Mindset
+• Learning AgilityDigital
+• Digital Fluency
+• Interaction & 
+Connectedness
+• Digital DesignInterpersonal & 
+Human Intelligence
+• Collaboration
+• Communication
+• Creativity
+• Critical Thinking
+• Empathy
+Data
+• Data Literacy
+• Data Science
+• Insights to ActionSoft Skills Hard Skills
+Between now and 2020, the World Economic Forum 
+anticipates growth in demand for cognitive abilities (52%), 
+systems skills (42%) and complex problem-solving skills 
+(40%).23 Looking ahead, organizations will need to seek out 
+individuals with strengths in learning agility and adaptability. 
+With the half-life of a learned skill at five years24 and the half-
+life of a developer’s skillset at two years,25 the accelerating 
+pace of change requires constant reskilling, putting a 
+premium on individuals who drive their own development 
+paths and embrace continual learning, as well as a premium 
+on organizations that encourage this type of learning.
+Incumbent companies face an additional challenge, with 
+workforces designed for a different market. These workers 
+frequently lack the critical skills for the digital age – as many as 
+20% of adults in developed countries are considered “digitally 
+illiterate”.26 For example, in a recent digital skills analysis, New 
+York-based education technology company General Assembly 
+found that “digital-native marketers” (e.g.-marketers working at 
+companies that were founded during the digital age) outscored 
+“corporate marketers” (e.g. marketers at traditional companies, 
+CPG brand managers) by 72%. The distinctions were even 
+more profound when examining the very top performers who 
+were clustered in digital-native companies.27 Because of the 
+speed with which skill needs will change, organizations must 
+continually assess the digital skills of employees and address 
+development gaps. This will require HR to fundamentally 
+rethink the role of the hiring function within the company. 18
+Operating Models for the Future of ConsumptionFigure 9: Example – Digital Skills Assessment within Marketing Function
+In addition to sourcing talent across several internal and 
+external workforces, companies need to consider reskilling 
+rather than expensive recruitment of in-demand talent. 
+General Assembly found that “radical reskilling” is 63% more 
+cost-effective than recruiting external software engineers.28 
+Massive Open Online Courses (MOOCs) and virtual learning 
+are tools that scale and flex quickly to enable radical reskilling 
+and meet changing market conditions. 
+It is neither through ‘cheap labour’ nor through attracting 
+a narrow set of the ‘best and the brightest’ and winning 
+a ‘war for talent’ that countries can optimize their long-
+term human capital potential, but through building 
+up deep, diverse and resilient talent pools and skills 
+ecosystems in their economies that allow for inclusive 
+participation in good-quality, skilled jobs by the largest 
+possible number of people. 
+World Economic Forum  – Human Capital Report, 201776%
+38%Digital-Native Marketers
+at younger companies born in the 
+digital age (e.g. Email Marketing 
+Manager at VC-backed start-up)
+44%Corporate Marketers
+at long-standing corporations 
+that are transforming in the digital 
+age (e.g. Brand Manager at CPG) 
+Non-Marketers
+work in functions outside 
+Marketing (e.g. Sales, IT, HR, 
+Legal, Creative)
+Traditional
+HiringRadical  
+Reskilling>$20,000
+$5,000 – 
+$10,000Figure 10: Cost Reduction of Radical Reskilling vs 
+Traditional Hiring for Software Engineers over Three 
+Years
+19
+Operating Models for the Future of ConsumptionIn the future, successful companies will be consumer-
+obsessed, and their operating models will reflect this. The 
+scale and scope of the transformation required to operate in 
+this new way are significant, and will have a commensurate 
+impact on workers and consumers. For workers, the 
+change implies navigating a more fluid career journey rather 
+than following a linear career progression. For consumers, 
+the change involves becoming much more proactive in 
+understanding how providers are collecting, using and 
+protecting their information. 
+The implications are widespread and complicated. Public-
+private partnerships can help businesses and consumers 
+alike by minimizing risks and realizing the potential benefits of 
+the changes. Such partnerships must include a diverse array 
+of stakeholders beyond industry and government, including 
+individuals and academic institutions, and they must enable 
+disruptors such as education technology companies and 
+freelance platforms. These partnerships need to focus on 
+three areas: 
+ –Worker Enablement in the Digital Age : Helping 
+workers acquire and apply new skills 
+ –Flexicurity:  Supporting fluid career flexibility with 
+transparency, social safety nets and transferable benefits
+ –Consumer Data Principles: Managing and protecting 
+consumer data while unlocking valueWorker Enablement in the  
+Digital Age
+Technology can provide value across every aspect of the 
+industry. Artificial intelligence alone has the potential to double 
+annual economic growth rates and boost labour productivity 
+by up to 40 percent by 2035.29 As this change progresses, 
+the need for employees to work alongside technologies will 
+grow increasingly urgent as many employees lack the digital 
+skills required to undertake this journey. 
+This is a massive challenge – consumer industries employ 
+19% of the workforce across the OECD.30 As transformations 
+of operating models of consumer-centric industries creates 
+new opportunities for workers, it may also cause widespread 
+displacement for millions of people. 
+In this US alone, consumer industries employ 30.5 million 
+people.31 Analysis indicates that 54% of the activities currently 
+performed by CPG workers and 40% of those performed 
+by retail workers can, in fact, be automated (for details 
+on methodology, see Appendix B).32 If these tasks were 
+automated today and no new roles were found for workers, this 
+displacement could effectively double the US unemployment 
+rate.33 Workers are feeling this pressure directly as well: 43% 
+of individuals believe that their job is likely to be automated in 
+the next 10 years.34 Similar patterns are expected to play out in 
+other markets.How Can Society Achieve a Brighter Future?
+The advances in digital technologies and shifts in consumer behaviour have profound potential impacts on society.  
+Public-private cooperation can accelerate positive changes, enable inclusive innovation, and mitigate adverse effects  
+– if purposeful efforts begin now.
+2050Time
+2015 2040 2025 2030 2035 2045 2020Shar e of job s
+37% 43% 45% 47% 53% 15% 23% 26% 44% 48% 34% 
+43%4%9%
+30%
+58% 69% 81% 2%
+28%2%
+39%17%4%
+46% 47% 48% 51% 82% 34% 39% 41% 44% 20% 14% 
+2015 202513%4%
+20304%
+10%
+2035 2020TimeShar e of job s
+Role-Eliminating Automation Partial Automation “Running with the Machine”RETAIL INDUST RY CPG INDUST RYFigure 11: Estimated Impact of Automation on CPG and Retail Industries Workforce in the United States 
+Role-Eliminating Automation: More than 75% of activities can be automated
+Partial Automation: Between 25% and 75% of activities can be automated
+“Running with the Machine” : Less than 25% of activities can be automated; Running with the Machine considers that workers 
+will reallocate time to more “human-like tasks” and work in a collaborative, fully integrated manner alongside machines20
+Operating Models for the Future of ConsumptionA closer analysis of those tasks that can be completely or 
+partially automated reveals that while low-skill workers are 
+often considered the most vulnerable, most of the activities, 
+and jobs, at risk actually correspond to middle-skill workers. 
+Middle-skill jobs are those occupations that require more 
+education and training than a high school diploma but less 
+than a four-year college degree, and where repetition is high 
+so the need for critical thinking is low once the skill is learned, 
+such as health technicians, sales personnel, back office 
+administrators, etc.35  By contrast, low-skill jobs require less 
+training or education and involve frequent manual tasks, such 
+as house cleaners or restaurant waiters. Given the nature of 
+tasks in middle-skill jobs, automation has led to a significant 
+decline in the availability of work at that level. In fact, the share 
+of workers in middle-skill jobs fell by almost 10% from 1995 
+to 2015, while share of workers in high-skill jobs increased 
+and in low-skill jobs remained relatively stable. As the middle-
+skill jobs lost are replaced – 80% by high-skilled work and 
+20% by low-skilled work36  -- the potential for occupational 
+polarization risks becoming a reality as technological changes 
+yield primarily high-skill jobs. 
+People [with] low and middle incomes have seen their 
+wages stagnate and the share of middle-skilled jobs 
+has fallen, contributing to rising inequality and concerns 
+that top earners are getting a disproportionate share of 
+the gains from economic growth.
+– OECD  Employment Outlook 2017
+As new jobs form across the industry, stakeholders will 
+need to support this growth in an inclusive way. CPG 
+manufacturers and Retailers must invest in reskilling their 
+workforces through targeted learning and skill development to 
+ensure that all employees can succeed in the digital age.
+Continuous Learning
+The ever-increasing pace of technology will require all workers 
+to commit to ongoing learning. Today, the process and 
+culture of learning is sequential – from primary and secondary 
+education, through vocational training and higher education 
+to job-specific training. The underlying assumption is that 
+the resulting formal education will serve individuals for their 
+entire career. This is no longer the case. Digital inclusion, 
+developing an overarching digital and technology literacy to 
+support market changes, provides access to digital technology 
+for all workers at all stages – not just the few. It must be 
+accomplished.
+The future of learning involves a continuous cycle in which 
+digital inclusion is achieved through: 
+ –Skill Building:  Preparing individuals for the workforce with 
+new skill training, practical courses that combine academic 
+and real-world experience, and active job placement –Continual Evolution:  Reinforcing and advancing 
+workers’ capabilities as the business evolves; supporting 
+continuous learning as employees increasingly chart highly 
+varied courses throughout the organization
+ –Radical Reskilling:  Retraining workers for new 
+opportunities as existing roles are displaced, offering a 
+path to employment in new skill areas.
+Figure 12: Continuous Learning Cycle
+Future of 
+LearningSkill 
+Building
+Continual 
+EvolutionRadical 
+Reskilling         Digital Inclusion | Digital Inclusion                              Digital Inclusion | Digital Inclusion                            Digital Inclusion | Digital Inclusion 
+Case Study: SkillsFuture Singapore – Offering Incentives 
+to Participate in Reskilling Programmes
+Through the national Work Trial skill-building programme, 
+Singaporean employers offer short-term trials in which 
+jobseekers can work between 16 hours and 3 months, with 
+30% of wages subsidized by the government. Participants 
+learn skills “on the job” while employers test candidates 
+for fit and capability. The Ministry of Education has also 
+set up SkillsFuture Singapore to strengthen the country’s 
+adult training infrastructure and provide access to quality 
+programming and educational institutions. Some 126,000 
+Singaporeans – 2% of the population – enrolled in the 
+programme’s first year in 2016.37
+According to the World Economic Forum’s Future of Jobs  
+report, 30% of consumer industry core skills will change by 
+2020, accelerated by new business models and technology. 
+Workers are not ready. Almost one in three individuals 
+is concerned they will not be able to develop the skills 
+necessary to succeed in the field they wish to pursue in 
+ten years.38 The objective of learning needs to shift from 
+formal certification to ongoing skill development. Educational 
+providers also need to shift their approach from helping 
+students earn a static diploma to enabling workers to 
+continually evolve their capabilities both within their current 
+roles and as they transition to new ones. 21
+Operating Models for the Future of ConsumptionCase Study: Skillful by the Markle Foundation – Creating 
+Platforms to Bring Stakeholders Together
+Skillful connects people to middle-skill jobs by supporting 
+employers to shift from certification-dependent to skills-based 
+hiring practices. The organization provides access to local 
+talent pools, encourages the teaching of in-demand skills 
+and prepares workers for new jobs with the help of their 
+career coaches. Skillful has defined and piloted, and is now 
+promoting, tools and practices to accelerate the shift to a 
+skills-based labour market, working across the network of 
+employers, educators, government and non-profit support 
+organizations. Launched in 2016 by the State of Colorado, 
+Microsoft, LinkedIn and local partners, 375 businesses have 
+engaged with Skillful’s network, and 20 companies are now 
+working to fully embrace skills-based hiring practices. As of 
+June 2017, more than 60,000 people have engaged with 
+Skillful, and more than 1,400 people have actively engaged 
+with Skillful’s career coaches. 
+Workers do not only need to acquire job-specific skills, they 
+must also have the ability to navigate career changes through 
+transitional education. These programmes help people 
+better identify their skills, develop and use networks, and use 
+support services effectively. More broadly, such efforts will 
+help unlock the potential of underused talent. Global human 
+capital is developed to 62% of its potential,39 which indicates 
+that the world is wasting or neglecting 38% of its talent. 
+Figure 13: Gap in Human Development40
+North America 26%
+Western Europe 29%
+Eastern Europe and Central Asia 33%
+East Asia and the Pacific 34%
+Latin America and the Caribbean 40%
+Middle East and North Africa 44%
+South Asia 46%
+Sub-Saharan Africa 47%Global Average 38%
+All too often, however, human potential is not realized, 
+held back either by inequality or an unrealistic and 
+outdated faith on the part of policy-makers that 
+investment in small subsections of highly skilled 
+labour alone can drive sustainable, inclusive growth.
+Klaus Schwab  – Executive Chairman of the World Economic Forum41
+In this digital age, skill development requires continuous 
+learning on a global scale. This creates opportunities to 
+develop hard technical skills, provides basic digital literacy 
+to populations who lack it and enables individuals through 
+infrastructure to achieve digital inclusion. Case Study: Andela – Upskilling Non-traditional 
+Candidates
+Andela is a technical talent company that trains software 
+developers from the African continent and places them as full-
+time distributed team members with Fortune 500 companies 
+ranging from Viacom and Mastercard to dozens of high-
+growth disruptors such as GitHub and Gusto. Currently 
+working with 500 developers, Andela has invested in an 
+advanced training infrastructure and offers support services to 
+help its developers achieve success in their careers. 
+Case Study: Chattanooga – Providing Universal Access 
+to Stimulate New Growth
+The City of Chattanooga built a government-owned, 
+fibre-optic cable network to provide a high-speed internet 
+service, while simultaneously increasing electricity reliability 
+in rural parts of the city. Based on an independent study 
+conducted by the University of Tennessee, the Electric Power 
+Board (EPB) of Chattanooga’s network has directly created 
+2,800–5,200 new jobs for the city and generated $1 billion in 
+economic benefit over the past five years.40
+Securing employment in the digital age will require 
+stakeholder groups to collaborate to support professionals 
+mastering new skills, embracing new ways of working and 
+building both intrapreneurial and entrepreneurial capabilities.
+Flexicurity
+Given how important it is to develop agility, along with the 
+responsibility to ensure economic inclusivity, the market is 
+shifting to a more “liquid” workforce. In a recent Accenture 
+survey, 52% of individuals say they are likely to work in the 
+gig economy and 53% would prefer to work as a freelancer 
+rather than as a formal, full-time employee. However, 72% 
+expressed worry about a freelancer’s lack of employee 
+benefits.43 Legacy support structures for labour markets 
+have not kept pace with the development of new workforce 
+models. As such, these legacy structures threaten the welfare 
+of workers, who stand to lose the benefits of permanent 
+employment, and will restrict the willingness of many workers 
+to find new roles that could be more lucrative and fulfilling. 
+A new contract for employment is vital not only for worker 
+welfare but to promote a liquid workforce and support job 
+mobility. Flexicurity ties benefits (e.g. pensions and healthcare) 
+to the individual and enables talent mobility with portable 
+skills transcripts, helping workers maximize their long-term 
+economic opportunity. This support structure reduces friction 
+in the labour market, enabling optimal matching of supply and 
+demand of talent. 22
+Operating Models for the Future of ConsumptionOur policy-makers need social innovations to 
+fully embrace the idea of flexibility and social 
+protection – ‘flexicurity’ – by giving all workers 
+the same rights and benefits, regardless of 
+what contract they have.
+Alain Dehaze – CEO, Adecco Group44
+While public discourse has focused on minimum guaranteed 
+wages, other benefits to consider include health insurance, 
+unemployment insurance and pensions. In addition to 
+traditional benefits, stakeholders will need to consider 
+alternatives for filling skills gaps, with easily accessible training 
+and learning opportunities. A small number of governments 
+have introduced individual learning accounts, which give 
+employees the financial assistance to invest in their own 
+continuous training, independent of employers.45
+Case Study: The Portable Benefits for Independent 
+Workers Pilot Program Act (Proposed)
+In 2017, US Senator Mark Warner and US Representative 
+Suzan DelBene proposed legislation to pilot, test and evaluate 
+portable benefit programmes. Eligible models include a variety 
+of benefits such as healthcare, training and educational 
+assistance, workers compensation and retirement savings. 
+Senator Warner is the co-chairperson of the Aspen Institute’s 
+Future of Work Initiative, whose 2016 paper highlighted 
+existing programmes that could serve as models: multi-
+employer benefit plans in construction and entertainment, 
+pooled workers’ compensation in New York livery, and health 
+insurance in San Francisco.46
+Finally, there are some less obvious enablers of a fluid career. 
+As employment velocity increases, networks become more 
+important. Deviating from a formal career path impedes 
+workers’ ability to communicate skills and accomplishments 
+to new employers. Workers will increasingly be in situations 
+where they are an unknown quantity; as learning increasingly 
+shifts beyond traditional credentials such as the four-year 
+university degree, a traditional curriculum vitae will no longer 
+communicate the majority of an individual’s capabilities – nor 
+will there be a universal taxonomy and language to describe 
+competencies.47 Fortunately, both industry disruptors and 
+emerging technologies are targeting these challenges.
+Case Study: Portfolium – Enabling Digital Portfolios
+As employers increasingly value competencies that extend 
+beyond the standard skills and experience reported on a 
+traditional curriculum vitae, Portfolium provides individuals 
+with the opportunity to build their own digital portfolio, 
+capturing and curating examples of their academic and 
+extracurricular work. Portfolium also serves as a social 
+network, linking potential workers with academic institutions 
+and employers.48Case Study: Learning Machine – Blockchain-verified 
+Transcripts
+Chris Jagers, CEO of Learning Machine, has been working 
+with the MIT Media Lab to use blockchain technology to 
+enable individual students to hold and share their verified 
+official records with others in a safe, tamper-proof manner. 
+This approach allows students to “act as their own lifelong 
+registrar”, holding records not only for traditional education, 
+but also for corporate training and alternative schools.49
+Flexicurity is vital for workers and employers alike, enabling 
+agility and access to vastly expanded pools of talent. 
+Companies have their own part to play in helping employees 
+navigate a non-linear career path. To do this, businesses 
+need to shift their focus towards radical reskilling – especially 
+when it comes to helping steer workers through periods of 
+digital disruption. Some business leaders have even raised 
+the idea of a “carbon tax” model whereby companies that are 
+more effective at skilling workers would lower their required 
+contribution to state-administered unemployment benefits. 
+Flexicurity provides highly skilled workers with the portability 
+to meet professional needs, a safety net for those low-skilled 
+workers most vulnerable to market disruption, and freedom 
+for employers to use the best available talent. 
+Consumer Data Principles
+Lastly, there is a significant opportunity – and risk – 
+associated with consumer data. Recent reports have framed 
+data as the “new oil” – the most valuable resource in the 
+world. This idea should be expanded to include data as the 
+“new soil” – the basis on which consumer and market value 
+can grow. 
+Given that the fundamental driver towards future operating 
+models is a reorganization to address consumer needs, 
+copious amounts of personal data are required to establish 
+consumer intimacy. This ongoing data collection gives rise 
+to concerns about the privacy and security of personal 
+information and how companies are using it. Recent surveys 
+find that 57% of consumers are concerned with how 
+businesses use their information,50 with 41% of consumers 
+stating they need companies to have greater transparency if 
+they are to have confidence in their products/services.51
+Consumer data is critical for technology to function. It serves 
+as the primary input and building block for technologies such 
+as artificial intelligence and connected devices. Industry and 
+society need to collaborate to establish and protect consumer 
+trust, while increasing the value created for consumers. To do 
+so requires alignment on the following principles:
+ –Communicating consumer data collection and usage 
+procedures in a simple, understandable way
+ –Outlining consumer data ownership and acceptable 
+sharing practices 
+ –Agreeing on data monetization protocols
+ –Understanding the necessary infrastructure and activities 
+required to support consumer data security.23
+Operating Models for the Future of ConsumptionFigure 14: Calls to Action – Stakeholder Involvement to Achieve a Better Future
+ 
+THEME CALL TO ACTIONSTAKEHOLDERS
+Individual 
+WorkersIndustry GovernmentAcademic 
+InstitutionsEnabling 
+Disruptors
+Worker  
+Enablement in  
+the Digital AgeTransform academic curricula 
+and culture from focus on 
+knowledge and four-year degree 
+to lifelong learningX X X X X
+Use data to drive right-skilling 
+that recurrently identifies and 
+builds newly required skills; 
+measure the ROI of programmesX X
+Address the affordability hurdle 
+of alternative learningX X X
+Couple education/skills 
+programmes with career 
+opportunitiesX X
+Enable the “digitally 
+underprivileged” with digital 
+literacy and infrastructureX
+FlexicurityReform to tie benefits to the 
+employee rather than company; 
+broad-based benefits, including 
+learning accountsX X
+Invest in platforms and 
+technology that enable workers 
+to provide a transparent 
+and verified record of their 
+competenciesX X X
+Consumer  
+Data PrinciplesCreate comprehensible overview 
+of consumer data collection and 
+usage  X X X
+Deploy control mechanisms,  
+(e.g. consumer data passport)X X X X
+Define data security requirements 
+and infrastructureX X XIf Not Now, When?
+As technology-driven change continues to accelerate, 
+the long-term viability of the economic system depends 
+on thoughtful, collaborative, purposeful and immediate 
+stakeholder action. These specific societal implications are 
+intrinsically linked by a common purpose to drive societies 
+towards digital inclusivity. Stakeholder groups can, and 
+should, actively explore ways to mitigate these societal 
+impacts through both individual and collaborative actions. Realization of these principles will require both protocols 
+and potential constructs or platforms – (for example, a “data 
+passport”) in which consumers can securely store the data 
+that they explicitly agreed to share with companies across 
+multiple marketplaces.24
+Operating Models for the Future of ConsumptionConclusion
+Disruptive technologies will continue to accelerate the pace of 
+change. In light of this, this report paints a vision of the future 
+for consumer-centric industries, provides a rich perspective 
+on why organizations need to transform rapidly, and explains 
+the seven essential characteristics of operating models that 
+businesses should adopt. Furthermore, it provides a holistic 
+view of the potential implications for business and society. 
+In summary, the goal of this report is to inspire responsive 
+and responsible action – for industry leaders to change how 
+they lead and transform their enterprises, while ensuring 
+inclusive growth for the workforces they employ and the 
+consumers they serve. Enabling this journey will require 
+the full range of stakeholders – individual workers, industry, 
+government, academic institutions and enabling disruptors – 
+to collaborate in support of a prosperous future for all. 
+The time to act is now.
+25
+Operating Models for the Future of ConsumptionAppendices
+Appendix A: Eight Disruptive Technologies – Value Chain Applications
+The use of disruptive technologies across the entire value chain is driving high-impact benefits through a range of applications 
+and has become a key source of value creation. 
+Consumer Industries Value Chain – Technology and Use-Cases
+Disruptive  
+TechnologyRecent  
+Development
+Internet of  
+Things (IoT)IOT is enabling data 
+sharing within the 
+ecosystem across the 
+entire value chain• Foundational use-cases:  quality management; storage conditions control; fleet 
+management; digital stores; real-time omnichannel marketing; electronic shelf 
+labels; beacons & geolocation; wearables
+• Emerging use-cases:  automated replenishment; remote diagnostics;predictive 
+maintenance
+• Pioneering use-cases:  living services; real-time engagement feedback
+Autonomous 
+Vehicles/DronesAdvancing technology 
+continues to open 
+possibilities in 
+distribution efficiency• Foundational use-cases:  Self-driving commercial trucks; Last mile delivery;  
+Self-driving drones
+• Emerging use-cases:  Self-driving personal automobiles; Self-driving public 
+transportation (buses, etc..)
+• Pioneering use-cases:  Drone consumer intelligence; Dronevertising
+ 
+Artificial 
+Intelligence/ 
+Machine LearningNew models for  
+‘Human+Machine’  
+augmentation are 
+emerging, extending 
+from supply chain  
+operations to customer-  
+facing applications• Foundational use-cases:  Trend and volume forecasting; Descriptive analytics; 
+Chatbots; After-sales service; Robotics Process Automation; Development 
+Operations Automation
+• Emerging use-cases:  Predictive recommendations; Smart Search 
+Assistance; Intelligent S&OP planning; Stock allocation forecasting; AI-assisted 
+merchandising; Dynamic pricing
+• Pioneering use-cases:  Scenario-driven prescriptive analytics; Brain-simulation 
+ideation; DNA workforce profiling
+ 
+RoboticsRobotic-enabled  
+manufacturing lowers  
+operational costs, 
+enabling repatriation of 
+manufacturing to bring 
+production closer to the 
+end-consumer• Foundational use-cases:  Robotics-enabled prototyping; Robotic manufacturing; 
+Robotic picking
+• Emerging use-cases:  Automated warehouse; Automated sales assistants; 
+Automated customer support
+• Pioneering use-cases:  Co-bots; Cognitive robotics; Dark manufacturing; 
+Robotic shopping carts
+ 
+Digital TraceabilityConsumer demand for 
+trust and transparency 
+continue to increase• Foundational use-cases:  Product source tracking; inventory replenishment; 
+Supply chain product traceability; Merchandise tracking; Product authenticity 
+mapping; Product warranty
+3D PrintingThe convergence of 
+R&D with prototyping 
+and manufacturing is 
+effectively shrinking the 
+supply chain• Foundational use-cases:  Prototyping; In-store product printing;  
+Real-time manufacturing
+• Emerging use-cases:  In-store ‘point-of-sale marketing’ printing;  
+In-store customization
+• Pioneering use-cases:  Real-time inventory production; 3D printed fashion; 
+Custom promotional material; Custom workplace solutions
+ 
+Augmented Reality/
+Virtual RealityApplication of AR/
+VR growing to include 
+training the workforce 
+and facilitating  
+Human+Machine  
+collaboration in  
+manufacturing• Foundational use-cases:  Virtual planogramming; Product design;  
+Virtual retail locations; AR/VR engagement
+• Emerging use-cases:  Virtual changing rooms; Immersive campaigns;  
+Virtual training environments
+• Pioneering use-cases:  Virtual market research, Virtual sourcing;  
+Virtual customer service; Virtual hiring
+BlockchainNew applications 
+emphasize trusted 
+verification of  
+individually held 
+information• Foundational use-cases:  Authenticity verification; Supply-chain verification; 
+Online wallet; Transaction verification
+• Emerging use-cases:  Employee data verification; Education transcript 
+verification; Professional credentials (e.g. legal) verification
+• Pioneering use-cases : Smart contracts; Warranty tracking; Shared ledgersDesign &  
+InnovationManufacture, 
+Plan & BuyDistribute
+& MoveSell After Sales26
+Operating Models for the Future of ConsumptionAppendix B: Future Workforce of Consumer 
+Packaged Goods and Retail Industries in the 
+US: Econometric Model, 2017
+The model is used to identify the portion of employment 
+subject to automation under different assumptions of the 
+“state of skills” in the workforce. It employs an estimated 
+inverse relationship between the importance of skills that run 
+with the machine and time allocation to “human-like” tasks 
+within occupations, on the one hand, and the probability of 
+automation, on the other. The analysis takes a task-based 
+approach that accounts for human versus machine-like skills 
+and tasks in occupations, in a similar way to the OECD’s 
+research by Arntz, Gregory and Zierahn (2016),52 to address 
+an important gap in occupation-based estimations (e.g. Frey 
+and Osborne, 2013),53 which assumes that occupations 
+as a whole, rather than single tasks, can be automated by 
+technology. This leads to an overestimation of automation – in 
+reality, most occupations contain a substantial share of tasks 
+that are hard to automate. 
+This analysis is based on the state of technologies today 
+and accounts for future technological improvement 
+(advancement/adoption) in a constant (linear) fashion. It 
+considers the fact that the adoption of new technologies 
+is often a slow process and workers are able to adjust by 
+learning skills and switching tasks, preventing unemployment. 
+The share of workforce subject to automation must not be 
+equated to its current “as of today” possibilities. 
+Assumptions were made about the pace of reskilling the 
+workforce in the future in terms of “run with the machine” 
+skills, the reallocation of working time to human-like tasks and 
+the reduction in learning years needed by the workforce in the 
+United States to be ready to “run with the machine”. 
+Methodology:
+ –Country-specific analysis for CPG and retail industries in 
+the United States
+ –Data basis: O*NET database, OECD PIACC survey, the 
+work of C.B. Frey and M.A. Osborne (Oxford University), 
+combined with the work supply demographics of the 
+individual countries derived from the respective national 
+account statistics on employmentModelling Approach:
+1. Constructed consistent data that links automation 
+probabilities, skills, job activities, job descriptions and 
+employment data
+2. Defined those job activities that require strong human-
+like skills (that are not automatable) through regression 
+analysis
+3. Computed the share of employment in each country 
+that is subject to total automation (= more than 75% 
+probability), based on econometrics to estimate how the 
+automation probability depends on PIACC activities of 
+employees
+4. Computed the average automation probability of each 
+task grouping to calculate the total amount of tasks that 
+can be automated across all jobs 27
+Operating Models for the Future of ConsumptionThis insight report leveraged extensive quantitative and 
+qualitative primary research to arrive at key findings, 
+contributing to the perspective presented. From a 
+qualitative perspective, over 75 individuals across the 
+globe, including industry leaders, disruptors, educators, 
+and policymakers, were interviewed to understand 
+their views on future operating models. Quantitative 
+research included the use of five global surveys -- four 
+executive surveys and one consumer survey -- and a 
+comprehensive econometric model to assess the impact 
+of automation (See appendix B). Secondary research 
+was also performed to gather additional data and analyse 
+perspectives written in other reports issued by academic 
+institutions, governments, private businesses, and other 
+global organizations. Research & Acknowledgements
+The World Economic Forum would like to acknowledge 
+and extend its sincere gratitude to, first and foremost, the 
+project steering committee. We also wish to thank the 
+broad community of contributors across partner companies, 
+technology start-ups, academicians and experts. 
+Project Steering Committee
+ –Wouter Kolk, Chief Executive Officer of Albert Heijn, Ahold 
+Delhaize, Netherlands
+ –Henk Mahieu, Head of International Relations and 
+Economic Policy, Office of the Deputy Prime Minister of 
+Belgium, Belgium
+ –Brian Kean, Chief International Officer, CJSC Ulmart, 
+Russia
+ –Jamie Murray Wells, Industry Head of Retail, Google, 
+United Kingdom
+ –Blanca Juti, Chief Corporate Relations Officer, Heineken 
+NV, Netherlands
+ –Mutlu Erturan, Chief Business Officer, Hepsiburada, Turkey
+ –Carrie Ask, Global Head of Retail, Levi Strauss & 
+Company, United States
+ –Joe Abi Akl, Head of Strategy and Business Development, 
+Majid Al Futtaim, United Arab Emirates
+ –Mara Swan, Executive Vice-President of Global Strategy 
+and Talent, Manpower, United States
+ –Chris Johnson, Executive Vice-President- Head of 
+Business Excellence, Nestle SA, Switzerland
+ –Arun Sundararajan, Head of Social Cities Initiative, New 
+York University Stern School of Business, United States
+ –Lars Olav Olaussen, Senior Vice-President of Global 
+Strategy and Talent, Orkla ASA, Norway
+ –Gary Coombe, President of Europe, Procter & Gamble, 
+Switzerland
+ –Stefan Pryor, Secretary of Commerce, State of Rhode 
+Island, United States
+ –Philippe Gillet, Chief Innovation Officer, SICPA SA, 
+Switzerland
+ –Vincent Ambrosino, Chief Operating Officer, Global 
+Business Development, Suntory Holdings Limited, Japan
+ –Sean Flaherty, Senior Director of Global Retail Strategy, 
+UPS, United States
+ –Jack Forestell, Global Head of Product, Visa, United 
+States
+ –Lori Flees, Senior Vice-President of Corporate Strategy, 
+Walmart Stores Inc., United States28
+Operating Models for the Future of ConsumptionResearch Contributors
+ –Andela
+ –Boston University
+ –Carbon
+ –Carlsberg
+ –Carnegie Mellon University
+ –Catalant
+ –Colgate-Palmolive
+ –Columbia University
+ –Da Vinci Institute
+ –DoorDash
+ –Farmers Business Network
+ –FEMSA
+ –Future Workplace
+ –General Assembly
+ –GLAMSQUAD
+ –Godrej
+ –Graze.com
+ –Grupo Bimbo
+ –Instacart
+ –Koc Holdings
+ –LinkedIn
+ –London Business School
+ –MakeTime
+ –Massachusetts Institute of Technology
+ –Organisation for Economic Co-operation and 
+Development (OECD)
+ –Patanjali Ayurved
+ –Peerspace
+ –Picnic
+ –Pluralsight
+ –Progressive Policy Institute
+ –REMA 1000
+ –Royal Philips
+ –Sainsbury’s Argos
+ –Skillful at the Markle Foundation
+ –Swedish Trade Union Federation 
+ –TaskRabbit
+ –Tophatter
+ –Tsinghua University
+ –United Kingdom Office of Digital Government Services
+ –University of Washington
+ –Upskill
+ –Upwork
+ –Vivint Smart Home
+ –Voodoo Manufacturing
+ –WayUp
+ –Wesfarmers Coles
+ –The Wharton School
+ –W.R. Berkely Innovation Labs
+ –Xiaoi Robot Technology
+ –Yoox Net-A-PorterProject Team
+World Economic Forum
+ –Zara Ingilizian, Head of Future of Consumption System 
+Initiative
+ –Andrew Moose, Head of Retail, Consumer Goods and 
+Lifestyle Industries
+ –Mayuri Ghosh, Project Lead, Future of Consumption 
+System Initiative
+ –Sarah Shellaby, Community Lead of Retail, Consumer and 
+Lifestyle Industries
+ –Julien Lederman, Community Lead of Future of 
+Consumption System Initiative
+Accenture
+ –Oliver Wright, Managing Director, Global Lead for 
+Consumer Goods & Services, Accenture Strategy
+ –Christopher Donnelly, Senior Managing Director, 
+Accenture Consulting
+ –Jim Scully, Managing Director, Accenture Strategy
+ –Karen Fang Grant, Senior Principal, Global Lead for 
+Products and Consumer Goods, Accenture Research
+ –Delmary Salcedo, Manager, Accenture Strategy and World 
+Economic Forum Secondee
+ –Sydney Lapeyrolerie, Senior Consultant, Accenture 
+Strategy and World Economic Forum Secondee29
+Operating Models for the Future of Consumption1. Accenture Analysis of Nielsen, 2017.
+2. Accenture Analysis of Bloomberg Market Data, 2017.
+3. Anthony, Scott D., S. Patrick Viguerie and Andrew Waldeck, Corporate 
+Longevity: Turbulence Ahead for Large Organizations, Innosight, 2016, 
+https://www.innosight.com/wp-content/uploads/2016/08/Corporate-
+Longevity-2016-Final.pdf.
+4. Top 500 Database, Global 1000 Spotlight: The Top 10 e-Retail Players 
+Dominate, 5 August 2016, http://www.top500guide.com/global-1000-
+spotlight-top-10-e-retail-players-dominate/. 
+5. Nielsen Retail Measurement Services, “Amid the FMCG Downturn Small 
+Manufacturers Are Tapping Big Growth”, 2017, http://www.nielsen.com/us/
+en/insights/news/2017/amid-the-fmcg-downturn-small-manufacturers-are-
+tapping-big-growth.html.
+6. Google, World Economic Forum: The FMCG Consumer – Utilitarian or 
+Experiential?, 2017. 
+7. Accenture Strategy, Global Operating Model Research, 2016.
+8. Sandeep, Raut, “Terminator or Iron Man – What Will AI Bring in the 
+Future”, The Innovation Enterprise, 9 May 2017, https://channels.
+theinnovationenterprise.com/articles/terminator-or-iron-man-what-will-ai-
+bring-in-future. 
+9. Accenture Digital Operating Model Survey, 2016.
+10. Ibid.
+11. Larsen, Kim, “Data Science at StitchFix”, Multithreaded by StitchFix, 31 
+March 2016, http://multithreaded.stitchfix.com/blog/2016/03/31/data-
+science-at-stitch-fix/. 
+12. Accenture Analysis of Alibaba Group Financials, 2017.
+13. Accenture: Harnessing the Power of Entrepreneurs to Open Innovation, 
+2015.
+14. “Launch of 24 Sèvres, the New Online Shopping Experience”, Louis Vuitton 
+Moet Hennessy, 6 June 2017, https://www.lvmh.com/news-documents/
+news/launch-of-24-sevres-the-new-online-shopping-experience/. 
+15. Perez, Sarah, “Quri, a Retail Intelligence Platform Using Mobile 
+Crowdworkers, Scores $10 Million from Matrix & Others”, Techcrunch, 2 
+October 2013, https://techcrunch.com/2013/10/02/quri-a-retail-intelligence-
+platform-using-mobile-crowdworkers-scores-10-million-from-matrix-
+others/; “A Refreshing Approach to Improving Retail Field Execution”, Quri, 
+http://quri.com/field-labor-optimization-beer-wine/. 
+16. Information provided by Stephane Kasriel, CEO of Upwork.
+17. Accenture, Technology Vision 2017.
+18. Anthony, Scott D., S. Patrick Viguerie and Andrew Waldeck, Corporate 
+Longevity: Turbulence Ahead for Large Organizations, Innosight, 2016, 
+https://www.innosight.com/wp-content/uploads/2016/08/Corporate-
+Longevity-2016-Final.pdf.
+19. Accenture, Humanizing Work through Digital, 2016.
+20. Organisation for Economic Co-operation and Development. Forum 2016 
+Issues: The Future of Education, 2016, http://www.oecd.org/forum/issues/
+forum-2016-issues-the-future-of-education.htm. 
+21. Wingfield, Nick, “As Amazon Pushes Forward with Robots, Workers Find 
+New Roles”, The New York Times, 10 September 2017; Amazon 10-K 
+report issued 10 February 2017, https://www.sec.gov/Archives/edgar/
+data/1018724/000101872417000011/amzn-20161231x10k.htm. 
+22. Bradley, Ben, and Dan Restuccia with Chris Rudnicki and Scott Biddle, The 
+Digital Edge: Middle-Skill Workers and Careers, 2017, http://burning-glass.
+com/wp-content/uploads/Digital_Edge_report_2017_final.pdf.
+23. World Economic Forum, The Future of Jobs Report, 2016. 
+24. Brown, John Seely, and Douglas Thomas, “A New Culture of Learning”, 
+CreateSpace Independent Publishing Platform, 2011.
+25. Bloom, Eric, “Your Technology Skills have a Two Year Half-Life and Six 
+Ways to Stay Current”, Manager Mechanics, 24 October 2011, https://www.
+itworld.com/article/2735945/careers/your-technology-skills-have-a-two-
+year-half-life-and-6-ways-to-stay-current.html.
+26. Wingfield, “As Amazon Pushes Forward with Robots, Workers Find New 
+Roles”.27. General Assembly, 2017 Digital Marketing Skills Report, 2017.
+28. General Assembly, Benefits and ROI of Talent Pipeline-as-a-Service, 2017.
+29. Accenture, Why Artificial Intelligence Is the Future of Growth, 2016.
+30. United States Bureau of Labor Statistics, Employment by Major Industry 
+Sector 2006–2016, 2017. https://www.bls.gov/emp/ep_table_201.htm; 
+Euromonitor, Global Employment Data, Total Value RSP, Constant 2016 
+Prices and Fixed 2016 Exchange Rates, June 2017.
+31. US Bureau of Labor Statistics, Industry Employment, 2016.
+32. Accenture, Econometric Analysis on Impact of Automation on Consumer 
+Industries in the US, 2017.
+33. Ibid.
+34. Accenture, Global Consumer Pulse Research Survey, 2017. 
+35. Accenture, Burning Glass Technologies, Harvard Business School, Bridge 
+the Gap: Rebuilding America’s Middle Skills, 2016.
+36. OECD Employment Outlook 2017.
+37. Singapore Ministry of Manpower, SkillsFuture, SkillsFuture Singapore, 
+2017, http://www.mom.gov.sg/employment-practices/skills-training-and-
+development/skillsfuture. 
+38. Accenture, Global Consumer Pulse Research Survey, 2017.
+39. World Economic Forum, The Global Human Capital Report, 2017, https://
+www.weforum.org/reports/the-global-human-capital-report-2017. 
+40. Ibid.
+41. Ibid.
+42. Koebler, Jason, “The City that Was Saved by the Internet”, Motherboard, 
+27 October 2016, https://motherboard.vice.com/en_us/article/ezpk77/
+chattanooga-gigabit-fiber-network; Lobo, Bento J., The Realized Value 
+of Fiber Infrastructure in Hamilton County, Tennessee, The University of 
+Tennessee at Chattanooga, 18 June 2015, http://ftpcontent2.worldnow.
+com/wrcb/pdf/091515EPBFiberStudy.pdf. 
+43. Accenture, Global Consumer Pulse Research, 2017.
+44. Dehaze, Alain, Chief Executive Officer of the Adecco Group, 2017. https://
+www.weforum.org/agenda/2017/10/future-of-work-can-be-fair-and-flexible/.
+45. Information provided by Stefano Scarpetta, Director of Employment, Labour 
+and Social Affairs of the OECD.
+46. Office of Senator Mark Warner, “Legislation to Test-Drive Portable Benefits 
+Model Introduced in the House and Senate”, 25 May 2017, https://www.
+warner.senate.gov/public/index.cfm/pressreleases?ContentRecord_
+id=73DA2EF1-FD4E-4397-9B7C-D24B1843A29A; Foster, Natalie, Greg 
+Nelson and Libby Reder, Portable Benefits Resource Guide. The Aspen 
+Institute Future of Work Initiative, 2016, http://src.bna.com/hbo.
+47. Interview with Michelle Weise, SVP of Workforce Strategies and Chief 
+Innovation Officer at Strada Education Network, 22 August 2017. 
+48. What Is Portfolium?, Portfolium, 2017, https://portfolium.com/. 
+49. Jagers, Chris, Why the Blockchain Will Revolutionize Academic 
+Credentialing, 28 October 2016, Educause at the Anaheim Convention 
+Center, California, https://medium.com/learning-machine-blog/why-the-
+blockchain-will-revolutionize-academic-credentialing-9950c9c4928d. 
+50. Chartered Institute of Marketing, “Whose Data is it Anyway?”, 2016, https://
+www.cim.co.uk/newsroom/whose-data-is-it-anyway/. 
+51. Accenture, Global Consumer Pulse Research, 2017.
+52. Arntz, Melanie, Terry Gregory and Ulrich Zierahn  (2016), “The Risk of 
+Automation for Jobs in OECD Countries: A Comparative Analysis”, OECD 
+Social, Employment and Migration Working Papers, No. 189, OECD 
+Publishing, Paris, http://dx.doi.org/10.1787/5jlz9h56dvq7-en.
+53. Carl Frey and Michael Osborne, “The Future of Employment: How 
+Susceptible Are Jobs to Computerisation?”, 17 September 2013, https://
+www.oxfordmartin.ox.ac.uk/downloads/academic/The_Future_of_
+Employment.pdf.EndnotesWorld Economic Forum
+91–93 route de la Capite
+CH-1223 Cologny/Geneva
+Switzerland  
+Tel.:  +41 (0) 22 869 1212
+Fax: +41 (0) 22 786 2744
+contact@weforum.org
+www.weforum.orgThe World Economic Forum, 
+committed to improving  
+the state of the world, is the 
+International Organization for 
+Public-Private Cooperation.
+ 
+The Forum engages the 
+foremost political, business  
+and other leaders of society  
+to shape global, regional 
+and industry agendas.

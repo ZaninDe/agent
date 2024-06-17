@@ -1,0 +1,367 @@
+Growth, Marketing & Sales Practice
+AI-powered 
+marketing and sales 
+reach new heights 
+with generative AI
+May 2023
+by Richelle Deveau, Sonia Joseph Griffin, and Steve ReisArtificial intelligence (AI) and machine learning (ML) continue to push the boundaries of what is 
+possible in marketing and sales. And now, with the ongoing step-change evolution of generative 
+AI (gen AI), we’re seeing the use of open-source platforms penetrating to the sales frontlines, 
+along with rising investment by sales-tech players in gen AI innovations. Given the accelerating 
+complexity and speed of doing business in a digital-first world, these technologies are becoming 
+essential tools. 
+Inevitably, this will impact how you operate—and how you connect with and serve your 
+customers. In fact, it’s probably already doing so. Forward-thinking C-suite leaders are 
+considering how to adjust to this new landscape. Here, we outline the marketing and sales 
+opportunities (and risks) in this dynamic field and suggest productive paths forward.AI technology has 
+revolutionized marketing 
+and sales; now, generative 
+AI promises to disrupt the 
+wayB2B and B2C players think 
+about customer experience, 
+productivity and growth.
+Our research suggests that a fifth of current 
+sales-team functions could be automated.
+2 AI-powered sales and marketing reach new heights with generative AI Omnichannel is table stakes
+Across industries, engagement models are changing: 
+today’s customers want everything, everywhere, 
+and all the time. While they still desire an even mix of 
+traditional, remote, and self-service channels (including 
+face-to-face, inside sales, and e-commerce), we see 
+continued growth in customer preference for online 
+ordering and reordering. 
+Winning companies—those increasing their market 
+share by at least 10 percent annually—tend to utilize 
+advanced sales technology; build hybrid sales teams 
+and capabilities; tailor strategies for third-party and 
+company-owned marketplaces; achieve e-commerce 
+excellence across the entire funnel; and deliver hyper-
+personalization (unique messages for individual 
+decision makers based on their needs, profile, 
+behaviors, and interactions—both past and predictive).
+1 Nestor Maslej et al., “The AI Index 2023 annual report,” AI Index Steering Committee, Institute for Human-Centered AI, Stanford University, April 2023.
+2 Cliff Saran, “Stanford University finds that AI is outpacing Moore’s Law,” Computer Weekly, December 12, 2019; Risto Miikkulainen, “Creative AI 
+through evolutionary computation: Principles and examples,” SN Computer Science, 2(3): 163, March 23, 2001.Step changes are occurring in 
+digitization and automation
+AI technology is evolving at pace. It is becoming 
+increasingly easy and less costly to implement, while 
+offering ever-accelerating complexity and speed that 
+far exceeds human capacity. Our research suggests 
+that a fifth of current sales-team functions could be 
+automated. In addition, new frontiers are opening with 
+the rise of gen AI (see sidebar, “What is generative AI?”).
+Furthermore, venture capital investment in AI has 
+grown 13-fold over the last ten years.1  This has led to 
+an explosion of “usable” data (data that can be used to 
+formulate insights and suggest tangible actions) and 
+accessible technology (such as increased computation 
+power and open-source algorithms). Vast, and growing, 
+amounts of data are now available for foundation-model 
+training, and since 2012 there’s been a millionfold 
+increase in computation capacity—doubling every three 
+to four months.2 How AI is reshaping 
+marketing and sales
+AI is poised to disrupt marketing and sales in every sector. This is the result 
+of shifts in consumer sentiment alongside rapid technological change.
+What is generative AI?
+Many of us are already familiar with online AI chatbots and image generators, using them to create 
+convincing pictures and text at astonishing speed. This is the great power of generative AI, or gen AI: it 
+utilizes algorithms to generate new content—writing, images, or audio—from training data. 
+To do this, gen AI uses deep-learning models called foundation models (FMs). FMs are pre-trained 
+on massive datasets and the algorithms they support are adaptable to a wide variety of downstream 
+tasks, including content generation. Gen AI can be trained, for example, to predict the next word in 
+a string of words and can generalize that ability to multiple text-generation tasks, such as writing 
+articles, jokes, or code. 
+In contrast, “traditional” AI is trained on a single task with human supervision, using data specific 
+to that task; it can be fine-tuned to reach high precision, but must be retrained for each new use 
+case. Thus gen AI represents an enormous step change in power, sophistication, and utility—and a 
+fundamental shift in our relationship to artificial intelligence.Sidebar
+3 AI-powered sales and marketing reach new heights with generative AI For example, in CX, hyper-personalized content and offerings can be based on individual 
+customer behavior, persona, and purchase history. Growth can be accelerated by leveraging AI 
+to jumpstart top-line performance, giving sales teams the right analytics and customer insights 
+to capture demand. Additionally, AI can boost sales effectiveness and performance by offloading 
+and automating many mundane sales activities, freeing up capacity to spend more time with 
+customers and prospective customers (while reducing cost to serve).
+In all these actions, personalization is key. AI coupled with company-specific data and context 
+has enabled consumer insights at the most granular level, allowing B2C lever personalization 
+through targeted marketing and sales offerings. Winning B2B companies go beyond account-
+based marketing and disproportionately use hyper-personalization in their outreach. What does gen AI mean for 
+marketing and sales?
+The rise of AI, and particularly gen AI, has potential for impact in three areas 
+of marketing and sales: customer experience (CX), growth, and productivity. 
+Dynamic audience targeting and segmentation 
+Gen AI can combine and analyze large amounts of data—such as demographic information, existing 
+customer data, and market trends—to identify additional audience segments. Its algorithms then 
+enable businesses to create personalized outreach content, easily and at scale. 
+Instead of spending time researching and creating audience segments, a marketer can leverage gen 
+AI’s algorithms to identify segments with unique traits that may have been overlooked in existing 
+customer data. Without knowing every detail about these segments, they can then ask a gen AI tool 
+to draft automatically tailored content such as social media posts and landing pages. Once these have 
+been refined and reviewed, the marketer and a sales leader can use gen AI to generate further content 
+such as outreach templates for a matching sales campaign to reach prospects.
+Embracing these techniques will require some openness to change. Organizations will require a 
+comprehensive and aggregated dataset (such as an operational data lake that pulls in disparate 
+sources) to train a gen AI model that can generate relevant audience segments and content. Once 
+trained, the model can be operationalized within commercial systems to streamline workflows while 
+being continuously refined by agile processes.
+Lastly, the commercial organizational structure and operating model may need to be adjusted to 
+ensure appropriate levels of risk oversight are in place and performance assessments align to the new 
+ways of working. A gen AI sales  
+use case
+AI-powered sales and marketing reach new heights with generative AI 4This revolutionary approach is transforming 
+the landscape of marketing and sales, driving 
+greater effectiveness and customer engagement 
+from the very start of the customer journey. —At the top of the funnel, gen AI 
+surpasses traditional AI-driven 
+lead identification and targeting 
+that uses web scraping and simple 
+prioritization. Gen AI’s advanced 
+algorithms can leverage patterns 
+in customer and market data 
+to segment and target relevant 
+audiences . With these capabilities, 
+businesses can efficiently analyze 
+and identify high-quality leads, 
+leading to more effective, tailored 
+lead-activation campaigns 
+(see “A gen AI sales use case: 
+Dynamic audience targeting and 
+segmentation”).  
+ 
+Additionally, gen AI can optimize 
+marketing strategies through 
+A/B testing of various elements 
+such as page layouts, ad copy, 
+and SEO strategies, leveraging 
+predictive analytics and data-
+driven recommendations to ensure 
+maximum return on investment. 
+These actions can continue through 
+the customer journey, with gen 
+AI automating lead-nurturing 
+campaigns based on evolving 
+customer patterns. —Within the sales motion, gen AI 
+goes beyond initial sales-team 
+engagement, providing continuous 
+critical support throughout the entire 
+sales process, from proposal to deal 
+closure.  
+ 
+With its ability to analyze customer 
+behavior, preferences, and 
+demographics, gen AI can generate 
+personalized content and messaging. 
+From the beginning, it can assist 
+with hyper-personalized follow-
+up emails at scale and contextual 
+chatbot support . It can also act 
+as a 24/7 virtual assistant for each 
+team member, offering tailored 
+recommendations, reminders, 
+and feedback, resulting in higher 
+engagement and conversion rates.  
+ 
+As the deal progresses, gen AI can 
+provide real-time negotiation 
+guidance and predictive insights  
+based on comprehensive analysis of 
+historical transaction data, customer 
+behavior, and competitive pricing.  
+  —There are many gen AI use cases 
+after the customer signs on the 
+dotted line, including onboarding 
+and retention. When a new customer 
+joins, gen AI can provide a warm 
+welcome with personalized 
+training content , highlighting 
+relevant best practices. A chatbot 
+functionality can provide immediate 
+answers to customer questions and 
+enhance training materials for future 
+customers.  
+ 
+Gen AI can also offer sales 
+leadership with real-time next-step 
+recommendations and continuous 
+churn modeling based on usage 
+trends and customer behavior. 
+Additionally, dynamic customer-
+journey mapping can be utilized  to 
+identify critical touchpoints and drive 
+customer engagement.Bringing gen AI to life in the customer journey
+There are many gen AI-specific use cases across the customer journey that can drive impact: 
+5 AI-powered sales and marketing reach new heights with generative AI Commercial leaders are optimistic—and reaping benefits
+We asked a group of commercial leaders to provide their perspective on use cases and the role 
+of gen AI in marketing and sales more broadly. Notably, we found cautious optimism across the 
+board: respondents anticipated at least moderate impact from each use case we suggested. 
+In particular, these players are most enthusiastic about use cases in the early stages of the 
+customer journey lead identification, marketing optimization, and personalized outreach  
+(Exhibit 1).
+Exhibit 1
+Estimated impact of use cases,¹ % respondents answering “signi/f_icant” or “very signi/f_icant”
+1Senior executives in signi/f_icant global B2B and B2C sales and marketing organizations across a wide range of industries and company maturity levels were 
+asked: Please share your estimated ROI / impact these tools would have if implemented in your organization.
+Source: McKinsey analysisCommercial leaders are cautiously optimistic about gen AI use cases, 
+anticipating moderate to signi/f_icant impact.
+McKinsey & CompanyLead identi/f_ication
+(real time, based on customer trends)
+Marketing optimization
+(A/B testing, SEO strategies)
+Personalized outreach
+(chatbots, virtual assistants)
+Dynamic content
+(websites, marketing collateral)
+Up/cross-selling recs
+(via usage patterns, support tickets)
+Success analytics
+(continuous churn modeling)
+Marketing analytics
+(dynamic audience targeting)
+Dynamic customer-journey mapping
+(identifying critical touchpoints)
+Automated marketing work/f_lows
+(nurturing campaigns)
+Sales analytics
+(predictive pricing, negotiation)
+Sales coaching
+(hyper-personalized training)60
+55
+53
+50
+50
+45
+45
+45
+35
+30
+25
+6 AI-powered sales and marketing reach new heights with generative AI These top three use cases are all focused on prospecting 
+and lead generation, where we’re witnessing significant 
+early momentum. This comes as no surprise, considering the 
+vast amount of data on prospective customers available for 
+analysis and the historical challenge of personalizing initial 
+marketing outreach at scale.
+Various players are already deploying gen AI use cases, 
+but this is undoubtedly only scratching the surface. Our 
+research found that 90 percent of commercial leaders 
+expect to utilize gen AI solutions “often” over the next two 
+years (Exhibit 2).
+Almost never5
+025
+055
+00
+040
+1020
+1020
+5020
+6515Machine learning Gen AI
+400
+25Rarely Sometimes Often Almost always
+Almost never Rarely Sometimes Often Almost alwaysWeb <year>
+<Title>
+Exhibit <x> of <x>
+Extent to which commercial leaders feel their organizations are using machine learning / gen AI,¹
+% of responses
+Extent to which commercial leaders think their organizations should be using machine learning / 
+gen AI,² % of responses
+1Senior executives in signi/f_icant global B2B and B2C sales and marketing organizations across a wide range of industries and company maturity levels were 
+asked: To what extent is your organization using ML / gen AI solutions?
+2Q: How much do you think your organization should be using ML / gen AI solutions?
+Source: McKinsey analysisCommercial leaders are already leveraging gen AI use cases—but most feel the 
+technology is underutilized.
+McKinsey & CompanyExhibit 2Our research found that
+90 percent
+of commercial leaders expect to utilize gen AI solutions “often” over 
+the next two years.
+7 AI-powered sales and marketing reach new heights with generative AI Overall, the most effective companies are prioritizing and deploying advanced sales tech, 
+building hybrid teams, and enabling hyper-personalization. And they’re maximizing their use of 
+e-commerce and third-party marketplaces through analytics and AI. At successful companies, 
+we’ve found: 
+ —There is a clearly defined AI vision and strategy. 
+ —More than 20 percent of digital budgets are invested in AI-related technologies. 
+ — Teams of data scientists are employed to run algorithms to inform rapid pricing strategy and 
+optimize marketing and sales.
+ — Strategists are looking to the future and outlining simple gen AI use cases. 
+Such trailblazers are already realizing the potential of gen AI to elevate their operations. 
+Anticipating and mitigating risks in gen AI 
+While the business case for artificial intelligence is compelling, the rate of change in AI 
+technology is astonishingly fast—and not without risk. When commercial leaders were asked 
+about the greatest barriers limiting their organization’s adoption of AI technologies, internal and 
+external risk were at the top of the list. 
+From IP infringement to data privacy and security, there are a number of issues that require 
+thoughtful mitigation strategies and governance. The need for human oversight and 
+accountability is clear, and may require the creation of new roles and capabilities to fully 
+capitalize on opportunities ahead.Our research indicates that players 
+that invest in AI are seeing a revenue 
+uplift of 3 to 15 percent and a sales 
+ROI uplift of 10 to 20 percent. 
+88 AI-powered sales and marketing reach new heights with generative AI The wa y forwar d: 
+Six “ no r egr e ts” 
+AI strat egies
+T her e ar e six actions y ou can tak e in y our  compan y  t oda y  t o chart 
+an AI tr ans f orma tion in sales and mark e ting.
+5.
+T rain y o ur sal es t eam on g en AI 
+basics t o fuel exper imentation
+Of er  w ork shops on gen AI fundamen tals 
+t o giv e the t eam a be tt er  sense o f  po t en tial 
+applica tions and the con /Cemdence t o begin 
+e xperimen ting.1.
+Conduct a g en AI audit of 
+commer cial activities
+E v alua t e mark e ting and sales t ech 
+in fr as truct ur e and skill se ts; e xplor e 
+ho w open-sour ce or  lo w-cos t t ech 
+pla y er s could help y ou implemen t gen 
+AI use cases.
+4.
+Launch a g en AI exper iment 
+( or thr ee)
+Pilo t tw o or  thr ee e x citing use cases in a 
+tar ge t ed portion o f  the sales cy cle ( such as 
+t op-o f - funnel). T r ack r esults and r e /Cemne f or  
+br oader  implemen ta tion.2.
+F orm a commer cial 
+g en AI taskfor ce
+Cr ea t e a cr oss - functional t eam (including , 
+f or  e x ample, mark e ting , sales , pricing, and 
+IT) t o e xplor e gen AI opport unities and 
+pr essur e t es t applicability  o f  commer cial 
+use cases.3 .
+Identify l o w -hanging fruit in 
+y o ur cust omer jo urne y
+L ook f or  simple , high-impact , lo w-cos t, 
+lo w-risk use cases ( such as aut oma ting 
+pr ospecting outr each emails ) and put 
+guar dr ails in place t o limit risk.
+6 .
+E sta blish g en AI guidelines for 
+y o ur sal es t eam
+P r ohibit input o f  sensitiv e cus t omer  da ta 
+in t o gen AI t ools and se t a high bar  f or  
+v erifying outputs, especially  wher e con t en t 
+will be e xt ernally  f acing.
+9 AI-powered sales and marketing reach new heights with generative AI In addition to immediate actions, leaders can start thinking strategically about how to invest in AI 
+commercial excellence for the long term. It will be important to identify which use cases are table 
+stakes, and which can help you differentiate your position in the market. Then prioritize based on 
+impact and feasibility.
+The AI landscape is evolving very quickly, and winners today may not be viable tomorrow. Small start-
+ups are great innovators but may not be able to scale as needed or produce sales-focused use cases 
+that meet your needs. Test and iterate with different players, but pursue partnerships strategically 
+based on sales-related innovation, rate of innovation versus time to market, and ability to scale.
+v v v
+AI is changing at breakneck speed, and while it’s hard to predict the course of this revolutionary tech, 
+it’s sure to play a key role in future marketing and sales. Leaders in the field are succeeding by turning 
+to gen AI to maximize their operations, taking advantage of advances in personalization and internal 
+sales excellence. How will your industry react?
+Richelle Deveau is a partner in McKinsey’s Southern California office, and  Sonia Joseph Griffin is an associate partner 
+in the Atlanta office, where Steve Reis  is a senior partner.
+The authors wish to thank Michelle Court-Reuss, Will Godfrey, Russell Groves, Maxim Lampe, Siamak Sarvari, and Zach 
+Stone for their contributions to this article.
+10 AI-powered sales and marketing reach new heights with generative AIMcKinsey Growth, Marketing & Sales  
+May 2023  
+Copyright 2023 © McKinsey & Company  
+Designed by Darby
+www.mckinsey.com
+ @McKinsey  
+  @McKinsey

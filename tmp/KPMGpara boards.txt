@@ -1,0 +1,260 @@
+Generative AI Board Briefing Paper
+—January 2024Preparing your board 
+for generative AI2© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.Your journey to Trusted AI
+In the fast- changing world of Artificial Intelligence (AI), generative AI stands as a pivotal innovation 
+that board members and Non -Executive Directors need to fully understand. It offers unprecedented 
+opportunities but also raises complex business and ethical questions. The aim is not just to manage 
+those challenges, but to elevate your organization's AI practices to achieve "Trusted AI.”
+We define Trusted AI as the balanced integration of Artificial Intelligence that helps maximize benefits, 
+minimize risks, and retain the trust of stakeholders by aligning with governance, ethics, and safety principles.
+This briefing serves a dual purpose: first, to provide you with a focused overview of how generative AI affects 
+your responsibilities, and second, to help set you on the path towards operationalizing Trusted AI.
+ContentsBoard checklist
+p.3
+AI Governance Committeep.5
+Assess your AI readinessp.6
+Employee engagementp.7
+Setting up guardrailsp.8
+Operationalizing Trusted AIp.9Data and AI in contextp.43© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.Board checklist
+A key responsibility of the board is establishing an effective risk management program that evolves 
+with emerging technologies. It is vital for board members to understand how AI affects their organization, the potential benefits, and to actively oversee and mitigate related risks. To help, we created a checklist designed to guide you in your journey.
+AI Knowledge 
+and Inventory•Gain a base- level understanding of what AI and 
+generative AI means – its potential benefits and risks, 
+and how the company might use it, and ensure 
+knowledge cascades to the C -suite.
+•Understand the inventory of material AI use cases currently in production or in development.
+Strategic Alignment 
+& Governance•Understand and approve the AI strategy, ensuring its alignment with broader business strategies and 
+protective policies.
+•Set and approve the AI risk profile, risk tolerance, 
+and guardrails using a Trusted AI framework.
+•Identify a Trusted AI governance structure that reports to the board.
+•Understand and oversee AI decisions recognizing their advantages and trade- offs.
+•Ensure AI is a regular board agenda item.
+Trusted AI 
+& Regulation•Understand current and pending AI -related regulations.
+•Understand and oversee Trusted AI use, risk identification, and mitigation especially concerning accuracy, security, privacy, and bias.
+•Understand high- risk AI activities and the actions 
+to mitigate them.
+•Define a position for AI in relation to organizational values and culture, recognizing the implications for both employee and customer experience.
+Data Management 
+& Integrity•Understand the nature of data used in AI models,         ensuring its quality, integrity, relevance, and unbiased nature.
+Incident, Vendor 
+& Risk Management•Understand incident management procedures for AI and relevant business continuity measures.
+•Understand vendor risk management for AI platforms.
+•Ensure regular independent testing and assessment of AI systems.4© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.AI is an umbrella term that encompasses different techniques. AI and its subset, generative AI, are 
+transforming the competitive landscape across all sectors, offering significant advantages but also posing ethical and governance challenges. 
+Many boards are asking for high- level education (with third- parties, as necessary) on generative AI and its 
+potential benefits and risks for their company. The session should include an overview of the risks posed by 
+generative AI, which could mean additional reputational and legal risks that can undermine stakeholder trust.  Putting Data and AI in context
+•AI systems can generate predictions, recommendations, 
+or decisions that influence real or virtual environments. Generative AI, specifically, can create realistic and unique outputs like images, videos, software code, music, or text.
+•AI is projected to generate nearly US$5 trillion in added value by 2024, facilitating productivity gains, driving new business models, and helping address complex global issues 
+(Source: IDC).
+•The rapid growth of generative AI has also heightened 
+awareness of associated risks. To gain trust, AI systems must be developed and implemented carefully, aligning with legal frameworks, ethical norms and human rights.•Given rapidly evolving legislation, the use of generative AI may pose compliance risks. Monitoring this must be a management priority.
+•High-profile failures involving AI have eroded public trust. 
+Some AI technologies have been accused of reinforcing unfair biases and stealing artists’ intellectual property (IP). 
+•AI applications can produce inaccurate, unfair, or harmful outcomes, potentially undermining trust, and human rights like privacy. Data privacy is a major concern.
+•A recent KPMG in Canada national survey indicates that the 
+responsible use of AI is a key enabler in building trust and 
+customer loyalty. Artificial Intelligence
+1956
+Natural 
+Language 
+ProcessingRobotic 
+Process 
+Automation
+Supervised / Unsupervised 
+LearningReinforcement Learning
+Generative 
+Adversarial 
+Networks 
+(GANs)Variational Autoencoders 
+(VAEs)Machine Learning (ML)
+1997
+Deep Learning (DL)
+2017
+Generative AI
+2022
+Transformer 
+Models
+GPT-4PaLMApps/Interfaces: 
+e.g. ChatGPT , Bard, Dall -EClaude5© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.We recommend a dedicated AI Governance committee that reports to the board to supervise 
+trustworthy, ethical AI practices in the organization. It should include key C -level executives or their 
+representatives from across the business, including functional , legal & privacy, risk, technology, 
+data, cyber, and sales & marketing. 
+The committee should seek external advice from experts in AI, ethics, and law and assist the C -Suite 
+in making informed decisions on significant matters pertaining to AI.Establish your AI Governance committee
+Key considerations:
+•It is important to develop a governance structure and 
+policies for generative AI technology early on, and to review 
+and update those policies as new AI tools and risks emerge.
+•Define key roles and responsibilities in relation to oversight, 
+design, development, and use of AI across the business (including products and services).
+•Create AI guiding principles aligned with the Trusted AI 
+framework, including on the ethical use of AI.
+•Define and document the scope of the AI governance 
+program, including which types of models, algorithms, and systems are in and out of scope, and why, and building a risk scale for in -scope use cases).
+•Monitor the process to escalate and assess high-risk AI use cases (including the intake and approval process).CIO CISO CDAO
+Privacy/Legal CRO
+CAECDO CTO3rdLine
+Monitoring and Testing2ndLine
+Strategy, Policy and Governance
+While other organizational 
+committees may exist, it is 
+important to ensure you bring together appropriate cross -
+functional leadership and insight to effectively oversee AI.
+Goals for the board
+•Ensure AI applications align with ethical 
+standards, safeguarding the organization from potential legal and reputational risks.
+•Foster innovation, enabling the business 
+to gain a competitive edge through 
+trustworthy AI development.
+•Establish a commitment to ethical and Trusted AI, enhancing trust and brand value among stakeholders, customers, and employees.6© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.AI readiness in an organization means being fully 
+set up and prepared – across strategic alignment, 
+infrastructure, technology, workforce skills, and ethical considerations –to use AI effectively and 
+responsibly.
+Leading organizations strive to understand and 
+proactively manage the risk and ethical issues related 
+to AI. Any assessment framework used should evolve with current and upcoming frameworks and 
+regulations, including NIST AI Risk Management, ISO 
+42001, AIDA, EU AI Act, Canada’s Guide on the use 
+of Generative AI, etc.
+Image on the right: KPMG’s Trusted AI framework.Assess your AI readiness
+Key considerations:
+•Foster top-down leadership by establishing a 
+unified understanding across the organization, and about where the AI readiness assessment fits in your company’s data and AI ethics journey.
+•Prioritize outcomes by adopting an outcome-focused approach to ensure the insights from the assessment translate into actions. This will inform the roadmap and development of your data and AI ethics strategy, principles, and processes.
+•Maintain clear communication by ensuring respondents understand the benefits, desired outcomes, and results of the assessment, and how these impact them and the organization. This fosters a sense of collaboration and inclusion.Goals for the board: 
+•Receive quantified insights into your organization’s AI readiness, benchmarked against national, international best practices, and peers, leveraging a robust Trusted AI framework.
+•Lay the groundwork for informed discussions among key decision makers about your organization’s AI and data challenges, priorities, and roadmap.
+•Gauge consensus and understanding across relevant stakeholder groups, which can inform initiatives to improve awareness and promote a consistent approach within your organization.Among the key questions to consider during this process are:
+•Is there a clear decision- making process for how and when a generative AI system or model –including 
+a third- party model –should be developed and deployed?
+•How is management mitigating these risks and what generative AI risk management framework is used?
+•How is the company monitoring federal, provincial, and global legislative and regulatory proposals to govern the use of generative AI?
+•Does the organization have the necessary generative AI -related talent and resources?
+7© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.Strong g overnance and AI readiness create a structured environment where AI can thrive, but it’s 
+the commitment and understanding from your employees that bring these technologies to life in a 
+sustainable, trustworthy way. Build a shared focus around AI by engaging your employees early in 
+your journey.Build employee engagement
+Goals for the board:
+•Build consensus and acceptance on the 
+organization's approach to Data and AI. This requires a multi -disciplinary and coordinated 
+approach, ensuring buy -in across the organization.
+•Establish trust among employees. Trust erosion often occurs due to lack of visibility and transparency.
+•Keep workforce updated with rapidly changing technological advances. With the growth of AI and Data use, employees are expected to have basic knowledge of the topic.TimeSupport for Data and AICollaborationCommitmentOwnership
+AwarenessUnderstanding
+Awareness
+Stakeholders have a broad awareness and familiarity of Data and AI concepts.Understanding
+Stakeholders understand the key principles, terms, use cases, and changes Data and AI introduces to them. Collaboration
+Relevant stakeholder groups collaborate on a periodic basis through an established governance forum to drive change programs pertaining to Trusted 
+AI.Commitment
+Stakeholder groupsare committed to incorporating trustworthy practices into the way that data is collected and used and Trusted AI frameworks and principles are rolled out.Ownership
+Stakeholders at all levels within the organization demonstrate ownership and accountability through their adherence Trusted AI frameworks and policies. 
+Key considerations:
+•Develop meaningful engagement within your organization through an incremental and targeted approach, tailored to your 
+specific needs. Strategies 
+can include: 
+•Data and AI insight sessions that are designed to familiarize board members with key concepts, benefits, 
+and risks.
+•Data and AI learning programs that offer employees 
+training to deepen their understanding of data and AI.
+•Data and AI activation programs that involve identifying internal advocates to lead efforts that support the trustworthy and sustainable adoption of AI.8© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.To use AI ethically, companies must understand its current uses and effects on society. This insight, coupled 
+with knowledge of emerging regulation and public perception, aids in establishing guiding principles for AI and 
+data analytics usage.
+Centre this process around customer needs and perspectives. Consult key stakeholders and, if possible, 
+consumers, and those affected by the AI model. Define ethical guardrails and governance 
+for your organization
+Trustworthy
+AI systems are fit-for-purpose and perform 
+reliably to produce accurate output as
+intended. Data acquisition, governance, and 
+usage uphold ethical standards and comply 
+with applicable privacy and data regulations.Values -led
+AI systems adhere to commonly accepted ethical  principles and values (e.g. fairness, transparency of data collected and how it is used), uphold human rights (e.g. privacy), and comply with  applicable laws and regulations.Human -centric
+AI systems are designed to achieve positive 
+outcomes for end- users and other stakeholders,
+and at a minimum, do not cause harm or detract from human well -being.Trusted AI is designed 
+meet the following 
+expectations: 
+Key considerations:
+•Establish a set of standards the organization 
+commits to –an AI ethics codes of conduct –
+relevant to employees, customers, and communities.
+•Put in place regular reviews of the ethics of AI systems by an independent body including representation of communities and stakeholders impacted by the AI systems.
+•Adhere to a third- party certification system that 
+independently confirms a minimum level of transparency, accountability and fairness to the broader public.
+•Implement a Regulatory Insights Platform that can help track and understand the impact of new and existing regulations, laws, and guidance about AI.Goals for the board:
+•Proactively identify and manage potential ethical, legal, and privacy risks associated with AI applications, paying close attention to how AI could disproportionally affect members of equity -
+deserving groups.
+•Showcase a commitment to ethical AI usage through self -regulation 
+and transparency.
+•Embrace diversity with a board that helps make well -rounded, 
+unbiased decisions based on a deeper understanding of AI impacts. 9© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.Implementing Trusted AI throughout your operations is complex due to the diversity of AI 
+applications and contexts they involve. 
+Navigating the complex landscape of Data & AI demands committed engagement with the broader impacts of 
+technology on society. The proposed approaches in this paper empower organizations to step forward as leaders of responsible innovation, fostering trust and paving the way for AI that serves the greater good. 
+Generative AI is new, but there are tried and tested frameworks you can use. The key to preparation is 
+getting your whole team started – now.Operationalizing Trusted AI
+Support the development of leaders who can bridge 
+the gap between business objectives and data needs.
+Data fuels Artificial Intelligence. It is critical to understand 
+the nature of data used in AI models, ensuring its quality, privacy, relevance, and unbiased nature. As generative AI technology breakthroughs happen at a faster and faster rate, how you capture, leverage, and protect your company data will become even more critical. 
+Adopt a balanced and proportional approach 
+to ethical risk management and human oversight.
+Given the context -sensitive nature of ethical 
+considerations in data analytics and AI, it's essential 
+to monitor and manage ethical risks dynamically and consistently.  Three steps to 
+consider :
+An ongoing assessment and Trusted AI program 
+can ensure you meet specific standards of ethics, compliance, quality and security. 
+Through on-site assessments, using Trusted AI tools 
+for continuous monitoring, and a peer review approach, you can be confident that AI models are responsibly developed and deployed. Such a program fosters trust and transparency.10© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.ContactsGavin Lubbe
+Partner, Customer & Operations, GTA Lead, Lighthouse
+gavinlubbe@kpmg.ca Kareem Sadek
+Partner, Technology Risk Consulting, Trusted AI Co- Leader 
+ksadek@kpmg.ca
+Ven Adamov
+Partner, Governance, Risk & Compliance Services, Trusted AI Co- Leader
+vadamov@kpmg.caZoe Willis
+Partner, Strategy & Digital , National Digital & Data Leader
+zoemwillis@kpmg.ca
+David Marotte
+Quebec Leader, Data & Artificial Intelligencedmarotte@kpmg.ca
+Marc Low
+Director of Innovation, Growth and Emerging Tech, KPMG Ignitionmarclow@kpmg.ca 
+JQ Lien
+Partner, Technology, Strategy & Transformation
+jqlien@kpmg.ca
+Bryan Matthews
+Partner, Deal Advisory 
+bgmatthews@kpmg.caAndrew Forde
+Partner, Technology Strategy and Digital Transformationandrewforde@kpmg.ca11© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization of independent membe r firms affiliated with KPMG International Limited, a private 
+English company limited by guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent member firms of the KPMG global organization.The KPMG in Canada Board Leadership Centre (BLC) engages with 
+directors, board members and business leaders to discuss timely and relevant boardroom challenges and deliver practical thought leadership on risk and strategy, talent and technology, globalization and regulatory issues, financial reporting, and more. BLC provides an analysis of the big issues reshaping our environment today for public and private- company governance and shares diverse perspectives 
+from KPMG in Canada’s subject matter experts to help navigate the boardroom agenda.About KPMG’s 
+Board Leadership Centre
+Supporting board members 
+with value -added insights 
+and trusted guidance.
+The information contained herein is of a general nature and is not intended to address the circumstances of any 
+particular individual or entity. Although we endeavour to provide accurate and timely information, there can be 
+no guarantee that such information is accurate as of the date it is received or that it will continue to be accurate 
+in the future. No one should act on such information without appropriate professional advice after a thorough 
+examination of the particular situation.
+© 2024 KPMG LLP, an Ontario limited liability partnership and a member firm of the KPMG global organization 
+of independent member firms affiliated with KPMG International Limited, a private English company limited by 
+guarantee. All rights reserved. The KPMG name and logo are trademarks used under license by the independent 
+member firms of the KPMG global organization. 24517kpmg.com/ca

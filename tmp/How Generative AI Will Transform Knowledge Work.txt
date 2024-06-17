@@ -1,0 +1,342 @@
+Technology And Analytics
+Como a IA generativa
+transformará o trabalho de
+conhecimento
+por Maryam Alavi e George Westerman
+Novembro 07, 2023
+Resumo   
+HBR Staff; Nenov/Getty Images; Midjourney
+A IA generativa pode ser uma bênção para o trabalho com
+conhecimento, mas somente se você a usar da maneira certa. Novas ferramentas
+generativas baseadas em IA estão surgindo rapidamente para auxiliar e
+transformar o trabalho com conhecimento em setores que vão desde educação e
+finanças até direito e medicina. As empresas estão começando a introduzir
+inovações generativas baseadas em IA em seus processos e a promulgar políticas
+sobre como usar as ferramentas com segurança. No entanto, não há necessidade
+de esperar por essas mudanças impostas externamente. Você pode começar agora
+a usar a IA generativa para seu próprio benefício, depois de entender e aprender a
+mitigar os riscos associados. Usando ferramentas gratuitas já disponíveis na web,
+você pode reduzir sua carga cognitiva devido ao aumento constante das ondas deinformações, ao mesmo tempo em que aumenta suas habilidades cognitivas e a
+eficácia do aprendizado. Agora é a hora de começar a usar a IA generativa em seu
+trabalho de conhecimento e ajudar seus colegas a usá-la com sabedoria.
+Aviso: este texto foi traduzido com o uso de tradução automática e
+pode conter erros. Responda a esta pesquisa para nos enviar seus
+comentários e obtenha mais informações em nossas perguntas
+frequentes.
+Read in English
+As ferramentas generativas de IA conquistaram o mundo.
+ChatGPT atingiu 100 milhões de usuários mensais mais rápido do
+que qualquer aplicativo de internet na história. Os benefícios
+potenciais dos ganhos de eficiência e produtividade para
+empresas intensivas em conhecimento são claros, e empresas em
+setores como serviços profissionais, assistência médica e finanças
+estão investindo bilhões na adoção das tecnologias.
+Mas os benefícios para profissionais do conhecimento individuais
+podem ser menos claros. Quando a tecnologia pode realizar
+muitas tarefas que somente humanos podiam fazer no passado, o
+que isso significa para os profissionais do conhecimento? A IA
+generativa pode e automatizará algumas das tarefas dos
+profissionais do conhecimento, mas isso não significa
+necessariamente que substituirá todas elas. A IA generativa
+também pode ajudar os profissionais do conhecimento a
+encontrar mais tempo para realizar um trabalho significativo e
+melhorar o desempenho e a produtividade. A diferença está na
+forma como você usa as ferramentas.
+Neste artigo, pretendemos explicar como fazer isso bem. Primeiro,
+para ajudar funcionários e gerentes a entender como a IA
+generativa pode apoiar o trabalho com conhecimento. E em
+segundo lugar, identificar as medidas que os gerentes podem
+tomar para ajudar os funcionários a obter os benefícios
+potenciais.
+fecharO que é trabalho com conhecimento?
+O trabalho com conhecimento envolve principalmente o
+processamento cognitivo de informações para gerar resultados de
+valor agregado. Ele difere do trabalho manual nos materiais
+usados e nos tipos de processos de conversão envolvidos. O
+trabalho com conhecimento geralmente depende de treinamento
+avançado e especialização em domínios específicos, adquiridos ao
+longo do tempo por meio de aprendizado e experiência. Inclui
+tarefas estruturadas e não estruturadas. Tarefas estruturadas são
+aquelas com entradas e saídas bem definidas e bem
+compreendidas, bem como etapas pré-especificadas para
+converter entradas em saídas. Os exemplos incluem
+processamento da folha de pagamento ou agendamento de
+reuniões. Tarefas não estruturadas são aquelas em que as
+entradas, procedimentos de conversão ou saídas são, em sua
+maioria, mal definidas, subespecificadas ou desconhecidas a
+priori. Exemplos incluem a resolução de conflitos interpessoais, a
+criação de um produto ou a negociação de um salário.
+Muito poucos empregos são puramente um ou outro. Os trabalhos
+consistem em muitas tarefas, algumas estruturadas e outras não
+estruturadas. Algumas tarefas são necessárias, mas repetitivas.
+Alguns são mais criativos ou interessantes. Alguns podem ser
+feitos sozinhos, enquanto outros exigem trabalhar com outras
+pessoas. Alguns são comuns a tudo o que o trabalhador faz,
+enquanto outros acontecem apenas para exceções. Como
+profissional do conhecimento, seu trabalho, então, é gerenciar
+esse conjunto complexo de tarefas para atingir seus objetivos.
+Tradicionalmente, os computadores são bons em realizar tarefas
+estruturadas, mas há muitas tarefas que somente humanos
+podem realizar. A IA generativa está mudando o jogo,
+ultrapassando os limites do que os computadores podem fazer e
+reduzindo a esfera de tarefas que permanecem como atividade
+puramente humana. Embora possa ser preocupante pensar na
+invasão da IA generativa no trabalho com conhecimento,
+acreditamos que os benefícios podem superar em muito os custosda maioria dos profissionais do conhecimento. Mas perceber os
+benefícios exige agir agora para aprender como aproveitar a IA
+generativa em apoio ao trabalho com conhecimento.
+Como a IA generativa pode ajudar?
+Quando se trata de IA, costuma-se dizer que “a IA não substituirá
+você, mas uma pessoa que usa a IA o substituirá”. Em vez de
+automatizar seu trabalho, o poder da IA generativa pode ajudar a
+melhorar sua capacidade de realizar um trabalho de
+conhecimento cognitivamente desafiador.
+A chave é usar a IA generativa para gerenciar a enxurrada de
+informações que passam por você todos os dias. Os humanos têm
+capacidade limitada de processamento de informações
+cognitivas. Por outro lado, a maioria dos profissionais do
+conhecimento atualmente é inundada por um fluxo de entrada de
+alta velocidade de informações digitais e comunicações sempre
+ativas. Essa escassez de informações está criando uma “dívida
+digital”: um acúmulo cada vez maior de informações esperando
+para serem processadas por cada profissional do conhecimento. 
+Se você se sente assim, você não está sozinho. Sessenta e oito por
+cento dos trabalhadores em uma recente Microsoft pesquisa
+indicaram que eles não têm tempo ininterrupto suficiente para se
+concentrar em suas atividades principais durante a jornada de
+trabalho. A parcela de horas de trabalho ocupadas por e-mails,
+reuniões eletrônicas, mensagens de texto e busca e revisão de
+conteúdo digital está aumentando ainda mais.
+É aqui que a IA generativa pode ajudar — se você a usar com
+sabedoria. Em particular, a IA generativa pode ser útil de três
+maneiras principais: reduzir sua carga cognitiva automatizando
+algumas tarefas estruturadas, aumentando sua capacidade
+cognitiva para tarefas não estruturadas e melhorando o processo
+de aprendizado para seu trabalho.Reduzindo a carga cognitiva.
+As ferramentas generativas de IA podem melhorar o desempenho
+e a produtividade liberando a capacidade mental para se
+concentrar em tarefas não estruturadas de maior valor. Você pode
+fazer isso transferindo elementos estruturados e repetitivos do
+trabalho de conhecimento para ferramentas generativas de IA.
+Além de reduzir a carga cognitiva, isso também pode tornar seu
+trabalho mais interessante e satisfatório ao remover alguns dos
+trabalho penoso envolvido.
+A IA generativa já está mostrando benefícios na redução da carga
+cognitiva em vários setores. Os advogados da empresa global
+Allen & Overy usam um sistema chamado Harvey para localizar e
+acessar com eficiência a jurisprudência e redigir contratos
+simples. Isso lhes dá mais tempo para analisar questões jurídicas
+complexas e aconselhar seus clientes.
+Em marketing e publicidade, a IA generativa pode automatizar a
+geração rotineira de conteúdo, como a criação de folhetos de
+produtos ou a personalização de campanhas de e-mail. Um
+recente BCG pesquisa dos diretores de marketing descobriram
+que dois terços dos entrevistados estavam investigando a IA
+generativa para personalização e metade a está explorando para
+geração de conteúdo.
+Em finanças, um banco corporativo está aplicando a IA generativa
+para reduzir a carga cognitiva de um fluxo constante de novos
+informações do mercado financeiro geradas externamente. O
+sistema analisa e resume rapidamente os relatórios anuais,
+obtendo transcrições de chamadas e relatórios de analistas para
+manter os gerentes de relacionamento do banco mais bem
+informados sobre desenvolvimentos importantes. Ao simplificar o
+processo de busca e análise de informações, os gerentes de
+relacionamento têm mais tempo para se concentrar e atender
+seus clientes.Como esses casos demonstram, delegar algumas das tarefas
+estruturadas à IA generativa pode ajudar a aliviar o estresse da
+sobrecarga cognitiva para que você possa se concentrar em tarefas
+mais importantes. O trabalho árduo pode ser feito de forma mais
+rápida, e possivelmente melhor, por um computador, enquanto
+você pode melhorar seu desempenho nas tarefas que
+permanecem.
+Aumentando as capacidades cognitivas.
+Outra abordagem para aumentar o trabalho com conhecimento é
+usar a IA generativa para impulsionar processos cognitivos de
+ordem superior para realizar tarefas não estruturadas. Três áreas
+importantes são pensamento crítico, criatividade e
+compartilhamento de conhecimento.
+Para o pensamento crítico, a IA generativa pode ajudar as pessoas
+a fazer perguntas melhores sobre os desafios que enfrentam.
+Experimentando em um ambiente de educação executiva,
+pesquisadores descobriram que 94% das vezes, o engajamento
+com a IA (incluindo a IA generativa) levou a fazer uma maior
+variedade de perguntas do que os entrevistados fariam de outra
+forma. Isso, por sua vez, levou à exploração de ideias e possíveis
+soluções que eles talvez não tenham considerado, provavelmente
+levando a um melhor desempenho.
+Outro estudar descobriu que o ChatGPT foi particularmente útil
+nas fases de geração de ideias e comunicação do processo
+estratégico. A ferramenta de IA criou ideias estratégicas plausíveis
+com alta eficiência. Sua capacidade de “contar histórias” foi
+particularmente útil para ajudar a articular e comunicar as ideias.
+Por outro lado, a ferramenta foi menos útil para sugerir formas de
+implementar a estratégia, possivelmente devido à falta de acesso
+da ferramenta a informações detalhadas sobre a empresa, suas
+capacidades e outras informações contextuais relevantes.Professor da Universidade do Missouri Tojin T. Eapen e colegas
+detalhou como a IA generativa pode promover o pensamento
+divergente ao fazer conexões entre diversos conceitos. A IA
+generativa ajudou não apenas no desenvolvimento de novas
+ideias, mas também na avaliação e refinamento delas com base
+em critérios como viabilidade, impacto, custo e novidade. Em um
+separado pesquisa dos mais de 1.000 criadores de conteúdo
+(blogueiros, podcasters e produtores de vídeos curtos), dois terços
+dos entrevistados indicaram que usam as ferramentas para
+tarefas criativas. Cinquenta e três por cento disseram que o uso
+das ferramentas aumentou sua criatividade e produtividade.
+Além disso, aqueles que usaram as ferramentas tiveram um
+número maior de seguidores e geraram maior renda.
+Além de gerar conhecimento, a IA generativa também pode
+ajudar a compartilhá-lo. Os ativos intelectuais estão dispersos
+pelas organizações em uma ampla variedade de documentos,
+políticas, processos e chefes individuais, dificultando o acesso das
+pessoas ao conhecimento que já existe na organização. Ao
+aproveitar a IA generativa, as empresas podem preencher a
+lacuna de conhecimento, facilitar o compartilhamento de
+conhecimento e capacitar os profissionais do conhecimento com
+o know-how de que precisam para se destacarem em seus
+trabalhos. Por exemplo, para auxiliar seus consultores de gestão
+patrimonial, a Morgan Stanley implementou um modelo
+generativo de IA, treinado em um vasto conjunto de
+conhecimento e experiência capturados internamente. Tornar o
+conhecimento de gestão patrimonial prontamente acessível a
+todos os consultores da empresa tem sido “transformador” ao
+capacitar os consultores a abordarem com eficiência seus clientes
+perguntas e preocupações específicas.
+Melhorando o aprendizado.
+Alcançar o domínio requer prática e não apenas trabalho em sala
+de aula. No entanto, para ser útil, a prática exige feedback sobre o
+desempenho — e fornecer feedback pessoal para cada funcionáriopode ser proibitivamente caro. As capacidades aprimoradas da IA
+generativa estão possibilitando considerar a ideia de um mentor
+de IA para cada profissional do conhecimento.
+Para estudantes, a IA generativa pode desempenhar funções como
+conselheiro, tutor, treinador e simulador. Ele pode fornecer
+feedback frequente, instruções e explicações personalizadas,
+pontos de vista alternativos e oportunidades de praticar por meio
+de simulações. Por exemplo, o Duolingo adicionou recentemente
+dois novos recursos generativos baseados em IA ao seu software
+de aprendizado de idiomas. O Roleplay permite que os usuários
+pratiquem conversas fluidas em um idioma estrangeiro e o
+Explain My Answer, que fornece feedback pessoal construtivo aos
+usuários mediante solicitação.
+O papel potencial da IA generativa na aprendizagem também se
+estende ao ambiente de trabalho. Veja, por exemplo, o desafio de
+se tornar um agente de call center bem-sucedido. Adquirir
+habilidades nesse ambiente complexo e acelerado requer uma
+combinação de instrução, prática, feedback, introspecção e
+imersão. Na Fidelity Investments, os trainees aprendem sobre um
+tópico, depois atendem ligações com um mentor, ouvem e
+aconselham e, em seguida, se reúnem com o mentor e outros
+estagiários para discuta sua experiência. A IA generativa pode
+ajudar nesse processo, tanto durante o treinamento quanto
+depois. Ele pode monitorar uma conversa com um cliente e
+sugerir o que um agente pode dizer ou fazer para resolver os
+problemas do cliente. Ele também pode responder às perguntas
+dos agentes posteriormente. Um recente estudar de um call center
+que introduziu a IA generativa descobriu que esse tipo de suporte
+ajudou a melhorar a produtividade e a qualidade de todos os
+trabalhadores, além de aumentar a satisfação dos funcionários.
+Também acelerou o aprendizado individual ao permitir que os
+trabalhadores novatos progredissem mais rapidamente ao longo
+da curva de experiência em comparação com aqueles que não
+utilizaram esse sistema.
+Como os gerentes podem ajudar os trabalhadores a usar a
+IA generativa
+Centenas de milhões de pessoas em todo o mundo já estão usando
+ferramentas generativas de IA em casa e no trabalho. É provável
+que todos estejam usando a IA generativa de forma diferente,
+mesmo que estejam usando as mesmas ferramentas. Essa é uma
+oportunidade e uma ameaça para as empresas. Os experimentos
+de cada pessoa podem gerar inovações que podem ter um grande
+valor. Mas alguns dos experimentos podem se desviar para um
+território perigoso ao criar erros, violar regulamentações, tomar
+decisões tendenciosas ou divulgar informações privadas ao
+público.
+Essas ferramentas estão entrando na esfera do trabalho do
+conhecimento, sejam elas desejadas ou não. Incentivar seu
+pessoal a experimentar as ferramentas e testá-las em seus
+trabalhos pode ajudar a aliviar algumas de suas preocupações.
+Isso, por sua vez, pode levá-los a adotar uma postura construtiva e
+proativa em relação a trabalhar com a IA, não a lutar contra ela.
+Para ajudar seus profissionais do conhecimento a aproveitar ao
+máximo a IA generativa, considere essas três ações-chave.
+Deﬁna políticas e atribua responsabilidades.
+Embora as ferramentas generativas de IA ofereçam vantagens
+promissoras, elas podem apresentar riscos à organização.
+Portanto, é fundamental entender e mitigar os riscos dessas
+ferramentas e garantir que os procedimentos de segurança sejam
+seguidos. Por exemplo, usar a IA generativa para escrever
+rascunhos de e-mails ou resumir documentos é fácil e
+potencialmente altamente produtivo. No entanto, os profissionais
+do conhecimento devem ser instruídos a não fazer isso com
+informações privadas, pois Walmart fiz no início deste ano. Da
+mesma forma, os funcionários devem saber que, embora essas
+ferramentas sejam rápidas e fáceis, elas nem sempre são precisas.
+Não se quer descobrir essa fraqueza da mesma forma que um
+advogado fez, quando um juiz o citou por incluir uma
+jurisprudência fictícia em seu resumo jurídico generativoelaborado por IA. Enfatize também os preconceitos criados no
+treinamento ou na aplicação das ferramentas e sugira maneiras
+de aliviá-los.
+Incentive a experimentação e o compartilhamento de inovações.
+Demonstre os recursos das ferramentas em reuniões de equipe e
+indique casos de uso interessantes dentro e fora da sua empresa.
+À medida que as pessoas compartilham suas inovações, faça
+perguntas investigativas para ajudar todos a desenvolverem uma
+consciência dos riscos envolvidos e saberem como mitigá-los.
+Incentive o aprendizado entre colegas, onde os funcionários
+ensinam uns aos outros como usar as ferramentas. Com base
+nisso, peça aos funcionários que compartilhem as práticas
+inovadoras que desenvolveram e tomem medidas para ajudar
+outras pessoas a adotarem as melhores práticas.
+Comemore as vitórias.
+Ao incentivar sua equipe a tratar a IA generativa como uma
+viagem de descoberta em vez de uma atividade defensiva, você
+pode ajudá-la a criar confiança e capacidade de usar a ferramenta
+para aprimorar sua capacidade cognitiva e aprimorar suas
+habilidades específicas para o trabalho. Aproveite os melhores
+casos de uso e celebre as inovações e os inovadores. Ao fazer isso,
+você pode não apenas melhorar a forma como os trabalhadores
+usam a IA generativa, mas também melhorar a cultura inovadora
+do seu grupo.
+Não espere
+O trabalho com conhecimento sempre exigiu aprendizado
+contínuo para acompanhar o progresso da inovação e do
+conhecimento. Acompanhar as mudanças provocadas pelas
+ferramentas generativas de IA exigirá não apenas aprender sobre
+as ferramentas, mas também usá-las para aumentar seu
+conhecimento e, com sorte, expandir sua função. Em um recente
+McKinsey notícia, os quase 1.700 executivos entrevistados
+indicaram que esperam que mais funcionários sejam
+requalificados do que demitidos.Chegou a hora de começar a trabalhar com a IA generativa. A IA
+generativa pode ser uma bênção para o trabalho com
+conhecimento, mas somente se você a usar da maneira certa.
+Novas ferramentas generativas baseadas em IA estão surgindo
+rapidamente para auxiliar e transformar o trabalho com
+conhecimento em setores que vão desde educação e finanças até
+direito e medicina. As empresas estão começando a introduzir
+inovações generativas baseadas em IA em seus processos e a
+promulgar políticas sobre como usar as ferramentas com
+segurança.
+No entanto, não há necessidade de esperar por essas mudanças
+impostas externamente. Você pode começar agora a usar a IA
+generativa para seu próprio benefício, depois de entender e
+aprender a mitigar os riscos associados. Usando ferramentas
+gratuitas já disponíveis na web, você pode reduzir sua carga
+cognitiva devido ao aumento constante das ondas de
+informações, ao mesmo tempo em que aumenta suas habilidades
+cognitivas e a eficácia do aprendizado. Agora é a hora de começar
+a usar a IA generativa em seu trabalho de conhecimento e ajudar
+seus colegas a usá-la com sabedoria.
+Maryam Alavi is the Elizabeth D. & Thomas M.
+Holder Chair & Professor of IT Management,
+Scheller College of Business, Georgia Institute
+of Technology.
+George Westerman is a Senior Lecturer in
+MIT Sloan School of Management and founder
+of the Global Opportunity Forum in MIT’s
+Office of Open Learning.Recommended For You
+10 Common Job Interview Questions and How to Answer Them
+38 Smart Questions to Ask in a Job Interview
+PODCAST
+Why Every Leader Needs "Aesthetic Intelligence"
+10 Ways to Prove You're a Strategic Thinker

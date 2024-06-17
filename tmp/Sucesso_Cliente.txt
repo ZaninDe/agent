@@ -1,0 +1,355 @@
+1
+[ E-book ]
+© MINDMINERS 2017Passo a passo para desenvolver 
+uma área de sucesso do cliente2
+© MINDMINERS 2017
+ÍndiceO que significa sucesso do cliente?
+Ponto de partida: conceitos importantes
+1- MRR
+2- Taxa de churn
+3- Taxa de MRR churn
+4- Taxa de churn negativo
+4 passos para implantar a área de sucesso do cliente 
+em sua empresa
+Passo 1: Entenda profundamente quem é seu cliente ideal e o que 
+seu produto ou serviço pode fazer por ele  
+Passo 2: Onboarding - trazendo o sucesso mais rapidamente para seu clientePasso 3: Acompanhamento contínuo dos clientes
+Passo 4: Expansão, renovação, upsell e cross-sell
+Conclusão03
+06
+0707
+08
+09
+10
+12
+15
+16
+19
+203O que significa sucesso do cliente?4
+ O que significa sucesso do cliente?
+Quanto maior for o sucesso de seus clientes e melhores forem 
+os resultados obtidos ao usarem a solução que sua empresa oferece 
+ao mercado, mais satisfeitos eles ficarão e mais valor enxergarão 
+no uso de seus produtos ou serviços, tornando-se mais fiéis. 
+Essa equação ideal é o que move uma área de sucesso do cliente. 
+E é por ela que vamos começar nosso e-book.A estratégia de sucesso do cliente é particularmente importante para empresas que dependem de receitas recorrentes, como telefonia móvel, 
+provedores de internet, academias e universidades, por exemplo.
+Mas onde essa estratégia tem sido mais amplamente utilizada é 
+nas empresas que comercializam softwares como serviços pagos 
+mensalmente, os chamados SaaS (Software as a Service).
+Para esse tipo de empresa, a aquisição de clientes é apenas o primeiro 
+passo na busca de uma lucratividade sustentável. Isso porque elas 
+precisam manter esses clientes continuamente ativos, evitar que desistam 
+de suas assinaturas, promover renovações, ampliações de uso e upgrade de planos.
+Com esse objetivo, foi desenvolvida toda uma metodologia baseada em 
+garantir que seus clientes obtenham sucesso em seus negócios a partir 
+do bom uso de um software (ou de qualquer outra solução) que a empresa 
+possa oferecer ao mercado.
+5
+ O que significa sucesso do cliente?
+Segundo a Customer Success Association, essa estratégia de sucesso do 
+cliente pode ser definida da seguinte forma:
+A Gestão do Sucesso do Cliente é a integração de 
+funções e atividades de marketing, vendas, serviços 
+especializados, treinamento e suporte em um nova 
+profissão para atender as demandas de empresas que 
+usam um modelo de negócios de renda recorrente.   
+Neste e-book, vamos mostrar um passo a passo de como estruturar uma área de sucesso do cliente em sua empresa. Você verá que, muito mais 
+do que definir cargos e montar uma estrutura, uma estratégia de sucesso 
+do cliente vitoriosa depende de entender seus conceitos e aplicá-los de 
+forma correta em seu negócio.
+56Ponto de partida: conceitos importantes7
+Ponto de partida: 
+conceitos importantes
+                                     1- MRR
+Como dissemos, estratégias de sucesso do cliente são particularmente 
+importantes para empresas que dependem de receitas recorrentes, 
+como SaaS.
+MRR, ou Monthly Recurring Revenue  em inglês, pode ser traduzido 
+como Receitas Recorrentes Mensais. Ou seja, dizem respeito àquelas 
+receitas que uma empresa obtém a partir de assinaturas e/ou 
+mensalidades, por exemplo.             2- Taxa de churn
+Taxa de churn é a medida percentual de quantos clientes a empresa perdeu durante um período, normalmente um mês, em relação aos 
+clientes que tinha no início desse período.
+Quer ver um exemplo prático? Uma empresa que tinha 1.000 clientes no 
+início de determinado período, e 70 deles cancelaram suas assinaturas, 
+pode calcular sua taxa de churn com a seguinte fórmula:
+    (cancelamentos/clientes no início do mês) x 100
+(70/1000) x 100 = 0,07 x 100 = 7%8
+Ponto de partida: 
+conceitos importantes
+Neste caso, mede-se a percentagem de receita recorrente perdida, já que 
+nem sempre todos os clientes pagam o mesmo valor de assinatura mensal.
+Em nosso exemplo, digamos que o MRR da empresa no início do mês era 
+de R$ 60.000,00.
+Dos 70 clientes perdidos, 40 pagavam um plano premium, de R$ 70,00, 
+e 30 um plano básico, de R$ 50,00.
+                                    3- Taxa de 
+MRR churn
+Assim, o MRR perdido foi de:
+40 x 70 + 30 x 50 = 2.800 + 1.500 = R$ 4.300
+A taxa de MRR churn pode ser calculada 
+da seguinte maneira:
+(MRR perdido / MRR no início do período) x 100
+(4.300/60.000) x 100 = 0,716 x 100 = 7,16%9
+Ponto de partida: 
+conceitos importantes
+Churn negativo é um dos principais objetivos que uma empresa busca 
+alcançar com uma estratégia de sucesso do cliente.
+Para determiná-la, deve-se incluir os clientes conquistados, assim como 
+receitas provenientes de upgrade de planos de clientes já existentes, na fórmula de cálculo da taxa de churn.
+Basicamente, se sua taxa de churn é negativa, isso significa que há mais 
+entradas de receitas recorrentes no final do período do que havia no início.Digamos que, durante o mês de referência, upgrades de planos aumentaram seu MRR de R$ 60.000,00 para R$ 63.000,00.
+Além disso, foram conquistados 100 novos clientes, 50% deles em planos 
+básicos, correspondendo a um MRR adicional de R$ 6.000,00.
+Veja como isso fica na fórmula:
+[(MRR perdido - MRR de upgrades - MRR de 
+novos clientes) / MRR início do período)] x 100
+         [(4.300 - 6.000 - 3.000) / 60.000)] x 100 = 0,783 x 100 = - 7,83%
+Isto é, houve um aumento de receita recorrente mensal de 7,83%.
+Quer aprofundar seu conhecimento sobre o conceito de churn? 
+Selecionamentos alguns artigos do nosso blog que poderão te ajudar 
+nessa missão:
+• O que é churn
+• As melhores práticas para reduzir o churn (taxa de abandono)
+• Qual o melhor questionário da plataforma da MindMiners para reduzir o seu churn rate• Como uma pesquisa de satisfação pode ajudar na retenção de clientes?
+4- Taxa 
+de churn  
+negativo104 passos para implantar a área de sucesso 
+do cliente em sua empresa11
+4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+11Ao contrário do que muitos acreditam, a etapa inicial de uma estratégia de sucesso do 
+cliente acontece antes mesmo da venda.
+Por quê?
+Porque o segredo do sucesso do cliente está em vender seu produto ou serviço para os clientes certos, 
+aqueles que realmente precisam e vão enxergar valor em sua solução.
+Dessa forma, a possibilidade de ficarem insatisfeitos, terem expectativas exageradas e abandonarem seu 
+negócio é muito menor.
+Vamos começar a entender cada uma das 4 etapas necessárias para criar uma área de sucesso do cliente?
+12Passo 1: Entenda profundamente quem é seu cliente ideal e o 
+que seu produto ou serviço pode fazer por ele  
+Antes de pensar em estratégias de retenção de clientes e, posteriormente, 
+em como aumentar suas vendas para eles, é preciso entender que tipo de 
+cliente é mais beneficiado pelas soluções de sua empresa.
+Neste ponto, o trabalho de uma equipe de sucesso do cliente estará 
+focado em três atividades principais:
+1. Definir o perfil do seu cliente ideal;
+2. Entender qual valor seus clientes percebem na sua solução;3. Transmitir esses conhecimentos para as equipes de marketing e vendas 
+para que façam a prospecção dos clientes certos.
+Como fazer isso? Na verdade, a solução mais indicada é realizar uma 
+pesquisa de satisfação dos clientes e, com base nos resultados, traçar o 
+perfil dos clientes que realmente se beneficiam da solução de sua empresa.4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+13
+4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+Uma das metodologias de pesquisas mais usadas para isso é o NPS, 
+baseado em uma pergunta principal:
+    
+Em uma escala de 0 a 10, o quanto você indicaria 
+nossa empresa a um amigo?
+A partir das respostas, você descobrirá quem são os clientes que promovem sua empresa (notas 9 e 10), os que são indiferentes a ela 
+(notas 7 e 8) e os detratores de seu negócio, que dão as demais notas.
+Esse já é um ponto importante para que você defina quem são os clientes 
+satisfeitos com seu negócio e consiga traçar um perfil de seus clientes ideais, mas é preciso ir além.Qual é o benefício para o negócio de seu cliente que seus produtos e serviços levam até ele de forma a garantir seu sucesso?
+Descobrir qual é esse valor percebido será fundamental para os 
+passos seguintes da estruturação de uma área de sucesso do cliente em sua empresa.
+A própria pesquisa NPS pode contar com mais algumas perguntas, como 
+estas, para ajudar você a entender o valor de sua solução para os clientes:
+O que você considera que nossa empresa faz muito bem?
+O que nossa empresa poderia fazer de diferente para receber 
+uma nota mais alta na escala de recomendação?NPS: Net Promoter Score
+Saiba tudo sobre pesquisa NPS lendo este post de nosso blog: Entenda a avaliação por NPS: um modelo de pesquisa para medir 
+a satisfação dos seus consumidores
+14
+4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+Questionários certificados
+A MindMiners conta 
+com diversos questionários de pesquisa certificados. Ou seja, modelos metodologicamente testados por especialistas e prontos para 
+uso. Eles vão te ajudar a definir suas 
+estratégias de sucesso do cliente e combater o churn.
+Com base nas respostas dessas pesquisas, você saberá o perfil dos 
+clientes que mais se beneficiam de seu negócio e qual o valor de sua 
+solução para eles.
+São esses os clientes que sua empresa deve conquistar para que sua taxa 
+de churn seja, potencialmente, mais baixa.
+Quais das seguintes palavras você usaria para 
+descrever nossos produtos / serviços?  
+                       (  ) Alta qualidade      (  ) Confiável      (  ) Útil      (  ) Único
+                        (  ) Custo-benefício    (  ) Supervalorizado    (  ) Complicado
+                     (  ) Ineficiente    (  ) Nenhuma dessas palavras.
+Como nossos produtos/serviços atendem suas necessidades?
+            (  ) Extremamente bem           (  ) Bem         (  ) Razoavelmente
+                                (  ) Mal              (  ) Extremamente mal
+Como nossos produtos/serviços atendem suas necessidades? 
+(Resposta aberta)E você não precisa parar por aí, pode fazer outros tipos de pesquisas 
+de satisfação do cliente, com perguntas diferentes, para ir mais fundo 
+e identificar com bastante assertividade o que seus clientes mais 
+valorizam em sua empresa, veja alguns exemplos:
+15
+Após definir esse grupo, a equipe de sucesso do cliente estuda quais 
+as práticas e estratégias que essas empresas empregam ao usar seu 
+sistema CRM – além de estatísticas de quais funcionalidades mais 
+usam –, e passam todas as dicas para os “novatos”.
+A etapa de onboarding pode ser definida como o esforço para que 
+seus novos clientes percebam o quanto antes como sua solução pode ser valiosa e trazer resultados para a empresa deles. 
+Para isso, analistas de onboarding fazem uma consultoria baseada nas 
+melhores práticas utilizadas por seus clientes mais bem-sucedidos.Passo 2: Onboarding - trazendo o sucesso mais 
+rapidamente para seu cliente 
+O objetivo do segundo passo é mostrar o mais rapidamente 
+possível para seu cliente o valor que sua solução pode trazer 
+para o negócio dele.
+Para isso, você precisará de analistas de onboarding que, 
+inicialmente, treinarão e farão uma verdadeira consultoria 
+para seu cliente entender como usar seu produto ou 
+serviço e tirar o melhor proveito dele.
+A dica aqui, mais uma vez, é analisar informações 
+baseadas em seus clientes ideais, aqueles que já estão 
+obtendo sucesso com sua solução.
+E isso não deve ser feito somente através dos dados das 
+pesquisas, mas com algumas métricas retiradas das interações 
+de seus clientes de sucesso com os produtos ou serviços de sua 
+empresa.
+Por exemplo:  
+imagine que uma empresa comercializa um software de CRM 
+online. Por meio da análise dos resultados obtidos por seus clientes ao usar sua ferramenta, é possível descobrir quais 
+deles são os mais bem-sucedidos.4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+Você sabe o que é CHI?
+Uma das empresas que obteve maior sucesso com essa 
+estratégia de onboarding foi o HubSpot, que criou uma 
+métrica chamada de CHI. Além de significar “força vital” 
+ou “garra” em chinês, é uma acrônimo para as palavras inglesas: Customer Happiness Index , Índice de Felicidade 
+do Cliente, em português.
+Essa métrica, baseada em diversas variáveis, indica com 
+precisão os clientes de maior sucesso ao usar o software de 
+automação de marketing do HubSpot, e cujas estratégias 
+servirão de modelo para os novos clientes da empresa.16
+Passo 3: Acompanhamento contínuo dos clientes
+Depois que seus clientes já se “sentem em casa” usando sua solução, é preciso 
+mantê-los ativos e verificar se continuam satisfeitos com os resultados que 
+estão obtendo.
+Pesquisas de satisfação do cliente podem ser usadas como alerta. Mas, na 
+verdade, nessa etapa da estratégia de sucesso do cliente, ao descobrir quais 
+de seus clientes estão insatisfeitos, já será tarde para tomar providências para 
+reduzir o churn.
+É preciso adotar medidas preventivas e se antecipar a isso, prevendo quando 
+algum cliente poderá sair da empresa por meio de métricas bem definidas.
+Uma das maneiras mais básicas de se fazer isso é acompanhando reclamações 
+e chamadas no SAC ou outros canais de atendimento ao cliente.
+Mas sugerimos que você vá muito além. O que as empresas que realmente 
+levam as estratégias de sucesso do cliente a sério fazem é:
+• Monitorar seu grau de engajamento;
+• Definir um SLA (Service Level Agreement) adequado;
+• Ouvir seus clientes para saber que novas necessidades desejam satisfazer.
+Vamos analisar cada um desses três pontos a seguir:4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+1617
+1- Área de risco de churn e grau de engajamento
+Da mesma forma que é possível descobrir quais as funcionalidades 
+mais usadas por seus clientes satisfeitos, sua empresa também deve 
+monitorar aqueles clientes que estão diminuindo o engajamento com 
+sua solução online.
+Na verdade, deve-se criar um score que indica quantas vezes por mês 
+um cliente deve acessar determinadas áreas de sua plataforma para 
+ser considerado fora da área de risco de churn. Os que não atingirem essa pontuação devem receber uma atenção especial da equipe de 
+sucesso do cliente.
+Esse score pode ser ainda mais completo se incluir, por exemplo, dados 
+de chamados ao SAC e das pesquisas de satisfação.
+No caso de empresas que não tem uma plataforma online para medir 
+o engajamento do consumidor – como revistas e jornais vendidos por 
+assinatura ou academias –, esses outros dois fatores citados serão 
+fundamentais para definir a área de risco de churn.
+Nas academias, por exemplo, a frequência às aulas pode ser usada para 
+medir o grau de engajamento.4 passos para implantar a área de sucesso do cliente 
+em sua empresa
+1718
+3- Evoluir sempre
+Da mesma forma que as pesquisas podem ser 
+usadas para definir seu perfil ideal de clientes e o 
+valor que percebem nos produtos ou serviços, elas 
+também podem indicar novas necessidades que precisam ser atendidas em relação a sua solução e 
+as melhorias que desejam que sejam incorporadas.
+A área de sucesso do cliente deve estar sempre 
+atenta a essas demandas, durante seus contatos 
+com os clientes, para sugerir essas melhorias para a 
+equipe de desenvolvimento de produtos e serviços.4 passos para implantar a área de sucesso do cliente 
+em sua empresa
+2- SLA: nível do serviço de atendimento ao cliente
+SLA, Service Level Agreement, em inglês, significa nível de atendimento 
+ao cliente.
+Uma pesquisa realizada pela NewVoiceMidia, em 2016, no EUA, 
+mostrou que 49% dos respondentes desistiram de uma empresa devido 
+a um atendimento ruim.
+Para evitar isso, o time de sucesso do cliente deve definir parâmetros 
+mínimos que satisfaçam seus clientes e zelar para que as equipes de 
+atendimento os cumpram.
+Por exemplo: definir o tempo máximo de resposta 
+a um chamado de um cliente e em quanto tempo 
+deve ser dada uma solução para sua solicitação.
+19Passo 4: Expansão, renovação, upsell e cross-sell
+À equipe de sucesso do cliente também cabe auxiliar os times de 
+marketing e vendas a expandirem o uso das soluções da empresa pelos 
+clientes, renovarem suas assinaturas, fazer vendas adicionais de outros 
+produtos e serviços (cross-sell) e upgrade de planos (upsell).
+Isso acontece porque o time de sucesso do cliente, por estar em contato 
+constante com eles e monitorando seus dados e métricas, pode perceber 
+mais facilmente excelentes oportunidades de negócios que devem ser repassadas às equipes de marketing e vendas.
+Na verdade, renovações e upgrades de planos são parte do sucesso do 
+cliente, que percebe que, para atingir os resultados desejados com a evolução de seu negócio, precisará de mais recursos.4 passos para implantar a área de sucesso 
+do cliente em sua empresa
+20Conclusão21
+Para garantir o êxito de uma área de sucesso 
+do cliente, cada um dos esforços apresentados 
+neste material devem ser entendidos pela 
+empresa como um investimento, e não como 
+um custo para “manter clientes felizes”.Conclusão
+A implantação desse tipo de estratégia deve focar muito mais em 
+consolidar uma cultura de sucesso do cliente do que em definir cargos 
+e burocratizar processos. Afinal, o sucesso do cliente deve ser encarado 
+como uma responsabilidade de todos.
+No entanto, e como você viu nos quatro passos acima, uma área de 
+sucesso do cliente envolve atividades complexas. Contar com uma equipe 
+especializada, de preferência liderada por um gerente de sucesso do cliente, é fundamental para potencializar os resultados.
+Para definir seu time, pense que ele será responsável por três tipos de 
+atividades principais:
+•  Analisar dados de pesquisas, de monitoramento e métricas para definir 
+o perfil de clientes ideais, o valor que enxergam em sua solução e quais 
+clientes apresentam risco de churn;
+• Fazer o onboarding de novos clientes;
+•  Acompanhar e monitorar os clientes para garantir sua satisfação e 
+detectar oportunidades de renovação, upgrades, cross-sell e upsell.
+22
+Conclusão
+O segredo da área de sucesso do cliente é conhecer cada cliente 
+profundamente, a ponto de identificar antecipadamente suas insatisfações 
+e o desejo de abandonarem a empresa. O objetivo, a partir daí, é tomar 
+providências antes que isso ocorra, mantendo as receitas recorrentes de seu negócio sempre ascendentes e sua taxa de churn negativa.
+Esperamos que, com esta leitura, você tenha entendido como implantar 
+uma área de sucesso do cliente em sua empresa e possa fazer isso com mais segurança e assertividade, o mais brevemente possível.
+Para te ajudar nessa missão, você poderá contar com a ajuda da 
+plataforma automatizada de pesquisa da MindMiners. Em nossa biblioteca, existem vários questionários prontos que poderão ser 
+aplicados junto a seus clientes para que sua área de sucesso do cliente possa mapear informações e comportamentos. Cadastre-se agora mesmo. Em função da quantidade de clientes que seu negócio atende, a equipe 
+deverá ser dimensionada tanto em número de integrantes quanto em 
+relação à especialização das atividades de cada um deles.
+Poderá haver ainda analistas de dados para a primeira atividade, analistas 
+de onboarding para a segunda e consultores de sucesso do cliente para a 
+terceira. Já para empresas menores, os profissionais podem se dedicar a duas ou mais dessas atividades, por exemplo.
+Não existe uma regra que possa ser aplicada a todas as situações. Cabe 
+à sua empresa definir qual a estrutura mais adequada – inclusive com 
+relação a sua capacidade de investimento – para atender seus clientes 
+e garantir que obtenham sucesso ao empregarem as soluções que sua 
+empresa oferece.23
+Somos uma empresa de tecnologia especializada em soluções digitais de pesquisa de mercado.
+Com plataformas exclusivas e a curadoria de uma equipe altamente experiente, entregamos inteligência 
+de marketing com agilidade, transparência e qualidade, de forma acessível para todos os perfis de clientes.
+O MeSeems, nosso painel proprietário de respondentes, funciona como uma rede social de 
+compartilhamento de opiniões e experiências. São mais de 300 mil usuários cadastrados e prontos para responder pesquisas sobre a sua marca, produto ou serviço.
+Para oferecer soluções de pesquisa ainda mais completas, criamos uma plataforma de pesquisa totalmente 
+automatizada, a Miners[Compass].
+Por meio dessa plataforma, nossos clientes conseguem construir um projeto completo de pesquisa 
+em três passos simples para enxergar, em tempo real, o que seus consumidores pensam e como se 
+comportam, alterando a forma como empresas tomam suas decisões. 
+MindMiners. Referência em pesquisa digital.Sobre a MindMiners- Sobre nós© MINDMINERS 2017

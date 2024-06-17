@@ -1,0 +1,573 @@
+See discussions, st ats, and author pr ofiles f or this public ation at : https://www .researchgate.ne t/public ation/343262528
+Transforming Marketing with Artiﬁcial Intelligence
+Research · July 2020
+DOI: 10.13140/RG.2.2.25848.67844
+CITATIONS
+13READS
+14,436
+2 author s:
+Piyush Jain
+Delhi T echnologic al Univ ersity
+3 PUBLICA TIONS    15 CITATIONS    
+SEE PROFILE
+Keshav Agg arwal
+Delhi T echnologic al Univ ersity
+8 PUBLICA TIONS    21 CITATIONS    
+SEE PROFILE
+All c ontent f ollo wing this p age was uplo aded b y Piyush Jain  on 28 July 2020.
+The user has r equest ed enhanc ement of the do wnlo aded file.          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3964  Transforming Marketing with Artificial Intelligence  
+Piyush Jain1, Keshav Aggarwal2 
+1B. Tech Student, Department of Production and Industrial Engineering, Delhi Technological University,   
+Delhi,  India  
+    2B. Tech Graduate, Department of Production and Industrial Engineering, Delhi Technological University,   
+Delhi  India  
+--------------------------------------------------------------------- ***----------------------------------------------------------------------
+Abstract - Marketing has become complex in the last one decade with the introduction of Artificial Intelligence. Artificial 
+Intelligence Marketing is a technique of optimally utilizing technology to enhance customer’s experience. In recent times it 
+becomes really imp ortant for the companies to recognize  and understand customer needs and their expectations in terms of 
+products as well as services. With the help of AI, Marketers can process the huge amount of data, carry out individualized sa les 
+and fulfil customer expectations. Besides this, the perceptio n they get about the customer and their requirements in a shorter 
+time frame help them to boost campaign performance and Return on investment (ROI) rapidly. In this paper, authors have 
+reviewed the whole concept of using Artificial Intelligence in marketin g. It provides comprehensive details of the benefits of 
+implementing AI in marketing, how AI is reshaping marketing, need of AI in marketing which is illustrated with real world 
+examples from different businesses. This paper also entails a section dedicate d to implementation of different AIM strategies. 
+Authors have thoroughly studied the implications of AIM technology throughout the customer life cycle. At last, there is a 
+detailed sector -wise and region -wise analysis. After reading this paper, the reader would be well -informed about the modern 
+marketing methods. The reader would have a complete overview of the present -day Artificial Intelligence Marketing 
+strategies and the reader would have a holistic view of the AIM sector . 
+ 
+Key Words :  Artificial Intell igence, Marketing, Artificial Intelligence Marketing, Business Forecasting, AIM, Marketing 
+Strategy, Personalization  
+ 
+1.INTRODUCTION  
+To begin with, marketing is a technique for communicating, creating, exchanging and delivering offerings that have value 
+for clients, partners, customers or consumers. Initially, it seems really difficult to relate the field of Artificial Intellig ence 
+with various marketing strategies as one has to think out of the box to study or explore this field. It is even harder to 
+imag ine any field that has not been impacted by AI. The development of Artificial Intelligence has altered the dynamics of 
+marketing across the world.  
+1.1 What is Artificial Intelligence Marketing?  
+Artificial Intelligence Marketing (AIM) is an approach of optimally utilizing technology and customer data to enhance the 
+customer’s experience. The various techniques used to accomplish such a task are Big Data Analytics, machine learning and 
+gaining insights of our targeted sector of customers. Suc h operations have made it apparent to call this aeon as “The Ai 
+Marketing Era” which obligates radical transformation in former pattern in which the marketers interact with their 
+customers, formulate the strategies to accomplish their objectives.  
+Accordin g to a survey conducted by Weber Firm, it has become evident that consumers across the globe are in the view that 
+impact of AI on society is positive rather than negative. Furthermore a report : AI - Ready or Not ,II carried out by KRC 
+Research, commissione d by Weber Shandwick in June 2016 polling 150 CMOs (Chief Marketing Officers) in the UK ,China 
+and the USA has arrived at the judgement that around 55% of the CMOs believe that AI will pose a substantial influence on 
+marketing as well as communications and  relations with the customers better than social media. Marketing currently serve 
+as the 4th largest use case of AI concerning resources spent, and the 6th largest industry adopter of AI technology, with 
+around 2.55% of the total industry having invested i n it.[1]  
+1.2 Benefits of Artificial Intelligence Marketing (AIM)  
+Evaluation of some ways that can help marketers to shape marketing strategies and their outcomes with the use of AI in 
+the future [Refer figure 1]:  
+ 
+ 
+           International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3965  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig - 1: Benefits to Customers and Marketers [2]  
+ 
+ Profound Hunting:  With the rapid growth of technology, customers can find whatever they are looking for at any 
+time with the help of rapid -fire search engines (Google, Yahoo etc.). What Artificial Intelligence does is help 
+marketers in analyzing customers' search patterns and determining the key areas to which they must focus their 
+efforts.  
+ Genius Advertisements:   With the availability of plentiful data, marketers can create smarter and more effective 
+online advertisements. AI solutions can deeply evaluate a customer’s keyw ord searches and social profiles and aid in 
+creating personalized advertisements.  
+ Filtered Content:  Audience analytics can help marketers to understand customers on an individual basis. AI can be 
+used to filter the potential buyers and create customized co ntent which would be ideal and relevant to the potential 
+customers groups.  
+ AI Bots:  Customer retention is as important as the generation of new customers. AI serves as a major driver for 
+customer retention. AI Bots are used to run chat functions and direct -to-consumer engagement. Through this 
+marketer can cut their extra expenditures and save time.  
+ Progressive Learning:  AI can not only use access to hidden insights but also can be taught to integrate formerly 
+hidden insights into latest campaigns. With pass age of time these AI solutions will become even smarter and more 
+effective in eliminating trash data and promoting real -time decision -making.  
+1.3 How is Artificial Intelligence (AI) reshaping marketing?  
+It has become customary to perform large - scale data analysis in the marketing sector. Elements like Artificial intelligence, 
+machine learning is making their mark on corporate operations. After increased use of these trailblazing techniques 
+marketing teams have wide scope to convey massive value to AI’s pot ential data. Artificial Intelligence is the ability of 
+machines to execute intel lectual  tasks that one can relate with human minds such as problem solving, learning, exercising 
+creativity, reasoning, perceiving and interacting with the environment.  
+The em ergence of AI -powered marketing solutions is reducing the responsibility of marketers and assigning tasks to 
+machines. Graph 1, displays statistics related to end results achieved through the implementation of AI Marketing. Graph 2 
+highlights AI  Adoption i n different sectors and fields . 
+Reaping Rewards:  Companies have to focus on three major areas to exploit the benefits of AI, which are Marketing and 
+Commercial Talent Management, Data Strategy, Data Expertise. Over time the processing power and data harves ting 
+advances and AI -powered systems become smarter. But the level of effectiveness of these systems depends on how well the 
+organizations  can interpret answers and work on them to construct their future commercial strategies.  
+Customer Segmentation: The jo b of marketers is to furnish the Right information to the Right individual at the Right point 
+of time, to complete this marketer  prefer customer segmentation. Most organizations  prefer clustering their customers on 
+certain factors which are similar at that  time. AI helps marketers to distinguish their customers and discover what 
+motivates them. This information helps marketers in creating a long -lasting relationship with their customers. [5]  
+Emerging Trends:  Artificial Intelligence is enterprising three meg atrends in marketing: personalization, forecasting and 
+automation. Marketing leaders mainly need to focus on these three areas to develop beneficial capabilities. Automation is a 
+process of making decisions by the use of machines or helping human -decision makers by providing recommendations. 
+Product recommendation and dynamic pricing are examples of automation. Forecasting is the development of models for 
+future scenarios by finding some patterns in historical (previous) recorded data. These forecasting sys tems keep on 
+learning and inculcating from new data, this implies they are not static. Personalization refers to usage of results or 
+outcomes developed, which are tailored according to different customer segments. With the usage of comprehensive 
+customer i nformation, these systems analyze  every potential customer and cluster them according to some common factors.            International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3966   
+Graph - 1: Business outcomes with use of AI Marketing [3]  
+ 
+ 
+Graph  - 2: AI Adoption in different sectors and fields (all values in percentage) [4]  
+ 
+1.4 Need for Artificial Intelligence in marketing  
+Of 100 senior marketers from various industries 55 percent of the enterprises are executing or considering using AI in 
+marketing  practices, according to a study by Smart Insights [6]. So, why is this shift from traditional marketing to AI 
+marketing occurring?  
+Marketers can process huge amount of marketing data, from various platforms such as web, social media and emails in a 
+compa ratively faster time. Besides this, the perception they get about the customer and their requirements in a shorter time 
+frame help them to boost campaign performance and Return on investment (ROI) rapidly. As a result, marketers can shift 
+their time and fo cus to other equally or more important tasks. Another factor which necessitates AI to be implemented in 
+marketing practices is that in recent times it becomes really important for the companies to recognize and understand 
+customer needs and their expectati ons in terms of products as well as services. This helps marketers to identify who their 
+target audience is and thereby creating a personal experience for users. With implementation of AI, marketers are capable 
+of understanding customers’ behavior and gene rate customer insights and enhance the four C’s: Customer Targeting and 
+Lifetime Value, Customer Engagement, Customer Experience and Customer Loyalty.[7]  
+ 
+ 
+ 
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3967  2. CORE ELEMENTS OF ARTIFICIAL INTELLIGENCE MARKETING  
+ 
+Figure 2 explains the sequence for execution of core elements from gathering data to producing powerful solutions. AI 
+Marketing include few key elements which make it as powerful as it is today. These elements function in series as they are 
+explained below:  
+ 
+Fig - 2: Core elements used in series in AI Marketing [8]  
+Big Data  can be considered the basic concept of collecting a huge amount of data of customers' purchase patterns as well as 
+new customers' purchase preferences. It can also be referred as marketer’s competence to aggregate and segregate 
+extensive data sets with minimal manual work. Such altered data can be used by the marketing teams for ensuring that the 
+right message is being delivered to the right person at the appropriate time via a channel of choice.  
+Machine Learning  in general can be referred to as building and utilizing models based on recognized patterns. Machine 
+learning platform comes into the picture when marketers try to retrieve significant information from huge data 
+repositories. This can help in recognizing and understanding t rends or common instances and successfully anticipate the 
+insights and reactions, helping marketers in understanding the major factor and probability of certain actions repeating.  
+Powerful Solutions  the end result, provided by artificial intelligence mark eting truly conceive the world in a similar 
+manner a human would. The platforms provided by AI can recognize the significant concept and themes across huge data 
+sets astonishingly fast. While considering the technical aspects AI solutions also interpret co mmunication, feelings and 
+desires like a human which make this platform widely accepted.  
+3. LITERATURE REVIEW  
+ 
+Thomas Davenport [9] in his research paper proposed a structure for comprehending the effect of AI specifically on the 
+influence of AI on marketing strategies as well as customers’ behavior. He concluded: AI’s short - and moderate -term impact 
+may be more limited and if AI augments (rather than replace) human managers it will be more effective.  
+Neha Soni [10] elucidates the impact of AI on bus iness – from innovation, research, market deployment to future shift in 
+business models. She explains the two major factors responsible for making AI the core technology for extreme automation. 
+Furthermore, she describes the concept of “AI Divide” or “The dark side of AI”.  
+Muhammad Zafeer Shahid [11] did a qualitative research by interviewing marketing professionals from different firms to 
+analyze  the parameters that contribute in integration of AI with marketing. His findings highlighted benefits of 
+amalgamating AI in marketing whereas technical compatibility was most challenging.  
+Gijs Overgoor [12] elaborated how Cross – Industry Standard Process  for Data Mining (CRISP – DM) structure can be used 
+for developing AI Solutions to Marketing problems. He illustrated this idea with an interesting case study of Automatic 
+Scoring Images for Digital Marketing.  
+N. Ramya [13] in her research reviewed differe nt factors influencing consumer buying behavior . Brands have an 
+opportunity to develop strategy and personalized marketing message by recognizing and comprehending the factors that 
+have impact on their customers.  
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3968  Nausherwan Raunaque [14] study focuses on t he factors which online buyers take into consideration while shopping online. 
+His findings include and how their security and privacy concerns about online marketing influences their online buying 
+behavior . 
+Dr. Md. Tabrez Quasim [15] presents different typ es of forecasting and AI techniques that are useful in business forecasting. 
+In his research he examined some present approaches of AI that seemed to be beneficial and promising for business 
+forecasting.  
+Albert Annor -Antwi [16] states that AI when integrat ed with other technologies ML, Big data, Data Analytics would yield 
+more accurate results than any other forecasting method. He elaborated shortcomings of AI, being costly and cybercrime 
+threats to AI - powered forecasting.  
+Naresh K. Malhotra [17] in his st udy amalgamates both academic as well as practitioner outlook in order to examine the 
+issues and emerging trends that will shape the role of marketing research.  
+The objective of the research by Dhanushanthini Ajanthan [18] is to examine and identify the ef fect on brand equity who’s 
+major dimensions are: Brand loyalty, brand awareness, brand image and perceived quality of social media marketing.  
+Neil A. Morgan [19], in his research not only unveils the important challenges to marketing strategy research but also 
+uncovers numerous opportunities for generating highly pertinent modern and creative theories.  
+Anyuan Shen [20] did an investigative research of customers’ lived experiences of commercialized recommendation. 
+According to him, researchers may discover a  new standpoint – the customer’s outlook – with a view to analyse theories of 
+personalized marketing.  
+Jerry Vesanen [21] through his research paper makes the meaning of personalization clear to maximum extent. Findings 
+reveal that personalization is not ye t widely applied as it is not clearly understood by majority of marketers as it has 
+different meanings for different businesses.  
+Ki Youn Kim [22] did a study with aim to qualitatively recognize topologies and characteristics of the big data marketing 
+strat egy. She focused on impacts of Big Data Analytics in business perspective, with execution of Q methodology.  
+Alexandra Amado [23] evaluated the implementation of Big Data in Marketing, with the goal to spot trends in these fields. 
+His findings exhibited tha t theirs is and increasing interest for Big Data in marketing over the years. Hence it is necessary to 
+expand efforts in regard with the business so that Big  Data can flourish in the Marketing sphere.  
+Stefan Lessmann [24] research focuses on empirical targ eting models. Author argue adduce about standard practices to 
+thrive such models do not gauge sufficiently for business objectives.  
+Ayse Bengi Ozcelik [25] elaborates about psychological interpretation or behavior  of recipients in the effectiveness of onli ne 
+ads customized using behavioral  targeting.  
+Aman Abid [26] tested the impact of different content characteristics and cues on followers’ online expression and 
+understood the moderating consequences of content curation. He evaluated role of marketer gener ated content in building 
+online relationships.  
+Samira Khodabandehlou [27] developed a framework for customer churn prediction, which included six stages for precise 
+prediction and averting customer churn in business. Author found that the discount, recepti on of returned items, prize, 
+number of items and distribution time came best predictor variables apart from frequency and monetary (RFM) variables.  
+Jean Paul Simon [28] provided an outline of the key trends in the domain of Artificial Intelligence and a gl obal overview 
+about regions along with companies. Author says that legal, ethical, socio -economic aspects  (ELSE) can turn into barriers to 
+deployment of AI technologies and explains how demand seems to be uncertain for AI on both sides i.e. business and 
+consumer.  
+Thanos Skouras [29] lay out a collation as well as assessment  of reception  of pricing by disciplines of economics and 
+marketing. The major reasons for differences in both approaches are dissimilar historical origin, key concerns and doctrinal 
+evolu tion.  
+4. WAYS IN WHICH AI CAN BE IMPLEMENTED IN MARKETING  
+ 
+The various ways in which Artificial intelligence can be used in marketing (refer figure 3) are explained below [31]:  
+           International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3969   
+Fig – 3: Ways in which AI can be implemented in Marketing [30]  
+ 
+4.1 AI enhanced Ad - Targeting  
+ Automatic process of purchasing and selling advertisements is known as programmatic advertisements. The 
+marketers approach advertisers and publishers which in turn connects to ad inventory. Advertisers charge 
+wages from marketers  in return for advertisements. Artificial intelligence technologies use algorithms which 
+are developed for customer behavior analyses. Customer cookie data is also gathered to help marketers in 
+taking informative decisions and utilizing this data for real -time campaign optimizations. Targeted customers 
+or audiences which show great chances of conversions are displayed particular advertisements in a certain 
+interval of time. The advertisements viewed by customers differ according to their past searches and a ctions .  
+ 
+4.2 Websites Personalization  
+Artificial Intelligence ability is far from building websites from the basics, it helps marketers in improving the visitor 
+experience with smart personalization of companies ’ websites. Graph 3 exhibits various benefi ts of website personalization. 
+Such intelligent AI algorithms can be used for personalization in two ways:  
+ Push Notifications - With usage of behavioural personalization algorithms, specific push notifications can be flashed 
+or sent on targeted customer dev ices.  
+ Website Experience - After complete analyses of data elements relating to a particular customer which includes 
+demographics, locality , interaction with website,  device, etc. AI displays the finest content as well as offers for that 
+user.  
+Out of the ma rketers surveyed 33% of them implement AI to provide customized websites, according to THE 2017 Real – 
+Time Personalization Survey conducted by Evergage. Out of the same set of marketers (mentioned above), 63% stated that 
+they observed enhanced customer ra tes and 61% noted enriched customer experience.  
+4.3 AI powered content creation  
+Artificial intelligence powered tools like wordsmith have the ability to convert data into logical text. These automatic 
+content generation mechanisms save marketers time. This AI content generation tools are so intelligent that readers cannot 
+discern betw een text written by machines and text written by a human. 20% of all business content is formulated by 
+machines by 2018, according to Gartner predictions. Content with basic formats as well as rule sets like profit and loss 
+summary, real - time stock insigh ts, sports game recaps, hotel descriptions can be generated using machines.  
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3970   
+Graph – 3: Benefits of personalized websites [32]  
+4.4 Chatbots  
+Intelligent chatbots are providing majestic customer support in different sectors like fashion, healthcare, insurance etc. 
+Chatbots can even create personalized content for humans by accessing huge amounts of customer -cantered data. They can 
+comprehend position or environment specific requests to understand patterns, identify problems and guide users for what’s 
+causing that certain issue. Chatbots are not limited to customer service only. [33]  
+4.5 Email  Content Creation  
+Earlier was the time when marketing teams required to spend hours assembling and scheduling weekly emails for various 
+customer sections. Even after usage of smart subscriber segmentation marketers were not able to deliver personalized 
+email to every single  customer. After AI Marketing comes into picture these all steps are carried out by machines with less 
+manual work. 80% of marketers are of the view that personalized content or email are more effective than non -
+personalized content (study by Demand Metric ).  
+After mapping the subscriber’s email browsing data and website experience AI -powered dynamic emails can be created. 
+Compilation of dynamic emails can be done based on various factors such as user’s wish list, previous website experience, 
+time spent on webpage or some external factors like most popular ongoing trends or content, interests of analogous visitors 
+etc. Graph 4 can be referred to for understanding the benefits reaped from AI powered Email content curation.  
+4.6 Churn Predictions  
+Marketers  with use of AI -powered algorithms can recognize disengaged customers who are about to leave or churn from 
+their brand or product for a competitor. Such tool can perform the task of gathering data, constructing predictive models 
+and testing and validating mode ls on actual customers. Churn predictions help marketers in analyzing omnichannel events 
+and find out about depreciating customers participation. The information collected can also depict the stage of churning of a  
+particular customer. There can be two typ es of churning customers: quick - churn customers who tend to abandon product 
+shortly and late – churn customers who have long lasting relationships with a product or brand.   Late – churn customers 
+have scope of being incentivized to keep using the product , on-contrary it is difficult to re -engage quick – churn customers. 
+Machine learning algorithms are required to be modified or even built from ground according to different products or 
+brands for finding churn predictions.  
+4.7 Dynamic pricing and customer  insights  
+Duration that is required in order to crux complete data and compare them with the customer's behavior pattern will be 
+much greater if the task is done by humans, whereas AI can do the same task on the fly and could smartly provide marketing 
+insights. Dynamic Yield aids brands like Sephora, Armani, Under Armour make actionable customer segments with 
+applications on machine learning algorithms. Marketers can use these algorithms to avert the stock that has short supply 
+from being advertised to shop pers who undoubtedly return products. With the help of dynamic pricing marketers can 
+optimize their sales when demand is high.[35]  
+ 
+ 
+ 
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3971   
+ 
+Graph - 4: Benefits realized by use AI powered Email Content Curation [34]  
+ 
+4.8 Automatic speech and image recognition  
+Nowadays, computers can be considered having vision just like humans and it can be referred to as computer vision. This 
+vision can be used in attaining high - level understanding from digital image or image. Computer vision employs machine 
+learning algori thms and pattern recognition to acquire veridicality of human visual systems. Computer vision is now 
+extended to voice recognition also, which makes them recognize the user's voice and interpret their words they speak. 
+Marketers can use image recognition f or better synchronization between store visits and online content. Image recognition 
+has enhanced customer experience, like if a google photos user types dog in his search bar, the application will display all 
+the pictures of dog in his phone or even it re cognizes human faces and allow to segregate their photographs.  
+4.9 Business Forecasting  
+Future of a business depends on various complex and correlated factors and forces which are sometimes difficult to 
+measure. Major hurdle for marketers is how to pred ict the exact future of a business or a product which applies intricate 
+sets of inputs. However, there are some machine learning processes which allow marketers to collate inbound 
+communication against traditional metrices in order to perceive answer for c omplexed strategy questions. With the coming 
+up of AI Marketing, questions about if a prospect is ready for discussion or not does not exist, as data provides explanation s. 
+5. APPLYING ARTIFICIAL INTELLIGENCE ACROSS CUSTOMER LIFECYCLE  
+ 
+Analyzing and predicting consumer journey is troublesome for marketers. Consumers convey their opinion in the form of 
+blogs, Tweets, “likes,” videos, search, comments and conversations and through various channels. In figure 4 customer 
+interaction and valu e are displayed over a period of time along with the role of machine learning, propensity modelling, AI 
+application during different stages. Customer experience is a competitive driver of growth when successful and the greatest 
+source of risk when failing.  [37]  
+Machine Learning comprehends the analysis of historical data from various business interactions with audiences and their 
+responses. This data helps in identification of the success factors of a person’s communications, including targeting, offers , 
+copy and frequency. Algorithms for Machine Learning generate insights via predictive analytics, and it depends on 
+marketers to take actions according to those insights or set certain directives for AI to act on them.  
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3972   
+Fig - 4: Customer Journey [36]  
+Estimation of the possibility of subjects executing specific types of behavior (e.g. purchasing of a product) by taking into 
+account independent covariates and confounding variables that affect such behavior is known as propensity modelling. This 
+conceivab ility is considered as a probability which is defined as propensity score. [38]  
+The four major stages of customer lifecycle are explained as follows:  
+1. Reach  
+For marketers, sometimes it is challenging to track when a need is triggered among customers as i t eventuates at category 
+level rather than the brand level. A key marketing scheme is when consumers initiate deliberate possible offerings to match 
+up to their requirements, to inculcate the brand into customers' consideration set. Marketers job comprises  of expanding 
+visibility of the brand and intensifying crucial grounds for consideration. [39]  
+2. Act  
+After customers pen down their brand preferences, marketers pitch to implant certainty in the offerings as well as to coax 
+them that they are making best choices.AI help in accomplishing these objectives by predictive analysis, lead scoring, 
+learning from consumers behavior and providing real time insights. Marketers can also employ emotional AI to perceive 
+consumers' feelings about their brand publicly.  
+3. Convert  
+After consumers deduce the worth of their preferred brand and the amount, they are willing to spend, marketers shift their 
+focus from decision process to action process. They achieve this task by strengthening brand’s value juxtaposed with its 
+com petitors. The purchase process of the consumers can be completely transformed with help of AI. Marketers implement 
+intelligent purchasing systems for their consumers and can also regulate the “sweet spot” for pricing known as dynamic 
+pricing.  
+4. Engage  
+During this stage, consumers are in a position to evaluate their interest and satisfaction with a particular brand and can 
+scrutinize whether to repurchase from that brand i.e. engaging with name of brand. The post purchase services are on of 
+deciding fact ors and marketers using AI enable chatbots for better customer service. Marketers can segment their most 
+valuable customers or loyal customers, and they can further focus in customer - relationship management campaign.  
+6. REAL WORLD EXAMPLES OF ARTIFICIAL INTELLIGENCE MARKETING APPLICATION          
+Possibilities with AI are limitless for marketers. The following are some examples of how brands are implementing AI as an 
+integral part of their marketing strategy:  
+ Norwegian Air , an airline company tried figu ring out key markets based on various criteria like flight location. 
+They developed a custom ML model to target users within their designated market areas (DMAs), who accounted 
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3973  for customers which are most likely to engage with their airline and complete b ooking. The campaign overreached 
+Norwegian Air's targets, delivering a "cost per booking" CPA that was 170% lower than the CPA goal. The 
+company's secondary goal is to aware key markets about “World’s Best Long -Haul, Low Cost Airline.” was also 
+accomplishe d by this strategy.  
+ Starbucks  used predictive analytics by using loyalty cards and user mobile applications to gather and analyze  
+consumer data. This strategic plan of application of AI and big data was presented in 2016. Starbucks delivered 
+personalized marketing messages to customers including recommendations. Their mobile application allowed 
+users to place an order directly from phone via speech commands. This implementation of AI helped the company 
+in increasing annual revenue by 11% from year 2018 in contrast to 2017. [40]  
+ Wowcher , a leading e -commerce company, ramped up its social media in the year 2018 with the usage of AI -
+powered copy - writing technology. This tool was having the advantage of studying and analyzing  emoticons as a 
+part of speech and writing patterns. After this analysis AI engine developed an emoji based social writing which 
+resonated with most users. Wowcher achieved  a  31% reduction in cost per lead, as well  as a higher Relevance 
+Scor e as a consequence of this technology. [41]  
+ Nestle or Unilever  used AI technology to harmonize insights from a pool of references like songs and popular 
+media content in public domains for trends in food consumption. Unilever di scovered a relationship between 
+breakfast and ice cream. Additional research displayed that brands such as Dunkin Donuts are so far serving ice 
+cream in their breakfast menu and sweet products were becoming popular in breakfast in the US. They considered 
+this as an opportunity and they came up with a variety of cereal flavored  ice cream or “Breakfast for Desserts” 
+which became an industry standard. [42]  
+ Alibaba , a retail giant, launched “FashionAI” outfitter in Hong Kong. Its aim was to streamline the custo mers’ 
+fashion retail experience with implementation of AI and using smart garment labels. These labels recognize when 
+the product is grabbed and smart mirrors recommends correlated items along with the garment’s description. The 
+subsequent idea of Alibaba is to show a list or virtual wardrobe of all the garments tried or touched by a user 
+during his/her store visit. The employment of new technology by Alibaba is a need of hour in times of consumers’ 
+ever -changing expectation. As per a survey conducted 46% o f respondents were of the opinion that their encounter 
+with technology instils additional credence in a specific brand showing a trust and positive response. [43]  
+ Nike  launched a program wherein customers were provided with the flexibility to design their sneakers in their 
+own way at the store, in 2017. The technology permits users to design the pattern to be printed on plain Nike shoes, 
+according to their own choice. T his is a great gimmick to increase sales of the company and furthermore it helped in 
+collecting huge amounts of information relating to customers’ predilection about sneakers. With this information 
+and machine learning algorithms Nike developed designs for  future products and also delivered personal product 
+recommendations or messages to users.  
+ Amazon  pioneered personal recommendation in early stages of AI Marketing. They developed new algorithms for 
+dynamic pricing of products and in recent years they hav e launched checkout - free physical stores in San Francisco, 
+Chicago, Seattle which works on AI -powered sensors and detect automatically which item a customer has picked up 
+and charges them automatically of amazon go application.[44]  
+ Netflix  provides personalized recommendations to every user with implementation of AI based on what the user 
+likes and what user watches. It analyses customer reactions to different shows, documentaries, films and then after 
+looking into billions of records sugge sts the best one. Most of the shows watched by users are discovered with this 
+AI based recommendation system. [45]  
+7. REGIONAL ANALYSIS (ADOPTION RATE)  
+ 
+AI is populated on such a big scale that the total revenue for this technology is expected to incre ase from 7.4 billion US 
+Dollars in 2018 to 89.85 billion in 2025 [46]. Across the globe marketers have discovered two major uses of AI Marketing 
+which are task automation and data analysis. With increase in essence of customer data for marketers and market ing 
+strategies, most of global marketing professionals are shifting or planning to shift for use of AI Marketing.  
+Since  the use of AI technology in marketing is still in its infancy, it comes as no bombshell that many industry professiona ls 
+are not yet unreservedly  convinced of AI’s influence on marketing, and as such are not yet comfortable with automating 
+anything other than select stages of their campaigns.[47]  
+Marketers requi re a detailed overview of evaluation as well as data and algorithm usage related to AI -run processes. Some 
+of the industry doesn’t seem to be ready to seize control over their work in favor of artificial intelligence.            International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3974   Below mentioned are data of AI Market ing used across different regions across the globe.  51% of marketers are already 
+using AI, while 27% of them are planning to incorporate it within their digital marketing strategy [48].The global market for  
+AI Marketing is estimated to grow at a significan t rate between the forecast period of 2018 - 2023. Table 1 and graph 5 
+shows the execution of AI Marketing for various purposes in different regions across the globe.  
+Table - 1: Regional Adoption of AI Marketing (all values in percentage) [49]  
+Purpose                                                                  North America  Europe  Asia Pacific  
+Analysis of data  51 52 49 
+On-site personalization  27 23 23 
+Optimization and testing  26 18 19 
+Email marketing  24 19 34 
+Image recognition  22 19 20 
+Automated campaigns  19 18 20 
+Content creation  18 11 29 
+Programmatic advertising  15 28 22 
+Digital asset management  15 10 22 
+Video recognition  9 14 12 
+Creative and design work  8 13 23 
+Automated offers  8 10 11 
+Other  9 5 6 
+ 
+Graph - 5: Regional Adoption of AI Marketing [49]  
+          International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3975  8. CONCLUSION S  
+ 
+AI Marketing is new playbook for Marketers which is making them shift from marketing automation to marketing 
+personalization. The need for customization, reactive design and dynamic engagement have b een long talked about and 
+introduction of AI has served as catalyst to initiate this required marketing transition. There has been a growth in scope of  
+AI with regard to its application in marketing. This marketing aeon can be considered both interesting a s well as challenging 
+and frightening. With the advent of artificial intelligence marketing, automated and traditional marketing techniques took a 
+backseat and things like personalization, speech and image recognitions, chatbots, churn predictions, dynamic  pricing and 
+customer insights came into the vision. Availability of wide range of data has made it possible for the marketers to carry ou t 
+individualized sales and marketing and fulfil customer expectations to the maximum extent.  
+Currently, AIM is in its  infant stage and with its fast pace, it is expected to reshape marketing strategies and business 
+models. Some market research topics may become insignificant as these roles will be taken over by machines and advanced 
+jobs will be created, which will requi re high potential and knowledge. In near future AIM is likely to substantially change 
+both marketing strategies as well as customer behavior. AIM will surely explode up with a lot more surprises in the coming 
+future.  
+REFERENCES  
+ 
+[1] Weber Shandwick Homepage, https://www.webershandwick.com/wp -content/uploads/2018/04/AI -Ready -or-Not-
+report -Oct12 -FINAL.pdf, last accessed 2019/12/24.  
+[2] Thiraviyam T., Artificial Intelligence Marketing, In: Proceedings of International Journal of Recent Research Aspects, 
+pp. 449 –52, April (2018)  
+[3] HBR Homepage, https://hbr.org/resources/pdfs/comm/people.ai/acceleratingsales.pdf last accessed 2020/02/12  
+[4] Mckinsey Homepage, https://www.mckinsey.com/featured -insights/artificial -intelligence/ai -adoption -advances -but-
+foundational -barriers -remain, last accessed 2020/02/07  
+[5] InsiderPro Homepage, https://www.idginsiderpro.com/article/3302739/how -ai-is-reshaping -marketing.html Last 
+Accessed 2020/02/19.  
+[6] Smart Insights Homepage, https://www.smartinsights.com/managing -digital -marketing/managin g-marketing -
+technology/how -ai-is-changing -the-role -of-the-marketer -in-2018/, Last Accessed 2019/12/20.  
+[7] M. Avinaash, Dr. Jayam R., Artificial Intelligence - The Marketing Game Changer. In: proceedings of International 
+Journal of Pure and Applied Mathematics , pp. 1881 -1890, 119(17), IJPAM (2018)  
+[8]  MapR Homepage, https://mapr.com/blog/demystifying -ai-ml-dl/. Last Accessed 2019/12/20.  
+[9] Davenport T., Guha A., Grewal D., Bressgott T. (2020), How artificial intelligence will change the future of marketing, 
+Journal o f the Academy of Marketing Science, pp. 24 -42, 48(1)  
+[10] Soni N., Sharma E. K., Singh N., Kapoor A. (2019) Impact of Artificial Intelligence on Businesses: from Research, 
+Innovation, Market Deployment to Future Shifts in Business Models, Journal of Business Re search  
+[11] Shahid M. Z., Li G. (2019), Impact of Artificial Intelligence in Marketing: A Perspective of Marketing Professionals of 
+Pakistan, Global Journal of Management and Business Research: E Marketing, pp. 26 -33, 19(2).  
+[12] Overgoor G., Chica M., Rand W., Weis hampel A. (2019), Letting the Computers Take over: Using Ai to Solve Marketing 
+Problems, California Management Review, pp. 156 -185, 61(4)  
+[13] Ramya N., Dr. Ali M. SA (2019), Factors Affecting Consumer Buying Behaviour, International Journal of Advanced 
+Researc h, pp. 563 -568, 7(1).  
+[14] Raunaque N., Zeeshan Md., Imam A. Md. (2016), Consumer Perception Towards Online Marketing in India, 
+International Journal of Advanced Engineering, management and science, pp.1236 -1240,2(8).  
+[15] DR Quasim Md. T., Chattopadhyay R. (2015), Artificial intelligence as a business forecasting and error handling tool, 
+COMPUSOFT an International Journal of Advanced Computer Technology, pp. 1534 -1537, 4(2).  
+[16] Annor - Antwi A., Al -Dherasi A. A. M. (2019), Application of Artificial Intelligence in Forec asting: A Systematic Review, 
+SSRN Electronic Journal  
+[17] Malhotra N.K., Peterson M. (2001), Marketing research in the new millennium: Emerging issues and trends, Marketing 
+Intelligence and Planning, pp. 216 -232, 19(4).  
+[18] Ajanthan D. (2017), The Impact of a Soc ial Media Marketing on Customer Based Brand Equity - A Special Reference to 
+Travel & Tourism Industry in Sri Lanka, TRANS Asian Journal of Marketing Management Research, pp. 36 -46, 6(11).  
+[19] Morgan N. A., Whitler K.A., Feng H., Chari S. (2019), Research in mar keting strategy, Journal of the Academy of 
+Marketing Science, pp. 4 -29, 47(1).  
+[20] Shen A. (2014), Recommendations as personalized marketing: insights from customer experiences. Journal of Services 
+Marketing, pp. 414 -427, 28(5).  
+[21] Vesanen, J. (2007), What is per sonalization? A conceptual framework, European Journal of Marketing, pp. 409 –418, 
+41(5/6).            International Research Journal of Engineering and Technology  (IRJET)        e-ISSN: 2395 -0056  
+                Volume: 07 Issue: 07 | July 2020                   www.irjet.net                                                                     p-ISSN: 2395 -0072  
+ 
+© 2020, IRJET       |       Impact Factor value: 7 .529        |       ISO 9001:2008 Certified Journal       |     Page 3976  [22] Kim K. Y. (2014), Business intelligence and marketing insights in an era of big data: The q -sorting approach. KSII 
+Transactions on Internet and Information Systems, pp. 567 –582, 8(2)  
+[23] Amado A., Cortez, P., Rita P., Moro S. (2018), Research trends on Big Data in Marketing: A text mining and topic 
+modeling -based literature analysis, European Research on Management and Business Economics, pp. 1 -7,24(1).  
+[24] Lessmann S., Haupt  J., Coussement K., De Bock K. W. (2019), Targeting customers for profit: An ensemble learning 
+framework to support marketing decision -making. Information Sciences, pp.15 –22.  
+[25] Ozcelik A. B., Varnali K.  (2019), Effectiveness of online behavioral targeting: A psychological perspective, Electronic 
+Commerce Research and Applications, 33  
+[26] Abid A., Harrigan P., Roy S. K. (2019), Online relationship marketing through content creation and curation, Marketing 
+Intelligence and Planning.  
+[27] Khodabandehlou S., Zivari Rahman M. (2017), Comparison of supervised machine learning techniques for customer 
+churn prediction based on analysis of customer behavior. Journal of Systems and Information Technology, pp. 65 –
+93,19(1/2).  
+[28] Simon J. P. (2019), Ar tificial intelligence: scope, players, markets and geography, Digital Policy, Regulation and 
+Governance, pp. 208 –237, 21(3).  
+[29] Skouras T., Avlonitis, G. J., Indounas K. A. (2005), Economics and marketing on pricing: How and why do they differ? 
+Journal of Pr oduct and Brand Management, pp. 362 –374, 14(6).  
+[30] Moftak Homepage, https://www.moftak.com/how -artificial -intelligence -is-reshaping -the-workforce -management/, 
+last accessed 2019/12/20.  
+[31] Content Marketing Institute Homepage, https://contentmarketinginstitute.c om/2017/08/marketers -use-artificial -
+intelligence/, last accessed 2020/02/07  
+[32] Evergage Homepage, http://www.evergage.com/wp -content/uploads/2016/06/2016 -Trends -in-Personalization -
+Survey -Report -Evergage -final.pdf, Last Accessed 2020/02/07.  
+[33] Emarsys Homepage, h ttps://www.emarsys.com/app/uploads/2019/08/Whitepaper_Making -Immediate -Impact -
+with -AI_07 -1.pdf, Last Accessed 2020/02/02.  
+[34] Quicksprout Homepage, https://www.quicksprout.com/how -to-increase -sales -by-personalizing -the-customer -
+experience/, Last Accessed 2020/ 02/07.  
+[35] Feedough Homepage, https://www.feedough.com/examples -of-artificial -intelligence -in-marketing/, Last Accessed 
+2019/12/26  
+[36] Smart Insights Homepage, https://www.smartinsights.com/tag/artificial -intelligence -ai-for-marketing/, Last 
+Accessed 2020/02/19.  
+[37] Richrelevance Homepage, https://www.richrelevance.com/blog/2018/10/26/ai -infused -marketing -across -
+customer -lifecycle/,Last Accessed 2020/01/13.  
+[38] Data Science Foundation Homepage, https://datascience.foundation/sciencewhitepaper/propensity -modelling -for-
+busin ess, Last Accessed 2020/01/13.  
+[39] Kietzmann J., Paschen J., Treen E. (2018), Artificial intelligence in advertising: How marketers can leverage artificial 
+intelligence along the consumer journey, Journal of Advertising Research, pp.263 -267, 58(3).  
+[40] Macrotrends  Homepage, https://www.macrotrends.net/stocks/charts/SBUX/starbucks/revenue, Last Accessed 
+2019/12/30.  
+[41] Econsultancy Homepage, https://econsultancy.com/how -wowcher -used -ai-copywriting -tool -reduce -facebook -ad-
+cpl/?zd_source=mta&zd_campaign=13370&zd_term=chir adeepbasumallick, Last Accessed 2019/12/30.  
+[42] Martech Advisor Homepage, https://www.martechadvisor.com/articles/machine -learning -ai/5 -examples -of-ai-in-
+marketing -in-2019/, Last Accessed 2019/12/30.  
+[43] Social Media Strategies Summit, https://blog.socialmediastra tegiessummit.com/10 -examples -of-ai-in-marketing/, 
+Last Accessed 2019/12/30.  
+[44] Concured Homepage, https://www.concured.com/blog/5 -brands -that -are-successfully -leveraging -ai-for-marketing, 
+Last Accessed 2019/12/29.  
+[45] PegasusOne Homepage, https://www.pegasusone.c om/top -5-real -world -applications -artificial -intelligence/, Last 
+Accessed 2019/12/29.  
+[46] Statista Homepage, https://www.statista.com/topics/5017/ai -use-in-marketing/, Last Accessed 2020/01/09.  
+[47]  Market Research Future Homepage, https://www.marketresearchfuture. com/reports/artificial -intelligence -
+marketing -market -6568, Last Accessed 2020/01/11.  
+[48] Leftronic Homepage, https://leftronic.com/artificial -intelligence -statistics/, Last Accessed 2020/01/11.  
+[49] Statista Homepage, https://www.statista.com/statistics/915372/mark eting -related -use-artificial -intelligence -world/, 
+Last accessed 2020/01/09.  
+View publication stats

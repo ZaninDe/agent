@@ -1,0 +1,357 @@
+© 2023 Gartner, Inc. and/or its affiliates. All rights reserved. CM_GBS_2270884Gartner for Marketing Leaders
+Quick Answer: How 
+Should CMOs Respond 
+to ChatGPT Today?2 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Marketing professionals are exploring OpenAI’s ChatGPT 
+chatbot without restriction. CMOs must assess its impact 
+on creation, branding and operations. They must act now 
+and establish policy and controls, even as the technology 
+transforms marketing outside of any system of governance.
+Published 7 October 2022 - ID G007744713 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Quick Answer
+What should marketing leaders know and do about ChatGPT?
+• ChatGPT, along with other generative AI programs available in the public 
+domain, is scrambling the formula for content production, ideation, market 
+research and many other labor-intensive functions of marketing.
+• Generative AI capabilities have deep implications for talent, budgets and 
+marketing strategy. They also raise new ethical concerns.
+• For many organizations, leveraging custom models under IT governance, 
+with an eye toward marketing’s pragmatic use cases, will yield the most 
+transformative beneﬁts.
+• Although some organizations have attempted to restrict employee access 
+to ChatGPT, its availability on mobile devices and unmanaged personal 
+computers makes these efforts dubious.
+• CMOs urgently need to compile a list of active use cases impacted by 
+ChatGPT and collaborate with peers to establish policies and practical 
+guidelines to steer its responsible use.More Detail
+ChatGPT is a chatbot from OpenAI released to the public in December 
+2022. It’s an example of generative artiﬁcial intelligence (AI), which refers to 
+programs that can produce text and images (among other things). ChatGPT 
+produces text; you may also be familiar with OpenAI’s image-generating AI 
+DALL-E, which made waves earlier last year.
+ChatGPT is best understood as a web interface to a more general language 
+model called GPT (Version 3.5). The GPT models support programmatic access 
+through OpenAI APIs for custom applications such as personalization, tailored 
+help and more futuristic visions of brand avatars, virtual inﬂuencers and 
+interactive product features based on custom modeling. The most immediate 
+corporate impact of ChatGPT, however, is in its ad hoc, self-service use 
+by employees.
+As access and services advance, organizations will use keys to keep 
+proprietary data secure and private. In the meantime, use caution with  
+the types of data you permit users to enter. ChatGPT conversations are  
+not conﬁdential and OpenAI samples and reviews them for compliance  
+and to make improvements. 14 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Employee adoption of free access to ChatGPT is well underway. Marketing 
+professionals have been particularly keen to test-drive the tool, with 37% 
+saying they’ve used AI at work. 2 The following marketing functions are most 
+likely to be impacted by the near-term, unsupervised adoption of ChatGPT:
+• Content Production.  Although vendors like Adobe have been touting AI’s 
+ability to improve creative productivity by eliminating mundane tasks for 
+years, tools like ChatGPT have raised the bar by creating draft copy and 
+briefs on par with interns or entry-level employees. Entry-level writing skills 
+may now be redundant and junior staff should be sourced and evaluated 
+on the ability to act as editors and supervisors for machine-generated 
+marketing copy and proposals, such as agency creative briefs. Relieved of 
+ﬁrst-draft writing tasks, they’ll need the editorial skills to turn generic prose 
+into distinctive expressions of brand voice and business goals while catching 
+anomalies. They’ll need to understand the strengths and weaknesses of 
+large language models like ChatGPT and how they impact user experience 
+(see a sample chat in the evidence section for more details). For example, 
+ChatGPT works by predicting the most likely next word in a sentence; factual 
+accuracy is not a product of this technique.• Ideation.  ChatGPT and its visual counterparts are powerful tools for creative 
+brainstorming. Creative directors and their staff are rapidly developing 
+new skills in the art of prompt engineering. This means learning how to use 
+language in chatbot sessions with ChatGPT to issue prompts and prompts 
+with content. These iteratively articulate and surface boundless ideas 
+that can be instantly rendered and reﬁned. This skill will accelerate and 
+broaden the scope of creative concepts that can be generated and tested. 
+It will challenge traditional branding methodologies by encouraging “out-
+of-the-box” thinking that existing guidelines may not anticipate. Although 
+generative AI tools for text and images are currently distinct, expect them to 
+merge or combine as OpenAI integrates GPT with DALL-E and other models. 
+Of course, one can use them together today, alongside other free and low-
+cost tools, to explore concepts across modalities.
+• Market Research. ChatGPT is skilled at emulating personas in hypothetical 
+interviews. While caution is warranted in mistaking its answers for actual 
+ﬁeld research, ChatGPT can clearly reﬁne the design of surveys and focus 
+studies by providing a baseline for testing hypotheses and methodologies. 
+It can also be directed to ask questions from a persona’s viewpoint. This 
+may spark insights into key areas of research that are not initially obvious.5 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Figure 1: ChatGPT Impacts Marketing Functions
+Source: GartnerRecommendations
+• Talent.  In the longer term, CMOs will need to build a culture that values 
+AI’s contribution to ideation, while reinforcing the essential role of creative 
+supervision and brand sensibilities that are still uniquely human. Meanwhile:
+-  Review stafﬁng plans, skill sets and job descriptions to emphasize skills 
+and experience reviewing, editing and fact-checking text (extra credit for 
+experience with generative text).
+-  Assure that existing talent (both internal and agency) are up-to-speed on 
+public AI usage policies by co-creating guidelines and resources with 
+other policy leaders.
+-  Skills at prompt engineering are a new area for talent evaluation. Consider 
+designing a mentoring program to upskill employees.
+-  Have AI-augmented creatives show their work, focusing on how they 
+use prompts to reﬁne generative content to align with brand strategy. 
+Seek out creative developers familiar with the ChatGPT API and similar 
+programming capabilities.ChatGPTContent Production
+Market ResearchIdeation6 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?• Budget.  As accelerated ideation and content production drive down upfront 
+campaign costs, budgets will shift to testing and optimization of treatment 
+variants. Free and low-cost tools like ChatGPT may be able to replace some 
+costly features and functions supported by legacy martech applications and 
+agency fees.
+-  Rebalance the allocation of time and resources away from production 
+activities toward testing and reﬁnement of ideas and treatments and 
+monitoring of competitive branding initiatives to optimize differentiation.
+-  Work with IT to identify redundant capabilities, but be aware that some 
+requirements, such as service availability, support and security are lacking 
+in public tools.
+-  Expect agency labor and materials budgets for content production to drop 
+signiﬁcantly in the next year (if they don’t, consider an agency review).
+-  Evaluate trade-offs between cost savings and increased production, 
+including necessary content quality checks.• Strategy.  Accelerated content generation will put more pressure on distinct 
+brand positioning as copy production explodes and more competitors rely 
+on common models.
+-  Use newfound employee capacity to create diverse internal testing and 
+review panels to speed up the evaluation of messaging, ads, social posts 
+and other assets before committing to distribution.
+-  Develop use cases with developers who will soon be able to use ChatGPT’s 
+API to pass custom variables as input data to generate personalized 
+content or ﬁll in placeholders. 3 Ensure generated content is subject to 
+human review. Google and other competitors will soon follow suit with 
+their own APIs, so plan for competitive testing.
+-  Automated functions like text translation lower the cost of developing 
+new markets and regions (although, again, review is warranted). Resist 
+temptations to produce more than customers want or need, and fortify 
+your review process for generated content.7 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?• Ethics in Marketing.  The use of ChatGPT and generative AI generally in 
+marketing has raised many ethical concerns that marketers should be aware 
+of as they plan for responsible use. 4
+-  Misinformation.  ChatGPT, like the internet it learns from, lacks veracity. It’s 
+trained to predict the content of an answer without evaluating its basis in 
+fact. Its lack of truth-based context demands that brands continue to apply 
+human oversight.
+-  Bias.  Having been trained on historical data, ChatGPT often reﬂects 
+historical bias in its associations and tends to propagate stereotypes that 
+may conﬂict with a brand’s commitment to diversity, equity and inclusion 
+in its positioning.
+-  Copyright.  Large language models reveal a host of copyright issues that 
+are yet to be resolved in the legal system. Marketing leaders need to get 
+up to speed on these topics and participate in the development of policy 
+standards to address them.
+-  Transparency.  Disclosing and explaining the use of generative AI in the 
+production of personalized and interactive marketing materials can be 
+awkward, but end users have a right to understand what they’re dealing 
+with and make informed choices. Amend privacy disclosures to include 
+information about the role these tools play in shaping digital experience.• Additional cautions for marketing teams
+-  Availability.  Until service levels can be established for paid tiers of access, 
+organizations won’t be able to rely on ChatGPT’s availability, which has 
+been sporadic.
+-  Numerical challenges.  Large language models like ChatGPT converse by 
+predicting what’s next in a text. The current model doesn’t handle logic 
+or numbers well, which limits its ability to support speciﬁc industries like 
+ﬁnance and more technical writing.
+-  Dated data.  ChatGPT is trained on data prior to 2022. This results in 
+outputs that lack current information and context, and based on the 
+learning model this means that while the data will be updated, the model 
+will not be “real-time.”
+-  Competitive brand intelligence.  Gathering and curating information is 
+what ChatGPT does best. Brands can use ChatGPT to gather and curate 
+competitive information across messaging, product offerings, advertising 
+and reviews. This also means competitors can do the same.
+-  Brand safety.  Tools like ChatGPT are also likely to increase the volume of 
+text produced by bots in social media with ill intent. This will escalate the 
+need for organizations to monitor and respond to false and defamatory 
+content.8 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?-  Impact on search.  Currently, ChatGPT is a complementary and partial 
+alternative, since it focuses on generative approaches to answers rather 
+than content discovery (this document, this sentence). Many search and 
+insight engine vendors have been using the base GPT technology, but it’s 
+currently not a replacement. Marketers should keep a close eye on how the 
+increase in data in the training set and supervised learning continues to 
+advance new versions of GPT.
+-  Designed for consistency.  ChatGPT’s out-of-the-box ability to produce 
+consistent results limits the variability of its output. Attention to prompt 
+details will be required along with the human review of generated content 
+to ensure that empathy, cultural awareness and perspective are provided 
+to develop novel ideas.
+-  Backlash.  Tools like ChatGPT understandably generate anxiety in teams 
+and individuals who feel threatened by its disruptive abilities. Guide your 
+team through adoption and address their concerns by acknowledging 
+changing roles and ways of working.Recommended by the Author
+Quick Answer: What is ChatGPT?
+Quick Answer: How Can Enterprises Leverage ChatGPT and GPT3?
+Quick Answer: Is a Digital Twin of a Customer the Future of a 360-Degree View 
+of the Customer
+Evidence
+1  ChatGPT: Optimizing Language Models for Dialogue, OpenAI.
+2  Survey Reveals 30% of Professionals Have Tried ChatGPT at Work, Time
+3 ChatGPT API is still in development at the time of this writing.
+4  Digital Marketing Leaders Need to Take a Bigger Role in Ethical Oversight  
+of AI/ML9 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?The following unedited sample illustrates ChatGPT’s limited grasp of 
+branding topics (as of). Note that some of the information in ChatGPT’s 
+answers is wrong. Can you spot the errors?
+Prompt:
+Let’s talk about branding. How would you characterize the differences 
+between the Coca-Cola and Pepsi brands in terms of brand values, promises 
+and personality?
+ChatGPT:
+Coca-Cola and Pepsi are two of the largest beverage companies in the world, 
+each with a distinct brand identity.
+Coca-Cola:
+Brand Values: Happiness, refreshment, optimism, tradition.
+Brand Promise: To provide consumers with a moment of happiness and 
+refreshment in every bottle.
+Brand Personality: Approachable, warm, friendly, and fun-loving.
+Pepsi:
+Brand Values: Youthfulness, excitement, boldness, and adventure.
+Brand Promise: To offer consumers a youthful and exciting taste experience.
+Brand Personality: Conﬁdent, bold, adventurous, and energetic.Prompt:
+Can you describe an ad for Coca-Cola and an ad for Pepsi that illustrate these 
+differences?
+ChatGPT:
+Sure! Here’s an example of an ad that illustrates the differences between Coca-
+Cola and Pepsi’s brand values, promises, and personality.
+Coca-Cola Ad:
+The ad might feature families and friends enjoying the moment of happiness 
+and refreshment that Coca-Cola provides.
+The ad could be set in a cheerful, bright, and inviting location, with upbeat 
+music playing in the background.
+The ad could end with the tagline “Open Happiness.”
+Pepsi Ad:
+The ad might feature young adults engaging in exciting and adventurous 
+activities.
+The ad could have an energetic soundtrack, with fast-paced visuals and bright 
+colors. The ad might show someone taking a sip of Pepsi, followed by the 
+tagline “Live For Now.”10 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Prompt:
+Can you identify some iconic symbols that these brands have used in their 
+advertising?
+ChatGPT:
+Yes, here are some iconic symbols that Coca-Cola and Pepsi have used in their 
+advertising:
+Coca-Cola:
+The Contour Bottle: Coca-Cola’s iconic shape has been a symbol of the brand 
+for over a century.
+The Red Disc: The red disc was introduced in the 1920s and became one of 
+the most recognizable logos in the world.
+Santa Claus: Coca-Cola is often associated with Santa Claus due to its use of 
+Santa in advertising campaigns since the 1930s.
+Pepsi:
+The Globe: Pepsi’s iconic logo features a circle with the brand name inside, 
+surrounded by stars and stripes.
+The Pepsi Challenge: Pepsi’s “Challenge” campaign was launched in 1975 and 
+became a major part of the brand’s identity.
+The “Yeah” Campaign: Pepsi’s “Yeah” campaign, which was launched in 2003, 
+featured celebrities and athletes saying “Yeah” in a youthful and energetic way.Prompt:
+If you were a beverage company, how would you position your brand to 
+compete with Coca-Cola and Pepsi?
+ChatGPT:
+As a language model, I do not have personal experiences or preferences, but 
+here’s an approach a beverage company could take to position its brand to 
+compete with Coca-Cola and Pepsi:
+Identify a unique value proposition: The company should determine what 
+sets it apart from Coca-Cola and Pepsi and focus on this unique quality in its 
+branding and marketing efforts.
+Deﬁne a target market: The company should identify a speciﬁc group of 
+consumers that are not well served by Coca-Cola and Pepsi and tailor its 
+branding and marketing to appeal to this target market.
+Create a strong brand personality: The company should develop a strong, 
+consistent brand personality that is appealing to its target market and 
+differentiates it from Coca-Cola and Pepsi.
+Use innovative marketing strategies: The company should use innovative 
+marketing strategies to reach its target market, such as inﬂuencer marketing, 
+social media marketing, and event sponsorship.
+Emphasize the health beneﬁts of its product: If the company’s product has 
+health beneﬁts, it should emphasize this in its branding and marketing efforts 
+to appeal to health-conscious consumers.
+Foster a strong sense of community: The company should encourage 
+consumers to engage with its brand and create a sense of community around 
+it, for example through user-generated content or social media initiatives.11 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Prompt:
+Assume your brand promise is healthier living, your target audience is health-
+conscious American youth, and your brand personality is snarky but cool. 
+Write a creative brief for an agency to guide their development of an ad 
+campaign that competes with Coke and Pepsi.
+ChatGPT:
+Creative Brief: Healthier Living Campaign for Health-Conscious American 
+Youth Objective:
+To create a compelling and attention-grabbing ad campaign that positions 
+our brand as the healthier alternative to Coca-Cola and Pepsi and appeals to 
+health-conscious American youth.
+Target Audience:
+Health-conscious American youth, ages 18-24. They are tech-savvy, 
+environmentally aware, and prioritize health and wellness in their daily lives. 
+They are looking for a fun and refreshing beverage option that aligns with their 
+lifestyle and values.
+Brand Promise:
+Healthier living. Our brand promises to provide consumers with a delicious 
+and refreshing beverage option that supports their health and wellness goals.
+Brand Personality:
+Snarky but cool. Our brand is conﬁdent, bold, and unapologetic, with a sense 
+of humor that appeals to young adults. We challenge convention and push 
+boundaries, while still maintaining a fun and relatable vibe.Key Message:
+“Say goodbye to sugary drinks and hello to a healthier alternative.”
+Tone:
+Edgy, fun, and lighthearted. Our campaign should appeal to the youth’s 
+sense of humor and challenge their perceptions about what a healthy 
+beverage can be.
+Visuals:
+Bright, bold, and eye-catching. Our visuals should reﬂect our brand 
+personality and convey the message that our product is the healthier, 
+more refreshing alternative to sugary drinks like Coca-Cola and Pepsi.
+Channels:
+Social media, online video, inﬂuencer partnerships, and in-store displays. 
+Our campaign should reach our target audience where they spend the 
+most time — online and on social media.
+Measurement:
+Our success will be measured by increased brand awareness, increased sales, 
+and positive customer feedback. We will track engagement and conversion 
+metrics on our social media and online video channels, as well as in-store 
+sales data.
+Timeline:
+The campaign should launch in the next quarter and run for a period of 
+6-12 months.12 Gartner for Marketing Leaders                    Follow Us on LinkedIn                    Become a Client  
+Quick Answer: How Should CMOs Respond to ChatGPT Today?Webinar
+The Impact of Generative AI, Such as ChatGPT
+Get answers to the most pressing questions about 
+ChatGPT to gain benefit, while minimizing risks.
+Watch Now
+Conference
+Gartner Marketing Symposium/Xpo™
+The World's Most Important Gathering of CMOs 
+and Marketing Executives™.
+View CalendarBlog
+Collaborative AI Scenarios in the Future 
+of Marketing
+Gartner expert Andrew Frank shares his thoughts about the 
+large-scale emergent effects of AI systems on marketing.
+Read Now
+Podcast
+#Hashtags: The Gartner Marketing & 
+Communications Podcast
+Get insight into the latest marketing trends. (Available 
+on Spotify, Apple or Google)
+Listen NowPosition your marketing organization 
+for success. Explore these additional 
+complimentary resources and tools for 
+marketing leaders:Actionable, 
+objective insight
+Already a client?  
+Get access to even more resources 
+in your client portal. Log InConnect With Us
+Get actionable, objective insight to deliver on your mission-critical  
+priorities. Our expert guidance and tools enable faster, smarter 
+decisions and stronger performance. Contact us to become a client:
+U.S.:  1 855 811 7593  
+International: +44 (0) 3330 607 044
+Become a Client
+Learn more about Gartner for Marketing Leaders  
+gartner.com/en/marketing
+Stay connected to the latest insights
+© 2023 Gartner, Inc. and/or its affiliates. All rights reserved. Gartner is a registered trademark of Gartner, Inc. and its affiliates. This publication may not be reproduced or distributed in any form without Gartner’s prior written 
+permission. It consists of the opinions of Gartner’s research organization, which should not be construed as statements of fact. While the information contained in this publication has been obtained from sources believed to 
+be reliable, Gartner disclaims all warranties as to the accuracy, completeness or adequacy of such information. Although Gartner research may address legal and financial issues, Gartner does not provide legal or investment 
+advice and its research should not be construed or used as such. Your access and use of this publication are governed by  Gartner’s Usage Policy . Gartner prides itself on its reputation for independence and objectivity. Its 
+research is produced independently by its research organization without input or influence from any third party. For further information, see “ Guiding Principles on Independence and Objectivity. ” CM_GBS_2270884

@@ -1,0 +1,160 @@
+© 2023 Gartner, Inc. and/or its affiliates. All rights reserved. Gartner is a registered trademark of Gartner, Inc. or its affil iates. This presentation, including all supporting materials, 
+is proprietary to Gartner, Inc. and/or its affiliates and is for the sole internal use of the intended recipients. Because th is presentation may contain information that is confidential, 
+proprietary or otherwise legally protected, it may not be further copied, distributed or publicly displayed without the expre ss written permission of Gartner, Inc. or its affiliates.
+GenAI Planning
+Workbook
+4 steps to implementing 
+generative AI inyour enterpriseRESTRICTED DISTRIBUTION
+2 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Generative AI (GenAI) is suddenly on everyone’s 
+radar, but some organizations already have extensive experience and success in deploying AI techniques across multiple business units and processes. 
+Gartner research shows these mature AI 
+organizations represent just 10% of those currently experimenting with AI, but would-be GenAI adopters can learn a lot from them. 
+Use this planning workbook to focus 
+conversations among business and IT leaders around best practices that help you focus on GenAI initiatives that are both valuable and feasible. To get there, take a strategic approach.Focus GenAI conversations on real business 
+problems and achievable use cases
+RESTRICTED DISTRIBUTION
+3 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Actions related to the 4 pillars of GenAI strategy
+Establish your vision for GenAI
+How GenAI will drive your 
+enterprise goals, what benefits you expect and how you will measure success.Remove barriers to capturing value
+What organizational barriers 
+could hinder your success and what actions are needed to remove those hurdles.
+Identify the risks
+What regulatory, reputational, 
+competency, technology and other risks you may need to assess and mitigate.Prioritize adoption
+Which are the best GenAI 
+initiatives to pursue, based on their value and their feasibility —
+as agreed to by both IT and business leaders.
+RESTRICTED DISTRIBUTION
+4 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Risks
+•Regulatory 
+•Reputational
+•CompetencyVision
+•Goals
+•Benefits
+•Success metricsValue
+•Business impact
+•Change 
+management
+•People and skillsAdoption
+•Use cases and 
+value maps 
+•AI decision 
+framework
+•Decision 
+governanceKey components of your AI strategy frameworkRESTRICTED DISTRIBUTION
+5 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Don’t underestimate the need to level-set with 
+stakeholders from the outset:
+1.Res
+tate the corporate vision of your 
+enterprise: “……………………………………………” 
+2.S
+tate how AI will support that vision: 
+–e.
+g., AI will enable better business value 
+in these areas in these ways
+–e.
+g., We will use AI to achieve fairer 
+outcomesFirst, state clearly how GenAI objectives 
+link to enterprise goals
+Stating AI goals clearly is key 
+to encouraging and enabling organizationwide fluency and 
+adoption of AI. It will also help you to fund the right use cases —
+ones that will deliver clear return on investment and lead to further innovation.AI VISIONRESTRICTED DISTRIBUTION
+6 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Ask why you are pursuing GenAI and what value you expect it to bring based on your major business goals, how you will 
+measure success and what use cases could maximize that value (you will verify the value/feasibility of those use cases in the“adoption” phase).
+Goal How AI/GenAI Enables That GoalUse Cases to Pursue 
+(Illustrative Examples)
+Topline revenue growth Business model change inspired or supported by AI creates 
+net-new business initiatives.Behavioral analytics, contract life cycle management
+Improved customer satisfactionGreater ability to conduct customer behavior analytics increases proximity to the customer.Virtual customer assistants
+Reduced costs Task and process automation reduce operational costs. Risk/fraud mitigation, asset performance management
+Staff augmentation andincreased productivity Augmented AI and automation increase productivity by shifting people away from managing mundane tasks.Knowledge management and training, content generation, code generation
+Improved service availabilityData -driven predictive analytics tools advance digital services. Predictive maintenance, proactive threat managementThen, specify how GenAI will drive business goals
+IllustrativeAI VISIONRESTRICTED DISTRIBUTION
+7 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Also, set AI success metrics 
+To measure the value of individual use cases, you’ll need success metrics that tie into your overarching business 
+goal. Select metrics like those listed here that relate to specific key success factors and provide a timeframe in which you expect to demonstrate value.
+Business Goal Appropriate Success Metric Completion
+Improved customer satisfaction Customer satisfaction index/Net Promoter Score Date
+Topline revenue growth Revenue growth for product lines Date
+New business initiatives Number of new business initiatives Date
+Task or process automation Reduction in processing time Date
+Reduce costs Reduction in CapE x and OpEx Date
+Staff augmentation and i ncreased 
+productivity Workforce productivity metrics, such as time spent on value- added tasks Date
+Improved service availability % of annual availability DateAI VISIONRESTRICTED DISTRIBUTION
+8 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Having identified potential benefits to the business (in the vision stage), surface any strategic concerns that could hinder your 
+ability to capture value in the way you have identified it. Also, identify solutions, responsibilities and actions as illustr ated here. Remove organizational barriers to capturing value
+Strategic Concern Solution Executive(s) 
+ResponsibleWhat the Organization Will Do 
+Projects aligned to corporate 
+goals are more likely to succeed and mature.Document goals and require a portfolio approach to AI opportunity.CIO •Indicate which corporate goals should be addressed.
+•Size portfolio (five or fewer pilots and minimum viable products).
+Metrics deliver credibility for project maturity.Select metrics as proxies for financial and risk results or direct such measurements.CFO •Collaborate with your chief data and analytics officer to discuss what will be most measurable and educational for future projects.
+Formal structures of accountability bolster AI results.Help complete a RACI (responsible, accountable, consulted and informed) matrix for AI strategy development and execution.Chief data (and analytics) officers, CIO•Draft a RACI matrix for all aspects of AI project and product development.AI VALUERESTRICTED DISTRIBUTION
+9 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Key Types 
+of RisksRisk CategoryExecutive(s)ResponsibleAction Plan
+Regulatory
+Adhere to 
+regulations CIO/CTO andCROUnderstand the continuously evolving regulatory landscape. Enable collaboration between AI practitioners and legal, risk and security members to evaluate use case feasibility and acceptable risks.Create an AI governance office, which serves an independent audit committee to review results.
+Reputational Secure and safeCIO/CTO Acknowledge the threats against AI posed by both malicious and benign actors in your organization.Bolster security across enterprise security controls, data integrity and AI model monitoring.Leverage external resources to help secure your AI systems.
+Competencies Technical debt CIO/CTO Align AI strategy with cloud strategy and explore cloud as foundation for AI.Create a technology roadmap to modernize data and analytics infrastructures to align with AI goals and timeline.Create a startup accelerator program to reduce technical debt and innovate incrementally.Assess and mitigate risks
+Any type of AI comes with a range of risks, including those illustrated here. GenAI carries specific new types of risks, such 
+as hallucinations and biased and inaccurate results. Log all such major risks so you can properly assess and mitigate each.AI RISKSRESTRICTED DISTRIBUTION
+10 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Rate the feasibility and value of each project using simple criteria like those shown here, and actually score each so you can rank projects 
+against one another. Typically, executives are keen to pursue initiatives where value is high (and risk also tends to be high, i.e., feasibility is 
+low) but avoid projects where feasibility is so low that it makes the project impossible. A use case with a seemingly outstanding cont ribution 
+to business value and strong feasibility is either a breakthrough, or the market is missing a great opportunity.Prioritize projects that are valuable and feasible
+TECHNICAL FEASIBILITY FACTORS BUSINESS VALUE FACTORS
+ProjectAccess to 
+Labeled DataArchitecture and Technology FeasibilityHave Skills/People to ExecuteAligns With Our Mission andValuesSponsor SupportKPIsMeasurableOverall Business Value (Scale of 1 to 10; 10 Being High)Overall Technical Feasibility (Scale of 1 to 10; 10 Being High)Ranking
+Name Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No 
+Name Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No 
+Name Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No 
+Name Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No 
+Name Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No Yes/Maybe/No AI ADOPTIONRESTRICTED DISTRIBUTION
+11 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Actionable, objective insight
+Position your IT organization for success. Explore these additional 
+complimentary resources and tools for IT leaders:
+Already a client?
+Get access to even more resources in your client portal. Log InResource Center
+The Top Generative AI 
+Questions Answered by Gartner Experts
+Access benefits, applications 
+and risks of generative AI.
+Learn MoreWebinar
+Beyond the Hype: The 
+Practical Applications & Use Cases of Generative AI
+Explore the future of 
+generative AI and understand the many use cases.
+Watch noweBook
+Augmenting Decisions 
+With Artificial Intelligence
+Decision automation can drive 
+competitive advantage. Know when and how to use it.
+Download NoweBook
+Essential Guide to 
+Data Fabric
+Find out why data fabric belongs 
+in your data management thinking.
+Download NowRESTRICTED DISTRIBUTION
+12 © 2023 Gartner, Inc. and/or its affiliates. All rights reserved.
+Connect With Us
+Get actionable, objective insight to deliver on your most critical priorities. Our expert guidance and 
+tools enable faster, smarter decisions and stronger performance. Contact us to become a client:
+U.S.: 855 811 7593International: +44 (0) 3330 607 044
+Become a Client
+Learn more about Gartner for IT Leaders
+gartner.com/en/information -technology
+Stay connected to the latest insights

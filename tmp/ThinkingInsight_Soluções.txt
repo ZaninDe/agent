@@ -1,0 +1,303 @@
+SOLUÇÕES  Tudo  começa  por um objetivo . Em nossa  metodologia  de trabalho , indicamos  no Passo  02 a necessidade  em definir  ferramentas  e 
+procedimentos  para  extração  de dados  que gerem  inteligência , se recorda?  Agora,  você conhecerá  um pouco  
+sobre  as possibilidades  e imagina -las aplicadas  em seu negócio . O objetivo  desta  apresentação : 
+Caso  queira  entender  melhor  sobre  nossa  metodologia  de 
+trabalho,  clique  na imagem  ao lado. 
+O nosso  diferencial  está na maneira  de como  enxergamos  os dados  aplicados  em negócios  e projetos  pontuais . Por isso, nos 
+importamos  em transformar  em inteligência  a planilha  de excel  da área de vendas  da empresa,  conhecer  o perfil  das pessoas  nas 
+redes  sociais  e/ou  fazer  testes  A/B em e-commerces . Entendendo  cada  entrega : 
+Análise de qualidade cadastral  Banco de Dados  
+Análise exploratória de dados  
+Segmentação  
+Análise de clusters  
+Análise de safra  
+Análise de promoções  Monitoramento  Social Intelligence  
+Métricas  
+Etnografia digital  
+Social CRM  
+Gestão de Crise  
+Geomarketing   Testes A/B  Web Analytics  
+Testes Multivariáveis  
+Testes de UX (Usabilidade)  Banco  de Dados  Acreditamos  que o mundo  e os negócios  caminham  para a integração  de dados  que façam  com que pessoas  tenham  uma 
+experiência  única  enquanto  estiverem  testando,  comprando  ou tendo  qualquer  outro  tipo contato  com a marca . Deste  modo,  
+acreditamos  na importância  das entregas  de Database  marketing  para criação  de ações,  campanhas  ou insights  de negócio . 1. Banco  de Dados  
+Processos técnicos  
+Processos de avanço  _ Desenvolvimento  de interfaces  e aplicações  com extratores  de dados  dos clientes ; 
+_ Desenvolvimento  de datamart  com atualizações  frequentes  diante  da necessidade  do projeto ; 
+_ Análise  360º de toda a base  de clientes  contidos  no banco  de dados ; 
+_ Desenvolvimento  de modelos  para  construção  de ações  diante  dos objetivos  de negócio  
+estabelecidos . Além  de termos  nossa  metodologia  de trabalho  com banco  de dados,  também  usamos  formas  seguras  de manipular  e tratar  todos  
+os dados  utilizados  para geração  de conhecimento  ao projeto . Como  é nosso  fluxo  de trabalho?  
+Aplicações  
+ Extratores  Clientes  
+SAC 
+Leads  
+Ações de Promoção  Recepção  
+Tratamento  
+Consolidação  
+Datamart , no ambiente da Thinking  Insight.  Ambiente do cliente  Abaixo,  é possível  visualizar  quais  tipos  de entregas  podem  ser realizadas  com base na análise  do banco  de dados  do cliente . O que é possível  extrair  e consolidar  para  análise?  
+Análise da 
+qualidade dos 
+cadastros  Análise 
+exploratória 
+dos dados  Segmentação e 
+análise de 
+clusters  
+Modelos de churn  Forecast de vendas  Análise de safra  Análise de promoções  
+Análises de propensão à 
+compra  Basket  Analysis  Clusters por ticket médio  
+Entrega de conhecimento com base em dados transacionais  Uma nova empresa  de tecnologia  brasileira  que acredita  no poder  da análise  de dados  para conquistar  clientes  e mantê -los fiéis. 
+Essa é a Evolob  e estes  foram  os resultados  quando  ela acreditou  em nosso  trabalho : Como fica na prática?  
+Análise da 
+qualidade dos 
+cadastros  Análise 
+exploratória dos 
+dados  Segmentação e 
+análise de clusters  O Desafio:  
+Aumentar as vendas dos principais produtos de tecnologia oferecidos pela empresa.  
+A Solução:  
+Tomando conhecimento da base de dados existente para criação de modelos de propensão à compra, 
+monitoramento de mídias sociais sobre comportamentos em tecnologia, análise de métricas nas 
+redes sociais e testes de usabilidade no site, conseguimos definir a estratégia de comunicação em 
+cada rede social, construir um site de fácil navegação e campanhas de email  marketing com 
+segmentações inteligentes.  
+Resultados:  
+•Aumento de 23% na média de visitas mensais ao site, comparando o último semestre de 2014 e o primeiro 
+semestre de 2015.  
+•Aumento de 12% no número de orçamentos realizados pelo site, comparando o último semestre de 2014 e o 
+primeiro semestre de 2015.  
+•Aumento de 18% na média mensal de faturamento da empresa, comparando o último semestre de 2014 e o 
+primeiro semestre de 2015 . Social  Intelligence  DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Listening  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  Quando se quer saber como que as pessoas 
+elogiam/criticam os produtos de uma empresa;  
+Quando se quer entender como que as pessoas 
+elogiam/criticam os pontos de contato de uma empresa;  
+1. Penetração de marca em cada rede social estudada;  
+2. Análise de concorrência por share  de menções e polaridade por 
+rede social;  
+3. Análise de menções por atores, categorias e subcategorias;  
+4. Volume de menções distribuídos por produto e polaridade;  Análise de sentimento significa 
+compreender qual é a percepção que as 
+pessoas possuem em relação ao produto 
+e/ou serviço da empresa e seus 
+concorrentes, durante um período 
+selecionado bem como as redes sociais 
+que deseja -se monitorar.  Entendemos  que o trabalho  de listening  não se restringe  somente  ao momento  de analisar  toda a base  de classificação,  mas sim 
+compreender  objetivos  e desenvolver  documentos  táticos  operacionais  como  plano  de buscas  e de classificação . Como  fica na prática?  
+Definir objetivos e 
+indicadores.  Definir buscas e 
+plano de 
+classificação  Monitorar.  
+A agência Colony  é nossa cliente e entregamos 
+para eles projetos focados em listening  para 
+grandes marcas dentro do setor de telecom.  DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Análise de rede  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Para compreender quais são os atores mais influentes 
+na rede quando falam sobre a empresa em questão;  
+•Para compreender quais foram os temas que mais 
+provocaram repercussão na rede quando se mencionou 
+a empresa em questão.  
+ 
+1. Lista de perfis com maiores índices de influência na rede;  
+2. Volume de menções distribuídos por atores (masculino, feminino, 
+influente etc); 
+3. Distribuição de menções de acordo com os temas falados pelos 
+usuários monitorados;  Analisar o universo da marca 
+considerando o uso de SNA (Social 
+Network Analysis ) é uma prática para 
+compreender quais são os atores mais 
+influentes na rede, bem como ela se 
+forma perante a um tema específico, de 
+acordo com a rede social utilizada.  Com a inteligência aplicada desde a fase de criação das buscas, conseguimos coletar mais de 16 mil usuários únicos, separados  por 
+clusters, considerando dados de influência na rede ao fazermos o uso de SNA (Systems Networking Architecture ) para a entrega de 
+dados consolidados por meio de ferramentas de B.I. de DBM.  Como  fica na prática?  
+Definir objetivos e 
+indicadores.  Estruturar plano 
+de buscas e 
+árvore de 
+classificação.  Visualizar SNAs  e 
+construir análises 
+estratégicas.  
+Exemplo de projeto disponível para 
+download.  
+A W2T, empresa de consultoria em marketing, nos 
+convidou para fazer um projeto dos primeiros 
+projetos focados em Social Intelligence  no mercado 
+odontológico brasileiro.  DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Etnografia Digital  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Quando se deseja entender traços comportamentais de 
+um grupo de pessoas com o objetivo de gerar insights 
+para estratégia de comunicação;  
+•Quando se deseja obter inteligência de dados das redes 
+sociais que consigam complementar outros modelos de 
+pesquisas encomendadas pelo marketing.  
+ 
+ 
+1. Insights para estratégia de marketing;  
+2. Insights para área de produtos/novos negócios;  
+3. Estudo complementar a outras modalidades de pesquisas  Análise de grupos de pessoas que 
+teoricamente possuem interesses 
+similares para compreender quais são os 
+níveis de influência delas, bem como 
+quais são seus interesses e demais 
+questões comportamentais que 
+procurem responder perguntas e gerar 
+respostas que correspondam ao objetivo 
+da pesquisa.  Neste  ano lançamos  o projeto  Pedalando  na Cidade,  que contou  com aplicação  de um formulário  de pesquisa,  associado  a dados  de 
+monitoramento  e métricas  das mídias  sociais . As análises  presentes  neste  estudo  dialogaram  claramente  com pesquisas  
+divulgadas  por grandes  organizações  e institutos  como  CicloCidade  e Ibope  Inteligência . Além  disso,  iniciativas  promovidas  por 
+empresas  de tecnologia/inovação  puderam  validar  a grande  parte  das tendências  apontadas  no projeto . Como  fica na prática?  
+Definir problemas 
+centrais  Estruturar 
+questionário de 
+pesquisa com 
+lógica de 
+perguntas.  Aplicar e fazer 
+gestão com 
+estímulos de 
+conteúdo para 
+adesão.  
+Clique na imagem para obter o estudo.  
+DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Consumer  Insights  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Quando se quer entender a forma com 
+que as pessoas expressam seus desejos 
+de compra de produto e/ou serviço;  
+•Quando se quer entender em quais dias, 
+horários e redes sociais estes eventos 
+ocorrem;  
+•Quando se quer estabelecer indicadores 
+estratégicos para acompanhamento 
+periódico.  
+1. Volume de menções por desejo (compra, necessidade, troca etc) 
+2. Volume de menções distribuídos por atores (masculino, feminino, 
+influente etc); 
+3. Índices como % I.D.C (Índice de Desejo de Compra) em relação a 
+produtos específicos;  Este tipo de solução tem como objetivo 
+analisar um grande volume de dados 
+(social big data) em relação ao 
+comportamento de consumo ou qualquer 
+atitude que esteja relacionada a forma 
+com que pessoas postam sobre temas 
+diversos nas redes sociais.  Um dos primeiros  projetos  que a Thinking  Insight  lançou  no mercado  foi em parceria  com a ferramenta  de monitoramento  de 
+mídias  sociais  Scup . Neste  caso,  estudamos  o comportamento  de consumo  sobre  o conceito  de social  big data ao fazermos  o 
+tratamento  de bases  de dados  contendo  mais de 400 mil menções   por meio de ferramentas  de Business  Intelligence . Como  fica na prática?  
+Definir objetivos.  Definir buscas.  Extrair, modelar e 
+consolidar dados.  
+Clique na imagem para obter o estudo.  
+DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Geolocalização  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Quando se quer saber quem são as pessoas 
+que frequentam o local;  
+•Quando se quer compreender a relação entre 
+usuário, empresa e rede social;  
+•Quando se quer compreender questões 
+comportamentais de público frequentador;  
+•Quando se quer entender quais ações foram 
+mais expostas as redes sociais em 
+determinado evento;  
+1. Recomendações para comunicação offline ; 
+2. Recomendações para estratégia de mídia offline ; 
+3. Recomendações de conteúdo para canais oficias;  
+4. Recomendações para elaboração de campanhas  
+5. Recomendações para real time marketing;  
+6. Dados de comportamento para incremento de base de CRM;  Solução dedicada a compreender 
+predominância de público frequentador 
+de lojas físicas e/ou eventos pontuais 
+com o objetivo de extrair informações de 
+comportamento e consumo de usuários 
+para realização de campanhas mais 
+inteligentes.  Esta é uma das soluções  mais  interessantes  para se trabalhar  pois, de acordo  com a metodologia  estabelecida,  consegue -se 
+coletar  dados  correspondentes  aos usuários  que postaram  nas redes  sociais,  tratar  e criar  análises  para complementar  base  de 
+CRM que resultem  em campanhas  mais inteligentes  aos consumidores . Como  fica na prática?  
+Definir objetivos.  Definir raios.  Extrair, modelar e 
+consolidar dados.  
+Clique na imagem para obter o estudo.  
+DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Métricas  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Quando se quer estudar as principais métricas das redes 
+sociais da marca com o objetivo de revisar estratégia de 
+conteúdo;  
+•Quando se quer construir benchmark para compreender 
+a forma com que concorrentes usam suas redes sociais 
+e quais resultados conquistam.  
+1. Recomendações para estratégia de conteúdo com base em métricas 
+de alcance, impressões e engajamento;  
+2. Recomendações para estratégia de atuação e revisão de canais 
+primários, secundários e periféricos;  
+3. Recomendações sobre ações e conteúdos gerados pela 
+concorrência e que podem ser usados a favor.  Este tipo de estudo (ou relatório) busca 
+compreender a forma com que as 
+pessoas se relacionam com os conteúdos 
+postados pela empresa nas redes sociais 
+e, mais do que isso, compreender 
+questões sobre crescimento de base 
+(audiência), alcance, impressões e 
+engajamento.  Este é o exemplo  de um relatório  semanal  que tinha  como  objetivo  mostrar  as categorias  de postagens  com maior  taxa média  de 
+engajamento,  média  de alcance  e outras  métricas  por dia da semana  e período . Com isso, a estratégia  de conteúdo  sempre  pode  
+ser revista  para fazer  com que os resultados  fossem  atingidos  ao decorrer  do projeto . Como  fica na prática?  
+Definir objetivos.  Definir 
+Indicadores.  Consultar, coletar 
+e consolidar.  
+DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Social CRM  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Quando se quer promover o diálogo/atendimento 
+com consumidores nas redes sociais ou em 
+canais específicos (Reclame Aqui, por exemplo);;  
+•Quando se quer extrair inteligência diante de 
+necessidades apresentadas pelas pessoas dentro 
+do ambiente digital.  
+•Quando se quer inserir dados das redes sociais 
+dentro de bases de CRM  
+1. Recomendações focadas em melhoria de produtos e serviços;  
+2. Recomendações sobre escopo de trabalho necessário para atender 
+demanda existente nos canais de atendimento;  
+3. Relatórios integrados com dados de CRM da empresa;  Com o objetivo de gerar inteligência 
+diante do relacionamento com 
+consumidores da marca, que estão em 
+busca do esclarecimento de alguma 
+dúvida ou realizar a solicitação de algum 
+produto e/ou serviço, também 
+realizamos trabalhos de SAC 2.0, 
+participando desde a fase de setup, com 
+elaboração de manual de tom de voz, guia 
+de interações etc, até a entrega de 
+dashboards  diários e semanais com 
+todos os indicadores atualizados com 
+base nos atendimentos realizados.  No primeiro  semestre  deste  ano realizamos  um trabalho  para a Agência  Ideal  que tinha  como  objetivo  fazer  o trabalho  de Social  
+CRM para o lançamento  de um produto  da empresa  Alelo,  construir  dashboards  para consultas  diárias  e entrega  de relatórios  de 
+resultados  e recomendações  para futuras  campanhas . Como  fica na prática?  
+Definir objetivos.  Definir 
+Indicadores.  Consultar, coletar 
+e consolidar.  Para  este projeto  foi importante  observar  a 
+disciplina  perante  a qualidade  da entrega  e, mais  
+do que isso, a agilidade  que as tarefas  deviam  ser 
+feitas  para que o marketing  da empresa  Alelo  
+pudesse  tomar  decisões  rápidas  durante  a fase de 
+implementação  e divulgação  de um novo  serviço . 
+Web Analytics  DETALHAMENTO DAS NOSSAS SOLUÇÕES  
+QUANDO USAR?  Web Analytics  
+QUAIS CONHECIMENTOS SERÃO CONQUISTADOS?  
+(destaque aos principais)  •Quando se quer entender as dificuldades dos 
+consumidores no uso de um ponto de contato da 
+empresa (usabilidade);  
+•Quando se quer compreender quais são as 
+principais críticas de navegação dentro das fases 
+de compra de produto no e -commerce;  
+•Quando se quer entender o impacto do 
+investimento em mídia no site e nas vendas.  
+1. Estudo de comportamento de navegação no site e/ou e -commerce 
+com recomendações de o que deve ser corrigido;  Com esta solução buscamos 
+compreender como que o usuário navega 
+pelo e-commerce da marca e em quais 
+momentos, por exemplo, existem as 
+maiores taxas de abandono.  Entre  em contato  para agendarmos  um papo =) 
+contato@thinkinginsight .com.br 

@@ -1,0 +1,48 @@
+                                                                                                   Executive Summary                          
+© 2009 Demand Metric Research Corporation  
+  
+Optimizing Websites with Heat Map Analytics  
+ 
+In the largest web browsing study ever conducted, University of Hamburg 
+researchers leveraged 'Heat Mapping'  w e b  a n a l y t i c s  s o f t w a r e  t o  r ecord and visualize 
+user click -activity to identify patterns of web usage. This technology is now available 
+a t  a  v e r y  r e a s o n a b l e  c o s t  f o r  m i d -sized enterprises and complements traditional web 
+analytic software by helping marketers improve website usability  & architecture.  
+ 
+ 
+What are the Benefits of Heat Maps?  
+ 
+• Visualize Data  - many organizations have the ability to track website visitor 
+behavior, but few actually utilize this information to make improvements. 
+Heat Maps, which visualize web analytic data, are m uch more user -friendly.  
+ 
+• Increase Conversions  - organizations wishing to generate leads or sales 
+can identify where users are falling -o f f  a n d  m a k e  t w e a k s  t o  t h e i r  w e b  p a g e s  
+to improve usability and ease of navigation, thus increasing conversion rates.  
+ 
+• No Technical Skills Required  - i m p l e m e n t i n g  h e a t  m a p s  i s  v e r y  s i m p l e  a n d  
+c a n  b e  d o n e  w i t h o u t  r e q u i r i n g  a n y  d e e p  t e c h n i c a l  s k i l l s .  G e n e r a l l y ,  a  s m a l l  
+piece of code can be pasted into the HTML of the pages you want to analyze.  
+ 
+• Instant Insights  - heat maps show  you which components of your website 
+a r e  m o s t  p o p u l a r  a m o n g  v i s i t o r s ,  a l l o w i n g  y o u  t o  f o c u s  o n  i t e m s  t h a t  a r e  
+adding value, or remove items that are not being viewed or downloaded.  
+ 
+• Cost-Effective  - s o f t w a r e  l i c e n s e s  r a n g e  f r o m  F r e e  t o  a b o u t  $ 1 0 0 / m o n t h ,  
+depending on the number websites and amount of clicks you need to record.  
+ 
+ 
+Action Plan:  
+ 
+1. Discuss with Webmaster  - schedule a meeting with your webmaster to 
+discuss web analytics and the opportunities provided by heat mapping.  
+ 
+2. Evaluate Vendors  - review vendo rs such as Clickdensity , Clicktale , or Crazy 
+Egg, who all provide web analytic heat mapping technology services. Clicktale 
+even prov ides individual movies of user click and mouse activity.  
+ 
+3. Paste HTML Code  - a d d  t h e  c o d e  t o  t h e  b o t t o m  o f  e a c h  p a g e  y o u  w o u l d  l i k e  
+to record activity. Simply adding the code will activate your hosted service.  
+ 
+4. View Results  - login to your vendor service to  view heat maps as required.  
+ 

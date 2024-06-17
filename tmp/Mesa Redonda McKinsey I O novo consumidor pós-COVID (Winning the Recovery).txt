@@ -1,0 +1,544 @@
+Copyright @ 2020 McKinsey & Company . Allrights reserved .
+Anyuse ofthismaterial without specific permission ofMcKinsey & Company
+isstrictly prohibitedWinning theRecovery
+O novo consumidor 
+pós COVID 
+DOCUMENT INTENDED TO PROVIDE INSIGHT AND BEST 
+PRACTICES RATHER THAN SPECIFIC CLIENT ADVICEMay, 2020
+Fernanda Hoefel e Marcelo TripoliMcKinsey & Company 2•COVID -19 is, first and foremost, a major humanitarian challenge. Thousands of health 
+professionals are battling the virus, putting their own lives at risk. Overstretched health systems 
+will need time and help to return to a semblance of normalcy.
+•Solving the humanitarian challenge is, of course, priority #1. Much remains to be done 
+globally to respond and recover, from counting the humanitarian costs of the virus, to supporting 
+the victims and families, to finding a vaccine.
+•This document is meant to help with a narrower goal: understand changes in consumer 
+behavior in Brazil during the current COVID -19 situation. In addition to the humanitarian 
+challenge, there are implications for the wide economy, businesses and employment. 
+Source: McKinsey & CompanyMcKinsey & Company 3AgendaIntrodução: impacto 
+do COVID -1901
+“Winning therecovery ”02
+O que esperar do novo 
+consumidor? 03
+McKinsey & Company 4O impacto da crise COVID -19 tem sido observado em todos os 
+setores, em diferentes intensidades
+Fonte: Corporate Performance Analytics , S&CF Insights, S&P ATUALIZADO EM 24 ABRIL, 2020
+1. Data set includes global top 3000 companies bymarket capin 2019, excluding some subsidiaries , holding companies and companies who have delisted since5
+-5
+-10
+-15
+-30
+-35
+-40-20
+-45-250PharmaceuticalsRetailHealthcare Supplies
+& Distribution
+Oil& GasAir & TravelCommercial
+Aerospace
+BanksAuto-
+motive & 
+AssemblyMedical 
+TechnologyHealthcare
+Payors
+Electric 
+Power & 
+Natural 
+Gas MediaBusiness Services
+Advanced
+Electronics InsuranceOther Financial ServicesConsumer Durables
+Chemicals & 
+Agriculture
+Basic 
+MaterialsApparel , 
+Fashion, 
+& LuxuryTransport & 
+Infrastructure
+Real EstateConglo -
+meratesHealthcare Facilities & Services
+Logistics & 
+TradingTelecom
+Food & 
+BeveragePersonal & Office GoodsConsumer
+Services
+DefenseHigh TechRetração substancial do PIB é esperada
+Fonte: McKinsey analysis in partnership withOxford Economics(Cenários A1 & A3) Crescimento PIB Real: crise COVID -19, 
+index (2019 Q4 = 100), moeda local
+1.Sazonalidade ajustadaEfetiva 
+resposta da 
+saúde pública, 
+mas retorno 
+do vírusRápido e 
+efetivo 
+controle da 
+disseminação 
+do vírusQueda PIB Real 
+2019 Q4 a 2020 Q2, 
+% variaçãoCrescimento 
+PIB 2020, 
+% variaçãoRetorno a 
+patamar 
+précrise
+-4.9 -2.0 2020 Q4 China¹
+-8.1 -2.5 2020 Q4 EUA
+-6.5 -2.7 2021 Q1 Mundo
+-5.7 -4.4 2021 Q4 China¹
+-11.2 -8.1 2023 Q1 EUA
+-8.4 -6.5 2022 Q3 Mundo-8.8 -3.8 2021 Q1 Brasil
+-11.8 -8.6 2023 Q1 Brasil2019 2020 2021
+2019 2020 2021100
+8090110120
+Q1 Q2 Q2 Q1 Q3Q4Q1Q2Q3Q4 Q3Q4
+8090100110120
+Q3 Q3Q2Q1 Q4Q1Q2 Q4 Q3 Q1Q2 Q4McKinsey & Company 6AgendaIntrodução: impacto 
+do COVID -1901
+“Winning therecovery ”02
+O que esperar do novo 
+consumidor? 03
+McKinsey & Company 72008 2010350
+2014 2005 2012 2006 2007 2009 2011 2016 2013450
+2015 2017050100150250
+200400
+300Resilientes
+Não resilientesS&P500
+Fonte: CPAnalytics ; McKinsey analysisCrescimento Recuperação Pre-crise CriseEmpresas resilientes são as vencedoras: geraram mais 
+valor nas fases de recuperação e de crescimento
+TRS performance1
+1 Calculado como a média da mediana de performance por sub setor dos Resilientes vsNão Resilientes . Inclui 1140 empresas (exclui FIG e REITs )
+2 Empresas outperformers foram definidas como as top quartile em media geométrica de TRS por setorMcKinsey & Company 8O que os resilientes fazem?
+Fonte : McKinsey & CompanyLimpam o balanço e 
+preservam liquidez
+Lançam um warroom para 
+caixa
+Temporariamente 
+desaceleram investimento 
+em CAPEX durante a 
+recessão e são rápidos em 
+reinvestir agressivamente 
+durante a recuperação (90% 
+acima dos retardatários)Tem uma 
+mentalidade de 
+“além da crise”Destravam 
+o balançoPlanejam 
+M&AsAdaptam 
+modelo 
+operacional
+Reestruturam base de 
+custos e aumentam 
+produtividade
+Lançam plano agressivo de 
+recuperação de vendas
+Aumentam a taxa de 
+execução através de 
+disciplina e cadenciaSe transformam 
+rápido
+Realocam recursos para 
+áreas de alto 
+valor/crescimento
+Fazem movimentos 
+decisivos de portfolio
+Conduzem M&A, em 
+alguns casos, para 
+reestruturar a indústria (ex.: 
+mais acordos, acordos 
+maiores)São ágeis para acelerar o 
+processo de tomada de 
+decisão
+Se ajustam às novas 
+necessidades do 
+consumidor, alavancando 
+os canais digitais e ofertas
+Apostam em construir 
+capacidades para melhorar 
+o modelo operacionalProtegem inovação e 
+investimentos críticos de 
+longo -prazo
+Expandem para áreas 
+adjacentes ou de grande 
+crescimento
+Entendem o novo normal e 
+o moldam proativamenteTípica curva
+epidemiológica,
+# casos infectados
+Fechamento Reabertura parcial Novo normal ( pós vacina)3 meses 12-18 meses
+Recuperação parcial do consume
+Recuperação parcial dos canais físicosAbastecimento seletivo
+Consumo reduzido
+Canais remotosNovos padrões de consumo
+Como a agenda digital vai mudar ou avançar durante a recuperação? Incerteza sobre a futura retomada do consumo
+Fonte: McKinsey & CompanyMcKinsey & Company 10Atualmente, a maioria das empresas está respondendo à crise, focando mais no 
+gerenciamento da crise do que na retomada e em reimaginar o “novo normal”Empresas resilientes direcionam esforços para os 3Rs 
+simultaneamente
+Garantir medidas apropriadas 
+de resposta a crise e 
+continuidade da operaçãoGerenciar o período de crise e 
+endereçar oportunidades para 
+uma retomada mais saudável 
+e rentávelReimaginar como será o “novo 
+normal” e definir implicações em 
+como a empresa deveria reinventar 
+e desenhar a estratégia e operação
+Time de resposta à criseTime de planejamento futuroResponderRetornarReimaginar
+Fonte : McKinsey & CompanyMcKinsey & Company 11Agenda01
+02
+03
+Introdução: impacto 
+do COVID -19
+“Winning therecovery ”
+O que esperar do novo 
+consumidor? McKinsey & Company 12O Brasil está atualmente “navegando na tempestade”
+Fonte: McKinsey analysis , in partnership withOxford EconomicsFechamento de aglomerações e 
+serviços de alimentaçãoMedidas 
+regulatóriasProteção a vidas
+Proteção a subsistênciaInfecções
+Impacto econômico
+-8 a -13% 
+choque 
+econômico
+Mudanças no 
+consumidorEstocagem de produtos 
+industrializados
+Início da migração para onlineFechamento de varejo não 
+essencial; medidas de 
+isolamento social
+Demanda por frescos e 
+ingredientes, e também higiene
+Grande mudança para digital 
+em alimentos, se disponível
+Somente e -commerce para não 
+alimentosRelaxamento escalonado do 
+distanciamento por grupo de 
+risco, e reabertura do varejo
+Lower spending , more saving
+Cautions return toretail with
+high hygiene expectations
+Continued higher online 
+orderingReabertura completa com possível 
+risco de retomada de medidas 
+caso vírus ocorra novamente
+Novo normal se estabeleceSaindo da 
+tempestadePreparação para 
+tempestadeNavegando na 
+tempestadeGerenciando o 
+“novo normal”4 horizontesResponder Retornar ReimaginarMcKinsey & Company 13A crise está afetando severamente a  
+vida dos Brasileiros
+Fonte : McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046; sampled and weighted to match Brazil gen pop 18+ yearspessimista ou 
+inseguro com 
+relação a economia~80%
+renda reduzida~50%medo de perder 
+o emprego~40%
+cortando 
+gastos~70%
+McKinsey & Company 142521 20 2024 23Groceries
+1-1 0 1 27
+Personal -care products
+-72-70-72
+-79-74-69
+week 3 week 1 week 5 week 4 week 2 week 6Apparel-62-64-57 -58 -59-46
+Skincare & make -up
+Abastecimento
+préisolamentoTendência positiva de 
+retomada do consumo-7 -9-5
+-154 3
+Non-food child productsNo entanto, as 
+últimas 
+semanas 
+apresentaram 
+tendência de 
+melhora
+Fonte : McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046; sampled and weighted to match Brazil gen pop 18+ yearsMcKinsey & Company 15100% 125% 79% 39%Anterior aoCOVID  Pre ano novo Chines Pico do COVID Pós picoConsumo médio diário
+100%= consumo médio diário em dez/19
+050100150200250
+12/01 12/08 12/15 12/22 03/08 12/29 01/05 01/12 02/09 01/19 03/01 01/26 03/15 02/02 03/22 02/16 02/23 03/29 04/05
+Primeiro caso 
+confirmado em WuhanMenor número  de 
+contaminação reportado1Ano novo Lockdown  em Wuhan
+Ano novo Chines%
+Padrão de consumo futuro ainda é difícil de prever
+Fonte: MIYA payment data engine, Mc Kinsey analysis1. On March 8th, 21 provinces of China announced to lower the epidemic response level, which involves over 70% population of thecountry.McKinsey & Company 16Maiores preocupações relacionadas ao COVID -191
+% dos respondentes muito/ extremamente preocupados
+Não ser capaz de cumprir com minhas despesasCuidar da minha família
+79%
+Minha saúde físicaDisseminação do vírus
+55%Saúde pública em geral
+A economia do BrasilMinha segurança e de minha família
+44%Não saber quanto tempo vai durar
+Saúde de meus familiares em situações vulneráveis
+Impacto negativo no meu trabalho ou renda
+Impacto negativo no meu negócio
+Não conseguir os suprimentos que preciso 
+Minha saúde mental 
+Impacto nos próximos eventos
+Impacto nos próximos planos de viagem83%
+81%
+79%
+78%
+78%
+57%75%
+66%
+66%
+54%
+46%
+28%Saúde e Segurança
+Economia e Incerteza
+Hábitos SociaisPor que esta 
+crise é 
+diferente das 
+demais?
+1. Q: What concerns you most about the coronavirus (COVID -19) situation? (not a concern; minimally concerned; somewhat concerned; v ery concerned; extremely concerned)
+Fonte: McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046 Sampled and weighted to match Braz il gen pop 18+ yearsMcKinsey & Company 17Mudanças 
+profundas em 
+valores e 
+mentalidades 
+estão definindo 
+novos 
+comportamentos
+Fonte : McKinsey & CompanyMcKinsey & Company 18Novos valores e mentalidades subjacentes 
+estão emergindo durante a crise COVID -19
+Prevenção e 
+planejamento(Re)conexões 
+afetivasConsciência 
+ao consumirPlaneta e 
+sociedade em 
+primeiro lugar
+Fonte: McKinsey & Company M&S COVID -19 response, Box 18 -24
+McKinsey & Company 19Mudanças no comportamento de consumo são 
+esperadas para o “novo normal”
+Digital 
+onipresente
+Consumo 
+repensado
+Aumento da 
+(in)fidelidade
+Casualização 
+e IndulgênciaO novo 
+papel da casa
+Saúde e 
+qualidade de vida
+Consumo 
+seguro
+Sustentabilidade 
+redefinida
+Desvalorização 
+da metr ópolePropósito
+Fonte: McKinsey & Company M&S COVID -19 response
+McKinsey & Company 20Aplicativo TikTok
+Video -chamadas e bate papos para fins pessoais 48%Aplicativos de bem -estar (meditação, equilíbrio)
+Ensino à distância para si ou filhos
+72%Telemedicina para saúde mental ou física
+Video conferência para uso profissional
+Online streaming
+Jogos online20%
+12%
+42%
+26%
+43%
+38%Atividades iniciadas desde o início do COVID -19
+% das respostas
+11%
+4%
+26%
+18%
+N/A
+40%
+46%
+23%8%
+9%
+13%
+24%
+10%
+42%
+26%
+16%
+7%
+2%
+16%
+22%
+7%
+42%
+23%
+15%
+Digital onipresente
+A crise COVID -19 
+acelerou o processo de 
+digitalização do Brasil
+O consumidor brasileiro 
+começa a realizar online 
+atividades que não 
+imaginava antes da crise
+Source: McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046 Sampled and weighted to match Bra zil gen pop 18+ yearsMcKinsey & Company 21
+Digital onipresente
+crescimento de 
+e-commerce em supermercado2X
+dos que usaram digital pela primeira 
+vez ficaram muito satisfeito~85 %
+Potenciais implicaçõesO que estamos vendo nos EUA
+dos que usaram pela primeira vez 
+pretendem continuar usando~75%
+•Go-to-market digital acelerado (e -comm , plataformas, omni , D2C para indústria)
+•Rede de lojas físicas repensada
+•Aceleração do investimento em mídia digital, em especial a mídia de resposta direta/performance
+•Aumento da captação de dados dos consumidores de forma direta ou em parceira (construção de CDP)
+•Não basta estar online, a experiência (UX) deve ser continuamente melhorada
+•Novas oportunidades de negócios –“plataformização ”/ ecossistemas da oferta de serviçosO que estamos vendo no Brasil
+estão fazendo mais compras 
+online durante o COVID -19, 
+apesar do corte de gastos~40%
+pretendem fazer mais compras 
+online pós COVID -19~40%
+pretendem diminuir idas a lojas 
+físicas pós COVID -19~35%McKinsey & Company 22Consumo repensado
+•Sortimento: acessível e indulgente
+•Comunicar com contundência o “vale o que quanto paga” ( value for Money)
+•Novos modelos de negócios (ex. aluguéis, venda de produtos de segunda 
+mão, trocas)
+•Estar atendo ao que está acontecendo no PDV para identificar novos padrões•Expectativa severa de corte de gastos motivada por insegurança financeira 
+acompanhada de reflexão sobre real necessidade de consumo
+•Trade down : na Europa, entre Gen Z e Millenials , ˜50% estão comprando 
+produtos mais baratos do que antes da crise
+•Trade up: indulgência motivando trade upseletivamente
+•Consumidores mais abertos a consumo de segunda mãoO que estamos vendo
+Potenciais implicações
+Fonte: McKinsey & Company M&S COVID -19 responseMcKinsey & Company 23•Foco em consumidores leais
+•Assegurar disponibilidade de produtos em canais chave
+•Explorar conexões afetivas entre marcas e consumidores Aumento da (in)fidelidade
+frequentando 
+novas lojas~25%
+comprando 
+novas marcas30-40%
+Potenciais implicaçõesNo Brasil ...
+planejam não voltar a consumir 
+as marcas anteriores pós crise~20%Na China...
+Fonte: McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046 Sampled and 
+weighted tomatch Brazil genpop 18+ yearscompraram outras marcas 
+durante a crise COVID -19~35%McKinsey & Company 24Consumo seguro
+•Repensar layout  e rotinas em lojas para 
+passar maior sensação de segurança a 
+consumidores
+•Redefinir experiência em loja pensando 
+em experimentação  e relacionamento 
+“sem toque”
+•Para venda direta, repensar modelo à luz 
+da digitalização de consumidores, 
+segurança de saúde e preservação do 
+relacionamento
+•Rotinas de venda remotas, aceleração do 
+B2B digitalPotenciais implicações O que estamos vendo
+•Preocupação com saúde e contaminação deve continuar top of
+mind para consumidores 
+•Máscaras serão parte do new normal e devem afetar uso de 
+algumas categorias (ex. maquiagem)
+Source: McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046 Sampled and weighted to match Bra zil gen pop 18+ yearslimpeza da loja e dos funcionários é mais 
+importante que preços competitivos para a 
+escolha do super / hiper1,8x
+redução de aglomerações e manutenção de 
+políticas de distanciamento social serão mais 
+importantes que localização próxima da residência/ 
+trabalho na escolha de bares e restaurantes 1,7xMcKinsey & Company 25Saúde e qualidade de vida
+•Pensar em como atender essa aspiração por parte de 
+consumidores através de novas ofertas, produtos 
+•Expandir portfolio cirurgicamenteO que estamos vendo (BR)
+Potenciais implicaçõesestão consumindo mais produtos 
+frescos/ não industrializados durante a 
+crise comparativamente a antes~60%
+Consumidores estão buscando fazer 
+alguma atividade física dentro de casa~80%
+Source: McKinsey & Company M&S COVID -19 Brazil Consumer Pulse Survey 04/23 -26/2020 N = 1,046 Sampled and weighted to match Bra zil gen pop 18+ yearsMcKinsey & Company 26
+O novo papel da casa
+•Casa como centro da vida das 
+pessoas por um bom tempo 
+–Família e descanso
+–Entretenimento
+–Socialização
+–Cuidados pessoais
+•Exercício físico
+–Trabalho
+•Consumo fora de casa (OOH) 
+deve cair mesmo depois da 
+quarentena relaxada•Explorar novas ocasiões de 
+consumo
+–DIY de cuidados pessoais
+–Cozinhar em casa (para si, 
+para família)
+–Relaxamento
+•Repensar estratégia de canais 
+para compensar HORECA/ OOH, 
+rebalanceando investimentos e 
+explorando novos canais
+•Arquitetura e layout da casa passa 
+incorporar o espaço de trabalho
+•Conexão de Internet se torna 
+importanteO que estamos vendo Potenciais implicações
+Fonte: McKinsey & Company M&S COVID -19 responseMcKinsey & Company 27Casualização e Indulgência
+•Durante a quarentena, pessoas se acostumaram a usar 
+roupas confortáveis e viram barreiras entre trabalho e 
+casa rompidas
+•Por outro lado, indulgência e cuidado pessoal ganhou 
+importânciaO que estamos vendo
+Potenciais implicações
+•Adaptar sortimento para atender às novas necessidades 
+(para vestuário)
+•Algumas categorias devem sofrer mais que as outras e 
+precisarão se conectar ao novo estilo de consumo
+–Make up:oportunidade para produtos  “ above themask ”
+–Serviços de beleza: surgimento do DIY beauty care
+(coloração de cabelo, cuidado das unhas, depilação, 
+etc) estimulado pelo fechamento de salões 
+–Elevação do self pampering : tratamento de corpo, rosto 
+e cabelos, perfumadores de ambiente, velas, etcImportância dos fatores para escolher de marca
+de vestuário / fashion
+-3
+-3
+-5
+-9
+-3475
+73
+70
+67
+66
+58
+46
+19Estilo que eugosto
+Funcionalidade
+Marca que euconfioComforto -2
+-2
+Tendência / última modaQualidade do material
+-2 Durabilidade
+Praço / promoção2 mais importantes 2 menos importantes
+Fonte: McKinsey & Company M&S COVID -19 Germany and UKMcKinsey & Company 28Sustentabilidade redefinida
+O que estamos vendo
+Potenciais implicações
+•Repensar como sustentabilidade deve ser incorporada à 
+proposta de valor de marcas e negócios
+Fonte: McKinsey & Company M&S COVID -19 Germany and UKAcham mais importante 
+do que antes limitar 
+impactos de mudanças 
+climáticas2/3
+estão fazendo mudanças 
+significativas de estilo de 
+vida para reduzir o impacto 
+no meio ambiente~60%McKinsey & Company 29Propósito
+O que estamos vendo
+Potenciais implicações
+•Marcas mais contundentes dos seus 
+propósitos, gerar ação e tomar partido 
+•Demonstrar e reforçar conexão afetiva 
+com consumidores•As pessoas estão buscando marcas que 
+desempenham um papel adicional ao negócio 
+perante a sociedade
+Fonte: McKinsey & Company M&S COVID -19 responseMcKinsey & Company 30Desvalorização da metrópole
+O que estamos vendo
+Potenciais implicações
+•Repensar  footprint geográfico de rede física, de esforços de 
+marketing  e de esforços de vendas para atender as 
+necessidades do interior•Oportunidade de trabalhar de casa  deve tornar -se concreta 
+mesmo em contexto pós -quarentena
+•Preocupação mais elevada com transmissão do vírus em áreas 
+de maior densidade urbana (metrópoles)
+•Possibilidade de custo de vida menor fora dos grandes centros 
+urbanos
+Fonte: McKinsey & Company M&S COVID -19 responseMcKinsey & Company 31Considerações finais
+Fonte: McKinsey & Company M&S COVID -19 response•Mudanças de comportamento serão substanciais e parte delas devem 
+permanecer pós COVID
+•Agir agora: as empresas resilientes (receita e custo) criam vantagens 
+duradouras
+•Digital & Analytics vão encabeçar as transformações
+•Mais do que antes, marcas devem ter clareza de suas promessas  e 
+propostas de valor (e agir de acordo com elas)

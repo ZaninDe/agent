@@ -1,0 +1,390 @@
+AI for Financial Services 
+Marketing Blueprint
+Sponsored By
+© 2023, Marketing AI Institute, All Rights Reserved.
+Published July 20232  |  AI for Financial Services Marketing Blueprint3  Why Artificial Intelligence Is a Must for Financial Services Marketing and Sales 
+ How to Ensure Compliance When Using AI Tools  3
+4  What Is AI, Really?  
+ 3 Core AI Applications  5
+6  How to Determine the Right AI Use Case for Your Firm 
+ Content   6 
+ Regulation and Brand Compliance  6 
+ Social Media  7
+ Client Prospecting  7
+8  Top Marketing AI Tools for Financial Services 
+11  Why the Future of Your Firm’s Marketing Depends on AI
+ About Marketing AI Institute  11
+ About Drift  11
+ Table of Contents3  |  AI for Financial Services Marketing Blueprint
+Financial services firms offer some of the most sophisticated products and services on the market. They 
+service wildly diverse customers and offer drastically varying solutions to differing problems. Yet most 
+of these firms’ prospective clients are asking the same question:
+Why can’t I buy the way I want to?
+That is, on their terms. By self-educating and talking when they’re ready—which doesn’t necessarily 
+mean always picking up the phone to have a chat with a lender. They want easy-to-navigate resources 
+that get them the answers to their questions quickly and simply, without roping them into a rigid sales 
+process that they’re not ready for. 
+Getting clients what they need, when they need it, in their preferred format demands more digitization, 
+personalization, speed, and ease of use from firms’ online presence and processes. 
+And the numbers back it up. BCG reports that for every $100 billion in assets a bank has, it can achieve 
+as much as $300 million in revenue growth by personalizing its customer interactions. 
+The financial services market as a whole is expected to grow to $33.36 trillion by 2026. Prospective 
+clients have ever-heightening expectations for the buying experience. So it should come as no surprise 
+that digital transformation in terms of artificial intelligence (AI), automation, and simplification of 
+compliance-related processes is table stakes.
+For the volume of tedious work required to make one-to-one personalization a reality, AI is the only 
+way to achieve it at scale. 
+The good news is that you don’t need a degree in data science or machine learning to take advantage 
+of all that AI has to offer, and you don’t need to put your compliance regulations at risk, either. You just 
+need to understand:
+•  What AI is and what it is capable of doing.
+•  What AI use cases are available for financial services marketing, and how to find the use 
+cases that make sense for your firm. 
+•  Which specific AI tools can create real business outcomes for you.
+Keep reading to learn all that AI can safely do for your firm. 
+Why Artificial Intelligence Is a  
+Must for Financial Services  
+Marketing and Sales
+When leveraging AI for marketing, 
+it’s important to remain compliant 
+with FINRA, SOC2, Privacy Shield 
+Certification, SSO, Cloud Security 
+Alliance, Reg BI, PCI, GDPR, and other 
+similar regulations. 
+You likely already vet everything in your 
+tech stack for compliance, and AI should 
+be no different. Consider asking your AI 
+vendors the following questions before 
+you start sharing data with them:•  What are your compliance 
+certifications?
+•  What are the specific requirements that 
+you attest to being non-compliant with, 
+if any?
+•  How are transcribed customer 
+conversations and interactions stored 
+and archived?
+•  How do you guarantee secure logins 
+and role-based access controls for 
+members of my team?
+ •  Do you have a dedicated security team 
+internally who keeps your systems up 
+to date?
+•  Where does my company’s data live 
+once I integrate it with this tool?
+•  Do you have internal security training 
+programs required of your team to 
+maintain compliance?How to Ensure Compliance When Using AI Tools4  |  AI for Financial Services Marketing BlueprintMany firms shudder at the thought of an automated semi-sentient robot trampling compliance law and 
+regulations in the name of better marketing. And they should. When implemented haphazardly, AI can 
+be a risk to privacy and security. Fortunately, that’s not what we’re talking about here when we say “AI.”
+Artificial intelligence is a category of technology, not a single tool. It represents a broad suite of tools 
+that leverage smart machines in different ways.
+What does it mean for a machine to be smart? 
+It means that AI uses machine learning to determine its own pathways toward achieving an overall goal 
+(e.g. drive more sales). Machine learning requires human influence. 
+First, humans train the machine by showing it data and teaching it to recognize patterns in that data. 
+Using those patterns, the machine learns how to achieve the goals programmed into it. After a certain 
+period of time, the machine starts to recognize those patterns, achieve its goals without human 
+influence, and even iterate on its performance based on feedback.
+To illustrate what we mean, let’s compare how AI software would handle online support cases 
+compared to the traditional software you may use today. 
+Imagine you want to start offering an option for your prospects and customers to get their questions 
+answered online versus only over the phone. You’d probably take the following steps: 
+1. Manually create a Contact Us web page and form on your website where site visitors can 
+submit their requests.
+2. Wait for the questions to come in, and then manually route those inquiries to the 
+appropriate person on your team who will follow up in an email. 
+3. Maybe you add a live chat function to your website and staff your team with live support 
+agents. Your agents then manually answer each question as they come in.
+There are probably a number of tools in your tech stack that would help you with this process, but it’s 
+still not very sophisticated. Every step of the way, you have to have a human at their computer giving 
+the software instructions on what to do. It’s tedious, and it’s inefficient.
+What if you added AI to your tech stack?
+AI-powered marketing technology would:
+1. Instantly recognize how a person landed on your site as well as their previous interactions 
+with your firm to send a personalized greeting.
+2. Gather initial information about the individual and their question, and ask for follow up 
+details as relevant. 
+3. Pre-populate known information, such as email addresses, from your contact management 
+system into questions and responses.
+4. Automatically answer simple support questions.
+5. Route the individual to the most appropriate relationship manager along with the context 
+of the inquiry for more complex questions.
+6. Schedule meetings for relationship managers if they are unable to chat live.  
+What Is AI, Really?  5  |  AI for Financial Services Marketing Blueprint
+And the best part? AI learns with every interaction it has on your site, so it gets better over time. 
+Whenever a chat conversation is successfully completed, the machine remembers what worked well. It applies these 
+learnings to the next campaign and incrementally improves the playbook instantly and at scale. Or take another 
+example: If the same question continues to come up, AI suggests topics so that you can build immediate responses 
+around what customers care about most and alleviate reps from redundant questions. What Is AI, Really?  
+Machine learning isn’t the only term you’ll 
+hear in discussions of AI. You’ve probably 
+read or heard people using terms like:
+ 
+Deep learning: A subset of machine 
+learning that recognizes and brings 
+together complex patterns in pictures, 
+text, sound, and other data by 
+mimicking how the human brain works.  
+Reinforcement learning: A type 
+of machine learning model that 
+uses environmental signals (such 
+as rewarding a machine for certain 
+outcomes) to optimize toward a long-
+term goal. 
+Neural networks: A collection of 
+interconnected artificial neurons that 
+power deep learning. 
+Topic modeling: When AI identifies 
+how words relate to each other and 
+group with each other, enabling all 
+sorts of capabilities like generating 
+language and identifying recurring 
+themes in content.
+Robotics: Robotics combines image 
+recognition, facial recognition, and 
+computer vision to power a physical 
+machine. It is not AI, but rather 
+powered by AI. 
+ 
+There’s a lot of AI jargon out there, but for 
+the sake of financial services marketing, 
+there are only three AI applications you 
+really need to pay attention to: Language, 
+Vision, and Prediction. 
+ Language AI—The ability for machines 
+to understand and generate written and 
+spoken words. 
+Language AI technologies and terms you 
+may encounter include:
+ 
+• Natural language generation
+• Voice recognition
+• Natural language processing
+• Text analysis and summarization
+• Sentiment analysis
+ 
+An example of Language AI is Gmail’s 
+Smart Compose feature. You type 
+an email, and Gmail predicts how to 
+complete your next sentence.
+In financial services, Language AI can be 
+used to write and edit any type of copy—
+from emails and blog posts to landing 
+pages and social media posts.
+Vision AI—The ability for machines 
+to analyze and understand data 
+from still images and videos. Vision 
+AI technologies and terms you may 
+encounter include:
+ 
+• Object recognition
+• Emotion generation
+• Image generation
+• Optical Character Recognition (OCR)
+• Video generation
+ 
+An example of Vision AI is the facial 
+recognition feature on iPhones. Vision AI 
+determines if the face it is seeing is the 
+owner of the phone’s and, if it is, grants 
+them access to the device.In financial services, Vision AI can create 
+compelling, original images to be used 
+on your website and on social media.
+ 
+Prediction AI—The ability for machines 
+to predict future outcomes based on 
+historical data. The better the data 
+that goes in (the inputs), the better the 
+predictions that come out (the outputs). 
+Prediction AI you may already be familiar 
+with include:
+ 
+• Personalization
+• Pattern recognition
+• Forecasting
+• Recommendation
+ 
+An example of Prediction AI is credit 
+card fraud alerts. The AI is trained on 
+your historical data, and, based on your 
+buying history, can predict fraudulent 
+transactions. It then automatically notifies 
+you of those data anomalies.
+In financial services, Prediction AI can 
+help personalize your brand experience 
+for every audience member, at scale—
+and make changes in real-time based on 
+mountains of data.3 Core AI Applications6  |  AI for Financial Services Marketing Blueprint
+Between Language AI, Vision AI, and Prediction AI use cases, it’s easy to wonder where to even begin. 
+We recommend starting your AI journey by taking a holistic view of your marketing programs and 
+asking yourself three main questions.
+For each task, consider:
+ 
+Is it data-driven? Are you using data to do the task? Alternatively, do you have data you should 
+be using to do the task, but you’re not? Consider anytime you analyze customer demographics, 
+transaction history, browsing behavior and other data points. 
+ 
+Is it repetitive? Do you do the same thing over and over again to accomplish the task? Is there a list 
+of defined steps that you follow to get the task done? Weekly or monthly reporting on your financial 
+product sales could fall into this category.
+ 
+Is it making a prediction? Are you trying to forecast an outcome or behavior? As examples, are 
+you trying to predict what promotion a prospective client may respond to best? Or perhaps the best 
+product price point to maximize sales? 
+ 
+You don’t have to answer “yes” to all three questions in order to have an AI use case, but these 
+questions are a great framework for creating your AI roadmap and prioritizing where to focus first to 
+see the most impact from AI. Let’s take a closer look at what your use case could be:
+Content
+ 
+•  Automatically outline, generate, and summarize long-form content assets, like ebooks and 
+reports, to explain complex financial topics to audiences.
+•  Generate outlines, scripts, and transcripts for hosted webinars or partner webinars. 
+•  Intelligently segment prospects to personalize content and messaging to a user’s specific 
+financial data or goals.
+•  Segment prospects based on website source and/or past site engagement, and then 
+personalize content based on that activity. 
+•  Automatically generate content ideas, story angles, and editorial calendars across various 
+product lines and services.  
+Regulation and Brand Compliance
+•  Standardize messaging to be inclusive and compliant across all content assets.
+•  Train your chatbot to speak only in the approved brand voice, to share specific resources, 
+and to pass conversations over to a human when certain security topics are mentioned.
+•  Simplify complicated compliance regulation paperwork for internal team members with 
+comprehensive summaries. 
+How to Determine the Right  
+AI Use Case for Your Firm7  |  AI for Financial Services Marketing Blueprint
+Social Media
+•  Generate eye-catching, conversion-focused visuals based on a text description. 
+•  Create social posts based on long-form content created by your human teams.
+•  Find the ideal days and times to post on social media for optimal engagement. 
+•  Cater your posts to the various audiences that make up your ideal prospects and clients. 
+Client Prospecting
+•  Automatically categorize sales conversations to recommend the right financial product or offering at the 
+right time to customers. 
+•  Personalize one-to-one offers at scale.
+•  Identify and target new audience categories for your firm’s solutions.
+•  Provide product pricing recommendations by assessing complex data. How to Determine the Right AI Use Case8  |  AI for Financial Services Marketing BlueprintIf you’ve asked yourself those three questions around data, repetition, and prediction and decided it’s 
+time for your firm to try AI, check out these AI tools that were built with financial services in mind.
+ 
+Drift leverages client insights to help financial services organizations start the right conversation, with 
+the right person, at the right time.
+Drift’s Conversation Cloud includes secure, real-time communication tools and predictive insights that 
+empowers sales and marketing teams to provide personalized financial advice that converts self-service 
+browsing into assets under management opportunities and satisfied clients.
+With Drift, you can: 
+•  Respond 24/7 through an online concierge: Securely answer questions, 
+surface resources, and engage with prospects and customers anywhere in 
+the world.
+•  Book secure online meetings with relationship managers: Clients can 
+automatically book time with their relationship manager directly in a bot 
+conversation.
+•  Advise clients on new product investments: Use client insights to 
+proactively engage with your top clients, make recommendations, or 
+answer questions about an investment they are exploring.
+•  Deploy live chat: Let clients start real-time conversations with you via 
+chat—and seamlessly transition that chat into a secure video or phone call.
+•  Convert more site traffic: Provide relevant gated content or invitations to 
+live and virtual events.
+Drift was tailor-made for regulated industries like yours. Some of the benefits 
+include: 
+•  Compliance with SOC2, GDPR, Privacy Shield Certification, SSO, Cloud 
+Security Alliance, PCI, and FINRA.
+•  Secured archiving of documents and communications for legal, regulatory, or auditing 
+purposes. 
+•  Open API and integrations with platforms such as Dynamics, Salesforce, Microsoft Teams, 
+Google Meet, Zoom, and Outlook 365. 
+Top Marketing AI Tools  
+for Financial Services
+Sound good to you?
+START HERE9  |  AI for Financial Services Marketing Blueprint
+Top Marketing AI Tools for Financial Services
+ 
+AiAdvertising is a cloud-based Artificial Intelligence-as-a-Service (AIaaS) advertising platform that 
+allows marketers to easily plan, predict and execute hyper-personalized advertising campaigns with full 
+transparency, while gaining the intelligence they need to prove advertising’s impact on the bottom line. 
+This means powerful, high-impact ads that convert. 
+Demandbase is a go-to-market platform built around Account Intelligence, which combines your sales 
+and marketing data with its validated external B2B data to help you find and engage with the accounts 
+most likely to buy from you. It uses AI to make sense of everything, and then it helps you put it into 
+action with Demandbase One™.
+The result? Your team can spot opportunities faster and better understand where to focus their time 
+and money. 
+ 
+Eloqua is an intelligent marketing automation sector of Oracle. With its numerous AI-powered 
+functions like email fatigue analysis, send time optimization, subject line optimization, predictive lead 
+scoring, and account engagement scores, Eloqua helps you create a smart and personalized email 
+strategy that cuts through inbox clutter.
+ 
+MarketMuse is an AI platform that identifies your top content opportunities. The platform uses AI to 
+tell you which topics to target and how to rank for them, and it even generates content briefs for those 
+suggested topics. Plus, it can show you what other pieces of content are on Page 1 of SERPs missed, 
+so you can beat out your competitors.
+ 
+Microsoft 365 Copilot combines your own Microsoft data with its large language models to extend 
+your firm’s capabilities in any Microsoft program—Word, Excel, Outlook, Teams, and otherwise. For 
+example, you can leverage Copilot in Word to automatically generate a first draft of a blog. You can 
+use Copilot in Excel to help you visualize your data faster. You can leverage Copilot in Teams for 
+meeting summaries and suggested next steps.  10  |  AI for Financial Services Marketing Blueprint
+Top Marketing AI Tools for Financial Services
+ 
+The Persado platform combines natural language generation, machine learning, and experimental 
+design to tailor marketing messaging to be in a language and tone that it knows will motivate 
+individual users the most—turning words into growth levers for your business.
+Salesforce Einstein—a layer of intelligence within the Lightning Platform—allows admins and 
+developers to use the rich set of platform services to build customized, AI-powered apps. 
+Tableau is a visual analytics platform that helps people see and understand data to solve problems. 
+Tableau GPT, powered by Einstein (Salesforce’s AI) allows you to create stunning and informative data 
+visualizations with just a simple prompt. 
+Tableau Pulse—an AI-powered insights generator—lives within your team’s Tableau view and offers 
+personalized summarizations of your data. This means everyone on your team gets their own summary 
+of changes in data in real time, so your relationship managers never miss a spike in product interest 
+and your marketing team never misses a beat on trends in website traffic. 
+ 
+Writer is an AI writing platform built for teams. Unlike other GPT-powered applications, Writer is trained 
+on your data—your best-performing blog posts, landing pages, social media posts, as well as your 
+brand style guide so that you never have to worry about a runaway algorithm getting you in hot water 
+with your compliance team. 
+6sense uses AI to capture “intent signals,” or indicators that identify people who are likely to take a 
+desired action, to help businesses improve their communication efficiency and productivity.11  |  AI for Financial Services Marketing BlueprintAI has the power to simplify the complex process of making the financial services industry more buyer-
+friendly. It can help your firm provide one-to-one personalization in your marketing—which, in turn, has 
+a ripple-down effect on revenue. 
+In its report “The Future of Banking – The Hyper-Personalisation Imperative,” Deloitte states that client 
+experience is predicted to overtake price and product as a firm’s brand differentiator. And BCG reports 
+that personalization can lead to annual revenue uplifts of 10% for banks.
+And if you think you have more time, you’re wrong. Industries everywhere, but especially financial 
+services, are adopting and even doubling down on AI faster than you think. In fact, financial services 
+has witnessed the largest growth in AI usage across all industries, and is the fastest-growing vertical 
+adopting online chat. 
+It’s time to get to work. 
+About Marketing AI Institute
+ 
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders.
+ 
+The Institute owns and operates the Marketing Artificial Intelligence Conference (MAICON), AI for 
+Writers Summit and AI for Agencies Summit; hosts The Marketing AI Show podcast; runs the AI 
+Academy for Marketers featuring dozens of on-demand courses; and published Marketing Artificial 
+Intelligence: AI, Marketing, and the Future of Business (Matt Holt Books, 2022).
+ 
+Learn more at www.marketingaiinstitute.com.
+ 
+About Drift
+ 
+Drift, the Conversation Cloud company, helps firms connect with people at the right time, in the right 
+place with the right conversation. 
+Using the Drift Conversation Cloud, firms can personalize experiences that lead to more quality 
+pipeline, deposits, and lifelong clients. Drift brings Conversational Marketing, Conversational Sales 
+and Conversational Service into a single platform that integrates chat, email and video and powers 
+personalized experiences with AI at all stages of the buying journey. 
+Financial services customers have seen a 28% increase in web conversion rates and an additional 2,500 
+qualified leads added to their web channel annually since implementing Drift. 
+More than 5,000 customers use Drift to deliver a more enjoyable and more human buying experience 
+that builds trust and accelerates assets under management. Financial services firms reaping benefits with 
+Drift include State Street Global Advisors, Cetera, Fairway, Hines, North American Bancard, and Apex. 
+Representing less than 1% of unicorns led by Latino founders, Drift is building an equitable, enduring 
+company to transform the way people buy online.
+ 
+For more information, visit www.drift.com and follow @drift.
+Why the Future of Your Firm’s  
+Marketing Depends on AI12  |  AI for Financial Services Marketing Blueprint

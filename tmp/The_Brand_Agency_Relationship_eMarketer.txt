@@ -1,0 +1,1265 @@
+THE  
+BRAND-AGENCY 
+RELATIONSHIP
+Streamlining with In-House 
+Teams and Flexible  
+Engagement Models
+JUNE 2019
+Jillian Ryan
+Contributors: Ross Benes, Blake Droesch, Lauren Fisher, Nicole Perrin, Tracy TangTHE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  2
+THE BRAND-AGENCY RELATIONSHIP: STREAMLINING WITH IN-HOUSE 
+TEAMS AND FLEXIBLE ENGAGEMENT MODELS 
+Brands can’t accomplish everything alone; external agency partners are essential to a brands’ capabilities and 
+capacity. But with aggressive growth goals and complex tech and data requirements, many brands are streamlining 
+agency relationships. 
+What do brands want from their agencies? 
+Client-side marketers want their agencies to provide 
+better design and creative work, different pricing models 
+and nimbler ways of working, according to SoDA. 
+Stronger leadership, technology capabilities and data skills 
+also fall on that list. 
+What are the biggest challenges for agencies?  
+Half of digital agencies say clients moving agency 
+services in-house is a top challenge, according to 
+Marketing Land. Competition for talent, budget cuts by 
+clients and keeping up with new technology trends are 
+also key obstacles. 
+How are consultancies and agencies competing? 
+With an expertise in operations and technology, many 
+management consulting firms work with brands to help 
+streamline—or butt in on—their agency relationships. 
+This engagement often starts with an assessment of the 
+marketing value chain and then includes an audit of gaps 
+and overlaps. Consultancies make recommendations 
+for what brands can handle internally and what can be 
+outsourced to an agency. 
+What is in-housing? 
+We define in-housing as taking a once outsourced 
+capability and having it managed by an internal agency, 
+team, group or even a single employee. The aim is for this 
+expertise to become a core internal competency, critical 
+to the business. The requirement is to have the capability 
+and capacity to deliver brand-side, but this doesn’t 
+necessarily mean displacing the agency. In-housing 
+requires cooperation and buy-in from all stakeholders—
+internal and external. 
+WHAT’S IN THIS REPORT?  This report will cover how brands 
+rely on external agencies and how that relationship has 
+evolved in recent years. It will also explore which services 
+brands manage internally, with 12 brand case studies. % of respondents,  Jan 2019How Do US Companies Describe the Relationship
+with Their Agencies as It Applies to Digital and
+Creative Media?
+Currently exploring the feasibility of bringing our digital media
+and creative in-house
+42%
+Planning to onboard new digital media solutions/technology and
+have our agency run them
+37%
+Currently running some parts of our digital ad campaigns
+internally , but are facing challenges scaling our efforts due to
+limited resources
+35%
+Planning to leave our agency and manage our digital media an d
+creative in-house
+24%
+Have an internal agency and are having a hard tim e
+ﬁnding/retaining/competing for talent
+21%
+Note: n=150 customer intelligence,  ecommer ce and mark eting
+decision-mak ers
+Source: F orrester Consulting,  "Harnessing AI's P otential: Marke ters Have
+Adopted AI But Have Yet To Realize The Full Beneﬁt" commissioned by
+Albert,  April 30,  2019
+247542 www .eMarketer.com
+KEY STAT: A January 2019 survey from Forrester 
+Consulting asked marketing decision-makers to describe 
+their agency relationship as it applies to digital and 
+creative media. There was no majority response, showing 
+just how varied brand-agency engagements are. 
+CONTENTS
+2 The Brand-Agency Relationship
+3 The Shifting Dynamics of Brands and Agencies 
+4 Brands Taking More Ownership 
+6 Flexible Engagement Models: In-Housing, Outsourcing 
+and Everything in Between 
+9 An Inside Look at 12 Brands on an In-House Journey  
+13 Challenges Ahead 
+14 Key Takeaways 
+14 eMarketer Interviews 
+16 Read Next 
+16 Sources THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  3
+THE SHIFTING DYNAMICS OF 
+BRANDS AND AGENCIES 
+Brands have always relied on outside agencies for 
+external expertise. Agencies work with multiple 
+companies and stay ahead of the curve with best 
+practices and new innovations. Brands can, therefore, 
+benefit from having these agencies as strategic 
+partners on marketing and advertising goals. 
+“Brands do what they do best: knowing their brand, 
+products, services and their customers; the agency’s role 
+is to help them fill in the blanks, ” said Jessica Lustgarten 
+Courtemanche, vice president and director of data and 
+analysis at ad agency Digitas. 
+Today, the majority of brands outsource part of their 
+marketing budget to external players, according to 
+September 2018 research from Cowen and Company. 
+Eighty-five percent of US companies said they use an 
+established legacy advertising agency, while 79% rely on 
+nontraditional ones, like global consultancies and systems 
+integrators for outsourced work. 
+% of respondentsUS Companies that Outsource Part of Their Marketing
+Budget to Traditional Marketing Companies vs .
+Nontraditional Agencies , Sep 2018
+Traditional agencies 85%
+Nontraditional agencies 79%
+Note: n=186 senior mark eting pr ofessionals; tr aditional mark eting
+companies are deﬁned as established/legac y advertising agencies (WPP ,
+Omnicom,  Publicis,  Dentsu,  etc.); nontr aditional agencies deﬁned as global
+consultancies and system integr ators (Accenture,  Deloitte,  IBM,  PwC,  etc.)
+Source: Cowen and Company, "Cowen CMO Technology Surve y, Vol. II -
+Ahead of the Curve F ollow-Up ," Oct 12,  2018
+242490 www .eMarketer.com
+But fewer brands appear to be relying on a single agency 
+or agency of record (AOR). “Rather than one agency 
+being the center of the universe, brands now rely on a 
+fragmented roster of ‘best-in-breed’ agencies, ” said Bill 
+Duggan, group executive vice president at the Association 
+of National Advertisers (ANA). 
+Research from The CMO Club found that only 22% of 
+CMOs worldwide used a single AOR as of March 2018. 
+Models with several fragmented agency partners were 
+collectively more common, such as a single holding 
+company with multiple agencies from that company 
+(27%), a single AOR plus some independent agencies 
+(25%), or multiple independent agencies (24%). According to a report from agency business development 
+firm RSW/US published in January 2019, half of US 
+marketers used one or two agencies to support their 
+business needs in 2018. Further, 64% said they were 
+looking for specialty agencies with expertise in things like 
+digital, social, content, etc. 
+Research from SoDA, a global network of digital agency 
+founders, also emphasized that less is more when it 
+comes to agency partners. The majority of respondents 
+had one to three agency partners, and only 15% used 
+four or more. A mere 7% said they do not rely on an 
+external agency. 
+% of respondentsTypes of Agencies and Number of Agency Partners
+Used by Client-Side Marketers Worldwide , Q3 2018
+Types of agencies
+Full-service digital agency 37%
+Consultancy (management/IT) 36%
+Integrated agency 34%
+Specialized digital agency 25%
+Product design agency 24%
+Production company/design studio 18%
+Number of agency partners
+1 24%
+2 35%
+3 18%
+4 6%
+5+ 9%
+none/no agencies 7%
+Source: SoD A, "2019 Global Digital Outlook Study & Report" in partnership
+with F orrester Resear ch, Nov 19,  2018
+243963 www .eMarketer.com
+The survey also found that the most common types 
+of agencies used by client-side marketers in Q3 2018 
+were full-service digital agencies (37% of respondents), 
+management or IT consultancies (36%), and integrated 
+agencies (34%). 
+As brands select their partners, they must look to the 
+vast and complex array of firms that make up the agency 
+ecosystem. The 2019 Agency LUMAscape  features 
+over 200 different agencies with specialties in creative, 
+digital, media, public relations, and marketing and data 
+services. The majority of these are offshoots from the big 
+agency holding firms—WPP , Omnicom, Publicis, IPG and 
+Dentsu—and the major consulting companies—Deloitte, 
+Accenture and PwC—that have come to compete in the 
+space in recent years. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  4
+As marketers’ needs evolve with more aggressive 
+growth goals placed on CMOs, as well as new data and 
+technology requirements, external support needs are also 
+changing. “Brands are focused on direct-to-consumer 
+[D2C] models, customer experience and personalization 
+at scale. This requires agencies to offer a more diversified 
+set of capabilities to deliver on that, ” said Dirk Herbert, 
+chief strategy officer for the US arm of the Dentsu 
+Aegis Network. 
+Historically, agencies have used mergers and acquisitions 
+to expand offerings and obtain new skill sets. As new 
+marketing channels and techniques emerge, so do 
+agencies with specialized expertise and innovative 
+practices. And this is often followed by a wave of agency 
+acquisitions, as bigger, established firms (especially 
+agency holding companies) buy up the emerging ones 
+to consolidate expertise, add to their own capacity, and 
+continue offering holistic solutions for clients. 
+For example, over the past decade, the agency world 
+has witnessed a proliferation of independent social 
+agencies—many of which were quickly snapped up by 
+larger agencies that needed to build out social expertise 
+and offerings. 
+Even with this convergence in the marketplace, 
+competition is also coming from technology vendors who 
+are establishing more direct relationships with brands. 
+Marketing and ad tech vendors inserting themselves into 
+the once agency-owned side of the relationship has been 
+happening for years. 
+This proliferates further bifurcation in partner 
+relationships, which can make the partner landscape even 
+more confusing for brands, according to Mark Sneider, 
+owner and president of RSW/US. 
+Division of partner relationships can be cause for concern 
+for brands that are managing a myriad of agencies. 
+Source: Nate Neal, published by AdExchanger, Jan 19, 2018 
+This is a source of concern, as half of multinational 
+brands think their own internal structures impede the 
+management of their current agencies, according to 2018 
+research from the World Federation of Advertisers (WFA). 
+Fragmentation of the partner ecosystem with so many 
+players—agencies, consultancies and tech vendors—each 
+with their own expertise and goals, can cause increased 
+divergence of strategy for brands if not properly managed. 
+BRANDS TAKING 
+MORE OWNERSHIP 
+While agencies must offer expertise, best practices 
+and guidance, brands in today’s landscape are taking 
+stock of their external partnerships to assess what is 
+working and what isn’t. 
+“Brands have to take more ownership over staying 
+ahead and being self-sufficient, ” said Joshua Palau, 
+vice president of media strategy and platforms at Bayer 
+Consumer Health. As Palau indicates, self-sufficiency is 
+an important part of this assessment, but so is control. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  5
+“Some clients feel like they have lost control of their 
+customer, or they don’t understand how their data is 
+being used, ” said Scott Tieman, managing director and 
+personalization lead at Accenture Interactive. “In some 
+cases, they feel dismayed by the black-box matrix of 
+agency relationships and want to play a more active role 
+in controlling their marketing activities. ” 
+In the Q3 2018 SoDA survey, client-side marketers were 
+asked what they wanted from their agency partners. 
+Respondents cited better design and creative work 
+(33%), different pricing models (30%) and nimbler ways 
+of working (25%). Stronger leadership, technology and 
+data skills were also on the list of requirements, albeit 
+from smaller percentages. 
+% of respondents,  Q3 2018What Do Client-Side Marketers Worldwide Want From
+Their Agency Partners and Why Do They Terminate
+Them?
+What they want from their
+agency partners
+Better design/creative
+Different pricing models
+More ﬂexible/nimble working
+models
+Stronger leadership
+Stronger technology capabilities
+Stronger data capabilities
+More training/staff augmentation33%
+30%
+25%
+21%
+17%
+14%
+6%Why they terminate their
+agency partners
+Pricing/value
+New management at our
+organization
+Cost overrun
+We needed different capabilities
+Unhappy with strategyUnderstaffed/inexperienced
+team
+Unhappy with account/project
+management33%
+19%
+16%
+14%
+13%13%
+11%
+Source: SoD A, "2019 Global Digital Outlook Study & Report" in partnership
+with F orrester Resear ch, Nov 19,  2018
+243967 www .eMarketer.com
+Conversely, the survey also asked why brands terminate 
+their agency relationships. Pricing/value was highest on 
+the list, cited by a third of respondents. Internal changes 
+at the brand were also in the top responses, including 
+new management at the organization (19%) and the need 
+for different capabilities (14%). 
+Of the multinational brands surveyed by the WFA, 74% 
+said they were auditing their current agency roster to find 
+the right model and mix of external agency partners and 
+capabilities. Most respondents in this survey believed 
+their current model was not working effectively and rated 
+their agency roster at 5.7 on a 10-point scale. 
+An agency audit has many possible outcomes, most of 
+them not great for the agencies themselves. RSW/US 
+found that 26% of US marketers planned to consolidate 
+their roster into fewer agencies in 2018. Dentsu Aegis Network had similar findings: Some 52% 
+of marketing executives worldwide polled in May 2018 
+planned to bring more marketing capabilities in-house in 
+the next two to three years. A third planned to reduce the 
+number of external agencies they work with, and 29% 
+planned to work with more consultancies. 
+FINDING THE GAPS AND OVERLAPS  
+Many brands are working to streamline their partner 
+relationships to have more control over core capabilities, 
+said Jess Clifton, US head of digital at marketing and PR 
+agency Edelman. 
+Ironically, in some cases this discovery process starts by 
+bringing in yet another partner. Management consulting 
+firms have carved out a space in this assessment process 
+by helping brands to answer four key questions: 
+ ■What marketing and advertising expertise do we need 
+to execute our strategy and reach our goals?   
+ ■What capabilities do we have internally? 
+ ■What areas do we lean on agency partners for?  
+ ■Where are the gaps and overlaps? 
+Deloitte is one such consulting firm working with brands 
+through this process, according to Christine Cutten, 
+principal and marketing transformation practice leader. 
+Deloitte first evaluates the overall strategic direction of 
+what marketing is trying to deliver, what the internal team 
+already does well and pinpoints the areas that need more 
+support. “We try to spot appropriate roles and gaps, 
+then make recommendations on how to fill those holes 
+internally or externally, ” she said. 
+For consultancy McKinsey, this type of engagement 
+begins with the firm’s proprietary “Marketing Capability 
+Model, ” which is a fleshed-out map of all the possible 
+competences that a marketing team should have for 
+its continued growth. “We ask a lot of questions to 
+understand the brand’s actual marketing structure and 
+what they are able to manage to define what the right 
+agency model is going forward, ” said Sarah Armstrong, a 
+partner at the practice. 
+The goal of this process is to identify the overlaps and 
+gaps. This includes knowing how to distribute duplicate 
+skill sets, how to reallocate expertise internally, hire 
+new talent, or find the right agency partner to manage 
+that work. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  6
+Some of the larger agency holding firms also do this. 
+For example, when Publicis Media Exchange is working 
+with a client interested in taking its programmatic media 
+buying capability in-house, the process starts with an 
+in-depth audit. “We make health cards to assess how 
+the client is set up in terms of talent, data, technology, 
+strategy and analytics, ” said Karyn Johnson, president 
+of programmatic investment. “This provides us and the 
+client with a blueprint of their needs moving forward. ” 
+MightyHive, a consultancy that helps brands in-house 
+their programmatic media buying, does a four- to eight-
+week-long assessment and scheduling at the start of 
+an engagement, said Emily Del Greco, president of the 
+Americas for the company. “We do a deep discovery 
+process to understand their setup internally and build a 
+road map of functional areas based on maturity level: Are 
+they ahead, behind, or are they doing best practices? That 
+informs our recommendations. ”  
+For brands going through this exercise, it’s essential 
+to recognize the outcome will be bespoke to their 
+company’s individual goals, needs, current skill sets and 
+agency relationships. 
+FLEXIBLE ENGAGEMENT MODELS: 
+IN-HOUSING, OUTSOURCING AND 
+EVERYTHING IN BETWEEN 
+Once brands complete a gaps and overlaps 
+assessment, they often start to consider in-housing 
+select marketing capabilities. But it’s important to 
+note that in-housing is not a binary, all-or-nothing 
+act—it’s a term with much gray area that often exists 
+across a spectrum of engagement models. 
+BRANDS TAKE WORK IN-HOUSE  
+We define in-housing as taking a once outsourced 
+capability and having it managed by an internal agency, 
+team, group or single employee. The goal is for this 
+expertise to become a core internal competency critical 
+to the business. The requirement is to have the capability 
+and the capacity to deliver brand-side. Most of the data featured in the remainder of this report 
+will refer to in-house agencies, but to be clear, brands 
+that in-house do not  need to have an in-house agency to 
+accomplish their goals. 
+Also, taking a capability in-house doesn’t mean entirely 
+displacing current external agency partners. Rather, it 
+requires cooperation and buy-in from all stakeholders—
+internal and external—in the process. 
+In 2018, 78% of US companies polled by the ANA said 
+they had an in-house agency function. That percentage 
+was up from 58% in 2013 and 42% in 2008, nearly 
+doubling since the beginning of the survey period. 
+% of respondentsUS Companies that Currently Have an In-House
+Agency , 2008,  2013 & 2018
+200842%
+201358%
+201878%
+Note: 2018 n=412 c lient-side mark eters
+Source: Association of National Advertisers (AN A), "The Continued Rise of
+the In-House Agenc y," Oct 15,  2018
+242409 www .eMarketer.com
+That study also compared which services were most 
+commonly handled by in-house agencies in 2013 and 
+2018. The biggest growth areas were creative (up 
+from 60% to 76%) and media (up from 22% to 36%). 
+Programmatic, which roughly a quarter of in-house 
+agencies now handle, wasn’t included in the survey 
+in 2013. 
+Research from In-House Agency Forum (IHAF) found  
+that creative was the top function used by in-house 
+agencies, according to US companies polled in July 2018. 
+Digital/interactive, video and account/project management 
+were also common functions. Around half of companies 
+said their in-house team worked on social media, web 
+development and strategy. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  7
+Marketers working with in-house agencies appreciate the 
+brand and historical knowledge these colleagues bring to 
+the table, as well as the shared value and goals for the 
+company, according to January 2019 research from The 
+Boss Group and Cella Consulting. Cost savings and speed 
+were less important, but still cited by more than six in 
+10 respondents. 
+% of respondents,  Jan 2019Which Qualities Do US Creative Teams and In-House
+Agencies' Internal Clients Recognize as Part of Their
+Value Proposition?
+Brand knowledge
+91%
+Historical knowledge of products/deliverables
+80%
+Shared values/goals for company
+76%
+Cost savings
+69%
+Speed/cycle time
+63%
+High-end creative quality
+59%
+Compliance/legal requirements knowledg e
+47%
+Note: n=324
+Source: The Boss Gr oup and Cella Consulting,  LLC,  "2019 In-House Creative
+Industry Report," April 5,  2019
+247226 www .eMarketer.com
+THE GRAY AREA 
+Even with the benefits of in-house teams, hybrid 
+models are very common, and most brands fall in 
+this gray area. A January 2019 survey from Forrester 
+Consulting asked consumer intelligence, ecommerce 
+and marketing decision-makers how they would describe 
+their company’s agency relationship as it applies to 
+digital and creative media. There was no majority 
+response, and respondents could choose more than one 
+answer, showing just how varied these brand-agency 
+engagements are. % of respondents,  Jan 2019How Do US Companies Describe the Relationship
+with Their Agencies as It Applies to Digital and
+Creative Media?
+Currently exploring the feasibility of bringing our digital media
+and creative in-house
+42%
+Planning to onboard new digital media solutions/technology and
+have our agency run them
+37%
+Currently running some parts of our digital ad campaigns
+internally , but are facing challenges scaling our efforts due to
+limited resources
+35%
+Planning to leave our agency and manage our digital media an d
+creative in-house
+24%
+Have an internal agency and are having a hard tim e
+ﬁnding/retaining/competing for talent
+21%
+Note: n=150 customer intelligence,  ecommer ce and mark eting
+decision-mak ers
+Source: F orrester Consulting,  "Harnessing AI's P otential: Marke ters Have
+Adopted AI But Have Yet To Realize The Full Beneﬁt" commissioned by
+Albert,  April 30,  2019
+247542 www .eMarketer.com
+This type of blended engagement also goes beyond just 
+digital media and creative. In August 2018, corporate 
+training provider Digital Marketing Institute (DMI) found 
+that most marketing channels were managed by a mix of 
+in-house and agency, or in some cases, both. 
+% of respondentsManaging Marketing Channels In-House vs . Agency
+Partners for Companies Worldwide , Aug 2018
+In-house Both Agency
+Email 46% 34% 20%
+Apps 43% 28% 30%
+Content marketing 38% 32% 30%
+Mobile 36% 38% 26%
+Voucher systems 36% 28% 36%
+Display 35% 36% 29%
+SEO 34% 34% 31%
+Video 34% 35% 31%
+Publishing platforms 32% 37% 32%
+Pay-per -click search 31% 36% 33%
+Organic social media 30% 42% 28%
+Paid social media 29% 39% 31%
+Online marketplace 29% 40% 31%
+Note: numbers ma y not add up to 100% due to r ounding
+Source: Digital Mark eting Institute (DMI),  "20/20 Vision: A Mark eting
+Leader's View of Digital's Future," No v 28,  2018
+243860 www .eMarketer.com
+In fact, the survey also found that, across all channels, 
+the work was fairly mixed, with no clear standout for a 
+channel that is always managed by in-house vs. one that 
+is always managed by the agency. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  8
+AGENCIES OFFER SUPPORT, 
+COLLABORATION 
+In-house agencies still lean on their external agency 
+counterparts. More than half look to them for new ideas, 
+special projects and skill sets, according to The Boss 
+Group and Cella Consulting. Additionally, overflow work 
+(48%), high-level strategy (34%) and clearly defined 
+scope work (28%) were also common engagement 
+models. Only 13% said they compete head-to-head with 
+external agencies. 
+% of respondents,  Jan 2019What Is the Nature of US Creative Teams and In-House
+Agencies' Working Relationship with External
+Agencies?
+New idea s, special projects and skill sets
+55%
+Overﬂow , extra capacity
+48%
+Tier 1 strategy , we can handle execution
+34%
+Clearly deﬁned/complimentary scop e
+28%
+Compete head-to-head
+13%
+Note: n=262
+Source: The Boss Gr oup and Cella Consulting,  LLC,  "2019 In-House Creative
+Industry Report," April 5,  2019
+247223 www .eMarketer.com
+Some 85% of in-house agencies outsource functions 
+to external providers, according to IHAF research. 
+Just more than half of respondents outsource video 
+and creative functions, but there were several other 
+specialties, including digital, print, media and PR that 
+were sometimes handled externally. % of respondents,  July 2018Which Functions Do In-House Agencies at US
+Companies Outsource to External Providers?
+Note: among the 64% of companies surve yed that have in-house agencies
+Source: In-House Agenc y Forum (IHAF),  "In-House Agencies Today: 2018
+IHAF State-of-the-Industry Report" in partnership with F orrester Resear ch,
+Aug 27,  2018
+247505 www .eMarketer.comFunctions outsourced
+Video
+Creative
+Digital/interactive
+Print production
+Media
+Public relations
+Research
+Account/project 
+management55%
+52%
+34%
+29%
+20%
+15%
+13%
+9%Social media
+Data analytics
+Strategy
+Procurement
+Operations
+Trafﬁc
+Don't know
+Other9%
+6%
+6%
+2%
+1%
+1%
+<1%
+7%
+Yes
+85%Don't know
+6%
+No
+9%
+Ever outsource to
+external providers?
+Agencies that want to stay relevant understand that they 
+can’t view the rise of in-housing as a threat, as doing so 
+would be detrimental to their business model. In fact, 
+many experts from the agency and consultancy side who 
+spoke with us discussed how brands in-housing is a new 
+and unique opportunity. 
+“We view it as a way we can step in and teach clients 
+to run an agency, ” Edelman’s Clifton said. “This is all 
+completely foreign for brands, and this is where agencies 
+have the opportunity to step up and help, while also 
+enabling themselves to be a bigger partner in the long 
+run. In-house agencies, especially the ones that are 
+just getting started, aren’t necessarily going to have the 
+capability to deliver on big major campaigns that the 
+brand needs. ” 
+MightyHive is set up to do just that: help brands  
+in-house programmatic. Even the big holding companies 
+are building custom models where they onboard 
+skills and coach capabilities to clients looking to do it 
+themselves. For example, Dentsu-owned Merkle recently 
+acquired Filter, an agency known for this type of work. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  9
+Additionally, agencies are seeking to embed themselves 
+with their clients, and this can be to help them 
+onboard new skills or improve the current working 
+relationship with in-person collaboration. For instance, 
+Omnicom Media Group offers clients on-premise “staff 
+augmentation, ” according to Scott Hagedorn, CEO. 
+Essentially, agency employees don’t physically work at 
+Omnicom headquarters. Instead, the work is done on-site 
+at the brand three to four days a week, with the agency 
+expert and the client sitting side by side. 
+This sort of embedded relationship also appears to 
+be working well for Wunderman Inside, Wunderman 
+Thompson’s on-premise offering, according to Jason 
+Burby, chief client officer for the company’s North 
+America division. Speed is a major benefit, as interactions 
+between the agency and client can happen in real time. 
+But even with the help of agencies, the ramifications 
+for taking work in-house mean brands need to operate 
+in an entirely new way, which is when they look to 
+consulting firms. 
+“Brands are no longer project-managing the agency, ” 
+Accenture’s Tieman said. “Now they are working with 
+the rest of their organization differently. This can be 
+uncomfortable, challenging and usually requires a new 
+organizational structure, which we help them build. ” 
+AN INSIDE LOOK AT 12 BRANDS 
+ON AN IN-HOUSE JOURNEY  
+This section breaks out 12 vignettes from brands of 
+all sizes in a wide variety of industries. No journey 
+was the same, further showing how flexible models 
+and unique engagements are the future of the 
+agency relationship. 
+BANK OF AMERICA 
+Marketing strategy and planning is an internal focus for 
+Bank America across all lines of business and within 
+various centers of excellence, according to senior 
+vice president and enterprise marketing executive 
+Michele Barlow. 
+The financial services company also has a 33-year-old 
+internal agency that is considered an extension of the 
+internal team because of the shared brand knowledge. While external agencies are familiar with the Bank of 
+America brand, they don’t have the same authority as 
+team members do. 
+Another major benefit is speed. “Our in-house agency 
+can react much more quickly, and it is easier to reprioritize 
+with them than with our external agencies that are 
+juggling other clients’ needs, ” Barlow said. 
+A goal of the agency is to simplify the way Bank of 
+America goes to market while keeping ownership of 
+channels. For example, the in-house agency manages  
+the company website, and it recently created new 
+templates and tools to allow local branches to have access 
+to brand-approved collateral customizable to their market. 
+Agencies come into the fold when teams “start to 
+translate marketing strategy plans into actual campaigns 
+and programs, ” Barlow said. “Then we lean on our 
+network of external agencies that we manage by 
+specialization to get their deep subject matter expertise 
+on execution. ” 
+While most paid advertising is outsourced, the in-house 
+agency is starting to take over paid social. Once the team 
+did organic social internally, the paid portion was the next 
+logical step. 
+Even as capabilities shift, the best way for collaboration to 
+thrive is to have clear delineation. “We need to make sure 
+that all internal marketers are very clear on which agency 
+they go to for which body of work. ” 
+BAYER CONSUMER HEAL TH  
+With the help of MightyHive, Bayer Consumer Health is 
+currently setting up an in-house agency team focused 
+on the platforms the company owns and operates in 
+addition to strategy, programmatic, social, search and 
+analytics capabilities. 
+“We want our marketers to have a deeper understanding 
+of digital media, ” Bayer’s Palau said. “You wouldn’t be able 
+to do that if you were always working through an agency 
+to get that knowledge. ” 
+But that didn’t mean building the infrastructure alone. 
+“When we started this process, we needed a partner that 
+shared our vision of being self-sufficient and could get 
+us there based on our timeline. Agencies aren’t typically 
+structured to deliver against this vision, and so we knew it 
+just wasn’t possible to work with them, ” he said. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  10
+But MightyHive set a clear deadline on the engagement 
+to have in-housing set up by 2020 and is helping with 
+hiring, onboarding and doing the taxonomy work to set up 
+all audience segments. 
+CARS.COM 
+At online marketplace Cars.com , all digital media buying 
+has been managed in-house  since Q4 2018. Search,  
+email and life cycle marketing had already been handled 
+in-house. The next step was to start with social, 
+then display and finally programmatic, according to 
+Jenny Chan, senior director of consumer marketing 
+and acquisition. 
+“We wanted to have better control of our data. We feel 
+closer to all the innovation and development in the media 
+industry because we’re having direct conversations with 
+media partners. This allows us to do a lot of data testing, 
+stay in touch with latest developments, and better 
+understand what works best in a particular channel, ” 
+she said. 
+With this hybrid model in place, even in its infancy, the 
+in-house team is already mindful of maintaining external 
+perspective and innovative thinking. The current solution 
+is relying more closely on the media partners directly. 
+CHOBANI 
+At Greek yogurt brand Chobani, the delineation between 
+in-house and agency work is simple. “We outsource the 
+work we occasionally need to have done when there 
+isn’t a consistent-enough cadence to justify building 
+the capability in-house, ” said Leland Maschmeyer, 
+chief creative officer. These typically tend to be more 
+production-heavy tasks. “But our creative strategy and 
+brand work is our competitive advantage, and we don’t 
+and won’t outsource what sets us apart, ” he said. 
+Still, part of the challenge of creating an in-house agency 
+was determining how this new group would work with 
+other parts of the organization. A cross-functional team 
+created a framework for how projects would originate 
+internally, move to the agency, get completed, delivered 
+and then enter an approval process. Maschmeyer said 
+this process was tweaked several times before getting 
+the order workflow right. DELOITTE 
+Four years ago, Deloitte Consulting set up its own  
+in-house agency, which consists of a 300-person team 
+that handles the creative and campaign planning, 
+operations and activations (such as search, social and 
+events), while the marketing team handles the strategy. 
+“Historically, we were set up as creative services, but 
+recently we’ve started to add on ad and marketing tech 
+to extend our internal capabilities across the whole value 
+chain, ” said Cutten, who originally helped set up the 
+internal agency. “Our goal is to get ahead of new channels 
+that are coming out and bolt on new experiences around 
+what marketing is trying to deliver. ”  
+Even with these skills in-house, brands still need to lean 
+on supplemental external resources, she added. “The 
+misnomer of an in-house agency is that it’s one or the 
+other. There are always supplemental agency resources, 
+even with the biggest in-house agency. ”  
+A three-tiered approach is used to manage work. The first 
+layer is the in-house agency, next is the typical agency 
+resources, and then even beyond that, freelancers come 
+in and fill in the holes when all other parties are at capacity. 
+MIZZEN+MAIN  
+D2C menswear company Mizzen+Main has an in-house  
+team for all creative work, including branding and 
+storytelling across channels. Cost savings and the ability 
+to take risks are the two primary advantages to this  
+in-house structure, according to CMO Stephanie Swingle. 
+“We’re able to be more efficient with our time and 
+executional dollars by having the creative team truly 
+integrated into our marketing team structure. ” While 
+Mizzen+Main relies solely on its external agency partners 
+for media buying, having creative in-house allows for more 
+rapid brainstorming and ideation for promotions and deals. 
+As a D2C, the company has access to lots of first-party 
+data on customer behavior and a more real-time look on 
+inventory that can be used to shift strategy quickly. 
+Although the creative function does live in-house, “we 
+don’t look at our creative team as an in-house agency, 
+but as the creative minds on our marketing team, ” 
+Swingle said. “They’re very much part of our department. 
+They are storytelling the brand through the lens of our 
+overall strategy, and they are doing so with both a strong 
+understanding and input into the context in which we use 
+creative assets. ” THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  11
+Additionally, there are times when this internal creative 
+group does lean on a roster of freelancers, such as 
+stylists, and special effects producers to augment content 
+creation or deliver functional expertise to fill in the 
+additional gaps during peak times. The strategy is to keep 
+most of the work internal—because, as Swingle noted, 
+“our employees understand who we are and what we are 
+trying to communicate”—while still allowing for flexibility 
+as needs and capacity change. 
+NATIONWIDE  
+Nationwide has its own internal agency shop of 150  
+full-time employees, the iN-House Marketing Group. 
+Founded in 2015, the shop unifies decentralized business 
+units working in silos. Still, the financial services company 
+works with a hybrid model on in-house resources and 
+external agencies, according to Mike Boyd, senior vice 
+president of enterprise brand marketing. 
+The group is built like a traditional agency: It has 
+account and project managements teams, a creative 
+services group with writers and designers, a marketing 
+operations unit to manage workflow, and an on-site 
+studio for photography and video production. Uniquely, 
+Nationwide manages programmatic media—including 
+social—internally, but that unit sits within the media 
+center of excellence, a separate entity from the iN-House 
+Marketing Group.  
+Although the Nationwide staff handles that work, the 
+company still leans on its retainer agency roster heavily: 
+Ogilvy handles national advertising and brand work; 
+Universal McCann executes all media strategy outside of 
+programmatic; Wasserman manages sport sponsorships; 
+and Edelman does public relations. 
+All of the external partners and internal experts clearly 
+understand how the work is delineated. Boyd uses the 
+metaphor of “swim lanes” to describe the clarity of who 
+executes what. Agile processes and new collaboration 
+and project management tools have enabled much of 
+this clear demarcation. And in the cases where the 
+internal agency is at capacity, a roster of smaller shops 
+handles one-off project-based deliverables to keep the 
+wheels moving. NEW BALANCE 
+Sports apparel and footwear company New Balance 
+operates its marketing and advertising with a flexible 
+model. “We have a mix of in-house talent across 
+digital and retail capabilities that service both regional 
+and global needs, ” said Tim Malone, director of global 
+marketing. Internally, designers, creators, production and 
+operations own the day-to-day needs for ecommerce and 
+programmatic campaigns. A mix of external agencies 
+supplement this group for concepting, production 
+and execution. 
+“Often, the best ideas start with the people closest to 
+the work who really know the brand; other times it takes 
+a fresh outside perspective, ” Malone said. “It’s about 
+expanding resources and leveraging the right talent in the 
+right place. ” 
+PRUDENTIAL 
+At Prudential, the portfolio of work is managed through 
+a dynamic hybrid approach, according to Niharika Shah, 
+chief brand officer at the financial services company. 
+Shah thinks of this hybrid model as a bell curve. The 
+leading 10% to 15% at the start of the curve is everything 
+that is fully outsourced “because external perspective is 
+vital, or the skill is highly specialized to build or find  
+in-house efficiently. ” This includes partnerships with 
+creative agencies like Droga5 on master brand image 
+work or the development of animation or virtual reality 
+(VR) experiences. 
+The middle 70% to 80% of the bell curve is the work 
+led by internal staff where there is “heavy lifting in terms 
+of integration, campaigns that require proximity to the 
+business, and integration with owned digital experiences, ” 
+Shah said. “Integration from the outside is an elusive 
+concept, as campaigns are less about 30-second TV 
+spots and increasingly more about platforms and digital 
+ecosystems across media channels. ” 
+The final 10% to 15% is work that is outsourced for 
+efficiency and may include digital production or staffing of 
+external sponsorships or events. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  12
+“The value of this model is that it is always changing 
+based on the demands of the business and the external 
+media and tech landscape, ” Shah said. “It keeps talent 
+engaged and aims to optimize marketing investments and 
+agency relationships. ” 
+THE CLOROX COMPANY  
+Electro Creative Workshop, The Clorox Company’s  
+in-house agency, has been around for 35 years (rebranded 
+as its current expanded form in 2018), and has spent the 
+past decade focused on digital experience, websites, 
+experiential events and content. “We have all sorts of 
+capabilities that we’ve developed as business needs, 
+consumers, and the retail marketplace has grown 
+and evolved, ” said Kerri Martin, chief electrofier at the 
+company. “But what’s really important for any in-house 
+agency is having the tools, processes and systems to 
+enable you to grow and expand. ” 
+Also essential is executive support and trust. And trust 
+comes from the value proposition. “We can get the 
+work done 25% faster for 25% less investment, but 
+with 100% of the same world-class quality as our other 
+agency partners. ” 
+A major turning point in recent years for the company 
+has been “evolving from order-takers to order-makers, ” 
+Martin said. The workshop is much more involved in the 
+big-picture strategy than it has been in the past. This has 
+occurred as more competencies have been added to the 
+agency’s skill set. 
+TRUNK CLUB 
+D2C subscription clothing box company Trunk Club has 
+had an in-house creative since its founding in 2009. The 
+group has historically been an independent creative team 
+responsible for photography and the development of print 
+and digital creative, but it was never truly integrated with 
+the business, according to Maureen Boyle, senior director 
+of creatives services and events. 
+The company recognized a need for more integration and 
+collaboration so that the creative team’s work was in line 
+with the requirements of the core business. The first step was to establish the framework. How 
+would this agency operate? What would the team 
+structure look like? What roles needed to be filled? And 
+how would those roles operate within the agency and 
+within the larger company?  
+These days, the creative in-house agency is responsible 
+for two functions: the design team (including copywriting 
+and content) and the production side, in charge of all 
+photo and video. 
+Together, both sides comprise the brand authority. “They 
+are the brand experts, ” Boyle said. “The in-house agency 
+understands the personality of Trunk Club, the tone 
+of voice, the visual guidelines and can enforce those 
+standards across the business. ” 
+Stakeholders from both sides of the agency collaborate 
+in a working-group team structure to intake new projects, 
+developing the concept, assets, creative reviews, edits 
+and revisions, Boyle said. 
+But when the in-house team is at capacity, the company 
+uses freelancers or even creative agencies on a contract 
+basis with freelancers. “External agencies will always 
+be necessary, ” Boyle said. “The in-house group will 
+sometimes lean on these partners for fresh ideas, and we 
+consider them an extension of the internal unit. ” 
+VERIZON COMMUNICATIONS  
+When 140, Verizon Communications’ in-house agency, 
+was created in 2017 , the telecommunications firm relied 
+on nearly 50 different agency partners, according to 
+Warren Chase, vice president and chief operating officer 
+at 140. The internal agency was formed with the goals 
+of taking back brand ownership, having more proximity 
+to decision-making, attracting the best talent and 
+streamlining the number of partners. 
+The initial concept started with a blueprint on what 
+capabilities 140 would set up in-house in the first three 
+years. “Now Verizon has subject matter expertise in skills 
+that the company didn’t have before because everything 
+was outsourced. We didn’t know how to run an agency. 
+Having that skill set in-house, we have been able to 
+dramatically impact the way we work, and the creative 
+outcomes themselves, ” Chase said. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  13
+Today, the agency handles all of Verizon’s owned online 
+channels, social media and the retail environment, 
+including the setup of stores, decor, displays and 
+messaging. “We didn’t want confusion between us 
+and external agencies on who would be doing what. ” 
+McCann, for example, works with Verizon on TV 
+campaigns in cooperation with the in-house group. 
+CHALLENGES AHEAD 
+The above examples might paint an optimistic 
+picture of finding the appropriate flexible model 
+that balances in-housing with agency relationships. 
+While those brands have had success, experts who 
+spoke with us for this report gave caution about how 
+difficult this work can be, and the unique challenges 
+they faced when streamlining their relationships. 
+According to the survey from The Boss Group and Cella 
+Consulting, half of in-house agencies said resourcing was 
+the biggest challenge for their in-house teams. Innovation, 
+skill sets, keeping up with market trends and technology 
+were also cited as hurdles. 
+% of respondentsChallenges Faced Within Their Group According to US
+Creative Teams and In-House Agencies , Jan 2019
+Resourcing 50%
+Innovation 46%
+Skill sets 34%
+Keeping up with market trends 31%
+Technology 25%
+Other 12%
+Note: n=321
+Source: The Boss Gr oup and Cella Consulting,  LLC,  "2019 In-House Creative
+Industry Report," April 5,  2019
+247225 www .eMarketer.com
+Other in-house creatives said that the speed at which 
+they are expected to work and the volume of demand 
+were leading challenges, according to a February 2019 
+report from InSource and inMotionNow. Being a strategic 
+contributor, communication with clients and meeting 
+expectations, the increasing mix of channels that require 
+creative and new technologies were also barriers. scale 1-7What Are the Leading Challenges US In-House
+Creative Teams Face in 2019?
+Speed at which creative teams are expected to work
+5.44
+Volume of demand for creative work
+5.35
+Being a strategic contributor to meeting organizational goals
+4.36
+Communicating with clients and meeting expectation s
+3.86
+Increasing variety of marketing channels that need creativ e
+3.79
+New technologies that change the way teams work
+2.79
+Retaining and supporting creative staff
+2.42
+Note: 1=least c hallenging and 7=most c hallenging
+Source: InSour ce and inMotionNow , "2019 In-House Creative Management
+Report," F eb 12,  2019
+245315 www .eMarketer.com
+Part of what makes the new brand-agency relationship 
+flexible is that it is ever-evolving. What works today might 
+not work tomorrow. Brands and partners must continue 
+to implement assessments of gaps and overlaps regularly 
+to ensure that capacity and capabilities are balanced both 
+internally and externally. 
+In 2019, brands are taking ownership and piloting more  
+in-house competencies, some with a true in-house 
+agency and others with smaller teams. As an outside 
+partner, the agency will always serve as the safety 
+net to support the brand as they work through the 
+challenges together. 
+Herbert gives the example of Dentsu Aegis client Intel. 
+The tech company set up a full in-house agency and 
+then disbanded it in late 2018 to shift its focus away 
+from consumer audiences to more of a B2B strategy. 
+“They felt they would be better served with an agency 
+relationship, ” he said. 
+“There is going to be a lot of trial and errors for clients, ” 
+Burby of Wunderman Thompson said. “If brands go too 
+far in one direction, they will feel it out and course-correct. 
+As business needs morph and shift over time, and 
+industry dynamics and technology change, the pendulum 
+will swing back and forth. ”  
+But agency partners will be there to help the brand if and 
+when that time comes. THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  14
+KEY TAKEAWAYS 
+ ■The brand-agency relationship is a flexible 
+engagement, unique to each brand, and evolves 
+over time.  The only constant is that it requires 
+cooperation and buy-in from all stakeholders—internal 
+and external. Having a clear delineation process is also 
+necessary to know which party owns what.  
+ ■Brands lean on their agency ecosystem for support 
+with marketing capability and capacity.  The AOR is 
+not as common as it used to be. And in 2019, brands 
+are outsourcing to a very fragmented roster of partners, 
+including agencies, tech vendors and consultancies. 
+ ■Brands should regularly perform a gaps and overlaps 
+assessment to uncover the areas in which they need 
+support for an external agency partner.  Consulting 
+firms often assist brands with this exercise. This 
+assessment should be revisited regularly. 
+ ■In-housing is becoming more common, but it’s not 
+a binary action.  Not all brands who in-house have 
+an in-house agency, and most brands who do so still 
+engage with agencies. 
+ ■T aking capabilities in-house is not without 
+challenges.  Many brands rely heavily on external 
+expertise, from agencies, consultancies and vendors to 
+guide them on this journey. 
+EMARKETER INTERVIEWS 
+Sarah Armstrong 
+Partner 
+McKinsey & Company  
+Interviewed April 30, 2019 
+Michele Barlow 
+Senior Vice President,  
+Enterprise Marketing Executive
+Bank of America 
+Interviewed May 9, 2019 
+Mike Boyd 
+Senior Vice President, Enterprise Brand Marketing 
+Nationwide 
+Interviewed May 2, 2019 
+Maureen Boyle 
+CEO and Director of Creative Services and Events 
+Trunk Club 
+Interviewed April 29, 2019 
+Scott Brazina 
+CMO 
+Impact 
+Interviewed April 29, 2019 
+Jason Burby 
+Chief Client Officer 
+Wunderman Thompson, North America 
+Interviewed May 2, 2019 
+Jenny Chan 
+Senior Director, Consumer Marketing 
+and Acquisition 
+Cars.com 
+Interviewed February 26, 2019 
+Warren Chase 
+Vice President, Chief Operating Officer, 140 
+Verizon  
+Interviewed May 13, 2019 
+Jess Clifton 
+US Head of Digital  
+Edelman 
+Interviewed April 23, 2019 
+Christine Cutten 
+Principal, Marketing Transformation 
+Practice Leader 
+Deloitte Consulting 
+Interviewed April 29, 2019 
+Emily Del Greco 
+President, Americas 
+MightyHive 
+Interviewed April 29, 2019 
+Bill Duggan 
+Group Executive Vice President 
+Association of National Advertisers (ANA) 
+Interviewed April 22, 2019 
+Emily Foster 
+Director 
+In-House Agency Forum (IHAF) 
+Interviewed May 2, 2019 THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  15
+Scott Hagedorn 
+CEO 
+Omnicom Media Group 
+Interviewed May 2, 2019 
+Dirk Herbert 
+Chief Strategy Officer 
+Dentsu Aegis Network US 
+Interviewed May 2, 2019 
+Stefanie Jay 
+Vice President and General Manager 
+Walmart Media Group 
+Interviewed May 10, 2019 
+Karyn Johnson 
+President, Programmatic Investment 
+Publicis Media Exchange 
+Interviewed April 29, 2019 
+Mike Lamb 
+Partner 
+McKinsey & Company  
+Interviewed April 30, 2019 
+Jessica Lustgarten Courtemanche 
+Vice President, Director, Data and Analysis 
+Digitas 
+Interviewed February 26, 2019 
+Scott Mager 
+Principal, Digital Advertising and 
+Marketing Leader
+Deloitte Consulting 
+Interviewed May 13, 2019 
+Tim Malone 
+Director, Global Marketing 
+New Balance 
+Interviewed April 30, 2019 
+Kerri Martin 
+Chief Electrofier, Electro Creative Workshop 
+The Clorox Company 
+Interviewed May 3, 2019 
+Leland Maschmeyer 
+Chief Creative Officer 
+Chobani 
+Interviewed May 2, 2019 
+Michael McLaren 
+Executive Vice President  
+Merkle  
+Interviewed April 17, 2019 
+Michelle Mirshak 
+Senior Vice President,  
+Data Architecture and Governance 
+Spark Foundry 
+Interviewed February 26, 2019 
+Gaja Nagarajan 
+Managing Director, IT 
+Maxim Integrated 
+Interviewed May 8, 2019 
+Joshua Palau 
+Vice President, Media Strategy and Platforms 
+Bayer Consumer Health 
+Interviewed May 6, 2019 
+Bob Ray 
+Global CEO 
+DWA 
+Interviewed February 26, 2019 
+Jason Rose 
+CMO 
+SAP Customer Experience  
+Interviewed May 9, 2019 
+Krish Sailam 
+Senior Vice President,  
+Global Programmatic Solutions 
+DWA 
+Interviewed February 26, 2019 
+Steve Simpson 
+Senior Global Executive 
+Publicis Groupe 
+Interviewed February 26, 2019 
+Niharika Shah 
+Chief Brand Officer 
+Prudential Financial 
+Interviewed May 9, 2019 
+Brooke Skinner Ricketts 
+CMO 
+Cars.com 
+Interviewed February 26, 2019 THE BRAND-AGENCY RELATIONSHIP:  STREAMLINING WITH IN-HOUSE TEAMS AND FLEXIBLE ENGAGEMENT MODELS ©2019 EMARKETER INC.   ALL RIGHTS RESERVED  16
+Mark Sneider 
+President  
+RSW/US  
+Interviewed April 24, 2019 
+Elizabeth Spaulding 
+Partner and Co-Leader, Global Digital Practice 
+Bain & Company  
+Interviewed April 26, 2019 
+Scott Symonds 
+Managing Partner 
+AKQA 
+Interviewed February 26, 2019 
+Scott Tieman 
+Managing Director and Personalization Lead 
+Accenture Interactive 
+Interviewed May 1, 2019 
+Beth Wade 
+Global CMO 
+VMLY&R 
+Interviewed May 8, 2019 
+Amy Winger 
+Chief Strategy Officer 
+VMLY&R 
+Interviewed May 8, 2019 
+Stephanie Swingle 
+CMO 
+Mizzen+Main  
+Interviewed May 3, 2019 
+READ NEXT 
+The Modern Marketing Department 2018: Evolution 
+Through Digital T ransformation 
+How’s that Digital T ransformation Going? A Slideshow 
+of How Marketers, Agencies and Ad T ech Executives 
+View Their Efforts 
+Digital T ransformation: How Collaboration T ools 
+and Strategies Can Align Organizations with 
+Business Objectives SOURCES 
+Association of National Advertisers (ANA) 
+Cella Consulting 
+Cowen and Company 
+Dentsu Aegis Network 
+Digital Marketing Institute (DMI) 
+Forrester Consulting 
+In-House Agency Forum (IHAF) 
+inMotionNow 
+InSource  
+Marketing Land 
+RSW/US 
+SoDA 
+The Boss Group 
+The CMO Club 
+World Federation of Advertisers (WFA)  
+EDITORIAL AND  
+PRODUCTION CONTRIBUTORS
+Anam Baig Senior Editor 
+Joanne DiCamillo Senior Production Artist 
+Donte Gibson Chart Editor 
+Katie Hamblin Chart Editorial Manager
+Dana Hill Director of Production
+Erika Huber Copy Editor
+Ann Marie Kerwin Executive Editor, Content Strategy
+Stephanie Meyer Senior Production Artist
+Heather Price Deputy Editor
+Magenta Ranero Senior Chart Editor
+Amanda Silvestri Senior Copy EditorCoverage of a Digital World
+eMarketer data and insights address how consumers 
+spend time and money, and what marketers are doing to 
+reach them in today’s digital world. Get a deeper look at 
+eMarketer coverage , including our reports, benchmarks and 
+forecasts, and charts. 
+Confidence in the Numbers
+Our unique approach of analyzing data from multiple 
+research sources provides our customers with the most 
+definitive answers available about the marketplace.  
+Learn why .
+Customer Stories
+The world’s top companies across every industry look to 
+eMarketer first for information on digital marketing, media 
+and commerce. Read more  about how our clients use 
+eMarketer to make smarter decisions. 
+Y our account team is here to help:
+Email research_requests@emarketer.com  to submit a request for research support, or contact  
+accounts@ emarketer .com  or 866-345-3864 to discuss any details related to your account. 
+To learn more about eMarketer advertising and sponsorship opportunities, contact  
+advertising@emarketer.com .
+The leading research firm for marketing in a digital world.

@@ -1,0 +1,1181 @@
+The Mesa Method: An Outsider’s
+Perspective
+By
+Tiago Forte
+Copyright © 2019
+Forte Labs, LLCTable of Contents
+Introduction
+Chapter 1: What is the Mesa Method?
+The premise
+The structure
+The experience
+The context
+Chapter 2: The Principles of Mesa
+Mesa’s 3 Core Principles
+Balancing principles
+Indulgence vs. minimalism
+Obsession vs. improvisation
+Conflict vs. conviction
+Pleasure vs. responsibility
+Thinking vs. doing
+Tuning the environment
+Chapter 3: The Art of Unlocking People’s Creative Potential
+Full commitment
+Limited collaboration
+Intensity
+Prototypes
+Chapter 4: The Origins of Mesa
+The journalistic instinct
+Learning by doing
+It’s no use waiting for certainty
+Making decisions is essential
+Listen before talking
+The problem is always about the whole business
+You MUST work with the problem owner
+To work is to create
+Independent Mesas
+Never use the word “collaboration”
+Results over processThe bigger the challenge, the better the Mesa
+Anyone can take part in a Mesa
+A new view of diversity
+Chapter 5: The Future of Work That Mesa Envisions
+The era of the briefing is over
+We believe in doing
+Social responsibility will be part of every product
+The conviction of the maker
+The power of feminine leadership
+TransformationIntroduction
+It is the end of day 3 of the most challenging project I’ve ever worked on.
+It’s like no conference room I have ever been in. The light pours in through
+12-foot windows that look out over the city skyline of Belo Horizonte, in
+Southern Brazil. Sitting in luxurious chairs, with staff attending to my every
+need, and delicious food laid out on a table nearby, I should be totally at ease.
+But I’m terrified of what I know I have to say.
+15 of us are seated around a long table running the length of the room. We’re
+having an intense conversation about the project we’re working on –
+developing a new multimedia system for the vehicles produced by the Italian
+automaker Fiat.
+On either side of me are experts in every aspect of vehicle design and
+manufacture. There are policy experts, marketing directors, and operations
+managers who work for Fiat all over Brazil. There are Fiat executives who
+have flown in from Europe to oversee the work. At the head of the table is a
+world-renowned expert in auto design and branding who flew in from Tokyo
+to lead the project.
+I’m certain that I am the least qualified person in the room. I have little
+experience in anything related to automotive vehicles. Portuguese is not my
+native language, and I’m still jet-lagged from my flight just a couple days
+before.
+But as the conversation unfolds, I realize that I have the key piece of
+information needed to move forward: the theory of the consumerization of
+IT. It’s an obscure theory I read about on a blog somewhere. I never
+imagined it might be useful.
+I cleared my throat and announced tentatively, “I have something to say.”
+And suddenly, the room was mine. Someone found a poster and gave me a
+marker. Chairs were rearranged, and all eyes were on me.I drew a simple graph and explained what I knew. That there was a
+predictable pattern to how new technologies entered the marketplace, starting
+as expensive custom solutions and moving over time toward standardized,
+consumer products. It took me all of five minutes to explain, but before I was
+even finished, mental lightbulbs were turning on all over the room.
+The entire project pivoted around what I had presented, and we began using it
+as a lens to understand each aspect of the product we were developing.
+Because we had every skill and every piece of knowledge we needed in the
+room, it took only moments for our new approach to be translated into the
+language of operations, finance, marketing, and design.
+Within minutes, these insights turned into action.
+The group divided into working teams that tackled the technical
+specifications, started crafting the presentation to the board, and began
+brainstorming ways of explaining the new product to customers. There were
+still tough moments, when we encountered new constraints and had to find
+our way through.
+But as the five-day project wrapped up on Friday, I knew I had made a
+difference. An obscure piece of knowledge I was uniquely positioned to
+contribute turned out to be a critical piece of the puzzle.
+All this was possible because this was not your typical project. It was a Mesa,
+a five-day intensive work experience designed and executed by the Brazilian
+company of the same name.
+How often do you have something to say in a meeting, but you don’t say it,
+because you’re sure it won’t be taken into account? How often do you
+contribute something you know is valuable, but then see it stagnate in the
+bureaucracy of the organization? How often do politics prevent the best idea
+from rising to the surface in your team’s work?
+Mesa is more than a company – it has now become a Method that anyone
+anywhere can use to solve complex challenges on a vastly accelerated
+timetable. Developed by Founder and CEO Bárbara Soalheiro and her team
+over seven years and more than 140 Mesas, it is a revolutionary new way of
+bringing together in one place and one time all the skills, knowledge, andtalent needed to solve a difficult problem.
+In an era of distributed work, Mesa is local and concentrated. In a time when
+everything is becoming digital, Mesa takes place live and in person. Instead
+of working anywhere and anytime, which translates to working everywhere
+and all the time, Mesa puts a strict limit on the time allowed, and challenges
+us to do something extraordinary with it.
+The splintering of work into a million tiny pieces distributed throughout the
+day and night has made us stressed out and distracted. It has robbed us of
+many of the inherent pleasures of work: the bliss of deep concentration, the
+satisfaction of starting and finishing something in one sitting, and the
+fulfillment of working shoulder to shoulder with peers.
+Many are seeking a return to what was lost: concentrated, intensive,
+experiential work environments that drive to completion and give us the
+satisfaction and fun of working closely alongside others.
+We are witnessing the rise of a generation of  “Accelerated Work
+Experiences,” or AWEs for short, to address this need. AWEs include any
+work format that compresses productive activity to deliver a result much
+faster than would otherwise be possible. Often known as a “sprint,” an
+Accelerated Work Experience can come in many shapes and sizes.
+I’ve participated in dozens of AWEs of various kinds over the years, and
+have reliably found them to be among the most gratifying, exciting, effective,
+and insightful experiences I’ve ever had, professional or otherwise. In this
+book I want to take a closer look at the one that has stood out the most: 
+the
+Mesa Method
+.
+By bending nearly every rule about when and where and why and how work
+should be performed, Mesa is calling into question every assumption we have
+about modern productivity. By producing results that defy expectations while
+helping people unlock their creative potential, it is pointing the way forward
+to a radical new vision for the future of work.Chapter 1: What is the Mesa Method?
+A Mesa is a five-day, intensive work sprint delivered on behalf of a client,
+usually a large company or other organization. I will call the company Mesa
+Co. and the method itself simply “Mesa.” Mesa Co. gathers 12-16
+participants in beautiful, often exotic locations around the world, seeking to
+create the ideal environment to focus on and solve a complex problem that
+the organization is facing. The participants are split more or less evenly
+between employees of the client company, and outside experts and makers,
+who offer outside perspectives and hands-on skills.
+I participated in my first Mesa about four years ago, and have been a part of
+three others in Brazil and the U.S. since then. I’ve also borrowed some of
+their practices for my own workshops. I can say unequivocally that they are
+among the most rewarding work experiences I’ve had. I’ve been collecting
+notes and ideas since that first experience to try to understand why.
+In September 2018, the Mesa Co. team gathered 32 of their closest
+collaborators at a beautifully designed eco-retreat center in the jungles of
+Southern Brazil, near the resort town of Paraty. But this was not a typical
+client Mesa – it was the first-ever Mesa Leader Session. For the first time,
+they pulled back the curtains, and for three very full days told us everything
+they had learned from running more than 130 Mesas over 8 years, for clients
+including Google, Coca-Cola, Unilever, Samsung, Nestle, and many others.
+And I’m finally ready to tell you how they do it.
+Photos from the first Mesa leader session in Paraty, Brazil:The premise
+Here is the basic premise: the world is only getting more complex. This
+means there will be fewer and fewer proven solutions to problems. What we
+need is not a new and better solution, but a 
+method
+ for creating solutions
+quickly, in response to changing conditions.
+At the same time, the most talented people are increasingly mobile and in
+demand. It is going to be increasingly more difficult to tie them down with
+full-time employment.
+The only way to solve the world’s most complex challenges is by working
+with the best in the world. And the only way to do that is to keep the timecommitment short, remove every obstacle to them creating value, and create
+an environment and a team where they can do the best work of their lives.
+It was in pursuit of this vision that Mesa was born.
+The goal is to create a time-limited, but very intense working environment
+where a small group of carefully chosen participants can build something
+tangible to advance a mission or cause that they care about. The method takes
+advantage of rapid prototyping tools, software-as-a-service, and modular
+templates to build a functional prototype that embodies the knowledge and
+experience of everyone at the table. This prototype is often used not just to
+demonstrate the viability of a particular solution, but to build consensus
+around a new direction for the company.
+The client is a “problem owner” responsible for an important challenge that
+they can’t solve on their own. Perhaps their main product is no longer
+resonating with a younger generation of consumers. Maybe their marketing
+channels are outdated and obsolete, but they are afraid to cannibalize them
+with new ones. They could be tasked with revitalizing a product line in the
+face of major technological shifts. Or it could be a social mission, meeting
+the needs of an underserved population under tight budgetary constraints.
+Whatever the problem, Mesa is unique in that it is not primarily a service
+provided at arms’ length to a paying client. The Mesa Co. team works 
+with
+the client, not 
+for
+ the client. The problem owner and their team are the central
+participants in the process, which generates a level of trust and
+communication between clients and Mesa leaders unlike anything I have seen
+with typical agencies or consultancies. In our three days together, they had to
+repeat this again and again because it is so contrary to conventional thinking:
+take the client at their word, instead of assuming or insisting that there 
+must
+be a deeper problem that they aren’t aware of.
+The structure
+The overall structure of the five days is fairly straightforward, and similar to
+other sprint methodologies.
+Day 1 is a “download day” dedicated to getting all the relevant information
+inside everyone’s heads “out on the table.” This includes the externalparticipants, who are chosen for their specialized expertise in the industries,
+markets, and technologies thought to be most relevant to the challenge.
+On Day 2, the carefully worded “mission” is unveiled, drawing on the
+discoveries from the day before to frame the client’s problem as an inspiring,
+yet feasible challenge. The second half of the day is spent generating a small
+set of ideas to prototype.
+All photos are from the official 
+Mesa Instagram account
+Day 3 is for prototyping, which includes small groups writing copy, making
+mockups or landing pages, building demos, or producing short videos or
+presentations to demonstrate the viability of the ideas from the day before. Itis on Day 3, once people have to start making real tradeoffs in the making of
+prototypes, that the real constraints are revealed.
+Day 4 is focused on more advanced prototyping, taking the most viable
+prototypes to a basic level of functionality. The leader pushes to bring the
+fidelity of the prototype as close to reality as possible, including real code
+and functional backends whenever possible. The further toward reality it
+moves, the more hidden constraints and priorities will come to the surface.
+Day 5, the final day, is focused on wrapping up loose ends and preparing the
+final presentation. Mesa Co. is adamant that the final deliverable cannot be
+just
+ a presentation (or a report or briefing). The presentation is a vehicle for
+delivering and explaining the prototype that was created. The presentation is
+ideally made to senior leaders of the company, or other stakeholders who will
+demand a high level of rigor. This is what creates a real sense of urgency and
+meaning around the deadline, and brings out the “productivity magic” of the
+last two days.
+But where Mesa shines is not in the explicit – the rules, structures, schedule,
+checklists – but in the tacit, the subtle, and the sublime. They have found a
+way to use these subtle touches not just to create a memorable experience,
+but to produce results that more heavy-handed methods can only dream of.
+The experience
+Why “Mesa” (which means “table” in Portuguese)?Because the table represents the intersection of pleasure and commitment.
+The pleasure of family and friends sitting together and sharing a meal in the
+evening. And the commitment of getting down to business, of giving
+everything you have to the task at hand.
+Tables and the meals we eat on them are enveloped in rituals. From the way
+the table is set, to how the food is served, to how people sit and prepare
+themselves for eating, to how the food is actually eaten. Hundreds of these
+small rituals give us prescribed behaviors that we know will lead to the
+outcome we’re after – getting fed. They ensure we don’t disturb the
+experience of others, that we respect the host and the household, and that the
+food remains sanitary.
+But there is a deeper purpose to these rituals that is easy to miss: they imbue
+the entire experience with significance. They make the process of getting
+calories into our bodies much more than the sum of its parts: an affirmation
+of our values, a time of connection with the people we love most, a reminder
+of what really matters at the end of a hectic day.
+Mesa seeks to reintroduce and translate some of these rituals to the world of
+work. But not just for nostalgic purposes. It recreates them from the ground
+up, focusing them like a laser beam on one thing: producing results. It is areinvention of the rituals that once bound us together in a shared purpose and
+working toward a common cause, but adapted to the modern context.
+The experience begins with the venue. Mesa Co. very carefully chooses
+locations that support the results they are trying to produce. The venues
+almost always have a “wow factor” to inspire the participants with an
+environment that stimulates all the senses. Entering the venue as a group and
+seeing the meticulously laid out table gives you a sense of the gravity and
+importance of the mission you are about to undertake.
+The table is, of course, central. It is laid out with precise measurements down
+to the centimeter, in order to put people just close enough to work together,
+while giving them enough space to get messy. Each place at the table has a
+name on it, like a wedding where every seating assignment is carefully
+chosen. The setting includes just the essential materials needed for the week,
+often including a notebook, pen, and bag. Even the color scheme is chosen
+with intention, often purposefully clashing with the client’s official colors to
+avoid the “business as usual” attitude.Every element in the space is chosen with intention: the chairs are
+comfortable for long hours of sitting and working; bags are collected in a
+central location so they don’t get in the way; the food is prepared simply and
+to avoid afternoon crashes; there are no clocks, giving the experience a sense
+of timelessness. My favorite touch is the “Leave Me Alone” wall – a grid of
+pockets with participants’ names on them, where everyone is asked to leave
+their phones to remove the temptation.The real purpose of all these decisions and rituals is to change participants’
+behavior, away from the counterproductive habits we so often tolerate, and
+toward a more focused way of working that is rarely possible in a distraction-
+filled workplace. Mesa changes behavior not with rigid rules, but by
+changing the context
+.
+As you find yourself in an environment purposefully free of the usual triggers
+and hooks, with a full staff dedicated to protecting you from every distraction
+or discomfort, your creativity is unleashed. People respect rituals more than
+rules, because rituals give us something meaningful in return for our
+compliance.
+The context
+Coming back to the everyday world, I’ve begun to notice a phenomenon
+everywhere: as soon as one person in a group takes out their phone or
+computer, everyone else is much more likely to do so as well. It only takes
+one person to check out for the atmosphere of human presence to start being
+sucked out of the room, like an airplane cabin with a punctured window. And
+once that air is gone, it’s very hard to bring people back.
+A quick glance at your notifications seems so harmless, but it communicates
+something unmistakable to others: there is somewhere you’d rather be,
+mentally if not physically. Check your phone, and an invisible cocoon
+suddenly springs up around you. It is this cocoon that makes it hard to
+connect with the people around us, even after the phones are put away.
+I believe that people naturally 
+want
+ to focus, but only if that focus will be
+protected and respected. They want to give their best, but only if that effort
+will be put to good use. As the idealism of wanting to do a good job collides
+with the fragmented reality of modern schedules, we become resigned,
+gradually coming to resent the environment that seemingly won’t allow us to
+excel.
+What I see with Mesa participants is a sigh of relief, followed by an
+unbelievable explosion of creative energy. Every signal tells them that this is
+a place for focus, that their contributions are valued. When the internal andthe external conditions align, it feels like anything is possible.
+Now that you have the overall picture of what a Mesa looks like, in Chapter 2
+I’ll dive into what I believe are the underlying principles, and later we’ll look
+at how you can apply them to your own work.
+If you want to dive right in, Mesa Co. offers a 
+comprehensive online course
+that trains leaders to apply Mesa principles to their own work. Click the link
+above to visit the course and watch the first couple videos for free.Chapter 2: The Principles of Mesa
+In Chapter 1, I described the basics of the team-based work sprint
+methodology known as Mesa. Now let’s take a closer look at the underlying
+principles that make Mesa work.
+Mesa’s 3 Core Principles
+The team at Mesa Co. has identified three principles they believe lie at the
+heart of their method: vulnerability, intention, and presence.
+Vulnerability
+ appears when the Leader takes the head of the table, stepping
+into a role that is part master of ceremonies, part inspirational visionary, part
+herder of cats, and part group therapist. If vulnerability is “the courage to be
+seen when you have no control over the outcome,” (according to Brené
+Brown), then the job of Mesa Leader squarely fits.
+Intention
+ is about knowing 
+exactly
+ why you’re doing something. Every pen
+and paper clip is set on the table with intention, each one subtly
+communicating, “We put this much intention into each pen – will you be as
+intentional about the work you do here?”
+Presence
+ is perhaps the most fundamental of the three. It includes doing just
+one thing at a time, and doing it well. But it goes far beyond focus. Being
+present as a Leader means making your personality 100% available to the
+people you are working with. It requires pulling all the various selves
+dwelling on the past and future, into the present where discomfort, but also
+opportunity, reigns.
+Balancing principles
+As important as these three principles are, I believe they are only the tip of
+the iceberg of what is happening during a Mesa.
+I’ve identified 10 others that I believe are at work. These extra principles
+come in pairs, each balancing the other. The job of the Leader is to choose
+which one manifests at any given moment.Indulgence vs. minimalism
+There is undoubtedly a “WOW Factor” that is an important part of the Mesa
+experience. The venues are often jaw-dropping, creating an atmosphere of
+indulgence and luxury so different from the bland offices or cramped cafes
+where so much of modern work is performed.
+But this indulgence is counterbalanced against a stark, practical minimalism.
+The experience design team repeats “only the essentials” like a mantra,
+looking for any opportunity to strip away what isn’t needed. They will
+remove paintings from the walls if they are distracting, or count the number
+of pages in the notebooks to ensure there is no excess.
+Obsession vs. improvisation
+There is an unmistakable attitude of obsession in everything that Mesa Co.
+does. From the precision of the place settings, to the unyielding commitment
+to tangible results, it is a culture that leaves room for the perfectionism of the
+creative people who participate as experts and makers. They are encouraged
+to fulfill the high standards that they often don’t have the chance to reach
+doing commercial work.
+But the drive for excellence is balanced against a willingness to improvise at
+a moment’s notice. Leaders are even discouraged from researching too much
+about the client or their problem beforehand, because their learning in real
+time is an opportunity for everyone to learn along with them. Especially after
+Day 2, improvisation to changing circumstances is the art of leading a Mesa.
+Conflict vs. conviction
+The Mesa approach to conflict is very different from what I’ve witnessed in
+most corporate environments. Everyone is encouraged to “bring everything to
+the table,” 
+especially 
+their reservations and concerns about the progress of the
+Mesa. There are no side conversations, no backchannels, and no hidden
+agendas entertained. The whole point of bringing everyone together in one
+place is to force the problems to emerge out into the open, where they can be
+addressed.
+But it is towards the end of the Mesa that the purpose of this conflict becomesclear. It is only by getting everyone’s doubts and fears out into the open, and
+showing them that they’ll be seen and heard, that you have the opportunity to
+build real conviction. Not just lukewarm 
+consensus
+, but a 
+conviction
+ that they
+know exactly what to do when they get home. The Problem Owner must go
+through every up and down of the experience to have the confidence to stand
+in front of an audience during the final presentation and say, “This is the
+solution I believe in.” Not because it went through many months of analysis,
+but because it emerged from a meeting of great minds working at their full
+capacity.
+Pleasure vs. responsibility
+One of Mesa Co’s strongest beliefs is that work is inherently pleasurable.
+They don’t believe in adding games and gimmicks to make work “engaging.”
+Instead, they amplify natural rewards: the camaraderie of working late into
+the night with peers you respect, the satisfaction of seeing something you
+created immediately put to use, and the pure euphoria of completing the
+mission on the last day, with no follow-up work required. Mesa Co.
+sometimes speaks of their job as “seducing” participants into giving them
+their best work.
+This seduction is balanced against responsibility. The role of the Leader is
+quite different from a typical facilitator on this point. The Leader is “110%
+responsible” for the results of the Mesa, in the words of founder Bárbara
+Soalheiro. She insists that the Leader must be committed to greatness, not
+just delivering something to specifications. She is fond of telling people NOT
+to “trust the process.” Instead of blindly trusting the process, the Leader has
+to make a decision that will produce results.
+Thinking vs. doing
+The Mesa experience is extremely intellectually challenging. As a participant,
+you are expected to integrate new knowledge and turn it into action at a
+stunning pace. The problems that are worthy of a Mesa are often thorny and
+multidimensional. They often involve shaping complex systems impacting
+many thousands of people. Thinking through the implications is essential.
+But thinking also has its limits. While in debate mode, people’s minds are setto criticize. And they can always find something to criticize. By switching
+everyone into maker mode when they get stuck, suddenly their minds begin
+looking for solutions. By asking them to demonstrate instead of elaborate,
+any decisions that are made are more grounded in reality.
+Tuning the environment
+Each of the pairs of principles above is like a dial on a control panel,
+allowing the Mesa Leader to fine tune how the group is working.  By holding
+time as the only fixed constraint, explicitly meeting the needs of everyone
+present, and placing them all around the same table with access to the same
+information, the playing field is leveled.
+On this level playing field, it is the responsibility and the burden of the Mesa
+Leader to enable everyone to do the best work of their lives.
+In Chapter 3, I’ll look at other key elements of the Mesa Method, and how
+they help unlock the creative potential of the people who participate.
+If you’re ready to get your hands dirty, 
+click here
+ to visit Mesa Co’s
+comprehensive online course on how to deploy the Mesa Method in your
+team or organization.Chapter 3: The Art of Unlocking People’s Creative
+Potential
+In Chapter 3, I laid out the underlying principles that Mesa Co. uses to fine-
+tune the working environment.
+But what are they fine-tuning the environment 
+for
+? To unlock people’s
+creative potential.
+The open secret of Mesa (and other Accelerated Work Experiences) is that,
+beyond the rules and guidelines and structures, their true purpose is to unlock
+people’s potential to achieve more than they imagined was possible. And
+critically, to unleash that potential in the direction of a single, focused
+mission for five days.
+This isn’t easy when working with a diverse group of people, most of whom
+have never worked together. About half of the 12-16 participants are external
+to the client organization, split evenly between “experts” (subject matter
+experts in topics relevant to the problem) and “makers” (designers, coders,
+video makers, illustrators, or others with specialized skills).
+How do you get 12-16 people from a wide variety of backgrounds to all
+commit to one mission for five days?
+With a precise mix of three ingredients: 
+full commitment, limited
+collaboration, and intensity
+. Full commitment provides the raw energy,
+limited collaboration provides the channel, and intensity focuses it on
+tangible results.
+Full commitment
+The selling point for full commitment is different for each of the groups
+present.
+For experts and makers, who are being hired as contractors, a big selling
+point for a Mesa is that there is zero pre-work or post-work. There are no pre-
+planning calls, follow-up meetings, feature requests, or client presentationsonce the five days are finished. All that’s asked of them is to be present. This
+is so rare and cherished in the life of a freelancer, that they tend to jump at the
+opportunity.
+For participants who work full time at organizations or for other reasons can’t
+join long-term projects, a strictly fixed timeline allows them to know exactly
+how much time is required. The time-limited format allows more people to
+work on these projects besides self-employed freelancers.
+For employees of the client organization, their commitment comes from the
+chance to work on a unique project that takes them far beyond their normal
+routine. They are often very grateful to have the chance to work with skilled
+experts and makers. They gain experience working in a faster-paced, more
+improvisational way than they’re used to at a large company.
+Beyond these considerations, one of the key jobs of the Mesa team is to
+choose a framing that attracts people to the problem, instead of making it a
+chore. They will often invite experts and makers with a personal or
+professional connection to the problem, such as inviting an influencer who
+advocates for healthy eating to a Mesa about changing baby food recipes, or a
+sustainability advocate to a Mesa about making product packaging more eco-
+friendly.
+Limited collaboration
+Bárbara Soalheiro, the founder of Mesa, often criticizes collaboration as “an
+invitation to work without responsibility.” Although the Mesa Method is
+obviously highly collaborative, she is highlighting the lack of individual
+responsibility that often accompanies so-called “collaborations.”
+How do you get each participant to take ownership of their knowledge and
+skills, and advocate for their point of view? By assigning each person a
+“pillar of knowledge.”
+A big part of the preparation by the Mesa team is to break down the problem
+into “pillars of knowledge,” each one representing a key capability they
+believe will be needed. This might include “an expert in global supply chains
+for eco-friendly products,” or “a specialist in the production of affordable
+baby foods.” These pillars are often framed as intersections or combinationsof traditionally defined specialties.
+There is usually only one expert invited for each pillar, which means they are
+the sole representative for that domain. And this person is always a “doer” –
+someone who has produced real results in this area, not just studied it or
+talked about it. This kind of individual assignment produces a remarkable
+level of ownership that is missing from collaborative projects where no one is
+responsible for anything in particular.
+Intensity
+Once the environment has been optimized for productivity, everyone is
+totally committed, and an appropriate level of collaboration has been
+established, it’s time for intensity. Like a laser that only activates when all the
+parameters are just right, this is the point where Mesa really begins to shine.
+What allows for such intensity is that all the necessary knowledge and skills
+to make progress are present, all in one place and all at one time. Five days
+might not seem like a lot of time, but if you think about it, that’s 40
+continuous hours spent on one mission, by one group of people. It might take
+months in the “real world” to reach 40 hours of time spent on a problem. And
+that will likely occur as a long series of 2-hour stints, which don’t build the
+same momentum or conviction as one focused time period.
+The Problem Owner has no reason to delay a choice – there will never be a
+better time or place to make the decisive decisions that determine the fate of
+their project. With all the conversations and objections and concerns and
+reservations out on the table, with everyone on the same page, with every
+facet and angle considered, the only thing left to do is to act.
+And act they do.
+Unlike other workshops or meetings, the goal of a Mesa is not “alignment,”
+“learnings,” or “clarity.” The goal is to deliver published results. The end
+result of a Mesa is to deliver a working prototype that embodies all the
+constraints (budget, time, brand image, etc.) the organization is facing, and all
+the decisions made during the week.Prototypes
+The prototype is, in many ways, the most important and unique element of
+the Mesa Method. Without a tangible working prototype delivered on the
+final day, the week amounts to a very exhausting brainstorming session.
+Getting a bunch of smart people together, it’s very easy to spend endless
+hours debating. People like to talk as a way of postponing a decision, but that
+doesn’t make the decision any easier. Switching people from criticizing to
+making turns off the fault-finding lens, and activates the solution-finding
+lens. Debates focus on specific, visible features of the prototype, instead of
+abstract concepts that everyone interprets differently.
+The goals of the prototype are many-fold:
+●
+   
+To see if the solution will work, or is just a pipe dream
+●
+   
+To make better decisions, by grounding them in reality
+●
+   
+To build a common vocabulary, which requires specificity
+●
+   
+To lock in the most important strategic decisions, and embody them in
+something practical
+●
+   
+To demonstrate the solution, instead of describing it
+●
+   
+To make people fight for and challenge the solution, instead of arriving
+at a lukewarm consensus that no one feels particularly proud of
+There are a number of guidelines that Mesa Co. has developed to fulfill on
+these goals. For example:
+●
+   
+The prototype should be as high-fidelity as possible (i.e. as close to a
+real working product as possible), including functional back-ends or
+other technical components whenever feasible
+●
+   
+Stay away from “could be” or “might be” – make firm decisions, make
+tradeoffs, kill options
+●
+   
+Don’t do user testing (which only leads to diverging opinions and
+delays the timeline) – trust that the experts, makers, and client
+employees know their audience and their market, and launch the
+prototype as-is to accelerate the learning process
+The entire prototyping process is massively convergent, raising concerns and
+either addressing them or eliminating them at a furious pace. It takes a high-
+fidelity prototype to force the real issues to the surface: can we actually builda product using technology this sophisticated? Can we actually open this new
+sales channel without damaging existing ones? Will our executives appreciate
+the importance of this message for our customers?
+I believe that the trends of just the last few years have made high-fidelity
+prototyping possible. Developers can spin up cloud computing instances in
+minutes with free trials. Designers can use front-end web frameworks to
+build full-featured web applications in hours. The modularization and SaaS-
+ification of everything has drastically shortened the time horizon required to
+build things. That horizon has shrunk to fit within a single week.
+Some examples of what these prototypes look like include:
+●
+   
+A retail stand for smartphones that translated what was on the screen
+into various visual, audio, and tactile experiences, adopted almost as-is
+by a major consumer electronics brand in their stores
+●
+   
+A beautifully shot video introducing a new ad campaign and strategic
+direction for a major international food brand, with a final product that
+adopted almost all of the major elements of the prototype video
+●
+   
+A new recipe for more eco-friendly baby food, produced in an actual
+commercial kitchen during the Mesa, which strongly influenced the
+final product
+●
+   
+A completely new sales channel for a major makeup brand that might
+have directly threatened their primary channel; a quick launch and test
+showed that it complemented, instead of threatened, their existing
+channels
+There seems to be a kind of inversion at work as the horizon of action shrinks
+ever smaller. The movement around human-centered design in recent years
+has introduced us to “user testing” as a crucial part of product development.
+But in many cases user testing has just added a whole new layer of
+bureaucracy and delay. It has in some cases made us distrust our intuition and
+our insights, in favor of “validated learning.”
+Perhaps we’ve reached an inflection point, in that we can reach consensus
+and produce a prototype so quickly, that we can use it as the point of
+reference for our user testing. Instead of starting from “everything is
+possible,” and taking months to slowly converge on something tangible, we
+start with something tangible that takes into account the real constraints thatwe know the organization will have to face no matter what.
+What if instead of seeing user testing as an initial, anticipatory phase of
+product development, we saw product development as an initial, anticipatory
+phase of user testing? Maybe “making” could become so compact and
+efficient that we could make three things in the time it used to take to plan for
+one.
+But this new approach is not just another bureaucratic process to institute.
+Because a Mesa is not a predictable event that can be optimized. It relies on
+the spontaneity and improvisation of a diverse mix of people. It seems to
+allow for, if not call for, heroic feats of courage. It is an eminently human
+phenomenon. The most complex problems have a life of their own, and
+perhaps they can only be addressed with an equally complex group of
+humans.
+Check out 
+Mesa.School
+, the self-paced online course that includes everything
+you need to assemble and lead powerful teams to solve complex problems in
+five days.Chapter 4: The Origins of Mesa
+The Mesa Method is full of firmly held beliefs and sharp distinctions. To
+understand why they’re so important, you have to understand where they
+came from. I sat down with Bárbara Soalheiro, the founder and CEO of Mesa
+Co., and Lígia Giatti, her number 2, to try and understand the origins of this
+new way of working.
+The journalistic instinct
+Bárbara traces the beginnings of Mesa all the way back to her first job. After
+graduating from college, she entered the New Talents program at Editora
+Abril, the biggest publishing house in Latin America. She worked on a
+magazine called 
+Superinteressante 
+(meaning “Superinteresting”), which
+involved diving deep into topics such as mental health or prostitution or
+alternative medicine for 3 to 4 months at a time, before turning it into a
+feature piece.
+This was the beginning of her fascination with immersive deep dives into
+interesting topics.
+By the time she was 26, Bárbara became one of the youngest ever editor-in-
+chiefs at Editora Abril. She was charged with a major restructuring of the
+teen brand 
+Capricho
+, which included a magazine, a website, a range of
+licensed products, and events. Her approach was a radical change from the
+magazine’s past: to treat young girls and their concerns as legitimate and
+worthy of attention, instead of as trivial and silly.
+In 2006 they launched a new edition, and the only story related to beauty was
+a serious inquiry into why frizzy hair was automatically assumed to be bad.
+Bárbara recalls thinking hard about why the magazine had been such an
+important part of her teenage years. She realized that it was the one place that
+took her concerns seriously. She remarks, “Hair 
+is
+ actually the most
+important problem in the life of a 13-year old girl!”
+Working at these magazines formed the foundation of Bárbara’s career and
+professional outlook. Her experience as a journalist taught her how to seekout the best person to help her answer a question or solve a problem. It gave
+her experience in creating products targeted to a very specific audience. And
+critically, to deliver those tangible products on a regular basis.
+Learning by doing
+In 2008, Bárbara was invited to work at Fabrica, the communications
+research center for the Italian clothing brand Benetton. There Bárbarta
+became editor-in-chief of 
+Colors
+, a magazine founded in 1991 by
+photographer Oliviero Toscani and art director Tibor Kalman to “show the
+world to the world.” The magazine looks at social issues through the lens of
+first-person interviews and attention-grabbing photography.
+Colors 
+gave Bárbara’s her first in-depth experience with technology. She
+worked on the digital transformation of the magazine, turning their website
+into an early collaborative platform and launching one of the first ever
+augmented reality issues in the world.
+Working on these projects, Bárbara fell in love with an open-ended,
+improvisational style of working that favored learning by doing. She says:
+“At Fabrica, this really unique place which I’m really in love with, I had the
+happiest two years of my life. It was working in an environment that was
+super chaotic, dramatic and intense. There were no rules. There isn’t a really
+clear idea why you are there. Some people hate it. It made some people leave
+because they couldn’t function in an environment like that. But it gave me the
+opportunity to just do whatever I wanted. And by doing whatever I wanted, to
+learn how to do it.”
+It was during her two years at Fabrica that the idea of Mesa was born. She
+used as her starting point the atmosphere she wanted to create – home-cooked
+dinners with family and friends seated around a table. She recalls: “It is really
+important to me, this idea of sharing the same table. So Mesa is born from
+that: sharing the same table, and picking carefully the people who are sitting
+around this table. And we will make sure that in every group there are all
+these skills we need to deliver that specific project. And, we make sure that
+the people come from as different backgrounds as possible. That
+automatically makes the experience really interesting for everyone.”A short description of the first Mesa in 2011
+A sketch showing the assigned seats for Mesa #1
+One of the early prototypes, a “survival kit” for the city of São Paulo
+Announcement for the final presentation at the end of an independent Mesa
+In a 74-page Google Doc called “The school,” Bárbara poured out her core
+beliefs about the best way to work in creative fields, which had emerged from
+her experience as a journalist, researcher, editor-in-chief, and creativedirector:
+It’s no use waiting for certainty
+People want one more study or one more survey to confirm that they are
+going in the right direction. But nothing is 100% certain today. Everything is
+changing rapidly, and we need to learn to take action anyway.
+Making decisions is essential
+Decisive decisions carry a team forward. But it takes courage to make a
+decision when you’re not certain it’s the right one. But if you can’t operate
+from this place of vulnerability, you’re going to feel ever more vulnerable in
+this world.
+Listen before talking
+Thinking you already know the answer is one of the greatest impediments to
+learning. The best results come from those who are the most open to new
+ideas.
+The problem is always about the whole business
+Large organizations tend to treat problems as isolated to one specific division
+or area. But the greatest problems touch every part of a business. Sometimes
+the solution can be found in marketing, but sometimes you have to change
+the product, or make a change in the logistics. Every problem should be
+treated holistically.
+You MUST work with the problem owner
+It doesn’t work to “outsource” problems to someone else. The person who is
+closest to the problem and owns it must be deeply involved in the creation of
+the solution. If the problem owner can’t participate, there is no Mesa.
+To work is to create
+To work is to create things, which is one of the most fundamental human
+needs. As such, work should be treated with a certain respect. But often it
+becomes so procedural and so rote, that people lose touch with the finalproduct or impact it will have.
+Independent Mesas
+Returning to Brazil in 2010, Bárbara took on the role of Creative Director at
+Cubocc, a digital ad agency in São Paulo. She found the transition from
+journalism to advertising jarring: “Advertising in an agency is a completely
+different thing and it didn’t make much sense to me, a journalist. One thing I
+really didn’t get was why I had to solve a problem for Google without people
+from Google. I used to think: no one knows more about this than my client,
+why can’t I sit with him and work? It seemed not very smart to me.”
+Using her Google Doc as a blueprint, Bárbara ran the first Mesas as
+“independent,” in that they weren’t delivered for a corporate client. Bárbara
+viewed the experience initially as a form of professional education, teaching
+real-world skills through doing, rather than theory.
+She started by inviting well-known professionals to “take the head of the
+table,” including people like Perry Chen, the founder of Kickstarter;
+advertising expert and serial entrepreneur Cindy Gallop; and “human cyborg”
+Neil Harbisson. Together they chose a mission that connected to or advanced
+the work of these headliner names, which is what drew them. Participants
+paid for the chance to work alongside these thought leaders.
+Promotional image for an independent Mesa led by the Dutch “cloud artist”
+Berndnaut Smilde
+The first Mesa held in Rio de Janeiro, in 2015, led by Sara Melin, the founder
+of The Poundshop
+Mesa led by Ju Row Farr, the founder of Blast TheoryPerry Chen, founder of Kickstarter, at the head of the table
+Bárbara explains her thinking: “The first idea was that when you hear
+someone speak – at a TED conference, for example – you get very inspired.
+But it’s only when you work with that person – see how he/she makes
+decisions, how they solve unexpected problems, where they invest energy
+and where they don’t – that you really learn from them. And when you are a
+professional with five or ten years’ experience what you need isn’t
+inspiration, but this kind of learning.”
+Mesa started out as a “school for professionals,” where a team of participants
+would pay to work with someone known for their creativity, experience, or
+unique perspective. Unlike any other form of professional learning, the team
+had to deliver something tangible at the end of five or six days. Bárbara
+tested this educational format with seven Mesas over 16 months, slowly
+working up the courage and the credibility to pitch it to a paying client.
+In 2013, Mesa Co. began running Mesas for paying corporate clients. Bárbara
+hired her first co-leader, Lígia Giatti, who is now her right-hand woman and
+head of international operations. Together they’ve delivered 140 Mesas formore than 30 clients in eight countries, for companies like Google, Fiat,
+Samsung, Nestle, and Coca-Cola.
+Never use the word “collaboration”
+Over this period of testing and refining the Mesa method, new beliefs and
+principles slowly came to the surface.
+During the preparation for one early Mesa, Bárbara overheard a member of
+their small team inviting an external participant to “take part in a
+collaborative process.” A lightning bolt shot through her – she knew it was
+wrong, but couldn’t immediately explain why.
+The reason soon became clear, and has become one of Mesa’s core beliefs: to
+never use the word “collaboration,” because it invites people to work without
+responsibility. In the experience of Mesa Co., using that word creates an
+environment where no one is responsible for anything in particular. People
+will “collaborate” to produce a mediocre, middle-of-the-road solution, which
+usually isn’t one they truly believe in.
+Bárbara cites as an example working with Fernando Meirelles, the respected
+Brazilian director of such films as 
+City of God
+. She needed him to show up at
+the table as nothing less than “someone who knows how to tell stories with
+film that reach millions of people.” He needed to own and to advance that
+responsibility with all his enthusiasm and energy. Bárbara explains, “If you
+give someone a territory, they will hold that territory and you will have
+excellent results.”
+It is this belief that inspires many aspects of the “Mesa experience.”
+Invitations are made not to “participate,” but to take direct ownership of a
+specific ”pillar of knowledge.” Each pillar is essential to the fulfillment of the
+mission, and unique to that person’s expertise. Even the venue and the place
+settings are designed to impart a sense of gravity and importance. Every
+participant must feel that they are there for a reason.
+Bárbara explains, “We want the best each person has to offer – when the
+leader uses the word collaboration, it blocks them from understanding why
+they need each person…This will make it more likely that you’ll have people
+you don’t need.”Results over process
+Other core beliefs developed in response to what Mesa calls the “Workshop
+World.” These are default attitudes that have taken root among facilitators
+over the years, slowly becoming ingrained and unquestioned.
+In one early Mesa that did not fulfill its mission, Bárbara noticed that the
+Leader had told participants repeatedly to “trust the process.” She realized
+that this had caused them to lose focus on the final result, to proceed blindly
+in the face of evidence that no progress was being made.
+She tells people today to NOT trust the process. She explains that “When you
+emphasize the process, you get something in the middle ground, and the
+middle ground is never excellent.” The focus should instead be on the final
+result, and whatever it takes to produce it.
+Bárbara cites the example of a Mesa in which the participants were 11 year-
+olds. The initial idea was to have them create a collaborative art project,
+which would become the homepage of the client company. But then they
+realized that most kids aren’t very good at drawing. They had to make a
+decision: 
+trust
+ the process and put up with whatever it produces, or 
+change
+the process in order to produce the best possible results?
+They chose the results, and adapted the Mesa process to produce it. A
+professional illustrator was hired to turn the best of the drawings into a
+homepage that met a high standard of excellence. Although there was some
+disappointment on the part of the kids, in the end everyone could be proud of
+the solution they contributed to, even if indirectly.
+Lígia explains it this way: “Trusting the process has people think more about
+the process they’ll be participating in, and less about the result.” And a Mesa
+Leader is focused above all else on the result.
+The bigger the challenge, the better the Mesa
+In more recent years, a few lingering questions about when and where the
+Mesa Method applies have been resolved through experience.
+For example, “How big of a challenge can a Mesa be used for?” Afternumerous experiments with a wide range of clients, Mesa Co. have
+concluded that it isn’t the size of the challenge that determines the feasibility.
+Because the most talented people are driven by the greatest challenges, in
+Bárbara’s words, “The more difficult the challenge we get, the better the
+Mesa is.”
+What does need to be calibrated is the mission and the prototype. The Leader
+and her team need to determine what the team can make in a 5-7 day
+timeframe that will help unlock the problem. This is a question of experience
+and judgment, to thread the needle between feasibility and ambition.
+Bárbara cites a Mesa with the Italian automaker Fiat as an example. The
+problem was, “How can you create a connected car when everyone has a
+better system in their pocket?” She knew that everyone who had anything to
+do with cars was thinking hard about this problem. It is an enormous
+challenge, and Mesa Co. had to think of a prototype that would meaningfully
+advance a solution in just a week.
+Following her instincts as a journalist, Bárbara reached for the most talented
+person she could find: a well-known and respected car designer working in
+Tokyo on one of the world’s biggest brands. He had never heard of Mesa and
+didn’t know what to expect, but the pitch was irresistible: to fly to Brazil for
+a week to work directly with the decision makers at Fiat, along with 15
+people with all the relevant skills and knowledge he would need.
+They knew they couldn’t prototype a car in five days, but they 
+could
+prototype an online store selling connected car accessories. Such a storefront
+could be created in hours, and would allow for enough learning to forge a
+path forward for the company.Anyone can take part in a Mesa
+Another lingering question was, “Who can participate in and benefit from a
+Mesa?” Internally, the team used the example of a dentist as someone who
+probably wouldn’t work very well in such a free-form environment.
+That is, until they actually had a dentist take part in one. The “cyborg artist
+and transpecies activist” Neil Harbisson led an independent Mesa, and chose
+as his mission creating a “telepathic tooth” that would allow him to
+communicate with others subvocally.
+They decided that they needed a dentist to advise on the feasibility and health
+implications of the implant. He turned out to be an enthusiastic and critical
+contributor, helping develop a hardware prototype that could be tested within
+one week. Bárbara reports that he had a transformational experience, and has
+become one of their most ardent supporters.
+A new view of diversity
+One question I had for Bárbara about the multidisciplinary team that makes
+up a Mesa was, “How do you mitigate the friction between different
+disciplines?” Working across so many different fields sounds great in theory,
+but I wanted to know how such a diverse team could work together
+effectively.Mesa held on a factory floor, to put the team in the manufacturing context
+that they would be working on
+A Mesa for “Creatives at School,” a non-profit program that teaches young
+kids how to use design to change their livesAn early corporate Mesa in 2015, for the major Brazilian beverage brand
+Brahma
+An early corporate Mesa in which the prototype involved turning LEGOs into
+walking sticks for the blind
+It turns out that it is this very friction that is essential to Mesa’s success.
+Finding themselves in a room of non-specialists, each participant is forced to
+put aside the jargon, shortcuts, and conventions that are commonly used in
+their profession, but that can often hide what needs to be revealed. They haveto set aside the built-in assumptions of their discipline, introducing what they
+know in a new way.
+One of Mesa Co’s most loyal clients is Coca-Cola, and they have done
+numerous Mesas together. Each and every time, their employees are asked to
+introduce themselves and their product anew. “But everyone knows what
+Coke is…” they say, but it is in these re-explanations that new insights are
+found. Instead of assuming that “everyone knows,” they have to explain it as
+if no one does.
+“Having diversity forces you to go back to the essentials,” Bárbara explains.
+Each participant begins to see the people around the table as resources,
+instead of narrow specialists. This view of diversity is not about keeping up
+appearances or meeting an artificial quota. It is about producing the best
+possible results. The Mesa Co. team has found again and again that the
+greater the diversity of the team, the more relevant the solution is to the
+world. The diversity of the team needs to match the complexity of the
+challenge.
+Five people with the same knowledge and same experience arguing around a
+table simply do not produce breakthroughs. It is the sixth person, with their
+new angle and new lens, that can see what no one else can see. This leads
+Lígia to identify diversity as key to the speed and effectiveness of a Mesa: “I
+don’t believe you can reach the result in five days without a diverse group.”
+The Mesa Method of today is the product of a long journey, including both
+breakthroughs and breakdowns. It borrows from journalism, advertising,
+research, branding, and technology to accomplish the seemingly impossible:
+to “conceive, develop, and prototype something in less than five days.”
+This requires recruiting the most talented people in the world. As Bárbara
+describes it, “We look for people who are running some of the most
+innovative and forward thinking businesses of our time. Real doers who can
+share their mistakes and learnings and, therefore, accelerate decision-making.
+We are not talking about a specific pool of professionals that we fish from.
+We are talking about finding the best person – whoever they are, wherever
+they are – for that specific challenge. In that sense, Mesas resemble good
+journalism: go and find who can best help you.”Mesa.School
+ offers 18 lessons with the tools and principles they’ve
+developed over seven years to enable this new way of working. Click the link
+above to watch the first two lessons for free.Chapter 5: The Future of Work That Mesa Envisions
+Mesa Co. considers their method not just a problem-solving tool, but an
+entirely new way of working. As their ambitions have grown, they’ve begun
+looking toward a future in which this way of conducting work is nothing
+more than common sense.
+In this chapter, I’ll outline a vision for what the future of work might look
+like if Mesa has its way.
+The era of the briefing is over
+Central to the work of so many creative agencies and consulting firms is “the
+brief.” It is the starting point of every gig. The bible that guides the project to
+completion. But Mesa believes that the era of briefs is over, for several
+reasons.
+First, because the assumption underlying briefs has become outdated: that a
+problem can be fully communicated in a written document. In fact, there is no
+way for the problem owner to ever convey everything they know. They don’t
+even know everything they know. So how can you?
+Second, because briefs are a formal, bureaucratic process designed to satisfy
+the needs of administrators, not doers. No one ever writes “I don’t know” in a
+brief. They fill in some kind of answer, or omit that section altogether. It is
+much easier, on the other hand, to say “I don’t know” in a group setting. This
+“not knowing” is the opening a maker needs to start exploring. Filling out
+forms only postpones the learning.
+And third, because briefs do not get people excited to work on a project.
+Especially when working across silos or companies, it is critical to get
+everyone excited and eager to jump in. Handing them a long, dry document is
+just about the worst way to do so. Mesa doesn’t allow clients to give
+participants a brief at any point. It would defeat the very energy they are
+trying to create.
+What will replace the venerable brief? A mission. But it’s not enough to justchange what you call it. A mission brings with it a certain context. Missions
+are completed by small, dedicated teams focusing completely on an objective.
+Missions strive for important and strategic outcomes under uncertain
+circumstances. There is an element of risk in completing a mission.
+The future of work that Mesa envisions is one in which boring briefs are
+replaced by challenging, but meaningful missions targeting the world’s most
+pressing issues.
+We believe in doing
+One of Mesa’s favorite slogans is “We believe in doing.” The unspoken
+subtext continues, “…rather than debating.” This imperative runs deep in
+their culture – that it is doing that produces progress, not talking.
+Their standard of success is not any of the typical ones used by most agencies
+or consultants: meeting the deadline, on-time and on-budget performance,
+customer satisfaction, or complying with the letter of the brief. A successful
+Mesa is one in which the prototype becomes real.
+It is a punishing standard, since so much of what makes a prototype into a
+real product is outside Mesa’s control. No agency would touch such a
+standard with a ten-foot pole. But it is essential to Mesa’s outlook on what
+they are working for: something real in the hands of real people, not a
+prototype on a shelf. Large companies now have the talent to do the hard
+thinking. What they hire Mesa for is to help them take the next step into
+action.
+Founder and CEO Bárbara explains that, without holding themselves to such
+a standard, it would be too easy to fall back into the “workshop world.” She
+recounts that out of 140 Mesas, only seven didn’t produce a successful
+prototype. She counts these as failures, even though the client found value in
+the experience.
+The future of work that Mesa envisions is one in which consultants,
+contractors, agencies, and employees take responsibility for the ultimate
+results of their work, instead of just fulfilling their own narrow function.Social responsibility will be part of every product
+Looking at Mesa Co’s client list sometimes inspires a raised eyebrow – they
+work frequently with companies like Coca-Cola, Dow Agro, Nestle, and
+McDonald’s that have been criticized in an era of corporate responsibility.
+Mesa Co’s mindset is one of positive engagement. By working closely with
+these companies, they have found that they are able to shift how the company
+thinks about their impact on the world. When first formulating the mission
+and inviting external participants, it quickly becomes clear that the product
+has to have a connection to a worthy cause or important problem. Otherwise,
+experts and makers just won’t be interested in helping. The Mesa process
+reveals that making socially responsible products is not just a marketing
+strategy anymore. It is essential for attracting the best talent.
+This is a different approach to corporate responsibility. Instead of shaming or
+isolating companies and their products, they are invited to excel and to
+innovate beyond the constraints that currently lead them into questionable
+behavior. This makes them the source and the owner of their corporate
+responsibility, instead of just minimally complying.
+The future of work that Mesa envisions is one in which companies do good
+while doing well, not because it looks good, but because it delivers the best
+possible results.
+The conviction of the maker
+We are living in the midst of the “Maker Movement.” Around the globe,
+garage hobbyists and weekend warriors are making software, hardware, and
+content for side income, for fun and learning, or to solve a problem in their
+community
+But in the future, everyone will need to have the attitude of a maker. They’ll
+need to know how to make things of high quality, even if that’s just a
+webpage, a text document, or a well-crafted email. They will need to have
+ownership over what they make, advocating for it in their organizations. They
+will need a spirit of curiosity and constant learning, to stay abreast of the
+changes rocking every profession and industry.As Bárbara says, “Part of what we do is trying to understand how things are
+made. And that breaks this idea that there is a certain path that you have to
+follow. Participants get a better understanding that it can be easier than they
+thought, more in their hands than they thought. They get a better
+understanding that everything there is has been created. And if everything
+there is, is created, then I can create something that is completely new. Or
+that someone hasn’t told me to do before.”
+Makers know how things work, or they know how to figure it out. They
+know that anything can be hacked. They understand that anything can be
+modified, enhanced, or adapted if you open the cover and tweak things. This
+“hacker” mindset is often totally foreign to people working in large
+companies, who are used to relying on a process for everything they need.
+Working with the Mesa Co. staff and external experts and makers, they
+quickly learn that there is no prescribed path you have to follow to make
+most things. If you leave out what isn’t essential, you can often create a
+prototype in a matter of hours that gives you most of the learnings of the full-
+fledged version.
+Working on concrete, functional prototypes has a final benefit: it is very clear
+what everyone needs to do after the Mesa ends. There is a jerry-rigged but
+coherent thing sitting on someone’s desk, not just a pile of “takeaways” to
+decipher. In many cases, this prototype can be taken directly into production,
+instead of spending months in deliberations.
+The future of work that Mesa envisions is one in which people work out of
+personal conviction, not obligation. This conviction comes from personal
+involvement in the nitty gritty details, and seeing how every detail determines
+the final impact on someone with a need.
+The power of feminine leadership
+It’s hard to ignore that Mesa Co. is a company founded and led almost
+exclusively by women. Although this was not an explicit intention, it also
+wasn’t an accident.
+Bárbara explains the connection to Mesa’s founding metaphor: “A Mesa is
+always better when it closely resembles one of those long lunches, where youenjoy yourself, but also have a conversation and argue. There’s something
+powerful in receiving someone well, in taking care of whoever shows up.
+And that seems very feminine to me.”
+One of the key roles in every Mesa is “Experience Leader.” This person takes
+care of every little detail, from the place settings to the interior decoration to
+the food. The job of the Experience Leader is to make sure that everyone
+feels comfortable and at home. And this role has always been filled by a
+woman.
+Contrasting feminine leadership with the masculine version that is so often
+the default, Bárbara says, “I think men really feel a pressure to be at the
+center of attention…Women tend to be more comfortable with the number 2
+position. And there’s something very cool about that, in being okay with
+doing good work alongside someone you consider incredible…It would be a
+problem if everyone had to always be #1.”
+For Mesa Co., feminine leadership is about realizing that the more people
+shine, the better the Mesa will be. It is about realizing that it doesn’t take
+away your power to give power to others. Power is multiplicative – the more
+you give away, the more you have. The Mesa experience naturally tends to
+loosen the grip that people have on protecting their egos.
+As Bárbara puts it, “It is about involving them in the situation that we all
+need to do this, we only have a couple of days, so you don’t really have time
+to bullshit, to be very ego-centric. It was very interesting when we started
+working with companies, bringing decisionmakers like presidents, owners of
+companies to the table, how the format didn’t allow them the space for their
+egos…That causes people to finally understand what collaboration is about. It
+is not about being nice, it is not about doing good to the world, it is about
+finding the perfect match between your self-motivation and a collective,
+shared motivation.”
+The future of work that Mesa envisions is one in which the viewpoints and
+the opinions of a talented group of professionals can become subsumed into a
+collective mission. Not against their will, and not forever, but for one week,
+in service of a mission that is greater than any single person.Transformation
+The Mesa Co. team doesn’t often talk about it, but there is a transformation
+that happens during the week, sometimes and for some people.
+Creative, talented people, sequestered in a room and pushed to the edge of
+their capabilities, find themselves amazed at how much can be accomplished
+in how little time. For the first time, they see something through from
+beginning to end, and show it to the world as their own creation.
+Bárbara describes this epiphany: “It is the same feeling you get when you
+bake a cake for the first time. The cake wasn’t there. You just have flour,
+eggs, and sugar. And then you take it out of the oven and then it’s a cake. If
+you have ever baked a cake, you know that feeling. It is really powerful.”
+The transformation is conceiving of oneself as a creator. As the source of
+everything that could be. The future of work that Mesa envisions is a future
+of our own creation.
+Mesa Method is reinventing the way organizations around the globe work.
+Take the course at 
+Mesa.School
+ and join the movement. You can also visit
+the official 
+website
+ to find out more about Mesa Co’s work, or email
+hello@mesa.do
+ to get in touch.About the Author
+Tiago Forte is a writer, speaker, teacher, and researcher exploring the future
+of work. In a previous life, he worked in microfinance, served in the Peace
+Corps, and consulted for large companies on product development.
+He currently runs 
+Forte Labs
+, an online productivity training firm, from his
+home base in Mexico City. Forte Labs is dedicated to helping knowledge
+workers transform their productivity using technology, primarily via the
+online course 
+Building a Second Brain
+. Forte Labs also offers 
+live
+workshops
+, other 
+online courses
+, 
+1-on-1 coaching
+, 
+ebooks
+, and 
+organizational
+consulting
+. Past 
+clients
+ include Genentech, Toyota, Nestle, and the Inter-
+American Development Bank, as well as startups, incubators, universities,
+and nonprofits around the world.
+Tiago writes for and manages 
+Praxis
+, a members-only subscription blog,
+where he writes about topics relevant to the future of work, including
+workflow design, behavior change, design thinking, and personal knowledge
+management. His work has been featured in 
+The New York Times
+, 
+Inc.
+Magazine
+, the Harvard Business Review, 
+Lifehacker
+, and others.
+Drop us a line at 
+hello@fortelabs.co
+.About Praxis
+Praxis
+ is a members-only, subscription-based blog dedicated to exploring and
+creating the future of work. Written and curated by 
+Tiago Forte
+, its mission is
+to provide a private forum for smart people to learn about and discuss some
+of the most insightful productivity ideas, frameworks, and practical methods
+in the world today, as well as how to implement them.
+For 
+$10 per month
+ (or $100 per year), members get access to:
+1–3 exclusive articles per month, written or curated by Tiago
+Members-only comments and responses
+Early access to new online courses, ebooks, and events
+A monthly Town Hall, hosted by Tiago and conducted via live
+videoconference, to discuss that month’s articles or interview guest
+experts
+Topics we will explore include:
+Personal knowledge management and 
+Building a Second Brain
+Workflow design and 
+Getting Things Done
+Habit formation and behavior change
+Futurism and science-fiction prototyping
+Design thinking and design principles for productivity
+Self-tracking, data analysis, and technology tools
+Organizational design and culture
+Creativity and emergence
+Theory of Constraints and applications to knowledge work
+Mindfulness, alternative states of mind, and the inner game
+and many more…
+I know the time you have to invest in improving your productivity is limited,
+and my goal is to help dramatically increase the signal-to-noise ratio of the
+information you consume. My role will be to provide seeds of insight —
+thought pieces, implementation guides, interviews, case studies, experiments,
+audio and video, guest articles— to help discussions get started.
+I believe that human productivity is fundamentally unbounded, that it doesn’trequire sacrificing health and happiness, and that work can be a vehicle for
+personal growth and self-expression. If you believe the same, and are tired of
+the same productivity advice endlessly recycled, join me below.
+Click here for more information
+, and to become a member. Email questions
+to 
+praxis@fortelabs.co
+.

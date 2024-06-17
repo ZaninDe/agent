@@ -1,0 +1,654 @@
+OKR: 
+METAS QUE CONECTAM
+ESTRATÉGIA COM OPERAÇÃO
+ESTE EBOOK É 
+CERTO PRA MIM?
+Um dos nossos principais 
+objetivos da Rock Content 
+é ensinar. Para isso, 
+produzimos posts, ebooks, 
+whitepapers, webinars, 
+infográficos e uma 
+infinidade de materiais que 
+são feitos apenas para você.
+Agora você confere qual 
+é o grau de conhecimento 
+necessário para usufruir ao 
+máximo deste conteúdo.INTERMEDIÁRIO
+GUIA COMPLETONestes materiais o conteúdo é voltado para 
+as pessoas que já estão mais familiarizadas 
+com alguns dos conceitos de Marketing 
+Digital. Este tipo de conteúdo costuma ser um 
+pouco mais aprofundado, e aqui costumamos 
+apresentar algumas soluções para problemas 
+um pouco mais complexos.
+Nesta categoria se encontram os materiais 
+mais completos da Rock Content. Neles, 
+os assuntos são tratados desde os seus 
+conceitos mais básicos até os detalhes mais 
+avançados e específicos. São indicados 
+para qualquer pessoa que deseja começar, 
+aprofundar ou reciclar o seu conhecimento 
+em um determinado assunto.BÁSICO
+AVANÇADOSe você está começando a trabalhar 
+com Marketing de Conteúdo, Marketing 
+Digital ou Inbound Marketing, este 
+conteúdo é exatamente o que você 
+precisa. Aqui abordaremos alguns 
+assuntos de maneira bem introdutória 
+e da forma mais didática possível. Estes 
+são os principais conteúdos para quem 
+deseja começar a aprender algo novo!
+Estes são os materiais mais complexos 
+produzidos pela Rock Content. Para usufruir 
+ao máximo dos conteúdos avançados que 
+produzimos, é essencial que você esteja em 
+dia com o que acontece no mundo digital. 
+Nossos materiais avançados são para 
+profissionais com experiência na área que 
+estão em busca de aprofundar em sua área  
+de conhecimento.
+[ ESTE E-BOOK! ]Introdução 5
+Formando um OKR Team 8
+Nivelamento de Base 11
+Definição de milestones para o cronograma 15
+Elaboração de Key Results 19
+Trabalhando com OKRs 22
+Sobre a Rock Content 30
+Sobre a LeanMetrics 31
+Sobre o autor 32TEXTO
+MATHEUS LIMA  
+Diretor de Product Management 
+@ LeanMetrics
+matheus@leanmetrics.com.br
+REVISÃO
+CLARA BORGES  
+Supervisora de Marketing 
+@ Rock Content  
+clara@rockcontent.com
+DESIGN
+RAFAEL RALLO  
+Designer 
+@ Rock Content  
+rafael.rallo@rockcontent.com
+5
+COMPARTILHE ESTE EBOOK!
+INTRODUÇÃO
+ “Todo mundo tem um plano até tomar um soco”.
+Essa célebre frase de Mike Tyson é utilizada muitas 
+vezes para suportar a idéia que planejamento e 
+estratégia são superestimados. Que depois de uma 
+primeira pancada os boxeadores vão para uma troca 
+descontrolada de socos, correto?
+Entretanto quem acompanha o esporte sabe que os 
+bons boxeadores não fazem isso. Pelo contrário. Os 
+lutadores que apresentam resultados e consistência 
+costumam ser conhecidos pela habilidade de adaptar 
+sua estratégia conforme as características de cada 
+oponente e ao andamento da luta. Uma luta funciona como um processo de interações 
+constantes onde as duas partes estão gerando inputs 
+e coletando feedbacks de maneira muito rápida. E 
+quando os feedbacks negativos que recebemos são 
+literalmentes “socos na cabeça” temos todo incentivo 
+do mundo em afinar rapidamente nossa estratégia para 
+maximizar nossa taxa de sucesso. 
+A partir do momento em que um boxeador entra no 
+ringue ele na verdade está constantemente rodando 
+ciclos de planejamento muito curtos onde tenta 
+descobrir padrões de comportamento e movimentação 
+de seu adversário. Baseado nas observações ele tenta 
+coordenar o posicionamento de seus pés, seu tronco, 
+braços e cabeça de maneira sofrer o menor impacto de 
+um ataque ou maximizar a potência de um golpe.6
+COMPARTILHE ESTE EBOOK!
+Os Objetivos e Resultados Chave, ou OKRs, são exatamente isso: 
+um esquema simplificado para tornar tangível e menos subjetiva a 
+estratégia da empresa para um determinado período. Os OKRs são o 
+primeiro elo de conexão da estratégia com execução . Mas os OKRs 
+também podem ser mais do que isso. Caso seja integrado na rotina 
+da empresa, o desdobramento de OKRs pode se tornar o elo entre o 
+ciclo de gestão e ciclo de gente da empresa.Em esportes individuais como Boxe ou Tênis, a 
+mudança de estratégia e tática pode ser feita de 
+maneira muito simples e rápida pois os atleta tem que 
+coordenar apenas os seus próprios movimentos para 
+atuar de maneira diferente.
+Agora quando falamos de esportes coletivos onde 
+temos que coordenar diferentes pessoas a mudança 
+de estratégia durante a partida se torna muito difícil 
+devido a dificuldade de comunicação. Sendo assim, 
+é fundamental que os jogadores entrem em campo 
+compreendendo a estratégia, o posicionamento e 
+responsabilidade de cada participante do time.
+Para maximizar a compreensão de cada componente do 
+grupo é fundamental diminuir o nível de subjetividade. 
+Para isso muitas vezes criamos esquemas e 
+simplificações, no futebol por exemplo, podemos dizer 
+que um time joga no 4-4-2 (4 jogadores na defesa, 4 
+no meio de campo e 2 no ataque). Esses esquemas e 
+simplificações não contam a história completa mas 
+pelo menos ajudam a colocar todos na mesma página.
+7
+COMPARTILHE ESTE EBOOK!
+Apesar desse terreno fértil, existe pouco 
+material prático a respeito de como 
+implementar efetivamente OKRs nas 
+empresas.  Esse ebook se propõe a ser um guia 
+curto mas detalhado de como conduzir um 
+desdobramento de OKRs em qualquer empresa.Quando o mundo da gestão finalmente se 
+virou para o Vale do Silício na busca de 
+novas abordagens para problemas antigos, o 
+interesse pela metodologia de OKRs cresceu 
+exponencialmente. O interesse pelo jeito 
+Google de fazer as coisas somado a uma 
+insatisfação com os sistemas de metas 
+anteriores realmente produziu um terreno 
+fértil para o avanço dessa metodologia. 8
+COMPARTILHE ESTE EBOOK!
+FORMANDO 
+UM OKR TEAM
+Em muitas empresas o processo de 
+desdobramento de metas acontece no modelo 
+cascata. Nesse modelo, o CEO determina 
+metas para a diretoria. Os diretores, com 
+base nas metas recebidas pelo CEO, definem 
+metas para seus gerentes, que definem para 
+seus coordenadores, que definem metas para 
+analistas e operadoradores. Esse modelo 
+costuma ser extremamente simples e rápido 
+de ser implementado e não é de se estranhar 
+ainda seja muito utilizado.
+9
+COMPARTILHE ESTE EBOOK!
+FACILITADOR DA METODOLOGIA
+O Facilitador de OKR tem um papel similar ao Scrum 
+Master. Sua principal responsabilidade é garantir 
+que a equipe está seguindo os preceitos básicos da 
+metodologia e dar visibilidade do progresso do time 
+para empresa.
+O papel de facilitador da metodologia pode ser 
+exercido por alguém de fora da organização ou por 
+algum funcionário da empresa que possua um alto 
+conhecimento da metodologia.
+ALINHADOR
+O Alinhador Estratégico tem um papel análogo ao 
+Product Owner. Sua principal responsabilidade é 
+garantir que os objetivos e resultados chave que estão 
+sendo definidos pelo especialistas do time estão 
+alinhados com a estratégia da empresa e objetivos  
+da área. O segredo da eficiência do modelo “cascata” é a 
+limitação do poder de influência de cada indivíduo. 
+Assim, a influência de cada pessoa se limita apenas 
+à definição das metas de seus subordinados diretos 
+não podendo questionar suas metas individuais ou 
+de seus colegas.
+A eficiência desse método, entretanto, não se traduz 
+em eficácia. Não envolver seus funcionários na 
+definição de suas próprias metas costuma gerar baixo 
+comprometimento e insatisfação no time.
+OS PAPÉIS
+O OKR Team opera de maneira muito similar a uma 
+equipe de SCRUM. Temos 3 papéis básicos:10
+COMPARTILHE ESTE EBOOK!
+TIMES ESPECIALIZADOS
+Assim como o CEO é o Alinhador Estratégico do 
+Time Empresa, cada líder da empresa também deve 
+assumir esse papel para o seu próprio time. O Diretor de 
+Marketing, por exemplo, vai ser o Alinhador Estratégico 
+do time de Marketing e seus gerentes devem assumir o 
+posto de especialistas.ESPECIALISTAS
+Os especialistas são os membros da equipe. Sua 
+principal atribuição é garantir que os objetivos da área 
+sejam acompanhados através dos melhores resultados 
+chave possíveis, tentando sempre buscar o melhor 
+equilíbrio entre poder impacto, influência e facilidade 
+de medição.
+TIME EMPRESA E TIMES 
+ESPECIALIZADOS
+TIME EMPRESA
+O primeiro time a ser formado deve ser o time 
+responsável por definir os OKRs da empresa. Esse time 
+deve ser estabelecido pelo CEO, que assume o papel de 
+Alinhador Estratégico do Company Team, enquanto os 
+subordinados diretos do CEO participam do time como 
+Especialistas. Um Facilitador de Metodologia deve ser 
+convocado.11
+COMPARTILHE ESTE EBOOK!
+NIVELAMENTO 
+DE BASE
+A primeira reunião do Time Empresa é uma reunião de 
+nivelamento. Nessa reunião precisamos garantir que 
+temos critérios mínimos de alinhamento  em relação à 
+visão de longo prazo da empresa e ao posicionamento 
+atual no mercado.
+Uma vez que os componentes do time já possuem 
+um alinhamento básico de visão e posicionamento 
+é fundamental alinharmos as “regras do jogo” e 
+expectativas em relação a implementação de OKRs.
+DURAÇÃO DO CICLO
+Caso tenha sucesso no desdobramento de OKRs, você 
+deverá acompanhar a evolução, apurar o atingimento 
+final e iniciar o processo de desdobramento novamente. Com qual frequência você deseja fazer isso?
+As duas opções mais clássicas são ciclos trimestrais ou 
+semestrais: 
+12
+COMPARTILHE ESTE EBOOK!
+CICLOS TRIMESTRAIS
+Funcionam muito bem para empresas que ainda estão 
+validando seu modelo de negócios e estão sujeitas 
+a mudanças radicais na sua estratégia trabalhando 
+sempre em um horizonte de tempo muito curto. Utilizar 
+ciclos trimestrais para empresas mais maduras pode 
+acabar consumindo muito tempo das pessoas envolvidas 
+sem que exista necessidade de grandes alterações 
+nos OKRs definidos anteriormente. Além disso o ciclo 
+trimestral muitas vezes pode acabar conduzindo a 
+empresa a “sonhar pequeno” pois normalmente 3 meses 
+são um período muito curto para transformar a realidade 
+de uma empresa. CICLOS SEMESTRAIS
+Ciclos semestrais costumam funcionar melhor em 
+empresas mais estruturadas uma vez que acabam 
+consumindo menos tempo da equipe. Como desvantagem 
+um ciclo mais longo pode gerar Key Results que ficam 
+obsoletos com o passar do tempo e também diminuir o 
+senso de urgência do time, que vai acabar deixar para 
+correr atrás realmente de seus Key Results apenas no final 
+do período.13
+COMPARTILHE ESTE EBOOK!
+ATINGIMENTO ESPERADO
+O Google considera um atingimento de 70% 
+dos OKRs como um resultado positivo. Já em 
+algumas empresas, atingir 70% de suas metas 
+duas vezes seguidas pode significar uma 
+demissão.
+Esse é um conceito muito importante e que 
+normalmente não é alinhado dentro das 
+empresas. Alinhar esse conceito é importante 
+para garantir que estamos propondo níveis de 
+desafio similares entre as diferentes equipes e 
+pessoas.PROFUNDIDADE
+Até qual nível hierárquico vamos desdobrar 
+OKRs? Para empresas maiores é recomendado 
+que os primeiros ciclos de OKR não envolvam 
+toda a empresa. 
+É recomendado que a liderança conquiste certa 
+maturidade na metodologia para evitar que os 
+erros inerentes ao processo de aprendizado não 
+“contaminem” toda a empresa.14
+COMPARTILHE ESTE EBOOK!
+AUTONOMIA / APROVAÇÃO
+É muito importante definir níveis de autonomia 
+necessidade de validação. Em algumas empresas um 
+gerente pode possuir autonomia completa sobre a 
+definição dos OKRs de seu analista já em outras pode 
+ser necessária a validação de um diretor ou mesmo do 
+CEO.
+Via de regra, devemos evitar mais de um estágio de 
+validação pois normalmente esse processo não agrega 
+valor suficiente para justificar a perda de agilidade e 
+gasto de tempo da alta liderança.
+Entretanto, principalmente no início do processo é 
+fundamental que os Facilitadores da Metodologia 
+verifiquem se os OKRs definidos seguem os critérios 
+mínimos definidos pela metodologia.LIMITAÇÕES
+Uma boa prática é limitar o número máximo de Key 
+Results por pessoa. Mesmo empresas que já possuem 
+décadas de experiência com desdobramento de metas 
+não costumam definir mais de 5 indicadores chave 
+por pessoa. Isso nos força a definir o que é realmente 
+crítico em um mar de coisas “importantes”. 15
+COMPARTILHE ESTE EBOOK!
+DEFINIÇÃO DE 
+MILESTONES 
+PARA O 
+CRONOGRAMA
+O objetivo dessa etapa é estabelecer metas 
+para desdobramento de OKRs.  A sugestão é 
+que sejam definidos prazos para cumprir os 
+principais milestones do definição de OKRs:
+1. Objetivos Priorizados : Qual a limite para 
+definir os objetivos do período?  
+Exemplo de um Objetivo priorizado: 
+“Garantir sustentabilidade financeira”2. Key Results Priorizados : Qual a data limite 
+para estabelecer quais serão os OKRs?  
+Ex: “Margem de Ebitda de X%” 
+3. Key Results com Valores Propostos : Qual 
+a data limite para estabelecer o critério de 
+sucesso dos OKRs?  
+Ex: “Margem de Ebitda de 35%”
+4. Key Results Validados : Qual a data limite 
+para ter os OKRs aprovados de acordo com 
+as regras definidas na etapa de Autonomia/
+Aprovação?
+Para garantir o alinhamento, é importante 
+que os times subordinados só iniciem suas 
+atividades após os Key Results do Time 
+Empresa estejam validados. No caso de 
+existirem múltiplos níveis, para aumentar a 
+agilidade podemos iniciar após termos os Key 
+Results Priorizados.16
+COMPARTILHE ESTE EBOOK!
+DEFINIÇÃO DO CRONOGRAMA
+Para cumprir esse milestones temos algumas 
+ferramentas que podem ser utilizadas, como reuniões, 
+preparação individual e fóruns de discussão e votação. 
+As Reuniões são a ferramenta principal do 
+desdobramento de OKRs. Para o desgosto de muitos, 
+colocar uma equipe em um sala ou videoconferência 
+ainda é a melhor maneira para alinhar conceitos 
+complexos e solucionar problemas.
+O grande problema dessa ferramenta é que ela consome 
+muitas horas produtivas da empresa. Dessa maneira 
+devemos valorizar muito esse momento, investindo 
+muito na Preparação Individual anterior à reunião e 
+quando possível podemos utilizar Fóruns de discussão 
+e votação online para agilizar alguns aspectos que 
+consomem muito tempo em uma reunião. 
+17
+COMPARTILHE ESTE EBOOK!
+FRAMEWORK BASE
+Para te auxiliar no planejamento dos seus OKRs, te apresentamos um Framework 
+básico que contém as principais etapas para cada equipe. 
+COMPANY TEAM
+18
+COMPARTILHE ESTE EBOOK!
+SPECIAL TEAMS
+19
+COMPARTILHE ESTE EBOOK!
+DEFINIÇÃO DE 
+OBJETIVOS
+A definição de objetivos é a parte mais importante 
+da definição de OKRs. Os objetivos devem dar o 
+direcionamento estratégico da empresa, ele diz O quê 
+queremos fazer ou alcançar enquanto os Key Results 
+dizem como vamos medir, e se estamos caminhando em 
+direção de nossos objetivos. 
+Os objetivos devem ser inspiracionais, mas acima de 
+tudo devem estar pautados na realidade da empresa no 
+momento.
+Se, por exemplo, sua empresa ainda não encontrou um 
+canal de vendas eficiente, seu objetivo deveria ser algo 
+como “Encontrar um canal de vendas que permita o 
+crescimento sustentável da empresa” e não “Ser a maior 
+empresa do segmento X”. Ser a maior empresa do segmento pode ser sua visão de 
+longo prazo, mas lembre que os OKRs são conexão da 
+estratégia com a operação . Objetivos realistas engajam 
+muito mais o time.
+20
+COMPARTILHE ESTE EBOOK!
+Da mesma maneira, se a sobrevivência da sua empresa 
+está ameaçada seus objetivos deveriam estar ligados 
+primordialmente a reverter essa situação para 
+posteriormente pensar em aspectos mais inspiradores.
+DESDOBRANDO OBJETIVOS 
+Uma vez estabelecido os objetivos da empresa, as 
+diferentes áreas podem definir objetivos próprios, desde 
+que os mesmos estejam ligados a um dos objetivos 
+corporativos.
+Imagine um ecommerce que definiu como um de seus 
+objetivos “Oferecer uma ótima experiência de compra para 
+nossos clientes”.DICAS PARA DEFINIR 
+OBJETIVOS DA EMPRESA
+ESTABELEÇA LIMITES PARA GARANTIR FOCO
+Para um primeiro exercício de definição de OKR, se limitar 
+a 3 objetivos costuma ser o número ótimo para a maioria 
+das empresas.
+LEMBRE DE SEUS STAKEHOLDERS
+Os objetivos da empresa estão alinhados com as 
+expectativas de seus clientes, investidores e funcionários? 
+LEMBRE DA PIRÂMIDE DE MASLOW 
+Maslow foi um psicólogo que argumentava que existe 
+uma hierarquia de necessidades humanas. De acordo 
+com Maslow, uma vez que temos nossa sobrevivência 
+assegurada começamos a nos preocupar mais com 
+necessidades mais sofisticadas como amor e  
+realização pessoal. 21
+COMPARTILHE ESTE EBOOK!
+Diferentes times podem desdobrar esse objetivo de 
+maneira que fique mais clara sua contribuição para esse 
+objetivo corporativo, como na imagem abaixo: 
+Observe que para o time que é responsável pelo design 
+do e-commerce o objetivo: “Site bonito e com navegação 
+fácil” é muito mais direto que o objetivo original. Já para o 
+time de logística por exemplo, o objetivo “Entrega rápida” 
+faz muito mais sentido.
+22
+COMPARTILHE ESTE EBOOK!
+ELABORAÇÃO DE 
+KEY RESULTS
+BRAINSTORM DE KEY RESULTS
+Como objetivos normalmente possuem um aspecto 
+subjetivo, é comum existirem diversas medidas 
+possíveis e relevantes sobre um tema. E mesmo no 
+caso de um objetivo simples como “Entrega Rápida” 
+pode ser desdobrado em indicadores menores como:
+23
+COMPARTILHE ESTE EBOOK!
+Note que não existe um indicador absoluto para medir 
+beleza ou facilidade de navegação, mas existe um 
+número muito grande de indicadores que temos bons 
+motivos para acreditar que estão correlacionados 
+com nosso esforço de “Ter um site bonito e com fácil 
+navegação”.
+Por isso é muito importante e enriquecedor realizar um 
+brainstorm de Key Results , pois além das métricas que 
+serão priorizadas também podemos levantar diversos 
+indicadores que podemos passar a acompanhar. 
+Para ter uma maior compreensão de que tipo de 
+métricas podem ser propostas, vale entender os 
+diferentes tipos de Key Results . Existem 3 tipos 
+principais: Indicadores de desempenho, Resultados de 
+Pesquisas e Entregas de Projetos.Para objetivos mais subjetivos, como: “Ter um site 
+bonito e com fácil navegação” podemos ter uma 
+variedade enorme de medidas possivelmente 
+correlacionadas. Podemos definir como uma medida 
+chave: 
+ #Diminuir de X para Y o número de etapas 
+necessárias para compra
+ #Diminuir o bounce rate em X%
+ #NPS
+ #70% de aprovação em pesquisa com clientes
+ #Número de elogios registrados pelo atendimento
+ #Aumentar a navegação por categorias
+ #Aumentar a conversão do visitantes únicos para 
+compradores em x%24
+COMPARTILHE ESTE EBOOK!
+ #Churn: Número de cancelamentos / Número de 
+clientes
+RESULTADOS DE PESQUISAS
+Muitas vezes realizamos pesquisas com clientes, 
+fornecedores ou até funcionários na tentativa de 
+medir critérios mais subjetivos perguntando direta ou 
+indiretamente para as partes interessadas. Algumas 
+das pesquisas mais comuns realizadas pelas empresas:
+ #Net Promoter Score (NPS)
+ #Pesquisa interna de clima
+ #Pesquisa de satisfação com atendimento
+Muito cuidado ao definir o resultado de uma pesquisa 
+como um Key Result. Para se qualificar como Key Result 
+recomendamos que uma pesquisa atenda a 3 critérios:INDICADORES DE DESEMPENHO
+Um indicador de desempenho mede o output de algum 
+processo ou tarefa. Indicadores podem ser valores 
+absolutos  com diferentes unidades de medida como: 
+ #Medidas de tempo: Tempo de resposta, Tempo de 
+entrega, etc.
+ #Medidas monetárias: Faturamento, Ebitda, Custo 
+Fixo, etc.
+ #Quantidade: Número de leads gerados, número de 
+reclamações
+Indicadores muitas vezes também são taxas obtidas 
+pela divisão de dois ou mais fatores, abaixo listamos 
+alguns exemplos:
+ #Conversão de vendas: Número de vendas / Número 
+de Leads25
+COMPARTILHE ESTE EBOOK!
+Para ser considerada como um Key Result, uma entrega 
+de projeto deve ter um critério claro de sucesso e seu 
+atingimento não pode depender apenas da pessoa 
+responsável pela execução. 
+PRIORIZAÇÃO DE KEY RESULTS
+Uma vez que listamos através de brainstorming os 
+principais Key Results para cada objetivo, devemos 
+agora definir quais vamos priorizar.
+Utilizamos 3 critérios para avaliar a relevância de um 
+Key Result. 
+Dois se aplicam ao próprio Key Result:
+1. Impacto : O atingimento desse Key Result teria um 
+grande impacto no Objetivo a que se relaciona?
+2. Facilidade de apuração: Esse indicador é simples 
+de ser medido? #Base de comparação: O resultado absoluto de uma 
+pesquisa normalmente não nos diz muita coisa, 
+mas a evolução do resultado dessa pesquisa pode 
+revelar tendências. Se você nunca conduziu uma 
+pesquisa de NPS, por exemplo, qual o sentido de 
+estabelecer uma meta sobre o seu resultado?
+ #Tamanho da amostra: Além da base de 
+comparação, se estamos fazendo pesquisas 
+precisamos ter amostras significativas com um 
+número alto de pessoas respondendo. 
+ #Frequência mínima : Preferencialmente temos 
+que poder acompanhar a evolução do resultado da 
+pesquisa pelo menos mais de uma vez dentro do 
+período do ciclo dos OKRs.
+ENTREGAS DE PROJETOS
+Muitas vezes um Key Result pode estar ligado a 
+conclusão de algum projeto ou etapa de um projeto 
+dentro de um prazo determinado.26
+COMPARTILHE ESTE EBOOK!
+Para sair do “X” e definir valores definitivos precisamos 
+estudar referências, medir gaps de desempenho, levantar 
+ações e propor desafios.
+Estudar referências
+4. Estudo de dados históricos : Como esse indicador 
+se comportou nos últimos meses? Ele vem em uma 
+tendência de queda ou subida? Apresenta alguma 
+sazonalidade relevante que deve ser levada em 
+consideração?
+5. Estudo de benchmark interno : Existem outras áreas/
+produtos na empresa que podemos utilizar como 
+referência de performance? Como o indicador está em 
+relação a esses benchmarks? 
+6. Estudo de benchmark externo : Principalmente em 
+áreas de suporte como RH, financeiro e atendimento ao 
+cliente, muitas vezes conseguimos levantar referências 
+de valores de outras empresas. Essas referências 
+podem ser utilizadas como balizas para nossos valores.O último critério se aplica a pessoa que será dona desse Key 
+Result:
+3. Influência: Qual a capacidade do dono do Key Result 
+influenciar significativamente seu resultado?
+O segredo de um bom desdobramento é manter o equilíbrio 
+entre impacto, influência e facilidade de apuração. Um Key 
+Result faz com que as pessoas se dediquem e acompanhem 
+muito mais de perto sua evolução, o que costuma trazer 
+muito mais resultados.
+ELABORAÇÃO DE PROPOSTA 
+DE VALORES
+Definir o valor exato do Key Result é uma etapa muito crítica 
+de qualquer processo de definição de metas. Infelizmente, 
+é muito comum que meses após a definição de OKRs ainda 
+existam registros de Key Results sem valores definidos: 
+“Faturar X mil reais até o final do ano”.27
+COMPARTILHE ESTE EBOOK!
+PROPOR DESAFIO
+Uma vez que sabemos do nosso gap de performance 
+e as ações possíveis a se tomar, devemos definir qual 
+o percentual do gap queremos cobrir nesse período. 
+Note que nesse momento é importante retornarmos ao 
+nivelamento de base para entender qual o atingimento 
+esperado de metas a empresa considera, e propor 
+um desafio que esperamos estar de acordo com o 
+atingimento esperado.
+AVALIAR SUFICIÊNCIA MATEMÁTICA 
+COM METAS JÁ DEFINIDAS
+Apesar da metodologia de OKRs não exigir que existe 
+uma suficiência matemática perfeita de todas as metas 
+é fundamental que isso sempre seja avaliado pelos 
+responsáveis. A suficiência matemática significa, 
+basicamente, que a soma das metas individuais garante 
+as metas coletivas.MEDIR GAP
+Uma vez levantadas as referências históricas e 
+benchmarks devo escolher um valor de referência 
+(preferencialmente o melhor encontrado) e medir a 
+distância do valor atual desse indicador para o valor 
+atual.
+LEVANTAR AÇÕES
+Quais diferentes ações podemos executar dentro do 
+período para melhorar o indicador? Quais seriam os 
+possíveis ganhos dessas ações?28
+COMPARTILHE ESTE EBOOK!
+TRABALHANDO 
+COM OKRS
+Como você pode perceber, definir e desdobrar objetivos 
+e resultados chave com qualidade exige tempo e 
+dedicação. Para não deixar que todo esse esforço seja 
+em vão é fundamental que os OKRs assumam o papel de 
+protagonista na gestão da sua empresa.
+O grande valor da metodologia está na sua utilização no 
+dia-dia orientando a tomada de decisões, priorização de 
+atividades e a elaboração de planos de ação. Os OKRs 
+devem ser algo vivo, presente nas discussões do dia-dia 
+da empresa. Infelizmente, muitas empresas definem OKRs trimestrais, 
+guardam na gaveta e abrem apenas no fim do trimestre 
+para ver se foram atingidos.
+Observando empresas que utilizam a metodologia com 
+sucesso é possível destacar dois fatores críticos de 
+sucesso:
+ENVOLVIMENTO DA ALTA LIDERANÇA
+OKRs tendem a funcionar bem quando são uma 
+iniciativa do CEO suportada por toda alta liderança. 
+O exemplo é a ferramenta mais forte para modificar 
+comportamentos. Um CEO obcecado pela metodologia 
+acaba “contaminando” todos os membros da organização.29
+COMPARTILHE ESTE EBOOK!
+ROTINA DE ACOMPANHAMENTO
+Para fugir da nossa tendência natural para a 
+procrastinação, precisamos estabelecer uma 
+rotina fixa de acompanhamento de OKRs. Minha 
+sugestão inicial é adotar pelo menos uma reunião de 
+resultados mensal para empresa e para os times. 
+Na reunião de resultados, todos os participantes 
+devem expor o status de seus OKRs e definir planos 
+de ação buscar o atingimento de todos OKRs que 
+estão em risco de não serem alcançados.Não esqueça também que cada ciclo de OKR é um 
+ciclo de aprendizado. Ao final de cada ciclo você 
+vai melhorar seu conhecimento sobre sua empresa, 
+seu time e também sobre desdobramento de OKRs. 
+É importante alinhar a expectativa que a primeira 
+vez não será perfeita, a segunda será um pouco 
+melhor, e a partir da terceira vez é onde normalmente 
+começamos observar uma melhora significativa na 
+gestão das empresas.A Rock Content é a empresa líder em marketing de conteúdo no 
+mercado brasileiro. Nós ajudamos marcas a se conectarem com 
+seus clientes através de conteúdo fantástico  e blogs corporativos 
+sem monotonia.
+Através de nosso serviço de consultoria montamos estratégias de 
+conteúdo para nossos clientes que são executadas pelo nosso time 
+de milhares de escritores freelance qualificados.
+Possuímos vários materiais educativos gratuitos e sempre temos 
+algum artigo interessante no blog do Marketing de Conteúdo .A Leanmetrics é uma consultoria jovem e disruptiva que busca 
+aliar tecnologia e metodologias modernas para remover o atrito 
+da rotina de gestão das empresas. Ajudando empreendedores e 
+CEO a melhorar a qualidade da tomada de decisão sem aumentar a 
+burocracia ou perder flexibilidade.
+Temos uma crença muito forte de que, independente do setor e 
+do tamanho, qualquer organização pode ter uma cultura de alta 
+performance e um ótimo ambiente de trabalho. Mas sabemos que 
+cada fase de maturidade de uma empresa demanda ferramentas 
+e processos específicos. Nosso desafio é auxiliar empresas a 
+encontrar a medida certa de organização e processos para permitir 
+que a empresa cresça sem deixá-la engessada, mantendo sua 
+agilidade e espírito empreendedor.
+Nós já auxiliamos dezenas de empresas a implementar a 
+metodologia de OKRs e se você se interessou por esse tema ou 
+qualquer outro relacionado a gestão conheça nosso site:  
+www.leanmetrics.com.br. Ou entre em contato por email  
+contato@leanmetrics.com.br.SOBRE O AUTOR
+Matheus Lima é um dos fundadores da Consultoria LeanMetrics. 
+Economista formado pela UFMG. Especialista em Gestão 
+Empresarial e OKRs iniciou sua experiência profissional 
+em empresas de alta performance como Falconi e AB-Inbev 
+mas decidiu largar sua carreira corporativa para abraçar o 
+empreendedorismo. 
+Foi sócio e diretor de um dos maiores portais de e-commerce do 
+Brasil e essa experiência mostrou que PMEs  e Startups podem 
+ganhar muito ao as melhores práticas de gestão, mas muitas vezes 
+necessitam de ajuda para adaptar os métodos a sua realidade.

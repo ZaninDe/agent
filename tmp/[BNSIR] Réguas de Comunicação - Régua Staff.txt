@@ -1,0 +1,59 @@
+Gerente
+Tratamento de LeadCorretor
+Tratamento de Lead
+Push/ E- mail - Já 
+marcou visita do 
+<lead>, veja o perﬁl 
+deste cliente:E- mail/ Push - Corretor 
+<nome> tem um lead 
+sem contato:  <info lead>
+E- mail - <lead> está 2 
+dias sem contato. 
+Realoque corretorApós 48h
+sem contatoRecebeu 
+1º ctto?Não
+Push/ E- mail - Veja o 
+perﬁl do <lead> que 
+está atendendo:SimE- mail - Relatório diário 
+de entrada e 
+atendimento de leads de 
+todos corretores
++
+Destaque leads com 
+mais de 10 dias sem 
+contato.Morning Call
+E- mail - Essa é a 
+melhor forma de 
+contatar o cliente.E- mail - Diversiﬁque 
+suas formas de 
+contato. Preﬁra 
+Whatsapp.novo lead recebido
+PUSH - Você recebeu 
+um lead novo.
+PUSH - Não se 
+esqueça, você recebeu 
+um lead novo.
+PUSH/ E- mail - Você 
+perderá seu Lead em 
+24h.
+E- mail - <lead> você 
+perdeu seu lead.Após 48hE- mail - Relatório leads 
+sem atendimentoMorning Call
+lead ñ  
+contata
+doA cada 2h
+(durante hrs úteis)
+Após 24h
+sem contatoLead respondeu 
+pesquisa de perﬁlLead respondeu e- mail 
+com formas de contatoLead não responde às 
+tentativas de 
+comunicação Lead com 24h sem 
+contato
+Cliente avalia imóveis 
+visitados
+E- mail - O cliente 
+avaliou bem os 
+seguintes imóveis:
+<agende novas 
+visitas>

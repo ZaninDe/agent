@@ -1,0 +1,270 @@
+ 
+Business Case Template  
+ 
+Purpose  
+ 
+The purpose of this tool is to help you design a Business Case for any corporate 
+investment. A Business Case is a formal management communication document that 
+provides an opportunity overview, key success factors, assumpt ions & decision -
+making criterion, business impact analysis, sensitivity analysis, risks, contingency 
+plans, and action -oriented recommendations.  
+ 
+  
+How to Use this Template  
+ 
+Complete the following sections with your project team and/or stakeholders.  Cut &  
+paste this information into a document that reflects your corporate image, and 
+deliver your Business Case to senior executives interested in sponsoring the project.  
+ 
+ 
+Title Page  
+ 
+ 
+ 
+[Insert Company Name or Logo]  
+ 
+ 
+ 
+Business Case – (insert project title)  
+ 
+ 
+ 
+ 
+[Insert Completion Date]  
+ 
+ 
+Completed By: [Insert Project Manager Name]  
+Completed For:  [Insert Project Sponsor Name]  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+Table of Contents  
+ 
+ 
+       Page  
+ 
+1. Executive Summary         3 
+ 
+ 1.1 What Problem does this Business Case Solve?       
+ 
+ 
+2. Oppo rtunity Overview & Key Success Factors     3 
+ 
+ 2.1 Opportunity Overview  
+ 2.2 Project Purpose           
+ 2.3 Project Scope  
+ 2.4 Project Schedule         
+ 2.5 Key Success Factors          
+ 
+ 
+3. Assumptions & Decision -Making Criterion      4 
+ 
+ 3.1 Assumptions         
+ 3.2 Use -case Scenarios & Options         
+ 3.3 Recommended Decision -Making Criterion     
+ 3.4 Information Sources & Research Methodology      
+   
+ 
+4.  Business Impact Analysis        5 
+ 
+ 4.1 Cost/Benefit Analysis  
+ 4.3 Qualitative/Intangible Business Benefits       
+ 4.4 Required Resources for Implementation       
+      
+ 
+5. Risks & Contingency Plans        6 
+ 
+5.1 Key Risks to Mitigate  
+5.2 Contingency Plans       
+ 
+ 
+6. Recommendation         6 
+   
+6.1 Action Plan       
+  
+ 
+ 
+1. Executive Summary  
+ 
+1.1 What Problem does this Business Case Solve?  
+ 
+Provide a brief description of the problems that this business case was 
+designed to solve.  Consider cost -savings, revenue growth, increased 
+customer satisfaction, better product management, higher retention, 
+employee growth & develop ment, or pain -points for your organization.  
+ 
+2. Opportunity Overview & Key Success Factors  
+ 
+2.1 Opportunity Overview  
+ 
+In this section, put a positive spin on the solution you are recommending.  
+Document your vision of the impact your solution will have on the 
+organization. Write from each key stakeholder perspective: senior 
+management, sales, marketing, customer service, IT, finance, and operations.  
+ 
+ 
+2.2 Project Purpose  
+ 
+Provide a description of how this project DIRECTLY relates to business goals 
+and objec tives.  You need to obtain buy -in from your project sponsor, and 
+projects that clearly fit organizational goals are more likely to be supported.  
+ 
+2.3 Project Scope  
+ 
+Additionally, document what is in scope for this project and explicitly state 
+what is not i n scope.  If you are planning on a phased approach, provide a 
+summary of what each phase will look like from your perspective.  Consider 
+how many departments/stakeholders will be involved; then, document them.  
+ 
+2.4 Project Schedule  
+ 
+Following is a sample p roject schedule that you can customize further:  
+ 
+Project Milestones  Deadline  
+1. RFP Delivered to Vendors  June 1, 2007  
+2. RFP Question Period Ends  July 15, 2007  
+3. RFP Close Date  July 31, 2007  
+4. Conduct Vendor Evaluations  September 1, 2007  
+5. Award C ontract to Vendor  September 30, 2007  
+  
+ 
+ 
+ 
+2.5 Key Success Factors  
+ 
+Key Success Factors are the most important items that need to work for you 
+to ensure project success.  Examples include:  adequate budget & resources, 
+skill sets, time to do the project amo ngst other priorities, project sponsorship.  
+ 
+Key Success Factors  Justification  
+1. Insert KSF #1  Why is this critical?  
+2. Insert KSF #2  Why is this critical?  
+3. Insert KSF #3  Why is this critical?  
+4. Insert KSF #4  Why is this critical?  
+5. Insert KSF # 5 Why is this critical?  
+ 
+ 
+3. Assumptions & Decision -Making Criterion  
+ 
+3.1 Assumptions  
+ 
+List all the assumptions you made when creating this business case.  Some 
+examples of assumptions include:  costs, savings, incremental returns, 
+pricing, volume, or res ource requirements such as expected consulting costs.  
+ 
+3.2 Use -Case Scenarios & Options  
+ 
+Contrast and compare various options, such as “Do Nothing”, “Conduct a 
+Pilot”, “Conduct Full -scale Implementation”, “Build Internally”, or “Buy”.  This 
+section should provide assurance that the business will not fall apart should it 
+be decided that moving to your recommendation is not feasible.  Your goal is 
+to economically justify your investment to generate returns.  
+ 
+3.3 Recommended Decision -Making Criterion  
+ 
+This sec tion is useful for proposing the decision -making criterion that you 
+believe a senior executive should consider when making a decision.  The idea 
+is to make it very easy for your sponsor to agree with your proposal, given 
+that you have already completed the  majority of the required critical thinking.  
+  
+Following is a prioritized list of proposed evaluation criterion:  
+ 
+1. Insert Criteria  
+2. Insert Criteria  
+3. Insert Criteria  
+  
+ 
+ 
+3.4 Information Sources & Research Methodology  
+ 
+Where did you go to learn more about this opportunity?  Are your sources of 
+information credible?  What process did you take to do the res earch?  Some 
+examples include: vendor discussions, whitepapers, analyst firms, Google 
+searching, conferences, peer -to-peer networking, consultants.  
+ 
+4. Business  Impact Analysis  
+ 
+This section will outline the costs and benefits of the proposed initiative.  Both 
+quantitative and qualitative (intangible) benefits need to be documented here.  
+Additionally, providing a “High/Low” adds an element of sensitivity analysi s, which 
+provides both a conservative and optimistic outlook for your proposed initiative.  
+  
+4.1 Incremental Cost/Benefit Analysis  
+ 
+Determine the projected incremental costs/benefits over a 3 -year period.  
+Insert your cost categories, a description of each , and a high/low estimate for 
+each.  Divide total benefits by total costs and multiply by 100 to obtain a %.  
+Complete this worksheet for each use -case scenario, and/or project option.  
+ 
+ 
+Cost/Benefit Analysis Worksheet  
+Project Costs  
+Incremental Costs  Description  High Low 
+    
+    
+    
+    
+    
+    
+Total Costs    
+Project Benefits  
+Incremental Benefits  Description  High Low 
+    
+    
+    
+    
+Total Benefits    
+% Benefits/Costs     
+ 
+ 
+4.2 Qualitative/Intangible Business Benefits  
+ 
+What are the qualitative or intangible benefits that were not captured in the 
+cost/benefit analysis worksheet?   (Customer satisfaction, brand awareness)  
+ 
+1. Insert Qualitative Benefit #1  
+2. Insert Qualitative Benefit #2  
+3. Insert Qualitative Benefit #3  
+4. Insert Qualitative Benefit #4  
+5. Insert Qualitative Benefit #5  
+ 
+ 
+4.3 Required Resources for Implementation  
+ 
+What are the required resources in terms of budget, staffing, consulting, or 
+other expenditures related to moving forward with this business case?  
+ 
+ 
+5. Risks & Contingency Plans  
+ 
+This se ction will outline the key risks that need to be mitigated and provide 
+contingency plans for each identified risk.  Risks include:  lack of end -user adoption, 
+project over -time/over -budget, technical risk, and senior management commitment.  
+ 
+5.1 Key Risks t o Mitigate  
+ 
+1. Insert Key Risk #1  
+2. Insert Key Risk #2  
+3. Insert Key Risk #3  
+4. Insert Key Risk #4  
+5. Insert Key Risk #5  
+ 
+5.2 Contingency Plans  
+ 
+What is the contingency plan for each of the preceding risks?  
+ 
+ 
+6. Recommendation  
+ 
+What is your proposed course of action?  I nsert your recommendations here.  
+ 
+6.1 Action Plan  
+ 
+1. Action Plan Step #1  
+2. Action Plan Step #2  
+3. Action Plan Step #3  

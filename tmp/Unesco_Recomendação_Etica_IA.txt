@@ -1,0 +1,2083 @@
+Recomendação sobre a  
+Ética da  
+lnteligência 
+Artificial
+Aprovada em 23 de novembro de 2021
+CLD 1517_21Publicado em 2022 pela Organização das Nações Unidas para a Educação, a Ciência e a Cultura, 7, place 
+de Fontenoy, 75352 Paris 07 SP , França, e Representação da UNESCO no Brasil.
+© UNESCO 2022
+SHS/BIO/PI/2021/1
+Todos os direitos reservados.
+Esta publicação está disponível em acesso livre ao abrigo da licença Atribuição-Uso Não-Comercial-
+Partilha 3.0 IGO (CC-BY-NC-SA 3.0 IGO) (http://creativecommons.org/licenses/by-nc-sa/3.0/igo/). Ao 
+utilizar o conteúdo da presente publicação, os usuários aceitam os termos de uso do Repositório 
+UNESCO de acesso livre (http://unesco.org/open-access/terms-use-ccbyncsa-en).
+Título original: Recommendation on the Ethics of Artificial Intelligence. Publicado em 2022 pela 
+Organização das Nações Unidas para a Educação, a Ciência e a Cultura (UNESCO).
+Créditos da versão original:
+Foto de capa: 
+Irina Bg/Shutterstock.com; Artistdesign29/Shutterstock.com; kynny/gettyimages; 
+gorodenkoffy/gettyimages; Gorodenkoff/Shutterstock.com; dieddin/Shutterstock.com; 
+Gorodenkoff/Shutterstock.com; PopTika/Shutterstock.com; Horth Rasur/Shutterstock.com.
+Fotos internas: 
+p. 8: ESB Professional/Shutterstock.com 
+p. 11: Ruslana Iurchenko/Shutterstock.com 
+p. 12: metamorworks/Shutterstock.com 
+p. 14/15: Alexander Supertramp/Shutterstock.com 
+p. 16: Wazzkii/Shutterstock.com 
+p. 19: Mukesh Kumar Jwala/Shutterstock.com 
+p. 21: supparsorn/Shutterstock.com 
+p. 24: everything possible/Shutterstock.com 
+p. 29: Gorodenkoff/Shutterstock.com 
+p. 31: only_kim/Shutterstock.com 
+p .33: SeventyFour/Shutterstock.com 
+p. 34: ESB Professional/Shutterstock.com 
+p. 36: KlingSup/Shutterstock.com 
+p. 38: Miriam Doerr Martin Frommherz/Shutterstock.com
+Design gráfico: Aurélia Mazoyer
+Créditos da versão em português:
+Tradução: Tikinet Edições Ltda.Aprovada em 23 de novembro de 2021Recomendação sobre a  
+ Ética da  
+ lnteligência
+Artificial3Sumário
+Preâmbulo 5
+I. Escopo de aplicação 9
+II. Fins e objetivos 13
+III. Valores e princípios 17
+III.1  Valores 18
+III.2  Princípios 20
+IV. Áreas de ação política 25
+Área política 1: Avaliação de impacto ético 26
+Área política 2: Governança e gestão ética 27
+Área política 3: Política de dados 29
+Área política 4: Desenvolvimento e cooperação internacional 30
+Área política 5: Meio ambiente e ecossistemas 31
+Área política 6: Gênero 32
+Área política 7: Cultura 33
+Área política 8: Educação e pesquisa 34
+Área política 9: Comunicação e informação 36
+Área política 10: Economia e trabalho 36
+Área política 11: Saúde e bem-estar social 38
+V. Monitoramento e avaliação 40
+VI. Utilização e aproveitamento da presente Recomendação 42
+VII. Promoção da presente Recomendação 43
+VIII.  Disposições finais 445Preâmbulo
+ A Conferência Geral da Organização das Nações Unidas para a
+ Educação, a Ciência e a Cultura (UNESCO), reunida em Paris de
+9 a 24 de novembro, em sua 41ª sessão,
+Reconhecendo  os impactos profundos e dinâmicos, po -
+sitivos e negativos da inteligência artificial (IA) nas sociedades, 
+no meio ambiente, nos ecossistemas e nas vidas humanas, in-
+clusive na mente humana, em parte devido às novas formas 
+como seu uso influencia o pensamento, a interação e a toma-
+da de decisões humanas e afeta a educação, as ciências huma-
+nas, sociais e naturais, a cultura e a comunicação e informação,
+Recordando  que, pelos termos de sua Constituição, a 
+UNESCO busca contribuir para a paz e a segurança ao promo -
+ver a colaboração entre as nações por meio da educação, das 
+ciências, da cultura, e da comunicação e informação, a fim de 
+fortalecer o respeito universal pela justiça, pelo Estado de di-
+reito e pelos direitos humanos e liberdades fundamentais que 
+são afirmados para os povos de todo o mundo,
+Convencida  de que a Recomendação apresentada aqui, 
+como um instrumento normativo desenvolvido por meio de 
+uma abordagem mundial, baseada no direito internacional, com 
+foco na dignidade humana e nos direitos humanos, bem como 
+na igualdade de gênero, na justiça e no desenvolvimento social 
+e econômico, no bem-estar físico e mental, na diversidade, inter -
+conectividade, inclusão e proteção ambiental e do ecossistema, 
+pode orientar as tecnologias de IA em uma direção responsável,
+Orientada pelos propósitos e princípios da Carta das Na-
+ções Unidas,
+Considerando  que as tecnologias de IA podem ser de 
+grande utilidade para a humanidade e podem beneficiar to -
+dos os países, mas também levantam questões éticas funda-
+mentais, como, por exemplo, em relação às distorções que 
+podem incorporar e exacerbar, resultando potencialmente 
+em discriminação, desigualdade, exclusão digital, exclusão 
+em geral e ameaça à diversidade cultural, social e biológica e 
+divisões sociais ou econômicas; a necessidade de transparên-
+cia e compreensibilidade do funcionamento dos algoritmos e 
+dos dados com que eles foram alimentados; e seu potencial 
+impacto sobre, entre outros, a dignidade humana, os direitos humanos e as liberdades fundamentais, a igualdade de gêne -
+ro, a democracia, os processos sociais, econômicos, políticos e 
+culturais, as práticas científicas e de engenharia, o bem-estar 
+dos animais, o meio ambiente e os ecossistemas,
+Também reconhecendo  que as tecnologias de IA po -
+dem aprofundar as divisões e as desigualdades existentes no 
+mundo, dentro e entre os países, e que a justiça, a confiança 
+e a equidade devem ser defendidas para que nenhum país e 
+nenhum indivíduo seja deixado para trás, seja por ter acesso 
+justo às tecnologias de IA e desfrutar seus benefícios ou na 
+proteção contra suas implicações negativas, reconhecendo as 
+diferentes circunstâncias de diferentes países e respeitando o 
+desejo de algumas pessoas de não participar de todos os de -
+senvolvimentos tecnológicos,
+Consciente do fato de que todos os países estão enfren-
+tando uma aceleração no uso de tecnologias da informação 
+e comunicação (TIC) e tecnologias de IA, bem como uma 
+necessidade crescente de alfabetização midiática e informa-
+cional (AMI), e que a economia digital apresenta importantes 
+desafios e oportunidades sociais, econômicas e ambientais de 
+compartilhamento de benefícios, especialmente para países 
+de renda baixa e média (LMICs, na sigla em inglês), incluindo, 
+mas não se limitando a, países menos desenvolvidos (LDCs), 
+países em desenvolvimento sem litoral (LLDCs) e pequenos 
+Estados insulares em desenvolvimento (SIDS), exigindo o re -
+conhecimento, a proteção e a promoção de culturas, valores e 
+conhecimentos endógenos, a fim de desenvolver economias 
+digitais sustentáveis,
+Reconhecendo , ainda, que as tecnologias de IA têm o 
+potencial de ser benéficas para o meio ambiente e para os 
+ecossistemas e, para que esses benefícios sejam percebidos, 
+os danos potenciais e os impactos negativos sobre o meio am-
+biente e os ecossistemas devem ser abordados, não ignorados,
+Assinalando  que abordar os riscos e as preocupações éti-
+cas não deve impedir a inovação e o desenvolvimento, mas 
+proporcionar novas oportunidades e estimular pesquisas 
+conduzidas de forma ética e inovações que fundamentem as 
+tecnologias de IA nos direitos humanos, nas liberdades fun-
+damentais, em valores e princípios e na reflexão ética e moral,6Recordando também  que, em novembro de 2019, a 
+Conferência Geral da UNESCO, em sua 40ª sessão, aprovou a 
+40 C/Resolução 37, pela qual determinou que a diretora-geral 
+“elaborasse um instrumento internacional normativo sobre a 
+ética da inteligência artificial (IA) na forma de uma recomenda-
+ção” , o qual deve ser apresentado à Conferência Geral em sua 
+41ª sessão, em 2021,
+Reconhecendo  que o desenvolvimento de tecnologias 
+de IA exige um aumento proporcional de dados, mídias e alfa-
+betização informacional, bem como acesso a fontes de infor -
+mação independentes, pluralistas e confiáveis, inclusive como 
+parte dos esforços para mitigar os riscos de desinformação, in-
+formações falsas, discurso de ódio e danos causado por meio 
+da utilização indevida de dados pessoais,
+Observando  que um marco normativo para as tecnolo -
+gias de IA e suas implicações sociais encontra o seu funda-
+mento nos marcos jurídicos internacionais e nacionais, nos 
+direitos humanos e nas liberdades fundamentais, na ética, 
+na necessidade de acesso a dados, informações e conheci-
+mento, na liberdade de pesquisa e inovação, no bem-estar 
+humano, ambiental e ecossistêmico, e vincula valores e prin-
+cípios éticos aos desafios e às oportunidades relacionadas às 
+tecnologias de IA, com base no entendimento comum e nos 
+objetivos compartilhados,
+Reconhecendo também  que valores e princípios 
+éticos podem ajudar a desenvolver e implementar medidas 
+políticas e normas legais baseadas em direitos, pelo forneci-
+mento de orientação diante do ritmo acelerado de desenvol-
+vimento tecnológico,
+Também convencida  de que os padrões éticos aceitos 
+em âmbito global para as tecnologias de IA, em total respeito 
+ao direito internacional, em particular às leis de direitos huma-
+nos, podem desempenhar um papel fundamental no desen-
+volvimento de normas relacionadas à IA em todo o mundo,
+Tendo em mente a Declaração Universal dos Direitos Hu-
+manos (DUDH, 1948), os instrumentos do marco internacional 
+de direitos humanos, incluindo a Convenção Relativa ao Esta-
+tuto dos Refugiados (1951), a Convenção sobre Discriminação em Matéria de Emprego e Profissão (1958), a Convenção Inter -
+nacional sobre a Eliminação de Todas as Formas de Discrimi-
+nação Racial (1965), o Pacto Internacional sobre Direitos Civis 
+e Políticos (PIDCP , 1966), o Pacto Internacional sobre Direitos 
+Econômicos, Sociais e Culturais (PIDESC, 1966), a Convenção 
+sobre a Eliminação de Todas as Formas de Discriminação 
+contra as Mulheres (1979), a Convenção sobre os Direitos da 
+Criança (1989), a Convenção sobre os Direitos das Pessoas com 
+Deficiência (2006), a Convenção Relativa à Luta contra a Dis-
+criminação no Campo do Ensino (1960), a Convenção sobre a 
+Proteção e Promoção da Diversidade das Expressões Culturais 
+(2005), assim como quaisquer outros instrumentos, recomen-
+dações e declarações internacionais pertinentes,
+Observando também  a Declaração das Nações Unidas 
+sobre o Direito ao Desenvolvimento (1986); a Declaração sobre 
+as Responsabilidades das Gerações Presentes em Relação às 
+Gerações Futuras (1997); a Declaração Universal sobre Bioética 
+e Direitos Humanos (2005); a Declaração das Nações Unidas 
+sobre os Direitos dos Povos Indígenas (2007); a Resolução da 
+Assembleia Geral das Nações Unidas sobre a Revisão da Cúpu-
+la Mundial sobre a Sociedade da Informação (A/RES/70/125) 
+(2015); a Resolução da Assembleia Geral das Nações Unidas 
+“Transformando Nosso Mundo: A Agenda 2030 para o Desen-
+volvimento Sustentável” (A/RES/70/1) (2015); a Recomendação 
+sobre o Respeito à Preservação e Acesso ao Patrimônio Do -
+cumental, Inclusive em Formato Digital (2015); a Declaração 
+de Princípios Éticos em Relação à Mudança Climática (2017); 
+a Recomendação sobre Ciência e Pesquisadores Científicos 
+(2017); os Indicadores de Universalidade da Internet (endos-
+sados pelo Programa Internacional para o Desenvolvimento 
+da Comunicação da UNESCO em 2018), incluindo os princí-
+pios ROAM (endossados pela Conferência Geral da UNESCO 
+em 2015); a Resolução do Conselho de Direitos Humanos so -
+bre “O direito à privacidade na era digital” (A/HRC/RES/42/15) 
+(2019); e a Resolução do Conselho de Direitos Humanos sobre 
+“Tecnologias digitais novas e emergentes e direitos humanos” 
+(A/HRC/RES/41/11) (2019),
+Enfatizando que deve ser dada atenção específica aos 
+LMICs, incluindo, mas não se limitando a LDCs, LLDCs e SIDS, 
+pois eles têm suas próprias capacidades, mas têm sido sub -
+-representados no debate sobre a ética da IA, o que levanta 7preocupações sobre negligenciar o conhecimento local, o 
+pluralismo cultural, os sistemas de valores e as demandas de 
+justiça global para lidar com os impactos positivos e negativos 
+das tecnologias de IA,
+Também consciente sobre as muitas políticas nacionais 
+existentes, outros marcos e iniciativas elaboradas por entida-
+des relevantes das Nações Unidas, organizações intergover -
+namentais, incluindo organizações regionais, bem como do 
+setor privado, associações profissionais, organizações não go -
+vernamentais e a comunidade científica, relacionadas à ética e 
+à regulação de tecnologias de IA,
+Convencida , ainda, de que as tecnologias de IA podem 
+trazer benefícios importantes, mas alcançá-los também pode 
+ampliar a tensão relativa à inovação, ao acesso desigual ao co -
+nhecimento e às tecnologias, incluindo o déficit de alfabetiza-
+ção digital e cívica que limita a capacidade do público de se 
+envolver em assuntos relacionados à IA, assim como barreiras 
+de acesso à informação e lacunas de capacidade, habilidades 
+humanas e institucionais, barreiras de acesso à inovação tec-
+nológica, e a falta de infraestrutura física e digital e marcos 
+regulatórios adequados, incluindo os relacionadas aos dados 
+– todos pontos que precisam ser abordados,
+Sublinhando  que o fortalecimento da cooperação e da 
+solidariedade global, inclusive por meio do multilateralismo, 
+é necessário para facilitar o acesso justo às tecnologias de IA 
+e enfrentar os desafios que elas trazem à diversidade e à in-
+terconectividade de culturas e sistemas éticos, para mitigar os 
+potenciais usos indevidos, realizar o potencial pleno oferecido 
+pela IA, especialmente na área de desenvolvimento, e garantir 
+que as estratégias nacionais de IA sejam orientadas por prin-
+cípios éticos,
+Levando em consideração  que o acelerado desen-
+volvimento de tecnologias de IA apresenta desafios à sua im-
+plementação e governança éticas, bem como ao respeito e à 
+proteção da diversidade cultural, e tem o potencial de romper 
+os padrões e valores éticos locais e regionais,1. Aprova  a presente Recomendação sobre a Ética da 
+Inteligência Artificial;
+2.  Recomenda  que os Estados-membros apliquem 
+de maneira voluntária as disposições da presente 
+Recomendação tomando medidas adequadas, 
+incluindo quaisquer medidas legislativas ou de outra 
+natureza que sejam necessárias, em conformidade com 
+as práticas constitucionais e os marcos governamentais 
+de cada Estado, para efetivar, dentro de suas jurisdições, 
+os princípios e as normas da Recomendação, em 
+conformidade com o direito internacional, inclusive as 
+leis internacionais de direitos humanos;
+3.  Recomenda também  que os Estados-membros 
+envolvam todas as partes interessadas, incluindo empre -
+sas, para garantir que elas desempenhem suas respecti-
+vas funções na implementação desta Recomendação; e 
+que levem a Recomendação à atenção de autoridades, 
+organismos, organizações acadêmicas e de pesquisa, 
+instituições e organizações dos setores público, privado 
+e da sociedade civil envolvidos com as tecnologias de IA, 
+de modo que o desenvolvimento e o uso dessas tecno -
+logias sejam orientados tanto por pesquisas científicas 
+sólidas como por análises e avaliações éticas.89I. 
+Escopo de 
+aplicação101. Esta Recomendação aborda questões éticas relacionadas 
+ao campo da inteligência artificial, na medida em que 
+aquelas estão dentro do mandato da UNESCO. Ela aborda 
+a ética da IA como uma reflexão normativa sistemática, 
+com base em um marco holístico, abrangente, 
+multicultural e em evolução de valores, princípios 
+e ações interdependentes que podem orientar as 
+sociedades para que lidem de forma responsável com os 
+impactos conhecidos e desconhecidos das tecnologias 
+de IA sobre seres humanos, sociedades, meio ambiente 
+e ecossistemas, oferecendo-lhes uma base para aceitar 
+ou rejeitar essas tecnologias. Ela considera a ética como 
+uma base dinâmica para a avaliação e a orientação 
+normativa das tecnologias de IA, fazendo referência 
+à dignidade humana, ao bem-estar e à prevenção de 
+danos – como uma bússola e tendo como fundamento 
+a ética da ciência e da tecnologia.
+2. Esta Recomendação não tem a ambição de fornecer 
+uma definição única de IA, uma vez que tal definição 
+precisaria se modificar ao longo do tempo, em confor -
+midade com os desenvolvimentos tecnológicos. Em 
+vez disso, sua ambição consiste em abordar os aspec-
+tos dos sistemas de IA que têm relevância ética central. 
+Portanto, esta Recomendação aborda os sistemas de 
+IA como sistemas que têm capacidade de processar 
+dados e informações de uma forma que se assemelha 
+ao comportamento inteligente e, normalmente, inclui 
+aspectos de raciocínio, aprendizagem, percepção, pre -
+visão, planejamento ou controle. Três elementos ocu-
+pam um lugar central nesta abordagem: 
+(a). Os sistemas de IA são tecnologias de processamento 
+de informações que integram modelos e algoritmos 
+que produzem a capacidade de aprender e realizar 
+tarefas cognitivas, as quais levam a resultados como 
+a previsão e a tomada de decisões em ambientes 
+reais e virtuais. Os sistemas de IA são projetados para 
+operar com vários graus de autonomia por meio da 
+modelagem e da representação de conhecimento e 
+pela exploração de dados e cálculo de correlações. 
+Os sistemas de IA podem incluir vários métodos, 
+tais como, mas não se limitando a:
+(i) aprendizado de máquina, incluindo aprendi-
+zado profundo e aprendizado por reforço; e
+(ii) raciocínio de máquina, incluindo planejamen-
+to, programação, representação de conheci-
+mento e raciocínio, pesquisa e otimização.
+ Os sistemas de IA podem ser usados em sistemas 
+ciberfísicos, incluindo a internet das coisas, sistemas 
+robóticos, robótica social e interfaces ser humano–
+computador, que envolvem controle, percepção e processamento dos dados coletados por sensores 
+e a operação de atuadores no ambiente em que os 
+sistemas de IA funcionam.
+(b) Questões éticas em relação aos sistemas de IA 
+dizem respeito a todos os estágios do ciclo de vida 
+de tais sistemas, entendidos aqui como abrangendo 
+desde pesquisa, design e desenvolvimento até 
+implementação e uso, incluindo manutenção, 
+operação, comércio, financiamento, monitoramento 
+e avaliação, validação, fim de uso, desmontagem 
+e término. Além disso, os atores de IA podem ser 
+definidos como qualquer ator envolvido em pelo 
+menos uma etapa do ciclo de vida do sistema de 
+IA, e podem se referir tanto a pessoas físicas quanto 
+jurídicas, tais como pesquisadores, programadores, 
+engenheiros, cientistas de dados, usuários finais, 
+empresas, universidades e entidades públicas e 
+privadas, entre outros.
+(c) Os sistemas de IA levantam novas espécies de 
+questões éticas que incluem, mas não se limitam 
+a, seu impacto na tomada de decisões, emprego e 
+trabalho, interação social, assistência médica, edu-
+cação, meios de comunicação, acesso à informa-
+ção, exclusão digital, dados pessoais e proteção ao 
+consumidor, meio ambiente, democracia, Estado de 
+direito, segurança e policiamento, dupla utilização, 
+e direitos humanos e liberdades fundamentais, in-
+cluindo liberdade de expressão, privacidade e não 
+discriminação. Além disso, novos desafios éticos são 
+criados pela possibilidade de que os algoritmos de 
+IA reproduzam e reforcem vieses existentes e, assim, 
+agravem formas já existentes de discriminação, pre -
+conceitos e estereótipos. Algumas dessas questões 
+estão relacionadas à capacidade de os sistemas de 
+IA realizarem tarefas que anteriormente apenas se -
+res vivos eram capazes de fazer, e que, em alguns 
+casos, eram até mesmo limitadas apenas a seres 
+humanos. Essas características conferem aos siste -
+mas de IA um novo e profundo papel nas práticas 
+humanas e sociais, bem como em sua relação com 
+o meio ambiente e com os ecossistemas, criando 
+com isso um novo contexto para crianças e jovens 
+crescerem, desenvolverem uma compreensão do 
+mundo e de si mesmos, entenderem criticamen-
+te os meios de comunicação e as informações, e 
+aprenderem a tomar decisões. No longo prazo, os 
+sistemas de IA podem desafiar o sentido especial 
+de experiência e capacidade de ação dos humanos, 
+o que levanta preocupações adicionais sobre, entre 
+outros, autocompreensão humana, interação social, 
+cultural e ambiental, autonomia, capacidade de 
+ação, valor e dignidade. 11
+3. Esta Recomendação dá atenção especial às implicações 
+éticas mais amplas dos sistemas de IA em relação às 
+áreas centrais de atuação da UNESCO: educação, ciência, 
+cultura, e comunicação e informação, como explorado 
+no “Estudo preliminar sobre a ética da inteligência 
+artificial” realizado em 2019 pela Comissão Mundial para 
+a Ética do Conhecimento Científico e Tecnológico da 
+UNESCO (COMEST):
+(a) Educação, porque viver em sociedades em digita-
+lizadas exige novas práticas educacionais, reflexão 
+ética, pensamento crítico, práticas de projeto res-
+ponsáveis e novas competências, dadas as implica-
+ções para o mercado de trabalho, a empregabilida-
+de e a participação cívica.
+(b) Ciência, no sentido mais amplo e incluindo todos os 
+campos acadêmicos, das ciências naturais e médicas 
+às ciências sociais e humanidades, uma vez que as 
+tecnologias de IA trazem novas capacidades e abor -
+dagens de pesquisa, têm implicações para os nossos 
+conceitos de compreensão e explicação científica e 
+criam uma nova base para a tomada de decisões.
+(c) Identidade e diversidade culturais, visto que as 
+tecnologias de IA podem enriquecer as indústrias 
+culturais e criativas, mas também podem ocasionar 
+uma maior concentração da oferta de conteúdo, 
+dados, mercados e renda nas mãos de apenas alguns atores da área de cultura, com potenciais 
+implicações negativas para a diversidade e 
+pluralismo de línguas, meios de comunicação, 
+expressões culturais, participação e igualdade.
+(d) Comunicação e informação, uma vez que as tec-
+nologias de IA desempenham um papel cada vez 
+mais importante no processamento, estruturação 
+e disponibilização da informação; as questões do 
+jornalismo automatizado, do fornecimento de 
+notícias por meio de algoritmos e da moderação 
+e curadoria de conteúdo nas redes sociais e mo -
+tores de busca são apenas alguns exemplos que 
+levantam questões relacionadas com o acesso à 
+informação, desinformação, informações falsas, 
+discurso de ódio, surgimento de novas formas de 
+narrativas sociais, discriminação, liberdade de ex -
+pressão, privacidade e alfabetização midiática e 
+informacional (AMI), entre outros.
+4. Esta recomendação é dirigida aos Estados-membros, 
+tanto como atores de IA como autoridades responsáveis 
+pelo desenvolvimento de marcos jurídicos e regulatórios 
+ao longo de todo o ciclo de vida do sistema de IA e pela 
+promoção de responsabilidade empresarial. Ela também 
+fornece orientação ética para todos os atores de IA, 
+incluindo os setores público e privado, fornecendo uma 
+base para uma avaliação do impacto ético dos sistemas 
+de IA ao longo de seu ciclo de vida.1213II. 
+Fins e 
+objetivos14
+5. Esta Recomendação visa a fornecer uma base para fazer 
+com que os sistemas de IA funcionem para o bem da 
+humanidade, dos indivíduos, das sociedades, do meio 
+ambiente e dos ecossistemas, bem como para prevenir 
+danos. Ela também visa a estimular o uso pacífico dos 
+sistemas de IA.
+6. Além dos marcos éticos sobre IA existentes ao redor 
+do mundo, esta Recomendação visa a trazer um 
+instrumento normativo aceito em âmbito global, com 
+foco não apenas na articulação de valores e princípios, 
+mas também em sua realização prática, por meio de 
+recomendações políticas concretas, com uma forte 
+ênfase em questões de inclusão, igualdade de gênero e 
+proteção do meio ambiente e dos ecossistemas.7. Como a complexidade das questões éticas relativas à IA exi-
+ge a cooperação de múltiplas partes interessadas em vários 
+níveis e setores das comunidades internacional, regionais e 
+nacionais, esta Recomendação visa a permitir que as partes 
+interessadas assumam responsabilidades compartilhadas 
+com base em um diálogo global e intercultural.  
+8. Os objetivos da presente Recomendação são os seguintes:
+(a) fornecer um marco universal de valores, princípios e 
+ações para orientar os Estados na formulação de suas 
+legislações, políticas ou outros instrumentos relativos 
+à IA, em conformidade com o direito internacional; 
+(b) orientar as ações de indivíduos, grupos, comunida-
+des, instituições e empresas do setor privado para 
+garantir a incorporação da ética em todas as etapas 
+do ciclo de vida dos sistemas de IA;15
+(c) proteger, promover e respeitar os direitos humanos 
+e as liberdades fundamentais, a dignidade e a 
+igualdade humana, incluindo a igualdade de 
+gênero; salvaguardar os interesses das gerações 
+presentes e futuras; preservar o meio ambiente, 
+a biodiversidade e os ecossistemas; e respeitar a 
+diversidade cultural em todas as fases do ciclo de 
+vida dos sistemas de IA;
+(d) promover o diálogo multidisciplinar e pluralista 
+com as várias partes interessadas e a construção de 
+consenso sobre questões éticas relacionadas aos 
+sistemas de IA;(e) promover o acesso equitativo a avanços e conheci-
+mentos no campo da IA e o compartilhamento dos 
+benefícios, com atenção especial às necessidades e 
+às contribuições dos países de baixa renda, incluindo 
+os países menos desenvolvidos, os LLDCs e os SIDS.1617III.  
+Valores e 
+princípios189. Os valores e princípios descritos abaixo devem, em primei-
+ro lugar, ser respeitados por todos os atores do ciclo de vida 
+dos sistemas de IA e, caso seja necessário e apropriado, de -
+vem ser promovidos por meio de alterações à legislação 
+existente e da elaboração de novas leis, regulamentos e 
+diretrizes empresariais. Isso deve estar de acordo com o di-
+reito internacional, incluindo a Carta das Nações Unidas e 
+as obrigações de direitos humanos dos Estados-membros , 
+além de estar em consonância com os objetivos acordados 
+no âmbito internacional relativos à sustentabilidade social, 
+política, ambiental, educacional, científica e econômica, tais 
+como os Objetivos de Desenvolvimento Sustentável das  
+Nações Unidas (ODS).
+10. Os valores desempenham um papel poderoso como ideais 
+motivadores na formulação de medidas políticas e normas 
+jurídicas. Embora o conjunto de valores delineados abaixo 
+inspire, portanto, o comportamento desejável e represente 
+os fundamentos dos princípios, estes revelam os valores a 
+eles subjacentes de forma mais concreta, para que os valo -
+res possam ser operacionalizados com mais facilidade em  
+declarações e ações políticas.
+11. Embora todos os valores e princípios descritos abaixo se -
+jam desejáveis por si só, em quaisquer contextos práticos 
+pode haver tensões entre tais valores e princípios. Em qual-
+quer dada situação, será necessária uma avaliação contex -
+tual para administrar tensões potenciais, tendo em conta o 
+princípio da proporcionalidade e em conformidade com os direitos humanos e as liberdades fundamentais . Em todos 
+os casos, quaisquer possíveis limitações aos direitos hu-
+manos e às liberdades fundamentais devem ter uma base 
+legítima e ser razoáveis, necessários e proporcionais, assim 
+como em conformidade com as obrigações dos Estados 
+sob o direito internacional. Normalmente, lidar com tais ce -
+nários de forma sensata irá exigir o engajamento com uma 
+ampla gama de partes interessadas, com o uso de diálo -
+go social, bem como deliberação ética, devida diligência e  
+avaliação de impacto. 
+12. A confiabilidade e a integridade do ciclo de vida de siste -
+mas de inteligência artificial são essenciais para garantir 
+que as tecnologias de IA trabalhem para o bem da huma-
+nidade, dos indivíduos, das sociedades, do meio ambiente 
+e dos ecossistemas, e incorporem os valores e os princípios 
+enunciados na presente Recomendação. As pessoas de -
+vem ter boas razões para confiar no fato de que os sistemas 
+de IA podem trazer benefícios individuais e compartilha-
+dos, enquanto são tomadas medidas adequadas para mi-
+tigar os riscos. Um requisito essencial para a confiabilidade  
+é que, ao longo de seu ciclo de vida, os sistemas de IA es-
+tejam sujeitos a um monitoramento completo pelas par -
+tes interessadas relevantes, conforme apropriado. Como 
+a confiabilidade é um resultado da operacionalização dos 
+princípios mencionados neste documento, as ações polí-
+ticas propostas nesta Recomendação são todas direciona-
+das a promover a confiabilidade em todos os estágios do 
+ciclo de vida dos sistemas de IA.
+III.1  VALORES
+Respeito, proteção e promoção dos direitos 
+humanos, das liberdades fundamentais e da 
+dignidade humana
+13. A inviolável e inerente dignidade de cada ser humano 
+constitui a base para o sistema de direitos humanos e liber -
+dades fundamentais, que é universal, indivisível, inalienável, 
+interdependente e inter-relacionado. Portanto, respeito, 
+proteção e promoção da dignidade e dos direitos huma-
+nos, conforme estabelecido pelo direito internacional, in-
+cluindo as leis internacionais relativas aos direitos humanos, 
+é essencial ao longo do ciclo de vida dos sistemas de IA. 
+A dignidade humana se relaciona com o reconhecimento 
+do valor intrínseco e igual de cada ser humano, indepen-
+dentemente de raça, cor, ascendência, gênero , idade, lín-
+gua, religião, opinião política, nacionalidade, origem étnica, 
+social, econômica ou social, condição de nascimento, defi-
+ciência ou quaisquer outros motivos .14. Nenhum ser humano ou comunidade humana deve ser 
+prejudicado ou subordinado, seja em termos físicos, eco -
+nômicos, sociais, políticos, culturais mentais durante qual-
+quer fase do ciclo de vida dos sistemas de IA. Ao longo do 
+ciclo de vida desses sistemas, a qualidade de vida dos seres 
+humanos deve ser reforçada, enquanto a definição de “qua-
+lidade de vida” deve ser deixada aberta para indivíduos ou 
+grupos, desde que não ocorra nenhuma violação ou abuso 
+de direitos humanos ou fundamentais liberdades, ou da  
+dignidade humana nos termos desta definição.
+15. As pessoas podem interagir com os sistemas de IA ao lon-
+go do seu ciclo de vida e receber assistência deles, como 
+cuidado para pessoas vulneráveis ou pessoas em situações 
+vulneráveis, incluindo, mas não se limitando a crianças, ido -
+sos, pessoas com alguma deficiência ou doença. Em tais 
+interações, as pessoas nunca devem ser objetificadas, nem  
+sua dignidade prejudicada, nem seus direitos humanos e 
+liberdades fundamentais violados ou abusados.19
+16. Os direitos humanos e as liberdades fundamentais de -
+vem ser respeitados, protegidos e promovidos ao lon-
+go do ciclo de vida dos sistemas de IA. Governos, setor 
+privado, sociedade civil, organizações internacionais, 
+comunidades técnicas e universidades devem respei-
+tar os instrumentos e marcos de direitos humanos em 
+suas intervenções nos processos relacionados ao ciclo 
+de vida dos sistemas de IA. Novas tecnologias precisam 
+fornecer novos meios para advogar, defender e exercer 
+os direitos humanos, não para infringi-los.
+Prosperidade ambiental e ecossistêmica 
+17. A prosperidade ambiental e ecossistêmica deve ser re -
+conhecida, protegida e promovida ao longo do ciclo de 
+vida dos sistemas de IA. Além disso, o meio ambiente 
+e os ecossistemas são uma necessidade existencial para 
+que a humanidade e outros seres vivos possam desfru-
+tar dos benefícios dos avanços da IA.
+18. Todos os atores envolvidos no ciclo de vida dos siste -
+mas de IA devem cumprir a legislação internacional, as-
+sim como as leis, normas e práticas nacionais aplicáveis, 
+criadas como precaução, bem como para a proteção 
+e a restauração do meio ambiente e do ecossistema, e 
+para o desenvolvimento sustentável. Eles devem reduzir 
+o impacto ambiental dos sistemas de IA, incluindo, mas 
+não se limitando à sua pegada de carbono, para garantir a minimização das alterações climáticas e dos fatores de 
+risco ambientais e para prevenir a exploração, o uso e 
+a transformação insustentáveis de recursos naturais que 
+contribuem para a deterioração do ambiente e a degra-
+dação dos ecossistemas.
+Garantir diversidade e inclusão
+19. Ao longo do ciclo de vida dos sistemas de IA, devem ser 
+garantidos respeito, proteção e promoção da diversidade e 
+da inclusão, de acordo com o direito internacional, incluin-
+do as leis relativas a direitos humanos. Isso pode ser feito 
+promovendo-se a participação ativa de todos os indivíduos 
+ou grupos, independentemente de raça, cor, ascendência, 
+gênero, idade , língua, religião, opinião política, nacionalida-
+de, origem étnica ou social, condição econômica, social ou 
+de nascimento, deficiência e ou quaisquer outros motivos.
+20. O escopo das escolhas de estilo de vida, crenças, opi-
+niões, expressões ou experiências pessoais, incluindo o 
+uso opcional de sistemas de IA e o projeto conjunto des-
+sas arquiteturas, não deve ser restrito durante qualquer 
+fase do ciclo de vida dos sistemas de IA.
+21. Além disso, devem ser realizados esforços, incluindo a 
+cooperação internacional, para superar, e jamais obter 
+vantagens da ausência das infraestruturas tecnológicas, 
+educação e habilidades, bem como estruturas legais es-20senciais, particularmente em LMICs, LDCs, LLDCs e SIDS, 
+de modo a afetar suas comunidades.
+Viver em sociedades pacíficas, justas e 
+interconectadas
+22. Os atores de IA devem desempenhar um papel participa-
+tivo e favorável para garantir sociedades pacíficas e justas, 
+baseadas em um futuro interconectado para o benefício 
+de todos, consistente com os direitos humanos e as liber -
+dades fundamentais. O valor de se viver em sociedades 
+pacíficas e justas aponta para o potencial que os sistemas 
+de IA têm de contribuir, ao longo de seu ciclo de vida, 
+para a interconexão de todos os seres vivos uns com os 
+outros e com o ambiente natural.
+23. A noção de seres humanos interconectados se baseia 
+no conhecimento de que cada pessoa pertence a um todo maior, que prospera quando todas as suas partes 
+constituintes são capazes de prosperar. Viver em socie -
+dades pacíficas, justas e interligadas requer um vínculo 
+de solidariedade orgânico, imediato e não calculado, 
+caracterizado por uma busca permanente de relações 
+pacíficas, tendendo em direção ao cuidado com os ou-
+tros e com o ambiente natural no sentido mais amplo 
+do conceito.
+24. Este valor exige que, ao longo do ciclo de vida dos sis-
+temas de IA, sejam promovidas paz, inclusão, justiça, 
+equidade e interconectividade, na medida em que os 
+processos do ciclo de tais sistemas não devem segre -
+gar, objetificar ou enfraquecer a liberdade e a tomada 
+de decisão autônoma, assim como a segurança de 
+seres humanos e comunidades, nem dividir e colocar 
+indivíduos e grupos uns contra os outros, ou ameaçar 
+a convivência entre os humanos, outros seres vivos e o 
+meio ambiente natural.
+III.2  PRINCÍPIOS
+Proporcionalidade e não causar dano
+25. Deve-se reconhecer que as tecnologias de IA não ne -
+cessariamente garantem, por si só, a prosperidade hu-
+mana, ambiental e ecossistêmica. Além disso, nenhum 
+dos processos relacionados ao ciclo de vida dos sistemas 
+de IA deve exceder o necessário para atingir objetivos 
+ou metas legítimas; tais processos também devem ser 
+adequados ao contexto. No caso de possíveis ocorrên-
+cias de quaisquer danos a seres humanos, aos direitos 
+humanos e às liberdades fundamentais, às comunida-
+des e à sociedade em geral, ou ao meio ambiente e aos 
+ecossistemas, deve ser assegurada a implementação de 
+procedimentos para avaliação de risco e a adoção de 
+medidas para impedir a ocorrência de tais danos.
+26. A escolha de se implementar sistemas de IA e qual méto -
+do de IA utilizar deve ser justificada das seguintes formas: 
+(a) o método de IA escolhido deve ser adequado e propor -
+cional para alcançar um determinado objetivo legítimo; 
+(b) o método de IA escolhido não deve infringir os valores 
+fundamentais incorporados no presente documento, em 
+especial, seu uso não deve violar ou abusar dos direitos hu-
+manos; e (c) o método de IA deve ser apropriado ao con-
+texto e se basear em fundamentos científicos rigorosos.  
+Em cenários nos quais se entende que as decisões têm 
+um impacto irreversível ou difícil de se reverter , ou podem 
+envolver decisões de vida ou morte, deve ser aplicada a 
+determinação humana final. Em especial, os sistemas de IA 
+não devem ser usados para fins de gradação social ou de 
+vigilância em massa.Segurança e proteção 
+27. Danos indesejados (riscos de proteção), bem como vul-
+nerabilidades a ataques (riscos de segurança) devem ser 
+evitados e abordados, impedidos e eliminados durante o 
+ciclo de vida dos sistemas de IA para garantir proteção e se -
+gurança humana, ambiental e ecossistêmica. O desenvolvi-
+mento de marcos sustentáveis de proteção à privacidade 
+dos dados de acesso, que promovam melhores formação 
+e validação dos modelos de IA que utilizam dados de qua-
+lidade, possibilitará uma IA segura e protegida.
+Justiça e não discriminação
+28. Os atores de IA devem promover a justiça social e salva-
+guardar a equidade e a não discriminação de qualquer 
+tipo, em conformidade com o direito internacional. Isso 
+implica uma abordagem inclusiva para garantir que os be -
+nefícios das tecnologias de IA estejam disponíveis e sejam  
+acessíveis a todos, levando em consideração as necessida-
+des específicas de diferentes grupos etários, sistemas cul-
+turais, grupos linguísticos, pessoas com deficiência, meni-
+nas e mulheres, e pessoas desfavorecidas, marginalizadas 
+e vulneráveis ou pessoas em situações de vulnerabilidade. 
+Os Estados-membros devem trabalhar para promover o 
+acesso inclusivo para todos, incluindo as comunidades  
+locais, aos sistemas de IA com conteúdo e serviços rele -
+vantes em âmbito local, e com respeito ao multilinguismo 
+e à diversidade cultural. Os Estados-membros devem tra-
+balhar para enfrentar exclusões digitais e garantir o acesso 21
+inclusivo e a participação no desenvolvimento da IA. No 
+âmbito nacional, os Estados-membros devem promover a 
+equidade entre as áreas rurais e urbanas, bem como entre 
+todas as pessoas, independentemente de raça, cor, ascen-
+dência, gênero, idade, língua, religião, opinião política, na-
+cionalidade, origem étnica e social, condição econômica, 
+social ou de nascimento, deficiência ou quaisquer outros 
+motivos, em termos de acesso e participação no ciclo de 
+vida dos sistemas de IA. No âmbito internacional, os paí-
+ses mais avançados tecnologicamente têm a responsabi-
+lidade de solidariedade com os menos avançados, para 
+garantir que os benefícios das tecnologias de IA sejam 
+compartilhados, de modo que o acesso e a participação 
+no ciclo de vida dos sistemas de IA contribuam para uma 
+ordem mundial mais justa no que diz respeito a: informa-
+ção, comunicação, cultura, educação, pesquisa e estabili-
+dade socioeconômica e política.
+29. Os atores de IA devem realizar todos os esforços razoá-
+veis para minimizar e evitar reforçar ou perpetuar aplica-
+tivos e resultados discriminatórios ou tendenciosos, ao 
+longo do ciclo de vida dos sistemas de IA, para garantir 
+a justiça de tais sistemas. Uma solução eficaz deve estar 
+disponível contra a discriminação e a determinação al-
+gorítmica tendenciosa.
+30. Além disso, exclusões digitais e de conhecimento inter -
+nas e entre os países precisam ser tratadas ao longo de um ciclo de vida útil dos sistemas de IA, inclusive em 
+termos de acesso e qualidade do acesso à tecnologia e 
+aos dados, em conformidade com os marcos jurídicos 
+nacionais, regionais e internacionais pertinentes, bem 
+como em termos de conectividade, conhecimento, ha-
+bilidades e participação significativa das comunidades 
+afetadas, de modo que todas as pessoas sejam tratadas 
+de forma equitativa. 
+Sustentabilidade
+31. O desenvolvimento de sociedades sustentáveis depen-
+de da realização de um conjunto complexo de objetivos, 
+em um cenário em evolução de dimensões humanas, 
+sociais, culturais, econômicas e ambientais. O advento 
+das tecnologias de IA pode beneficiar os objetivos de 
+sustentabilidade ou dificultar sua realização, dependen-
+do de como forem implementadas entre países com 
+diferentes níveis de desenvolvimento. A avaliação contí-
+nua dos impactos humanos, sociais, culturais, econômi-
+cos e ambientais das tecnologias de IA deve, portanto, 
+ser realizada com pleno conhecimento das implicações 
+de tais tecnologias para a sustentabilidade como um 
+conjunto de objetivos em constante evolução em uma 
+ampla gama de dimensões, como atualmente identifi-
+cados nos Objetivos de Desenvolvimento Sustentável 
+(ODS) das Nações Unidas. 22Direito à privacidade e proteção de dados
+32. A privacidade, um direito essencial para proteger a dig-
+nidade, a autonomia e a capacidade de ação humanas, 
+deve ser respeitada, protegida e promovida ao longo do 
+ciclo de vida dos sistemas de IA. É importante que os da-
+dos destinados aos sistemas de IA sejam coletados, uti-
+lizados, compartilhados , arquivados e apagados de mo -
+dos compatíveis com o direito internacional e alinhados 
+com os valores e princípios estabelecidos na presente 
+Recomendação, respeitando os marcos jurídicos nacio -
+nais, regionais e internacionais relevantes .
+33. Marcos e mecanismos de governança de proteção de 
+dados adequados devem ser estabelecidos, levando em 
+conta as múltiplas partes interessadas nos âmbitos nacio -
+nal ou internacional, assim como protegidos por sistemas 
+judiciais e assegurados ao longo do ciclo de vida dos sis-
+temas de IA. Marcos de proteção de dados e quaisquer  
+mecanismos relacionados devem ter como referência os 
+princípios e normas internacionais de proteção de dados 
+relativos à coleta, ao uso e à divulgação de dados pessoais 
+e ao exercício dos direitos pelos titulares dos dados, ga-
+rantindo ao mesmo tempo um objetivo legítimo e uma 
+base jurídica válida para o processamento de dados pes-
+soais, incluindo o consentimento consciente.
+34. Sistemas algorítmicos exigem avaliações adequadas de 
+impacto na privacidade, as quais também incluem consi-
+derações sociais e éticas de sua utilização e um uso inova-
+dor da privacidade pela abordagem de projeto. Os atores 
+de IA devem garantir sua responsabilidade pelo projeto e 
+pela implementação de sistemas de IA, de modo a asse -
+gurar que as informações pessoais sejam protegidas du-
+rante todo o ciclo de vida dos sistemas de IA.
+Supervisão humana e determinação
+35. Os Estados-membros devem garantir que sempre seja 
+possível atribuir responsabilidade ética e legal em qual-
+quer estágio do ciclo de vida dos sistemas de IA, assim 
+como em casos de recursos judiciais relacionados a es-
+ses sistemas, a pessoas físicas ou a entidades existentes. 
+A supervisão humana se refere, portanto, não apenas à 
+supervisão humana individual, mas também à supervi-
+são pública inclusiva, como for apropriado.
+36. É possível que, às vezes, as pessoas decidam confiar em 
+sistemas de IA por motivos de eficácia, mas a decisão de 
+ceder o controle em contextos limitados continua sendo 
+de seres humanos, pois estes podem recorrer àqueles sis-
+temas para tomar decisões e agir, mas um sistema de IA 
+jamais poderá substituir a responsabilidade e a prestação 
+de contas finais humanas. Como regra, decisões de vida e 
+morte não devem ser transferidas a sistemas de IA.Transparência e explicabilidade
+37. Com frequência, a transparência e a explicabilidade dos 
+sistemas de IA são pré-requisitos essenciais para garantir 
+o respeito, a proteção e a promoção dos direitos huma-
+nos, das liberdades fundamentais e dos princípios éticos. 
+A transparência é necessária para que os regimes de res-
+ponsabilidade nacionais e internacionais pertinentes 
+funcionem de forma efetiva. A falta de transparência 
+também pode prejudicar a possibilidade de se contes-
+tar efetivamente as decisões com base nos resultados 
+produzidos pelos sistemas de IA e, com isso, infringir 
+o direito a um julgamento justo e a um recurso eficaz, 
+além de limitar as áreas em que esses sistemas podem 
+ser utilizados de maneira legal.
+38. Embora sejam necessários esforços para aumentar a 
+transparência e a explicabilidade dos sistemas de IA, in-
+cluindo aqueles com impacto extraterritorial, ao longo 
+de seu ciclo de vida para apoiar a governança democrá-
+tica, o nível desses dois aspectos sempre deve ser ade -
+quado ao contexto e ao impacto, pois pode haver uma 
+necessidade de equilíbrio entre transparência, explicabi-
+lidade e outros princípios, como privacidade, segurança 
+e proteção. As pessoas devem ser plenamente informa-
+das quando uma decisão é fundamentada ou tomada 
+com base em algoritmos de IA, inclusive quando ela 
+afeta sua segurança ou seus direitos humanos; nessas 
+circunstâncias, elas também devem ter a oportunidade 
+de solicitar explicações do ator de IA ou das instituições 
+do setor público pertinentes. Ademais, os indivíduos de -
+vem ter acesso às razões de decisões que afetam seus 
+direitos e liberdades, bem como ter a opção de apresen-
+tar o caso a um membro designado da empresa do setor 
+privado ou instituição do setor público que seja capaz 
+de analisar e corrigir a decisão. Os atores de IA devem 
+informar aos usuários quando um produto ou serviço for 
+fornecido diretamente ou com o auxílio de sistemas de 
+IA de uma maneira adequada e oportuna.
+39. Do ponto de vista sociotécnico, uma maior transparên-
+cia contribui para sociedades mais pacíficas, justas, de -
+mocráticas e inclusivas. Ela possibilita o escrutínio públi-
+co, que pode reduzir a corrupção e a discriminação, e 
+também pode ajudar a detectar e prevenir impactos ne -
+gativos sobre os direitos humanos. A transparência tem 
+como objetivo o fornecimento de informações adequa-
+das aos respectivos destinatários, informações essas que 
+permitam sua compreensão e fomentem a confiança. 
+No caso específico dos sistemas de IA, a transparência 
+pode permitir que as pessoas entendam como cada es-
+tágio de um sistema é colocado em prática, conforme 
+o contexto e a sensibilidade do sistema de IA. Ela tam-
+bém pode incluir informações sobre os fatores que afe -
+tam uma previsão ou decisão específica, e se garantias 
+apropriadas (como medidas de segurança ou de justiça) 23estão ou não em vigor. Em casos de ameaças graves de 
+impactos adversos aos direitos humanos, a transparên-
+cia também pode exigir o compartilhamento de códi-
+gos ou conjuntos de dados.  
+40. A explicabilidade significa tornar inteligível e fornecer in-
+formações sobre o resultado dos sistemas de IA. A expli-
+cabilidade desses sistemas também se refere à compre -
+ensibilidade sobre a entrada, a saída e o funcionamento 
+de cada bloco de construção dos algoritmos e como ele 
+contribui para o resultado dos sistemas. Assim, a explica-
+bilidade está estreitamente relacionada com a transpa-
+rência, pois os resultados e os subprocessos que condu-
+zem a resultados devem almejar serem compreensíveis e 
+rastreáveis, conforme o contexto. Os atores de IA devem 
+se comprometer a garantir que os algoritmos desenvol-
+vidos sejam explicáveis. No caso de aplicativos de IA que 
+afetam o usuário final de uma forma que não seja tempo -
+rária, facilmente reversível ou de baixo risco, deve-se ga-
+rantir que seja fornecida uma explicação significativa para 
+qualquer decisão que resultou na ação tomada, para que 
+o resultado seja considerado transparente.
+41. Transparência e explicabilidade estão intimamente rela-
+cionadas com medidas de responsabilidade e prestação 
+de contas adequadas, assim como com a confiabilidade 
+dos sistemas de IA.
+Responsabilidade e prestação de contas
+42. Os atores de IA e os Estados-membros devem respeitar, 
+proteger e promover os direitos humanos e as liberdades 
+fundamentais, devendo também promover a proteção 
+do meio ambiente e dos ecossistemas, assumindo suas 
+respectivas responsabilidades éticas e jurídicas, em con-
+formidade com o direito nacional e internacional, espe -
+cialmente com as obrigações relativas a direitos humanos 
+dos Estados-membros, e orientação ética em todo o ciclo 
+de vida dos sistemas de IA, inclusive no que diz respeito 
+aos atores de IA em seu efetivo território e controle. A res-
+ponsabilidade e a imputabilidade ética pelas decisões e 
+ações de alguma forma baseadas em um sistema de IA 
+devem sempre ser atribuíveis aos atores correspondentes 
+ao seu papel no ciclo de vida desses sistemas.
+43. Devem ser desenvolvidos mecanismos adequados de 
+supervisão, avaliação de impacto, auditoria e devida dili-
+gência, incluindo proteção de denunciantes, para garantir 
+a responsabilização pelos sistemas de IA e seu impacto ao 
+longo de seu ciclo de vida. Os projetos técnicos e institu-
+cionais devem garantir a auditabilidade e a rastreabilidade  
+do (funcionamento dos) sistemas de IA, especialmente  
+para resolver conflitos com as normas e os padrões dos  
+direitos humanos, assim como com as ameaças ao bem-
+-estar do meio ambiente e dos ecossistemas.Conscientização e alfabetização
+44. A conscientização e a compreensão públicas das tecnolo -
+gias de IA e do valor dos dados devem ser promovidas por 
+meio de educação aberta e acessível, engajamento cívico, 
+habilidades digitais e treinamento em ética da IA, alfabe -
+tização midiática e informacional, além de treinamento 
+conduzido em conjunto por governos, organizações in-
+tergovernamentais, sociedade civil, universidades, meios 
+de comunicação, líderes comunitários e setor privado, e 
+considerando a diversidade linguística, social e cultural 
+existente, para garantir a participação efetiva do público 
+de modo que todos os membros da sociedade possam 
+tomar decisões conscientes sobre o uso de sistemas de IA 
+e estejam protegidos de influências indevidas.
+45. Aprender sobre o impacto dos sistemas de IA deve incluir 
+aprender sobre, por meio e para os direitos humanos e as 
+liberdades fundamentais, o que significa que a abordagem 
+e a compreensão dos sistemas de IA devem ser baseadas 
+em seu impacto nos direitos humanos e no acesso aos di-
+reitos, bem como no meio ambiente e nos ecossistemas.
+Governança e colaboração adaptáveis e com 
+múltiplas partes interessadas 
+46. O direito internacional e a soberania nacional devem 
+ser respeitados no uso de dados. Isso significa que os 
+Estados, em conformidade com o direito internacional, 
+podem regulamentar os dados gerados dentro ou que 
+atravessam seus territórios e tomar medidas para uma 
+regulamentação de dados eficaz, incluindo a proteção 
+de dados, com base no respeito ao direito à privacida-
+de, em conformidade com as leis internacionais e outras 
+normas e padrões de direitos humanos .
+47. A participação de diferentes partes interessadas ao longo do 
+ciclo de vida dos sistemas de IA é necessária para aborda-
+gens inclusivas de governança da IA, de modo a permitir que 
+os benefícios sejam compartilhados por todos e contribuir 
+para o desenvolvimento sustentável. As partes interessa-
+das incluem, mas não se limitam a governos, organizações 
+intergovernamentais, comunidade técnica, sociedade civil, 
+pesquisadores e universidades, meios de comunicação, 
+educação, decisores políticos, empresas do setor privado, 
+entidades de direitos humanos e igualdade, organismos de  
+monitoramento antidiscriminação, e grupos para jovens e 
+crianças. A adoção de padrões abertos e interoperabilidade 
+para facilitar a colaboração deve estar em vigor. Também de -
+vem ser adotadas medidas para se considerar alterações nas 
+tecnologias, o surgimento de novos grupos de partes inte -
+ressadas, e para permitir a participação significativa de gru-
+pos marginalizados, comunidades e indivíduos e, quando 
+for pertinente, no caso de povos indígenas, o respeito pela 
+autogovernança de seus dados .2425IV.  
+Áreas de  
+ação política2648. As ações políticas descritas nas áreas políticas a seguir 
+operacionalizam os valores e princípios estabelecidos 
+nesta Recomendação. A principal ação é que os Esta-
+dos-membros coloquem em prática medidas efetivas, 
+incluindo, por exemplo, marcos ou mecanismos políti-
+cos, e garantam que outras partes interessadas, como 
+empresas do setor privado, instituições acadêmicas e 
+de pesquisa e a sociedade civil adiram a eles por meio 
+de, entre outras ações, encorajamento de todas as par -
+tes interessadas a desenvolver direitos humanos, Esta-
+do de direito, democracia, avaliação de impacto ético 
+e ferramentas de devida diligência alinhadas com as 
+orientações, incluindo os Princípios Orientadores das 
+Nações Unidas sobre Negócios e Direitos Humanos. 
+O processo de desenvolvimento de tais políticas ou 
+mecanismos deve incluir todas as partes interessadas 
+e deve levar em consideração as circunstâncias e as 
+prioridades de cada Estado-membro. A UNESCO pode 
+ser um parceiro e apoiar os Estados-membros no de -
+senvolvimento, bem como no monitoramento e na 
+avaliação de mecanismos políticos.49. A UNESCO reconhece que os Estados-membros estarão 
+em diferentes estágios de prontidão para implementar 
+esta Recomendação, em termos de dimensões científi-
+cas, tecnológicas, econômicas, educacionais, legais, re -
+gulamentares, infraestruturais, sociais, culturais e outras. 
+Observa-se que a “prontidão” a que se faz referência aqui 
+é uma condição dinâmica. A fim de permitir a efetiva 
+implementação da presente Recomendação, a UNESCO 
+irá, portanto: (1) desenvolver uma metodologia de ava-
+liação de prontidão, para ajudar os Estados-membros 
+interessados em identificar sua condição em momentos 
+específicos de sua trajetória de prontidão ao longo de 
+um continuum de dimensões; e (2) garantir apoio aos 
+Estados-membros interessados em termos de desenvol-
+vimento de uma metodologia da UNESCO para avalia-
+ção de impacto ético (AIE) de tecnologias de IA, compar -
+tilhamento de melhores práticas, diretrizes de avaliação 
+e outros mecanismos e trabalho analítico.
+ÁREA POLÍTICA 1: AVALIAÇÃO DE IMPACTO ÉTICO 
+50. Os Estados-membros devem criar marcos para a re -
+alização de avaliações de impacto, como avaliação de 
+impacto ético, para identificar e avaliar os benefícios, as 
+preocupações e os riscos dos sistemas de IA, bem como 
+medidas adequadas de prevenção, mitigação e monito -
+ramento de riscos, entre outros mecanismos de garantia. 
+Tais avaliações de impacto devem identificar impactos 
+nos direitos humanos e nas liberdades fundamentais, 
+especialmente, mas não apenas, nos direitos de pessoas 
+marginalizadas e vulneráveis ou pessoas em situações 
+vulneráveis, direitos do trabalho, meio ambiente e ecos-
+sistemas e suas implicações éticas e sociais, e facilitar a 
+participação dos cidadãos em sintonia com os valores e 
+princípios estabelecidos nesta Recomendação.
+51. Os Estados-membros e as empresas do setor privado 
+devem desenvolver mecanismos de devida diligência 
+e supervisão para identificar, prevenir, mitigar e expli-
+car de que forma abordam o impacto dos sistemas de 
+IA no respeito aos direitos humanos, ao Estado de di-
+reito e às sociedades inclusivas. Os Estados-membros 
+também devem ser capazes de avaliar o impacto socio -
+econômico dos sistemas de IA na pobreza e assegurar 
+que a distância entre as pessoas que vivem na riqueza 
+e na pobreza, bem como a exclusão digital dentro e 
+entre os países, não aumente com a adoção em massa 
+de tecnologias de IA no presente e no futuro. Para esse 
+efeito , de maneira particular, devem ser implementa-
+dos protocolos de transparência aplicáveis , correspon-
+dentes ao acesso à informação, incluindo informações de interesse público em posse de entidades privadas. 
+Os Estados-membros, as empresas do setor privado e 
+a sociedade civil devem investigar os efeitos sociológi-
+cos e psicológicos das recomendações baseadas em IA 
+na autonomia de decisão dos seres humanos. Sistemas  
+de IA identificados como possíveis riscos para os di-
+reitos humanos devem ser amplamente testados por 
+atores de IA, inclusive, se necessário, em condições do 
+mundo real, como parte da avaliação de impacto ético , 
+antes de lançá-los no mercado.
+52. Os Estados-membros e as empresas devem imple -
+mentar medidas adequadas para acompanhar todas as 
+fases do ciclo de vida dos sistemas de IA, incluindo o 
+funcionamento dos algoritmos utilizados para tomada 
+de decisão, os dados, bem como os atores de IA envol-
+vidos no processo, especialmente em serviços públicos 
+e onde for necessária a interação direta do usuário final, 
+como parte da avaliação de impacto ético. As obriga-
+ções dos Estados-membros relativas a direitos huma-
+nos devem fazer parte dos aspectos éticos das avalia-
+ções de sistemas de IA.
+53. Os governos devem adotar um marco normativo que 
+estabeleça um procedimento, em especial para auto -
+ridades públicas, para realizar avaliações de impacto 
+ético em sistemas de IA para prever consequências, mi-
+tigar riscos, evitar consequências prejudiciais, facilitar 
+a participação dos cidadãos e abordar desafios sociais.  
+A avaliação também deve estabelecer mecanismos de 27supervisão apropriados, incluindo auditabilidade, ras-
+treabilidade e explicabilidade, que permitam a avalia-
+ção de algoritmos, dados e processos de planejamen-
+to, bem como incluir a revisão externa dos sistemas 
+de IA. As avaliações de impacto ético devem ser trans-
+parentes e abertas ao público, quando for apropriado. Essas avaliações também devem ser multidisciplinares, 
+multiparceiros, multiculturais, pluralistas e inclusivas. 
+As autoridades públicas devem ser obrigadas a moni-
+torar os sistemas de IA implementados e/ou utilizados 
+por essas autoridades, introduzindo mecanismos e fer -
+ramentas adequados.
+ÁREA POLÍTICA 2: GOVERNANÇA E GESTÃO ÉTICA
+54. Os Estados-membros devem garantir que os mecanis-
+mos de governança da IA sejam inclusivos, transparen-
+tes, multidisciplinares, multilaterais (incluindo a possi-
+bilidade de mitigação e reparação de danos além das 
+fronteiras) e multiparceiros. Em particular, a governança 
+deve incluir aspectos de antecipação e proteção efetiva, 
+monitoramento de impacto, execução e reparação.
+55. Os Estados-membros devem assegurar que os danos 
+causados por meio de sistemas de IA sejam investiga-
+dos e corrigidos, promulgando mecanismos robustos 
+de execução e ações corretivas, para garantir que os 
+direitos humanos, as liberdades fundamentais e o Es-
+tado de direito sejam respeitados nos mundos digital e 
+físico. Tais mecanismos e ações devem incluir mecanis-
+mos de reparação fornecidos por empresas dos setores 
+público e privado. A auditabilidade e a rastreabilidade 
+dos sistemas de IA devem ser promovidas para esse 
+fim. Além disso, os Estados-membros devem fortalecer 
+suas capacidades institucionais de cumprir esse com-
+promisso e, da mesma forma, devem colaborar com 
+os pesquisadores e outras partes interessadas para 
+investigar, prevenir e mitigar usos potencialmente 
+mal-intencionados dos sistemas de IA.
+56. Os Estados-membros são encorajados a desenvolver estra-
+tégias nacionais e regionais de IA, assim como a considerar 
+formas brandas de governança, tais como um mecanismo 
+de certificação para sistemas de IA e o reconhecimento 
+mútuo de sua certificação, de acordo com a sensibilidade 
+do campo de aplicação e o impacto esperado nos direitos 
+humanos, no meio ambiente e nos ecossistemas, além 
+de outras considerações éticas estabelecidas nesta Reco -
+mendação. Tal mecanismo pode incluir diferentes níveis de 
+auditoria de sistemas, dados e adesão às diretrizes éticas e 
+aos requisitos procedimentais considerando os aspectos 
+éticos. Ao mesmo tempo, tal mecanismo não deve impedir 
+a inovação ou desfavorecer pequenas e médias empresas 
+ou start-ups, a sociedade civil, bem como as organizações 
+científicas e de pesquisa, como resultado de uma carga ad-
+ministrativa excessiva. Esses mecanismos também devem  
+incluir um componente de monitoramento periódico para 
+garantir a robustez do sistema e a continuada integridade e 
+adesão às diretrizes éticas durante todo o ciclo de vida dos 
+sistemas de IA, exigindo, se necessário, a recertificação.57. Os Estados-membros e as autoridades públicas devem 
+realizar uma autoavaliação transparente dos sistemas 
+de IA existentes e propostos, a qual deve incluir, em es -
+pecial, avaliar se a adoção da IA é apropriada e, em caso 
+afirmativo, incluir uma avaliação mais aprofundada para 
+determinar qual é o método adequado, bem como 
+uma avaliação de se tal adoção resultaria em violações 
+ou abusos de obrigações legais dos Estados-membros 
+relativas a direitos humanos e, se for esse o caso, proibir 
+sua utilização.
+58. Os Estados-membros devem encorajar entidades públi-
+cas, empresas do setor privado e organizações da socie -
+dade civil a envolverem diferentes partes interessadas 
+em sua governança de IA, bem como a considerar o 
+acréscimo do papel de um oficial de ética da IA indepen-
+dente, ou algum outro mecanismo para supervisionar a 
+avaliação do impacto ético, auditoria e esforços de mo -
+nitoramento contínuo, e garantir a orientação ética dos 
+sistemas de IA. Os Estados-membros, empresas do setor 
+privado e organizações da sociedade civil, com o apoio 
+da UNESCO, são incentivados a criar uma rede de oficiais 
+de ética da IA independentes para dar apoio a esse pro -
+cesso nos âmbitos nacional, regional e internacional.
+59. Os Estados-membros devem promover a criação e o 
+acesso a um ecossistema digital para o desenvolvimen-
+to ético e inclusivo de sistemas de IA no âmbito nacio -
+nal, incluindo abordar as lacunas existentes no acesso 
+ao ciclo de vida dos sistemas de IA, contribuindo assim 
+para a colaboração internacional. Tal ecossistema in-
+clui, em particular , tecnologias e infraestrutura digitais 
+e mecanismos para compartilhar conhecimentos de IA, 
+conforme apropriado.
+60. Os Estados-membros devem estabelecer mecanismos, 
+em colaboração com organizações internacionais, 
+corporações transnacionais, instituições acadêmicas e 
+sociedade civil, para assegurar a participação ativa de 
+todos os próprios Estados-membros, especialmente os 
+LMICs, em particular LDCs, LLDCs e SIDS, nos debates 
+internacionais sobre governança de IA. Isso pode ocor -
+rer pela provisão de fundos, garantindo a participação 
+regional igualitária, ou quaisquer outros mecanismos. 
+Além disso, a fim de garantir a inclusão dos fóruns de 28IA, os Estados-membros devem facilitar as viagens dos 
+atores de IA dentro e fora do seu território, especial-
+mente dos LMICs, em particular dos LDCs , LLDCs e 
+SIDS, para fins de participação nesses fóruns.
+61. As alterações às leis nacionais existentes ou a elaboração de 
+nova legislação que aborde sistemas de IA devem cumprir 
+com as obrigações legais dos Estados-membros relativas a 
+direitos humanos e promover esses direitos e as liberdades 
+fundamentais em todo o ciclo de vida daqueles sistemas.  
+A promoção deles também deve assumir a forma de ini-
+ciativas de governança, bons exemplos de práticas colabo -
+rativas em relação a sistemas de IA, e diretrizes técnicas e 
+metodológicas, nacionais e internacionais, à medida que as  
+tecnologias de IA avancem. Os diversos setores, incluindo o 
+setor privado, em suas práticas relativas aos sistemas de IA, 
+devem respeitar, proteger e promover os direitos humanos 
+e as liberdades fundamentais, usando instrumentos novos 
+e existentes em combinação com esta Recomendação.
+62. Os Estados-membros que adquirem sistemas de IA para 
+uso em casos sensíveis aos direitos humanos, como 
+aplicação da lei, bem-estar, emprego, meios de comu-
+nicação e provedores de informação, assistência médi-
+ca e sistema judiciário independente, devem fornecer 
+mecanismos para monitorar os impactos sociais e eco -
+nômicos de tais sistemas por autoridades supervisoras 
+adequadas, incluindo autoridades independentes com 
+a função de proteção de dados, supervisão setorial e ór -
+gãos públicos responsáveis pela supervisão. 
+63. Os Estados-membros devem aumentar a capacidade do 
+Poder Judiciário de tomar decisões relacionadas a sistemas 
+de IA, de acordo com o Estado de direito e em sintonia 
+com o direito e as normas internacionais, inclusive no uso 
+de sistemas de IA em suas deliberações, ao mesmo tempo 
+assegurando que seja mantido o princípio da supervisão 
+humana. No caso de o Judiciário utilizar sistemas de IA, são 
+necessárias salvaguardas suficientes para garantir, entre 
+outros, a proteção dos direitos humanos fundamentais, do 
+Estado de direito, da independência judicial, bem como o 
+princípio da supervisão humana, assim como para garan-
+tir que o desenvolvimento e o uso de sistemas de IA no 
+próprio Judiciário sejam confiáveis, orientados ao interesse 
+público e centrado no ser humano.
+64. Os Estados-membros devem assegurar que os governos 
+e as organizações multilaterais desempenhem um papel 
+de liderança na garantia da proteção e segurança dos sis-
+temas de IA, com a participação das várias partes interes-
+sadas. Especificamente, os Estados-membros, as organiza-
+ções internacionais e outros organismos relevantes devem  
+desenvolver padrões internacionais que descrevam níveis 
+mensuráveis e verificáveis de segurança e transparência, de 
+modo que os sistemas possam ser avaliados de forma obje -
+tiva e os níveis de conformidade possam ser determinados. Além disso, os Estados-membros e as empresas devem 
+apoiar continuamente a pesquisa estratégica sobre poten-
+ciais riscos de segurança e proteção das tecnologias de IA e 
+incentivar a pesquisa sobre transparência e explicabilidade, 
+inclusão e alfabetização, destinando financiamento adicio -
+nal a essas áreas para diferentes domínios e em diferentes  
+níveis, tais como linguagem técnica e natural.
+65. Os Estados-membros devem implementar políticas para 
+assegurar que as ações dos atores de IA sejam compa-
+tíveis com as leis, as normas e os princípios internacio -
+nais de direitos humanos durante todo o ciclo de vida 
+dos sistemas de IA, ao mesmo tempo levando em plena 
+consideração as atuais diversidades culturais e sociais, 
+incluindo os costumes locais e as tradições religiosas, 
+tendo em devida conta a precedência e a universalidade 
+dos direitos humanos.
+66. Os Estados-membros devem colocar em prática mecanis-
+mos para exigir que os atores de IA divulguem e comba-
+tam todos os tipos de estereótipos nos resultados de sis-
+temas e dados de IA, seja por projeto ou por negligência, 
+e para garantir que o treinamento de conjuntos de dados 
+destinados a sistemas de IA não fomentem desigualda-
+des culturais, econômicas ou sociais, preconceitos, disse -
+minação de desinformação, e interrupção da liberdade 
+de expressão e do acesso à informação. Atenção especial 
+deve ser dada às regiões onde os dados são escassos.
+67. Os Estados-membros devem implementar políticas para 
+promover e ampliar a diversidade e a inclusão, que refli-
+tam suas populações em equipes de desenvolvimento 
+de IA e treinamentos de conjuntos de dados, bem como 
+para garantir acesso igualitário a tecnologias de IA e seus 
+benefícios, especialmente para grupos marginalizados, 
+tanto de áreas rurais como urbanas.
+68. Os Estados-membros devem desenvolver, revisar e adap -
+tar, conforme apropriado, marcos regulatórios para obter 
+responsabilização e prestação de contas pelo conteúdo 
+e pelos resultados dos sistemas de IA nas diferentes fases 
+de seu ciclo de vida. Os Estados-membros também de -
+vem , se necessário, criar marcos de responsabilização ou 
+esclarecer a interpretação dos marcos existentes para as-
+segurar a prestação de contas quanto aos resultados e ao 
+funcionamento dos sistemas de IA. Além disso, quando 
+do desenvolvimento de marcos regulatórios, os Estados-
+-membros devem, em particular, levar em conta que a 
+responsabilidade e imputabilidade finais devem estar sem-
+pre com pessoas físicas ou jurídicas , e que os sistemas de 
+IA não devem eles próprios ser dotados de personalidade 
+jurídica. Para garantir isso, tais marcos devem ser coerentes 
+com o princípio da supervisão humana e estabelecer uma 
+abordagem abrangente, com foco nos atores de IA e nos 
+processos tecnológicos envolvidos em todo os estágios do  
+ciclo de vida dos sistemas de IA.29
+69. A fim de estabelecer normas onde elas não existem, ou 
+para adaptar os marcos legais existentes, os Estados-
+-membros devem envolver todos os atores de IA (incluin-
+do, mas sem se limitar a, pesquisadores, representantes da 
+sociedade civil e de aplicação da lei, seguradoras, investi -
+dores, fabricantes, engenheiros, advogados e usuários). 
+As normas podem amadurecer e se tornar melhores prá-
+ticas, leis e regulamentos. Os Estados-membros são ainda 
+encorajados a usar mecanismos, tais como protótipos de 
+políticas e “caixas de areia” regulatórias para acelerar o de -
+senvolvimento de leis, regulamentos e políticas, incluindo 
+revisões periódicas de tais mecanismos, em sintonia com 
+o rápido desenvolvimento de novas tecnologias, assim 
+como assegurar que as leis e os regulamentos possam ser testados em um ambiente seguro antes de ser ofi-
+cialmente adotados. Os Estados-membros devem apoiar 
+administrações locais no desenvolvimento de políticas, 
+regulamentos e leis locais alinhadas com os marcos legais 
+nacionais e internacionais.
+70. Os Estados-membros devem definir claramente os re -
+quisitos de transparência e explicabilidade dos sistemas 
+de IA, de modo a ajudar a assegurar a confiabilidade de 
+todo o ciclo de vida desses sistemas. Tais requisitos de -
+vem  envolver o planejamento e a implementação de 
+mecanismos de impacto que considerem a natureza 
+do domínio do aplicativo, o uso pretendido, o público -
+-alvo e a viabilidade de cada sistema de IA específico.
+ÁREA POLÍTICA 3: POLÍTICA DE DADOS
+71. Os Estados-membros devem trabalhar para desenvolver 
+estratégias de governança de dados que garantam a ava-
+liação contínua da qualidade dos dados de treinamento 
+para sistemas de IA, incluindo a adequação dos processos 
+de coleta e seleção de dados, segurança de dados e me -
+didas de proteção adequadas, bem como mecanismos 
+de feedback para se aprender com os erros e compartilhar 
+as melhores práticas entre todos os atores de IA.72. Os Estados-membros devem pôr em prática salvaguar -
+das adequadas para proteger o direito à privacidade, em 
+conformidade com as leis internacionais, inclusive abor -
+dando preocupações, tais como a vigilância. Os Estados-
+-membros também devem, entre outras ações, adotar 
+ou fazer cumprir os marcos legislativos que proporcio -
+nem proteção adequada, em conformidade com o direi-
+to internacional. Os Estados-membros também devem 
+encorajar fortemente todos os atores de IA, incluindo 30empresas, a seguir os padrões internacionais existentes 
+e, em particular, a realizar avaliações de impacto sobre a 
+privacidade de forma adequadas, como parte das ava-
+liações de impacto ético, que levem em consideração o 
+impacto socioeconômico mais amplo do processamen-
+to de dados pretendido, e a aplicar privacidade em seus 
+sistemas desde o projeto. A privacidade deve ser respei-
+tada, protegida e promovida ao longo do ciclo de vida 
+dos sistemas de IA.
+73. Os Estados-membros devem assegurar que os indiví-
+duos conservem os direitos sobre seus dados pessoais 
+e sejam protegidos por um marco que preveja em es-
+pecial: transparência; salvaguardas adequadas para o 
+processamento de dados sensíveis; um nível apropria-
+do de proteção de dados; esquemas e mecanismos de 
+responsabilização eficazes e significativos; o pleno gozo 
+dos direitos dos titulares dos dados e a capacidade de 
+acessar e apagar seus dados pessoais em sistemas de 
+IA, exceto em determinadas circunstâncias de acordo 
+com o direito internacional; um nível adequado de pro -
+teção, em plena conformidade com a legislação relativa 
+à proteção de dados quando estes são usados para fins 
+comerciais, tais como permitir publicidade microsseg-
+mentada e transferida além-fronteiras; e uma supervisão 
+independente efetiva como parte de um mecanismo de 
+governança de dados que mantenha os indivíduos no 
+controle de seus dados pessoais e promova os benefí-
+cios de um fluxo livre de informações no âmbito inter -
+nacional, incluindo o acesso aos dados.
+74. Os Estados-membros devem estabelecer suas políticas 
+de dados ou marcos equivalentes, ou reforçar as políti-
+cas existentes, para garantir a segurança total de dados 
+pessoais e sensíveis que, se divulgados, podem causar 
+danos, prejuízos ou dificuldades excepcionais aos indiví-
+duos. Os exemplos incluem dados relativos a infrações, 
+processos criminais, condenações e medidas de segu-
+rança relacionadas; dados biométricos, genéticos e de 
+saúde; e dados pessoais, como os relativos a: raça, cor, 
+ascendência, gênero, idade, língua, religião, opinião po -
+lítica, nacionalidade, origem étnica, origem social, condi-ção econômica ou social de nascimento, deficiência ou 
+quaisquer outras características.
+75. Os Estados-membros devem promover dados abertos.  
+A esse respeito, os Estados-membros devem considerar 
+rever suas políticas e marcos regulatórios, inclusive sobre 
+acesso à informação e governo aberto, para que apresen-
+tem requisitos específicos à IA, e mecanismos de promo -
+ção, tais como repositórios abertos para dados públicos 
+ou de financiamento público, códigos-fonte e trusts de 
+dados, para fomentar um compartilhamento seguro, jus-
+to, legal e ético de dados, entre outros aspectos.
+76. Os Estados-membros devem promover e facilitar o uso de 
+conjuntos de dados robustos e de qualidade para o trei-
+namento, o desenvolvimento e o uso de sistemas de IA, 
+e exercer vigilância na supervisão de sua coleta e de seu 
+uso. Se for possível e viável, isso pode incluir o investimen-
+to na criação de conjuntos de dados com padrão-ouro, 
+incluindo conjuntos de dados abertos e confiáveis, que 
+sejam diversos, construídos a partir de uma base legal vá-
+lida, incluindo o consentimento de seus titulares, quando 
+for exigido por lei. Devem ser encorajadas normas para 
+apor comentários aos conjuntos de dados, incluindo da-
+dos desagregados por gênero e outras bases, para que 
+seja possível determinar facilmente como um conjunto 
+de dados é reunido e as propriedades que ele apresenta.
+77. Os Estados-membros, como também foi sugerido no rela-
+tório do Painel de Alto Nível sobre Cooperação Digital do 
+secretário-geral das Nações Unidas, com o apoio da ONU 
+e da UNESCO, devem adotar uma abordagem de digital 
+commons aos dados quando for apropriado, aumentar a 
+interoperabilidade de ferramentas, conjuntos de dados 
+e interfaces de sistemas que hospedam dados, e enco -
+rajar as empresas do setor privado a compartilhar com 
+todas as partes interessadas os dados que coletam, con-
+forme apropriado, para pesquisa, inovação ou benefícios 
+públicos. Eles também devem promover esforços públi-
+cos e privados para criar plataformas colaborativas para 
+compartilhar dados de qualidade em espaços de dados 
+confiáveis e protegidos.
+ÁREA POLÍTICA 4: DESENVOLVIMENTO  
+E COOPERAÇÃO INTERNACIONAL
+78. Os Estados-membros e as empresas transnacionais de -
+vem priorizar a ética da IA, incluindo discussões sobre 
+questões éticas relacionadas à IA em fóruns internacio -
+nais, intergovernamentais e de múltiplas partes interessa-
+das pertinentes.79. Os Estados-membros devem garantir que o uso da IA em 
+áreas de desenvolvimento como educação, ciência, cul-
+tura, comunicação e informação, atendimento de saúde, 
+agricultura e abastecimento de alimentos, meio ambiente, 
+recursos naturais e gestão de infraestrutura, planejamento 
+econômico e crescimento, entre outras, cumpra os valores 
+e princípios estabelecidos na presente Recomendação.3180. Os Estados-membros devem trabalhar por meio de orga-
+nizações internacionais para fornecer plataformas de coo -
+peração internacional em IA para o desenvolvimento, in-
+clusive contribuindo com expertise, financiamento, dados, 
+conhecimento de domínio e infraestrutura, e facilitando a 
+colaboração de múltiplas partes interessadas para enfren-
+tar problemas desafiadores de desenvolvimento, espe -
+cialmente para LMICs, em particular LDCs, LLDCs e SIDS.
+81. Os Estados-membros devem trabalhar para promover a 
+colaboração internacional em pesquisa e inovação em 
+IA, incluindo centros e redes de pesquisa e inovação que 
+promovam maior participação e liderança de pesquisa-
+dores provenientes de LMICs e outros países, incluindo 
+LDCs, LLDCs e SIDS.82. Os Estados-membros devem promover a pesquisa sobre 
+ética em IA, envolvendo organizações internacionais e 
+instituições de pesquisa, bem como corporações trans-
+nacionais, que podem ser uma base para o uso ético de 
+sistemas de IA por entidades públicas e privadas, incluin-
+do pesquisas sobre a aplicabilidade de marcos éticos em 
+culturas e contextos específicos, assim como as possibili-
+dades de desenvolver soluções viáveis em termos tecno -
+lógicos e alinhadas com esses marcos.
+83. Os Estados-membros devem incentivar a cooperação e a 
+colaboração internacional no campo da IA, para conectar 
+linhas geotecnológicas. Devem ocorrer intercâmbios e 
+consultas tecnológicas entre os Estados-membros e suas 
+populações, entre os setores público e privado, e entre os 
+países menos e mais avançados em termos tecnológicos, 
+com o pleno respeito ao direito internacional.
+ÁREA POLÍTICA 5: MEIO AMBIENTE E ECOSSISTEMAS
+84. Os Estados-membros e as empresas devem avaliar o im-
+pacto ambiental direto e indireto ao longo do ciclo de 
+vida dos sistemas de IA, incluindo, mas não se limitando a 
+sua pegada de carbono, consumo de energia e impacto 
+ambiental da extração de matérias-primas para apoiar a 
+fabricação de tecnologias de IA, e reduzir o impacto am-
+biental dos sistemas de IA e das infraestruturas de dados.  
+Os Estados-membros também devem garantir a confor -
+midade de todos os atores de IA com a legislação, as polí-
+ticas e as práticas ambientais.
+85. Os Estados-membros devem aplicar incentivos, quando 
+for necessário e apropriado, para garantir o desenvolvi-
+mento e a adoção de soluções éticas e baseadas em direi-
+tos, alimentadas por IA, para a resiliência ao risco de desas-
+tres; o monitoramento, proteção e regeneração do meio 
+ambiente e dos ecossistemas; e a preservação do planeta.  
+Esses sistemas de IA devem envolver a participação das 
+comunidades locais e indígenas em todo o ciclo de vida 
+dos sistemas de IA, bem como devem apoiar abordagens 
+do tipo “economia circular” e padrões de consumo e pro -
+dução sustentáveis. Alguns exemplos incluem o uso de 
+sistemas de IA, quando for necessário e apropriado, para:
+(a) apoiar a proteção, o monitoramento e a gestão de 
+recursos naturais;
+(b) apoiar a previsão, a prevenção, o controle e a miti-
+gação de problemas relacionados ao clima;
+(c) apoiar um ecossistema alimentar mais eficiente e 
+sustentável;(d) apoiar a aceleração do acesso e da adoção em 
+massa de energias sustentáveis;
+(e) habilitar e promover a integração de infraestruturas 
+sustentáveis, modelos de negócios sustentáveis e 
+financiamento sustentável para o desenvolvimento 
+sustentável; e
+(f ) detectar poluentes ou prever os níveis de poluição 
+e, assim, ajudar as partes interessadas relevantes a 
+identificar, planejar e colocar em prática interven-
+ções direcionadas para prevenir e reduzir a poluição 
+e exposição.
+86. Ao escolher métodos de IA, considerando o potencial 
+caráter de uso intensivo de dados ou recursos de alguns 
+deles, assim como o respectivo impacto sobre o meio 
+ambiente, os Estados-membros devem assegurar que os 
+atores de IA, em consonância com o princípio da propor -
+cionalidade, deem preferência a métodos de IA eficien-
+tes em termos de dados, energia e recursos. Devem ser 
+desenvolvidos requisitos para garantir que evidências 
+adequadas estejam disponíveis para mostrar que um 
+aplicativo de IA terá o efeito pretendido, ou que as salva-
+guardas que acompanham tal aplicativo podem apoiar a 
+justificativa para seu uso. Se isso não puder ser feito, deve 
+ser favorecido o princípio da precaução e, em casos em 
+que existem impactos desproporcionalmente negativos 
+ao meio ambiente, a IA deve não ser usada.32
+ÁREA POLÍTICA 6: GÊNERO
+87. Os Estados-membros devem garantir que o potencial das 
+tecnologias digitais e da inteligência artificial para contri-
+buir para alcançar a igualdade de gênero seja totalmente 
+maximizado; devem garantir também que os direitos hu-
+manos e as liberdades fundamentais de meninas e mu-
+lheres, bem como sua segurança e integridade, não sejam 
+violados em nenhum estágio do ciclo de vida dos sistemas 
+de IA. Além disso, a avaliação de impacto ético deve incluir 
+uma perspectiva transversal de gênero .
+88. Os Estados-membros devem ter verbas específicas de seus 
+orçamentos públicos vinculadas ao financiamento de sis-
+temas sensíveis ao gênero, garantir que as políticas digitais 
+nacionais incluam um plano de ação de gênero e desenvol-
+ver políticas relevantes, por exemplo, sobre educação para 
+o trabalho, destinadas a apoiar meninas e mulheres para 
+garantir que elas não sejam excluídas da economia digital 
+alimentada por IA. Da mesma forma, deve ser considerado 
+e implementado um investimento especial no fornecimen-
+to de programas direcionados e linguagem específica de 
+gênero, para aumentar as oportunidades de participação de meninas e mulheres nas áreas de ciência, tecnologia, 
+engenharia e matemática (STEM), incluindo disciplinas de 
+tecnologias da informação e comunicação (TIC), prepara-
+ção, empregabilidade, equidade no desenvolvimento de 
+carreiras e crescimento profissional de meninas e mulheres.
+89. Os Estados-membros devem assegurar que o potencial 
+dos sistemas de IA para promover a obtenção da igual-
+dade de gênero seja concretizado. Eles também devem  
+garantir que essas tecnologias não exacerbem, mas elimi-
+nem as já amplas disparidades de gênero existentes em 
+vários campos no mundo analógico. Essas disparidades 
+incluem: desigualdade salarial de gênero; representação 
+desigual em certas profissões e atividades; falta de repre -
+sentação em cargos de alta gerência, diretorias ou equi-
+pes de pesquisa na área de IA; disparidade educacional; 
+desigualdade de acesso, adoção, uso e acessibilidade 
+financeira a tecnologias digitais e de IA; e distribuição de -
+sigual do trabalho não remunerado e das responsabilida-
+des assistenciais em nossas sociedades.3390. Os Estados-membros devem assegurar que os estereó -
+tipos de gênero e os vieses discriminatórios não sejam 
+traduzidos em sistemas de IA; em vez disso, tais ele -
+mentos devem ser identificados e reparados de forma 
+proativa. São necessários esforços para evitar o efeito 
+negativo crescente das divisões tecnológicas para alcan-
+çar a igualdade de gênero e evitar diversas formas de 
+violência, como assédio, intimidação ou tráfico de meni-
+nas, mulheres e grupos sub-representados, inclusive no 
+mundo online. 
+91. Os Estados-membros devem encorajar o empreende -
+dorismo, a participação e o engajamento femininos em 
+todos os estágios do ciclo de vida dos sistemas de IA, 
+oferecendo e promovendo incentivos econômicos regu-
+ladores, entre outros sistemas de apoio e incentivo, bem 
+como políticas que visem a uma equilibrada participa-
+ção de gênero na pesquisa em IA no meio acadêmico, 
+representação de gênero em cargos de chefia, diretorias 
+e equipes de pesquisa de empresas digitais e de IA. Os 
+Estados-membros também devem assegurar que verbas 
+públicas (para inovação, pesquisa e tecnologias) sejam canalizadas para programas e empresas inclusivas, com 
+uma clara representação de gênero, e que investimen-
+tos privados sejam igualmente estimulados por meio de 
+princípios de ação afirmativa. Devem ser desenvolvidas 
+e aplicadas políticas sobre ambientes livres de assédio, 
+juntamente com o incentivo à transferência de melhores  
+práticas sobre como promover a diversidade em todo o 
+ciclo de vida dos sistemas de IA.
+92. Os Estados-membros devem promover a diversidade de 
+gênero na pesquisa de IA nas universidades e na indústria, 
+oferecendo incentivos para que meninas e mulheres en-
+trem nesses campos, implementando mecanismos para 
+combater os estereótipos de gênero e o assédio dentro 
+da comunidade de pesquisa em IA e encorajando enti-
+dades acadêmicas e privadas a compartilhar as melhores 
+práticas sobre como aumentar a diversidade de gênero.
+93. A UNESCO pode ajudar a desenvolver um repositório de 
+melhores práticas para incentivar a participação de meni-
+nas, mulheres e grupos sub-representados em todos os 
+estágios do ciclo de vida dos sistemas de IA.  
+ÁREA POLÍTICA 7: CUL TURA
+94. Os Estados-membros são encorajados a incorporar sis-
+temas de IA, onde for apropriado, nas seguintes áreas: 
+preservação, enriquecimento, compreensão, promoção, 
+gestão e acessibilidade do patrimônio cultural tangível, 
+documental e intangível, incluindo línguas ameaçadas 
+bem como línguas e conhecimentos indígenas. Isso 
+pode ser feito, por exemplo, introduzindo ou atualizan-
+do programas educacionais relacionados à aplicação de 
+sistemas de IA nessas áreas, onde for apropriado, e asse -
+gurando uma abordagem participativa, direcionada às 
+instituições e ao público.
+95. Os Estados-membros são encorajados a examinar e abor -
+dar o impacto cultural dos sistemas de IA, especialmente 
+aplicativos de processamento de linguagem natural (natu-
+ral language processing – NLP), como de tradução automá-
+tica e assistentes de voz, quanto às nuances da linguagem 
+e expressão humanas. Essas avaliações devem fornecer 
+informações para o projeto e a implementação de estra-
+tégias que maximizem os benefícios de tais sistemas, por 
+suprir lacunas culturais e aumentar a compreensão huma-
+na, bem como abordar implicações negativas, tais como 
+redução do uso, o que poderia levar ao desaparecimento 
+de línguas ameaçadas, dialetos locais e variações tonais e 
+culturais associadas à linguagem e à expressão humanas.
+96. Os Estados-membros devem promover educação em IA 
+e treinamento digital para artistas e profissionais criativos, 
+para avaliar a adequação das tecnologias de IA para uso em suas profissões e contribuir para o projeto e a implemen-
+tação de tecnologias de IA adequadas, uma vez que tais 
+tecnologias estão sendo usadas para criar, produzir, distri-
+buir, difundir e consumir diversos bens e serviços culturais, 
+levando em conta a importância da preservação do patri-
+mônio cultural, da diversidade e da liberdade artística.
+97. Os Estados-membros devem promover a conscientização 
+e a avaliação de ferramentas de IA entre indústrias cultu-
+rais locais e pequenas e médias empresas que trabalham 
+no campo da cultura, para evitar o risco de concentração 
+no mercado cultural.
+98. Os Estados-membros devem envolver as empresas de 
+tecnologia e outras partes interessadas na promoção 
+de uma oferta diversificada e de um acesso pluralista às 
+expressões culturais e, em particular, para garantir que as 
+recomendações algorítmicas aumentem a visibilidade e a 
+descoberta de conteúdo local.
+99. Os Estados-membros devem fomentar novas pesquisas 
+na área de intersecção entre IA e propriedade intelectual 
+(PI), por exemplo, para determinar se ou como proteger 
+com direitos de PI as obras criadas por meio de tecnolo -
+gias de IA. Os Estados-membros também devem avaliar 
+como as tecnologias de IA estão afetando os direitos ou 
+interesses dos detentores de PI, cujos trabalhos são usa-
+dos para pesquisar, desenvolver, treinar ou implementar 
+aplicativos de IA.34
+100. Os Estados-membros devem encorajar museus, gale -
+rias, bibliotecas e arquivos no âmbito nacional a utilizar 
+sistemas de IA para destacar seus acervos e melhorar suas bibliotecas, bases de dados e de conhecimentos, 
+ao mesmo tempo em que proporcionam acesso aos 
+seus usuários.
+ÁREA POLÍTICA 8: EDUCAÇÃO E PESQUISA
+101. Os Estados-membros devem trabalhar com organiza-
+ções internacionais, instituições educacionais e enti-
+dades privadas e não governamentais para fornecer 
+alfabetização em IA adequada ao público em todos os 
+níveis e em todos os países, a fim de empoderar as pes-
+soas e reduzir as exclusões e as desigualdades digitais de 
+acesso decorrentes da ampla adoção de sistemas de IA.
+102. Os Estados-membros devem promover a aquisição de 
+“habilidades de pré-requisito” para a educação em IA, 
+tais como alfabetização básica, numeramento, habilida-
+des digitais e de programação, e alfabetização midiática 
+e informacional (AMI), bem como habilidades de pensa-
+mento crítico e criativo, trabalho em equipe, comunica-
+ção, socioemocionais e de ética da IA, especialmente em 
+países, regiões ou áreas dentro de países onde existem 
+notáveis lacunas na instrução dessas habilidades.
+103. Os Estados-membros devem promover programas de 
+conscientização geral sobre os avanços da IA, incluindo 
+sobre dados, oportunidades e desafios trazidos pelas 
+tecnologias de IA, o impacto dos sistemas de IA nos di-
+reitos humanos e suas implicações, incluindo nos direi-
+tos das crianças. Esses programas devem ser acessíveis 
+tanto para grupos técnicos como não técnicos.104. Os Estados-membros devem incentivar iniciativas de 
+pesquisa sobre o uso ético e responsável das tecnolo -
+gias de IA no ensino, formação de professores e ensino 
+eletrônico (e-learning), entre outras questões, para au-
+mentar as oportunidades e mitigar os desafios e riscos 
+envolvidos nessa área. As iniciativas devem ser acom-
+panhadas por uma avaliação adequada da qualidade 
+da educação e do impacto do uso das tecnologias de 
+IA em estudantes e professores. Os Estados-membros 
+também devem garantir que as tecnologias de IA em-
+poderem estudantes e professores e aprimorem sua 
+experiência, tendo em mente que os aspectos relacio -
+nais e sociais e o valor das formas tradicionais de edu-
+cação são essenciais nas relações professor– estudante 
+e estudante –estudante, bem como devem ser consi-
+derados na discussão sobre adoção de tecnologias de 
+IA na educação. Os sistemas de IA utilizados na apren-
+dizagem devem estar sujeitos a requisitos rigorosos 
+quando se trata de acompanhamento, avaliação de ha-
+bilidades ou previsão dos comportamentos dos estu-
+dantes. A IA deve apoiar o processo de aprendizagem 
+sem reduzir as habilidades cognitivas e sem extrair 
+informações confidenciais, em conformidade com os 
+padrões de proteção de dados pessoais pertinentes. Os 
+dados entregues para a aquisição de conhecimentos, 35
+coletados durante as interações do estudante com o 
+sistema de IA, não devem estar sujeitos a uso indevido, 
+apropriação indébita ou exploração criminosa, inclusi-
+ve para fins comerciais.
+105. Os Estados-membros devem promover a participação e 
+a liderança de meninas e mulheres, diferentes etnias e 
+culturas, pessoas com deficiência, pessoas marginaliza-
+das e vulneráveis ou pessoas em situações vulneráveis, 
+minorias e todas as pessoas que não desfrutam dos 
+plenos benefícios da inclusão digital, em programas de 
+educação em IA em todos os níveis, bem como o acom-
+panhamento e o compartilhamento das melhores práti-
+cas nesse aspecto com outros Estados-membros.
+106. Os Estados-membros devem desenvolver, de acordo 
+com seus programas e tradições educacionais nacio -
+nais, currículos de ética em IA para todos os níveis, assim 
+como promover a colaboração recíproca entre o ensino 
+de habilidades técnicas de IA e os aspectos humanísti-cos, éticos e sociais da educação em IA. Cursos online 
+e recursos digitais de educação em ética de IA devem 
+ser desenvolvidos em línguas locais, incluindo línguas 
+indígenas, e levar em consideração a diversidade de am-
+bientes, especialmente garantindo a acessibilidade de 
+formatos para pessoas com deficiência.
+107. Os Estados-membros devem promover e apoiar as pes-
+quisas em IA, particularmente em ética da IA, inclusive, 
+por exemplo, pelo investimento em tais pesquisas ou 
+pela criação de incentivos para que os setores públi-
+co e privado invistam nessa área, reconhecendo que a 
+pesquisa contribui de forma significativa para o desen-
+volvimento e a melhoria das tecnologias de IA, com o 
+intuito de promover o direito internacional e os valores 
+e princípios estabelecidos na presente Recomendação.  
+Os Estados-membros também devem promover pu-
+blicamente as melhores práticas e a cooperação com 
+pesquisadores e empresas que desenvolvem a IA de 
+maneira ética.36108. Os Estados-membros devem assegurar que os pes-
+quisadores de IA sejam treinados em ética na área 
+de pesquisa e exigir que eles incluam considerações 
+éticas em seus projetos, produtos e publicações, es-
+pecialmente em análises dos conjuntos de dados que 
+utilizam, como eles são comentados, a qualidade e o 
+escopo dos resultados com possíveis aplicativos.
+109. Os Estados-membros devem encorajar as empresas 
+do setor privado a facilitarem o acesso da comunidade 
+científica aos seus dados para pesquisa, especialmente 
+nos LMICs, em particular nos LDCs, LLDCs e SIDS. Esse 
+acesso deve se dar em conformidade com os padrões  
+relevantes de privacidade e proteção de dados.
+110. Para garantir uma avaliação crítica da pesquisa em IA 
+e o acompanhamento adequado de potenciais usos 
+indevidos ou efeitos adversos, os Estados-membros 
+devem assegurar que avanços futuros relativos a tec-
+nologias de IA tenham como base pesquisas científicas rigorosas e independentes, e promover a pesquisa in-
+terdisciplinar em IA pela inclusão de outras disciplinas 
+além de ciência, tecnologia, engenharia e matemática 
+(STEM), tais como estudos culturais, educação, ética, 
+relações internacionais, direito, linguística, filosofia, 
+ciência política, sociologia e psicologia.
+111. Reconhecendo que as tecnologias de IA apresentam 
+grandes oportunidades para ajudar no avanço do co -
+nhecimento e da prática científica, em especial em 
+disciplinas tradicionalmente baseadas em modelos, os 
+Estados-membros devem encorajar as comunidades 
+científicas a estarem cientes dos benefícios, limites e 
+riscos de seu uso; isso inclui tentar garantir que as con-
+clusões extraídas de abordagens baseadas em dados, 
+modelos e tratamentos sejam válidas e robustas. Além 
+disso, os Estados-membros devem acolher e apoiar o  
+papel da comunidade científica em contribuir para as 
+políticas e cultivar a consciência dos pontos fortes e 
+fracos das tecnologias de IA.
+ÁREA POLÍTICA 9: COMUNICAÇÃO E INFORMAÇÃO
+112. Os Estados-membros devem usar sistemas de IA para 
+melhorar o acesso à informação e ao conhecimento. 
+Isso pode incluir o apoio a pesquisadores, universidades, 
+jornalistas, público em geral e desenvolvedores, para au-
+mentar a liberdade de expressão, as liberdades acadê -
+mica e científica, o acesso à informação e o aumento da 
+divulgação proativa de dados e informações oficiais.
+113. Os Estados-membros devem garantir que os atores da 
+IA respeitem e promovam a liberdade de expressão, 
+bem como o acesso à informação no que diz respeito 
+à geração, à moderação e à curadoria automatizada de 
+conteúdo. Marcos adequados, inclusive de regulamen-
+tação, devem viabilizar a transparência de operadores 
+de comunicação e informação online e garantir que 
+os usuários tenham acesso a diversos pontos de vista, 
+bem como processos de notificação imediata aos usu-
+ários sobre as razões para remoção ou outro tratamen-
+to dado ao conteúdo, e mecanismos de apelação que 
+permitam aos usuários buscar reparação.114. Os Estados-membros devem investir e promover ha-
+bilidades de alfabetização digital, midiática e infor -
+macional para fortalecer o pensamento crítico e as 
+competências necessárias para se entender o uso e a 
+implicação dos sistemas de IA, a fim de mitigar e com-
+bater a desinformação, as notícias falsas e o discurso 
+de ódio. Devem fazer parte desses esforços a compre -
+ensão e a avaliação aperfeiçoadas, tanto dos aspectos 
+positivos como dos efeitos potencialmente prejudiciais 
+dos sistemas recomendados.
+115. Os Estados-membros devem criar ambientes que favo -
+reçam a mídia a ter direitos e recursos para informar, 
+de maneira efetiva, sobre os benefícios e os riscos dos 
+sistemas de IA, assim como incentivar os meios de co -
+municação a usarem eticamente os sistemas de IA em 
+suas operações.
+ÁREA POLÍTICA 10: ECONOMIA E TRABALHO
+116. Os Estados-membros devem avaliar e abordar o impac-
+to dos sistemas de IA nos mercados de trabalho e suas 
+implicações para os requisitos de educação, em todos 
+os países, mas com especial ênfase nos países em que 
+a economia é altamente dependente de mão de obra.  
+Isso pode incluir a introdução de uma ampla gama de habilidades básicas e interdisciplinares em todos os  
+níveis educacionais, para oferecer aos trabalhadores 
+atuais e às novas gerações oportunidades justas de 
+encontrar emprego em um mercado em rápida trans-
+formação, bem como garantir sua consciência sobre os 
+aspectos éticos dos sistemas de IA. Habilidades como 37
+“aprender a aprender ” , de comunicação, pensamento 
+crítico, trabalho em equipe, empatia e a capacidade 
+de transferir o próprio conhecimento entre diferentes 
+áreas, devem ser ensinadas juntamente com habilida-
+des técnicas especializadas, bem como tarefas de baixa 
+qualificação. É fundamental ser transparente sobre as 
+habilidades que estão sendo demandadas e atualizar 
+os currículos em torno delas.
+117. Os Estados-membros devem apoiar acordos de cola-
+boração entre governos, instituições acadêmicas, insti-
+tuições de treinamento e educação profissional, indús-
+tria, organizações de trabalhadores e sociedade civil 
+para suprir a lacuna dos requisitos de habilidades, para 
+alinhar programas e estratégias de treinamento com as 
+implicações do futuro do trabalho e as necessidades 
+da indústria, incluindo pequenas e médias empresas.  
+Devem ser promovidas abordagens de ensino e apren-
+dizagem baseadas em projetos para IA, de modo a pos-
+sibilitar parcerias entre instituições públicas, empresas  
+do setor privado, universidades e centros de pesquisa.
+118. Os Estados-membros devem trabalhar com empresas do 
+setor privado, organizações da sociedade civil e outras 
+partes interessadas, incluindo trabalhadores e sindicatos, 
+para garantir uma transição justa para os trabalhadores 
+em situação de risco. Isso inclui pôr em funcionamento 
+programas de aperfeiçoamento e requalificação profis-
+sional, encontrar mecanismos eficazes de retenção de 
+funcionários durante os períodos de transição, e explo -
+rar programas de “ rede de segurança” para aqueles que 
+não podem ser treinados. Os Estados-membros devem desenvolver e implementar programas de pesquisa e 
+responder aos desafios identificados, que podem incluir 
+aperfeiçoamento e requalificação, proteção social re -
+forçada, políticas e intervenções proativas da indústria, 
+benefícios fiscais e novas formas de tributação, entre ou-
+tros. Os Estados-membros devem assegurar que exista 
+suficiente financiamento público para apoiar esses pro -
+gramas. Regulamentações pertinentes, tais como regi-
+mes fiscais, devem ser examinados de forma cuidadosa 
+e, se for necessário, alterados para neutralizar as con-
+sequências do desemprego causado pela automação 
+baseada em IA.
+119. Os Estados-membros devem encorajar e apoiar os pes-
+quisadores a analisar o impacto dos sistemas de IA no 
+ambiente de trabalho local, a fim de antecipar tendências 
+e desafios futuros. Esses estudos devem ter uma aborda-
+gem interdisciplinar e investigar o impacto dos sistemas 
+de IA nos setores econômicos, sociais e geográficos, bem 
+como nas interações de humanos com robôs e no rela-
+cionamento entre humanos, a fim de aconselhar sobre 
+melhores práticas de requalificação e realocação.
+120. Os Estados-membros devem tomar medidas adequa-
+das para garantir mercados competitivos e proteção 
+dos consumidores, considerando possíveis medidas 
+e mecanismos nos âmbitos nacional, regional e inter -
+nacional, para evitar o abuso de posições de mercado 
+dominantes, inclusive por monopólios, em relação aos 
+sistemas de IA ao longo do seu ciclo de vida, quer eles 
+sejam de dados, pesquisa, tecnologia ou mercado. Os 
+Estados-membros devem também prevenir as desigual-38dades daí resultantes, avaliar mercados relevantes e pro -
+mover mercados competitivos. Deve ser dada a devida 
+consideração aos LMICs, em particular aos LDCs, LLDCs 
+e SIDS, que estão mais expostos e vulneráveis a possí-
+veis abusos de domínio de mercado decorrentes da falta 
+de infraestrutura, capacidade humana e regulamentos, 
+entre outros fatores. Os atores de IA que estejam desen-volvendo sistemas em países que tenham estabelecido 
+ou adotado normas éticas de IA devem respeitar tais 
+normas ao exportar esses produtos, desenvolver ou im-
+plementar seus sistemas de IA em países nos quais tais 
+padrões podem não existir, sempre respeitando o direito 
+internacional cabível e a legislação, os padrões e as práti-
+cas domésticas desses países.
+ÁREA POLÍTICA 11: SAÚDE E BEM-ESTAR SOCIAL
+121. Os Estados-membros devem se esforçar para implemen-
+tar sistemas de IA eficazes para melhorar a saúde huma-
+na e proteger o direito à vida, incluindo mitigar surtos 
+de doenças, enquanto constroem e mantêm a solidarie -
+dade internacional para enfrentar os riscos sanitários e 
+as incertezas globais, e garantir que sua implementação 
+de sistemas de IA de assistência médica sejam compa-
+tíveis com as leis internacionais e com suas obrigações 
+em matéria de direitos humanos. Os Estados-membros 
+também devem assegurar que os atores envolvidos nos 
+sistemas de IA de assistência à saúde considerem a im-
+portância das relações de um paciente com sua família 
+e com o pessoal de atendimento médico.
+122. Os Estados-membros devem garantir que o desenvolvi-
+mento e a implementação de sistemas de IA relaciona-
+dos com a saúde em geral e com a saúde mental em 
+particular, com a devida atenção a crianças e jovens, es-
+tejam sujeitos à regulação para que sejam seguros, efi-
+cazes, eficientes, e comprovados em termos científicos 
+e clínicos, e possibilitem a inovação e o progresso mé -
+dico com base em evidências. Além disso, na área afim 
+de intervenções médicas digitais, os Estados-membros 
+são fortemente encorajados a envolver ativamente os 
+pacientes e seus representantes em todas as etapas re -
+levantes do desenvolvimento dos sistemas.
+123. Os Estados-membros devem conferir especial atenção 
+à regulamentação das soluções de previsão, detecção e 
+tratamento para assistência médica em aplicativos de IA, 
+da seguinte forma: 
+(a) garantindo supervisão para minimizar e mitigar vieses;
+(b) garantindo que o profissional, o paciente, o cuidador 
+ou usuário do serviço estejam incluídos como 
+“especialistas da área” na equipe, em todas as etapas 
+relevantes quando do desenvolvimento de algoritmos;
+(c) dando a devida atenção à privacidade, devido à 
+possível necessidade de ser clinicamente monitora-
+do, e garantindo que todos os pertinentes requisi-
+tos de proteção de dados, nacionais e internacio -
+nais, sejam atendidos;(d) assegurando mecanismos efetivos para que os indi-
+víduos cujos dados pessoais estão sendo analisados 
+estejam cientes e deem seu consentimento funda-
+mentado para a utilização e a análise de seus dados, 
+sem impedir o acesso à assistência médica;
+(e) assegurando o cuidado humano e que a decisão 
+final sobre diagnóstico e tratamento seja sempre 
+tomada por humanos, embora reconhecendo 
+que os sistemas de IA também podem ajudar em 
+seu trabalho;
+(f ) assegurando, quando for necessário, a revisão dos 
+sistemas de IA por um comitê de pesquisa ética 
+antes de seu uso clínico.
+124. Os Estados-membros devem realizar pesquisas sobre os 
+efeitos e a regulamentação dos danos potenciais à saú-
+de mental relacionados aos sistemas de IA, como graus 
+mais elevados de depressão, ansiedade, isolamento so -
+cial, desenvolvimento de vícios, tráfico, radicalização e 
+desinformação, entre outros.
+125. Os Estados-membros devem desenvolver diretrizes para 
+as interações humanos–robôs e seu impacto sobre as 
+relações humanos–humanos, com base em pesqui-
+sas e dirigidas ao futuro desenvolvimento de robôs, e 
+com especial atenção à saúde mental e física dos seres 
+humanos. Deve ser dada particular atenção ao uso de 
+robôs na assistência médica e no cuidado de idosos e 
+pessoas com deficiência, na educação, e robôs para uso 
+de crianças, robôs de brinquedo, chatbots e robôs de 
+companhia para crianças e adultos. Além disso, a assis-
+tência de tecnologias de IA deve ser aplicada para au-
+mentar a segurança e o uso ergonômico de robôs, inclu-
+sive em um ambiente de trabalho que integre humanos 
+e robôs. Também deve ser dada especial atenção para a 
+possibilidade de se usar a IA para manipular e abusar de 
+vieses cognitivos humanos.
+126. Os Estados-membros devem assegurar que as intera-
+ções humanos–robôs respeitem os mesmos valores e 
+princípios que se aplicam a todos os outros sistemas de 
+IA, incluindo direitos humanos e liberdades fundamen-39
+tais, a promoção da diversidade e a proteção de pessoas 
+vulneráveis ou pessoas em situações de vulnerabilidade. 
+Devem ser consideradas questões éticas relacionadas 
+a sistemas alimentados por IA para neurotecnologias 
+e interfaces cérebro–computador , a fim de preservar a 
+dignidade e a autonomia humanas .
+127. Os Estados-membros devem garantir que os usuários pos-
+sam identificar facilmente se estão interagindo com um ser 
+vivo ou com um sistema de IA que imita as características 
+humanas ou animais e, assim, possam efetivamente recu-
+sar essa interação e solicitar intervenção humana.
+128. Os Estados-membros devem implementar políticas para 
+aumentar a conscientização sobre a antropomorfização 
+de tecnologias de IA e tecnologias que reconhecem e 
+imitam as emoções humanas, inclusive na linguagem 
+usada para mencioná-las, e avaliar as manifestações, as 
+implicações éticas e as possíveis limitações de tal an-
+tropomorfização, particularmente no contexto da inte -
+ração robôs–humanos e em especial quando houver 
+crianças envolvidas.129. Os Estados-membros devem incentivar e promover pes-
+quisas colaborativas sobre os efeitos da interação de lon-
+go prazo das pessoas com os sistemas de IA, conferindo 
+especial atenção ao impacto psicológico e cognitivo 
+que esses sistemas podem ter sobre crianças e jovens. 
+Isso deve ser feito com o uso de várias normas, princí-
+pios, protocolos, abordagens disciplinares e avaliações 
+da modificação de comportamentos e hábitos, bem 
+como uma avaliação cuidadosa dos impactos culturais 
+e sociais posteriores. Além disso, os Estados-membros 
+devem encorajar a pesquisa sobre o efeito das tecno -
+logias de IA no desempenho do sistema de saúde e nos 
+resultados de saúde.
+130. Estados-membros, bem como todas as partes interessa-
+das, devem criar mecanismos para envolver crianças e 
+jovens de maneira significativa em conversas, debates e 
+na tomada de decisões quanto ao impacto de sistemas 
+de IA em suas vidas e em seu futuro.40V.  
+Monitoramento  
+e avaliação
+131. Os Estados-membros devem, de acordo com as suas 
+condições específicas, estruturas de governo e disposi-
+ções constitucionais, monitorar e avaliar com credibili-
+dade e transparência as políticas, os programas e os me -
+canismos relacionados com a ética da IA, utilizando uma 
+combinação de abordagens quantitativas e qualitativas. 
+Para apoiar os Estados-membros , a UNESCO pode con-
+tribuir das seguintes formas: 
+(a) desenvolver uma metodologia da UNESCO para 
+a avaliação de impacto ético (AIE) das tecnologias 
+de IA, com base em pesquisas científicas rigorosas 
+e fundamentadas na lei internacional de direitos 
+humanos; orientação para sua implementação em 
+todas as fases do ciclo de vida dos sistemas de IA; e 
+materiais de capacitação para apoiar os esforços dos 
+Estados-membros para treinar servidores públicos, 
+formuladores de políticas e outros atores relevantes 
+de IA na metodologia de AIE;
+(b) desenvolver uma metodologia de avaliação de pron-
+tidão da UNESCO para ajudar os Estados-membros a 
+identificarem sua situação em momentos específicos 
+de sua trajetória de prontidão ao longo de uma série 
+dinâmica de dimensões;(c) desenvolver uma metodologia da UNESCO para 
+avaliar de antemão e em retrospecto a eficiência e a 
+eficácia das políticas para a ética da IA e incentivos 
+conforme objetivos definidos;
+(d) fortalecer a análise baseada em pesquisas, evidências 
+e relatórios sobre políticas relacionadas à ética da IA;
+(e) coletar e disseminar o progresso, as inovações, os 
+relatórios de pesquisa, as publicações científicas, os 
+dados e as estatísticas sobre políticas para a ética da 
+IA, inclusive por meio de iniciativas existentes, para 
+apoiar o compartilhamento de melhores práticas 
+e aprendizagem mútua, e para fazer avançar a 
+implementação desta Recomendação.
+132. Os processos de monitoramento e avaliação devem 
+assegurar a ampla participação de todas as partes in-
+teressadas, incluindo, mas não se limitando a pessoas 
+vulneráveis ou em situações de vulnerabilidade. A  di-
+versidade social, cultural e de gênero deve ser assegu-
+rada, no intuito de melhorar os processos de apren-
+dizagem e fortalecer as conexões entre descobertas, 
+tomada de decisões, transparência e responsabilização 
+pelos resultados.41133. No interesse de promover as melhores políticas e prá-
+ticas relacionadas à ética da IA, devem ser desenvolvi-
+dos indicadores e ferramentas apropriadas para avaliar 
+a eficácia e eficiência daquelas em relação aos padrões, 
+prioridades e metas acordados, incluindo metas espe -
+cíficas para pessoas pertencentes a grupos desfavore -
+cidos e marginalizados, e pessoas vulneráveis ou em 
+situações de vulnerabilidade, bem como o impacto 
+dos sistemas de IA nos âmbitos individual e social. O 
+monitoramento e a avaliação do impacto dos sistemas 
+de IA e das políticas e práticas de ética da IA afins de -
+vem ser realizados de forma contínua, sistemática e 
+proporcional aos riscos pertinentes. Isso deve ter como 
+base marcos acordados internacionalmente e envolver 
+avaliações de instituições, provedores e programas pri-
+vados e públicos, incluindo autoavaliações, bem como 
+estudos de rastreamento e o desenvolvimento de con-
+juntos de indicadores. A coleta e o processamento de dados devem ser realizados em conformidade com o 
+direito internacional, com as leis nacionais sobre prote -
+ção e privacidade de dados, e com os valores e princí-
+pios delineados na presente Recomendação.
+134. Em particular, os Estados-membros podem desejar 
+considerar possíveis mecanismos para monitoramen-
+to e avaliação, como uma comissão de ética, um ob -
+servatório de ética da IA, um repositório que abranja 
+o cumprimento dos direitos humanos e o desenvolvi-
+mento ético dos sistemas de IA, ou contribuições para 
+iniciativas existentes que abordem a adesão aos princí-
+pios éticos em todas as áreas de mandato da UNESCO, 
+um mecanismo de compartilhamento de experiências, 
+“caixas de areia” regulatórias de IA, e um guia de avalia-
+ção destinado a todos os atores de IA, para avaliar seu 
+cumprimento das recomendações políticas menciona-
+das no presente documento.42VI.  
+Utilização e 
+aproveitamento 
+da presente 
+Recomendação 
+135. Os Estados-membros e todas as outras partes interessadas, 
+como identificadas nesta Recomendação, devem respeitar, 
+promover e proteger os valores, princípios e normas éticas 
+sobre IA que são identificados na presente Recomendação, 
+assim como devem tomar todas as medidas viáveis para 
+dar efeito a suas recomendações políticas.
+136. Os Estados-membros devem se esforçar para ampliar 
+e complementar suas próprias ações em relação a esta Recomendação, cooperando com todos as organiza-
+ções governamentais e não governamentais nacionais 
+e internacionais pertinentes, bem como com corpo -
+rações transnacionais e organizações científicas, cujas 
+atividades se inserem no escopo e nos objetivos desta 
+Recomendação. O desenvolvimento de uma metodo -
+logia da UNESCO para a avaliação de impacto ético e o 
+estabelecimento de comissões nacionais de ética da IA 
+podem ser instrumentos importantes para isso.43VII. 
+Promoção 
+da presente 
+Recomendação
+137. A UNESCO tem a vocação de ser a principal agência 
+das Nações Unidas para promover e disseminar esta 
+Recomendação e, portanto, irá trabalhar em colabo -
+ração com outras entidades relevantes das Nações 
+Unidas, respeitando seus mandatos e evitando a du-
+plicação de trabalho.
+138. A UNESCO, incluindo seus órgãos, como a Comissão 
+Mundial para a Ética do Conhecimento Científico e Tec-
+nológico (COMEST), o Comitê Internacional de Bioética 
+(IBC) e o Comitê Intergovernamental de Bioética (IGBC), também irá trabalhar em colaboração com outros orga-
+nismos internacionais e regionais, e com e organizações 
+governamentais e não governamentais sub-regionais.
+139. Ainda que, dentro da UNESCO, o mandato para promo -
+ver e proteger se enquadre na autoridade de entidades 
+governamentais e intergovernamentais, a sociedade 
+civil será um importante ator na defesa dos interesses 
+do setor público e, portanto, a UNESCO deve assegurar 
+e promover sua legitimidade.44VIII. 
+Disposições 
+finais
+140. Esta Recomendação deve ser entendida como um todo, 
+e os valores e princípios fundamentais devem ser enten-
+didos como complementares e interrelacionados. 
+141. Nada nesta Recomendação pode ser interpretado no 
+sentido de substituir, alterar ou de outra forma prejudi-
+car as obrigações ou os direitos dos Estados de acordo com o direito internacional, ou como aprovação para 
+qualquer Estado, outro ator político, econômico ou so -
+cial, grupo ou pessoa se envolver em qualquer atividade 
+ou realizar qualquer ato contrário aos direitos humanos, 
+às liberdades fundamentais, à dignidade humana e à 
+preocupação com o meio ambiente e os ecossistemas, 
+tanto vivos como não vivos.Setor de Ciências Humanas e Sociais
+7, place de Fontenoy
+75352 Paris 07 SP France
+  ai-ethics@unesco.org
+  on.unesco.org/EthicsAI
+Siga-nos 
+@UNESCO #AI #HumanAI

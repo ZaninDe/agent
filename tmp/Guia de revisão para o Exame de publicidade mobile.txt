@@ -1,0 +1,518 @@
+Guia de revisão do Exame de 
+Publicidade mobileGuia de revisão do Exame de Publicidade mobileBem-vindo ao guia de revisão do Exame de Publicidade mobile, a 
+maneira perfeita de se preparar para seu Exame de Publicidade mobile. Abordaremos tudo: como funcionam os dispositivos 
+móveis, tendências e oportunidades em dispositivos móveis , 
+definição de lances e segmentação, anúncios para dispositivos 
+móveis, avaliações e muito mais. Esse recurso útil é uma versão reduzida do Guia de estudo completo do Exame de Publicidade 
+mobile, que está disponível na Central de Ajuda do Google Partners. Lá, você também encontra informações adicionais e muitos links úteis. 
+Lembre-se de que o Exame de Publicidade mobile abrange os conceitos básicos e 
+avançados, incluindo os princípios básicos dos dispositivos móveis, estratégias de 
+lances e segmentação, anúncios para dispositivos móveis e soluções de avaliação. 
+Você precisa responder a 70 questões de múltipla escolha ou do tipo verdadeiro/falso . O limite de tempo é de 90 minutos , e é necessário atingir a pontuação 
+mínima para aprovação de 80% . Para se tornar certificado no Google AdWords, 
+você precisará ser aprovado nestes exames: Fundamentos de AdWords e Exame de Publicidade mobile. Guia de revisão do Exame de Publicidade mobileMódulo 1  visão geral dos dispositivos móveis
+1.1 Comportamento do consumidor e o impacto dos dispositivos móveis
+1.1.1 Tendências e oportunidades em dispositivos móveis
+1.1.2 Como os consumidores tomam decisões
+1.2 Como os dispositivos móveis podem atingir os objetivos dos anunciantes
+1.2.1 Promover um aplicativo
+1.2.2 Promover chamadas
+1.2.3 Impulsionar as vendas on-line
+1.2.4 Impulsionar as vendas da loja
+1.2.5 Gerar reconhecimento
+1.3 Pontos de venda do Google
+1.4 Práticas recomendadas
+1.4.1 Importância de um site para dispositivos móveis
+1.4.2 Necessidades no site para dispositivos móveis
+1.4.3 Insights de design do aplicativo
+Módulo 2  lances e segmentação
+2.1 Ajuste de lance para dispositivos móveis
+2.2 Palavras-chave
+2.3 Segmentação
+2.4 Estratégias de lances específicas para dispositivos móveis
+2.5 RemarketingMódulo 3  anúncios para dispositivos móveis
+3.1 Visão geral das redes: Display, Pesquisa, YouTube
+3.2 Extensões de anúncio
+3.3 Formatos de anúncio
+3.4 Rede de Display para dispositivos móveis
+3.5 Intersticial/vídeo
+3.6 Promoção de aplicativos3.7 Engajamento no aplicativo
+Módulo 4 avaliação
+4.1 Valor total dos dispositivos móveis
+4.2 Qual é a diferença entre o Google AdWords para  
+dispositivos móveis e para computadores4.3 Como avaliar o sucesso nos dispositivos móveis
+4.4 Acompanhamento de conversões de aplicativos
+4.5 Acompanhamento de conversões de chamada
+4.6 Análises de dispositivos móveis com terceiros
+4.7 Integração do Google Analytics
+4.8 RelatóriosVeja a seguir o que abordaremos neste guia de revisão:Módulo 1 visão geral dos dispositivos móveisGuia de revisão do Exame de Publicidade mobile  |  Módulo 1  1.1 Comportamento do consumidor e o impacto 
+dos dispositivos móveis
+O consumidor que usa dispositivos móveis
+Cada vez mais pessoas estão utilizando vários tipos de dispositivos móveis. O número 
+de smartphones continua aumentando à medida que dispositivos e planos de dados 
+mais acessíveis chegam ao mercado. Como resultado, os consumidores agora podem 
+usar smartphones, tablets e computadores para interagir com as empresas dia e noite e 
+de qualquer lugar, seja em casa, no trabalho ou no ônibus.
+Como atender o consumidor que usa dispositivos móveis
+Todas as marcas precisam pensar muito no que significa atender os clientes que usam 
+dispositivos móveis. A vontade de adaptar uma estratégia focada no computador para 
+dispositivos móveis pode ser forte, mas deve ser evitada.
+O consumidor local que usa dispositivos móveis
+Seus futuros clientes estão literalmente muito próximos, e os dispositivos móveis 
+podem levá-los até você. Na verdade, quatro em cada cinco consumidores utilizam 
+mecanismos de pesquisa para encontrar produtos, serviços ou experiências nas 
+proximidades. Eles fazem pesquisas locais onde quer que estejam: 84% deles usam mecanismos de pesquisa no computador ou tablet, e uma porcentagem ainda maior 
+(88%) de consumidores faz isso no smartphone (fonte). Saiba mais sobre  
+o consumidor que usa dispositivos móveis »
+1.1.1 Tendências e oportunidades em dispositivos móveis
+Tendências em dispositivos móveis
+Use o Consumer Barometer para saber mais sobre o mundo multitelas, o comprador 
+inteligente e o observador inteligente. O mundo multitelas tem o objetivo de quantificar 
+e entender o uso da Internet e as atitudes em vários dispositivos. O comprador 
+inteligente foca na jornada de compra do consumidor e no papel da Internet na tomada 
+de decisões de compra. O observador inteligente fornece informações sobre como as 
+pessoas usaram o vídeo on-line recentemente em diferentes dispositivos.
+A oportunidade em dispositivos móveis
+Com os dispositivos móveis, as oportunidades de os clientes entrarem em contato com 
+você ou com um concorrente aumentaram. Isso, por sua vez, abriu novas oportunidades de conversão. Uma conversão em dispositivos móveis pode ser registrada quando um cliente enche o carrinho de compras on-line e finaliza a compra, pesquisa o trajeto 
+até a loja ou liga diretamente para sua empresa. Ela também pode acontecer quando 
+uma pessoa visita uma loja, faz o download de um aplicativo, que gera uma compra, ou quando ela inicia um processo de compra no dispositivo móvel e o conclui em um 
+computador ou tablet mais tarde no dia. Saiba mais sobre tendências e oportunidades 
+em dispositivos móveis »
+1.1.2 Como os consumidores tomam decisões
+Quando, onde e como um cliente pode pesquisar seus produtos têm crescido de 
+forma exponencial. Os dispositivos móveis oferecem aos consumidores muitos 
+novos momentos de pesquisa e descoberta. Isso, por sua vez, oferece muitas novas 
+oportunidades para os clientes se conectarem com sua marca. No Google, observamos 
+que os picos de uso de tablets e computadores ocorrem à noite, em casa. Por outro 
+lado, o uso de dispositivos móveis está distribuído de forma mais uniforme ao longo do 
+dia e em muitos outros contextos (seja com as pessoas indo de um lugar para outro, 
+durante o horário de trabalho ou em casa). Saiba mais sobre como os consumidores 
+tomam decisões  » 
+O desafio da transparência dos preços
+Um aspecto adicional que afeta a maneira como os consumidores tomam decisões ao 
+usar dispositivos móveis é o preço. A transparência dos preços é generalizada no atual 
+cenário do varejo. 
+O uso de telefones celulares nas lojas tem causado um fenômeno chamado “visita 
+ao showroom”, que transforma lojas físicas em showrooms de produtos que são comprados on-line ou por dispositivos móveis. Guia de revisão do Exame de Publicidade mobile  |  Módulo 1  1.2  Como os dispositivos móveis podem atingir os 
+objetivos dos anunciantes
+Os dispositivos móveis podem ser uma ferramenta eficiente para atingir os objetivos 
+dos anunciantes. Esta seção mostra como os dispositivos móveis podem ajudar você a 
+promover seu aplicativo, promover chamadas para sua empresa, impulsionar os leads ou 
+as vendas on-line, impulsionar as vendas na loja e ajudar a gerar reconhecimento.
+1.2.1 Promover um aplicativo
+Os aplicativos oferecem maneiras únicas de engajamento com seus melhores clientes, incluindo o contato por meio de redes sociais e jogos. Eles podem ajudar na experiência 
+off-line, incentivando o comércio eletrônico e a lealdade.
+Há alguns pontos a serem considerados quando se trata de promover seu aplicativo,  
+por exemplo, como:
+• Impulsionar sua descoberta e instalação 
+• Impulsionar o engajamento 
+• Levar os usuários de volta para ele, depois de instalado
+• Identificar os clientes que você quer trazer de volta
+• Impulsionar a conversão dos seus clientes mais valiosos
+• Melhorar as avaliações e a segmentação de clientes.
+Saiba mais sobre como promover um aplicativo » 
+1.2.2 Promover chamadas
+Como promover chamadas
+A primeira etapa para ter sucesso com as chamadas é facilitar a conexão dos seus 
+clientes com você em todos os canais (por exemplo, pesquisa, website, aplicativo etc.) As 
+extensões de chamada permitem que seus clientes “cliquem para ligar” diretamente de 
+anúncios da Rede de Pesquisa. Utilize anúncios só para chamadas, se você tiver como meta principal a geração de chamadas.  
+Avaliações
+Em seguida, você precisa avaliar o desempenho das chamadas e determinar quais  
+campanhas estão gerando os melhores resultados.  Isso inclui:
+• Avaliar conversões
+• Utilizar os dados de desempenho para otimizar o desempenho dos seus anúncios
+• Utilizar estratégias de lances flexíveis para otimizar os lances automaticamente
+Os números de encaminhamento de chamadas do Google permitem gerar relatórios de 
+chamadas avançados. As chamadas são encaminhadas para sua empresa por meio de 
+um número dinâmico de encaminhamento de chamadas do Google.
+Quando você configura suas extensões de chamada, pode ativar números de 
+encaminhamento de chamadas do Google para permitir a avaliação do desempenho. 
+Encaminhamos a chamada por meio de um número único (na verdade, números 
+diferentes para cada campanha, grupo de anúncios, anúncio e palavra-chave) de 
+maneira simplificada para o usuário. Saiba mais sobre como promover e avaliar 
+chamadas »
+1.2.3  Impulsionar as vendas on-line
+Seja relevante para se engajar em novos contextos de consumo
+Torne-se relevante para os consumidores que usam dispositivos móveis com os 
+formatos de anúncio certos. Use lances com base no contexto com o intuito de exibir 
+seus anúncios para os clientes de maneira mais segmentada.
+Compreenda e contabilize todas as conversões em dispositivos móveis
+É essencial contabilizar todas as conversões em dispositivos móveis para evitar o 
+subinvestimento nesses dispositivos. Além das conversões que começam e terminam no seu site para dispositivos móveis, você deve contabilizar aquelas de sessões em 
+dispositivos diferentes e as chamadas provenientes de ações de clique para ligar. É 
+importante também contabilizar as conversões de visitas à loja e as compras facilitadas 
+por pesquisas do localizador de lojas em smartphones, além das conversões que 
+ocorrem no aplicativo para dispositivos móveis. Saiba mais sobre como impulsionar as 
+vendas on-line »Guia de revisão do Exame de Publicidade mobile  |  Módulo 1  1.2.4  Impulsionar as vendas do varejo
+Os dispositivos móveis mudaram a experiência digital, especialmente no varejo local.  
+É um erro presumir que, como é muito fácil para os consumidores comprar itens on-line, 
+as visitas às lojas locais são menos importantes.
+Há quatro maneiras de impulsionar as vendas do varejo:1. Segmentar consumidores nos locais certos
+2. Direcioná-los para sua empresa com o anúncio certo
+3. Avaliar o impacto off-line do seu gasto on-line
+4. Otimizar com foco no desempenho do omnichannel
+Saiba mais sobre como  impulsionar as vendas da loja  »
+1.2.5 Gerar reconhecimento
+Gerar reconhecimento significa ajudar os clientes a conhecer sua marca e o que você 
+oferece. Trata-se de garantir que as pessoas vejam e se lembrem da sua marca quando 
+chegar a hora de avaliar a possibilidade de realizar uma compra.
+Quando você souber como e onde seu público-alvo está passando o tempo, não será 
+suficiente apenas exibir sua campanha on-line nesses websites. Um estudo recente  
+constatou que 56% de todas as impressões não são visualizadas. 
+Tenha estas quatro etapas em mente para criar o reconhecimento da sua marca:
+1. Conte uma história melhor com anúncios atraentes: vídeos são uma ótima 
+maneira de chamar a atenção do seu público-alvo e garantir que ele veja sua marca 
+e se lembre da mensagem dela.
+2. Escolha onde você deseja alcançar seu público-alvo: em seguida, escolha a segmentação de modo a encontrar o conteúdo certo e comprá-lo de maneira 
+eficiente para alcançar as pessoas certas no momento certo.
+3. Pague somente quando seu anúncio ficar visível: compre impressões visíveis para que todas as impressões sejam contabilizadas.4. Avalie e otimize com base em métricas reais e importantes da marca:  conecte-se 
+mais com seu público-alvo e avalie o que é importante. Desse modo, você pode ter certeza de que suas campanhas estão em exibição da maneira mais eficiente 
+possível. 
+Learn more about how to build awareness »
+1.3 Pontos de venda do Google
+Há cinco maneiras principais pelas quais a plataforma do Google pode ajudar os anunciantes: 
+1. Alcance dos dispositivos móveis: o Google tem um alcance global em todo o 
+cenário dos dispositivos móveis. Ele é o principal mecanismo de pesquisa em 
+dispositivos móveis, possui uma rede de aplicativos para dispositivos móveis com 
+mais de 650.000 aplicativos (fonte) e sua Rede de Display na Web para dispositivos 
+móveis tem mais de 500.000 sites otimizados para dispositivos móveis na GDN 
+(fonte).
+2. Formatos de anúncio para promover o engajamento e gerar valor: o Google permite 
+que você alcance seu público-alvo (intenção) e que os anunciantes alcancem esse público-alvo onde quer que ele esteja na Web (contexto), não apenas em um único 
+aplicativo.
+3. ROI focado no desempenho e no acompanhamento: o Google pode avaliar muitas das ações valiosas dos clientes, independentemente do dispositivo ou canal que as 
+gerou. Ele também pode avaliar as ações em dispositivos móveis que os usuários 
+realizam em vários canais e dispositivos.
+4. Integração com o Google Play para acompanhamento e segmentação: como o Google tem sua própria loja de aplicativos, o Google Play, você tem insights 
+exclusivos e segmentação personalizada.
+5. Transparência de inventário: o Google tem uma filosofia aberta em relação à Google Play Store e ao mercado de aplicativos, proporcionando visibilidade dos aplicativos dos anunciantes.
+Saiba mais sobre os pontos de venda do Google  »Guia de revisão do Exame de Publicidade mobile  |  Módulo 1  1.4  Práticas recomendadas
+As práticas recomendadas abaixo fazem parte da série de práticas recomendadas do 
+Google , que fornece orientações sobre táticas de marketing de mecanismos de pesquisa 
+para que você aproveite ao máximo o Google AdWords.  
+• Dicas para smartphones
+• Sobre as instalações de aplicativos para dispositivos móveis
+• Sobre o engajamento de aplicativos para dispositivos móveis
+• Contato eficiente por telefone
+Saiba mais sobre as práticas recomendadas do Google  para embasar suas estratégias 
+de pesquisa paga.
+1.4.1 Importância de um site para dispositivos móveis
+Embora os aplicativos possam aprofundar as relações com os clientes fiéis, a maioria 
+do seu tráfego provavelmente é proveniente da Web. Os aplicativos precisam ser 
+desenvolvidos para plataformas específicas. Já um website para dispositivos móveis 
+pode ser acessado por todos os usuários em todos os tipos de tela. Portanto, ter apenas 
+um aplicativo não é o mesmo que ter uma estratégia para dispositivos móveis.
+Se você precisar priorizar um aplicativo ou um site para dispositivos móveis, a primeira 
+etapa deverá ser a criação de um website otimizado para dispositivos móveis. Depois  
+que seu site estiver no ar, lance um aplicativo para dispositivos móveis para seus  
+usuários fiéis.
+1.4.2 Necessidades no site para dispositivos móveis
+Websites otimizados para dispositivos móveis
+As experiências otimizadas para dispositivos móveis normalmente apresentam 
+navegação simplificada, imagens de carregamento rápido e texto simplificado. Sites para 
+dispositivos móveis que são bem-sucedidos reduzem ou eliminam a necessidade de 
+rolagem ou digitação e possuem grandes áreas de toque que levam em consideração a falta de precisão em uma tela sensível ao toque. 1.4.3 Design de aplicativos e insights sobre lançamento
+Depois que você cria um site para dispositivos móveis, o próximo passo é começar a usar aplicativos para fortalecer sua relação com os usuários. Veja a seguir os principais 
+pontos a serem lembrados quando você trabalhar com um aplicativo de marca:
+• Ofereça aos usuários entretenimento, utilidade ou ambos
+• Crie seu aplicativo para as maiores plataformas para dispositivos móveis
+• Avalie a possibilidade de desenvolver aplicativos “híbridos” que funcionem em 
+smartphones e tablets
+• Crie uma experiência “feita para o aplicativo” em vez de transferir seu website para dispositivos móveis para um aplicativo
+• Promova seu aplicativo para expandir sua base de usuários
+• Pense no que ocorrerá após a instalação
+Saiba mais sobre insights de design do aplicativo »
+Diretrizes de aplicativos
+Veja mais orientações sobre como você pode continuar a investir e manter seu aplicativo.
+Avaliações 
+GerenciamentoMódulo 2 lances e segmentaçãoGuia de revisão do Exame de Publicidade mobile  |  Módulo 2  2.1 Ajuste de lance para dispositivos móveis
+Assim como nas campanhas do Google AdWords para computador, as campanhas 
+para dispositivos móveis usam lances e segmentação para determinar onde e quando 
+seu anúncio é exibido. Algumas vezes, um clique será mais valioso para você se for 
+proveniente de um dispositivo móvel, em determinado horário do dia ou de locais 
+específicos. Ao configurar os ajustes de lance, você pode aumentar ou diminuir seus 
+lances com o objetivo de ter maior controle sobre quando e onde seu anúncio é exibido.
+Como configurar o lance para dispositivos móveis
+1. Na guia “Campanhas”, clique em “Segmentar” e escolha “Dispositivo”.    
+2. Escolha campanhas com dados suficientes para gerar resultados consistentes (90 
+dias e mais de 20 conversões em dispositivos móveis e computadores).
+3. Encontre a taxa de conversão em computadores e a taxa de conversão em dispositivos móveis usando a coluna “Estimativa do total de conversões”.
+4. Divida a taxa de conversão em dispositivos móveis pela taxa de conversão em computadores -1
+Lembre-se da fórmula do lance para dispositivos móveis:lance para dispositivos móveis = (taxa de conversão em dispositivos móveis/taxa de 
+conversão em computadores) - 1 
+Mais informações sobre os ajustes de lance para dispositivos móveis e como 
+configurar lances para dispositivos móveis » 
+2.2 Palavras-chave
+Assim como nas campanhas para computador, é importante que os anunciantes 
+planejem uma estratégia de palavra-chave para que sua campanha seja bem-sucedida. 
+Eles podem usar o Planejador da Rede de Display ou o Planejador de palavras-chave para 
+as campanhas da Rede de Pesquisa e Display. Saiba mais sobre as palavras-chave »
+2.3 Segmentação
+Segmentação de aplicativos
+Os anunciantes podem exibir seus anúncios em aplicativos para alcançar um público-
+alvo que usa celulares e tablets. Eles podem usar o Google AdWords para corresponder 
+anúncios a aplicativos por meio da Rede de Display ou optar por segmentar 
+determinadas categorias de aplicativos. Como segmentar seus anúncios para que eles sejam exibidos na Pesquisa do Google  
+e em sites parceiros de pesquisa
+Segmente seus anúncios de texto na Pesquisa do Google e na Rede de Pesquisa do 
+Google usando:
+• Segmentação por palavra-chave
+• Segmentação por local e idioma
+• Segmentação por dispositivo.
+Como segmentar seus anúncios para que eles sejam exibidos em websites parceiros 
+do Google
+Segmente seus anúncios gráficos e de texto na Rede de Display do Google  usando:
+• Segmentação contextual
+• Segmentação por palavra-chave
+• Segmentação por tópico
+• Segmentação por canal
+• Segmentação por público-alvo
+• Segmentação por dispositivo
+Saiba mais sobre como segmentar seus anúncios  »
+2.4 Estratégias de lances específicas para disposi -
+tivos móveis
+Dispositivos móveis e computadores geram valores diferentes por campanha. É 
+importante ajustar seu lance para cada campanha com base no valor gerado pelos 
+dispositivos móveis. Use os dados de conversão para avaliar qual canal gera mais valor.   
+Saiba mais sobre as estratégias de lances específicas para dispositivos móveis »
+2.5 Remarketing
+Com o remarketing de aplicativos, os anunciantes podem segmentar os usuários que 
+já usaram seu aplicativo. Alguns dos usos do remarketing de aplicativos incluem: exibir 
+anúncios de engajamento do aplicativo anunciando um novo recurso para os usuários 
+atuais dele, lembrar os usuários que fizeram o download de um aplicativo, mas não o 
+utilizaram recentemente e incentivar os usuários a fazer upgrade para a versão mais  
+recente do seu aplicativo. Saiba mais sobre o remarketing  »Módulo 3 anúncio para dispositivos móveisGuia de revisão do Exame de Publicidade mobile  |  Módulo 3   3.1 Visão geral das redes: Display, Pesquisa, 
+YouTube
+Veja rapidamente como os anunciantes usam as Redes de Pesquisa, de Display e do 
+YouTube para seus aplicativos para dispositivos móveis.
+3.2 Extensões de anúncio
+As extensões de anúncio são um tipo de formato de anúncio  que exibe informações 
+adicionais (uma “extensão” dos anúncios de texto) sobre sua empresa. Algumas delas 
+podem ser adicionadas manualmente, e outras são automatizadas.
+Os tipos mais comuns de extensões para dispositivos móveis são as extensões de 
+chamada, de local, de aplicativo e de sitelinks. Saiba mais sobre as extensões de anúncio  »
+3.3 Formatos de anúncio
+Depois que você souber onde os anunciantes podem exibir anúncios, explore os tipos de 
+anúncios para dispositivos móveis que poderá exibir »
+3.4 Rede de Display para dispositivos móveis
+O Google oferece uma variedade de formatos de peças criativas flexíveis para atender às 
+necessidades de marca dos anunciantes:
+•Anúncios lightbo
+x
+•Anúncios de CPM visív
+eis
+•Anúncios gr
+áficos no aplicativo
+3.5 Intersticial/vídeo
+Oferta de vídeo do Google em dispositivos móveis
+O Google oferece vários formatos de vídeo para atender às necessidades de marca dos 
+anunciantes. Os formatos a seguir são exibidos perfeitamente em vários tipos de tela:• Masthead de vídeo: incluindo inter
+atividade opcional
+• Anúncios 
+TrueView In-stream: anúncios precedentes e intermediários puláveis,
+incluindo recursos de interatividade opcionais
+• Anúncios in-str
+eam de reserva: anúncios precedentes e intermediários puláveis
+(in-stream selecionados) e não puláveis (in-stream padrão) de reserva
+•Anúncios TrueView de descoberta de vídeos: modelo de banner com miniatura 
+em vídeo e  descrição de texto que impulsiona a página de exibição de vídeo do 
+YouTube.
+Saiba mais sobre a oferta de vídeo do Google em dispositivos móveis em mais 
+detalhes. 
+3.6 Promoção de aplicativos
+Os anúncios de promoção de aplicativo permitem que os anunciantes adicionem 
+um link diretamente para a Google Play Store de modo que os clientes possam fazer o download do aplicativo com rapidez e facilidade. Para garantir que eles alcancemclientes em potencial no lugar e no momento certos, exibimos anúncios de promoção de aplicativo apenas em dispositivos nos quais é possível instalar o aplicativo (apenas na Rede de Pesquisa).
+Se um anunciante usar um anúncio de promoção de aplicativo, é mais provável que ele 
+use o formato de anúncio de instalação de aplicativo. Eles são uma parte importante das campanhas de “instalações de aplicativos para dispositivos móveis”. Você pode saber mais sobre elas aqui, além dos tipos de campanhas de promoção de aplicativos nas Redes de Display, de Pesquisa e do YouTube.
+Quando usar uma extensão de aplicativo x um anúncio de promoção de aplicativo:•
+Para palavras-chave que você realmente quer usar com o intuito de impulsionar
+downloads de aplicativos, use os anúncios de promoção de aplicativo.
+• Para palavras-chave que deverão continuar direcionando usuários ao website paradispositivos móveis, mas que deverão oferecer aos usuários a opção de fazer odownload do aplicativo, use as extensões de aplicativo.Guia de revisão do Exame de Publicidade mobile  |  Módulo 3   3.7 Engajamento no aplicativo
+As campanhas de engajamento nos aplicativos para dispositivos móveis são uma 
+ótima opção para anunciantes que desejam engajar usuários novamente. Elas 
+permitem que os anunciantes exibam anúncios personalizados para as pessoas que 
+já possuem o aplicativo e, portanto, atraiam os usuários novamente para ele. Com 
+esses tipos de anúncios, é possível ter flexibilidade para a contagem de conversões, 
+lances e segmentação.
+É extremamente importante para o anunciante engajar novamente um cliente que já 
+fez o download do aplicativo para impedir que ele seja abandonado. Com os anúncios 
+de engajamento no aplicativo, os anunciantes podem exibir anúncios personalizados 
+para as pessoas que já possuem o aplicativo e, portanto, atrair os usuários 
+novamente para ele.
+As campanhas de engajamento no aplicativo na Rede de Pesquisa ajudam a exibir 
+anúncios nos resultados de pesquisa em celulares e tablets para pessoas que já 
+instalaram um aplicativo. 
+O engajamento em aplicativos também permite cliques em “links diretos” para uma 
+página/seção específica do aplicativo. Os links diretos são um tipo de URL de destino 
+em um anúncio que leva as pessoas para uma página específica em um aplicativo.
+Saiba mais sobre o engajamento no aplicativo, incluindo campanhas das Redes de 
+Pesquisa e Display, além de links diretos e indexação de aplicativos » Módulo 4 avaliaçãoGuia de revisão do Exame de Publicidade mobile  |  Módulo 44.1 Valor total dos dispositivos móveis
+Valor total dos dispositivos móveis e conversões não acompanhadas
+Quando um consumidor não usa um celular para todas as etapas do funil de compra, o 
+Google AdWords não consegue acompanhar e atribuir essa conversão ao dispositivo.  
+Isso pode ocorrer de quatro maneiras:
+1. Em dispositivos diferentes  
+2. Em chamadas
+3. Na loja  
+4. No aplicativo
+Conversões não acompanhadas ocorrem em todos os dispositivos. No entanto, 
+os celulares geralmente tendem a ter mais conversões não acompanhadas, em 
+comparação com outros dispositivos, por diversos motivos. Dois deles são: tamanho  
+de tela pequeno e sites não otimizados para celular. Saiba mais sobre o valor total dos 
+dispositivos móveis e dispositivos não acompanhados  »
+Qual é o valor total dos dispositivos móveis?
+Para o valor total dos dispositivos móveis (FVOM, na sigla em inglês), as conversões 
+nesses dispositivos são mais do que apenas comércio em dispositivos móveis, e as 
+conversões na loja, por meio de uma chamada ou no computador, podem ter tido 
+origem em um celular.
+O FVOM também é uma maneira de estimar a quantidade de conversões perdidas e 
+avaliar corretamente o valor dos dispositivos móveis. A não atribuição de conversões 
+perdidas subestima os dispositivos móveis devido à sua característica de assistência 
+(como conversões de chamada e na loja).
+Como acessar o valor total dos dispositivos móveis?
+Criamos uma ferramenta simples e intuitiva com a qual você pode inserir a quantidade 
+estimada de conversões perdidas e receber um ajuste de lance para dispositivos móveis 
+recomendado com base no valor total dos dispositivos móveis. Saiba qual é o valor 
+total dos dispositivos móveis para sua empresa com a  Calculadora de valor total »4.2 Qual é a diferença entre o Google AdWords 
+para dispositivos móveis e para computadores
+Os dispositivos móveis acrescentam ações novas e valiosas dos clientes, incluindo 
+downloads de aplicativos, chamadas e visitas à loja. Com o Google AdWords 
+para dispositivos móveis, é possível avaliar essas ações para ver o valor total dos 
+dispositivos móveis e tomar decisões melhores sobre o orçamento.
+Ao adaptar a avaliação para dispositivos móveis, pergunte qual é o valor de chamadas, 
+downloads de aplicativos, visitas à loja e conversões em dispositivos diferentes para 
+sua empresa.
+• O valor dessas ações varia?
+• A taxa de sucesso delas varia?
+• Quais ações em dispositivos móveis você deseja que os clientes realizem?
+Use os dados gerados por essas conversões para ajustar a forma como você define 
+lances para dispositivos móveis com a finalidade de maximizar o valor deles.
+Acompanhamento de conversões
+O acompanhamento de conversões pode ajudar você a avaliar a eficiência dos cliques 
+nos anúncios para gerar atividades valiosas dos clientes, como compras no website, 
+chamadas telefônicas, downloads de aplicativos, inscrições em boletins informativos e 
+muito mais.
+Tipos de ações de conversão:
+• Conversões do website
+• Conversões de aplicativos
+• Telefones: chamadas, número de encaminhamento de chamadas do Google, cliques  
+ em números de telefone
+• Importações: conversão off-line
+Saiba mais sobre o acompanhamento de conversões , suas vantagens, os diferentes 
+tipos de ações e como configurar recursos de acompanhamento avançado de 
+conversões.Guia de revisão do Exame de Publicidade mobile  |  Módulo 44.3 Como avaliar o sucesso nos dispositivos móveis
+Há dois tipos de acompanhamento de conversões de aplicativos: conversões de  
+download de aplicativos e conversões no aplicativo.
+1. Os downloads de aplicativos são acompanhados quando um usuário faz o download  
+de um aplicativo para dispositivos móveis ou o instala pela primeira vez. 
+2. As conversões no aplicativo são acompanhadas quando um usuário realiza uma ação 
+específica em um aplicativo para dispositivos móveis.
+Leia nossa breve visão geral do que é tido como uma conversão nas redes do Google  »
+4.4 Acompanhamento de conversões de aplicativos
+É fundamental que você comece a avaliar e atribuir valor a todas as conversões em dispositivos móveis, não apenas a pedidos de comércio eletrônico que ocorrem no  
+seu site para dispositivos móveis. Desse modo, você evita o subinvestimento em 
+dispositivos móveis.
+Um aspecto importante das conversões em dispositivos móveis é a configuração de 
+aplicativos de modo que você acompanhe todas as conversões, incluindo inscrições 
+para compras, chamadas telefônicas, downloads de aplicativos e inscrições em boletins 
+informativos. Oferecemos soluções diferentes de acordo com seu aplicativo (para  
+Android ou iOS). 
+Saiba mais sobre o acompanhamento de conversões de aplicativos e como  
+implementá-lo no Android e no iOS.
+4.5 Acompanhamento de conversões de chamada
+Use o acompanhamento de conversões para descobrir como: 
+• Anúncios eficazes com extensões de chamada geram chamadas telefônicas
+• Suas palavras-chave, anúncios, grupos de anúncios e campanhas estão funcionando 
+para sua empresa
+• Investir de maneira mais inteligente e impulsionar o retorno do investimento (ROI, na sigla em inglês).
+• O acompanhamento de conversões também permite que você aproveite as estratégias de lances flexíveis avançadas, como o custo por aquisição (CPA) desejado e o retorno do investimento em publicidade (ROAS) desejado, ferramentas que podem ajudar a 
+otimizar as campanhas de acordo com suas metas de negócios.
+Links relacionados
+Uso do acompanhamento de conversões de chamadas telefônicas
+Configuração do acompanhamento de conversões
+4.6 Análises de dispositivos móveis com terceiros
+Integrações de terceiros
+Empresas terceirizadas de análise de aplicativos desempenham um papel importante 
+para anunciantes e desenvolvedores de aplicativos. Essas empresas fornecem um 
+serviço semelhante ao Google Analytics, porém especificamente destinado a aplicativos para dispositivos móveis. Além de relatórios sobre análise de uso básico, esses serviços 
+informam aos anunciantes e desenvolvedores de aplicativos quais dos seus novos usuários 
+são provenientes de cliques ou visualizações de publicidade recentes.
+Saiba mais sobre o acompanhamento de conversões com terceiros no Android »
+Saiba mais sobre o acompanhamento de conversões com terceiros no iOS »
+Acesse o Guia do desenvolvedor do Google  para saber mais sobre as práticas 
+recomendadas ao configurar o acompanhamento de conversões com um terceiro.
+Acompanhamento de uso
+Geralmente, terceiros coletam dados de uso primeiro e depois compartilham esses dados 
+com o Google enviando um ping entre servidores. Então, o Google poderá aproveitar os 
+dados de uso para referência futura. Pings S2S para informar dados de uso funcionam 
+também para clientes que usam um sistema de acompanhamento interno, em vez de um 
+sistema de terceiros.
+É importante lembrar que o Google contabiliza o uso com base na hora em que o ping é 
+enviado. Portanto, se o ping não for enviado em tempo real, os dados de uso serão apenas 
+aproximados.
+Saiba mais sobre o acompanhamento de uso com terceiros no Android  »
+Saiba mais sobre o acompanhamento de uso com terceiros no iOS »Guia de revisão do Exame de Publicidade mobile  |  Módulo 44.7 Integração do Google Analytics
+O Google Analytics é uma maneira excelente de avaliar as atividades dos visitantes 
+no seu aplicativo ou website para dispositivos móveis. Trata-se de uma ferramenta de 
+análise digital eficiente que você pode usar para descobrir informações importantes, por 
+exemplo: quantas pessoas acessam seu site? Quanto tempo elas passaram nele? Qual 
+é a origem delas? E muito mais. 
+O Google Analytics pode ajudar você a entender como os clientes interagem com seu 
+site, não apenas quando eles realizam uma conversão. Veja alguns exemplos dos insights que você pode descobrir com os relatórios do Google Analytics: 
+• Os Relatórios de público-alvo informam mais sobre os tipos de visitantes que 
+acessam seu aplicativo ou site (por informações demográficas, local, idioma, 
+dispositivos etc). Use essas informações para criar anúncios mais segmentados e 
+atrair os tipos certos de visitantes.
+• Com os Relatórios de aquisição, você pode comparar o tráfego de diferentes origens, desde sua campanha do Google AdWords até origens que não são do 
+Google AdWords. Use essas informações para investir seu orçamento em origens que enviam tráfego de alta qualidade.
+• Os Relatórios de comportamento podem ajudar você a melhorar o conteúdo do site para que ele atenda melhor às necessidades e expectativas dos visitantes. Por 
+exemplo, é possível saber com que frequência cada página foi visualizada ou se as 
+pessoas saíram do site imediatamente.
+Saiba mais sobre a integração do Google Analytics  »
+4.8 Relatórios
+Veja um resumo do desempenho do aplicativo
+O Relatório de visão geral do aplicativo é um resumo dos dados mais evidentes de todos 
+os relatórios do Mobile App Analytics. Use esse relatório para avaliar a integridade geral 
+do seu aplicativo e seguir as tendências de dados das principais áreas de relatórios:  
+Aquisição, Público-alvo, Comportamento, e Comportamento. O Relatório de visão geral 
+do aplicativo é o relatório padrão para propriedades de aplicativo.
+Saiba mais sobre os relatórios  »Saiba mais sobre as características dos usuários de dispositivos móveis
+Com os Relatórios de público-alvo, é possível conhecer as pessoas que usam seu 
+aplicativo: onde elas estão, com que frequência e por quanto tempo usam um 
+aplicativo e quais dispositivos são mais utilizados entre seus usuários. Com os dados 
+desses relatórios, você pode identificar novos mercados e melhorar o desempenho do 
+aplicativo.
+Descubra com que frequência seus aplicativos para dispositivos móveis são 
+instalados e abertos
+Os Relatórios de aquisição mostram dados sobre como os usuários encontram seu 
+aplicativo, incluindo o número total de novos usuários e os dispositivos e sistemas operacionais mais usados. Use esses relatórios para descobrir com que frequência 
+o download e a instalação do seu aplicativo são feitos e o grau de sucesso de 
+determinadas campanhas de marketing em atrair usuários.
+Use o Relatório de novos usuários para identificar características dos grupos de 
+usuários que adotaram seu aplicativo. O Relatório de origens pode ajudar a descobrir 
+quais canais você pode otimizar para atrair mais downloads e aberturas. O Relatório de 
+fluxo de referência do Google Play mostra os downloads e as instalações do aplicativo 
+realizados a partir da Google Play Store em uma visualização intuitiva e interativa.
+Acompanhe as maneiras detalhadas pelas quais os usuários interagem com  
+seu aplicativo
+Com os Relatórios de comportamento, você descobre como os usuários interagem com 
+seu aplicativo. Você pode usar esse grupo de relatórios para acompanhar uma grande 
+variedade de informações sobre os usuários, incluindo:
+• O número total de telas visualizadas por sessão
+• A ordem em que as telas foram visualizadas
+• O número de erros técnicos, incluindo falhas no aplicativo
+• O tempo que elementos individuais do aplicativo levam para serem carregados.Guia de revisão do Exame de Publicidade mobile  |  Módulo 4Conversões de aplicativos para dispositivos móveis: relatórios de metas e de comércio 
+eletrônico
+Encontre o valor real dos seus aplicativos para dispositivos móveis. Use os relatórios de 
+conversões para acompanhar objetivos de desempenho e de receita.
+As metas são uma maneira versátil de avaliar o desempenho do aplicativo de acordo com 
+objetivos personalizados e segmentados. Você pode definir metas individuais para acompanhar 
+ações discretas, como a duração mínima da sessão ou a conclusão de determinada fase em um jogo, e usar os relatórios para avaliar as taxas de conversão ou  
+de conclusão dessas ações.
+Com os Relatórios de comércio eletrônico, você pode acompanhar dados de compra no 
+aplicativo, incluindo vendas de produtos ou serviços, receita total e receita por transação. Você também pode acompanhar o número médio de sessões necessárias para concluir uma 
+transação.
+Para saber mais sobre qualquer um dos relatórios apresentados acima, leia estes artigos »
+Você está satisfeito com o que aprendeu? Faça o Exame de Publicidade mobile  »

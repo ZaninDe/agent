@@ -1,0 +1,75 @@
+Collaborative and Decentralised Solution for Global Sourcing
+YOOSourcing™What We DoYOOSourcing is a solution that brings trust and transparency to international trade.Our Goal1.To provide trust and transparency in the sourcing process with accurate track records of suppliers provided by players such as Quality Inspectors and 3rd Party Logistics.2.To provide a decentralised sourcing process and thereby reduce the cost of sourcing.
+copyright © Sourcing Technologies Holding Co., Ltd.
+Challenges in Global SourcingToo many options for sourcing. It is difficult to find the right suppliers.72%Communication problems. Too many tools for exchanging information.65%Trust issues because of quality problems in previous orders and/or with other suppliers. 58%Long response times from suppliers and offers don’t fit sourcing inquiries. 49%* Source: Survey conducted by our team. Sample size 150 international buyers 180 Chinese suppliersMain Challenges for Global Sourcing
+copyright © Sourcing Technologies Holding Co., Ltd.Sourcing Value ChainPlanSourceContractRequestApproveOrderExpediteManageReceivePayPre-SourcingSourcingPost-Sourcing
+Sourcing offices are cost centers for retailers. Improving and reducing the cost of sourcing directly affects the competitiveness of retailers. copyright © Sourcing Technologies Holding Co., Ltd.How YOOSourcing Can Solve the ProblemService ProvidersBuyersSuppliers•Protecting data by avoiding public social media and instant messaging tools. •Improving transparency of your suppliers. •Providing a decentralised sourcing. •Accelerating the sourcing process while reducing costs. •Creating opportunities to find the right supplier and service providers.Web/Mobile Platform that Streamlines the Sourcing Process
+copyright © Sourcing Technologies Holding Co., Ltd.Suppliers GeolocationVerified Pictures"Crowd verification” by Quality inspectors, auditors and other buyers Taken pictures are verified with the registered address of suppliers
+copyright © Sourcing Technologies Holding Co., Ltd.Company wallYou can see posts from: •Your teams •Your suppliers•Machine learning based Matching between buyers, suppliers and service providers
+New sourcing•You can easily manage groups of suppliers•Your sourcing inquiries are created as a new POST •You can control who can see your posts
+copyright © Sourcing Technologies Holding Co., Ltd.Instant Messaging•You own internal “WhatsApp”•Communication tool among your teams or between your merchandisers and suppliers •Group chat for each order or project•Text, voice, and video
+Rating System
+Buyers can rate and comment on suppliers based on previous orders
+copyright © Sourcing Technologies Holding Co., Ltd.Machine Learning
+Analyzing posts:•Image•Location•Who liked the post•What posts you liked•Comments
+Building profiles of buyers and suppliers for precise matching
+copyright © Sourcing Technologies Holding Co., Ltd.Privacy in transaction
+Data immutabilityQuantitative ratingToken economySmart-contract-enabled order transactionTraceability
+copyright © Sourcing Technologies Holding Co., Ltd.Blockchain Integration Empowers the PlatformQuality InspectionBuyersSuppliersBank Receipts3PL
+1Proof of Deposit
+2Proof of Production
+3Proof of Quality (under testing)
+4Proof of Shipment
+5Proof of Delivery
+6Proof of PaymentSmart ContractsPurchase Order
+copyright © Sourcing Technologies Holding Co., Ltd.All Transactions are Traceable with Smart ContractsTrust Index on Blockchain
+All orders placed between buyers and suppliers
+Rating System
+Crowd VerificationTRUST INDEX
+Credibility Index of SuppliersCredibility index of suppliersSmart contract  of all purchasesClassification of suppliersSuppliers will be classified based on their performanceCredibility of suppliersAccessible with private keys to: Banks, trade finance companies, and sourcing offices of retailersTraceability of suppliers Consumers can trace the source of the product and see the classification of the suppliercopyright © Sourcing Technologies Holding Co., Ltd.Proof of Quality (under testing)
+copyright © Sourcing Technologies Holding Co., Ltd.Token Economy
+Node ProvidersSuppliersBuyers
+Service ProvidersIn-app advertisementPay tokens / FiatReward with tokens for providing nodesIn-app advertisementPay tokens / FiatProvide servicesPay tokens/ FiatIn-app advertisement
+Crowd Verifiers
+Pay tokens / FiatReward with tokensVerify supplier locationsTokens are consumed and redistributed in a circular way. This circulation mechanism enables permanent operability of the YOOSourcing system 
+copyright © Sourcing Technologies Holding Co., Ltd.Token Use CaseBy implementing blockchain technology, we intend to make an immutable database, reward crowd verifiers and form a consortium blockchain that verifies transaction authenticity. Planned uses of token: 1.Node providers staking their tokens and getting rewards for participating in transaction confirmations2.Rewarding crowd verifiers3.Purchasing premium services at a discounted price
+copyright © Sourcing Technologies Holding Co., Ltd.Development plan 2019
+•Web App development•Blockchain smart contract phase 1 •Premium accounts
+•Sponsored posts•Instant translation in Chat and posts•Smart contract phase 2•YOOAgent (virtual purchasing agents)•Group video call with translators•Crowdsourced purchasing•YOOControl (quality control booking system)•Sourcing auction•Smart contrat phase 3•Sample ordering•Strategic partnership with Paypal for integration of cross-broder payment solutions.
+1st quarter 20193rd quarter 20194th quarter 2019
+copyright © Sourcing Technologies Holding Co., Ltd.2nd quarter 2019Public version for SMEs“white-label” versionfor medium / large sourcing offices
+Mobile app + web appBuyers-Primary target:Foreign owned sourcing offices in China and Hongkong-Secondary target:Small & Medium size importers (Europe, North / South America and Middle East)target marketSuppliers-Primary target:China and other SE Asian manufacturers-Secondary target:East Europe and AfricaService Providers- Mainly focused on China and SE Asian companies: Quality inspection, Trading companies, Trade Finance, Freight Forwarders…competition analysisFeaturesYOOSourcingOfferplusWokelinkShowSourcingTradeinCompany wall√√xx√Search engine√xxxxGeolocation of factories√xxxxCrowd verification of the location of factories√xxxxChat tool√√√x√Matching system√xxxxSharing information√√√√xRequest of quotation√√xxxQR code√√xxxOrder managementx√x√xRanking system of suppliers√xxxxBlockchain smart contracts√xxxxcompetition analysisFeaturesYOOSourcingOfferplusWokelinkShowSourcingTradeinTrust index of suppliers and buyersUnder developmentxxxxFeatures for buyers√√√√√Features for suppliers√xxx√Server accessibility from ChinaHighHighHighLowHighServer accessibility from outside ChinaHighLowLowHighLowMobile App√√√√√Web AppUnder testing√x√xIn-house software development√xxx√White-label version√xx√xPayment solutions for samplesUnder developmentxxxxQuality inspection bookingUnder developmentxxxxgo to market strategy
+1
+2
+3“white-label” version deployment for large sourcing officesFirst stage Their suppliers will use the public version of YOOSourcingLarge number of qualified suppliers in our databaseSecond stage: Increase the number of buyers Digital marketing, trade shows, specialised forums and conferencesuse case 1deployed
+Sourcing office of ERAM GROUP-French group specialised in garments and shoes-11 brands, 270 shops, 1200 employees-Sourcing office: 150 employees based in HongKong, Dongguan and Shanghai -300 active suppliers-No. 1 in the French market of shoesYOO+ERAM white label solution-Improve cross-department communication -Communication with suppliers-Manage Request For Quotation (RFQ)-Accelerate their sourcing process-Control information exchange with their suppliers
+use case 2Under  development
+LACOSTE Global Souring in HongKong- 90 employees in the sourcing team-60 active suppliers around the world-Strong engagement with CSRYOO+LACOSTE white label solution-Improve transparency of their suppliers-Communication with suppliers-Control information exchange with their suppliers-Geolocation of their suppliers-Verified pictures-Private / internal posts among different teams
+use case 3Under  developmentOMNIBRAND, German sourcing company based in HongKong, Turkey, Germany and Bangladesh - 50 employees in the sourcing team-110 active suppliers around the world-Communication issues with suppliers and among their teamsYOO+OMNIBRAND white label solution-Improve cross-department communication-Geolocation of their quality inspectors-Communication with suppliers-Control information exchange with their suppliers-Geolocation of their suppliers-Verified pictures
+Token Sale StructureToken Issuance Model and Sale StructureBasic Attributions of the TokenTicker SymbolYSTToken BackgroundERC-20Price Per TokenUSD 0.01Total Token IssuedYST 3,705,000,000Total Amount for SaleYST 1,852,500,000Acceptable currencies for the ICOFiat, BTC, ETH *other currencies will be addedHard Cap for the ICOUSD 15,000,000Token Sale StructureSale StagesBonusToken Sate PeriodPrivate Sale--Pre Sale (Stage1)20%5th January 2019 – 18th January 2019Pre Sale (Stage2)15%19th January 2019 – 1st February 2019Pre Sale (Stage3)10%2nd February 2019 – 15th February 2019Crowd Sale0%16th February 2019 – 15th May 2019* There might be a minimum participation price to be determined later
+copyright © Sourcing Technologies Holding Co., Ltd.Token Distribution and Use of FundsAllocation of Tokens
+Use of funds
+copyright © Sourcing Technologies Holding Co., Ltd.Sale50%MarketDevelopment15%Circulation Pool 10%Referral and Bounty Program5%Advisors5%YOOSourcingTeam15%Marketing35%Development50%Legal5%Operation10%Token Price Stabilization StrategiesWe may employ following strategies in order to stabilize the token price
+copyright © Sourcing Technologies Holding Co., Ltd.StrategiesOperations1.Lockup period for YOO team tokens allocation2.Lockup period for major investors3.Release of the token based on supply predictability4.Buffer token5.Market makersAll of YOOSourcing team tokens shall be locked for 2 years after issuance, and a scheduled release of the team tokens will be put in place.Some of the major investors will be subject to restrictions against immediately selling their tokens in order to prevent a price fall.A scheduled release, sold to the market to balance out increasing demand. Some of the tokens issued will be reserved by YOOSourcing and will be used to stabilize the price.In case of abrupt fluctuation in token price, we may or may not employ market makers to stabilize the token price and prevent further damages on YOOSourcing token economy.YOOSourcing Teams and AchievementsInternational Co-founders
+12 years experience in international trade in China. Successful startup development in IT industry.17 years experience in software and telecom.More than 14 years business experience in China. ICO expert.Expert in blockchain and development policies in China. 
+Milad Nouri CEOXu Jianhai COOChen Lingpeng CTOManmeet SinghNick Li Phd.
+Team of 10 based in Hangzhoucopyright © Sourcing Technologies Holding Co., Ltd.Advisory Board
+- Former President,Beaumanoir Group China. - Market development AdvisorStephane TorckIgnacio LopezBrice Berrard- Former Senior VP, Walmart Global sourcing-Product development Advisor- Managing Director,ERAM ASIA- Business development Advisorcopyright © Sourcing Technologies Holding Co., Ltd.-Executive Director, EMURGO- Blockchain AdvisorTakahiro Hoshi-Consulting Manager, EMURGO- Blockchain Advisor
+Yosuke Yoshida
+sponsored posts (q1 2019)revenue model
+~ 30% / totalpremium accounts (q3 2018)
+~ 30% / totaltrade services (Q4 2o18)
+~ 30% / totalCorporate version - Saas modele (already 2 clients, US $9K /Y each )
+~ 10% / total012,500,00025,000,00037,500,00050,000,000
+Year 1Year 2Year 3Year 4Year 5
+Numbers of Registered Uesrs
+T otal Revenue
+T otal CostEBITA Projection0750150022503000
+Jan 2017MarMayJulSepNovJan 2018MarMayJulSepNov
+Google Play
+Apple Store
+CN Android markets
+Google Play 31,67012% active users65% buyers, 35% suppliersAppStore 5,32511% active users32% suppliers, 68% buyersChinese Android stores11,3319% active users8% buyers, 92% suppliersdownloadsActive usersconnect once a week80% of users are out of China70% buyers25% suppliers5% service providersTraction6,033Monthly average320 posts (sourcing inquiries, products and services promotion)182 Matching (between buyers, suppliers and service providers)Awards
+copyright © Sourcing Technologies Holding Co., Ltd.Press
+copyright © Sourcing Technologies Holding Co., Ltd.Executive SummaryDescription YOOSourcing is a collaborative mobile solution for international trade. It allows better connection between buyers, suppliers and service providers across the globe. Problems -Trust and transparency between suppliers and buyers.  -High cost of sourcing -Communication issues Solution YOOSourcing brings trust and transparency to international trade through the introduction of several innovative features into sourcing such as: geolocation and crowd-veriﬁcation of suppliers, dedicated instant messaging tool, blockchain based smart contract and machine learning based matching system between buyers and suppliers. There are two versions of the solution, the public version and the corporate version (white label). Revenue model -Freemium model for the public version -Advertisement (sponsored posts) -SaaS solution for the corporate version Competitors Showsourcing, Offerplus, Wokelink, Tradein. Clients -Public version: SMEs (manufacturers, importers and service providers) -Corporate version: Medium & large size sourcing ofﬁces Metrics -Public version: 35K+ registered users -Corporate version: 2 accounts -Ranked 4.7/5 by users in Google Play Potential Exit Companies such as: Alibaba Group, Li & Fung Group, Carrefour… Growth strategy For the corporate version focusing on sourcing ofﬁces based in China and Hong Kong.  For the public version, developing in South-East Asia market, Brazil and North Africa. 
+www.yoosourcing.comDISCLAIMER: THIS DOCUMENT CONTAINS CONFIDENTIAL INFORMATION AND IS COPYRIGHT © SOURCING TECHNOLOGIES HOLDING CO., LTD. IT IS FOR THE INTENDED RECIPIENT AND AUDIENCE ONLY. THIS DOCUMENT CANNOT BE DISCLOSED, COPIED AND DISTRIBUTED TO ANY OTHER THIRD PARTY. IF AN ADDRESSING OR TRANSMISSION ERROR HAS MISDIRECTED THIS DOCUMENT, PLEASE NOTIFY THE AUTHOR BY SENDING EMAIL TO CONTACT@YOOSOURCING.COM. 

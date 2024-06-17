@@ -1,0 +1,69 @@
+Encontre os 
+websites ideais para 
+sua campanha da 
+Rede de Display 
+Se você está exibindo uma campanha da Rede de Display, a seleção manual de canais oferece ainda mais 
+controle sobre os locais em que seus anúncios são veiculados. Enquanto a seleção automática de canais 
+determina os websites com base nos tópicos e interesses informados, com a seleção manual de canais 
+você escolhe exatamente onde seus anúncios aparecerão. 
+ 
+Se você quiser aumentar a granularidade dos locais em que seus anúncios são exibidos, siga estas etapas 
+para fazer a configuração da maneira correta. 
+Lembre-se, os modelos de atribuição estão disponíveis apenas nos anúncios da 
+rede de pesquisa e do Shopping e não estão acessíveis na Rede de Display. Além 
+disso, eles não conseguem rastrear conversões em aplicativos, na loja ou por 
+ligações telefônicas. 
+Encontre seu público-alvo 
+Se você ainda não tem uma lista com os websites que deseja segmentar, 
+uma boa prática é começar pesquisando palavras-chave no Google. Analise 
+os resultados orgânicos e selecione os mais relevantes. 
+Se houver uma seção de comentários na parte inferior das postagens, o nível 
+de atividade observado pode dar uma ideia do engajamento do público.  
+Digite palavras-chave e URLs na ferramenta de segmentação por canal no Google AdWords 
+para ver uma lista de websites relacionados que podem ser usados para encontrar 
+novas oportunidades. 
+PESQUISAR 
+Verifique o que é ideal para sua marca 
+Websites voltados para determinados nichos e com tráfego intenso parecem ideais num primeiro momento. 
+No entanto, é melhor analisar o design geral do site e os tipos de anúncios exibidos antes de incluí-lo na 
+seleção manual de canais. 
+Em particular, evite designs muito poluídos e que pareçam amadores, além de grandes volumes de anúncios 
+competindo pela atenção dos usuários. 
+Se você achar que seu anúncio se perderia na estrutura da página, pode ser melhor escolher outro canal. Muito poluídoLimpo e claro
+Quando for unir os criativos da Rede de 
+Display, crie anúncios em todos os formatos. 
+Muitos sites famosos têm suporte para 
+apenas um formato. Por isso, utilizar outros 
+formatos desde o início da campanha dá mais 
+flexibilidade ao longo do tempo. 
+Colocação do anúncio 
+Depois de configurar os canais que você quer segmentar, marque a opção "Selecionar" 
+na Segmentação na Rede de Display  e insira os URLs escolhidos. 
+Antes de inserir anúncios, acesse as demais páginas dos websites e decida se você pretende anunciar em todo 
+o site ou apenas em páginas específicas. Por exemplo, se você vende guitarras, pode conquistar uma CTR melhor 
+se anunciar somente na seção "Rock" de sites sobre música. Se quiser anunciar apenas em páginas individuais, 
+insira os respectivos URLs no Planejador da Rede de Display, e não o URL genérico da página inicial. 
+ 
+Se o website aceitar anúncios na Rede de Display do Google, verifique se o preço está dentro do seu orçamento. 
+Lembre-se de que as áreas de mais visibilidade acima da dobra são mais caras que as alternativas abaixo da dobra. 
+Monitore o desempenho 
+Recomendamos que você deixe seus anúncios na seleção 
+manual de canais por 30 dias antes de avaliar o desempenho. 
+Se os resultados forem muito bons em um ou dois canais, 
+pode ser interessante aumentar os lances nesses sites 
+para aumentar a exposição. 
+ 
+Não se prenda a canais com desempenho ruim. Quanto 
+antes você encontrar uma alternativa melhor, mais valor 
+receberá como retorno do orçamento em anúncios. 
+Use o Google Analytics para monitorar as páginas dos 
+canais que geram tráfego. Você pode descobrir que 
+algumas páginas geram leads com mais qualidade. 
+Se for o caso, exclua as páginas com baixo desempenho  
+dos anúncios. 
+Certifique-se de configurar listas de remarketing 
+para operar juntamente com sua campanha. 
+Com o remarketing, você pode veicular anúncios 
+a usuários que já mostraram interesse nos seus 
+produtos, o que pode levar a maiores conversões 
+e melhores resultados. 

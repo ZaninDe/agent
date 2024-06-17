@@ -1,0 +1,1387 @@
+TIMES DIGITAIS DE ALTA PERFORMANCE1
+TIMES DIGITAIS DE ALTA PERFORMANCE2
+A transformação da sociedade, dos nossos hábitos de consumo, 
+comportamentos e a forma como trabalhamos, têm assumido 
+uma velocidade tão alta que acompanhar o ritmo de mudança 
+tem sido um dos principais e sforços de profissionais e empre -
+endedores nos últimos anos
+Estamos, nas palavras de David Kelly, na “era dos eternos no-
+vatos”. A natureza de um mundo digital é a mudança contínua, 
+ou o upgrade constante das tecnologias - de aplicativos a sis -
+temas operacionais. Neste contexto, todos nós seremos infini-
+tos novatos no futuro, simplesmente tentando acompanhar a 
+constante de transformações e upgrades tecnológicos.“Afinal, como criar produtos 
+quando a matéria prima não 
+se constitui de átomos, mas 
+sim de linhas de código, 
+dados e pixels?”  BEM VINDO À 
+“ERA DOS ETERNOS NOVATOS”TIMES DIGITAIS DE ALTA PERFORMANCE3
+Como pano de fundo desta revolução, observamos a digitalização 
+de experiências de consumo e a ascensão dos produtos digitais. Mi-
+gramos de um mundo em que os produtos eram físicos, escassos, com 
+um processo de criação linear e um ciclo longo de produção, para 
+um mundo dominado por produtos digitais, cuja lógica de produção 
+parece ser a verdadeira antítese do modelo industrial. Entram em 
+cena novas competências, como UX Design, Data Science e Product 
+Management, e também novas formas de organização, que têm no 
+conceito de agilidade e evolução contínua sua premissa fundamen-
+tal. Esse é o contexto em que são concebidas várias das competên-
+cias ensinadas nos programas da Tera.
+A Tera surgiu para ajudar as pessoas a fazerem uma transição para um 
+novo paradigma de trabalho, que exige uma nova forma de entender e 
+agir frente à sua própria capacitação ao longo da vida produtiva. Nossa 
+crença fundamental é que as pessoas devem ser ativas, produtoras, lí-
+deres com capacidade crítica em um mundo cheio de oportunidades de 
+avanços incríveis para a humanidade, mas que traz consigo suas pró-
+prias contradições e desafios.
+ 
+Num passado nada distante, focamos boa parte de nossa energia 
+de aprendizado nos primeiros anos de vida e investimos muito tempo 
+para adquirir competências que definiriam nosso futuro profissional. 
+Na era dos eternos novatos, este modelo será absolutamente ine-fetivo, uma vez que as competências necessárias para ter uma vida 
+produtiva mudarão na velocidade da própria tecnologia. 
+Por isso, no coração da nossa forma de fazer educação, trouxemos para o 
+ensino adulto o conceito de aprendizado modular, não-linear, baseado em 
+desenvolvimento de competências e altamente prático, no qual projetos re-
+ais são o fio condutor do processo de aprender. A Tera foi pioneira no Brasil 
+em criar programas de capacitação em UX Design, Product Management, 
+Data Science e Growth Marketing, apoiados num conceito de nano diplo-
+mas. Fizemos isso a quatro mãos com o mercado de tecnologia em ascen-
+são no Brasil, com parceiros como Google, Nubank e Creditas, numa rede 
+que hoje conta com mais de 60 empresas
+Em pouco tempo, nos tornamos uma das principais redes 
+de profissionais para a economia digital, com mais de 1000 
+pessoas engajadas em aulas, eventos, meetups, mentorias 
+e projetos - e, diante da necessidade de atualização de 
+toda a força de trabalho, estamos só no começo.  TIMES DIGITAIS DE ALTA PERFORMANCE4
+ 
+Neste processo, lidando com profissionais em posição de liderança em empre-
+sas das mais variadas indústrias, observamos que as organizações mais bem 
+sucedidas do nosso tempo têm um grande diferencial: elas entendem clara-
+mente o papel de cada profissional neste novo modelo de produção e distri-
+buição de valor. Seus times digitais somam competências, são transdisciplina-
+res, agem rápido e em ciclos curtos de desenvolvimento, tem foco absoluto e 
+inegociável na experiência do cliente e acompanham métricas de sucesso que 
+seriam impensáveis no mundo analógico. Elas vencem não pelas ideias inova-
+doras, mas pelo aperfeiçoamento de um modelo organizacional que só pode-
+ria existir neste tempo. 
+Com este e-book, esperamos ajudar milhares de empresas e pessoas no processo 
+de transição para um mundo em que produtos digitais serão o começo, o meio e 
+o fim de todas as nossas experiências. Acreditamos que quanto mais pessoas e 
+empresas mudarem o mindset para esta nova realidade, mais perto estaremos de 
+solucionar grandes desafios da humanidade, utilizando a tecnologia para o bem.
+ 
+Boa leitura!
+ Leandro Herrera, 
+CEO e fundador da Tera
+TIMES DIGITAIS DE ALTA PERFORMANCE5
+Papel e agenda de um líder de produto digital 41Alinhamento com stakeholders internos e 
+interface com os objetivos do negócio -  39
+Velocidade de Desenvolvimento do time 43
+Motivação e Remuneração 43Papéis, Skills e Responsabilidades  -  7
+UX Designers 10
+Product Managers 12
+Data Scientist 18 Growth Marketers 14
+Desenvolvedores 16 01
+02
+03TIPOS DE 
+PROFISSIONAIS
+RECRUTAMENTO E 
+SELEÇÃO DE TIME
+PRÁTICAS 
+DE GESTÃO PARA 
+O CONTEXTO ÁGILCAP.
+CAP.
+CAP.INTRO -
+DUÇÃO
+pág. 06 Case Ifood 32Como conduzir o processo seletivo 24
+Como os gigantes contratam 27Caminhos para encontrar os profissionais 
+ou formar internamente  -  21
+Case Nubank 35Spotify e o desafio de adaptar os times 30pág. 08
+pág. 20
+pág. 38TIMES DIGITAIS DE ALTA PERFORMANCE6
+INTRODUÇÃO
+Empresas inspiradoras contratam pessoas inspiradoras. Pessoas inspira-
+doras buscam empresas inspiradoras. A grande mágica das scale-ups 
+de sucesso acontece quando todos se encontram e o resultado é o tão 
+esperado crescimento exponencial. Crescer envolve contratar pessoas e 
+formar equipes coesas, preparadas e comprometidas com os resultados.
+ 
+“Em tempos de Inteligência Artificial, quando o futuro 
+reserva mais e mais espaço para a tecnologia, nunca 
+foi tão necessária a participação dos recursos huma-
+nos nos negócios.“
+Quem contratar? Com que formação e skills? Onde encontrar? Como 
+atrair e reter os talentos mais cobiçados? Como engajar e liderar 
+essa equipe? Essas dúvidas são comuns em tempos onde o clima de 
+inovação contínua e tecnologias convergentes formam o estilo scale-up 
+de ser. Para ajudar a resolver esses dilemas vamos apresentar alguns 
+exemplos e soluções que mostram como formar times digitais de alta 
+performance. Alguns vêm dos gigantes da tecnologia, como Amazon e Google, mas o modelo serve para quem está começando ou já se pre-
+para para crescer. Nunca se sabe quem será o próximo gigante! Afi -
+nal, muitos deles começaram em uma garagem. Mas sabemos que sem 
+equipe é impossível acompanhar a evolução do ambiente digital.
+ 
+Equipes são a base de tudo, tanto para você que acabou de validar 
+um modelo de negócios e se prepara para escalar, ou que está em-
+barcando sua empresa nas novas tecnologias e não sabe como re-
+formular e repensar as cadeiras existentes. São muitas as demandas 
+que interferem diretamente nessa fase do negócio e você ainda preci-
+sa acompanhar a rápida aceleração das inovações tecnológicas que 
+impactam profundamente a maneira como você lida com sua força de 
+trabalho, clientes e parceiros.
+Embora reconheçam a importância vital de atrair e reter profissionais 
+qualificados, empresas de todos os portes enfrentam desafios para en-
+contrar os melhores talentos e criar um time focado nos produtos digitais. 
+Um time diverso, que reúna especialistas abertos aos novos conhecimen-
+tos, de olho nas tendências e com a mão na massa, com soft skills que 
+favoreçam o trabalho em rede, totalmente alinhado entre si e com as TIMES DIGITAIS DE ALTA PERFORMANCE7
+necessidades do seu projeto e que compartilhe os mesmos va-
+lores da sua empresa. Uau! Quem não quer um time desses?
+ 
+Algumas profissões são recentes e você desconhece as qualifi-
+cações dos candidatos e a nova dinâmica das equipes, como 
+funciona a lógica de construção desse time, o modelo 
+operacional de fluxo de trabalho, o mindset organizacional 
+que a empresa precisa ter ou desenvolver. Até mesmo como 
+todo esse investimento em pessoas e treinamentos se ajusta 
+às possibilidades financeiras do negócio, considerando uma 
+concorrência feroz para atrair os raros talentos desse mundo 
+em mutação.
+Vamos apresentar essas e outras questões, com cases de su-
+cesso e alguns passos essenciais para formar, atrair e reter uma 
+equipe que atenda às necessidades de tecnologia para o de-
+senvolvimento ou a evolução do seu produto digital. Uma equi-
+pe que contribua para escalar sua empresa até o topo desse 
+mercado tão competitivo!
+ “Essencialmente, transformação digi-
+tal é sobre pessoas, processo e tecno-
+logia e você precisa da mistura certa 
+de habilidades e um ambiente para que 
+as pessoas cresçam, tanto quanto a 
+tecnologia certa para habilitá-las.”
+Jamie Brighton, diretor de marketing de 
+produtos para a Adobe Experience Cloud.
+TIPOS DE PRO-
+FISSIONAIS  
+01 CAP.TIMES DIGITAIS DE ALTA PERFORMANCE9
+PAPÉIS, SKILLS E 
+RESPONSABILIDADES 
+O ambiente digital e o momento desafiador do mercado indicam uma crescente 
+demanda por profissionais capacitados em áreas do conhecimento com forte 
+perfil tecnológico. De um lado temos scale-ups desenvolvendo produtos digi-
+tais e de outro empresas tradicionais migrando para se adaptar às tendências.
+ 
+Os novos recursos de tecnologia abrem inúmeras possibilidades de inovação, 
+relacionamento com os clientes e conquista de nichos antes impensáveis para 
+quem começa um novo empreendimento. Tanto para viabilizar o desenvolvi-
+mento dos produtos, quanto para ocupar um espaço significativo do mercado 
+você precisa de um time qualificado. Claro que uma boa formação importa e 
+fornece a base essencial para novos aprendizados, mas não é tudo.
+ 
+O que você vai buscar no mercado é o talento raro de pessoas empenhadas 
+em se integrar com as novas tecnologias e interessadas no aprendizado con-
+tínuo, até porque tudo muda o tempo todo. Especialmente aptas a trabalhar 
+em rede, com flexibilidade para se relacionar com profissionais de diferentes 
+áreas. Talentos que possam pivotar sua idéia inicial, alavancar os negócios e 
+empoderar a sua empresa como um time coeso em seus propósitos, ao mesmo 
+tempo que diverso em suas habilidades.
+ 
+UX 
+Designer
+Growth 
+MarketerData 
+Scientist 
+Desenvolvedores Product 
+ManagerEntre as áreas de maior demanda profissional para esse con-
+texto, destacamos algumas que consideramos essenciais. 
+Você não precisa de todos ao mesmo tempo, mas certamen-
+te vai precisar deles em algum momento do seu negócio. Va-
+mos mostrar o que cada profissional faz, como contribui para 
+o sucesso, quais são os seus papéis, skills e responsabilidades: TIMES DIGITAIS DE ALTA PERFORMANCE10
+O que empresas como Netflix, Uber, Airbnb, , Spotify e Nubank têm em co-
+mum? Certamente elas fazem um forte investimento em Experiência do Usu-
+ário. Quando quase tudo nessa vida acontece online e você usa aplicativos 
+para comprar, se divertir, comer e circular por aí, o mínimo que se espera é 
+que eles garantam uma boa experiência. Caso contrário seu usuário vai es -
+colher outra opção de aplicativo que resolva o problema dele. 
+Não por acaso, o report Digital Trends 2018, da Adobe Creative Cloud apon-
+ta o UX Design como uma das áreas de atuação em tecnologia que devem 
+obter maior crescimento nos próximos anos. Cerca de 73% dos entrevistados 
+pretendem dobrar suas equipes de UX Design nos próximos 5 anos. O report  
+Reinventing Loyalt, da Adobe, ressalta a importância das experiências imer -
+sivas: “o comércio conversacional e o uso de chatbots estão começando a 
+mudar os principais caminhos de comunicação com as marcas. Tecnologias 
+imersivas que misturam realidades físicas e virtuais também estão começando 
+a provar seu potencial enquanto fornecem experiências únicas e significativas.” 
+UX DESIGNERSTIMES DIGITAIS DE ALTA PERFORMANCE11
+ENTRE AS RESPONSABILIDADES DO UX DESIGNER ESTÃO:
+Pesquisa e análise de dados;
+Projetar, avaliar e testar experiências do usuário;
+Construção de protótipos funcionais;
+Desenvolvimento de Wireframes e fluxos de tarefas com base 
+nas necessidades do usuário. 
+O UX Designer é responsável por projetar uma boa experiência do usuário 
+nos mais diversos pontos de contato com as marcas, das exibições de vídeo 
+e transações de comércio eletrônico, de aplicativos mobile a sites, de redes 
+sociais a experiências presenciais. As tecnologias emergentes devem impac-
+tar ainda mais essas interações, com experiências de voz ( Amazon Alexa e 
+Google Home), realidade virtual e mista (Microsoft Hololens e Google DayDre-
+am), interfaces conversacionais (os chatbots), dispositivos de IoT conectados 
+e muito mais que ainda vem pela frente. Olhando para todas as perspectivas 
+futuras, o trabalho do UX Designer é ainda mais decisivo para o sucesso em 
+um contexto de crescente valorização da experiência do consumidor.resolver problemas e habilidades como liderança de equipes criativas e 
+facilidade de comunicação. Mais que tudo, um bom Ux Designer deve ter 
+empatia pelo usuário, um entendimento profundo do design centrado no 
+usuário (UCD) e fortes habilidades analíticas. Também é essencial ter uma 
+compreensão das limitações técnicas, bem como estratégias e objetivos 
+de negócios, apoiados pelo conhecimento de diferentes tecnologias.
+     
+“Quem é a equipe de UX ? Todo mundo. O dia a dia é de-
+safiar o status quo, prezando pela melhor experiência 
+do cliente e as equipes são multidisciplinares e estru-
+turadas em squads. No processo de seleção o domínio 
+das ferramentas pesa tanto quanto a cultura e o jeito 
+de pensar. Esse critério é importante porque a empre-
+sa não espera que o candidato apenas execute tarefas, 
+mas avalia se ele tem o mindset e conhecimento para 
+expandir a diversidade de olhares e posturas.”O UX também interage com designers e desenvolvedores para criar sof -
+twares intuitivos e fáceis de usar, combinando interfaces e fluxos para 
+aprimorar a experiência do usuário. 
+O UX Designer deve dominar ferramentas e métodos como Design Thinking, 
+Design de Interação e tecnologias digitais, além de ter aptidão para Ricardo Sato , conta como é 
+ser UX Designer no Nubank:
+TIMES DIGITAIS DE ALTA PERFORMANCE12
+E se um Steve Jobs em início de carreira batesse na sua porta? Você contra-
+taria como Product Manager? Ou acharia um tipo meio estranho, com idéia 
+fixa em entregar o produto mais que perfeito, aquele que as pessoas amam, 
+de olho nas oportunidades de negócio que isso representa? É bom observar 
+essas habilidades, porque o fundador da Apple é também o mais célebre 
+Product Manager de todos os tempos e são raros os profissionais que che-
+gam perto do seu incrível talento. 
+Na definição de John Elman, Product Manager que passou pelo Twitter, Fa-
+cebook e Linkedin, o Product Manager “ajuda seu time (e sua empresa) a 
+entregar o produto certo para seus usuários”. Isso significa que ele tra-
+balha na intersecção de três áreas críticas de uma empresa digital: UX, Tec-
+nologia e Negócios, desempenhando um papel que reúne um conjunto de 
+conhecimentos e skills, com enormes responsabilidades. 
+Outra lenda do Product Manager, Marty Cagan, fundador do Silicon Valley 
+Product Group e escritor de Best-sellers da área, traz uma visão ainda mais 
+PRODUCT MANAGERSTIMES DIGITAIS DE ALTA PERFORMANCE13
+abrangente sobre os skills voltados à cultura de produto. Para ele os Pro-
+duct Managers deveriam ser completamente apaixonados para conta -
+giar o time com suas ideias; estar em constante contato com o cliente 
+para entender as dores das personas e criar uma cultura concentrada em 
+gerar valor; assumir riscos antecipadamente para gerar inovação; e ainda 
+desenvolver competências técnicas que viabilizem a comunicação e co-
+laboração com desenvolvedores, designers e engenheiros. Na sua visão
+ 
+“Um bom líder de produto é o que combina o seu 
+conhecimento aprofundado sobre o cliente e tem a 
+habilidade de aplicar tecnologia para resolver proble-
+mas junto ao seu time”. 
+ 
+O Product Manager da economia digital é praticamente um malaba-
+rista de desafios. Ele precisa garantir que seu time planeje adequada-
+mente as entregas, com clareza do objetivo e foco. Também atua para 
+que todos estejam alinhados quanto às decisões do produto, como eles 
+resolvem problemas de forma que os clientes amem, atentos aos obje-
+tivos de negócio. É o PM que garante as entregas do produto no melhor 
+ritmo possível, equilibrando o fator tempo e qualidade. Deve entender 
+profundamente a estratégia e os objetivos da empresa e como seu time 
+contribui para a visão de curto, médio e longo prazo do negócio.Os profissionais podem vir de diferentes áreas como en-
+genharia, marketing, design, ou tecnologia. Mais que ter 
+um bom conhecimento técnico, um Product Manager 
+deve ser um bom líder, com capacidade de escutar os 
+usuários, comunicar claramente sua visão para a em-
+presa e garantir a motivação, o senso de propósito e o 
+espírito de colaboração do time.
+“Mesmo quando eles ainda não sabem, 
+os clientes querem algo melhor e seu 
+desejo de encantar os clientes o levará 
+a inventar em seu nome. Nenhum clien-
+te jamais pediu que a Amazon criasse o 
+programa Prime, mas com certeza eles 
+queriam isso.”
+                                              Jeff Bezos , fundador e CEO  
+               da Amazon.
+TIMES DIGITAIS DE ALTA PERFORMANCE14
+Growth Marketer, Growth Manager ou Growth Hacker, não importa o 
+nome, o foco do trabalho é o mesmo: crescimento do alcance e da 
+receita. Uma profissão tão nova quanto supervalorizada e absolu -
+tamente necessária para as Scale-ups em busca de escalar o negó-
+cio. Um misto de Hacker e Manager, o Growth Marketer pode ser ousa-
+do como um hacker ao utilizar estratégias criativas de crescimento, ao 
+mesmo tempo que alavanca métodos de marketing para obter resul-
+tados impressionantes. É isso mesmo que você precisa.
+As tendências apontadas pelo report Technology Vision 2018 aju -
+dam a entender o papel vital do Growth Marketer: “A última transfor -
+mação das tecnologias disruptivas é única. Pela primeira vez, a mu-
+dança é uma via de mão dupla. As pessoas não estão apenas usando 
+produtos e serviços, mas fornecendo informações e acessando-as de 
+volta. Para fornecer inovação integrada, as empresas precisam de um 
+profundo conhecimento sobre a vida das pessoas. Para empresas in-teligentes, esse nível de conexão - e esse grau de confiança - exige 
+um novo tipo de relacionamento. Não é apenas negócios. É pessoal. 
+E é como os líderes redefinirão sua empresa com base na empresa 
+que mantêm.”
+Steven Walling, do Dropbox, traduz o “Growth” como “um termo 
+abreviado para o ciclo de aquisição, ativação, retenção e reati-
+vação de usuários ou clientes”. As empresas líderes da economia 
+digital como Uber, Facebook e Google já descobriram os super po-
+deres desses profissionais. O que faz um Growth Marketer? Ele define 
+metas de crescimento e utiliza dados para entender, atrair agressi-
+vamente e reter clientes para alavancar as receitas. 
+Para encontrar a pessoa certa é importante definir uma camada 
+central de skills, começando pelo domínio da estratégia comple-
+ta de marketing digital, como realização de testes A/B, análise de 
+dados do Google Analytics, ferramenta ou softwares de automação e 
+construção de funil, mídias sociais, experiência em estatística, UX, bran-
+ding. 
+Também é vital entender os diferentes tipos de canais de aquisição 
+de clientes - incluindo mídia paga e proprietária, viral marketing e 
+earned mídia - PR e SEO orgânico. O pensamento estratégico per -GROWTH MARKETERSTIMES DIGITAIS DE ALTA PERFORMANCE15
+meia todas essas habilidades assim como entender, filtrar e trabalhar com 
+dados, incluindo ferramentas de visualização. Ou seja, basicamente tudo 
+que compõe o meio digital e todas as suas possibilidades de oferecer da-
+dos e conexões e com eles o que todos querem: crescer rapidamente, ad-
+quirir usuários e receitas incríveis. 
+Para ser um bom profissional de marketing é necessário ter a mentalida-
+de focada no crescimento e aliada a uma constante preocupação com a 
+otimização de processos integrados ao marketing através de análises de 
+dados. O novo comportamento do consumidor exige experiência e rela-
+cionamento e o Growth Marketer precisa atender a todas as suas deman-
+das para obter o crescimento exponencial da base de clientes.
+ 
+“Há uma nova obrigação - e uma nova oportunidade - 
+para as empresas se engajarem com as pessoas de ma-
+neira diferente.”
+                                                                        
+              Paul Daugh, Accenture CTIO.
+TIMES DIGITAIS DE ALTA PERFORMANCE16
+Os desenvolvedores atuam em quase tudo que toca nossas vidas hoje, 
+portanto quase tudo que envolve os negócios. Mas, antes de pensar 
+no profissional é bom ficar de olho nas tendências de desenvolvimento 
+de software. Importante é saber qual trend afeta mais o seu produto e 
+que tipo de habilidade é essencial para os desenvolvedores que você 
+precisa ter na equipe. O certo mesmo é que você precisa dos bons 
+desenvolvedores, profissão considerada a número um nos EUA. 
+A demanda crescente dos últimos dois anos se deve às novas 
+tecnologias como Inteligência Artificial ( IA) e Blockchain. Mas tam-
+bém é motivada pelo impacto dos Aplicativos da Web Progressivos 
+(PWAs); Desenvolvimento de códigos baixos; e Cibersegurança. A IoT 
+altera o cenário mobile e as enormes perspectivas econômicas já es -
+tão motivando gigantes como Verizon, Cisco e Intel a entrar no jogo IoT-in-the-business. E como tudo se move em uma velocidade assusta-
+dora, a fusão da Inteligência Artificial com a Internet of Things (IoT) será 
+utilizada nos dispositivos de ponta. 
+Ou seja, os desdobramentos abrem novas perspectivas para os negó-
+cios e para aproveitar a onda das inovações você precisa de desenvol-
+vedores. A formação básica em Ciências da Computação, Sistemas de 
+Informação ou Engenharia da Computação é importante, mas lembre 
+que esses profissionais são aprendizes ao longo da vida. Fique alerta com 
+essa postura profissional porque ela resulta em um conhecimento abran-
+gente mais adequado à multidisciplinaridade da profissão e diferencia 
+os melhores, assim como o pensamento lógico e o foco em negócios. 
+Um desenvolvedor de aplicativos será responsável por: entender os 
+requisitos do cliente e como eles traduzem os recursos do aplicativo, 
+colaborar com uma equipe para definir especificações, projetar protó-
+tipos criativos, escrever código fonte de alta qualidade; realizar testes 
+preliminares, solucionar problemas e depurar aplicativos; e desenvolver 
+documentos técnicos e manuais para representar com precisão o de-
+sign e o código do aplicativo.DESENVOLVEDORESTIMES DIGITAIS DE ALTA PERFORMANCE17
+A pesquisa Developer Skills 2018 aponta que “em média, 
+os desenvolvedores conhecem 4 linguagens e querem 
+aprender mais 4 , demonstrando uma sede de aprendiza-
+do mais que necessária quando se observa a velocidade 
+com que as novas tecnologias alteram o cenário”. O re-
+sultado também indica ainda a importância de dominar 
+as principais linguagens legadas. Em geral, os requisitos 
+mais comuns das empresas são: JavaScript, Java, Py -
+thon, C ++ e C. Mas, quando se trata de aprender novas 
+linguagens, os desenvolvedores estão observando onde 
+o Vale do Silício investe: Go, Kotlin, Rust, Scala e Swift, são 
+as mais comumente usadas por gigantes da tecnologia 
+como Google, Twitter e Apple. Faça como os desenvol-
+vedores, siga os sinais dos gigantes.
+ “Nosso maior desafio é competir pelo mes-
+mo conjunto de talentos que tantas ou-
+tras empresas estão procurando. Quando 
+procuramos desenvolvedores e engenhei-
+ros altamente talentosos, geralmente es-
+tamos competindo com muitas outras 
+grandes empresas pelo mesmo talento. 
+Às vezes, é difícil encontrar e reter o tipo 
+de talento que possui os conjuntos de ha-
+bilidades certos para o nosso negócio.”
+       Shelton Shugar , CIO do Barclaycar
+TIMES DIGITAIS DE ALTA PERFORMANCE18
+Com o aumento do volume de dados as empresas podem medir e portanto 
+entender mais profundamente os seus negócios e clientes, conhecimento que 
+se traduz em decisões e desempenhos superiores. Esse contexto faz com que 
+as empresas busquem profissionais habilitados a processar e analisar dados. 
+Não por acaso Data Science foi eleita pela Harvard Business Review como a 
+profissão mais quente do século 21. Uma atividade bem recente, com menos 
+de dez anos, que requer conhecimentos de tecnologia, negócios e análise de 
+dados para identificar e resolver problemas no mundo de dados. 
+O Linkedin’s 2017 US Emerging Jobs Report destaca a tendência de crescimen-
+to para os Tech Jobs: “empregos com o maior potencial de crescimento são 
+focados na tecnologia, com demanda proveniente de empresas de tecnologia 
+e não tecnologia. Machine Learning, Data Scientist e engenheiros de Big Data 
+estão entre os principais empregos emergentes”.
+DATA SCIENTISTTIMES DIGITAIS DE ALTA PERFORMANCE19
+“Pense no Big Data como uma onda épica se formando 
+agora, começando a se destacar. Se você quiser pegá-
+-la, você precisa de pessoas que possam surfar.”
+ 
+Thomas H Davenport, research fellow at Initiative 
+on the Digital Economy, MIT. 
+Um cientista de dados pode ser uma mescla de cientista, engenheiro de 
+software e hacker, razão pela qual definir a profissão pode ser às vezes 
+confuso. O quanto uma ou mais qualificações devem importar depen-
+de do tipo de trabalho ao qual ele será direcionado. Mas as equipes de 
+Data Science podem ser compostas por pessoas com diferentes con-
+juntos de habilidades. 
+O papel dos cientistas de dados pode ser bem amplo, mas basicamen-
+te eles ajudam a descobrir as informações ocultas em grandes quanti-
+dades de dados, que permitem tomar decisões mais inteligentes para 
+fornecer produtos e serviços melhores ou criar produtos novos e dire-
+cionar a empresa para o lado certo. Seu foco principal concentra-se 
+em aplicar técnicas de mineração de dados, fazer análises estatísticas 
+e construir sistemas de previsão de alta qualidade integrados aos pro-
+dutos e serviços. 
+Os hard skills dos Data Scientists são: Research, Algorithms, Software, 
+Deep Learning, Data Science, Machine Learning, Analytics, Data Mining, Python. As responsabilidades do cientista de dados incluem, tipicamen-
+te, a criação de várias ferramentas ou processos baseados em aprendi-
+zado de máquinas dentro da empresa, como mecanismos de recomen-
+dação ou sistemas automatizados de pontuação de leads.
+O cientista de dados deve combinar habilidades como: visão holística e 
+estratégica, entender modelos de negócio, identificar e priorizar proble-
+mas reais através de análises de bancos de dados, e aplicar as técni -
+cas de estatística, programação e machine learning adequadas para 
+solucioná-los. A função também requer a capacidade de realizar aná-
+lises estatísticas, amplo conhecimento de como estruturar um problema 
+de dados, além de comunicar efetivamente os resultados.
+ 
+ 
+“Os melhores cientistas de dados também se sentem à 
+vontade falando a linguagem dos negócios e ajudando 
+os líderes a reformular seus desafios de maneiras que 
+os grandes dados podem resolver. Não é de surpreen-
+der que pessoas com essas habilidades sejam difíceis 
+de encontrar e com grande demanda.”
+Andrew McAfee , co-diretor do Initiative on the Digital 
+Economy , MIT, no artigo The Big Data Revolution.RECRUTAMENTO E 
+SELEÇÃO DE TIME
+02 CAP.TIMES DIGITAIS DE ALTA PERFORMANCE21
+Encontrar profissionais preparados para produtos digitais é tarefa ár -
+dua e nem tão simples, afinal, os talentos que você precisa são dispu-
+tadíssimos pelo mercado. Por outro lado são poucos os profissionais habi-
+litados a lidar com as tecnologias presentes nos negócios digitais. Novas 
+demandas pipocam frequentemente e você não pode simplesmente ir 
+trocando pessoas sempre que elas surgirem. O crescimento acelerado 
+das scale-ups requer novas contratações em um ritmo que a oferta mais 
+qualificada não está acompanhando, sendo mais viável capacitar seu 
+time interno.
+São poucos os profissionais com as novas skills e talvez você tenha que 
+investir na formação das pessoas com as habilidades certas, mas que 
+ainda precisam completar seus conhecimentos. Até porque o aprendi-
+zado contínuo tornou-se uma constante da economia digital e novos 
+cursos e Bootcamps estão formando os profissionais mais requisitados 
+dos times de alta performance. Aqueles que são treinados por especia-
+listas do mercado, com a mão na massa em projetos reais.
+ CAMINHOS PARA ENCONTRAR 
+OS PROFISSIONAIS OU FORMAR 
+INTERNAMENTEQuando você já tem uma equipe integrada, com o Fit Cultural ajustado 
+aos seus propósitos, é uma grande vantagem investir no próprio time e 
+trazer os skills que atendam às necessidades específicas daquele mo-
+mento do negócio. O perfil dos profissionais na mira das scale-ups 
+valoriza muito a oportunidade de aprendizado e de exposição dos seus 
+conhecimentos: tanto eles querem aprender cada vez mais, como 
+querem mostrar o que sabem.
+ 
+Algumas empresas vão mais longe e instalam novas unidades onde en-
+contram os melhores talentos. É o caso do Méliuz, que acaba de inaugurar 
+um centro de tecnologia ocupando uma quadra inteira em Manaus. Inclu-
+sive o CTO do Méliuz é um jovem e reconhecido professor da Universidade 
+de Manaus, famosa por formar excelentes engenheiros de tecnologia
+ 
+Tudo muda quando você tem um time lean e altamente especializado, 
+de 20 pessoas, como a Skore . Luis Novo, CEO da scale-up, acredita que 
+colocar mais gente nem sempre é a resposta certa, porque um time me-
+nor com mais gente conectada funciona melhor do que simplesmente 
+escalar pessoas. Na Skore o recrutamento acontece por duas frentes. 
+Através da rede de contatos, com email para parceiros, investidores e 
+mentores pedindo indicações para a vaga. Já as pessoas do time tra-
+zem as contratações de maior valor e que vão durar mais porque elas já 
+conhecem o fit cultural e sabem se o candidato pode se alinhar.TIMES DIGITAIS DE ALTA PERFORMANCE22
+“Quando você é pequeno e tem poucas contratações a 
+dica é continuar no aproach da rede.”  
+Não apenas pela assertividade, mas porque ao publicar a vaga tem 
+que lidar com um volume alto de CVs. O time também ganha com isso 
+porque o processo compete com o dia a dia da empresa e com menos 
+horas de entrevistas sobram mais horas para o negócio.
+A Skore usa tecnologia de ponta e está escrevendo a plataforma e adi-
+cionado complexidade praticamente todo mês. Esse movimento esbar -
+ra em uma tendência importante para quem trabalha com tecnologia: 
+ela não para de evoluir. Como as tecnologias são novas demais, pouca 
+gente do mercado sabe trabalhar com elas. Então a estratégia é atrair 
+pessoas com alto potencial de aprendizagem porque não é possível to-
+car um time digital sem usar a estratégia de aprendizado constante. O 
+recrutamento é pouco baseado em experiências e conhecimento adquiri-
+do e muito mais em valores e na capacidade rápida de se ajustar para 
+aprender coisas novas.
+“Quem investe no time investe para que essas redes de 
+conhecimento e esse aprendizado fiquem em casa.”Os extremos de times digitais, representados pelo uso de tecno-
+logias mais ou menos inovadoras, diferenciam os tipos de proje-
+to que dependem do residual de conhecimento a ser reutilizado 
+ao longo do tempo. Quando você está no extremo dos times de 
+inovação, ganhar vantagem depende de criar e usar um conhe-
+cimento único e por isso não pode lidar com a perda constante 
+desse conhecimento. Quem investe no time investe para que es -
+sas redes de conhecimento e esse aprendizado fiquem em casa. 
+A estratégia é buscar alguém de alto potencial de aprendiza-
+do e apostar nesse aprendizado. Como? Investindo em: cursos, 
+hackatons, workshops, momentos de troca com profissionais de 
+outras scale-ups e mentores, como faz a Skore.
+“Quando você trabalha com tecnologia e inovação, 
+as coisas mudam com muita velocidade e essa ver -
+dade, só vai piorar. Se hoje é difícil, amanhã vai ser 
+ainda mais. Se sua estratégia é tentar buscar sem-
+pre pessoas novas no mercado, saiba que, mesmo 
+essas pessoas, vão ficar defasadas e isso vai acon-
+tecer cada vez mais rápido.”  TIMES DIGITAIS DE ALTA PERFORMANCE23
+É mais importante ter uma cultura de desenvolvimento do 
+que acompanhar o mercado via contratação, porque a cul-
+tura de desenvolvimento é escalável e as contratações con-
+tínuas não. Por que investir na formação das pessoas é es -
+calável? Se essa for uma característica do time, o próprio 
+time vai encontrar as saídas para se desenvolver quando o 
+desafio se apresentar. Se o time sempre tiver a expectativa 
+da chegada de um expert cria uma apatia por aprender, 
+com o comodismo de toda hora ficar esperando quem vai 
+resolver o problema.
+É mais fácil dar ao time o direito de errar e o prazer de apren-
+der coisas novas. Claro que vai chegar a hora de trazer um 
+expert quando você estiver lidando com desafios especifi-
+camente complicados, mas essa não deveria ser a estraté-
+gia principal e sim o desenvolvimento de capital intelectual 
+da empresa.“Mude sua percepção do ‘candidato certo’. Pare 
+de contratar funcionários para trabalhos espe-
+cíficos! As culturas digitais mais bem-sucedi-
+das permitem que os funcionários usem vários 
+chapéus e atinjam os silos. As grandes empre-
+sas sabem que a tecnologia que está aqui hoje 
+provavelmente mudará até amanhã. Assim, a 
+contratação de uma habilidade específica ou 
+especialidade técnica deixará você com muito ta-
+lento desatualizado. Em vez disso, comece a pen -
+sar nas qualidades que levarão a uma organi-
+zação maior, mais forte e com visão de futuro. 
+Esses são os candidatos que levarão sua empresa 
+- e a cultura digital – adiante” .
+        Daniel Newman, CEO do Broadside Media Group.
+TIMES DIGITAIS DE ALTA PERFORMANCE24
+FIT CULTURAL & COMPETÊNCIA TÉCNICA
+Se as Hard Skills são essenciais, as Soft Skills também têm 
+um peso bem relevante no processo de recrutamento e se-
+leção do seu time digital. De acordo com o Linkedin’s 2017 
+US Emerging Jobs Report as habilidades sociais são ex -
+tremamente importantes: Adaptabilidade, Fit Cultural, 
+Colaboração, Liderança, Potencial de Crescimento e 
+Priorização.
+O relatório do Linkedin Tendências de recrutamento global de 
+2018, revela as práticas da contratação estratégica para 
+a descoberta de talentos de alto potencial:COMO CONDUZIR 
+O PROCESSO SELETIVO:Avaliações de habilidades virtuais on-line que medem traços como 
+trabalho em equipe e curiosidade e oferecem uma visão mais ho-
+lística dos candidatos no início do processo.
+Audições de trabalho, onde as empresas pagam candidatos para 
+fazer o trabalho real, para observar as habilidades em ação. A Cita-
+del, por exemplo, projetou audições de um dia inteiro em que cerca 
+de 100 estudantes competem por dinheiro resolvendo problemas 
+reais de negócios com dados.
+Entrevistas casuais durante uma refeição que podem oferecer uma vi-
+são única da personalidade de um candidato. Um exemplo famoso é 
+o do investidor Charles Schwab, que leva os candidatos para almoçar 
+e pede que o restaurante estrague seus pedidos de propósito. Você 
+pode adaptar criativamente este conceito.
+Entrevistas em vídeo, gravadas ou ao vivo ajudam a avaliar um pool 
+de talentos mais amplo em muito menos tempo.Com a realidade virtual (VR), as empresas inserem candidatos em 
+ambientes 3D simulados para testar suas habilidades de maneira 
+padronizada.1
+2
+3
+4
+5TIMES DIGITAIS DE ALTA PERFORMANCE25
+A dispensa do diploma universitário é uma das 
+tendências que se observa nos Estados Unidos 
+entre as gigantes da tecnologia como Goo-
+gle, Apple e IBM, segundo o Glassdoor . No Brasil 
+essa prática também foi adotada por scale-ups 
+de ponta como Movile, iFood, Nubank, Thogh-
+tWorks e Creditas. As empresas estão de olho 
+na diversidade e em outras formas de aprendi-
+zado, que se mostram mais efetivos diante das 
+novas demandas do mercado e das tecnolo-
+gias.
+ 
+Observe essas tendências e comece a repen-
+sar a forma como você vai recrutar os melhores 
+talentos para o seu time. Cases incríveis, como 
+o da Skore, com novos modelos de processos 
+de seleção, estão aqui para inspirar:
+O primeiro critério é o fit cultural que valoriza a capacidade de aprender e 
+é validado por um processo em etapas:
+• Cada pessoa passa por pelo menos 5 entrevistas com pessoas de diferentes 
+áreas, mesmo que não relacionadas com a vaga. Os entrevistadores são 
+instruídos a serem extremamente honestos porque é importante o candi-
+dato saber que o lugar é de altíssimo crescimento e muita pressão. São 
+sempre muito transparentes para que o profissional entre por opção e 
+não porque foi conquistado no processo de seleção.
+• A pessoa tem que contar como evoluiu no seu job, como se preparou, por 
+onde estudou, se buscou mentores, tudo para detectar essa característi-
+ca de alguém capaz de buscar o próprio crescimento.
+• O candidato apresenta um mini projeto que pode ser um rabisco no qua-
+dro branco, produzir um código, desenhar uma estratégia de marketing, ou 
+escrever um texto, conforme a vaga. 
+• Como padrão, a equipe sempre tenta fazer um trabalho em conjunto, pas -
+sar o dia, participar das reuniões, trazer para a realidade interna e ver como 
+a pessoa se comporta. Não tem nada mais poderoso do que trabalhar com 
+a pessoa e observar como ela reage quando é criticada ou estimulada.TIMES DIGITAIS DE ALTA PERFORMANCE26
+Luis Novo
+“Nem olhamos para o diploma, as pessoas aqui são 
+reconhecidamente ‘dropouts’ [saíram da faculdade 
+antes de formadas] todo mundo teve problema com 
+a escola. Procuro talentos comportamentais mais do 
+que diplomas. Inclusive contratei uma pessoa para 
+o comercial que era minha motorista de Uber.”   
+TIMES DIGITAIS DE ALTA PERFORMANCE27
+COMO OS GIGANTES CONTRATAM:
+Você também pode encontrar inspiração para o pro-
+cesso seletivo com os modelos utilizados pela Amazon 
+e Google para contratar Product Managers. Lembre 
+que os PM’s são profissionais muito cobiçados e nada 
+convencionais, que passeiam com facilidade por di-
+versas áreas de conhecimento, com talento para li-
+derar equipes multidisciplinares. Como descobrir se 
+você está com a pessoa certa ? 
+O recrutador do Google enviou um email para o candidato a PM 
+orientando que sua postura na entrevista deveria transmitir segu-
+rança, conhecimento e criatividade em cinco pontos essenciais. Eles 
+também podem ser o seu checklist em uma entrevista:
+• Como você pensa o Product Design?
+• Mostre seu poder de análise.
+• Por que um PM do Google?
+• O quanto você realmente sabe?
+• Vamos falar sobre estratégia.
+ 
+Os tópicos do Google batem com os da Amazon publicadas no 
+Product School:
+• Habilidade: Como você conseguiria traduzir suas habilidades na 
+Amazon?
+• Liderança: Como você conduz a liderança de uma equipe?
+• Resolução de problemas: Fale de um trabalho que foi difícil de resolver.
+• Tomada de decisão: Conte-me sobre uma decisão impopular.
+• Inovação: Conte-me sobre sua maior inovação.
+• Fracasso: O que você já aprendeu de um fracasso?TIMES DIGITAIS DE ALTA PERFORMANCE28
+ Sim, as grandes empresas avaliam conhecimento técnico, mas elas buscam algo 
+muito maior: a capacidade de se moldar às dificuldades e transformar fron-
+teiras em novos campos de atuação. Um critério que também vale para todas 
+as áreas dos times de alta performance, para onde as pessoas estão migrando 
+de outras profissões em busca de novos desafios e propósito no que fazem. Por 
+isso a formação inicial nem sempre é tão valorizada, enquanto as habilidades 
+essenciais de cada um são testadas. Como na contratação de UX Designers no 
+Google, Airbnb e Spotify.
+ 
+No Airbnb os UX devem ser “resolvedores” de problemas, com espírito empreendedor, 
+paixão por construir e viés para a realização. Para detectar essas características 
+o processo de seleção começa com um Portfólio completo e visual que mostre 
+as experiências e habilidades. Mas eles esperam muito mais:
+ 
+“Nós estamos mais interessados em encontrar profissionais 
+que saibam como grandes e pequenas melhorias fazem um 
+negócio avançar. Nós queremos os designers que possam ter 
+grandes ideias e que saibam como realizá-las. Profissionais 
+que sejam apaixonados por resolver problemas — e não ape-
+nas os problemas sexy.”  
+       Katie Dill, Diretora de Design de Experiência do Airbnb.TIMES DIGITAIS DE ALTA PERFORMANCE29
+No Google eles não procuram pelos unicórnios, aque-
+le designer mágico que resolve todos os problemas, 
+até porque eles não existem. Braden Kowitz, da GV, 
+antiga Google Ventures, braço de capital de risco do 
+Google, acredita que o UX deve entender seu meio e 
+isso significa que designers de software devem domi-
+nar o básico de desenvolvimento de software, mas a 
+exigência de programação pode restringir o recruta-
+mento.
+“Decido, primeiro, quais habilidades 
+são críticas e devem ser contempladas. 
+O restante pode ser coberto por traba-
+lho temporário. São escolhas difíceis de 
+serem feitas” .      Braden Kowitz, da Google Ventures.
+Quais são essas habilidades? Veja as perguntas cujas respostas 
+ajudam a delinear o perfil ideal de UX Designer, de acordo com 
+as áreas de atuação:
+• Pesquisa - User Research: O que os consumidores querem? Eles 
+conseguem entender como usar nosso produto?
+• Desenvolvimento de produto: O que estamos construindo? O 
+que não estamos construindo? No que consiste nosso próximo 
+lançamento?
+• Redação: Como descrevemos nosso produto aos consumidores 
+de forma que eles entendam?
+• Design de interatividade: Como o produto se comporta? Como 
+é organizado?
+• Design visual: Qual o look and feel do produto?
+• Desenvolvimento de User Interface (UI): Como construímos in-
+terfaces de alta qualidade com rapidez e flexibilidade? TIMES DIGITAIS DE ALTA PERFORMANCE30
+SPOTIFY E O DESAFIO DE ADAPTAR OS TIMES
+No site Subtraction, Rochelle King, VP de Design e de User Experience do 
+Spotify, foi categórica sobre o que a empresa busca em um profissional — 
+e sobre o que não busca também:
+ 
+“Para além das qualidades básicas que procuramos em 
+bons designers — habilidade de articular seus pontos 
+de vista, entender como alavancar dados para capaci-
+tar o design — os profissionais aqui têm que ser alta-
+mente adaptáveis e flexíveis.”
+ 
+Se você também enfrenta desafios o tempo todo, observe como o Spotify 
+enfrentou os momentos em que foi necessário mexer no próprio time: eles 
+não trocaram todos os designers por novos profissionais, mas aumenta-
+ram o time de modo a enriquecê-lo com perfis complementares, como 
+pesquisadores de usuários e profissionais de prototipagem, entre outros.
+ “Sozinho você não vai conseguir nada. 
+Para aumentar suas chances é preciso 
+encontrar os parceiros certos e que com-
+plementem as suas fraquezas. Divida 
+com os outros para ter mais bases para 
+multiplicação. E não se esqueça que as 
+pessoas valem pelo que fazem e não pelo 
+que conhecem ou como se apresentam.”  
+                     Beto Sicupira, no livro #VQD.
+TIMES DIGITAIS DE ALTA PERFORMANCE31
+EMPLOYER BRANDING PARA  
+PROFISSIONAIS DIGITAIS
+A partir do momento que as scale-ups de tecnologia passaram a dis -
+putar os novos talentos o Employer Branding passou a ser estratégico 
+para a construção de uma marca empregadora. Esse novo olhar acon-
+tece também porque os jovens agora valorizam aspectos do local de 
+trabalho que vão muito além do valor financeiro. Eles formam um grupo 
+diferenciado, para o qual importa e muito o propósito, a cultura, os be-
+nefícios e as oportunidades de crescimento e aprendizado.
+ 
+Empresas como Nubank, GetNinjas e Méliuz acompanham o engaja-
+mento com métricas de resultados e têm equipes focadas na experi-
+ência dos funcionários. Na GetNinjas as pessoas podem até trocar as 
+mesas por redes. Como investir em benefícios não é tudo, a Netshoes 
+fez uma aposta profunda no Employer Branding valorizando a cultura e 
+o relacionamento. Entre os bons resultados passou a constar da lista do 
+Linkedin das 25 empresas dos sonhos para trabalhar.
+ 
+Muitas empresas são referência em Employer Branding e para descobrir 
+como elas estão criando valor para atrair e engajar os talentos do time 
+conversamos com duas experts: Nara Zarino , Employer Branding do 
+iFood e Ana Paula Maia, Brand Manager do Nubank.
+TIMES DIGITAIS DE ALTA PERFORMANCE32
+Imagine trabalhar em um lugar onde as salas têm nome de comida, cada andar é diferenciado 
+por um tipo de alimento e tem sempre festa para comemorar as conquistas, além de comida e 
+bebida à vontade. As pessoas combinam de se encontrar “lá na feijoada” e até o programa de 
+imersão chama “Delivery de Conhecimento”. Esqueça o regime nesse ambiente com um clima in-
+terno totalmente pensado para engajar as pessoas com o negócio e o propósito da marca iFood.
+Também é interessante notar como a empresa enxerga o Employer Branding pelo lugar que ele 
+ocupa na estrutura organizacional. No iFood, a maior marca de Foodtech da América Latina, o 
+RH responde diretamente ao CEO e reúne áreas voltadas para o público interno como: Comu-
+nicação Interna, Cultura e Engajamento e Employer Branding.
+As conexões internas com o Marketing existem para não perder o olhar do todo e o alinhamento, 
+mas no dia a dia a área tem independência para entregar rápido, mantendo a característica 
+de scale-up. A área existe há dois anos e, no seu primeiro passo, Nara foi conversar com todos 
+os públicos para entender o momento: a marca já era muito amada pelas pessoas, mas não 
+existia o desejo de trabalhar lá. O desafio foi criar a estratégia de awareness, essencial para 
+uma empresa em crescimento constante, dobrando de tamanho todo ano. No começo de 2017 
+eram 270 funcionários, hoje são 900 e existem 250 vagas abertas.
+O desafio seguinte foi clusterizar o público, sempre com o entendimento de que o plano não se-
+ria de curto prazo. O objetivo: construção de uma imagem positiva de empresa empregadora, 
+visando engajar os stakeholders internos para se tornarem embaixadores da marca. Ao definir 
+a estratégia foi essencial alinhar as expectativas com todos os diretores, entender qual perfil CASE IFOOD
+TIMES DIGITAIS DE ALTA PERFORMANCE33
+atrair, entender quem trazer e quem desenvolver para atingir os objeti-
+vos. A análise SWOT mostrou as forças e fraquezas e as pesquisas permi-
+tiram entender o quanto as pessoas conheciam da marca. Esses passos 
+seguiram um caminho que se mostrou muito bem sucedido:
+1. Clusterizar o público.
+2. Criar a estratégia.
+3. Engajar pessoas da empresa para criar conexões com as pessoas 
+ novas que querem atrair. Por exemplo, um ex-aluno com uma boa 
+ história no iFood vai na sua universidade fazer palestras.
+4. Capacitar as pessoas com cursos e treinamentos de comunicação.
+5. Presença do time em eventos nacionais e internacionais de grande porte.
+6. Treinamento de porta-voz dos embaixadores da marca.
+Os resultados são medidos continuamente em pesquisas com todos os 
+candidatos, para entender o nível de conhecimento da empresa. A área 
+de Employer Branding acompanha tudo, inclusive com pesquisa de Fo-
+cus Group, para avaliar a imagem de marca empregadora e orientar a 
+criação do Storytelling.
+Para manter o engajamento dos Foodlovers, nome escolhido pela equipe 
+para os funcionários, foram desenvolvidos três programas com a parti-
+cipação da equipe de RH:Culinária Internacional: intercâmbio aberto para todos os 
+níveis, onde o funcionário passa três meses em uma opera-
+ção do exterior (Colômbia, México ou Argentina), para es -
+timular a troca cultural, levar o mindset para as operações 
+adquiridas e trazer o de fora.
+Sugestões do Chef:  os Foodlovers podem indicar profissio-
+nais em uma plataforma interna. Se a pessoa for contratada, 
+quem indicou recebe um voucher do iFood: com viés da di-
+versidade é um valor, se for mulher é maior, se for liderança é 
+maior ainda e com deficiência é o top.
+Mestre Cuca: reúne voluntários colaborativos que se juntam 
+para criar projetos. Por exemplo, dentro da tecnologia um 
+grupo de mulheres criou o programa Pólem, com recortes de 
+etnia, LGBT, gênero e deficiência, para promover rodas de 
+discussão sobre esses temas.TIMES DIGITAIS DE ALTA PERFORMANCE34
+Da porta para fora, objetivo é dar visibilidade para a equipe e a marca:
+1. Engajar pessoas para mentorias nas Scale-ups.
+2. Participação e realização em Meetups e Hackatons de Data Science, Produtct Manager 
+e outros temas de interesse dos públicos, incentivando a participação do time inclusive 
+como palestrantes.
+3. Visitas monitoradas para recepção de empreendedores e grandes empresas que quer
+      em entender a lógica das scale-ups.
+4. Página do iFood no Love Mondays e Linkedin, com conteúdo semanal mostrando os eventos 
+      e webinars. Os posts têm o propósito de humanizar os contatos e dar visibilidade para o time.  
+       A página mostra o vídeo #VemseriFood contando histórias que revelam o orgulho de pertencer. 
+5. Assessoria de imprensa, com exposição do time de tecnologia e divulgação de opor
+      tunidades regionais para impulsionar a visibilidade para a vagas.
+“O Employer Branding consegue pegar aspectos da cultura e contar 
+uma história, identificando as questões do dia a dia que se conectam 
+com nossos públicos e dando uma luz para isso.”   
+Nara Zarino, Employer 
+Branding no iFood
+TIMES DIGITAIS DE ALTA PERFORMANCE35
+Você acaba de entrar em uma empresa do mercado financeiro e não encontra homens de terno e 
+gravata. Mas não errou de porta, na verdade você está na sede da Nubank, uma das Fintech mais 
+inovadoras do Brasil. O que você encontra lá? 850 Nubankers de 25 nacionalidades, dos quais 34 % 
+fazem parte da comunidade LGBT e 40% são mulheres ocupando todas as funções e níveis de se-
+nioridade. Esses dados são significativos para a cultura e o tipo de proposta que o Nubank tem no 
+mercado e de como está atraindo talentos de background e vivências muito diversas para entregar 
+algo diferente para o cliente.
+Os gestores acreditam que o sucesso do Nubank também acontece pelo fit cultural da marca. Fica 
+evidente que uma scale-up com uma proposta disruptiva está buscando um perfil diferenciado 
+de pessoas, cujos valores estejam alinhados com o seu propósito. A empresa sabe que não conse -
+guiria trabalhar essa cultura sem profissionais comprometidos e sem enxergar novos formatos de 
+trabalho para entregar inovação em um mercado tão engessado e tradicional.
+“A empresa sabe que não conseguiria trabalhar essa cultura sem profissionais 
+comprometidos e sem enxergar novos formatos de trabalho para entregar 
+inovação em um mercado tão engessado e tradicional.”
+Na retaguarda de todo esse processo um time constrói ações voltadas para o Employer Bran-
+ding em sintonia com a estratégia de Branding. Eles entendem que a marca deve ter uma voz 
+consistente e coerente com o seu propósito. O investimento em Branding e Employer Branding do 
+Nubank esteve presente desde sempre e não apenas na hora que começou a escalar. Essa CASE NUBANK
+TIMES DIGITAIS DE ALTA PERFORMANCE36
+visão de longo prazo deu suporte para o crescimento recente do time: mais de 60% das 
+pessoas não estavam na empresa há 6 meses.
+No Nubank o Employer faz parte da tribo de marketing atuando dentro dos squads e não tra-
+balha sozinho, tem que ser o mais granular possível e conversar com todos, desde quem está 
+entrando hoje até quem está há mais tempo. Tudo para entender porque a pessoa está ali e 
+como ela se vê lá dentro. O processo envolve se conectar com diversas áreas, entender as ne -
+cessidades da marca e a partir daí desenvolver um projeto e um plano de comunicação fiel aos 
+valores e ao lugar onde a marca pretende chegar.
+A aposta é forte na forma de se comunicar com as comunidades que precisam ser conquistadas, 
+as pessoas que pretendem contratar e os influenciadores desses profissionais, com foco em:
+Na estratégia entram as campanhas reforçadas com produção de vídeos para redes sociais que 
+são os canais principais para Employer Branding: como Linkedin, LoveMondays e Glassdoor, canais 
+Diversidade Inclusão TecnologiaAvaliação dos 
+eventos onde 
+querem estar e o 
+que pretendem 
+comunicarUniversidades 
+de dentro e de 
+fora do paísTIMES DIGITAIS DE ALTA PERFORMANCE37
+importantes para pessoas que estão olhando para mudança de carreira.
+A mensagem que o Nubank quer passar para o mercado é o seu propósito 
+de empoderar pessoas e lutar contra a complexidade do mercado financeiro. 
+Muito do que eles enxergam como marca empregadora é que também pos -
+sam lutar contra a complexidade do trabalho, com estruturas mais flexíveis.
+A marca tem um esforço muito grande no processo de recrutamento fo-
+cado para cada papel, com recrutadores altamente especializados. Mas 
+também entram em cena as pessoas do time que terão contato com o 
+contratado. Ter um ponto interno é muito importante, porque as pessoas 
+são diretamente responsáveis por fazer o Nubank crescer e pela quali-
+dade de quem entra para o time. Ter uma cultura tão forte faz com que 
+os Nubankers sejam o primeiro filtro de contratação:
+“A nossa cultura permeia tanto o nosso trabalho que 
+quando você olha para uma pessoa você enxerga o po-
+tencial dela estar aqui no Nubank , de ser uma pessoa 
+que vai se adaptar a um estilo de trabalho mais autô-
+nomo, muito colaborativo, onde não pode ter um ego 
+muito inflado, precisa entender o que dá certo e o que 
+dá errado, entender o fit cultural e o momento técnico 
+que a pessoa está e se isso faz sentido ou não para a empresa. Todos que estão há algum tempo aqui con-
+seguem cumprir esse papel e é onde a gente tira os 
+melhores talentos.”
+ 
+Além do olhar inovador e do que representa como empresa disruptiva 
+na atração dos talentos, o Nubank aposta em estrutura e autonomia. 
+Eles acreditam que todo marketing do mundo não pode suprir uma 
+estrutura ruim, diferente do que ela propaga e sustenta. Para isso in-
+vestem na construção de pequenos times autogerenciados, onde as 
+pessoas tomam suas próprias decisões e conseguem comunicar o seu 
+propósito com os outros times da empresa.
+ 
+“Não adianta ter as melhores pessoas do mercado 
+no seu time se você não dá autonomia para trabalhar 
+como elas acreditam que vão contribuir melhor com 
+o seu negócio” .Ana Paula Maia, Brand 
+Manager no Nubank
+Cristina Junqueira, Co -
+-Founder e VP do Nubank.
+PRÁTICAS DE GES -
+TÃO PARA O CON-
+TEXTO ÁGIL
+03 CAP.TIMES DIGITAIS DE ALTA PERFORMANCE39
+Esqueça os modelos tradicionais de poder, organogramas, regras e 
+hierarquias rígidas. O ambiente digital e as pessoas que são atraídas 
+para ele com seus talentos únicos trabalham em outra “vibe”. As palavras 
+chave agora são influência, autonomia, redes, colaboração, aprendizado 
+sistêmico e decisões ágeis. Vejamos como os novos conceitos de gestão 
+contribuem para oferecer ambientes mais leves e dinâmicos, onde se 
+constrói o sucesso dos negócios.
+Os negócios de base tecnológica mudaram todas as regras e elas pe-
+dem novas práticas de gestão que sigam o mindset digital e seu rit -
+mo ágil. Quando você pensa em alinhamento, obrigatoriamente precisa 
+avaliar os dois lados e o cenário que envolve o relacionamento com os 
+stakeholders internos. Quais são as suas expectativas nesse novo con-
+texto e como elas são decisivas para alcançar os objetivos do negócio. 
+Na interface acontece a mágica do sucesso.
+ 
+O alinhamento pede atitudes coerentes com as novas demandas inter -ALINHAMENTO COM STAKEHOLDERS 
+INTERNOS E INTERFACE COM OS 
+OBJETIVOS DO NEGÓCIOnas e externas do negócio. Todas confirmadas por pesquisas globais, 
+como a Workforce of the Future da PWC, que aponta para a impor -
+tância dos valores, propósito e valorização do ser humano: 
+ 
+Tome decisões baseadas em propósito e valores
+• Construa uma visão de futuro sobre como as pessoas e as máquinas 
+podem colaborar para entregar seu propósito corporativo.
+• Esclareça os valores e comportamentos que sustentam suas políticas, 
+processos, tomada de decisões e prioridades.
+• Identifique e envolva as partes interessadas internas e externas para 
+gerenciar suas expectativas e co-criar o futuro do trabalho.
+• Crie uma narrativa aberta e transparente sobre como você está in-
+fluenciando, planejando e realizando o futuro do trabalho para sua or -
+ganização, sociedade e indivíduos.
+Concentre-se no ser humano
+• Entenda as habilidades que você tem em sua força de trabalho ago-
+ra (não apenas nos papéis que seus funcionários fazem atualmente) e 
+avalie as lacunas para as habilidades que você precisará no futuro.
+• Fortaleça a inovação, criatividade, empatia e capacidades de lide-
+rança em seu negócio ao lado das habilidades críticas em tecnologia.
+• Torne o gerenciamento de talentos e capacidades um assunto de ur -
+gência, ou arrisque perder a batalha para aproveitar avanços tecnológi-
+cos e inovação em seu setor.TIMES DIGITAIS DE ALTA PERFORMANCE40
+• Construa e nutra a adaptabilidade em sua força de trabalho aprovei-
+tando uma mistura flexível de talentos, com novas formas de trabalho 
+e aprendizagem em carreiras radicalmente diferentes.
+• Redesenhe o RH tradicional one-size-fits-all, com programas e políti-
+cas para entregar em nova aprendizagem e modelos de desenvol-
+vimento, planos de carreira, capacidade, modelos e redesenho de 
+postos de trabalho e estruturas de compensação.
+ 
+Priorizar as pessoas é mais que uma palavra de ordem na economia di-
+gital e isso inclui iniciativas da porta para dentro e da porta para fora. A 
+Pesquisa Insight Technology Trends da Accenture aponta para trans -
+formações importantes na forma como as companhias usam inovações 
+e como a digitalização impacta o ambiente de trabalho:
+• Ao explorar a tecnologia para permitir a transformação da força de 
+trabalho, as empresas líderes criarão ambientes altamente adaptáveis 
+e prontos para mudança, que são capazes de atender às demandas 
+dinâmicas digitais de hoje.
+• A vantagem competitiva oferecida por uma ‘força de trabalho líqui-
+da’ se torna aparente quando entrevistados indicam que a ‘disponibi-
+lidade de um profundo conhecimento de tarefas especializadas’ foi a 
+quinta característica mais importante para a boa performance em um 
+ambiente de trabalho digital.
+• Outras qualidades, como ‘a capacidade de aprender rapidamente’ ou 
+‘a habilidade de trocar de ritmo’ tiveram classificações maiores.” Não apenas existe uma força de trabalho líquida, mas um ambiente de 
+trabalho em movimento acelerado de mudanças, como resultado das tec-
+nologias disruptivas. Exatamente esse que faz florescerem as scale-ups, 
+escalando negócios e times na mesma velocidade. O que faz a diferença no 
+resultado final é trazer as pessoas alinhadas com o fit cultural, o propó-
+sito e objetivos do negócio. Lembrando sempre que enquanto você olha 
+para os candidatos avaliando esse alinhamento, eles também olham para 
+a marca empregadora com a mesma lente crítica, buscando sintonia com 
+seus valores mais que um emprego bem remunerado.
+ 
+Mas esse é apenas o começo, porque você precisa garantir que as suas 
+demandas estejam alinhadas com os stakeholders internos, promover um 
+fluxo constante de comunicação com o time e manter todos andando na 
+mesma direção, para garantir que o produto avance com sucesso.
+ 
+“Essencialmente, transformação digital é sobre pes-
+soas, processo e tecnologia, e você precisa da mistura 
+certa de habilidades e um ambiente para as pessoas 
+florescerem, bem como o direito à tecnologia correta 
+para habilitá-los.”  
+Jamie Brighton, diretor de marketing de produtos 
+para o Adobe Experience Cloud, EMEATIMES DIGITAIS DE ALTA PERFORMANCE41
+01
+02
+03PAPEL E AGENDA DE 
+UM LÍDER DE PRODUTO 
+DIGITAL
+Uma das atribuições do líder digital é apoiar 
+as pessoas para que elas se mantenham no 
+aprendizado contínuo para melhorar a perfor -
+mance. Essa postura atende ao mesmo tempo 
+às demandas provocadas pelas novas tecno-
+logias e às expectativas dos times. O aprendi-
+zado contínuo é realidade no presente e futuro, 
+apontado nas pesquisas mais recentes sobre 
+o ambiente de trabalho.
+ 
+A pesquisa Simplifying the Future of Work, 
+conduzida pelo Knowledge@Wharton e SAP 
+indica que as lideranças devem investir tempo 
+e esforço na preparação dos funcionários para 
+uma cultura de negócios simplificada. Os três 
+passos principais são:Obter a adesão de todos os níveis de liderança. A mudança é sobre 
+como gerenciar expectativas e responsabilidades e deve ser apoiada 
+pela alta liderança em palavras e ações. Os líderes precisam liderar, 
+personificar e simplificar, compreender e comunicar sua importância, 
+planejar programas eficazes, medir o sucesso e recompensar o pro-
+gresso.
+Avaliar como a estrutura organizacional e o ecossistema de talen-
+tos refletem suas metas de simplificação. A simplificação de negó-
+cios é projetada como uma abordagem que remove camadas de bu-
+rocracia e redundância que limitam a inovação e a resposta rápida às 
+mudanças na dinâmica do mercado.
+Criar uma cultura de aprendizado e investir tempo, dinheiro e es-
+forço para fornecer oportunidades ao time. Integrando orientação, 
+coaching, aprendizado baseado em ações, atribuições paralelas e 
+acesso aos recursos educacionais que suportam colaboração, crowd-
+sourcing, aprendizado aberto, desempenho e gerenciamento de co-
+nhecimento, de forma que as pessoas se tornem aptas a aplicar habi-
+lidades novas e existentes em seu trabalho.TIMES DIGITAIS DE ALTA PERFORMANCE42
+ 
+“Como um líder em tecnologia, você continuará a 
+enfrentar a rápida aceleração das inovações tecno-
+lógicas que irão impactar profundamente a maneira 
+como você lida com sua força de trabalho, clientes e 
+parceiros. As tendências expostas pelas tecnologias 
+emergentes estão posicionadas para serem as próxi-
+mas tecnologias de maior impacto que têm o poten-
+cial de atrapalhar seus negócios e devem ser ativa-
+mente monitoradas por suas equipes executivas.”
+Mike Walker , vice-presidente de pesquisas da Gartner.Entre as tendências do ambiente de trabalho apontadas na pes-
+quisa 10 Workplace trends you Will see in 2018 destacamos as 
+que mais se relacionam com os novos modelos de gestão:
+Os líderes incentivam mais interações humanas e as em-
+presas continuarão a promover seus espaços de trabalho 
+e a projetá-los para facilitar o relacionamento interpesso-
+al.
+A próxima onda é de aprendizado e a educação é con-
+siderada uma das indústrias mais disruptivas, com mais 
+empregadores aceitando diferentes tipos de credenciais 
+à medida que buscam construir diversidade em seus times.
+As empresas concentram-se no aprimoramento e recicla-
+gem dos trabalhadores atuais e isso acontece porque elas 
+não conseguem encontrar as pessoas certas, com as ha-
+bilidades certas, na hora certa.
+As empresas levam a diversidade mais a sério, investindo re-
+cursos para melhorar a composição da sua força de trabalho.
+1
+2
+3
+4TIMES DIGITAIS DE ALTA PERFORMANCE43
+VELOCIDADE DE DESENVOLVIMENTO DO TIME
+Se você pensar em um contexto de mudanças aceleradas fica ainda mais 
+evidente que a velocidade de desenvolvimento do time deve acompanhar 
+o mesmo ritmo. A cada nova tecnologia, o mercado pede mais inovação, 
+a concorrência é feroz e você precisa investir continuamente nas pessoas 
+que já estão inseridas nos seus projetos para se manter no topo.
+Esse contexto é claramente detectado em pesquisas globais, abordan-
+do diferentes aspectos da cultura digital. A pesquisa Workforce of the 
+Future – The competing forces shapping 2030 da PWC aponta forte-
+mente que a adaptabilidade é essencial para enfrentar as mudanças 
+que vêm por aí. Em todos os cenários desenhados para o futuro fica evi-
+dente que tanto as pessoas como as organizações devem estar prontos 
+para se adaptar.
+Parte da responsabilidade está nas pessoas, que não só enfrentarão mu-
+danças organizacionais, como devem estar dispostas a adquirir novas 
+habilidades e experiências ao longo da vida, experimentar novas tare-
+fas e até mesmo repensar e reciclar no meio da carreira. Por outro lado 
+as organizações devem facilitar as rotas para treinamento e reciclagem 
+e encorajar e incentivar a adaptabilidade e as habilidades cada vez 
+mais valorizadas de liderança, criatividade e inovação.O report Adobe 2018 Digital Trends também tem uma forte aposta no 
+desenvolvimento dos times e afirma que o investimento em competên-
+cias digitais e educação traz retornos e as empresas precisam garantir 
+que elas tenham um equilíbrio de habilidades entre os pensadores ana-
+líticos que podem extrair insights dos dados e o talento criativo para dar 
+vida às campanhas de marketing e publicidade.
+“Pense em você como um conjunto de habilidades e 
+capacidades, não um papel ou profissão definida.”
+   Carol Stubbings , Global Leader, People and Organisation, PwC
+MOTIVAÇÃO E REMUNERAÇÃO
+Ao definir a estratégia de motivação e remuneração o primeiro passo 
+é a análise de quem são as pessoas que formam os times digitais. Para 
+entender quais são as suas aspirações e como corresponder a elas con-
+versamos com Cíntia Martins, da consultoria a.karta.
+No pano de fundo que desenha o perfil do profissional uma das ques -
+tões críticas é entender a cultura da área desses especialistas. Até por -TIMES DIGITAIS DE ALTA PERFORMANCE44
+que ela influencia todo o ecossistema, definindo comportamentos e expectativas 
+para as pessoas de formação diversa que compõem esses times. Cintia se refere 
+a elas como “uma tribo com uma auto imagem bem construída e que sentem-se 
+à vontade atuando entre profissionais com um mindset parecido”.
+ 
+O grupo que forma os times digitais inclui muitos profissionais de base tecnológica, 
+como Desenvolvedores e Data Scientists, mas engloba ainda os Product Managers 
+e UX Designers. São profissões relativamente novas com um mix de habilidades for -
+temente influenciado pelo ambiente de tecnologia. Um Data Scientist por exemplo 
+pode ser um híbrido de hacker de dados, analista, comunicador e consultor. 
+Num mundo onde existe a sobreposição de perspectivas, os modelos de negó-
+cios trouxeram a necessidade de dados e ocorreu uma transição de áreas que 
+eram mais humanas e foram abduzidas por profissionais mais de exatas. O que 
+temos hoje é uma cultura funcional, onde a mesma lógica cultural que agrupa al-
+gumas profissões agrupa as pessoas nos times de negócios digitais e elas estão 
+muito envolvidas com as mesmas aspirações: desenvolver um negócio genial; 
+escalar e dominar o mundo; serem reconhecidas por isso; e que esse reco-
+nhecimento as leve a outros patamares.
+Ao observar a essência de negócios empreendedores estamos falando de um perfil que 
+influencia um tipo de cultura das quais outras funções acabam se inspirando, provocan-
+do quase uma simbiose, em que um vai se alimentando do outro. Como curtem o que 
+fazem são mais reativos aos ambientes disfuncionais e a qualquer possibilidade de des -
+TIMES DIGITAIS DE ALTA PERFORMANCE45
+construir esse contexto. Isso traz uma implicação importante, com mudanças 
+de modelo de gestão, por exemplo como alinhar modelos de avaliação de de-
+sempenho entre áreas de operações e a avaliação para esses times. 
+O estado da arte nesse ponto é a discussão sobre como chegar a um 
+modelo de Performance Management que consiga atender aos diferen-
+tes perfis e expectativas que coexistem nesse tipo de negócio. 
+O perfil tech é o que molda o time, que se vê diferente na questão da 
+autonomia, visibilidade e reconhecimento. Comparados com profissionais 
+de outras áreas eles são mais satisfeitos com o trabalho, têm maior auto 
+estima e têm melhor auto imagem pública. São justamente esses três 
+pontos que estão por trás das boas práticas de motivação e explicam o 
+que move os profissionais dos times digitais:
+• Reconhecimento público
+• Poder palestrar e falar sobre o que sabem em eventos da área
+• Trabalhar com pessoas que são melhores que eles, os “mega blaster” 
+profissionais reconhecidos no meio.
+A oportunidade de visibilidade, para que possam falar do que entendem, 
+pode ser explorada de várias formas e existe uma quantidade enorme de 
+eventos no grupos de “devs” (desenvolvedores). Está aí a chave para atrair 
+e motivar os talentos: investir em cursos, promover Meetups, apoiar eventos nos quais eles vão participar como palestrantes ou na platéia. Essa interação 
+com o meio traz visibilidade tanto para as pessoas como para as marcas e 
+faz com que outros profissionais sejam atraídos com essa troca, criando um 
+círculo virtuoso de retenção e atração de pessoas qualificadas. 
+Essa é uma das fortes apostas da Creditas , que proporcionou a exposição 
+do seu time em mais de 15 eventos apenas em um semestre. A empresa tanto 
+organiza Meetups internos semanais, o que atrai os talentos de fora, quanto 
+leva seu time para eventos de tecnologia visando a troca de conhecimen-
+to e experiências. Não por acaso a Creditas está na segunda posição no 
+ranking do LinkedIn Top Scale-ups 2018, que aponta as empresas de cresci-
+mento exponencial mais atrativas para os jovens talentos.
+ 
+“A diferença de um engenheiro / cientista de dados é que 
+esse jovem fez a escolha técnica e tem como valor a ques-
+tão do legado, quer fazer alguma coisa que mude o mun-
+do. Ele quer ter o nome escrito na história, quer desenvol -
+ver o melhor código, resolver o problema de mobilidade 
+urbana, tem questões bem marcantes em termos de le-
+gado individual.”  
+Cíntia Martins, 
+da a.karta.
+TIMES DIGITAIS DE ALTA PERFORMANCE46
+Como atender a sede de legado individual num contexto em que as 
+pessoas estão trabalhando de forma colaborativa e o time precisa ser 
+recompensado, mas o jovem tem a necessidade de feedback direto? 
+A solução é fazer as duas coisas e esse é o ponto de melhor práti-
+ca. É possível oferecer o reconhecimento dos méritos individuais, com 
+possibilidade de projeção do trabalho pessoal. Do ponto de vista de 
+construção de grupo a solução é usar ferramentas como o Feedback 
+Canvas. Ele consegue trazer a visão do time e de melhoria de forma 
+colaborativa, com a possibilidade de não matar o desejo de legado 
+individual.
+Também é importante avaliar o que move essa geração de jovens que 
+compõem os times digitais. Pesquisa da consultoria a.karta em par -
+ceria com a Fundação Estudar sobre o “Impacto dos jovens nas or -
+ganizações” aponta o que os jovens mais valorizam: transparência de 
+informações, treinamento e mentoria e propósito alinhado àquilo que 
+acreditam. 
+Mas nas scale-ups a hierarquia muda e o recorte das respostas mostra 
+que nesse ambiente os jovens valorizam: propósito alinhado àquilo que 
+acreditam; transparência de informações; e ambiente criativo e dinâmi-
+co. No recorte da a.karta, olhando o perfil dos jovens das scale-ups, a 
+pesquisa mostra ainda como é um bom líder e o resultado pode orientar 
+a gestão dessas equipes:• Alguém que te desenvolve para ser a melhor versão de 
+si mesmo.
+• Alguém que cria relações de confiança e colaboração.
+• Alguém que sabe ouvir e aplicar os feedback recebidos.
+Com base nesse estudo a consultoria a.karta aponta 4 
+iniciativas para potencializar os jovens nas organizações:
+Promoção de uma 
+cultura de liderança 
+mais horizontal.Discussão e revisão de 
+modelos de gestão.
+Capacitar o jovem 
+para que ele saiba 
+influenciar.Apoiar iniciativas para 
+tornar as organiza-
+ções mais ágeis.TIMES DIGITAIS DE ALTA PERFORMANCE47
+Para atender a todas as demandas dos profissionais envolvidos nas novas car -
+reiras, muitos gestores se inspiram no expert em motivação Dan Pink. Ele define os 
+fatores que são a base da Motivação 3.0 e que levam à maior satisfação pessoal. 
+“Essa nova abordagem se baseia em dar aos funcionários três 
+coisas fundamentais: autonomia sobre o trabalho, um senti-
+mento de que eles podem alcançar a maestria e um senso 
+maior de propósito.”  
+              
+                      Dan Pink, autor de Drive .
+ 
+Um bom exemplo de autonomia vem das empresas de tecnologia que permitem a 
+liberdade ocasional de trabalhar em qualquer coisa que os funcionários quiserem. 
+No Google os funcionários receberam o famoso tempo de 80/20. Eles podem gastar 
+80% do seu tempo no trabalho e 20% em projetos paralelos de criação. A iniciativa 
+levou à invenção de hits como Google News, Gmail e AdSense. Os outros dois fa-
+tores enfatizados por Pink são a maestria e o propósito. A maestria é crucial porque 
+as pessoas precisam sentir que estão progredindo para permanecerem engajadas. Mas sem propósito, esse progresso se torna trivial e 
+insatisfatório. Pesquisa da consultoria a.karta com 
+as equipes onde atua responde a questão: 
+“O que motiva equipes ágeis?”. O resultado con-
+firma os três pilares da Motivação 3.0 e aponta para 
+outras expectativas:
+• Mindset de execução.
+• Ser voltado para as entregas, resolver o desafio e 
+ter certeza de que está entregando uma funcio-
+nalidade que vai funcionar para o usuário e para 
+o negócio.
+• Conseguir ser melhor do que sou, busca pela 
+excelência.
+• Impacto em pessoas. 
+• Rápido aprendizado.
+• Materialização do trabalho, ver o que estão 
+desenvolvendo.TIMES DIGITAIS DE ALTA PERFORMANCE48
+A questão do salário está ficando cada vez mais crítica e as 
+scale-ups estão se reorganizando com essa questão, porque 
+o salário é global, tanto as empresas daqui buscam profissio-
+nais no exterior, como o mundo vem buscar os nossos profis -
+sionais. Um empreendedor está montando um negócio digital 
+não pode desconsiderar o preço das pessoas que precisa para 
+produzir a sua idéia. Os times digitais têm o valor de mercado 
+cada vez mais crescente e os investidores sabem disso, tanto 
+que cerca de 70% dos aportes de dinheiro dos investidores são 
+em tecnologia e em times de tecnologia. 
+Participação nos lucros é um item importante para profissio-
+nais de modo geral e as scale-ups que adotam essa políti-
+ca têm maior nível de engajamento. A remuneração variável 
+é utilizada com sucesso por empresas que adotaram essa 
+forma de reconhecimento e compensação financeira para 
+os times. Dinheiro é importante sim, mas não é tudo. Thomas 
+H Davenport, professor e pesquisador do MIT, avalia o que re-
+almente motiva os Data Scientist’s nesse artigo :“O pagamento será, obviamente, um fator. Mesmo para al -
+guém que aceita uma posição por outras razões, a compen-
+sação indica um nível de respeito e o valor que a função deve 
+adicionar ao negócio. Mas uma pesquisa informal sobre as 
+prioridades dos cientistas de dados revelou algo mais im-
+portante. Eles querem estar ‘na ponte’. Uma referência ao se-
+riado de TV de 1960, Star Trek, no qual o capitão da nave es-
+telar, James Kirk, depende muito dos dados fornecidos por 
+Spock: os cientistas de dados querem estar no meio de uma 
+situação em desenvolvimento, com consciência em tempo 
+real do conjunto de escolhas em evolução que apresenta.” TIMES DIGITAIS DE ALTA PERFORMANCE49
+Essa característica é confirmada pela consultoria a.karta, que observa as pessoas deixando grandes organizações 
+para poder trabalhar na possibilidade de desenvolver um negócio que vai mudar o mundo, que vai escalar, que vai 
+impactar milhões de pessoas. Portanto a questão do impacto do negócio é uma estratégia importante para trabalhar 
+e está dentro do propósito. Mas as pessoas também têm suas próprias causas, como Barbara Barbosa que organiza 
+eventos para incentivar mulheres a trabalhar com tecnologia:
+ 
+“Um cara uma vez me falou que eu nunca vou mudar o mundo com 
+esse meu negócio e eu falei que se eu mudar algumas pessoas e elas 
+mudarem o mundo estou feliz. Pra mim é muito realizador.”
+ 
+Barbara Barbosa, cientista de Dados 
+da Creditas, no HuffPost Brasil.TIMES DIGITAIS DE ALTA PERFORMANCE50
+Foi em 2007 , na icônica apresentação de Steve Jobs do primeiro iPho-
+ne, que a nossa relação com os telefones mudou por completo. E foi em 
+2015 que Simon Borrero criou, a partir dessa plataforma, o aplicativo que 
+entrega absolutamente qualquer coisa, com máxima eficiência: o Ra-
+ppi. Foi também a visão de Sam Walton que deu origem à maior rede de 
+varejo do mundo, o WalMart. E foi a ousadia de Marcos Galperin e Her -
+nan Kazah ao criar o Mercado Livre, na Argentina, que transformou cada 
+pessoa do mundo em um potencial vendedor.
+Nós acreditamos que os empreendedores inventam e reinventam o mun-
+do a todo momento. E com isso, mudam também as relações de traba-
+lho, os fluxos de aprendizado e a realidade ao nosso redor.
+Em uma scale-up, tudo muda, o tempo todo e de forma acelerada. As 10 
+empresas mais novas apoiadas pela Endeavor sequer existiam em 2012. 
+E são os empreendedores à frente delas que estão ditando uma nova 
+velocidade para o mundo. Eles constroem empresas de impacto global 
+em poucos anos, ganham escala, transformam mercados, crescem de 
+forma exponencial e se mantêm em velocidade acelerada. São empresas como a Creditas, o Nubank e o Skore, apresentados nesse eBook, negócios 
+inovadores marcados pela alta velocidade.
+Nessas empresas, o time dobra ou triplica de tamanho a cada ano, le-
+vando a mudanças no processo seletivo, na gestão das pessoas e, prin-
+cipalmente, na cultura. Os problemas a que elas se propõem a resolver 
+são grandes e complexos, impossíveis de serem resolvidos sozinhos, forta -
+lecendo a colaboração entre pessoas, times e organizações. As habilida-
+des e competências necessárias são novas e interdisciplinares, fazendo 
+nascer a cada dia uma nova profissão. E, principalmente, os processos e 
+modelos que trouxeram as maiores empresas até aqui não são os mes -
+mos que levarão às scale-ups adiante. 
+Esse contexto abre espaço para um novos playbook com processos, prá -
+ticas e modelos de gestão inéditos e originais. A partir da troca signifi-
+cativa, das mentorias com pessoas do mercado e do uso da inteligência 
+coletiva, aceleramos a curva de aprendizado de todos nesse ecossiste -
+ma no qual tudo pode ser transformado, melhorado e questionado. CONCLUSÃOTIMES DIGITAIS DE ALTA PERFORMANCE51
+É ASSIM QUE VAMOS 
+DESENHAR O FUTURO: 
+FAZENDO DA FOLHA EM 
+BRANCO, ESPAÇO DE 
+EXPERIMENTAÇÃO. 
+A parceria Tera e Endeavor é um exemplo do que somos capazes 
+de construir quando unimos forças e compartilhamos experiên-
+cias. Esperamos que as práticas compartilhadas nesse eBook 
+te provoquem a questionar seu papel de liderança, a formação 
+da cultura que vai te levar a atingir o próximo patamar e, princi-
+palmente, o caminho que você tem trilhado para crescer na mes -
+ma velocidade da sua empresa. Um abraço,
+Camilla Junqueira, 
+Endeavor Brasil
+TIMES DIGITAIS DE ALTA PERFORMANCE52
+Nara Zarino  
+Coordenadora de Comunicação 
+Institucional no iFood 
+Cíntia Martins
+Liderança & Cultura 
+na A.Karta
+Luís Novo
+CEO & Founder da SKORE
+Ana Paula
+Brand Manager 
+no Nubank
+A Tera e a Endeavor agradece a participação dos entrevistados para 
+a produção deste material tão rico! Nosso muito obrigado ;) ENTREVISTADOSTIMES DIGITAIS DE ALTA PERFORMANCE53
+A Endeavor é uma organização global sem fins lucrativos com a mis -
+são de multiplicar o poder de transformação dos empreendedores. No 
+Brasil desde 2000, promove um ambiente de negócios que estimule o 
+crescimento e o impacto dos empreendedores à frente das Scale-ups, 
+empresas de alto crescimento com modelo escalável e inovador.
+Acredita na força do exemplo. Por isso, apoiamos centenas de empre-
+endedores com potencial transformador; e mobilizamos a sociedade 
+para a criação de novas políticas públicas, porque sabemos que para 
+acelerar o crescimento das empresas, precisamos de um ambiente de 
+negócios mais favorável. Dessa forma, os empreendedores geram mais 
+empregos, revolucionam mercados, aumentam a produtividade do país 
+e, juntos, transformam o Brasil.
+endeavor.org.br
+A Tera desenvolve jornadas de aprendizado para inovadores, criativos 
+e sonhadores que querem fazer a diferença num mundo conectado, 
+tecnológico e global.
+Com bootcamps imersivos em UX Design, Product Management, Data 
+Science e Growth Marketing, liderados por uma rede que conta com 
+mais de 100 experts do mercado de tecnologia no Brasil, foi reconhe-
+cida por PEGN, Época Negócios, Endeavor, Google Campus e World 
+Economic Forum como umas das empresas que estão transformando a 
+educação adulta no país e influenciando o futuro do
+trabalho na América Latina.
+somostera.com
+Edição: 
+Edição: Mila Braga 
+Thoth Coletivo de Editores

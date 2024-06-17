@@ -1,0 +1,704 @@
+ PROPTECH & CONSTRUTECH 
+SOBRE A SNAQ A Snaq é uma plataforma de conteúdo sobre inovação, startups e 
+tecnologia. Nosso propósito é levar ao público informações e 
+conteúdos relevantes de maneira clara, simples e objetiva. 
+RESUMO DE NOTÍCIAS 
+Curadoria semanal de notícias sobre inovação, 
+startups e tecnologia diretamente no seu e-mail 
+ACESSAR 
+REPORTS
+Relatórios mensais com aprofundamento de 
+temas de inovação 
+ACESSAR 
+INSTAGRAM 
+Infográﬁcos e notícias relevantes de maneira 
+simples e visual 
+ACESSAR 
+de pessoas alcançadas mensalmente +1 milhão QUERO ME INSCREVER 
+CONFIRA TODOS OS NOSSOS REPORTS ÍNDICE
+INTRODUÇÃO & CONCEITOS 04
+PANORAMA GERAL 08
+ECOSSISTEMA 11
+PERSPECTIVAS PARA O SETOR 21MAPEAMENTO DO SETOR 18
+Te encaminharam esse report? 
+Se inscreva para receber os próximos em primeira mão ! PROPTECH & CONSTRUTECH 
+PALAVRA DOS ESPECIALISTAS 25
+REFERÊNCIAS E TERMOS DE USO 29Proptech & Construtech 2022 
+INTRODUÇÃO & 
+CONCEITOS 5 Proptech & Construtech 2022 
+HIGHLIGHTS DO SETOR INTRODUÇÃO: UM PANORAMA SOBRE O SETOR 
+10% 
+do produto interno bruto (PIB) 
+do país é representado pelo setor 
+de construção civil e mercado 
+imobiliário. 
+Durante as restrições impostas 
+pela pandemia, o setor manteve 
+um bom ritmo de atividade, criou 
+emprego e renda, e a construção 
+civil teve papel central na 
+retomada econômica. 
+R$ 1,7 bi 
+foi o valor captado pelas 
+proptechs latino-americanas 
+em maio de 2022, segundo a 
+Sling Hub. Grande parte dessas 
+startups são brasileiras.O setor de construção civil e o mercado imobiliário representam um dos principais segmentos da economia 
+global, com grande potencial de crescimento, especialmente em países emergentes. No Brasil, estima-se que 
+represente quase 10% do PIB, além de ser forte empregador e ter impacto direto na qualidade de vida da 
+população. 
+As restrições impostas pela pandemia nos últimos dois anos se traduziram em novos hábitos e soluções, com 
+destaque para o processo de digitalização do mercado em geral. Mas, em contraste com outras indústrias, 
+que passaram por uma rápida transformação digital, o setor ainda conta com inúmeras diﬁculdades para 
+acoplar a inovação e a tecnologia - cujo papel é justamente acelerar os processos produtivos, aumentar a 
+capacidade de adaptação dos produtos e serviços e entregar soluções mais eﬁcazes para o cliente ﬁnal, por 
+exemplo. 
+Esses desaﬁos podem ser vistos, sob uma outra perspectiva, como uma grande oportunidade de geração de 
+valor. Nesse contexto, as proptechs (property tech), construtechs (construction tech) e real estate tech 
+ampliam a fronteira do mercado com o uso de tecnologias disruptivas  – inteligência artiﬁcial, blockchain, 
+internet das coisas, entre outras – e, a integração de serviços ﬁnanceiros ao segmento imobiliário e de 
+construção civil. 
+Fonte: Distrito 6 Proptech & Construtech 2022 
+PROPTECH & CONSTRUTECH: 
+O QUE SÃO E COMO ATUAM 
+CONSTRUTORAS 
+Executam a construção, 
+atuando na elaboração do 
+projeto de engenharia, na 
+contratação e gestão de 
+insumos, mão de obra, 
+fornecedores e equipamentos, 
+e na realização de testes de 
+qualidade e segurança até a 
+entrega da unidade construída. 
+ESTANDE 
+DE VENDAS 
+Tem por objetivo mostrar os 
+projetos através de 
+maquetes, mapas interativos, 
+tour online e até óculos de 
+realidade virtual. IMOBILIÁRIAS  
+Atuam como intermediários 
+do processo de compra, 
+venda ou aluguel de um 
+determinado imóvel. INCORPORADORAS 
+Identiﬁcam oportunidades, 
+executam a articulação comercial e 
+administram os empreendimentos – 
+compram terrenos, deﬁnem o 
+orçamento das obras e desdobram a 
+estratégia de venda das unidades. ECOSSISTEMA DO SETOR IMOBILIÁRIO E CONSTRUÇÃO 
+CONSTRUÇÃO CIVIL  
+Se refere a todo tipo de construção que interaja com a 
+sociedade, como edifícios, estradas e obras de 
+saneamento básico, por exemplo. Engloba empresas 
+construtoras e incorporadoras, que são responsáveis 
+pelo desenvolvimento dos projetos. 
+Nicho de atuação das Construtechs Nicho de atuação das Proptechs Frentes de atuação das empresas do ecossistema 
+OUTRAS FRENTES 
+Há ainda inúmeras frentes 
+complementares, que realizam atividades 
+como elaboração de documentos 
+imobiliários, oferta de  crédito imobiliário 
+e monitoramento de condomínios 
+residenciais, por exemplo. 
+Fontes: Distrito | Adaptação e elaboração Snaq Segundo a pesquisa Proptech 3.0: The Future of Real Estate, por deﬁnição as proptechs (property tech) 
+aplicam tecnologia da informação no setor imobiliário: oferecem informações, facilitam transações – compra, 
+venda, aluguel – e gerenciamento de imóveis, por exemplo. Enquanto isso, as construtechs (construction 
+tech) usam tecnologia e inovação no “mundo construído”, como elaboração de projetos, fabricação e 
+implementação de infraestruturas, controle na cadeia de suprimentos, dentre outros, impactando na 
+atuação tradicional de arquitetos, engenheiros, empresas de construção e gestão de obras. 7 Proptech & Construtech 2022 
+E REAL ESTATE TECH? 
+Fonte: Proptech 3.0: The Future of Real Estate | Elaboração Snaq REAL ESTATE TECH: CONVERGÊNCIA COM FINTECHS 
+VERTICAIS DE ATUAÇÃO  
+Projeto e 
+viabilidade Construção Aquisição Propriedade 
+em uso 
+Execução do projeto, 
+envolvendo mão de 
+obra, fornecedores e 
+questões de segurança. Articulação entre 
+compradores, vendedores, 
+corretores, inquilinos e 
+locadores a ﬁm de 
+transacionar o imóvel. As empresas de real estate tech permeiam toda a cadeia de valor 
+Identiﬁca terrenos, 
+viabilidade de 
+construção, 
+modelagem e formas 
+de ﬁnanciamento. 
+Por exemplo, temos a oferta de crédito, que envolve o ﬁnanciamento  do lote 
+(projeto e viabilidade), da obra (construção), do imóvel pronto (aquisição) e 
+de reformas (propriedade em uso). 
+Fonte: Terracotta Ventures | Elaboração Snaq 
+¹ Report Real Estate 2021 – Terracotta Ventures 
+Conforme o estudo Proptech 3.0: The Future of Real Estate, o termo real estate tech se refere às plataformas 
+baseadas em tecnologia que facilitam a negociação de ativos imobiliários e permeiam toda a cadeia de valor 
+do setor. Podem oferecer informações e conectar potenciais compradores e vendedores, intermediar 
+transações de propriedade e até oferecer crédito para ﬁnanciar imóveis, por exemplo. 
+Exploração do potencial 
+do imóvel, com seguros 
+residenciais, crédito e 
+home equity, dentre 
+outros. Proptech & Construtech 2022 
+PANORAMA 
+GERAL 9 Proptech & Construtech 2022 
+A taxa Selic é referência para 
+a deﬁnição das taxas de 
+ﬁnanciamento imobiliário e 
+oferta de crédito. Eles ﬁcam 
+mais caros quando os juros 
+sobem e vice-versa. SAZONALIDADE 
+Os ciclos econômicos 
+determinam o volume de 
+vendas do setor. Ciclos de 
+alta impulsionam o setor, 
+enquanto os ciclos de baixa 
+pressionam o crescimento. Os índices de aumento 
+generalizado de preços 
+merecem atenção, uma vez 
+que determinam o poder de 
+compra da população. Um 
+dos principais índices de 
+referência é o IGP-M. 
+JUROS INFLAÇÃO 
+ ² https://cbic.org.br/pib-da-construcao-civil-cresce-mas-e-preciso-atencao-com-o-futuro-avalia-cbic/  ¹ Global Economic Prospects (Junho 2022) – World Bank. CENÁRIO GLOBAL 
+O desempenho do setor é considerado o “termômetro da economia”, especialmente no Brasil, uma vez que 
+tem grande representatividade no produto interno bruto (PIB), no volume de investimentos e no mercado de 
+trabalho. Em outras palavras, representa um bom indicador de crescimento econômico e geração de 
+empregos do país. 
+No momento mais crítico da pandemia, veriﬁcou-se uma crescente busca por imóveis e reformas, somado à 
+juros mais baixos que tornaram empréstimos e ﬁnanciamentos mais baratos entre 2020 e 2021. De acordo 
+com a Câmara Brasileira da Indústria de Construção (CBIC)², instituição que representa institucionalmente a 
+construção civil e o mercado imobiliário do país, o setor registrou um crescimento de 9,7% na comparação 
+anual 2021; é o melhor desempenho desde 2010 . Isso merece destaque dado que, mesmo ante um 
+contexto desaﬁador, houve avanços em termos de geração de empregos e renda na economia nacional. 
+Porém, exige-se cautela no atual momento. Entre os motivos, estão a persistência do aumento dos custos – 
+ante alta de preços de commodities  – , a corrosão do poder de compra das famílias devido à inﬂação e a 
+escalada dos juros. 
+SAZONALIDADE 
+ JUROS INFLAÇÃO 
+REFLEXOS NO SETOR DE CONSTRUÇÃO CIVIL 
+E MERCADO IMOBILIÁRIO Conforme o estudo do Banco Mundial¹,  a inﬂação global aumentou de 
+forma considerável a partir de seus níveis mais baixos em meados de 
+2020, e os bancos centrais têm atuado a ﬁm de controlar o aumento 
+generalizado dos preços. 
+A ruptura das cadeias globais de produção, dadas as restrições impostas 
+pela pandemia, e a presença de estímulos monetários provocou um 
+desarranjo entre oferta e demanda. Mais recentemente, esse fenômeno 
+ganhou intensidade com a guerra entre Ucrânia e Rússia – um dos 
+principais fornecedores de commodities  do mundo. Como efeito, os 
+bancos centrais têm adotado uma postura mais restritiva. A tendência é 
+que os recursos ﬁquem mais limitados e caros , além de que ocorra 
+uma “corrida” para ativos de menor risco no curto prazo. 
+A previsão do Banco Mundial é que a economia global siga em 
+desaceleração e que pode entrar em período de estagﬂação, 
+combinação de crescimento fraco com inﬂação elevada .
+10 Proptech & Construtech 2022 
+JUROS, INFLAÇÃO & CRESCIMENTO ECONÔMICO 
+Conforme visto na seção anterior, o setor tem forte relação com o desempenho econômico do país. A recente 
+elevação da taxa Selic – taxa de juros de referência do país – impacta todas as taxas de juros existentes no 
+país, inclusive de ﬁnanciamentos e empréstimos. Em termos práticos, tornam-se mais caros com a recente 
+escalada dos juros desde 2021. Por sua vez, o IGP-M (Índice Geral de Preços), que considera a inﬂação ao 
+produtor, consumidor e construção civil, é a principal referência para o setor imobiliário e ajuste de contratos. 
+O pico, visto em meados de 2021, foi impulsionado sobretudo pelos preços dos combustíveis. 
+PIB: EVOLUÇÃO DAS TAXAS DE CRESCIMENTO TRIMESTRAL 
+comparação com o trimestre anterior, em % 
+Fonte: IBGE 
+Fonte: Banco Central do Brasil e Fundação Getúlio Vargas | Elaboração Snaq TAXA SELIC NOS ÚLTIMOS 10 ANOS 
+em % ao ano 
+IGP-M
+acumulado nos últimos 12 meses, em % 
+Juros e inﬂação em alta, somado a 
+um crescimento econômico mais 
+baixo, podem pressionar o setor de 
+construção civil e imobiliário.  Proptech & Construtech 2022 
+ECOSSISTEMA 12 Proptech & Construtech 2022 
+Como seria de se esperar, dado as diferentes maturidades nos ecossistemas de inovação e o porte das 
+economias, em termos de número de startups e de deals, podemos observar nos gráﬁcos abaixo que os 
+maiores volumes estão no hemisfério norte, sobretudo nos Estados Unidos e países europeus. Nesta seção, 
+os dados referentes ao termo proptechs englobam construtechs e real estate techs também. MUNDO
+DISTRIBUIÇÃO GLOBAL DE PROPTECHS 
+Os Estados Unidos tem o 
+maior número de startups 
+do setor – são cerca de 1.100 
+no país.
+Fonte: PropTech Global Trends 2021 | Elaboração Snaq 
+Fonte: FinTech Global | Elaboração Snaq 
+NÚMERO DE DEALS POR REGIÃO 
+Dados em %, referentes a 2021 
+(Total: 255) 
+1.200
+20Total de 
+proptechs por 
+país em 202113 Proptech & Construtech 2022 
+Os Estados Unidos são líder no número de investimentos e de empresas do setor, com um gap signiﬁcativo 
+em comparação ao resto do mundo. Enquanto isso, em segundo lugar em termos de montante investido, 
+está a China; cabe destacar que o país mais populoso do mundo concentra a maior parte dos  seus recursos 
+investidos no próprio continente asiático. 
+PRINCIPAIS DESTINOS DOS 
+INVESTIMENTOS EM 2022 
+Projeção em US$ milhões 
+Fonte: PropTech Global Trends 2021 | Elaboração Snaq 
+PRINCIPAIS INVESTIDORES DE 
+PROPTECHS EM 2022 
+Projeção em US$ milhões 
+O Brasil apresenta 
+grande potencial 
+dado o tamanho da 
+população e extensão 
+territorial, o que atrai 
+uma parcela 
+signiﬁcativa dos 
+investimentos. 
+PRINCIPAIS EMPRESAS DO MUNDO 
+Em termos de captação até abrir capital e relevância no setor nos últimos 20 anos. 
+2008 | Estados Unidos 
+Airbnb é um marketplace 
+de oferta de acomodações 
+para usuários de diversos 
+países. Fez 24 aquisições e 
+está listado na NASDAQ 
+(ABNB).2010 | Estados Unidos 
+WeWork fornece locais 
+de coworking para 
+pessoas e empresas. Fez 
+21 aquisições e está 
+listada na NYSE (WE). 2017 | China 
+Ke.com é um 
+marketplace imobiliário 
+que atua em mais de 10 
+países, principalmente na 
+China. Está listado na 
+NYSE (BEKE). US$ 22 bi US$ 6,4 bi US$ 3,6 bi 
+Fonte: Crunchbase e PropTech Global Trends 2021 | Elaboração Snaq 14 Proptech & Construtech 2022 
+Segundo o estudo do Center for Real Estate Technology & Inovation (Creti), após uma desaceleração do 
+volume de investimentos em proptechs em 2020, devido às incertezas provocadas pela pandemia de 
+Covid-19, os investimentos bateram recorde ano passado e superaram os US$ 32 bilhões. Em 2022, 
+pondera-se o atual cenário desaﬁador para o capital de risco no geral e uma desaceleração dos 
+investimentos no curto prazo. VOLUME DE INVESTIMENTOS 
+Fonte: Creti | Elaboração Snaq DISTRIBUIÇÃO POR RODADA DE INVESTIMENTO 
+Fonte: Creti | Elaboração Snaq 
+INVESTIMENTOS EM PROPTECHS 
+Valores aproximados em US$ bilhões 
+28% 
+dos investimentos em 
+venture capital foram 
+direcionados para 
+proptechs em 2021. 
+Nota-se que grande parte 
+dos investimentos em 
+venture capital foram 
+direcionados para rodadas 
+mais avançadas em 2021. Ou 
+seja, para empresas mais 
+maduras do setor. 15 Proptech & Construtech 2022 
+282% 
+Crescimento do número de 
+startups ativas entre 2017 e 2022.
+12,4% 
+É a taxa de mortalidade. Esse 
+indicador representa o 
+percentual de startups que 
+encerraram suas atividades nos 
+últimos 12 meses. O patamar 
+atual é considerado estável.
+Fonte: Distrito e Terracotta Ventures | Elaboração Snaq É o número de startups 
+brasileiras que atuam no 
+setor de construção e 
+imobiliário. Desse total: 
+65% 
+são proptechs35% 
+são construtechsTOTAL DE 
+STARTUPS 
+955 
+R$ 634 mi 
+foram investidos em 
+empresas early stage, o 
+que mostra crescimento de 
+84% na comparação anual 
+67
+rodadas de investimentos, 
+alta de 11,6% na 
+comparação anualR$ 5,8 bi 
+investidos startups do setor 
+em 2021O ecossistema brasileiro de proptechs e construtechs segue em evolução, com crescimento de quase 300% 
+no número de empresas ativas nos últimos cinco anos. Em 2022, de acordo com o mapeamento realizado 
+pela Terracotta Ventures, são quase 1.000 startups, sendo mais da metade delas proptechs. BRASIL16 Proptech & Construtech 2022 
+Fonte: Distrito | Elaboração Snaq 
+Fonte: Terracotta Ventures | Elaboração Snaq 
+EVOLUÇÃO DO NÚMERO DE PROPTECHS NO BRASIL 
+EVOLUÇÃO DO NÚMERO DE PROPTECH, CONSTRUTECH & 
+REAL ESTATE TECH NO BRASIL 
+Segundo a Distrito, o maior pico de abertura de startups concentra-se nos últimos cinco anos. Se somadas as 
+duas frentes de atuação – construtech e proptech – , nota-se que o número de startups segue em ritmo de 
+crescimento, mesmo diante de um cenário mais restritivo para investimentos. A seguir, são apresentados os 
+dados apurados pela Distrito – que contemplam apenas o número de proptechs brasileiras – e pela 
+Terracotta Ventures – que apresentam a evolução do número de startups do setor como um todo. 17 Proptech & Construtech 2022 
+Fonte: Terracotta Ventures | Elaboração Snaq 54% 
+dos casos uma empresa de 
+tecnologia adquiriu uma startup 
+nos últimos cinco anos.O ecossistema de startups brasileiro ganhou maturidade nos últimos cinco anos. Como efeito, o volume 
+de transações de M&A (fusões e aquisições) foi impulsionado no período, inclusive no setor de construção 
+civil e mercado imobiliário. Quase metade das iniciativas foram lideradas por grandes corporações. Isso 
+evidencia a disputa entre startups e empresas tradicionais na busca por liderar o setor em termos de 
+tecnologia e inovação. FUSÕES & AQUISIÇÕES 
+~50% 
+das transações ocorreram em 2021. 
+Foram mais de 50 transações nos 
+últimos cinco anos, sendo que 23 
+foram feitas no ano passado.
+46% 
+dos casos grandes corporações 
+realizaram a transação, a ﬁm de se 
+posicionar no processo de digitalização e 
+expansão dos negócios.
+FORMAÇÃO DE GRANDES ECOSSISTEMAS 
+COM TECNOLOGIA E INOVAÇÃO 
+O “boom” de aquisições e investimentos das principais startups do setor têm por objetivo ampliar seus 
+alicerces no setor, com atuação em diversas frentes de negócios. 
+Fonte: Crunchbase | Elaboração Snaq 2018 | São Paulo, SP 
+Tornou-se unicórnio em 2020 
+e já captou US$ 790 milhões, 
+convertidos na aquisição de 
+dez empresas. 
+2012 | São Paulo, SP 
+Tornou-se unicórnio em 2018 e 
+totalizou US$ 755 milhões de 
+captação, convertidos na 
+aquisição de seis empresas. 
+Proptech & Construtech 2022 
+MAPEAMENTO 
+DO SETOR 19 Proptech & Construtech 2022 
+Empresas brasileiras têm atuado de diversas formas no setor de construção civil e mercado imobiliário, desde 
+elaboração de projetos de obras tridimensionais, otimização de processos produtivos até marketplaces para 
+conectar proprietários, inquilinos e compradores de imóveis. Hoje, o país conta com quase 30 unicórnios – 
+conceito que se refere às startups avaliadas em US$ 1 bilhão – , dos quais dois são proptechs: QuintoAndar e 
+Loft. Nota-se que essas duas empresas têm realizado diversas aquisições nos últimos dois anos, a ﬁm de 
+expandir suas respectivas frentes de atuação. CASES DE SUCESSO NO BRASIL 
+2021 | Florianópolis, SC 
+Aplicação de tecnologia 
+para uma gestão de obras 
+mais eﬁciente e previsível. 
+2019 | São Paulo, SP 
+Soluções de software e 
+hardware industriais, como 
+monitoramento em 
+tempo real e sensores. 
+2019 | São Paulo, SP 
+Gestão de propriedades 
+em uso e investimentos 
+residenciais para renda. 
+2013 | São Paulo, SP 
+Auxilia construtoras e 
+incorporadoras durante toda 
+jornada produtiva. Captou US$ 
+45 milhões em 7 rodadas. Em 
+2019, adquiriu a Conaz. 
+2014 | São Paulo, SP 
+Oferta de soluções 
+imobiliárias. Antes MAX 
+Finanças, foi renomeada de 
+Atta. Foi adquirida pelo 
+QuintoAndar em 2021. 
+2011 | Campinas, SP 
+inGaia agora é Kenlo, 
+marketplace de mercado 
+imobiliário. Captou R$ 122 
+milhões em 6 rodadas, 
+investidos pela Jive 
+Investments. 
+2018 | Rio de Janeiro, RJ 
+Marketplace que auxilia 
+compradores e vendedores de 
+imóveis. Captou US$ 32 
+milhões em 4 rodadas. 
+2018 | São Paulo, SP 
+Conecta proﬁssionais e 
+empresas do setor de 
+construção civil. Captou 
+US$ 100 milhões em uma 
+única rodada em 2021; 
+2014 | Tubarão., SC 
+Execução de obras de ponta a 
+ponta. Captou R$ 74 milhões 
+em uma única rodada. 20 Proptech & Construtech 2022 
+PROPTECHS & CONSTRUTECHS: MAPEAMENTO BRASIL 
+CONSTRUÇÃO PROJETO E VIABILIDADE 
+AQUISIÇÃO + PROPRIEDADE EM USO 
+Proptech & Construtech 2022 
+PERSPECTIVAS 
+PARA O SETOR 22 Proptech & Construtech 2022 
+¹ The Next Normal in Construction – McKinsey & Company 
+UMA NOVA FORMA DE CONSTRUIR 
+Conforme o relatório publicado pela consultoria McKinsey & Company¹, a construção civil é o segundo pior 
+setor em termos de integração de tecnologia e inovação, atrás apenas de agricultura. Pensar em uma nova 
+forma de construir – desde a elaboração de projeto de forma digital até soluções logísticas na cadeia de 
+suprimentos, por exemplo – , pode trazer ganhos de eﬁciência e produtividade para o ecossistema do setor, 
+que por sua vez se traduzem em impacto signiﬁcativo no PIB global dada sua grande representatividade. 
+Na prática, podemos veriﬁcar as tarefas manuais em canteiros de obras sendo automatizadas por robôs e 
+inteligência artiﬁcial. Enquanto a realidade virtual vem auxiliando na visualização de processos e criação de 
+representações imersivas dos projetos de construção, o que aumenta a segurança e a produtividade. 
+Fonte: McKinsey & Company | Elaboração Snaq 23 Proptech & Construtech 2022 
+O mercado imobiliário tradicional também conta com diﬁculdades para acoplar a inovação e a tecnologia, 
+mas houve avanços mais signiﬁcativos do que o veriﬁcado na construção civil. As restrições impostas pela 
+pandemia exigiram uma aceleração da digitalização dos serviços oferecidos por imobiliárias, foi terreno fértil 
+para softwares de gestão de propriedades e canais de atendimento online, por exemplo. Tais iniciativas estão 
+garantindo cada vez mais espaço e ainda há muito para ser feito pelos players do setor.
+VEIO PRA FICAR: MAIS INOVAÇÃO E TECNOLOGIA 
+PORTAL DE 
+OFERTAS DADOS E 
+PRECIFICAÇÃO GESTÃO DE 
+PROPRIEDADE GESTÃO DE 
+REFORMAS 
+MARKETING SMART 
+HOUSESEGUROS SERVIÇOS 
+FINANCEIROS 
+iBuyers 
+2%Smart 
+house 
+4%
+Seguros e 
+serviços 
+ﬁnanceiros 
+11%
+Marketing 
+21%Dados e 
+preciﬁcação 
+2% Gestão de 
+Reforma 
+10%
+Gestão de 
+Propriedade 
+20%
+―Gestão de condomínio 
+―Segurança remota 
+―Smart Building 
+―Vistorias
+Portal de oferta 
+30%
+―Venda e aluguel de 
+imóveis
+―Aluguel de espaço 
+―Serviços e manutenção de 
+limpeza
+―Produtos de decoração 
+―Permuta de imóveis 
+Fonte: Distrito | Elaboração Snaq SERVIÇOS OFERECIDOS PELAS PROPTECHS 
+Grande parte das proptechs oferecem portais de oferta, marketing e gestão 
+de propriedades, respectivamente. 24 Proptech & Construtech 2022 
+¹ https://a16z.com/2019/11/21/banking-on-the-future/   SMART CITIES 
+Em português, as cidades inteligentes são sistemas nos quais as pessoas interagem entre si e usam energia, 
+materiais, serviços e ﬁnanciamento a ﬁm de promover o desenvolvimento econômico e a melhoria da 
+qualidade de vida. São denominadas inteligentes pois utilizam de forma estratégica infraestrutura e serviços 
+de informação com planejamento e gestão urbana. 
+Entre as iniciativas, estão o gerenciamento de uma infraestrutura automatizada com inteligência artiﬁcial (AI), 
+sensores avançados e redes de dados de alta velocidade, que permitem o monitoramento instantâneo de 
+trânsito, segurança e abastecimento de água, por exemplo. OUTRAS TENDÊNCIAS 
+“FINTECHZAÇÃO” 
+O artigo “Por que todas as empresas se tornarão ﬁntechs” – publicado por Angela Strange, sócia da gestora de 
+venture capital Andreessen Horowitz (a16z)¹ – sustenta a tese de que, no futuro, qualquer empresa terá uma 
+parcela signiﬁcativa de sua receita oriunda de serviços ﬁnanceiros, inclusive as empresas do setor de 
+construção civil e mercado imobiliário. Para Strange, produtos ﬁnanceiros desenvolvidos pelas próprias 
+empresas são melhores do que aqueles criados por bancos para atender à demanda mais ampla do mercado 
+geral.
+MATERIAIS SUSTENTÁVEIS 
+O setor de construção civil está entre os maiores poluidores do meio ambiente – por exemplo, o cimento é 
+responsável por cerca de 8% das emissões globais de CO2, de acordo com o instituto de pesquisa Chatham 
+House. Assim, com a implementação da agenda ESG, os materiais de construção sustentáveis podem ganhar 
+espaço, como concreto reciclado, painéis solares e vidros inteligentes. Proptech & Construtech 2022 
+PALAVRA DOS 
+ESPECIALISTAS 26 Proptech & Construtech 2022 
+1) De que forma as empresas mais tradicionais do 
+setor de construção civil estão se posicionando para 
+implementar inovação e tecnologia? 
+No processo produtivo, enxergamos essa implementação 
+em diversas frentes. Nota-se a introdução de técnicas, de 
+ferramentas mais eﬁcientes nas obras e do uso de novos 
+materiais de construção; além de softwares para 
+acompanhar todas as pontas do projeto – desde a 
+concepção até a entrega. Como efeito, você equilibra o 
+custo-benefício ao minimizar a terceirização das etapas 
+produtivas e evita desperdícios de recursos. 
+2) Como acoplar essas mudanças às estruturas já 
+existentes? 
+Quando você junta as duas frentes – de tecnologia de 
+sistema construtivo e software – o resultado é verticalizar 
+e deixar mais eﬁciente as etapas do processo. Você gera 
+um diferencial competitivo e de inovação que é 
+percebido pelo consumidor ﬁnal. Nós e muitas empresas 
+tradicionais do setor, investimos pesado, desde novos 
+modelos construtivos à experiência de compra, incluindo 
+adoção de modelos de negócios de outros setores. 
+3) Como atender às demandas da agenda ESG dentro 
+de um dos setores mais tradicionais e intensivos em 
+matéria prima?  É necessário romper com toda a 
+cadeia tradicional (materiais, forma de construir, 
+qualiﬁcação da mão de obra)? 
+Acreditamos, dentro da companhia e também com os 
+clientes, em um modelo educativo e de bons costumes. 
+Desde áreas envidraçadas que permitam menor uso de 
+energia elétrica até um centro de triagem que trata de 
+100% dos resíduos para reutilização. Também investimos 
+em sistemas de reutilização de água em todas as obras – 
+inclusive recompramos itens do centro de triagem, a ﬁm 
+de gerar menor impacto ambiental – e atuamos no 
+aculturamento do time em todas as fases do projeto para 
+a busca de soluções limpas e enxutas. Nenhum resíduo é 
+devolvido à natureza. 
+4) Qual é o papel do setor na implementação das 
+smart cities (cidades inteligentes)? Como elas 
+poderão melhorar a qualidade de vida das pessoas? 
+Acreditamos que o setor tem a responsabilidade de 
+liderar a implementação das smart cities, a ﬁm de 
+economizar o tempo das pessoas e fazer com que elas 
+interajam entre si. Este modelo é pensado para a boa locomoção das pessoas, 
+no impacto positivo na forma de viver, trabalhar, no 
+dia-a-dia da família em contato com a natureza, além de 
+oferecer acesso a serviços mais personalizados e eﬁcientes. 
+5) O setor tem grande representatividade na economia 
+brasileira. De que forma implementar novas tecnologias 
+e inovações podem ajudar a manter um ritmo acelerado 
+de crescimento do setor e, por consequência, a 
+retomada da atividade econômica do país? 
+Hoje, o Brasil tem um déﬁcit enorme de moradias, uma vez 
+que o custo de obra e ﬁnanciamento tem aumentado 
+consideravelmente, o que torna cada vez mais difícil a 
+aquisição. A tecnologia é fundamental para deixar a 
+moradia mais acessível, pois traz eﬁciência ao 
+aproveitamento imobiliário sob diversos ângulos: na 
+contratação de mão de obra, no gerenciamento e no uso 
+compartilhado, na visitação do imóvel, no processo de 
+venda, dentre outros. 
+6) Para você, quais são as perspectivas para o setor no 
+médio e longo prazo? 
+O setor continua muito promissor pelo aculturamento do 
+brasileiro no investimento do imóvel e pelo desejo da casa 
+própria. Mas quem permanecer no modelo tradicional vai 
+ﬁcar para trás. Com o mundo cada vez mais globalizado, as 
+melhores práticas de construção estão ao alcance de todos. 
+E as pessoas também estão atrás de locais mais eﬁcientes e 
+econômicos, preocupados com a maneira com que se 
+constrói e o que este imóvel oferece. Assim, a perspectiva 
+para o setor é boa – em especial para quem se diferencia na 
+entrega de uma moradia que funciona para o morador, 
+sem abrir mão de uma boa localização. 
+O Grupo ABC Empreendimentos / Embralot atua nas 
+divisões de urbanismo e verticais. Com landbank de 15 
+milhões de m² e forte atuação em Santa Catarina, o 
+grupo busca gerar, através dos empreendimentos, 
+convívio com a natureza e impacto positivo, além de 
+alto retorno ﬁnanceiro aos investidores. Entrevista ABC 
+Empreendimentos 
+Thiago Cabral 
+(CEO da ABC Empreendimentos / Embralot) 
+27 Proptech & Construtech 2022 
+Não dá pra falar sobre automatização e 
+modernização do mercado imobiliário sem 
+mencionar a questão da documentação. Toda a 
+cadeia do mercado passa inevitavelmente pela 
+produção e análise de uma série de documentos. 
+Um dos principais documentos é a Matrícula 
+Imobiliária, que é a “biograﬁa” do imóvel. Nela, são 
+registradas todas as transferências de propriedade, 
+seja por uma venda, herança ou outro meio; 
+também registrados os ônus que recaem sobre o 
+imóvel, como quando ele é dado em garantia a um 
+ﬁnanciamento imobiliário ou se ele sofreu uma 
+penhora. 
+E não é só isso. Qualquer evento que possa afetar 
+algum aspecto do imóvel ou de seus proprietários 
+precisa estar na matrícula como, por exemplo, se o 
+proprietário casa ou se divorcia, se foi feita alguma 
+obra que alterou a metragem do imóvel ou se o 
+nome da rua mudou. 
+A matrícula é um documento bastante complexo e 
+despadronizado. São mais de 3.000 cartórios de 
+registro de imóveis no Brasil e cada um deles tem 
+sua maneira de escrever. Além disso, a linguagem 
+também mudou com o passar do tempo. Isso 
+diﬁculta o trabalho de quem vai analisar uma 
+matrícula, e a leitura precisa ser muito cuidadosa 
+para não gerar erros. 
+Este documento caótico forma toda a base do 
+mercado imobiliário no Brasil e, portanto, o número 
+de operações em que está presente é enorme. Em 
+2021, foram mais de 1,1 milhão de transferências de 
+imóveis registradas só no estado de São Paulo. E 
+não é só na hora de comprar ou vender um imóvel 
+que a matrícula está presente; qualquer operação 
+que use o imóvel como garantia, como uma 
+alienação ﬁduciária ou uma securitização de 
+recebíveis, a matrícula precisa ser analisada. Ou seja, 
+são vários milhões de documentos lidos todo ano no 
+Brasil.
+De acordo com estimativas da Beaver, um analista 
+leva, na média, 10 minutos para ler uma matrícula 
+de cinco páginas. Por sua vez, o sistema 
+automático de leitura da startup pode reduzir 
+em até seis vezes esse tempo e mitigar erros . 
+“Um dos nossos clientes é uma BPO prestadora de 
+serviços de análise documental a grandes bancos. 
+Pelo contrato dela com os bancos, ela paga uma 
+multa quando comete erros. Ao passar a usar o 
+nosso sistema de análise automático, a multa foi 
+reduzida em 60%”, disse Alessandro Allodi, CEO da 
+Beaver. 
+Outro cliente, uma casa de leilões de imóveis, usa o 
+sistema para ajudar na produção do edital do leilão. 
+Para isso, a Beaver extrai as características do 
+imóvel, os dados do proprietário atual e, 
+principalmente, os ônus que estão em aberto e que 
+impossibilitaram a venda. Depois de extraídos e 
+conferidos pelo operador do cliente, os dados são 
+inseridos diretamente no template do edital. Em 
+seguida, o operador inclui os dados faltantes e 
+publica o edital no seu site. Esse processo leva 
+poucos minutos. 
+Rogerio Bromfman, CTO e Chief Machine Learning 
+Ofﬁcer da Beaver, contou um pouco sobre como a 
+empresa conseguiu esses resultados: “Criamos um 
+modelo de linguagem, usando as técnicas mais 
+avançadas do mundo de processamento de 
+linguagem natural, que entenda o “jurisdiquês ”. 
+São vários modelos trabalhando em conjunto para 
+extrair as informações que nossos clientes 
+precisam.” 
+A Beaver já extraiu mais de um milhão de dados 
+de matrículas e economizou para seus clientes 
+mais de 6.500 horas de análise. Case Beaver 
+Alessandro Allodi Rogério Bromfman 
+(CEO da Beaver) (CTO e Chief Machine 
+Learning Ofﬁcer da Beaver) 
+Proptech & Construtech 2022 
+REFERÊNCIAS 
+E TERMOS DE USO 29 Proptech & Construtech 2022 
+REFERÊNCIAS 
+Distrito Proptech Report Brasil 2020 
+Mapa das Construtechs & Proptechs Brasil 2022 – Terracotta Ventures 
+Real Estate Fintech – Terracotta Ventures 
+Informativo Econômico (Junho 2022)– Câmara Brasileira da Indústria da Construção (CBIC) 
+2022: The Future of Proptech Venture Capital – Creti 
+PropTech Global Trends 2021 – ESCP Business School 
+Global Economic Prospects (Junho 2022) – World Bank 
+The Next Normal in Construction – McKinsey & Company 
+PropTech 3.0: the future of real estate – University of Oxford Research 
+Produto interno bruto (PIB) – IPEA 
+Taxa Selic – Banco Central do Brasil 
+IGP-M – Fundação Getúlio Vargas 
+https://a16z.com/2019/11/21/banking-on-the-future/  
+https://startupbase.com.br/home 
+https://www.crunchbase.com/  
+https://www.cbinsights.com/  
+https://slinghub.io/  
+Esta apresentação foi elaborada pela Snaq com informações disponíveis ao público. A Snaq não faz qualquer representação ou 
+garantia quanto à exatidão, plenitude e conﬁabilidade das informações estimativas ou projeções contidas nessa apresentação. 
+Nada neste material deve ser entendido como uma promessa, recomendação ou representação do passado ou do futuro. A 
+Snaq se exonera, expressamente, de toda e qualquer responsabilidade relacionada ou resultante da utilização deste material. 
+Este material foi preparado apenas para ﬁns informativos e não deve ser interpretado como uma oferta de compra ou venda 
+de quaisquer valores mobiliários ou instrumentos ﬁnanceiros. 
+Todas as informações e conteúdos presentes neste material são de propriedade dos seus realizadores. É vedada sua utilização 
+para ﬁnalidades comerciais e publicitárias sem prévia autorização. Estão igualmente proibidas a reprodução, distribuição e 
+divulgação total ou parcial, de textos, ﬁguras, gráﬁcos e dados aqui presentes, sob qualquer adulteração e sem que a fonte seja 
+citada. Caso queira usar partes ou o todo do conteúdo aqui presente entre em contato conosco. 
+CONTATO TERMOS DE USO PROPTECH & CONSTRUTECH 

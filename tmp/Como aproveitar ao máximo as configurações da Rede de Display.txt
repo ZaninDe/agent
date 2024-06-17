@@ -1,0 +1,91 @@
+Como aproveitar ao máximo as configurações da Rede de Display 
+Amplie seu alcance. Configurar as campanhas de publicidade de seu cliente na Rede de Display do Google 
+(GDN, na sigla em inglês) oferece a ele acesso a uma infinidade de usuários da Internet. A GDN é a maior rede on-
+line de websites do mundo. Ela inclui websites específicos do Google, como Google Finance, Gmail, Blogger 
+e YouTube, além de sites e aplicativos para dispositivos móveis. Leia mais para saber como aproveitar ao máximo 
+a GDN e mergulhe de cabeça no sucesso. 
+1. Escolha um objetivo de marketing 
+Definir objetivos de marketing pode ajudar você a alcançar os melhores resultados para 
+seus clientes. Por meio deles, você é guiado aos recursos específicos da campanha da 
+Rede de Display que funcionam melhor para uma determinada meta. Pense nesses 
+objetivos como sinalizações que ajudam você a criar uma campanha de maneira mais 
+eficaz e eficiente. 
+Há três tipos de objetivos de marketing: 
+● Gerar reconhecimento 
+● Influenciar consideração 
+● Promover uma ação 
+Para começar, identifique seu objetivo de marketing para a campanha que está criando e, 
+em seguida, selecione uma ou mais subopções. Por exemplo, você pode identificar 
+"Promover uma ação" como objetivo e selecionar a subopção "Ligar para sua empresa". 
+Conforme configura sua campanha, você verá recursos que são adequados para seu 
+objetivo, como as extensões de chamada. 
+2. Defina um tipo de lance 
+Com os tipos de lance na GDN, você define o preço certo para seus anúncios e garante o melhor 
+resultado de suas campanhas. Veja os tipos de lances que você pode utilizar: 
+● Para campanhas "Rede de Pesquisa com exibição em Display", ajustaremos automaticamente 
+seus lances na Rede de Display para tentar espelhar o desempenho de sua pesquisa. Saiba 
+mais sobre  lances da Rede de Pesquisa com exibição em Display .
+● Para campanhas "Apenas na Rede de Display", você pode definir lances padrão do grupo de 
+anúncios, lances personalizados ou ajustes de lance .
+Quando anuncia na Rede de Display, você pode definir seus lances da campanha  de diferentes maneiras: 
+Lances de custo por clique (CPC):  esta opção funciona melhor com campanhas da Rede de Display cuja 
+prioridade é direcionar os visitantes ao site de seu cliente. Assim como nas campanhas da Rede de 
+Pesquisa, seu cliente é cobrado somente quando alguém clica no anúncio dele. 
+Configurações de Display 1/2 3. Crie anúncios gráficos eficientes 
+Os anúncios gráficos oferecem diferentes opções. Por isso, dedique um tempo para 
+testar diferentes modelos, cores e conteúdos e alcance os melhores resultados. 
+Assim, seu anúncio se destacará dos demais. 
+Veja nossas dicas para criar anúncios gráficos eficientes. 
+● Crie uma call-to-action clara e altamente visível : evidencie o local onde os 
+clientes devem clicar e o que eles encontrarão ao fazer isso. 
+● Conteúdo do anúncio equilibrado : certifique-se de que as imagens e o texto 
+do anúncio sejam proporcionais ao corpo do anúncio gráfico e não ultrapassem 
+o tamanho geral. 
+● Teste ideias de anúncios diferentes : não sabe ao certo como criar um anúncio? 
+Deixe sua imaginação fluir com nossos modelos sugeridos para anúncios gráficos. 
+● Inclua preços, promoções e produtos exclusivos : se você tem algo especial 
+a oferecer, certifique-se de que isso está sendo exibido a seus clientes. 
+Utilize termos como ofertas especiais, cupons, descontos, códigos promocionais 
+e liquidação , conforme a relevância. 
+● Forneça uma página de destino relevante : confira a página de destino em seu 
+website à qual seus clientes estão sendo direcionados. Lembre-se de incluir 
+uma call-to-action clara em seu anúncio que leve os visitantes diretamente 
+à página de destino. 
+● Teste diferentes tamanhos de anúncios : crie de três a quatro anúncios por grupo 
+de anúncios, testando diferentes combinações de mensagens e imagens. 
+Observe qual anúncio apresenta melhor desempenho entre seus clientes. 
+● Crie anúncios para dispositivos móveis : mostre seus anúncios  em todos os tipos 
+de dispositivos móveis, incluindo smartphones, feature phones e tablets. 
+Configurações de Display 2/2 Custo por clique otimizado (ECPC, na sigla em inglês):  este é um recurso que aumenta seu 
+lance para cliques que apresentam maior probabilidade de se tornarem uma venda ou uma 
+conversão em seu website. Utilizar o ECPC pode ajudar você a aproveitar melhor seu 
+orçamento de anúncios. 
+O ECPC para anúncios de texto está disponível na Rede de Pesquisa e na Rede de Display, 
+exceto para campanhas que promovam downloads de aplicativos para dispositivos móveis. 
+Para anúncios do Shopping, o ECPC funciona apenas na Pesquisa Google. 
+Lances de custo por aquisição (CPA):  esta opção de lance é adequada para campanhas 
+criadas para incentivar vendas, inscrições e outras formas de conversão no site de seu cliente. 
+A cobrança é feita de acordo com os cliques no anúncio de seu cliente. No entanto, os lances 
+para alcançar um CPA desejado são definidos automaticamente pelo Google AdWords. Lembre-
+se de que o Acompanhamento de conversões deve ser configurado no site de 
+seu cliente para que o lance de CPA possa funcionar. 
+Lances de custo por mil impressões (CPM):  utilize os lances de CPM em campanhas que se 
+concentram em impressões. Com esta opção, seu cliente é cobrado a cada mil impressões 
+recebidas no anúncio dele, e não a cada clique. 
+Custo por visualização (CPV):  o lance de custo por visualização (CPV) é a forma padrão de 
+definição do  preço que você pagará por seus anúncios em vídeo TrueView (quando criados com 
+o Google AdWords). Com o lance de CPV, as cobranças são feitas de acordo com as exibições 
+de vídeo e outras interações de vídeo (como cliques em call-to-action overlays (CTAs), cartões 
+e banners complementares), o que ocorrer primeiro. 
+ 
+Concentre-se nos cliques : utilize os lances máximos de CPC 
+       Definirei manualmente meus lances por clique 
+       O Google AdWords definirá meus lances para ajudar a maximizar os cliques dentro de 
+       meu orçamento-alvo 
+        Ativar CPC otimizado 
+Utilizaremos seus dados de acompanhamento de conversões e lances para otimizar as Conversões 
+Você pode alterar sua métrica de lance de conversão  para otimizar suas Conversões 
+Dica:  economize tempo gerenciando seus lances com uma estratégia de lances flexível de ECPC.  
+Você poderá aplicar a otimização de lance de ECPC de forma mais estratégica a campanhas 
+inteiras ou a grupos específicos de anúncios de sua preferência. Saiba mais sobre as estratégias 
+de lances flexíveis 

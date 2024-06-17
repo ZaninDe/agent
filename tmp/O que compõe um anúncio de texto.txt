@@ -1,0 +1,63 @@
+O que compõe um anúncio de texto 
+Venham, venham! Criar uma ótima campanha do Google AdWords é como vender ingressos para o negócio do 
+seu cliente... ou algo tão bom quanto. Os anúncios são criados para atrair usuários e os direcionar ao website 
+do seu cliente. Se você fizer um bom trabalho, todos vão querer acessar o conteúdo. 
+A maioria dos anúncios de texto do Google AdWords tem três partes: um título 
+(composto de duas partes), uma linha de descrição e um URL de visualização. 
+Essas partes são explicadas abaixo com mais detalhes. Também é possível 
+adicionar extensões para criar um anúncio de texto mais eficaz. 
+Saiba mais sobre extensões de anúncio .
+Título com duas partes:   Hotel barato em Nova York - Encontre as melhores 
+         tarifas de hotéis em NY com um clique 
+URL de visualização:         www.example.com/NovaYork/Barato 
+Descrição:         Confortável e estiloso. Desconto de 20% para 
+         Estudantes. Descontos para estadias de 
+         vários dias. Faça sua reserva agora. 
+Como criar anúncios 1/2 1. Título 
+O texto do título é a parte mais chamativa do seu anúncio, por isso, 
+inclua palavras que as pessoas usem em buscas na Pesquisa do Google. 
+No exemplo de anúncio mostrado, a palavra "barato" chamará a atenção 
+de quem estiver pesquisando hotéis baratos. 
+2. URL de visualização 
+O URL de visualização, geralmente mostrado em verde, exibe o endereço 
+do website do seu cliente. Ele indica para onde a pessoa será direcionada 
+ao clicar no anúncio. Esse link é diferente do URL da página de destino , 
+que é o URL para o qual os usuários serão direcionados após clicarem 
+no seu anúncio. 
+3. Descrição 
+Use a descrição para destacar os detalhes do seu produto ou serviço. 
+Recomendamos que você inclua uma call-to-action, ou seja, a ação que 
+você deseja que o cliente realize. No exemplo ao lado, a call-to-action 
+é "faça sua reserva agora". Se você oferece um serviço, adicione frases 
+do tipo "Receba uma cotação on-line agora" ou "Veja nossos preços". URL final
+Título 1
+Título 2
+Caminho
+Descriçãowww.example.com/NovaYork/Barato 
+Hotel barato em Nova York 
+Encontre as melhores tarifas de hotéis em NY com um clique 
+www.example.com / NovaYork Barato 
+Confortável e estiloso. Desconto de 20% para estudantes. Descontos para 
+estadias de vários dias. Faça sua reserva agora. 
+Como criar anúncios 2/2 Limites de comprimento 
+ Comprimento máximo Comprimento máximo 
+Título (parte 1) 
+Título (parte 2) 
+URL de visualização 
+(dois campos de caminho)** 
+Linha de descrição 
+(maioria dos idiomas) 
+30 caracteres 
+30 caracteres 
+15 caracteres 
+80 caracteres (idiomas com 
+largura dupla*) 
+15 caracteres 
+15 caracteres 
+7 caracteres cada 
+40 caracteres 
+Saiba mais sobre o que compõe um anúncio de texto . 
+*Idiomas com largura dupla incluem idiomas (como chinês, japonês e coreano) 
+com caracteres de largura dupla. 
+**O URL de visualização inclui dois campos de caminho. O comprimento máximo 
+exibido refere-se a cada campo de caminho individual. 

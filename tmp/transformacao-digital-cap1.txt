@@ -1,0 +1,869 @@
+Repensando o seu negocio  
+p ara a era digit al´DA VID L. ROGERS
+TRANSFORMAÇÃO  
+DIGITAL“Transformação digital é um assunto que está na pauta de praticamente todos 
+os executivos atualmente. Já faz tempo que esse tema deixou de ser uma questão de modernização. Hoje, a transformação digital é a escolha de uma empresa entre sobreviver ou não.” 
+Juliano Braz – Sócio e Diretor Comercial, T ake
+“O livro apresenta uma abordagem eloquente sobre a necessidade de com-preender e agir frente à revolução digital, enfatizando as estratégias para a mudança e mostrando que empresas tradicionais também podem inovar e se transformar.”
+Ariano Cavalcanti de Paula – Presidente,  
+Netimóveis Brasil e Sicoob Secovicred MG
+“Uma leitura obrigatória, com vários métodos práticos, que ajudará em-presas mais consolidadas – que não podem mais se dar ao luxo de se sentar-em sobre os louros do passado – a lidar com a revolução digital e as rápidas transformações, desenvolvendo um mindset para alcançarem a agilidade or-ganizacional e a criação de valor contínuo.”
+Paulo Freitas – Director of Technology,  
+Securefact Transaction Services Inc.
+“Se você já entendeu que transformação digital não tem a ver com tecnologia, mas sim com cultura organizacional, David L. Rogers apresenta um excelente guia de execução. Mas se você ainda não entendeu, ao final do 
+livro saberá o porquê! Boa leitura.”
+Roberto Oliveira – Cofundador  
+e sócio, Grupo ADMRO que as pessoas estão falando sobre  
+Transformação Digital“Na era das grandes plataformas, se reinventar se tornou essencial para se 
+manter na mente e no bolso dos clientes. Muitas vezes, apontar o navio em uma nova direção pode parecer desafiador. No livro Transformação digital, David compartilha uma estratégia estruturada para empresas que buscam se 
+transformar e inovar para se manterem competitivas. Essencial!”
+Diego Gomes – CMO, Rock Content
+“Não importa se sua empresa é grande ou pequena. É hora de levar a trans-
+formação digital a sério e aproveitar suas possibilidades.”
+Gedeon Antunes – Empreendedor, Agência Apps
+“No início da década de 2000 eu apostei todas as fichas no desenvolvi-mento de um mercado que prometia uma revolução no mundo. Assisti ao 
+estouro da bolha – e com ele um monte de empresas fecharem as portas 
+do dia pra noite. Hoje, dezoito anos depois, vejo um cenário parecido em otimismo. Mas, diferente daquela época, temos um contexto extremamente favorável. A transformação digital é a única maneira de percorrer um caminho 
+sem volta, só que agora com todos os meios necessários e o vento soprando a favor.”
+Alexandre Estanislau – CEO e Fundador, Bolt BrasilTRANSFORMAÇÃO  
+DIGITALRogers, David L.
+Transformação digital : repensando o seu negócio para a era digital / 
+David L. Rogers ; tradução Afonso Celso da Cunha Serra. -- 1. ed. -- São 
+Paulo : Autêntica Business, 2017.
+Título original: The digital transformation playbook : rethink your 
+business for the digital age
+ISBN 978-85-513-0272-9
+1. Transformação Digital 2. Estratégia 3. Gestão 4. Gestão da Mudança 
+5. Tecnologia 6. Era Digital I. Título.
+17-06769         CDD-658.4062
+Índices para catálogo sistemático:
+1. Transformação digital : Sistemas de informação
+empresarial : Administração 658.4062Dados Internacionais de Catalogação na Publicação (CIP)
+(Câmara Brasileira do Livro, SP, Brasil)EDITOR  
+Marcelo Amaral de Moraes
+CAPA 
+Diogo Droschi (sobre imagem de  
+GeoArt/Shutterstock)
+REVISÃO TÉCNICA  
+Marcelo Amaral de MoraesREVISÃO  
+Lúcia Assumpção
+DIAGRAMAÇÃO
+Larissa Carvalho MazzoniCopyright © 2016 David L. Rogers
+Copyright © 2017 Editora Autêntica Business
+Todos os direitos reservados pela Editora Autêntica Business. Nenhuma parte desta 
+publicação poderá ser reproduzida, seja por meios mecânicos, eletrônicos, seja cópia 
+xerográfica, sem autorização prévia da Editora.Título original: The digital transformation playbook: rethink your business for the digital age
+www.grupoautentica.com.brA AUTÊNTICA BUSINESS É UMA EDITORA DO GRUPO AUTÊNTICA  
+Belo Horizonte
+Rua Carlos Turner, 420, Silveira . 31140-520  Belo Horizonte . MG
+Tel.: (55 31) 3465 4500Rio de Janeiro
+Rua Debret, 23, sala 401 Centro . 20030-080Rio de Janeiro . RJ  
+Tel.: (55 21) 3179 1975 São Paulo
+Av. Paulista, 2.073,  Conjunto Nacional, Horsa I  
+23º andar . Conj. 2310 - 2312. 
+Cerqueira César . 01311-940 
+São Paulo . SP Tel.: (55 11) 3034 4468Esta edição brasileira é a tradução na íntegra da edição americana, especialmente autorizada pela Columbia University Press, a editora original.TRADUÇÃO Afonso Celso da Cunha SerraDA VID L. ROGERS
+TRANSFORMAÇÃO  
+DIGITAL
+Repensando o seu negocio  
+p ara a era digit alA meus pais, dois escritores que me tornaram escritor Sumário
+Prefácio 11
+Agradecimentos 13
+Capítulo 1:
+Os cinco domínios da transformação digital:  
+clientes, competição, dados, inovação, valor  15
+Capítulo 2:
+Explore as redes de clientes 36
+Capítulo 3:
+Construa plataformas, não apenas produtos  74
+Capítulo 4:
+Converta dados em ativos  121
+Capítulo 5:
+Inove por experimentação rápida 163
+Capítulo 6:
+Adapte a sua proposta de valor  213
+Capítulo 7:
+Domine os modelos de negócios disruptivos  249
+Conclusão 302
+Autoavaliação: você está preparado para a transformação digital?  306
+Mais ferramentas para o planejamento estratégico  309
+Índice 311 11
+Transformação Digital Prefácio
+As regras de negócios mudaram. Em todos os setores de ati -
+vidade, a difusão de novas tecnologias digitais e o surgimento de 
+novas ameaças disruptivas estão transformando modelos e processos 
+de negócios. A revolução digital está virando de cabeça para baixo o 
+velho guia de negócios. 
+Em meu próprio trabalho, que consiste em ensinar e aconselhar 
+líderes de negócios em empresas de todo o mundo, sempre ouço a 
+mesma pergunta urgente: como nos adaptarmos e nos transformarmos 
+para a era digital?
+Empresas constituídas antes do surgimento da internet enfrentam 
+um grande desafio: muitas das regras e pressupostos fundamentais que 
+governavam e orientavam a atuação e o progresso dos negócios na 
+era pré-digital não mais se aplicam. A boa notícia é que a mudança é 
+possível. As empresas pré-digitais não são dinossauros condenados à 
+extinção. A ruptura não é inevitável. As empresas podem transformar-se 
+e florescer na era digital. 
+Neste livro, exploro o fenômeno da transformação digital: o 
+que distingue as empresas que conseguem adaptar-se e progredir no 
+mundo digital em comparação com aquelas que fracassam? 
+Em busca de respostas, tive o privilégio de aproveitar as ideias, 
+as perspectivas e as questões de grande variedade de executivos e em-preendedores, tanto no exercício de minhas atividades de consultor 
+e palestrante quanto em meus programas de educação executiva na 
+Columbia Business School, sobre marketing digital e estratégia de 
+negócios digitais. T enho conduzido estudos e pesquisas sobre big data 
+e métricas de marketing, comportamentos de compras em dispositivos 
+móveis, Internet das Coisas, e o futuro do compartilhamento de dados. 12 
+Transformação DigitalHá nove anos, como fundador da BRITE Conference, tenho reunido 
+executivos-chefes de marcas globais, de empresas de tecnologia, de 
+empresas de mídia e de startups em crescimento acelerado para discutir 
+o panorama em evolução dos negócios digitais. 
+Daí emergiu uma ideia central que formatou o desenvolvimento 
+de todo este livro: A transformação digital não tem a ver com tecnologia – 
+tem a ver com estratégia e novas maneiras de pensar. Transformar-se para a 
+era digital exige que o negócio atualize sua mentalidade estratégica, muito mais que sua infraestrutura de TI. Essa verdade fica evidente na mudança de papéis do líder de tecnologia nas empresas. A função 
+tradicional do executivo-chefe de informação era usar a tecnologia 
+para otimizar processos, para reduzir riscos e para melhorar a gestão dos negócios existentes. A função emergente do executivo-chefe de 
+atividades digitais é muito mais estratégica, focada no uso da tecnologia 
+para reimaginar e reinventar o core business (negócio principal) em si. 
+A transformação digital exige uma visão holística da estratégia 
+de negócios. Em meu livro anterior, The Network is Your Customer, 
+concentrei-me no impacto das tecnologias digitais sobre os clientes –  
+seus comportamentos, suas interações e suas relações com empresas e com organizações de todos os tipos. Neste livro, adoto uma visão 
+mais ampla, olhando para cinco domínios da estratégia de negócios: 
+clientes, competição, dados, inovação e valor. 
+Como meus outros livros, o Transformação Digital foca em fer-
+ramentas e em referenciais práticos que os leitores podem aplicar na tomada de decisões e na formulação de estratégias nas próprias em-presas, não importando o tamanho e o setor. Recheei o texto com 
+estudos de casos que ilustram os conceitos e iluminam a estratégia. 
+Minha esperança é que você, leitor, ponha o livro em ação, aplicando suas sugestões e descobrindo o próximo estágio da criação de valor e 
+da aceleração do crescimento de sua própria empresa.  15
+Transformação DigitalCAPÍTULO 1 
+Os cinco domínios da transformação digital: 
+clientes, competição, dados, inovação, valor 
+Você talvez se lembre da Enciclopédia Britânica. Publicada pela pri-
+meira vez em 1768, ela foi a fonte de referência definitiva, em 
+inglês, durante centenas de anos, antes do aparecimento da internet. 
+As pessoas já com certa idade provavelmente se recordam de quando 
+folheavam as páginas de seus 32 volumes, com capa de couro – se não 
+em casa, quem sabe na biblioteca da escola –, enquanto preparavam um trabalho de pesquisa. Nos primeiros debates sobre a Wikipédia, 
+e nas histórias mais recentes sobre sua ascensão espantosa, essa vasta enciclopédia on-line, de criação coletiva e acesso gratuito, sempre foi comparada à Britannica, a ex-titular, agora desafiada. 
+Quando, depois de 244 anos, a Encyclopædia Britannica, Inc. 
+anunciou que havia imprimido sua última edição, a mensagem era clara. Mais uma empresa tradicional, nascida antes da chegada da in-
+ternet, tinha sofrido ruptura ou disrupção – levada de roldão pela lógica 
+esmagadora da revolução digital. Só que não era verdade. 
+Nos vinte anos anteriores, a Britannica tinha passado por vio-
+lento processo de transformação. A Wikipédia não foi, de fato, seu 
+primeiro desafiante digital. Na aurora da era da computação pessoal, a 
+Britannica tinha tentado deslocar-se da edição impressa para a edição 
+em CD-ROM, só que, de repente, defrontou-se com a Microsoft, em -
+presa que, embora atuasse em setor de atividade totalmente diferente, 
+impôs-lhe um rival inesperado, a enciclopédia Encarta, da Microsoft, 
+em CD-ROM, que passou a ser oferecida de graça nas compras do 
+software Windows, como parte de uma estratégia mais ampla de 
+posicionar os computadores pessoais como investimento básico em educação pelas famílias de classe média. À medida que o CD-ROM 
+era substituído pela World Wide Web, a Britannica ainda deparou com 16 
+Transformação Digitala concorrência de uma explosão de alternativas on-line, como a Nu-
+pedia, e, depois, a Wikipédia, financiada e produzida por crowdsourcing, 
+ou seja, de maneira colaborativa e coletiva, pela comunidade on-line. 
+A Britannica concluiu, então, que o comportamento dos clientes 
+estava passando por transformações drásticas, com a adoção de novas 
+tecnologias. Em vez de tentar defender o velho modelo de negócios, 
+os líderes da empresa procuraram compreender as necessidades de seus 
+principais clientes – usuários domésticos e instituições educacionais, 
+principalmente no âmbito do ensino fundamental e do ensino médio, até 
+a universidade. A Britannica experimentou, portanto, diferentes veículos 
+de entrega, políticas de preços e canais de vendas para seus produtos, mas 
+manteve o foco em sua missão central: qualidade editorial e serviços 
+educacionais. Dessa maneira, foi capaz não só de deslocar a enciclopédia 
+para um modelo puro de assinatura on-line, mas também de desenvolver 
+novas ofertas de produtos correlatos, para atender às necessidades em evolução dos currículos e do aprendizado em sala de aula. 
+“Quando extinguimos a edição impressa, as vendas da enciclopédia 
+no papel representavam apenas 1% de nosso negócio”, explicou Jorge 
+Cauz, presidente da Encyclopædia Britannica, Inc., no aniversário da 
+decisão. “Somos tão lucrativos agora como sempre fomos.”1 
+A história da Britannica talvez pareça surpreendente, exatamente 
+por ser o contexto tão familiar: novas tecnologias digitais poderosas impul -
+sionam mudanças drásticas no comportamento dos consumidores. Uma 
+vez desencadeada, a digitalização de um produto, de uma interação ou de 
+um veículo torna-se irrefreável e irresistível. O velho modelo de negó-cios é invalidado. O negócio “jurássico”, rígido e incapaz de adaptar-se, 
+é apagado. O futuro pertence aos novos pioneiros e às startups digitais. 
+Assim não foi, contudo, com a Britannica, e não é assim que terá 
+de ser com o seu negócio. 
+Não há razão, absolutamente alguma, para que empresas digitais 
+novatas superem as empresas tradicionais. As empresas tradicionais, como 
+a Britannica, ainda podem ditar as regras. O problema é que, em muitos 
+casos, a administração simplesmente não tem um guia, ou seja, um mé-
+todo, para compreender e, então, para enfrentar os desafios competitivos 
+da digitalização. Este livro é esse guia, para ajudá-lo a compreender, a definir a estratégia e a competir no campo do jogo digital. 
+1 CAUZ, Jorge. How I Did It . . . Encyclopædia Britannica’s President on Killing 
+Off a 244-Year-Old Product. Harvard Business Review , v. 91, p. 39-42, mar. 2013. 17
+Transformação DigitalSuperando seus pontos cegos digitais
+Uma analogia talvez seja útil aqui. Durante a primeira onda da 
+Revolução Industrial, as fábricas dependiam de fontes fixas de ener-
+gia – primeiro, da energia hidráulica produzida pelas rodas d’água 
+localizadas ao longo dos rios e, mais tarde, da energia a vapor, oriunda 
+de máquinas que queimavam carvão. Embora essas fontes de ener-
+gia tenham possibilitado o surgimento da produção em massa, elas 
+também enfrentavam graves limitações. De início, impunham a loca-lização das instalações e limitavam a capacidade de produção. Além 
+disso, como as rodas d’água e as máquinas a vapor exigiam que todos 
+os equipamentos da fábrica fossem ligados a um eixo de transmissão central – um único motor extenso que impulsionava todas as máqui-nas – essas fontes de energia também ditavam o projeto das fábricas 
+e os métodos de trabalho. 
+Com a eletrificação das fábricas em fins do século XIX, tudo 
+isso mudou. A energia elétrica eliminou todas as limitações que até 
+então haviam definido as características das fábricas. Agora, as máquinas 
+podiam ser arrumadas na ordem do fluxo de trabalho ótimo. As linhas 
+de produção podiam alimentar umas as outras, como os afluentes de 
+um rio, em vez de todas se encaixarem num eixo central. O tama-
+nho das fábricas não mais se limitava ao comprimento máximo de 
+eixos e correias. As possibilidades de layouts de fábricas totalmente 
+revolucionários eram surpreendentes. Os donos das fábricas, no en-
+tanto, ignoravam em grande parte essas oportunidades. Estavam tão 
+acostumados às premissas e às restrições de centenas de anos que se 
+impunham aos projetos das fábricas, que simplesmente não conseguiam 
+ver as possibilidades diante de seus olhos. 
+Coube às novas empresas geradoras de energia elétrica, as “startups” 
+da era da eletrificação, pregar a inovação na manufatura. Essas novas 
+empresas emprestavam motores elétricos, de graça, às fábricas, apenas 
+para que experimentassem a nova tecnologia. Além disso, despachavam 
+engenheiros e treinadores, também gratuitamente, para que demons-
+trassem aos proprietários e gestores das fábricas como a energia elétrica 
+poderia transformar o negócio e para que instruíssem os supervisores e trabalhadores a explorar e a operar as máquinas e equipamentos elé-
+tricos. De início, o progresso foi lento; mas logo constatou-se que as 
+geradoras de energia elétrica eram capazes de ensinar novos truques a 
+macacos velhos. Já na década de 1920, um novo ecossistema de fábricas, 18 
+Transformação Digitaltrabalhadores, engenheiros, produtos e negócios já tinha tomado forma, 
+tudo em torno da energia elétrica.2
+Hoje, nossas nativas digitais (como Google ou Amazon) são como 
+as geradoras de energia elétrica no começo da era da eletrificação. E 
+nossas imigrantes digitais bem-sucedidas (como a Britannica) são como 
+as fábricas que se reconfiguraram e emigraram para a nova era digital. 
+Ambos os tipos de empresas reconhecem as possibilidades criadas pelas 
+tecnologias digitais. Tanto as nativas quanto as imigrantes sabem que as 
+limitações da era pré-digital foram superadas, não mais existem, tornan -
+do os novos modelos de negócio, os novos fluxos de receita e as novas fontes de vantagem competitiva não só possíveis, mas também menos 
+onerosos, mais rápidos e mais centrados nos clientes, como nunca antes. 
+Observemos mais de perto esse novo mundo. 
+Cinco domínios estratégicos em mutação na era digital
+Se a eletrificação foi transformadora, ao mudar restrições fun-
+damentais na manufatura, o impacto da era digital é ainda maior, 
+por alterar as restrições sob as quais operam praticamente todos os componentes da estratégia de negócios. 
+As tecnologias digitais mudaram a maneira como nos conectamos 
+com os clientes e lhes oferecemos valor. Muitos de nós crescemos em um mundo em que as empresas transmitiam mensagens e forneciam 
+produtos aos clientes. Hoje, porém, a relação é muito mais interativa, 
+de mão dupla. As mensagens e as avaliações dos clientes os tornam muito mais influentes que a propaganda e as celebridades, transfor-
+mando a participação dinâmica dos clientes em indutor crítico do 
+sucesso das empresas. 
+As tecnologias digitais transformam a maneira como encaramos 
+a competição. Cada vez mais, competimos não só com empresas rivais 
+2 Sou grato à autora pela analogia com a eletrificação das fábricas, cujo impacto es -
+tratégico ela descreve em: MACGRATH, Rita. How 3-D Printing Will Change 
+Everything About Manufacturing. Wall Street Journal , 4 jun. 2015. (Disponível em: 
+<http://blogs.wsj.com/experts/2015/06/04/how-3-d-printing-will-change-e -
+verything-about-manufacturing/>. Acesso em: 2 jul. 2017). Um relato mais com -
+pleto e a história da doutrinação na Detroit Edison Company para a adoção de 
+motores elétricos pode ser encontrado em: DEVINE JR., Warren D. From Shafts to 
+Wires: Historical Perspective on Electrification. Journal of Economic History , v. 43, n. 
+2, p. 347-372, jun. 1983. 19
+Transformação Digitalde nossos próprios setores de atividade, mas também com negócios de 
+outros setores de atividade, que roubam nossos clientes com suas novas 
+ofertas digitais. Também é muito provável que passemos a competir 
+ferozmente com um adversário tradicional em uma área do negócio, 
+e que, ao mesmo tempo, estejamos explorando as capacidades desse mesmo concorrente, cooperando com ele em outra área do negócio. 
+Cada vez mais, nossos recursos competitivos não mais se situam em 
+nossa organização, mas sim numa rede de parceiros que reunimos em relações de negócios mais difusas. 
+Talvez as tecnologias digitais tenham mudado ainda mais o nos -
+so mundo, pela maneira como passamos a considerar os dados. Nos negócios tradicionais, os dados eram caros de obter, difíceis de arma-
+zenar e usados em departamentos organizacionais. O gerenciamento 
+desses dados exigia a compra e a manutenção de grandes sistemas de TI (lembre-se dos enormes sistemas Enterprise Resource Planning 
+[ERP]), necessários apenas para rastrear o percurso dos estoques de 
+uma fábrica na Tailândia para um shopping em Nova Y ork). Hoje, 
+os dados são gerados em quantidades sem precedentes, não só por 
+empresas e organizações, mas por pessoas comuns, a toda hora e em 
+todos os lugares. Além disso, o armazenamento de dados na nuvem 
+é cada vez mais barato, acessível e amigável. O maior desafio hoje é 
+converter a enorme quantidade de dados em informações valiosas. 
+As tecnologias digitais também estão transformando a manei-
+ra como as empresas inovam. Tradicionalmente, as inovações eram 
+dispendiosas, arriscadas e insulares. Uma vez que testar novas ideias era difícil e dispendioso, as empresas dependiam dos palpites de seus 
+gestores quanto às características dos produtos a serem lançados no 
+mercado. Hoje, as tecnologias digitais possibilitam a verificação e a 
+experimentação contínuas, algo inconcebível no passado. A construção 
+de protótipos é barata e o teste de ideias é rápido em comunidades de usuários. O aprendizado contínuo e a iteração (repetição) rápida de 
+produtos, antes e depois do lançamento, são o novo padrão. 
+Finalmente, as tecnologias digitais nos forçam a pensar de 
+maneira diferente sobre como compreendemos e criamos valor 
+para os clientes. O que os clientes valorizam pode mudar com 
+muita rapidez, e nossos concorrentes estão a toda hora descobrin-
+do novas oportunidades que talvez sejam valorizadas pelos clientes. 
+Com muita frequência, quando uma empresa alcança o sucesso no 
+mercado, estabelece-se uma complacência perigosa. Como advertiu 20 
+Transformação DigitalAndy Grove, anos atrás, “apenas os paranoicos sobrevivem”. Ir aos 
+extremos e superar os limites em busca da próxima fonte de valor 
+para os clientes é cada vez mais imperativo. 
+Em face de tudo isso, vê-se como as forças digitais estão refor-
+mulando cinco domínios fundamentais da estratégia: clientes, compe -
+tição, dados, inovação e valor (ver Figura 1.1). Esses cinco domínios 
+descrevem o panorama da transformação digital para as empresas de 
+hoje. (Como simples recurso mnemônico, você pode lembrar-se dos cinco domínios como CCDIV).
+Ao longo desses cinco domínios, as tecnologias digitais estão 
+redefinindo muitos dos princípios básicos da estratégia e mudando as regras de como as empresas devem operar no mercado para serem 
+bem-sucedidas. Muitas das velhas restrições foram superadas e novas 
+possibilidades agora estão disponíveis. As empresas que se constituíram 
+antes da internet precisam conscientizar-se de que muitos de seus 
+pressupostos fundamentais devem ser atualizados. 
+CLIENTES
+DADOSVALOR
+INOVAÇÃOCOMPETIÇÃO
+Figura 1.1: Cinco domínios da transformação digital
+Aprofundemo-nos um pouco mais em como as tecnologias 
+digitais estão desafiando os pressupostos estratégicos em cada um 
+desses domínios. 
+Clientes
+O primeiro domínio da transformação digital é o dos clientes. 
+Pela teoria convencional, os clientes eram considerados um agregado 
+de atores, ao qual se dirigiam o marketing e a propaganda. O modelo 
+predominante do mercado de massa focava em conquistar economias  21
+Transformação Digitalde escala, por meio da produção em massa (faça um produto que 
+sirva a tantos clientes quanto possível) e da comunicação de massa 
+(use mídias e mensagens abrangentes que atinjam e convençam tantos 
+clientes quanto possível, ao mesmo tempo). 
+Na era digital, estamos avançando para um mundo mais bem 
+descrito não pelos mercados de massa, mas pelas redes de clientes. 
+Nesse paradigma, os clientes se conectam e interagem dinamicamente, 
+por meios e modos que estão mudando suas relações entre si e com 
+as empresas. Hoje, os clientes estão o tempo todo influenciando-se 
+reciprocamente e construindo a reputação das empresas e das marcas. 
+O uso de ferramentas digitais está mudando a maneira como desco-brem, avaliam, compram e usam os produtos, e como compartilham, 
+interagem e mantêm-se conectados com as marcas. 
+Isso está forçando as empresas a repensar seus funis de marketing 
+tradicionais e a reexaminar os caminhos dos clientes para as compras, 
+que podem saltar do uso de redes sociais, de mecanismos de busca, 
+de laptops ou de telas de dispositivos móveis para a entrada numa loja 
+física ou para um pedido de serviço aos clientes num chat on-line, ao vivo. Em vez de ver os clientes apenas como alvos de vendas, as 
+empresas precisam reconhecer que os clientes em rede podem ser 
+o melhor grupo de foco, o melhor campeão da marca ou o melhor parceiro de inovação que jamais encontrarão. 
+A Tabela 1.1 identifica as mudanças nessas premissas básicas, à 
+medida que as empresas avançam da era analógica para a era digital.
+Competição
+O segundo domínio da transformação digital é a competição. 
+Tradicionalmente, competição e cooperação eram vistas como opostos 
+binários: as empresas competiam com empresas rivais muito parecidas 
+com elas mesmas e cooperavam com parceiros da cadeia de forneci-
+mento que distribuíam seus bens ou forneciam os inputs necessários 
+para a sua produção. 
+Hoje, estamos caminhando para um mundo de fronteiras setoriais 
+fluidas, em que nossos maiores desafiadores podem ser concorrentes assimétricos – empresas estranhas ao setor, em nada parecidas com 
+a nossa, mas que oferecem aos nossos clientes valores concorrentes. A “desintermediação digital” está virando de ponta cabeça parcerias 
+e cadeias de fornecimento – nossos parceiros de negócios de longa 22 
+Transformação Digitaldata podem tornar-se nossos maiores concorrentes, se nossos aliados 
+tradicionais começarem a servir diretamente a nossos clientes. 
+Ao mesmo tempo, talvez precisemos cooperar com um rival 
+direto, devido a modelos de negócio interdependentes ou a desafios 
+externos mútuos, oriundos de outros setores. Mais importante, as 
+tecnologias digitais estão turbinando o poder de modelos de negócios 
+de plataforma, permitindo que uma empresa crie e capte enorme 
+valor ao facilitar as interações envolvendo outras empresas ou clientes. 
+O resultado final dessas mudanças é um grande deslocamento no 
+lócus da competição. Em vez de uma batalha de soma zero entre rivais 
+semelhantes, a competição é, cada vez mais, uma disputa por influência 
+entre empresas, com modelos de negócio muito diferentes, cada uma 
+buscando conquistar mais alavancagem junto ao consumidor final. 
+Dados
+O domínio seguinte da transformação digital são os dados: como 
+as empresas produzem, gerenciam e usam a informação. Até algum tempo atrás, os dados eram produtos de ações deliberadas a pesqui-
+sas de clientes e de inventários físicos, que eram parte dos próprios 
+processos de negócios – fabricação, operações, vendas, marketing. Os 
+dados resultantes eram usados principalmente para previsões, avaliações 
+e tomada de decisões. 
+Em contraste, hoje nos deparamos com um dilúvio de dados. A 
+maioria dos dados que hoje inunda as empresas não é gerada por qualquer 
+planejamento sistemático, como pesquisa de mercado; em vez disso, é 
+produto de quantidade sem precedentes de conversas, interações ou pro -
+cessos, dentro ou fora das empresas. Com as mídias sociais, os dispositivos 
+móveis e os sensores em todos os objetos da cadeia de fornecimento de uma empresa, todos os negócios hoje têm acesso a uma enxurrada de 
+dados não estruturados, que é gerada sem planejamento e que pode ser 
+usada, cada vez mais, para alimentar novas ferramentas analíticas. 
+Essas ferramentas de “big data” criam condições para que as em-
+presas façam novos tipos de previsões, descubram padrões inesperados 
+nas atividades de negócios e liberem novas fontes de valor. Em vez de se confinarem no âmbito de unidades de inteligência de negócios, 
+os dados estão se transformando em força vital de todas as unidades 
+organizacionais e em ativos estratégicos a serem desenvolvidos e ex-
+plorados ao longo do tempo. Os dados são componentes fundamentais  23
+Transformação Digitalde como todas as empresas funcionam, se diferenciam nos mercados 
+e geram novo valor.
+Inovação
+O quarto domínio da transformação digital é a inovação: o 
+processo pelo qual novas ideias são desenvolvidas, testadas e lançadas 
+no mercado. Tradicionalmente, a inovação era gerenciada com foco 
+exclusivo no produto acabado. Como os testes de mercado eram 
+difíceis e custosos, a maioria das decisões sobre inovações se baseava no tirocínio e na intuição dos gestores. Como o custo do fracasso era 
+alto, evitar o fracasso era fundamental. 
+As startups de hoje demonstraram que as tecnologias digitais 
+possibilitam que se encare a inovação de maneira muito diferente, 
+com base no aprendizado contínuo, por experimentação rápida. À 
+medida que facilitam e aceleram mais do que nunca o teste de ideias, é possível receber feedback do mercado desde o início do processo de 
+inovação, mantendo-o constante até o lançamento, e mesmo depois. 
+Essa nova abordagem à inovação se concentra em experimentos 
+cuidadosos e em protótipos de viabilidade mínima, que maximizam o 
+aprendizado ao mesmo tempo que minimizam os custos. As premissas 
+são testadas sucessivas vezes e as decisões sobre o projeto são tomadas com base em validação pelos clientes reais. Dessa maneira, os produ-
+tos são desenvolvidos através de repetições sucessivas, mediante um 
+processo que economiza tempo, reduz o custo do fracasso e melhora o aprendizado organizacional. 
+Valor
+Do domínio final da transformação digital é o valor que o 
+negócio entrega aos clientes – a proposta de valor. Tradicionalmente, a proposta de valor da empresa era considerada duradoura ou quase 
+constante. Os produtos podiam ser atualizados; as campanhas de mar-
+keting, revigoradas; ou as operações, melhoradas; mas supunha-se que o 
+valor básico oferecido pelo negócio aos clientes era constante, definido 
+pelo setor de atividade (por exemplo, as empresas automobilísticas 
+ofereciam transporte, segurança, conforto e status, em diferentes graus). 
+O negócio de sucesso era aquele que tinha uma proposta de valor 
+clara, que estabelecia alguma diferenciação no mercado (por exemplo, 24 
+Transformação Digitalpreço ou marca), e que focava na execução e na entrega na melhor 
+versão da mesma proposta de valor aos clientes, durante vários anos. 
+Na era digital, confiar em proposta de valor imutável é semear 
+desafios e colher rupturas infligidas pelos novos concorrentes, com pro-
+postas de valor mais atraentes. Embora os setores difiram entre si quanto 
+ao momento e à natureza de suas transformações impostas pelas novas 
+tecnologias, quem presumir que a sua hora e vez ainda está longe será, provavelmente, o primeiro a ser atropelado. A única prevenção segura 
+em um contexto de negócios em mutação é escolher o caminho da 
+evolução constante, considerando todas as tecnologias como maneira de 
+estender e melhorar a nossa proposta de valor aos clientes. Em vez de esperar para adaptar-se quando a mudança se tornar questão de vida ou 
+morte, as empresas devem concentrar-se em aproveitar as oportunidades 
+emergentes, descartando as fontes de vantagem competitiva decadentes e 
+adaptando-se desde logo para manter-se na dianteira da curva de mudança. 
+tabela 1.1: 
+Mudanças nos pressupostos estratégicos, da era analógica para a era digital
+De Para
+Clientes  
+(Capítulo 2)Clientes como mercado de massa
+Comunicações são transmitidas aos clientesA empresa é o principal influen-ciadorMarketing para induzir à compra
+Fluxos de valor em mão única
+Economias de escala (empresa)Clientes como rede dinâmicaComunicações fluem em mão dupla.Os clientes são o principal influenciadorMarketing para inspirar a compra, a lealdade e a defesa da marca Fluxos de valor recíprocosEconomias de valor (clientes)
+Competição 
+(Capítulo 3) Competição em setores delimi-tadosDistinções nítidas entre parceiros e rivaisCompetição é jogo de soma zero
+Os principais ativos são mantidos 
+na empresaProdutos com características e benefícios únicosPoucos concorrentes dominantes por categoriaCompetição entre setores fluidosDistinções nebulosas entre parceiros e rivaisConcorrentes cooperam em áreas-chaveOs principais ativos situam-se em redes externasPlataformas com parceiros que trocam valorO vencedor leva tudo, devido aos efeitos de rede 25
+Transformação DigitalDe Para
+Dados  
+(Capítulo 4)Dados são dispendiosos para serem gerados nas empresasO desafio dos dados é armazená- los e gerenciá-losAs empresas usam apenas dados estruturados
+Os dados são gerenciados em 
+departamentos operacionaisOs dados são ferramentas para gerenciar processosDados são gerados continua-mente em todos os lugaresO desafio dos dados é conver-tê-los em informações valiosasOs dados não estruturados são cada vez mais úteis e valiososO valor dos dados é conectá- los entre os departamentosOs dados são ativo intangível importante para criar valor
+Inovação (Capítulo 5)As decisões são tomadas com base na intuição e na autoridadeO teste de ideias é caro, lento e difícilOs experimentos são raros e conduzidos por especialistasO desafio da inovação é encon-trar a solução certaO fracasso é evitado a todo custo
+O foco se concentra no produto 
+“acabado”
+Otimize o modelo de negócios 
+por tanto tempo quanto possível
+Julgue a mudança pela intensida-
+de do impacto sobre o negócio vigenteO sucesso no mercado dá lugar à complacênciaAs decisões são tomadas com base em testes e validaçõesO teste de ideias é barato, rápido e fácilOs experimentos são contí-nuos e conduzidos por todosO desafio da inovação é re-solver o problema certoOs fracassos são fontes pre-cursoras e baratas de apren-dizadoO foco se concentra em pro-dutos de viabilidade mínima e em iterações pós-lança-mento.Evolua antes de ser necessá-rio, para manter-se à frente da disrupçãoJulgue a mudança pela ma-neira como cria oportunidade para o próximo negócio“Só os paranoicos sobrevivem”
+Valor  (Capítulo 6)Proposta de valor definida pelo setor
+Execute a sua atual proposta de 
+valorProposta de valor definida pela evolução das necessida-des dos clientesDescubra a próxima oportu-nidade de criar valor para o cliente
+Guia da transformação digital
+Assediadas pela transformação em cada um desses domínios, as 
+empresas, hoje, por certo precisam de novos referenciais para formular 
+suas próprias estratégias, a fim de adaptar-se e crescer na era digital.26 
+Transformação DigitalCada um desses domínios tem um tema estratégico central que 
+pode fornecer-lhe um ponto de partida para a sua estratégia digital. 
+Como os engenheiros que treinaram os gerentes das fábricas tradicionais 
+na fase da eletrificação, esses cinco temas podem orientá-lo, revelando 
+como as limitações de sua estratégia convencional estão desaparecen-
+do e como oportunidades até então inexistentes estão surgindo, para 
+que você desenvolva o seu negócio de novas maneiras. Eu chamo esse conjunto de temas estratégicos de guia da transformação digital. 
+A Figura 1.2 resume esse guia em uma página, junto com mui-
+tos dos conceitos-chave que exploraremos neste livro, à medida que examinamos cada tema detalhadamente. Vejamos cada um dos cinco 
+temas, para compreendê-los um pouco melhor. 
+DomíniosTemas  
+EstratégicosConceitos-Chave
+CLIENTESExplore as redes  
+de clientes• reinvenção do funil de marketing
+• jornada de compra
+• principais comportamentos  das redes de clientes
+COMPETIÇÃOConstrua platafor-mas, não apenas produtos• modelos de negócio  de plataforma
+• efeitos de rede (in)diretos
+• (des)intermediação
+• Trens de Valor Competitivos
+DADOSConverta dados em ativos• padrões de valor dos dados
+• drivers para o big data
+• tomada de decisão baseada em dados
+INOVAÇÃOInove por experi-mentação rápida• experimentação divergente
+• experimentação convergente
+• MVP (produto mínimo viável)
+• caminhos para escalar
+VALORAdapte a sua propos-ta de valor• conceitos de valor de mercado
+• caminhos de saída de um mercado em declínio
+• passos para a evolução da proposta de valor
+Figura 1.2: Guia da transformação digital 27
+Transformação DigitalExplore as redes de clientes
+À medida que os clientes se comportam menos como indiví-
+duos isolados e mais como redes conectadas coesas, todos os negócios 
+devem aprender a explorar o poder e o potencial dessas redes de 
+clientes. Isso significa engajar-se, empoderar e cocriar com os clientes 
+além do momento da primeira compra. Implica alavancar os meios 
+e modos pelos quais os clientes felizes influenciam outros clientes e 
+impulsionam novas oportunidades de negócios. 
+Explorar as redes de clientes talvez envolva colaborar direta-
+mente com os clientes, como os fãs dos salgadinhos Doritos, que 
+criam suas propagandas premiadas, ou os motoristas que usam o 
+Waze, e oferecem os inputs que aprimoram seu sistema exclusivo de mapas. Também é possível que envolva aprender a pensar como 
+empresas de mídia, como a gigante de cosméticos L’Oréal, ou como 
+a fabricante de vidros Corning, cujos conteúdos foram espalhados por ampla área e para todos os lados pelos clientes em rede. Outras 
+organizações, como a Life Church e o Walmart, procuram conectar-  
+se com os clientes, descobrindo o momento certo na vida digital 
+deles, em que o valor por elas oferecido se torna mais relevante. 
+Empresas com vasta tradição, como Coca-Cola e Maersk Line, estão 
+disseminando conversas em redes sociais, com clientes internos e externos, em setores tão diversos quanto bebidas não alcóolicas e 
+serviços de contêineres. 
+Hoje, o desenvolvimento de uma estratégia eficaz para clientes 
+exige que se compreendam conceitos-chave, do tipo clientes como ativos estratégicos, reinvenção do funil de marketing, caminho digi-
+tal para a compra e os cinco comportamentos centrais das redes de clientes (acesso, engajamento, customização, conexão e colaboração). 
+Construa plataformas, não apenas produtos
+Para dominar a competição na era digital, os negócios precisam 
+aprender a enfrentar desafiantes assimétricos, que estão embaralhan-
+do os papéis da competição e da cooperação em todos os setores de 
+atividade. Também devem compreender a importância crescente das estratégias paras construir plataformas, não apenas produtos. 
+A construção de modelos de negócios de plataforma eficazes 
+pode implicar tornar-se intermediário de confiança que reúne negó-cios concorrentes, da mesma maneira como a Wink juntou Phillips, 28 
+Transformação DigitalHoneywell, Lutron e Schlage. Para tanto, talvez seja necessário abrir 
+seu produto exclusivo para ser usado por outras empresas, que sobre 
+ele desenvolverão seus próprios produtos, como a Nike fez com os 
+seus dispositivos fitness que podem ser vestidos, e a Apple fez com 
+o iPhone. Ou, como no caso do Uber e do Airbnb, pode exigir a 
+construção de um negócio cujo valor se situe em grande parte nos 
+parceiros, no qual a plataforma atua como ponto de conexão crítico. Em alguns casos, significa combinar os modelos de negócios tradi-
+cionais e de plataforma, como foi o caso da Best Buy e da Amazon. 
+As empresas talvez tenham de formar novas parcerias para alavancar plataformas de distribuição, como a The New Y ork Times Company fez com o Facebook. Outras empresas talvez tenham de aprender a 
+renegociar suas relações com os parceiros de canal em que já confiam 
+há muito tempo, como fizeram a HBO e a Allstate Insurance. Também 
+é possível que outras empresas tenham de aprender quando e onde 
+cooperar com seus mais ferozes concorrentes, como ocorreu com a 
+Samsung e a Apple. 
+Para desenvolver estratégias competitivas da era digital, é ne -
+cessário compreender os seguintes conceitos: modelos de negócios 
+de plataforma, efeitos de rede diretos e indiretos, “coopetição” entre 
+empresas, dinâmica da intermediação e da desintermediação, e Trens 
+de Valor Competitivos. 
+Converta dados em ativos
+Numa era de superoferta de dados, geralmente gratuitos, o man-
+damento para as empresas é aprender a convertê-los em ativos real-mente estratégicos. Isso exige reunir os dados certos e aplicá-los na 
+geração de valor duradouro para o negócio. 
+A construção de uma base de dados poderosa como ativo pode 
+erguer-se sobre a colaboração eficaz com parceiros de dados, como a Caterpillar faz com seus distribuidores de vendas e a The Weather 
+Company faz com seus clientes mais ávidos. O ativo de dados pode gerar valor na forma de novos insights de mercado. Conversas não 
+estruturadas entre compradores de automóveis revelaram a trajetória 
+da marca Cadillac; as mídias sociais mostraram à Gaylord Hotels o 
+que motivava as recomendações dos clientes. Os dados podem agregar 
+valor, ajudando a identificar os clientes que precisam de mais atenção, 
+como ocorreu com os hóspedes prioritários da InterContinental  29
+Transformação DigitalHotels e com os pacientes de alta necessidade da Camden Coalition 
+of Healthcare Providers. Em outras situações, os dados podem ser 
+usados para ajudar os negócios a personalizar suas comunicações 
+com os clientes, seja a Kimberly-Clark conversando com a família 
+certa sobre o produto certo, seja a British Airlines identificando seus 
+clientes mais valiosos de classe executiva, mesmo quando estão na 
+classe econômica com a família. Às vezes, o valor dos dados pode ser 
+encontrado na identificação de padrões contextuais, como quando a 
+Opower mostra aos clientes de serviços de utilidade pública a maneira 
+como usam a eletricidade ou quando a Naviance ajuda alunos do 
+ensino médio a avaliar suas chances de aprovação ao se inscreverem 
+em diferentes faculdades. 
+Para desenvolver uma boa estratégia de dados, é importante 
+compreender os quatro paradigmas da criação de valor com os dados, 
+as novas fontes e as capacidades analíticas do big data, o papel da cau-
+salidade na tomada de decisão movida a dados e os riscos referentes 
+a segurança e privacidade. 
+Inove por experimentação rápida
+Como as tecnologias digitais tornam tão rápido, tão fácil e tão 
+barato testar ideias, as empresas hoje precisam dominar a arte da ex-
+perimentação rápida. Para tanto, é necessário encarar a inovação de 
+maneira totalmente diferente, com base na validação de novas ideias por meio do aprendizado rápido e iterativo (ou por repetição). 
+A experimentação rápida pode envolver a aplicação contínua 
+de testes A/B e de análise multivariada, como as ferramentas usadas 
+pela Capital One para refinar seu marketing e as usadas pela Amazon 
+e pelo Google para melhorar seus serviços on-line. Outros experi-
+mentos podem usar protótipos de viabilidade mínima, os MVPs, para 
+explorar novos produtos: a Intuit testou o conceito num aplicativo de finanças para dispositivos móveis, com um gerente que segurava 
+pilhas de papéis e um telefone convencional. Os experimentos devem 
+envolver testes rigorosos das premissas de uma inovação, como fez a 
+Rent The Runway, antes de lançar o seu serviço de modas on-line e 
+como não fez a JCPenney, antes de lançar o catastrófico redesenho das lojas. Depois que a ideia é validada pelo experimento, é preciso 
+ser muito cuidadoso no planejamento e no lançamento, como fez 30 
+Transformação Digitala Starbucks, com as novas funcionalidades das lojas, e a Settlement 
+Music House, com seus programas de música comunitária. E qualquer 
+negócio que se empenhe na experimentação rápida deve aprender a 
+encorajar fracassos inteligentes, como foi o caso da Tata, com a sua 
+iniciativa Ouse T entar (Dare to Try). 
+Para inovar na era digital é preciso executar com realismo tanto 
+experimentos convergentes (com amostras válidas, grupos de teste e 
+controles) quanto experimentos divergentes (concebidos para pesqui -
+sas abertas). Para levar os resultados ao mercado, também é necessário explorar protótipos e produtos de viabilidade mínima e dominar os 
+quatro caminhos para escalar uma inovação. 
+Adapte a sua proposta de valor
+Para dominar a criação de valor na era digital, as empresas pre-
+cisam adaptar continuamente sua proposta de valor. Isso significa 
+deslocar o foco para além do modelo de negócios atual e mirar em 
+como oferecer mais valor aos clientes, à medida que as novas tecno-
+logias reformulam as oportunidades e as necessidades. 
+A reconfiguração contínua de um negócio envolve em geral 
+a descoberta de novos clientes e a identificação de novas aplicações para os produtos atuais, como quando a Mohawk Fine Papers en-
+controu novos usos digitais para os seus produtos e o editor da The 
+Deseret News descobriu novos públicos on-line para o seu conteúdo, 
+além dos tradicionais mercados locais. Talvez consista em desenvol-ver uma nova oferta, enquanto o velho modelo de negócios está 
+sob grave ameaça: a Encyclopædia Britannica, Inc. revisualizou-se 
+como recurso educacional; a The New Y ork Times Company rei-
+maginou o que era ser uma fonte de notícia. A adaptação talvez 
+implique desenvolver agressivamente um novo conjunto de produ-tos, antecipando-se a mudanças drásticas nos clientes. Como fez o 
+Facebook durante seu deslocamento para plataformas móveis. Ou 
+talvez signifique a experimentação de novas maneiras de engajar os clientes, enquanto ainda são leais ao negócio, a exemplo de como 
+agiu o Metropolitan Museum of Art, construindo um aparato de 
+pontos de contato digitais para aprofundar as experiências culturais de clientes próximos e distantes. 
+Para tomar a iniciativa de adaptar a sua proposta de valor, é ne-
+cessário compreender estes elementos: os diferentes conceitos-chave  31
+Transformação Digitalde valor de mercado, os três caminhos de saída possíveis de um mer-
+cado decadente e os passos essenciais para analisar com eficácia a atual 
+proposta de valor, identificar as ameaças e oportunidades emergentes 
+e sintetizar o próximo passo eficaz em sua evolução. 
+Dê a partida em sua própria transformação digital
+Onde começar em sua transformação digital, se você for uma 
+empresa tradicional? 
+Muitos livros sobre inovação e estratégia na era digital con -
+centram foco muito estreito em startups. Os desafios, entretanto, de 
+lançar a partir do zero um negócio já digital são muito diferentes 
+dos desafios de tornar digital uma empresa estabelecida, que já tenha 
+infraestrutura, canais de vendas, empregados e cultura organizacional 
+com DNA analógico. 
+Com base em minha própria experiência – de aconselhar exe-
+cutivos de multinacionais seculares, assim como de gigantes digitais de 
+hoje ou de startups novas ainda na incubadora, constituídas com capital 
+semente dos próprios fundadores –, concluí que esses líderes enfren-tam desafios muito diferentes. Os mesmos princípios estratégicos –  
+envolvendo clientes, competição, dados, inovação e valor – se aplicam 
+a todos os casos. Os caminhos, porém, para implantar esses princípios 
+são diferentes, dependendo do ponto de partida. Por isso é que este 
+livro foca basicamente nas empresas que foram constituídas antes do 
+nascimento da internet e analisa como elas estão se transformando com sucesso para operar sob os princípios da era digital. 
+O livro inclui exemplos de casos de dezenas de empresas, para 
+mostrar como cada uma das estratégias analisadas atua em ampla va-
+riedade de setores e contextos. Examinaremos exemplos relevantes de 
+gigantes digitais (como Amazon, Apple e Google) e de emergentes 
+digitais (como Airbnb, Uber e Warby Parker). Mas, acima de tudo, 
+analisaremos empresas tradicionais, fundadas antes do advento da in-ternet, para verificar como tem sido seu processo de adaptação. Essas 
+empresas variam quanto ao tamanho e pertencem a amplo espectro 
+de setores: automobilístico, vestuário, cosméticos, livros, educação, 
+entretenimento, finanças, modas, saúde, hotelaria, cinema, manufatura, 
+imóveis, varejo, religião e outros. 
+Além dos referenciais, das análises e dos estudos de casos, o livro 
+inclui um conjunto de nove ferramentas de planejamento estratégico: 32 
+Transformação DigitalNove ferramentas para a transformação digital
+ Gerador de Estratégia de Redes de Clientes (Capítulo 2)
+ Mapa do Modelo de Negócios de Plataforma (Capítulo 3)
+ Trem de Valor Competitivo (Capítulo 3)
+ Gerador de Valor dos Dados (Capítulo 4)
+ Método Experimental Convergente (Capítulo 5)
+ Método Experimental Divergente (Capítulo 5) 
+ Roteiro da Proposta de Valor (Capítulo 6)
+ Mapa do Modelo de Negócios Disruptivo (Capítulo 7)
+ Planejador de Resposta Disruptiva (Capítulo 7)
+Essas ferramentas podem ser categorizadas da seguinte maneira: 
+ Ferramentas de ideação ou concepção estratégica: ferramentas para 
+gerar uma nova solução para determinado desafio, explorando 
+diferentes facetas do fenômeno estratégico (Gerador de Es-
+tratégia de Redes de Clientes e Gerador de Valor dos Dados). 
+ Mapas estratégicos: ferramentas visuais que podem ser usadas para 
+analisar uma estratégia ou um modelo de negócios existente ou 
+para avaliar e explorar nova estratégia ou novo modelo de ne-gócios (Mapa de Modelo de Negócios de Plataforma, Trem de 
+Valor Competitivo, Mapa de Modelo de Negócios Disruptivo). 
+ Ferramentas de decisão estratégica: ferramentas com critérios para 
+avaliação e escolha entre um conjunto de opções genéricas 
+disponíveis para uma decisão estratégica importante (Planejador 
+de Resposta Disruptiva). 
+ Ferramentas de planejamento estratégico: processos ou métodos 
+de planejamento passo a passo a serem usados para desen-volver um plano estratégico sob medida para um contexto 
+ou desafio de negócios específico (Método Experimental 
+Convergente, Método Experimental Divergente, Roteiro 
+da Proposta de Valor). 
+Essas ferramentas foram desenvolvidas com base no feedback de 
+workshops sobre estratégia que conduzi em centenas de empresas em 
+todo o mundo. São ferramentas práticas com o intuito de ajudá-lo a 
+aplicar os conceitos deste livro em seu próprio trabalho, qualquer que 
+seja o seu setor de atividade ou o seu negócio. 
+Cada ferramenta é apresentada de maneira sucinta, ao longo do 
+livro, em conexão com análises e casos que mostram como e onde  33
+Transformação Digitalelas podem ser úteis. Uma explicação mais detalhada de algumas fer-
+ramentas, com orientação passo a passo para aplicá-las em seu negócio, 
+pode ser encontrada na seção Ferramentas de meu site na internet 
+(http://www.davidrogers.biz). 
+Evidentemente, você terá de ir além da simples adoção das 
+ideias estratégicas certas, dos referenciais de planejamento e das 
+ferramentas para ação. A busca da transformação digital em empresas 
+tradicionais também o levará a enfrentar questões importantes de mudança organizacional. 
+Em todo o livro, terminei cada capítulo com uma seção que 
+analisa essas questões e os obstáculos organizacionais. Isso porque 
+a transformação digital não se limita a elaborar a estratégia certa; 
+também consiste em fazer a estratégia acontecer. Minha análise 
+envolve questões de liderança; cultura organizacional; mudanças 
+nas estruturas, processos ou competências internas; e mudanças nas 
+relações externas. Para tanto, aproveitei as perspectivas de líderes 
+de negócios específicos que enfrentaram esses temas. A abordagem certa para você depende da história e da natureza de sua organi-
+zação. Meu objetivo é, principalmente, lançar luz sobre alguns dos 
+obstáculos mais traiçoeiros que podem impedir a mudança, pois a 
+experiência demonstra que a transformação digital não resulta apenas 
+de seu próprio impulso, mesmo que a empresa tenha desenvolvido a estratégia certa. 
+Um guia para o restante deste livro
+Os próximos cinco capítulos do livro se destinam a focar sua 
+equipe em como as tecnologias digitais estão mudando as regras 
+tradicionais de cada um dos domínios estratégicos que apresentei 
+aqui. Esses capítulos também mostram à sua equipe o que fazer em 
+relação a tais mudanças. Você aprenderá a aplicar cada um dos temas 
+estratégicos centrais e verá exemplos de todos os tipos de negó -
+cios que estão aplicando-os para repensar seus rumos na era digi -
+tal. Como vimos no caso da Encyclopædia Britannica, e veremos 
+em muitos outros casos, o futuro não é sobre startups comprando 
+empresas há muito estabelecidas. É sobre novas estratégias de cres-
+cimento e sobre novos modelos de negócios que substituem seus 
+antecessores, à medida que as empresas tradicionais aprendem novas  
+maneiras de operar. 34 
+Transformação DigitalNo entanto, mesmo que você adote todas essas estratégias e 
+ferramentas, não há bola de cristal em negócios. Ainda assim é possível 
+que seu modelo de negócios sofra alguma ameaça repentina, de um 
+novo desafiante imprevisto e inesperado: disrupção (ou ruptura)!
+O último capítulo do livro trata da disrupção – fenômeno muito 
+discutido, mas nem sempre compreendido – e seus desdobramentos na 
+era digital. O capítulo fornece uma ferramenta para avaliar se o desa-
+fiante emergente é de fato uma ameaça disruptiva para o seu negócio. 
+Também inclui outra ferramenta para avaliar as suas opções caso você 
+se defronte com um verdadeiro desafiante disruptivo: é melhor enca-rar e lutar ou recuar e debandar? Dominar a disrupção exige alguma 
+reconsideração e atualização da teoria clássica de Clayton Christensen 
+sobre o assunto. Examinaremos, assim, uma teoria revisada que reflete 
+algumas mudanças básicas na disrupção da era digital. E veremos como 
+a disrupção se enraíza nos cinco domínios da transformação digital, que examinaremos ao longo do livro. 
+A conclusão do livro trata dos obstáculos remanescentes a serem 
+eliminados pelas organizações, para realmente adotarem a nova menta -
+lidade estratégica que constitui o âmago deste guia sobre transformação 
+digital. Para toda Britannica existe uma Kodak ou uma Blockbuster – um negócio que não reconheceu as mudanças nas regras do jogo 
+e não conseguiu mudar a estratégia para compatibilizá-la com a rea-
+lidade digital. Examinaremos aqui por que e como algumas institui-ções ficaram para trás. Finalmente, o livro oferece uma ferramenta de 
+autoavaliação para ajudá-lo a julgar a prontidão de seu negócio para 
+a transformação digital. 
+Vivemos no que geralmente se denomina era digital. Um ecos-
+sistema de sobreposições ou imbricações de tecnologias digitais – cada 
+uma delas erguendo-se sobre as antecessoras e impulsionando as suces -
+soras – está transformando não só a nossa vida pessoal e comunitária, mas também a dinâmica de negócios para organizações de todos os 
+tamanhos e setores de atividade. 
+As tecnologias não se limitam a transformar somente um aspecto 
+da gestão de negócios, mas praticamente todos os aspectos. Elas estão 
+reescrevendo as regras referentes a clientes, competição, dados, inovação  35
+Transformação Digitale valor. A resposta a essas mudanças exige mais que uma abordagem 
+de varejo ou fragmentária; requer um esforço integrado total – um 
+processo de transformação digital holística em todo o âmbito da or-ganização. Felizmente, esse processo é absolutamente factível. A esta altura, já estamos cercados de exemplos de empresas cujas próprias 
+lições, aprendidas à medida que se adaptavam para enfrentar seus 
+desafios específicos, lançam luz sobre os princípios universais que se 
+aplicam aos negócios em geral. Ao dominar essas lições – e ao aprender 
+a aplicar esse guia de transformação digital – qualquer empresa pode ajustar-se e prosperar na era digital. Amazon.com.br https://goo.gl/AMkgkR
+Livraria Cultura https://goo.gl/8b3Ert
+Livraria da Folha https://goo.gl/8dWd2p
+Livraria da Travessa https://goo.gl/cAXJLX
+Saraiva https://goo.gl/kpyQqV 331
+Transformação Digitalreceita  previsível
+Aaron Ross & Marylou Tyler
+tradução  Celina Pedrina Siqueira Amaral
+T oda empresa precisa vender, isso é inquestio -
+nável. No entanto, a maior parte delas perma -
+nece refém do acaso, sobrevivendo à base de 
+resultados pífios, insuficientes e imprevisíveis. 
+Receita Previsível ( Predictable Revenue) é uma 
+provocação a empresas, gestores, empreende-dores e todos aqueles que lidam com vendas, 
+para que saiam da posição de vítimas passivas 
+da demanda de mercado e passem a protagonistas dos resultados.
+Com a revolucionária metodologia Cold Calling 2.0, sua empresa 
+nunca mais perderá tempo e dinheiro com processos de prospecção 
+ultrapassados e ineficazes, e você assumirá o controle da receita, 
+tornando-a completamente previsível.De forma objetiva e com cases reais implantados pelos próprios autores 
+– Aaron Ross e Marylou T yler –, você aprenderá, passo a passo, como 
+colocar em prática o processo de vendas outbound, que levou empresas como a Salesforce.com e a HyperQuality a aumentarem em mais de 300% suas receitas e a obterem milhões de dólares em receitas futuras.
+Sem milagres ou fórmulas mágicas, você será capaz de estruturar 
+uma verdadeira máquina de vendas na sua empresa, sem grandes 
+investimentos em marketing, utilizando apenas método, pessoas e 
+disciplina para obter resultados incríveis.
+Considerado a bíblia de vendas do Vale do Silício, Receita Previsível é 
+um livro instigante, mas acima de tudo útil, como uma consultoria 
+do mais alto nível.LEIA TAMBÉM
+ 333
+Transformação DigitalLEIA TAMBÉM
+peter  drucker : melhores  práticas
+Como aplicar os métodos de gestão do maior 
+consultor de todos os tempos para alavancar os resultados do seu negócio. 
+William A. Cohen, PhD 
+tradução  Afonso Celso da Cunha Serra, 
+ Celina Pedrina Siqueira Amaral 
+Mundialmente conhecido como o pai da ad -
+ministração moderna, Peter Drucker (1909-
+2005) também foi um dos mais renomados 
+e bem-sucedidos consultores de gestão de 
+todos os tempos, tendo atuado em centenas de organizações públicas 
+e privadas de vários países. Em Peter Drucker: melhores práticas , William 
+A. Cohen, o primeiro aluno graduado no PhD executivo criado por 
+Drucker, detalha as práticas mais efetivas de gestão adotadas pelo 
+fenômeno da administração que ajudaram empresas como a General 
+Eletric (GE) a chegarem ao topo. Esta obra pode ser considerada uma enciclopédia das práticas de Drucker, além de orientar sobre como e 
+quando aplicá-las. Enquanto consultores de gestão encontrarão um 
+guia completo com as melhores técnicas e metodologias para serem aplicadas em projetos de intervenção organizacional, executivos, gestores e empreendedores poderão ter em mãos uma verdadeira 
+bússola para examinarem seus negócios e organizações, por meio 
+de perspectiva pragmática – que reforça a influência e o impacto do 
+pensamento e das metodologias de Drucker sobre as organizações 
+até os dias atuais. 335
+Transformação DigitalLEIA TAMBÉM
+a bíblia  da consultoria
+Métodos e técnicas para montar e expandir um 
+negócio de consultoria 
+Alan Weiss, PhD 
+tradução  Afonso Celso da Cunha Serra, 
+Se você já atua ou pretende ingressar no 
+mercado de consultoria, precisa ler este livro. 
+Alan Weiss é um dos mais notáveis consul -
+tores independentes de todo o mundo. Com 
+cerca de 40 livros publicados e mais de 500 
+clientes atendidos em 55 países, o autor é referência quando o assunto é consultoria.
+Com a consistência de quem pratica o que diz, Alan discorre, 
+ao longo de quinze capítulos, sobre seus métodos e técnicas, indo desde a estratégia e o posicionamento do serviço de consultoria até questões mais operacionais sobre como elaborar propostas ou como lidar com questões administrativas, tecnológicas e de pessoal.
+Para aqueles que já estão nesse ramo há algum tempo, Alan dá 
+dicas e orientações valiosas sobre como lidar com clientes, como 
+cobrar honorários mais elevados e como expandir seu negócio por meio de licenciamento, franchising  e desenvolvimento de processos 
+patenteados que possam se tornar fontes de receita.
+Se tornar-se um consultor ainda é apenas uma possibilidade, este 
+livro pode ajudá-lo a tomar a decisão mais acertada, porque expõe de forma verdadeira, clara e objetiva o que constitui a rotina de um profissional da área.
+Com uma linguagem didática e bem fundamentada, A Bíblia da 
+Consultori a é um guia prático, tanto para prestar o serviço de con -
+sultoria em si quanto para gerir um negócio com excelência técnica e resultados financeiros.Este livro foi composto com tipografia Bembo e impresso  
+em papel Off-White 90 g/m² na Assahi.9788551 302729ISBN 978-85-513-0272-9“Transformação digital  é um assunto que está na pauta de praticamente todos os executivos 
+atualmente. Já faz tempo que esse tema deixou de ser uma questão de modernização. Hoje, 
+a transformação digital  é a escolha de uma empresa entre sobreviver ou não.” 
+JULIANO BRAZ  | Sócio e Diretor Comercial, Take
+“O livro apresenta uma abordagem eloquente sobre a necessidade de compreender e agir 
+frente à revolução digital, enfatizando as estratégias para a mudança e mostrando que 
+empresas tradicionais também podem inovar e se transformar.”
+ARIANO CAVALCANTI DE PAULA  | Presidente, Netimóveis Brasil e Sicoob Secovicred MG
+“Uma leitura obrigatória, com vários métodos práticos, que ajudará empresas mais consoli -
+dadas – que não podem mais se dar ao luxo de se sentarem sobre os louros do passado – a lidar com a revolução digital e as rápidas transformações, desenvolvendo um 
+mindset  para 
+alcançarem a agilidade organizacional e a criação de valor contínuo.”
+PAULO FREITAS  | Director of Technology, Securefact Transaction Services Inc.
+“Se você já entendeu que transformação digital  não tem a ver com tecnologia, mas sim com 
+cultura organizacional, David L. Rogers apresenta um excelente guia de execução. Mas, se você ainda não entendeu, ao final do livro saberá o porquê! Boa leitura.”
+ROBERTO OLIVEIRA  | 
+Cofundador e sócio, Grupo ADMR
+“Na era das grandes plataformas, se reinventar se tornou essencial para se manter na mente 
+e no bolso dos clientes. Muitas vezes, apontar o navio em uma nova direção pode parecer 
+desafiador. No livro Transformação Digital , David compartilha uma estratégia estruturada para 
+empresas que buscam se transformar e inovar para se manterem competitivas. Essencial!”
+DIEGO GOMES  | CMO, Rock Content
+“Não importa se sua empresa é grande ou pequena. É hora de levar a transformação digital 
+a sério e aproveitar suas possibilidades.” 
+GEDEON ANTUNES  | Empreendedor, Agência Apps
+“No início da década de 2000 eu apostei todas as fichas no desenvolvimento de um mercado 
+que prometia uma revolução no mundo. Assisti ao estouro da bolha – e com ele um monte 
+de empresas fecharem as portas do dia pra noite. Hoje, dezoito anos depois, vejo um cenário 
+parecido em otimismo. Mas, diferente daquela época, temos um contexto extremamente 
+favorável. A  transformação digital  é a única maneira de percorrer um caminho sem volta,  
+só que agora com todos os meios necessários e o vento soprando a favor.”
+ALEXANDRE ESTANISLAU  | CEO e fundador, Bolt Brasil

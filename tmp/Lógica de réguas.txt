@@ -1,0 +1,29 @@
+Réguas de comunicação
+Premissas do projetoForam desenvolvidas a régua que servirá de base para as comunicações da BNSIR em sua Campanha “Avalie seu Imóvel”.  A Régua AVM - Cliente que deseja vender imóvel, tenta identiﬁcar se o vendedor também é um comprador na mesma medida em que apresenta os serviços oferecidos pela BNSIR para quem vende. Além da régua do vendedor, foi sugerida uma régua para os usuários que pedem cotação de imóveis segundo a região. Ainda que não seja o foco da campanha, entendemos que se a funcionalidade está disponível no site, a comunicação dela também deve ser trabalhada. 
+Régua AVM - Cliente que deseja vender imóvelCliente preenche solicitação de avaliação de imóvelEmail - Avaliação automática
+CTA - Fale com nossos consultores
+CTA - Como o preço é calculado?Email - Assessoria jurídica e ﬁnanceira BNSIR 
+CTA - Saiba mais sobre nossos serviços.
+Email - A solução completa para você: OnlyYou
+CTA - Fale com nossos consultores.Email - Estamos aqui para ajudá-lo, não hesite em entrar em contato conosco
+CTA - Fale com nossos consultores.Abriu?D + 3D+ 1  
+D + 3SimCTA - Imóveis na faixa de preço da avaliação.
+Email - A solução completa para você: OnlyYou
+CTA - Fale com nossos consultores.Clicou? Não 
+NãoClicou?NãoD + 2Email - Preencha seu perﬁl e receba imóveis personalizados para você.  
+CTA - Imóveis na faixa de preço da avaliação.D+ 1Clicou?SimPreencheu?SimRégua de pesquisa de imóvelEmail - Descubra imóveis que correspondem aos seus desejos. Crie seu perﬁl BNSIR
+CTA - Monte seu perﬁl BNSIR.NãoEmail - Conteúdo sobre transações imobiliárias: blog
+CTA - Saiba mais sobre nossos serviços.
+CTA - Imóveis na faixa de preço da avaliação.D+ 1Clicou?Sim
+D+ 3 Clicou? Sim  Não Email - Estamos aqui para ajudá-lo, não hesite em entrar em contato conosco
+CTA - Fale com nossos consultores.D+ 7Cliente preenche solicitação de avaliação de preços em regiãoEmail - Avaliação automática
+CTA - Fale com nossos consultores
+CTA - Como o preço é calculado?Email - Veja outros imóveis disponíveis  na região selecionada 
+CTA - Imóveis com localização próxima da avaliada.Email - Veja os imóveis disponíveis  na região selecionada 
+CTA - Imóveis com localização próxima da avaliada.Abriu?
+Email - Preencha seu perﬁl na BNSIR para ajudarmos a encontrar um imóvel que seja do tamanho de seus desejos.
+CTA - Monte seu perﬁl BNSIR.Abriu?D+ 1D + 1D+ 1
+SimNão
+SimEmail - Descubra imóveis que correspondem aos seus desejos. Crie seu perﬁl BNSIR
+CTA - Monte seu perﬁl BNSIR.Preencheu?SimRégua de pesquisa de imóvel
+Não D+3 D+ 7NãoRégua AVM - Cliente que deseja comprar imóvel em região específicaRéguas de comunicação

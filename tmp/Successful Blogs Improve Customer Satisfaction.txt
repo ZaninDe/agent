@@ -1,0 +1,119 @@
+                                                                                                   Executive Summary                          
+© 200 9 Demand Metric Research Corporation  
+  
+Successful Blogs Improve Customer Satisfaction  
+ 
+Weblogs or blogs are online journals that can provide business benefits. This new 
+online communication medium comes with risks that require management. 
+U n d e r s t a n d  t h e  o p p o r t u n i t i e s  &  r i s k s  o f  c o r p o r a t e  b l o g s  b efore you proceed. Use 
+Demand Metric's downloadable Blog Policy Template  to minimize your risk.  
+ 
+ 
+What is a Blog?  
+ 
+Historically, blogs have been simple websites used by individual s to document their 
+life experiences. Over the past 12 months, blogs have become a mainstream 
+communication tool leveraged by businesses to enhance customer interactions.  
+ 
+ 
+What is the Business Case?  
+ 
+B l o g s  a r e  v e r y  s i m p l e  a n d  i n e x p e n s i v e  t o  s e t  u p  a n d  m a i n t a in, yet can provide 
+exceptional business benefit. External uses can augment your messages to 
+customers and partners, while internal uses can improve operational efficiency and 
+further leverage your corporate intranet investment.  
+ 
+ 
+Types of Blogs:  
+ 
+• External Co mmunications  - Bacardi Canada has implemented an effective 
+branded entertainment, multi -channel, campaign centered on their 
+betterthanbeer.com  blog. They have integrated outdoor billboards with this 
+medium to connect with their customers with comedic images.  
+ 
+• Customer -to-Customer Networking  - Salesforce.com's AppExchange 
+Developer Blog  furthers Salesforce's strategic interest in helping application 
+develope rs share knowledge about their AppExchange on -demand application 
+platform. Gaining the support of application developers is essential to the 
+long-term success of the Salesforce.com's strategic focus on creating a sticky 
+platform. Their blog provides custom e r s  w i t h  a  m e d i u m  t o  i n t e r a c t  a n d  w o r k  
+through technical difficulties, increasing adoption rates of their platform.  
+ 
+• Internal Communications  - many organizations have adopted internal 
+blogs to informally communicate policy decisions, corporate news, or to 
+reinforce & document other management communications.  
+ 
+ 
+ 
+                                                                                                    Executive Summary                          
+© 200 9 Demand Metric Research Corporation  
+  
+Blogging Risks:  
+ 
+• Potential to Harm Brand Equity  - check out salesforcewatch.com ,  a  3 r d  
+p a r t y  b l o g  t h a t  p r o v i d e s  a n  a v e n u e  f o r  u p s e t  c u s t o mers and adversaries with 
+an outlet to comment on service outages.  
+ 
+• Internal Employee Personal Blogs  - a  p o l i c y  s h o u l d  b e  s e t  a s  e m p l o y e e s  
+could leak sensitive corporate information on their personal blogs.  
+ 
+• Difficulty Gaining Consensus on Content  - many c ompanies struggle with 
+deciding what to publish and, more importantly, what not to publish, both 
+internally and externally.  
+ 
+ 
+Action Plan:  
+ 
+1. Make a Decision  - speak to your business sponsors about the benefits and 
+r i s k s  o f  b l o g s  a n d  d e t e r m i n e  i f  i t  m a k e s  s e n s e to leverage this mechanism. 
+Focus on both qualitative (better customer interactions) and quantitative 
+(more web -sales) performance measures.  
+ 
+2. Identify Uses & Goals  - w h a t  d o  y o u  w a n t  t o  g e t  f r o m  y o u r  b l o g ?  I s  i t  g o i n g  
+to be used for internal or external communications? What can your blog do to 
+drive revenues? Some blogs are so popular that they are able to sell 
+advertising space on networks like Blogads. As your existing web -
+infrastructure is already in place, the ROI for blogs that increase revenues can 
+be very strong.  
+ 
+3. Evaluate Web Infrastructure  - o n l y  i m p l e m e n t  a  b l o g  i f  y o u r  c u r r e n t  w e b  
+p r e s e n c e  i s  i n  g o o d  s h a p e .  D i s c u s s  t h i s  o p p o r t u n i t y  w i t h  I / T ,  a s  t h e y  w i l l  b e  
+involved with software selection and the initial setup of your blog(s).  
+ 
+4. Create a Blog Po licy - use Demand Metric's downloadable Blog Policy 
+Template  to help you reduce the risk of litigation from blog content.  
+ 
+5. Build a Project Plan  - d e t e r m i n e  w h a t  a d d i t i o n a l  c h a n g e s  n e e d  t o  b e  m a d e  
+to your infrastructure. Document the publishing, posting, an d QA processes.  
+ 
+6. Establish Blog Residence  - w h e r e  w i l l  y o u r  b l o g  r e s i d e ?  I f  c u s t o m e r  f a c i n g ,  
+it will likely be on your website. An alternative would be to set up a 
+completely separate website just for this purpose. On the internal side, 
+consider your intra net or a portal page that business users often go to.  
+ 
+7. Select a Scalable Software Platform  - look at vendors like Drupal, 
+iUpload’s Customer Conversation System, Roller, Six Apart’s Movable Type                                                                                                     Executive Summary                          
+© 200 9 Demand Metric Research Corporation  
+  
+and TypePad, Telligent Systems’ Community Server, Traction Software’s 
+TeamPage, UserLand Software’s Manila, and WordPress.  
+ 
+8. Set up a Test Environment  - m a n y  u s e r s  w i l l  b e  a f r a i d  t o  b l o g  i f  t h e y  d o n ’t 
+have a safe environment to write.  
+ 
+9. Monitor Quality Assurance  - a s  b l o g s  a r e  i n f o r m a l  i n  n a t u r e ,  i t  i s  c o m m o n  
+for writ ers to forget about the importance of grammar and spelling.  
+ 
+10. Create Posting Schedule  - initially, you should see a spike of activity, as 
+n e w  u s e r s  w i l l  w a n t  t o  a d d  t h e i r  t w o  c e n t s  t o  t h e  b l o g .  M a k e  s u r e  y o u  h a v e  a  
+regular posting schedule, monthly, weekly,  or even daily, to keep content 
+fresh.  
+ 
+ 
+Bottom -Line: 
+ 
+Effective blogging can have a positive impact on your relationship with your 
+customers, and improve internal communications. Select the right blogging strategy 
+to augment your overall marketing message, and be conscious of the risks that 
+third-party blogs represent.  
+ 

@@ -1,0 +1,2472 @@
+Demystifying the 
+Consumer Metaverse
+JANUARY 2023In collaboration 
+with AccentureContents
+© 2023 World Economic Forum. All rights reserved. 
+No part of this publication may be reproduced or 
+transmitted in any form or by any means, including 
+photocopying and recording, or by any information 
+storage and retrieval system.Disclaimer 
+This document is published by the World Economic 
+Forum as a contribution to a project, insight area 
+or interaction. The findings, interpretations and 
+conclusions expressed herein are a result of a 
+collaborative process facilitated and endorsed by 
+the World Economic Forum but whose results do 
+not necessarily represent the views of the World 
+Economic Forum, nor the entirety of its Members, 
+Partners or other stakeholders.
+Foreword 3
+Executive summary 4
+Initiative overview 51   Decoding the metaverse,  
+web3 and Web 3.0 6
+2  Value creation in the consumer metaverse 15
+3   Metaverse economic models  21
+4  Future value horizons in the metaverse 24
+Conclusion 29Appendix: Economic models  
+in the consumer metaverse 30
+Glossary 48
+Contributors 49
+Endnotes 52Images: Getty Images, Unsplash
+Demystifying the Consumer Metaverse
+2ForewordDefining and building 
+the metaverse
+The next era of the internet is taking shape, 
+with the convergence of technologies forging 
+the metaverse, an immersive, interoperable, 
+and synchronous virtual world. Though a 
+single standard definition for the metaverse 
+has yet to emerge, experts agree that this 
+new age of the internet will disrupt and 
+transform current social and economic 
+structures. From more immersive, empathetic 
+social experiences to more universal access 
+to services and education, the metaverse 
+presents momentous opportunity, but 
+also brings about new challenges. 
+It is within this context that in May 2022, 
+the World Economic Forum launched the 
+initiative Defining and Building the Metaverse. 
+The initiative has brought together a global, 
+multistakeholder group of more than 100 
+experts in academia, civil society, government, 
+technology and business to help shape a 
+future metaverse that is equitable, safe and 
+economically viable. The initiative does so via 
+two tracks: governance, and economic and 
+social value creation, as the interdependent 
+topics that the public and private sectors 
+must work together on in order to responsibly 
+activate the metaverse.Kevin Collins
+Managing Director and 
+Global Software and 
+Platforms Lead, AccentureCathy Li
+Head, Media, Entertainment 
+and Sport and Member of 
+the Executive Committee, 
+World Economic Forum
+The governance track focuses on frameworks 
+that prevent potential harms and mitigate 
+emerging risks while ensuring equity, 
+privacy, security, safety and interoperability. 
+The first output of the track is focused on 
+interoperability, which is founded on the ability 
+for users to participate across environments 
+and technologies, for data to circulate freely 
+and securely, and for systems to exchange 
+information seamlessly.
+Meanwhile, the value creation track looks 
+at the opportunities in consumer, industrial 
+and enterprise metaverses and researches 
+the considerations for access, inclusion, 
+sustainability and well-being that will come 
+with its development. 
+This insight report, written by the World 
+Economic Forum in collaboration with 
+Accenture, is focused on consumer 
+applications, exploring the key components, 
+foundation technologies, roles and paths 
+to economic value and growth. Due to their 
+experimentation, incubation and creation of 
+new behaviours and business models, the work 
+of consumer organizations can serve to inspire 
+and illuminate more changes to come. While some economic models will simply 
+be replicated from the existing internet to 
+metaverse environments, complemented by a 
+certain level of immersion or interaction, others 
+will disrupt entire industries and generate brand 
+new revenue streams. It is our hope that this 
+paper will educate and guide organizations to 
+stable and informed decision-making so that 
+value creation is equitable and sustainable for all. 
+Demystifying the Consumer Metaverse
+3Executive 
+summaryThe metaverse is expected to have a wide-
+ranging impact on consumers’ attitudes and 
+behaviours, impacting how, where and when 
+they will want to play, learn, earn and socialize 
+in their existing reality or newly established 
+augmented and virtual realities. Consequently, 
+organizations will need to redefine their 
+brand image, shift their relationship model 
+with consumers and change the way they 
+monetize products and services in order to 
+create true consumer value. They will likely 
+move from offering products and services to 
+being metaverse participants and providers, 
+introducing engaging experiences and 
+building communities in order to create 
+meaning and fulfilment for their customers.
+The World Economic Forum has launched 
+the Defining and Building the Metaverse 
+initiative to help explore and qualify the 
+metaverse’s social and economic opportunities 
+and challenges while aiming to explore and 
+create a holistic governance framework. 
+The initiative does so within two tracks, the 
+value creation and governance track. 
+While the broader initiative explores the 
+metaverse from multiple angles and dives 
+into areas from interoperability and identity 
+to social value, this report aims to give a 
+holistic introduction to the consumer-facing 
+metaverse and its economic opportunities. The consumer metaverse 
+offers a myriad of economic 
+opportunities and challenges The key question of this report is: What makes 
+up the metaverse and how can organizations 
+and individuals create equitable economic 
+value through it in a consumer context? 
+Drawing on expertise in retail, media and 
+entertainment, consumer packaged goods, 
+real estate, banking and communications, 
+as well as technology innovation, web3, 
+environmental, social and governance 
+(ESG), and economics experts, this insight 
+report presents an interdisciplinary view 
+of the end-user experience layer of the 
+metaverse, capturing the present technology 
+landscape and related economic models 
+that may pave the way for future growth. 
+A selection of this paper’s key insights 
+is outlined in the following:
+ –While it currently is difficult to define 
+the metaverse, its main distinguishing 
+components are highlighted to be social 
+interaction, identity, multilateral value 
+exchange and distribution, and a degree 
+of immersion.
+ –Impacted by wider society – organizations 
+and individuals can take on one or 
+multiple roles in the metaverse, from being 
+participants to creators or providers.  –The role of individual creators will be 
+amplified in the metaverse. Technologies 
+such as AI and blockchain, will support 
+this amplification. An evolving creator 
+economy will influence value distribution in 
+the metaverse greatly and offer far-reaching 
+opportunities for businesses and individuals, 
+but it will also pose challenges when 
+approached incorrectly.
+ –Eight economic models were identified 
+to drive value in the metaverse, including 
+digital products and assets, access and 
+influence, immersive commerce, payments 
+and currency, asset monetization, advertising 
+and marketing, the creator economy, and 
+metaverse-native services. 
+ –A selection of six drivers of metaverse 
+growth and adoption were identified, 
+including metaverse-ready networks, 
+realistic avatars, infrastructure, governance, 
+standards and regulation, ownership and 
+artificial intelligence. 
+Given the breadth of the metaverse topic, 
+this report confines itself to the consumer 
+metaverse and its economic challenges and 
+opportunities. Further work within this value 
+creation track will explore the enterprise and 
+industrial metaverse, as well as the metaverse 
+in the context of education, healthcare, 
+life sciences, infrastructure and cities. 
+Demystifying the Consumer Metaverse
+4Defining and Building the Metaverse
+Initiative overview
+Value creation
+Governance2023 2022 2024The consumer metaverse
+Exploration of the key components, 
+foundational technologies, roles and 
+paths to economic value creation and 
+growth in the consumer metaverse.
+Interoperability
+Exploration of target states, 
+capability gaps , potential risks , 
+solutions and opportunities related 
+to metaverse technical, usage, and 
+jurisdictional interoperability.  The industrial metaverse
+Exploration of early-stage use 
+cases, foundational technologies 
+and future potential related to 
+the industrial metaverse.
+Coming up:  
+Explore the frontier 
+technologies in healthcare, 
+education and cities 
+Privacy, security and safety
+Exploration of target states , capability 
+gaps , potential risks , solutions and 
+opportunities related to privacy, security 
+and safety. These will be explored in 
+conjunction with notice and consent 
+structures, anonymity, and the right to 
+be forgotten, among other topics.Social value in the metaverse
+Exploration of social opportunities 
+and challenges in the context of the 
+metaverse as it relates to diversity, 
+equity and inclusion, as well as 
+access and well-being.
+Identity
+Exploration of target states , capability 
+gaps , potential risks , solutions 
+and opportunities of technical 
+and functional identity. Additional 
+topics to explore include physical, 
+emotional and mental well-being.The future of consumer, industrial  
+and enterprise metaverses
+Expanding on research and analysis 
+from 2022, the initiative will look at 
+how to activate the economic fly 
+wheel of the metaverse, through the 
+identification of new value chains and 
+future growth scenarios
+Governance white paper
+Analysis of the material shared 
+across the exploratory series on 
+interoperability, privacy, security, safety 
+and identity bolstered by a supporting 
+governance white paper, which can 
+be used by metaverse stakeholders to 
+create a human-first metaverse. 
+Demystifying the Consumer Metaverse
+5Decoding the metaverse, 
+web3 and Web 3.01
+Demystifying the Consumer Metaverse
+61   Decoding the metaverse, web3 and Web 3.0
+Introduction
+The introduction of innovative 
+technologies regularly changes 
+and shapes the world’s social and 
+economic structures, presenting 
+momentous opportunities 
+and pivotal challenges.FIGURE 1
+Evolution of the internetThe prime example of groundbreaking 
+technological change is the internet. While 
+the first versions of the internet (internet of 
+data) solely served the purpose of exchanging 
+information, later iterations introduced the 
+concepts of social interaction, entertainment, 
+commerce (internet of people) and direct 
+interconnection of physical objects, creating 
+connected worlds (internet of things). 
+The current iteration of the internet, Web 
+3.0 (internet of place and ownership), 
+evolves its predecessors towards a more 
+intuitive interaction with technology. 
+It reimagines the connection between 
+the virtual and the physical world while 
+emphasizing ownership of identity and 
+assets, enhancing the way humans conduct 
+their private, public and professional lives.
+While exact definitions are widely discussed, 
+Web 3.0, web3 and the metaverse are 
+expected to create the next wave of significant 
+technological, and hence economic and 
+societal change. 1990s
+Internet of data
+Made vast amounts of 
+information available for 
+people to access anywhere, 
+anytime and search with ease
+Connected people to people 
+across vast distances and 
+brought virtual social life to 
+the forefront
+Connected phones, 
+devices and machines 
+together, extending the 
+digital world for people2000s
+Internet of people
+2010s
+Internet of things
+Web 3.0
+Demystifying the Consumer Metaverse
+7FIGURE 2
+Web 3.0 as defined by Accenture
+The internet of place 
+This new evolution of the internet 
+introduces a shift to 3D as a method  
+for navigation, social interaction, 
+engagement and insights.
+Web 3.0Public places
+Places that belong to communities 
+circled around certain norms.Consumer and community places
+Hybrid places
+Enterprise and industrial places
+Digital wallets
+Tokens
+Data
+Virtual representation
+Digital identityPrivate places
+Places with exclusive access for 
+selected users and groups.
+Digital assets
+Value distribution of virtual/physical 
+goods through tokens in an economy.
+Identity
+Self-expression and authentication 
+in the shape of individual assets.The internet of ownership 
+Ownership reimagines how individuals and 
+organizations handle data, create, learn, 
+shop, have fun, interact and collaborate. 
+It enables an internet built on the ability 
+to own one’s identity and assets. 
+Demystifying the Consumer Metaverse
+8Decoding the metaverse 
+In a quest to quantify the metaverse’s future 
+impact, the metaverse is predicted to be worth 
+$6-13 trillion by 2030,1 with global revenues 
+expected to reach $800 billion by 2024.2
+Today’s metaverse is an expanding and 
+evolving proposition that will be re-defined 
+perpetually. A “true” metaverse does not 
+exist yet, and mass adoption will most likely 
+be driven by advances in hardware, software 
+and processing power, enabling density of 
+population and high levels of interaction in 
+virtual worlds. Hence, formulating an all-
+encompassing definition for the metaverse is 
+rather difficult at this point in time. However, it 
+is acknowledged that there is a need to define 
+the metaverse’s components to help identify 
+its fabric and inform investment decisions. 
+Guided through conversations with metaverse 
+thought leaders and analysis of existing 
+publications, the World Economic Forum 
+highlights social interaction, identity, multilateral 
+value exchange and distribution, and a degree 
+of immersion as the main components of 
+metaverse worlds, which combined with a set 
+of foundational technologies, immersive content 
+and experiences make the metaverse a new 
+iteration of digital change, that will disrupt value 
+chains, businesses and entire industries. It is 
+noted that the metaverse won’t be comprised 
+of one single entity but many different 
+worlds in either centralized or decentralized environments that offer a certain degree of 
+interoperability and create meaning and user 
+fulfilment through value exchange between 
+realities across virtual and physical worlds.
+web3 and the metaverse
+The terms web3 and the metaverse are often 
+used interchangeably, though they refer to two 
+different, albeit related, concepts.
+While this report does not aim to give an 
+exhaustive definition of the two terms or define 
+their overlap, it will give a brief summary of the 
+public’s understanding of these concepts and 
+their delineation. 
+Web 3.0, referenced earlier, describes the third 
+stage of the internet. It is an evolution focused 
+on distributing systems to create a more secure, 
+transparent and open internet experience 
+that enables direct interactions between 
+users and their peers without intermediaries. 
+Decentralization in this frame is achieved through 
+web3, an emerging portfolio of decentralized 
+technologies (such as blockchain and its 
+applications), protocols and standards, which 
+establish provenance, veracity and value of data.
+Even though the metaverse and web3 are not 
+interchangeable, use cases often employ both 
+concepts. Hence, in the frame of the Defining 
+and Building the Metaverse initiative, both 
+concepts will be taken into consideration when 
+discussing economic and social implications. 
+A massively scaled and interoperable 
+network of real-time rendered 3D 
+virtual worlds that can be experienced 
+synchronously [...] with an individual sense 
+of presence, and with continuity of data, 
+such as identity, history, entitlements, 
+objects, communications, and payments. 
+Matthew Ball, The Metaverse  
+ 
+… virtual worlds are generally ‘composed 
+of a few distinct elements: a society or 
+grouping of humans; another world or reality 
+involving events, identity, rules and things 
+that are deemed to be in some way real; 
+and an ongoing transfer of value between 
+the two, which grows individual and group 
+fulfilment, wealth and meaning.
+Herman Narula, Virtual Society
+Demystifying the Consumer Metaverse
+91   Decoding the metaverse, web3 and Web 3.0
+The metaverse 
+stackFIGURE 3
+Layers of value creation in the metaverse
+Identity, value distribution, social interaction 
+and immersion are key components of the 
+metaverse and are enabled by an interplay 
+of technologies, capabilities and human 
+behaviour. Figure 3 aims to outline this 
+interplay as the “metaverse stack”, layers 
+of the metaverse in which value can be 
+realized. Policy, security and governance 
+should ensure the equitable realization of 
+the entirety of the stack.Select the layers 
+to discover more
+Demystifying the Consumer Metaverse
+101   Decoding the metaverse, web3 and Web 3.0
+Foundational 
+technologies 
+and capabilities 
+driving the 
+expansion of 
+the metaverseFIGURE 4
+Foundational technologies and capabilities
+The previously outlined metaverse stack 
+is enabled through a set of foundational 
+technologies and capabilities. The metaverse 
+market is expected to denote a compound 
+annual growth rate of 39.8% from 2022 to 
+2030,3 which may signal a promising market 
+unfolding the possibilities of new innovations 
+and business models. Understanding 
+the metaverse’s technologies and their 
+implications on future developments, from 
+experiences to operations and adoption, is 
+vital to foresee value creation in a consumer 
+context. Figure 4 outlines and describes a 
+selection of these metaverse technologies.
+Demystifying the Consumer Metaverse
+111   Decoding the metaverse, web3 and Web 3.0
+Roles in the 
+metaverse
+In the metaverse, individuals and organizations 
+take on the roles of society, participants, 
+creators and providers, bringing the metaverse 
+stack to life. Within these roles they constantly 
+exchange value. Even though this value 
+exchange is use-case dependent, each role 
+is integral to the fabric of the metaverse.
+Select the tabs 
+to discover more
+Demystifying the Consumer Metaverse
+121   Decoding the metaverse, web3 and Web 3.0
+The gaming 
+industry as 
+the pioneer 
+in virtualized 
+world-building After a pandemic bump, interest in gaming has 
+continued to skyrocket. Video game revenue 
+is projected to show an annual growth rate of 
+7.7%, resulting in a projected market volume of 
+$285 billion by 2027.10 
+The gaming industry and the metaverse share 
+an inherent experiential, social, transactional 
+and sometimes virtual nature, with gameplay 
+at the heart of its consumer value. Players 
+in the gaming industry, such as Epic Games 
+and Roblox, are pioneering ideas of what the 
+metaverse could be, both in terms of engaging 
+content and attracting audiences. Seen in the 
+widely publicized virtual concerts and brand 
+collaborations, these platforms engage users to 
+develop their digital identities and enable them 
+to express these identities through collectables 
+and skins while offering them a virtual home in 
+their communities.
+The gaming industry has essentially moulded 
+users for the metaverse and will continue to lead 
+and help support development in perpetuity.
+Just as gaming shapes our idea of the 
+metaverse, the metaverse also impacts the 
+gaming industry. Collaboration is key to growth
+Fuelled through the introduction of 
+XR and web3 technologies such as 
+blockchain, traditional business models of 
+gaming companies are being challenged. 
+Cryptocurrencies, non-fungible tokens (NFTs), 
+and GameFi models are only some of the 
+metaverse concepts that will impact gaming.
+Conversely, consumer brands operating in 
+the metaverse can draw inspiration from 
+gaming company experiences in how to 
+create unique and engaging touchpoints.Creators as the primary 
+source of content
+User-generated content (UGC) has been a 
+vital building block of the gaming industry for 
+years. It provides virtual environments with 
+personality, authenticity and scale, acting as a 
+steady stream of new, engaging characters and 
+content to fill the gaps between official content 
+releases or even replace them altogether.
+An expanding creator economy, in which 
+tools for creation are widely available and 
+easy to use, is essential to ensuring a steady 
+flow of creativity into virtual worlds with new, 
+engaging and personalized content that will 
+inspire and retain users and ensure diverse 
+and inclusive experiences. The metaverse 
+brings this model a step further by enabling 
+creator economies in which creators can 
+monetize their IP in perpetuity, such as 
+through royalties.
+Organizations inside and outside of the gaming 
+industry are expected to empower and uplift 
+creators in the form of content generation but 
+also in building long-lasting communities that 
+bring creators to the forefront.
+Demystifying the Consumer Metaverse
+131   Decoding the metaverse, web3 and Web 3.0
+Implications 
+of gamified 
+experiences
+With an aim to create responsible gaming and 
+metaverse worlds, certain considerations need 
+to be taken into account when designing both 
+virtual worlds and experiences.
+A growing data economy will elevate the 
+need for privacy and security, while an influx 
+of virtual assets will lead to the growing need 
+for asset management. Furthermore, studies 
+reveal a correlation between microtransactions, 
+gaming and gambling disorders.
+What valuable lessons from gaming light the path ahead?
+Engage through play
+VR gaming is expected to grow at a compound 
+annual growth rate (CAGR) of 32.7% over the 
+forecast period 2021-202711 and gamified 
+commerce is booming. “Play” has led the first 
+wave of metaverse adoption, with companies 
+shifting from selling products and services to 
+offering experiences.
+Next generation of users are 
+innate gamers
+Gamers will inherit the metaverse: 54% of 
+Roblox participants as of 2020 are younger 
+than 1312 and this demographic highlights 
+gaming’s future potential, with the users 
+of tomorrow being intrinsically gamers. As 
+the metaverse of tomorrow is designed, 
+users will expect frictionless, non-intrusive 
+and socially engaging experiences to play, 
+share, learn and socialize.Creators and IP rights
+Content in the metaverse will be increasingly 
+built by individual creators, requiring the 
+development of new ways of managing 
+content, IP rights and ownership as 
+important value drivers of leading metaverse 
+experiences. Seen by many as a “prototype” 
+of the metaverse, the platform Second Life 
+has reportedly paid creators $80 million 
+in 2021 while reporting 64.7 million active 
+users on their platform in the same year.  
+Social pays
+Engagement is higher for metaverse players 
+who play to socialize (over two extra hours 
+played/month), and players who socialize 
+spend more (over 4-5% spent every six 
+months).13 While platforms like Roblox and 
+Fortnite are becoming the most sought-after 
+virtual destinations for socializing, branded 
+virtual spaces and experiences on these 
+platforms are gaining traction for advertisers. 
+Roblox recently stated that it would soon 
+allow brands to directly purchase in-game 
+advertising and launch advertisement 
+experiences, providing an opportunity for 
+brands and businesses eager to target a 
+tech-savvy young audience.
+Demystifying the Consumer Metaverse
+14Value creation in the 
+consumer metaverse2
+Demystifying the Consumer Metaverse
+152   Value creation in the consumer metaverse
+IntroductionThe metaverse isn’t conducive to a linear 
+consumer journey. The days of step-by-step 
+journey models are over. Humans don’t follow 
+linear paths to purchase, predictable patterns 
+of behaviour, or set attitudes. They are driven 
+by their in-the-moment intent. The next step 
+from awareness is not always engagement. 
+Brand loyalty doesn’t require purchase. This 
+could not be truer in the metaverse, where 
+immersive experiences and fluid interactions 
+allow brands to develop a deeper sense of 
+relevance in their consumers’ day-to-day. 
+Brands will find new ways to authentically play 
+a role in their consumers’ specific missions, 
+key occasions and magic moments.
+A recent report, Gen Z and the Metaverse, 
+by Nokia and Ipsos, implies that “consumer 
+value” in the metaverse will look different for 
+different personality profiles. As highlighted 
+in the report, solidarity searchers, which 
+are described as rather introverted, will find 
+the most value in the metaverse, offering 
+them heightened convenience, allowing 
+them to complete mundane “social chores”, 
+such as clothes shopping, from home. 
+In contrast, citizens, which the research 
+describes as less tech-forward, will find 
+the most value in the socialization and 
+entertainment aspects of the metaverse.14Further research in Roblox’s recent 2022 
+Metaverse Fashion Trends report highlights 
+that one attitude that most Gen Z shares is an 
+ambition to embrace their digital identities and 
+the liking of brands that support this identity 
+creation.15 These findings highlight that just as 
+in the current version of the internet, consumer 
+value will not be generated universally but will 
+have to be strongly aligned with the target 
+group’s wants and needs, using consumer 
+data in a responsible manner that puts the 
+human right for privacy at its centre. 
+Source: Accenture, Accenture 
+Consumer Metaverse Study (Insights 
+from ~9,000 global consumers), 2023.61%
+of consumers look forward to interacting 
+with family and friends in the metaverse
+52%
+of consumers believe that the metaverse will 
+strengthen the connection to their favourite brand
+51%
+of consumers look forward to creating 
+and monetizing content in the metaverse
+Demystifying the Consumer Metaverse
+16Virtual reality (VR)/augmented reality (AR) 
+reaching mass market potential: This will 
+open up the devices to millions of consumers 
+and developers, ensuring a price point and 
+feature set that meets consumer expectations.
+A workforce in the metaverse: When 
+enterprises accelerate metaverse adoption 
+and introduce immersive technologies into 
+the workforce, adoption will transition from 
+employee to consumer use.
+Network effects: The development of net-
+new offerings, achieved as big tech brands and 
+creators create new experiences, products and 
+services that are more compelling, unique and 
+convenient. Today there are only a few must-
+play games and experiences – for example, 
+location-based AR games and AR commerce.Everyone born today is an innate gamer:  
+iPad natives and gamers native to platforms 
+such as Roblox and Fortnite will enter the 
+working population in 5-10 years. This 
+audience has grown up expecting the world 
+to be interactive. 
+Technological progress: As the underlying 
+technologies required for the metaverse 
+continue to evolve (such as game engines, 
+small and power-efficient XR-processors and 
+XR optics), integrated virtual world platforms 
+will become easier to use, more capable and 
+easier to build on. 
+Other factors include the maturation of digital 
+wallets and tokens, the evolution of payment 
+rails through regulatory action, advancements 
+in network edge computing, low-latency cloud 
+computing, the establishment of a culture 
+of ownership and market-wide adoption of 
+interoperability standards. These factors and 
+more can be explored further in chapter 4.
+2   Value creation in the consumer metaverse
+Drivers of 
+consumer 
+adoption
+Demystifying the Consumer Metaverse
+172   Value creation in the consumer metaverse
+Successful 
+players will 
+choose the future 
+they build for 
+tomorrow, today
+Select the tabs 
+to discover more
+Demystifying the Consumer Metaverse
+182   Value creation in the consumer metaverse
+The metaverse 
+economy
+Far beyond opening the door to virtual 
+gameplay, the metaverse expands societies’ 
+reality and introduces environments in which 
+every consumer can take an active role in 
+creating, shaping and distributing value. The 
+application of the metaverse and web3 is set to 
+herald a new era in content and world creation 
+and drive immense economic opportunity, 
+thus making the creator economy a vital part 
+of the overall metaverse economy. Moreover, 
+this shift presents an opportunity to address 
+flaws of a current Web 2.0 centralized system 
+that sees the majority of value created fall into 
+the hands of a few centralized entities. Web 
+3.0 provides an opportunity to reinvent the 
+way value is generated and shared among a 
+diverse set of creators, brands and businesses. 
+To achieve this goal, it is important that 
+the metaverse is designed with a value-
+led economic mindset that learns from past 
+mistakes and encourages a sustainable 
+and fair economic climate for creators in 
+this new era of authenticated ownership. Changing the paradigm of artistic creation, 
+creators now have a way to ensure visibility, 
+voice and economic share. Blockchain 
+applications allow creators to monetize 
+talent independently of centralized hosting 
+platforms. While they do not provide proof 
+that a particular creation, was in fact 
+generated by the original creator, they provide 
+mechanisms for transferring ownership of 
+particular assets. Advancements in AI are 
+also likely to play a significant role in the 
+creation of the metaverse, such as putting 
+design tools into the hands of consumers – 
+turning metaverse participants into creators.
+Businesses (participants and providers) play a 
+vocal role in uplifting a diverse set of creators 
+while ensuring creator tools and features 
+are available and accessible to everyone.
+Creators, participants and providers 
+introduce a symbiotic value exchange, 
+which opens up new possibilities for 
+equitable and fair digital economies. 
+Brands and platform providers benefit 
+from enabling and amplifying creators, 
+as they are at the pulse of consumer 
+sentiment. The creator economy goes far 
+beyond amplifying content creation and 
+will be transformative for the metaverse, as 
+creators are in a position to reinvent and 
+challenge the status quo and inherently 
+accelerate metaverse adoption speed. While benefiting from the threefold value 
+distribution, it is both participant’s and 
+provider’s obligation to ensure equitable 
+treatment of creators while keeping transaction 
+fees reasonable and at a minimum. 
+The creator economy plays a significant role 
+in the broader metaverse economy, and it is 
+acknowledged that a wide range of factors – 
+from tokenomics to stable currencies and 
+fair voting rights – contribute to a stable and 
+equitable metaverse economy. The sheer 
+number of voices to be considered makes for 
+a strenuous balancing process and a need for 
+a set of tools and rules to be established. 
+Roblox’s immersive marketplaces are 
+scaling towards becoming fully user-
+generated, with 90% of avatar items 
+currently from the community. 
+Roblox is introducing new mechanisms 
+for the community to build sustainable 
+businesses, including giving creators full 
+control over the scarcity of their items and 
+allowing all users to resell or trade items.16
+Future papers in the frame of this initiative aim to 
+investigate how to activate the economic flywheel of the 
+metaverse and build on the idea of value distribution.USE CASE
+Roblox
+Demystifying the Consumer Metaverse
+192   Value creation in the consumer metaverse
+Ensuring fair 
+value distribution 
+in the metaverse
+Mechanics for transparent and fair value 
+distribution in the metaverse will be essential 
+to ensure a sustainable economy. While 
+in Web 2.0, IP attribution to creators was 
+limited by individual platform mechanisms, 
+web3 technologies offer the unique 
+opportunity to ensure trust, credibility and 
+fair value distribution by design. Establishing 
+a new set of standards and processes is 
+required to allow creators and participants 
+(businesses) in the metaverse to create, build 
+and share ideas in a way that cultivates a 
+circular economy in which everyone wins.Value distribution by design
+Assumption: An equitable and fair system tracks each 
+individual and new creation. This requires:
+ –Platforms or systems that allow users to easily find and  
+re-use existing creations
+ –Transparency on the re-use of existing ideas and 
+mechanisms to credit the initial creator
+ –Fair value distribution across the entire value chain 
+(credit to all parties) 
+ –AI-driven transparent and automated decision-making with 
+sufficient control mechanisms, including an appeal process
+ –Attributing value to intermediaries, such as legal, 
+marketing and influencers, who create value 
+through rights, promotion, distribution and more
+ –All parties (creators and organizations) to share a 
+percentage of credit and/or monetary value
+What must we get right?
+ –Address the culture of ownership in relation to IP rights 
+management and treatment
+ –Address how to properly measure “added-value”
+ –Address how to flow micro-credits fairly and efficiently
+ –Design for growth, not to inflate, such that the majority 
+of creators can make a sustainable livingFIGURE 5
+The value-add economy
+1
+2
+3 5
+46Initial
+creation
+Money 
+and credit is
+ﬂowed back
+proportionally
+dividedOther creators
+build onto
+initial creationIncentive to create
+as tangible outcomes
+are ensured
+Creation is
+launched onto
+marketplaceCreators,
+intermediaries and
+end sales get a
+ﬁnancial cut
+Demystifying the Consumer Metaverse
+20Metaverse 
+economic models3
+Demystifying the Consumer Metaverse
+213  Metaverse economic models
+Introduction
+The metaverse is expanding 
+traditional monetization channels 
+and opening the door for net 
+new consumer opportunities. 
+Economic models will form 
+an interdependent ecosystem 
+across all roles that is driven 
+by compelling experiences, 
+seamless commerce options and 
+the fabric that will underpin both.FIGURE 6
+Metaverse economic modelsIt is evident that the metaverse offers a 
+myriad of opportunities for new circular 
+business models. Users continue to develop 
+their digital identities, and they do so by 
+making use of economic mechanisms, such 
+as avatar skins, NFTs or immersive games. 
+Gen Z especially exhibits a liking for brands 
+and platforms that help them embrace their 
+unique identities.17 However, consumer 
+value will not be generated universally.18 
+Leaders must understand consumer wants 
+and needs and decide which role to play in 
+the metaverse, informed by consumer data, 
+designed in a human-centric manner.
+Organizations need to align their metaverse 
+strategies with industry-specific needs, target 
+group metaverse adoption and maturity, 
+and the technological and regulatory 
+landscape. New economic plays will be 
+based on successfully delivering compelling 
+experiences, seamless commerce options, 
+social interaction and transactions, the 
+underlying fabric that will support the 
+surrounding ecosystem and tools that enable 
+circular experiences and economies.
+Aware of the fast-evolving nature of this 
+space, this chapter explores the potential 
+value capture of nine economic models. 
+These models are projected using market 
+research and analysing value captured from 
+existing Web2.0 business models.Metaverse goods 
+and experiences
+The user moments that 
+delight, surprise and engageMetaverse payments 
+and commerce
+The marketplace and 
+platforms that consumers 
+transact onMetaverse fabric
+The surrounding ecosystem 
+and tools that enable 
+experience and economy
+Demystifying the Consumer Metaverse
+223  Metaverse economic models
+Paths to 
+economic value 
+and growth in 
+the metaverse
+The metaverse opens a spectrum of new 
+revenue opportunities – from traditional 
+to entirely unprecedented. The following 
+eight economic models represent notable 
+shifts from today’s ways of doing business. 
+Businesses may pursue one or more of 
+these simultaneously.
+Note on the metaverse and personal data:   
+the metaverse will introduce new models that enable 
+users to share, manage and operate their own 
+data. Although personal data is not called out as an 
+economic model in its own right, this report aims to 
+emphasize the responsible use of personal data while 
+outlining its potential.
+Select the tabs 
+to discover more
+Demystifying the Consumer Metaverse
+23Future value horizons 
+in the metaverse4
+Demystifying the Consumer Metaverse
+244  Future value horizons in the metaverse
+Introduction
+Mass scale will depend on 
+the ability to deliver engaging 
+experiences – however, 
+maturity across key enablers 
+will be the defining driver.
+Forecasting beyond this first wave of use cases 
+and their corresponding economic mechanisms 
+will continue to be an open and evolving 
+dialogue. However, as technologies continue 
+to be adopted, purposeful experimentation 
+acts as an opportunity for brands, businesses 
+and creators to design, build and refine 
+experiences and supporting models. The 
+thinking today will act as core foundational 
+learnings for stakeholders to position 
+themselves and to evolve and expand offerings 
+into longer-term, sustainable opportunities.
+It’s important to understand that this is a 
+rapidly evolving space of technologies, and 
+albeit an evolving ecosystem, development 
+requirements can be attached to the time 
+constraints of when fundamental technologies 
+will be mass-produced and adopted and the 
+impact this will have on select value plays.FIGURE 7
+Projected horizons of metaverse growth and adoption
+Economic models selected today must consider the varying stages of maturity across 
+technology, policy and wider enablers that these choices may use, as these choices will act 
+as the foundations for how experiences of product and service offerings will evolve over time.
+Now
+Early adoption and traction
+Today-2 years~
+Initial enablement 
+and experiences2-5 years~
+Mainstream products 
+and technologies5-10+ years
+Proliferation of worlds, 
+products and servicesNear
+Ecosystem maturityNext
+Mass adoption
+Early development and adoption of 
+worlds and spaces powered by major 
+investment in content production, 
+new tools and features, foundational 
+technologies, hardware, software 
+and identity solutions. Development of standards for enabling 
+interoperability, mass adoption 
+of immersive technologies, new 
+business models based on content 
+distribution, new financial products 
+and services and the proliferation 
+of 5G and edge computing.Maturity and adoption will set 
+future scenarios, with economic 
+models to be validated further in 
+future reports supported by the 
+identification of new value chains 
+and future growth scenarios. 
+Demystifying the Consumer Metaverse
+254  Future value horizons in the metaverse
+Drivers of growth 
+and adoption of 
+the metaverse
+Six non-exhaustive areas were identified 
+as leading prerequisites for impactful 
+metaverse mass adoption.
+Select the tabs 
+to discover more
+Demystifying the Consumer Metaverse
+264  Future value horizons in the metaverse
+Projected 
+horizons of 
+metaverse growth 
+and adoption
+This list does not aim to provide an exhaustive 
+overview but brings to life the types of enablers 
+required to accelerate the development and 
+adoption of the metaverse, with a particular 
+focus on the metaverse stack layers of 
+software and platforms, infrastructure and 
+network. Experience, economy and identity 
+are addressed in greater detail in other 
+sections of the report.
+Select the now, near and 
+next to discover moreSources: “What’s New in the 2022 Gartner Hype Cycle 
+for Emerging Technologies”, Gartner, 10 August 2022.
+Gartner, Gartner Identifies Key Emerging Technologies 
+Expanding Immersive Experiences, Accelerating AI 
+Automation and Optimizing Technologist Delivery  
+[Press release], 10 August 2022.
+Rimol, Meghan, “Metaverse, Web3 and Crypto: 
+Separating Blockchain Hype from Reality: Q&A with 
+Avivah Litan”, Gartner Newsroom, 30 August 2022. 
+Baier-Lentz, Moritz, Faye Maidment, Benedikt Hübenthal, 
+“Reality Check” Perspectives on Extended Reality  
+(AR, MR, VR)”, Bitkraft, 2021.
+Biondi, Matteo, Anna Heid, Ivan Ostojic, Nicolaus Henke, 
+Lorenzo Pautasso, Niko Mohr, Linde Wester, Rodney 
+Zemmel, Quantum computing: An emerging ecosystem 
+and industry use cases, McKinsey & Company, 2021.
+Mello-Klein, Cody, ”The Future of 6G Wireless Could  
+be Closer Than You Think”, Northeastern University, 
+26 May 2022. 
+“6G: preparing today the mobile networks of the future”, 
+Orange, 11 July 2022.
+“Digital identity trends – 5 forces that are shaping 2022”, 
+Thales, 29 December 2021.
+Cordon, Stephanie, “2023 will be a pivotal year for VR: 
+Which headset will you buy?”, ZDNET, 5 July 2022.
+Makarov, Andrew, “12 Augmented Reality Trends of 2023: 
+New Milestones in Immersive Technology”, MobiDev, 
+2 August 2022.
+Demystifying the Consumer Metaverse
+274  Future value horizons in the metaverse
+Projections 
+of when the 
+value of these 
+economic 
+opportunities 
+may be realized 
+across the 
+same horizonDigital products 
+and assetsDigital assets External platform utilityPotential future scenario: As ownership of digital assets becomes mainstream, new economic models 
+making use of those assets will arise. Models will include the development of specific assets for target 
+communities as a reward for their engagement. Other models, such as the tokenisation of the brand-
+to-consumer relationship, will enable greater participation, collaboration and innovation, where users’ 
+creative input is recognized and rewarded – creating a sense of togetherness, inspiration and loyalty.
+Access and 
+influencePlay-to-earn Access as an assetPotential future scenario: Premium experiences, which allow users to access and acquire products, 
+services and experiences by paying a fee, will mature. Mechanisms such as governance and voting 
+rights will go mainstream. Brands will grant users’ rights by means of utility tokens or virtual assets. 
+It is important to note that sufficient governance, regulation and standards will need to be in place 
+to make this metaverse experience truly democratized and not a one-share-one-vote process.
+Immersive 
+commerceTokenized gated 
+marketplaceImmersive shoppingPotential future scenario: Growth of token-based business models and aspects of the commerce 
+value chain becoming decentralized may lead to the potential transition to a decentralized future of 
+commerce (commerce 3.0) where decentralized commerce (DeCo) platforms go mainstream.
+Payments and 
+currencyDigital wallet custodyCentral bank digital 
+currencies (CBDCs) 
+and stablecoinsPotential future scenario: The inclusion of digital wallets within the financial services sector and 
+the adoption of CBDCs and Stablecoins will improve cross-border payments, making remittances 
+cheaper and faster. This will create new kinds of financial instruments, such as fractional lending.
+Asset 
+monetizationStaking Credit/loansPotential future scenario: Mass adoption of worlds and spaces will result in the potential for net-
+new sources of revenue generation, as end-users, creators, brands and businesses will be able to 
+lease items such as virtual spaces or renting digital products and spaces for passive income.
+Advertising 
+and marketingVirtual brand worlds“Buy off your 
+back” affiliatesPotential future scenario: Moving from traditional content to more natural, immersive, and intuitive 
+experiences, new concepts will come to the fore, from programmatic advertising at scale, to hyper-
+personalized brand experiences where users live the Nike commercial, to integrated advertising across 
+omni with virtual/AR as the new channels, built on a trusted identity foundation where users control 
+their data, potentially opening the door for consumers to reap some of the monetization benefits.
+Creator 
+economyCreator tools 
+and featuresProduct co-creationPotential future scenario: By 2030, it is projected that immersive technologies, content and experiences 
+will accelerate this sector, blurring the lines between creator and consumer on an unprecedented 
+scale. Leading to a proliferation in creator-led content and resulting in next-gen creator tools and 
+features and new brand/creator partnership models as the metaverse matures and evolves.
+Metaverse-
+native servicesSmart contracts Premium connectivityPotential future scenario: A proliferation of interoperable worlds and spaces will result in a need for 
+net-new virtual services, from access to network and computing power to digital-twin-as-a-service 
+and metaverse-as-a-service offering specialized services, simulations and entire world builds.Now
+Early adoption 
+and tractionPaths to economic 
+value and growth 
+in the metaverseNear
+Ecosystem 
+maturityNext
+Mass  
+adoption
+Disclaimer: The displayed projections are based 
+on market research and forecasts. Various 
+variables, such as investment, regulation or 
+economic climate, impact metaverse evolution. 
+In consequence, the displayed mechanisms may 
+mature and evolve earlier or later than projected. (Not exhaustive)
+Select each path to read 
+more in the Appendix
+Demystifying the Consumer Metaverse
+28ConclusionWhile the metaverse’s full potential will likely 
+unfold in the coming decade, its current 
+nascent stage offers great opportunity to 
+individuals and organizations to position 
+themselves clearly in a newly emerging 
+world. As education and understanding drive 
+equitable adoption and value distribution, it is 
+essential that the public and private sectors 
+create a deep understanding of the metaverse, 
+its components, implications and economic 
+models today. 
+Today’s imagination drives tomorrow’s 
+innovation. Thus, growth drivers and emerging 
+technologies require further development and 
+innovation to enable meaningful metaverse 
+engagement and interaction. Based on 
+forecasts and statistics, this report can only 
+speculate that, next to others, these drivers 
+include metaverse-ready networks, software, 
+hardware infrastructure and AI.
+Individuals and businesses must find their 
+role within the metaverse economy and 
+clearly define their metaverse strategy, goals 
+and target group to ensure meaningful value 
+exchange and distribution in augmented or 
+immersive worlds. They must evaluate their 
+current offerings, appropriately translate 
+them into metaverse environments, or allow 
+disruption of their business models.A comprehensive understanding 
+of the metaverse builds the 
+foundation for equitable 
+adoption and economic 
+success across industries.This report gives a comprehensive but non-
+exhaustive overview of possible economic 
+opportunities and their potential for companies 
+across various consumer-facing industries. In 
+recognition of the evolving creator economy, 
+the report aims to show the positive impact 
+that comes with a metaverse that potentially 
+strengthens the role of creators. Organizations 
+in the public and private sectors should 
+continue to amplify creators in order to fuel an 
+equitable digital economy. 
+While this report marks an important step 
+on the journey towards an equitable and 
+meaningful metaverse, it will be followed by 
+further research, analysing potential social 
+implications of the metaverse, implications to 
+metaverse governance, as well as quantitative 
+data-based forecasting of potential economic 
+scenarios and value chains in the metaverse. 
+This current nascent stage of the metaverse 
+offers an unprecedented opportunity to build 
+better, more equitable and just worlds that may 
+greatly impact current physical reality. This 
+report sets a steppingstone for companies and 
+individuals to start their educational journey 
+and to translate it into economically and 
+socially viable action. 
+Demystifying the Consumer Metaverse
+29Appendix
+Economic models in the 
+consumer metaverse
+The metaverse will expand traditional economic models 
+by replicating them in metaverse environments and by 
+complementing them with a certain level of interaction and 
+immersion. At the same time, the metaverse will open the 
+door for new, unexplored economic models, which will disrupt 
+entire industries and generate brand-new revenue streams. 
+This appendix aims to highlight a selection of relevant 
+economic models the metaverse offers today or will offer in 
+the near to long-term future, outlining possible commercial 
+opportunities for companies and creators to explore.
+Demystifying the Consumer Metaverse
+30Appendix
+Digital products 
+and assets
+The metaverse unlocks a new frontier with 
+digital products and assets. New product 
+opportunities will range from independent 
+revenue streams driven by entirely virtual goods, 
+over NFTs, avatar skins, accessories and 
+features, tokens enabling fractional ownership 
+and perpetual royalties that generate passive 
+income, to phygital products that provide utility 
+within and across virtual experiences and 
+extend to the physical simultaneously.
+The metaverse introduces new user 
+experiences and relationship models, such  
+as micro-interactions or micro-experiences,  
+that deepen the connection between the  
+brand, creator and consumer, offering new 
+ways to express, create, share content and 
+drive community behaviours introducing new 
+forms of growth.Economic mechanisms:  
+product sales and royalties
+1Digital assets
+Digital products, such as in-game assets (skins, wearables) or art (NFTs), 
+can drive meaningful revenue through direct end-user sales while also 
+enabling royalties (passive income from secondary sales in perpetuity) to 
+creators and platforms.
+2Phygital products
+End-users can redeem digital products or NFTs/tokens for physical, 
+and vice versa, increasing utility and brand exposure across channels. 
+Products can be directly mirrored or conceptually related, expanding 
+experience and storytelling opportunities for brands.
+3Consumables
+Single or multiple use tokens, with the potential for expiry, open the door 
+for applications like coupons, tickets, and more (loyalty programs). These 
+items can be sold or rewarded by brands to end-users where they can 
+choose to trade or consume the item. 
+4External platform utility
+Brands can develop goods for end-user utility within existing external 
+platforms, such as creating a wearable for use in Decentraland, an in-
+game asset, or a 3D model to be imported into a virtual environment. 
+They can be bought or earned and then resold by the user. The platform 
+may take a cut of the sale.Economic mechanisms:  
+equity and entitlement sales
+5Pre-production sales
+Fund/refine product development through digital, pre-production 
+representation of a product. End-users can collect/sell/trade, and the 
+brand can benefit from the market insight and cash flow.
+6(Hyper) fractional ownership
+Enable fractional ownership of more expensive assets to end-users by 
+broadening the pool of potential buyers and increasing engagement.
+7Community exclusivity
+Brands can develop products specifically for target communities of end-
+users as a reward/incentive for their engagement. Products can be sold 
+or gifted, physical or virtual, and can be personalized or tiered based on 
+membership level or owned assets.
+8Physical asset tokenization
+Physical assets can be tokenized as NFTs and exchanged, traded, 
+transferred and held like any other NFT; or redeemed for the physical asset. 
+Demystifying the Consumer Metaverse
+31Selected insights
+Mindset shifts
+ –Digital and physical experiences will need 
+to transition seamlessly.
+ –Community-led approaches will support 
+product development, funding and more.
+ –Digital scarcity elevates value, and 
+embedded royalties foster connection in 
+the creator economy.
+Additional considerations
+ –Interoperability of assets will play an 
+important role in value creation.
+ –Virtual to physical commerce models have 
+not yet been scaled.
+ –Potential impact on supply chains to 
+deliver virtual to physical offerings.The almost century-old publisher TIME has 
+been facing a changing media environment, 
+shifting consumer behaviours and the challenge 
+to stay competitive in a market strongly 
+impacted by free online content. Widening 
+its existing business model, the company 
+introduced TIMEpieces, connecting culture and 
+technology. Within the project, TIME partners 
+with artists and creators to create NFTs, which 
+can be purchased through platforms such as 
+Opensea. Through this, TIME has showcased 
+a fluid ability to develop web3 offerings and 
+business model alternatives. The company 
+has gathered more than 50,000 artists and 
+sold over 22,000 NFTs generating more than 
+$10 million in profit and over $600,000 for 
+charities to date.19EXAMPLE USE CASE
+Digital assets – strategic evolution
+Demystifying the Consumer Metaverse
+32Appendix
+Access and 
+influence
+The potential to monetize the “live-able” 
+virtual experiences of tomorrow presents a 
+tremendous opportunity for the platform and 
+experienced players. Many early metaverse 
+gaming experiences are free to play today. 
+Yet, pay-for-access offers an opportunity 
+for metaverse players to monetize exclusive 
+and premium offerings for participants or 
+creators – such as exclusive worlds, games, 
+in-game tiers, individual events, voting 
+rights or items. The pricing structure for 
+these experiences can be designed to take 
+advantage of scarcity while enhancing – 
+or at least not inhibiting – engagement.Economic mechanisms: payment-based access
+1Paywalled access
+End-users pay to become a paywall subscriber, acquiring access to 
+exclusive content.
+2Premium tier access
+End-users pay a subscription fee to access immersive games 
+and experiences. 
+3Usage-based toll
+End-users pay for the amount of content they consume (i.e. how  
+much time they spend playing a game or how many times they  
+access the service).
+4Single-instance fee access
+End-users pay brands for access to one-time events (exclusive fan 
+experiences, virtual concerts, sporting events).Economic mechanisms: ownership-based access
+5Access as an asset
+NFTs as tools for verification. End-users pay for tokenized access to 
+exclusive virtual communities, goods, offerings and services through 
+ownership of specific assets. 
+6Governance and voting rights
+End-users are granted governance and voting rights by purchasing/
+gaining utility tokens and/or virtual assets from brands.
+7Play-to-earn
+Whether in NFTs, cryptocurrencies or fiat, the metaverse allows for new 
+revenue models where users can be rewarded for playing games and 
+exchange such rewards for (crypto) currencies beyond the platform.
+Demystifying the Consumer Metaverse
+33Selected insights
+Mindset shifts
+ –A trend towards non-paywalled but tiered  
+or premium models based on exclusivity 
+and engagement is evident.
+ –Virtual network effects will be key to scaling. 
+Companies will need to create ways to build 
+community and gather around content.
+ –NFTs can act as tools for verification.
+Additional considerations
+ –Higher customer acquisition costs 
+associated with subscription models need 
+to be considered.
+ –Mechanisms, such as premium tier access, 
+must not be a barrier to adoption.
+ –Technology and capabilities still need 
+to evolve to provide engaging real-time, 
+immersive experiences for large crowds.Ranging from concerts to fashion or sporting 
+events, access to an engaging and interactive 
+experience has been limited to those situated 
+in specific geographic locations with specific 
+financial means. In order to access a wider 
+and more diverse audience, Justin Bieber, 
+Ariana Grande and Travis Scott are just some 
+artists who have entered the sphere of virtual 
+concerts in Fortnite. Virtual concerts offer 
+artists the opportunity to monetize through 
+ticket sales, virtual merchandise and premium 
+tier access, while platform providers attract 
+new users into their virtual worlds. According 
+to Forbes, Travis Scott’s 2020 concert on 
+Fortnite has attracted over 12 million viewers, 
+grossing “roughly $20 million (…) including 
+merchandise sales”,20 which highlights the 
+future potential of virtual events. EXAMPLE USE CASE
+Virtual events
+Demystifying the Consumer Metaverse
+34Appendix
+Immersive 
+commerce
+The metaverse powers the next evolution 
+of commerce, which progressed from 
+shopping in store to shopping online, and 
+now to blended and immersive virtual and 
+physical experiences. It is positioned to both 
+evolve and revolutionize online and physical 
+commerce. As end-users shift from browsers 
+to participants, their shopping will become 
+increasingly experiential along multiple 
+layers of immersion. Not only will consumers 
+encounter products within their experiences 
+(like encountering a wearable during a digital 
+fashion event), but they’ll also be able to buy 
+it on the spot without having to link to a site, 
+decentralizing the shopping experience.Economic mechanisms:  
+point of sale (POS) transactions
+1Marketplace
+Brands can design marketplaces to attract and feature curated products, 
+offer a unique shopping experience, or be exclusive to a community 
+(tokenized gated marketplace) of end-users. Curation, personalization and 
+filtering capabilities will drive differentiation.
+2Interactive contextual PoS
+Brands can link products on display or in-use to a site or seamlessly 
+facilitate the transaction with the click of a button to end-users, taking a 
+fee in the referral process. Economic mechanisms: enhanced/embedded 
+shopping
+3Social shopping/commerce
+Brands can benefit from social interaction and end-user contribution 
+within virtual communities in order to drive brand interaction and 
+sales. Wallet and end-user data can be used for personalization, 
+recommendation and insight. 
+4Immersive shopping
+End-users can use augmented reality (AR) and virtual reality (VR) to 
+virtually try on or visualize products before purchase, driving confidence 
+(conversion) in digital/virtual purchases for brands. Virtual capabilities 
+enable manipulation of size, perspective, environment, etc. for the good.
+5Virtual context
+Brands can offer digital products in the environment/experiences they’re 
+most useful in, such as allowing end-users to purchase an NFT profile 
+picture while setting up an avatar.
+6Cross-channel shopping
+Brands can make use of virtual interactions to trigger IRL behaviours. 
+Products can be bought virtually to be redeemed physically, using 
+digital wallets to deliver a seamless transition for end-users.
+7In-game commerce
+Opportunities to buy digital or physical goods while playing or consuming 
+an experience. Goods may be placed in the game and fit the context of 
+the experience.
+8Decentralized commerce (DeCo)/marketplaces
+Physical and digital (phygital) goods will be tokenized as NFTs and 
+listed and traded on an open market eliminating high transaction fees 
+through the support of blockchain technology and smart contracts.
+Demystifying the Consumer Metaverse
+35Selected insights
+Mindset shifts
+ –Brands’ shopping experiences will 
+connect various channels seamlessly 
+while transitioning between 2D and 3D, 
+AR and VR.
+ –Product placement is expected to gain 
+traction, and minimal time between product 
+discovery and purchase will be expected.
+ –The opportunity to experience and explore 
+products in virtual or augmented contexts 
+drives buyer confidence in online commerce.
+Additional considerations
+ –The virtual commerce consumer base is 
+small but growing. Consumers currently 
+lack the hardware, software, payment 
+means or understanding to shop in 
+virtual environments.
+ –Physical commerce experiences cannot 
+simply be replicated in virtual environments 
+but need to be aligned with platform, 
+interface and consumer needs.
+ –Virtual worlds and protocols are still 
+immature, and products and interactions 
+may not be compatible across platforms.Young, digitally native consumers are a key 
+audience for Forever21 and many metaverse-
+like online games. With an aim to cultivate a 
+following among young consumers, Forever 
+21 introduced their interactive experience, 
+“Forever 21 Shop City”, on Roblox in December 
+2021. The experience encourages individuals 
+to express themselves by means of digital 
+fashion and cosmetics. The brand allows 
+users to design, own and manage their own 
+virtual store of digital assets, which have been 
+inspired by physical products and created 
+by known digital creators. Beyond opening 
+up new revenue streams, the experience 
+elevates Forever 21’s relationship with its 
+customers, as it actively involves them in a 
+rather unusual part of the retail value chain. 
+To date (November 2022), the experience has 
+registered over 256,900+ visitors highlighting 
+the potential of gamified commerce.21EXAMPLE USE CASE
+Gamified commerce
+Demystifying the Consumer Metaverse
+36Appendix
+Payments and 
+currency
+Powering a digitally native economy, the 
+metaverse will necessitate robust payment 
+infrastructures, encompassing digital assets 
+as a store of value or cryptocurrencies as 
+means for payment. 
+While cryptocurrencies have occupied the 
+metaverse spotlight for a while, metaverse 
+transactions are expected to be conducted 
+in fiat currency, in-platform tokens as well 
+as cryptocurrencies. The interplay of various 
+payment means and currencies is expected 
+to establish a need for services such as 
+on and offramps for currency conversion, 
+wallets to store digital assets and provide 
+access, and custody to protect assets from 
+potential threats.Economic mechanisms: digital wallet payment, 
+exchange and custody fees
+1In-platform tokens (utility)
+End-users can buy, earn and exchange tokens, which brands can provide, 
+that can be used to get products/rewards or cashed out for money.
+2Digital wallet payments
+End-users pay fees to brands – or generate B2B fees, depending on  
+the solution – for payment transactions for digital products, services, 
+access, etc.
+3Currency exchange
+End-users pay fees to companies – or generate B2B fees, depending on the 
+solution – for using a crypto-to-fiat offramp or executing token exchanges.
+4Digital wallet custody
+End-users pay fees to brands– or generate B2B fees or interest, 
+depending on the solution – for storing digital assets in third-party wallets.5CBDCs and stablecoins
+New means of payment may result in new transaction models where 
+fees may apply.
+6Cross-border payments
+Improvements in the cross-border payments space may result in a 
+competitive landscape to offer faster and cheaper payments/remittances 
+(fees may apply).
+7Fractional lending
+Tokenized ownership of NFTs is split into forms of repayment methods 
+with an applied interest. The act of dividing the ownership of an NFT 
+between the owner and the lender into fractions allows the owner of the 
+NFT to take out a loan on the asset and the lender to apply a see in the 
+form of an interest return.
+Demystifying the Consumer Metaverse
+37Selected insights
+Mindset shifts
+ –Virtual payments should be an extension of 
+existing digital and crypto payments.
+ –Private key storage and custody services will 
+enable new opportunities for trusted third 
+parties and a broader spectrum of options 
+for the end-user (including self-custody).
+ –Interoperability of digital wallets benefits 
+from network effects and standards 
+proposed by both the crypto communities 
+and public initiatives, such as the European 
+Blockchain Services Infrastructure (EBSI).
+Additional considerations
+ –Access and payment experience in the 
+metaverse requires simplification of the  
+user experience.
+ –Unfavourable token cash-out rates could 
+result in fewer users and creators on 
+metaverse platforms.
+ –A current lack of clear risk and regulatory 
+framework is evident.With a growing want of end-consumers for 
+crypto-related services provided by trusted 
+financial institutions, Mastercard recently 
+introduced Crypto SourceTM. In partnership 
+with regulated and licensed crypto custody 
+providers, the company provides banks 
+and fintech companies with technology and 
+partnership support that enables buying, 
+holding, and selling of selected crypto assets, 
+security management, crypto spending and 
+cash-out capabilities, as well as crypto program 
+management. Mastercard has been working 
+alongside customers and partners to bring 
+additional security to the crypto ecosystem and 
+offer seamless crypto experiences that meet 
+consumer needs.22EXAMPLE USE CASE
+Payments, trading and custody
+Demystifying the Consumer Metaverse
+38Appendix
+Asset 
+monetization
+While digital assets are mostly associated with 
+the storing of value, they offer organizations 
+and individuals monetization options that 
+enable passive income. Similar to fiat products, 
+asset owners can extract value from these 
+assets beyond their original intended value-
+exchange, using different monetization 
+mechanisms while keeping ownership. Economic mechanisms: renting/leasing 
+virtual assets
+1Renting digital products and spaces
+Brands can rent out digital/virtual products like virtual clothing or 
+accessories, and virtual spaces for hosting events to end-users for a 
+defined period of time (NFT-based).
+2Leasing virtual space
+Owners of digital/virtual space can lease it to brands for ad purposes  
+for a defined period of time.Economic mechanisms: savings and investments
+3Staking
+Brands can offer end-users the option to stake their crypto, allowing them 
+to earn a return from assets instead of idling them in their virtual wallets. 
+Brands can generate value by keeping end-users assets in their native 
+ecosystems and encouraging the growth of their platform through fees 
+and network effects. 
+4Earn
+Yield farming or liquidity pooling are some of the earning strategies, similar 
+to fixed income, that brands can offer to asset owners to attract liquidity 
+to their ecosystems while allowing them to earn a return from assets 
+instead of idling them in their virtual wallets. 
+5Airdrops
+Airdrops are produced when a company issues tokens that go directly to 
+the community, earned through features such as staking. This enables 
+users to become early adopters and build community, while acting as a 
+foundation to start creating value from the token or asset for trading, in-
+game currency, exchange and more.
+6Credit/loans
+Asset owners can use their digital assets as collateral to ask for a loan, 
+so they get liquidity to purchase goods and services while keeping 
+assets ownership.
+Demystifying the Consumer Metaverse
+39Selected insights
+Mindset shifts
+ –Virtual assets offer new opportunities to 
+link with physical assets.
+ –Extension of enterprise assets into the 
+virtual realm, such as virtual land and 
+space, art and more.
+ –Blockchain-based contracts can help 
+build trust and provide authenticity.
+ –Staking is currently the most trusted form 
+of asset monetization, albeit a new and 
+somewhat complex concept which comes 
+with its own risks.
+Additional considerations
+ –Renting/leasing would only gain traction 
+when there is enough demand for assets 
+like land and spaces.
+ –Decentralized finance (DeFi) is currently 
+not extensively user-friendly and lacks 
+regulation for protecting end-users against 
+fraud and cyber risk.
+ –Staking is not risk-free, as users staking 
+their crypto could incur losses as a result 
+of the value of a currency decreasing.With virtual land prices ranging up to $1 million 
+and monthly rent sometimes exceeding 
+$60,000, more and more businesses venture 
+into the space of buying and renting virtual 
+land. Admix, a monetization platform for AR, 
+VR and games, has leased virtual spaces to 
+brands like Pepsi and Formula One. According 
+to Admix CEO Sam Huber, “Admix has pulled 
+profits upwards of 70%”. With an uncertain 
+future of the metaverse, according to Huber, 
+many brands are still wary about buying 
+virtual real estate. This in return offers unique 
+opportunities for individuals and companies to 
+monetize on renting virtual land and spaces.23EXAMPLE USE CASE
+Renting virtual land
+Demystifying the Consumer Metaverse
+40Appendix
+Advertising and 
+marketing
+Consumers’ virtual lives will entirely or at least 
+partly shift into the metaverse, creating new 
+digital channels for companies to make use of 
+for marketing purposes. This shift will trigger 
+a transformation of traditional marketing and 
+advertising models. Metaverse advertising 
+models will use immersion, storytelling and 
+user expression through authentic content 
+and experiences. Brands will play the role of 
+extending users’ identities and will be most 
+successful if they provide authentic and 
+transparent value.
+Beyond passively consuming ads, consumers 
+will “live” targeted experiences that match their 
+wants and needs (identities) throughout various 
+channels, leading to richer, more intimate 
+marketing that yields higher margins for key ad 
+products. With an expanding data economy, 
+the metaverse will offer new types of consumer 
+data, delivering consumer insights with 
+unprecedented depth. While using this data to 
+provide personalized and targeted experiences 
+that match consumer needs, organizations 
+are expected to implement transparent and 
+responsible data practices to ensure digital trust. Economic mechanisms: ad sales on 
+owned or third-party properties
+1Non-intrusive display ads
+End-users generate B2B revenue through targeted, programmatic and 
+AI-driven models (tracking facial expressions to adapt ad content) that 
+serve ads on virtual banners, billboards and during gameplay, possibly 
+complemented by the sponsorship of virtual venues.
+2Marketplace ads
+End-users generate ad revenue through targeted, programmatic and 
+possibly AI-driven retail media placements in metaverse marketplaces.
+3Phygital experiences
+End-users generate B2B revenue through extended reality (XR) ads that 
+bridge the virtual and physical worlds to drive foot traffic in both realms.
+4Immersive ads
+End-users generate B2B revenue through engaging in 3D advertising 
+experiences that are clearly labelled as ads and seamlessly transport 
+between virtual worlds and ad experiences.Economic mechanisms: experience-driven brand 
+and product promotion
+5“Buy off your back” affiliates
+End-users, creators or AI avatars can become brand affiliates with the 
+potential for others to purchase products directly from their avatars, 
+spaces, profiles, or streaming/community events, increasing product sales.
+6Brand gamification
+Brands create free games and events that end users can engage with, 
+creating a deeper connection with the brand by learning about the 
+company, its products and driving sales.
+7Virtual brand worlds
+Brands create virtual worlds to connect with end-users in a way that is 
+more authentic to the brand and serves as an additional PoS.
+8Loyalty and token-based loyalty
+Brands generate value through brand loyalty by providing meaningful 
+experiences with end-users which can drive future sales of digital and 
+physical products. It also unlocks the opportunity for blockchain-based 
+tokenization in loyalty programmes.
+Demystifying the Consumer Metaverse
+41Selected insights
+Mindset shifts
+ –Advertisements will span from 2D to 3D, 
+between AR and VR.
+ –Advertising will shift towards content 
+creation, enabling businesses to engage 
+with more authenticity.
+ –Ad spend growth will be coupled with 
+metaverse user growth rates.
+ –The metaverse/web3 may trigger increased 
+user control of personal data.
+Additional considerations
+ –The adoption of new touchpoints will define 
+new parameters for audience segmentation 
+and a need for new marketing metrics.
+ –Data privacy needs to be front and centre in 
+metaverse marketing and advertisement.
+ –Current marketing approaches will need 
+to be adapted to new opportunities and 
+consumer expectations of the metaverse.A recent consumer survey showcases that 
+41% of respondents are often annoyed 
+by online advertising, while 35% state that 
+they don’t mind advertisements if they 
+get content in return.24 Survey results like 
+these highlight consumers’ needs for more 
+engaging advertising and might be some of 
+the reasons Roblox will introduce immersive 
+ads its platform in 2023. The immersive 3D 
+advertising experience will be labelled as such 
+and will seamlessly transport users back and 
+forth between experiences while operating in 
+a walled garden.25  Roblox’s introduction of 
+immersive ads is expected to open up new 
+revenue streams to the platform and offer new 
+opportunities to advertisers to raise brand 
+awareness and drive sales.EXAMPLE USE CASE
+Immersive ads
+Demystifying the Consumer Metaverse
+42Appendix
+Creator economy
+As an evolution of our traditional economy, the 
+creator economy represents a paradigm shift 
+of new business models and content creation.  
+Web3 marks a decisive shift in data ownership 
+from platforms to individuals, and the metaverse 
+enables creators of all ages to have autonomy 
+over how, where and when they monetize the 
+content they make (e.g. through royalties). 
+Reimagining the future of content design in the 
+metaverse opens our eyes to additional avenues 
+of virtual asset and world creation, as well as 
+collaboration. Brands will be able to originate 
+diverse creations by empowering diverse creators. 
+While social media has introduced a fluidity 
+between consumers and creators, the metaverse 
+will exhibit a unique dynamic between brands, 
+creators and consumers.
+1. Brand to creator: Beyond offering creator tools, 
+brands can license their IP to creators to empower 
+their creativity to create branded assets, which 
+end-users can purchase and use in the metaverse.
+2. Creator to creator: Creators can sell their content 
+to other creators to customize and build on top of. 
+Original creators will continue to receive royalties 
+every time the content is sold.
+3. Creator to consumer: Creators can sell their 
+content directly to the end-user or brand, providing 
+new ways to enhance virtual experiences.Economic mechanisms: creation enablement
+1Creator tools and features
+Brands can provide creators with tools and features to create content or 
+to facilitate collaboration with other creators and end-users. This can help 
+financial inclusion by generating end-user assets, and originating new 
+content and revenue from platform royalties and fees. 
+2Creator consulting
+Brands can serve as the connective tissue between brands and/or 
+end-users to contract out and fulfil metaverse-related design requests. 
+Revenue can be generated through contracting fees and commission 
+from service. 
+3Product co-creation
+Brands directly collaborate with creators to design new products and 
+services in virtual, physical and phygital environments. Generation and sale 
+of products drive awareness and revenue for both the brand and creator.
+4Create-to-earn 
+As part of GameFi, end-users can be part of the in-game asset build. 
+Introducing a new model and royalty stream, end-users can provide their 
+input to create digital in-game assets, granting the creator unique merits 
+and brands/businesses a new source of creative content. Economic mechanisms: creation monetization
+5License brand IP
+Brands can license their IP to creators to create branded worlds, digital 
+products, and other experience consumables for end-users. Revenue 
+generated from sale of assets and perpetual royalties from resale and 
+licensing fees.
+6Transactional fees
+Environment/platform owners can charge creators a transactional fee to 
+create and maintain a space in the environment. Additionally, the platform 
+can charge fees every time the creator sells a good to an end-user.
+7Usage fees
+Metaverse environment owners can charge end-users fees based on their 
+usage of assets in the environment. Royalties of usage could also be paid 
+out to the original creator of the asset.
+Demystifying the Consumer Metaverse
+43Selected insights
+Mindset shifts
+ –User roles will shift further to being creators 
+themselves, and their digital identities will be 
+amalgamations of creators they like.
+ –Creator economies will evolve into multi-
+dimensional IP , triggering multi-surface 
+delivery throughout the physical and XR 
+at every level, as well as across platforms, 
+ensuring continued revenue generation and 
+value distribution.
+Additional considerations
+ –Applying current IP approaches and not 
+adapting them to the needs of the creator 
+will trigger potential loss of content and IP 
+generation for brands.
+ –Current creator payout models don’t leave 
+enough margin for creators; platforms need to 
+ensure creators have the incentive to create.
+ –Creators can track the impact of their 
+brand-related communication and value 
+delivered, leading to greater transparency 
+in how they charge for their influence and 
+creativity. Brands will need to include 
+the resulting insights in their negotiations 
+with creators for enhanced visibility on 
+engagement key performance indicators 
+(KPIs) and return on investment (ROI).While ways to turn perfume into an engaging 
+experience may not be obvious, the British 
+company Rook has excelled in turning perfume 
+sales into a metaverse experience that delivers 
+ownership. In the frame of their “Scent of the 
+Metaverse” project, Rook has sold 30 NFTs, 
+which served as an invite to an exclusive 
+decentralized autonomous organization (DAO). 
+The NFT enabled holders to join exclusive 
+learning sessions, interactive games and 
+metaverse trips. It furthermore allowed NFT 
+holders to work with perfumer Nadeem Crowe 
+to create the “Scent of the Metaverse”. NFT 
+holders then received a bottle of the perfume 
+(with a collaboratively designed NFT of the 
+label) and co-creation rights to the fragrance, 
+which still earns them royalties on fragrance 
+sales.26 While the exact results of the campaign 
+are not public, the use case highlights the 
+metaverse’s potential for user co-creation, as 
+well as the inclusion of consumers into rather 
+unusual stages of businesses’ value chains 
+while strengthening brand awareness and 
+consumer relationships.EXAMPLE USE CASE
+User co-creation and license brand IP
+Demystifying the Consumer Metaverse
+44Appendix
+Metaverse-
+native services
+Just like the need for virtual goods, the 
+metaverse amplifies the growing need for virtual 
+services in the metaverse. Some metaverse-
+native services have an enabling function. 
+Services like smart contracts, premium 
+connectivity or network and computing 
+power will fuel metaverse experiences and 
+drive an equitable creator economy. Other 
+services directly serve an end consumer or 
+business. Through offerings such as digital 
+twin or rendering as a service, brands, users 
+and creators will be able to outsource select 
+metaverse-related tasks while focusing on key 
+capabilities in the space. Economic mechanisms: metaverse-native 
+services enablement
+1Smart contracts
+As brands create new metaverse experiences and digital products, a 
+need for smart contract creation services will be required to stake and 
+transfer ownership to end-users seamlessly.
+2Network and computing power
+Brands, and even users, can rent their network access and computing 
+power to other users for a fee.
+3Premium connectivity
+End-users pay brands for premium network connectivity, improving the 
+end-user metaverse experience by reducing buffer time.Economic mechanisms: metaverse-native 
+services
+4Net-new services/brokers
+Brands can offer select services/foundational capabilities to enhance end-
+user metaverse experiences, from entire builds of virtual branded worlds 
+to specialized service offerings (identity services, delegated custody, etc.),  
+to experience consulting, user reviews and more (also known as 
+metaverse-as-a-service).
+5Digital-twin-as-a-service
+Service offering enabling a virtual duplicate of a physical object, 
+process or system.
+6Rendering-as-a-service
+An extension of net-new services, brands can offer to pay per amount of 
+computing resources needed for certain rendering.
+Demystifying the Consumer Metaverse
+45Selected insights
+Mindset shifts
+ –The metaverse will require brand-new 
+service offerings while advancing existing 
+offerings by translating them into new 
+technological realms.
+ –Interaction of large sums of individuals in 
+virtual environments will require sufficient 
+computing and network infrastructure.
+ –Brands will increasingly rely on metaverse 
+native service providers to outsource work 
+that does not lie in their core capability.
+Additional considerations
+ –Additional technological developments, 
+such as 5G (6G), will be required to provide 
+certain services.
+ –Value add of moving services into 
+metaverse environments needs to be 
+assessed and communicated.The recent COVID-19 pandemic has highlighted 
+the human need for face-to-face interaction 
+and communication. With an aim to elevate 
+the way we communicate, Deutsche Telekom, 
+Orange, Telefónica and Vodafone have 
+partnered with MATSUKO to develop an easy-
+to-use platform, that combines the physical 
+and virtual world through a mobile connection. 
+Using a smartphone camera, the platform 
+creates a 2D video, which “is then rendered 
+into 3D holograms in the cloud to be streamed 
+by viewers” in an AR, VR or MR environment.27 
+While detailed results are yet to be published, 
+this metaverse service promises great potential 
+to enhance communication in both consumer 
+and business settings. EXAMPLE USE CASE
+Net new services
+Demystifying the Consumer Metaverse
+46Appendix
+Implications to 
+personal data in 
+the metaverseThe metaverse will allow organizations 
+to capture increasingly large amounts of 
+personal data. Through input channels 
+such as haptics, camera vision, audio or 
+Electroencephalography (EEG) sensors, 
+this data will take entirely new forms, as it 
+will capture biometric insights and precise 
+information about people’s surroundings. 
+New data analytics will be possible, including 
+insights into consumers’ emotions, cognitive 
+load or attention span. A 2020 study suggests 
+that  five minutes of VR tracking data can 
+produce “information that can identify a user 
+out of a pool of 511 people with an accuracy of 
+95.3%”, indicating the increasing privacy risks 
+of the metaverse’s growing data ecosystem.28
+New data types, combined with 
+technology enablers such as AI and digital 
+twins, will unlock an unprecedented degree 
+of consumer understanding, as well as 
+new capabilities for brands to connect with 
+audiences, for example, through hyper-
+personalized marketing and engaging 
+experiences in XR. Enhanced privacy, 
+security and safety protections will be 
+critical to encourage people to participate in 
+these experiences and unlock the value the 
+metaverse can deliver. 
+Companies will need to prioritize safe virtual 
+environments, enhanced data protection 
+measures, and proactive security to achieve 
+robust adoption of metaverse offerings.The metaverse will give end users more 
+mechanisms to exercise personal ownership 
+and control over their data and will offer new 
+ways to let people manage their own identities 
+online. Both in centralized and decentralized 
+environments, the metaverse will enable 
+users to share, manage and operate their 
+own data. Users will exert their rights to profit 
+from their data, or to be forgotten; they will 
+embrace privacy and anonymity. Platforms, 
+device makers and other organizations have 
+an opportunity to support consumers in their 
+data ownership journey by incorporating 
+decentralized identity protocols and data 
+portability into their business models, where 
+possible. Users may additionally outsource 
+their data stewardship, e.g. by hiring external 
+privacy services providers (such as the Solid 
+project29), opening the door for new personal 
+data products and services.
+Future papers in the governance initiative 
+track will analyse privacy and security in the 
+metaverse. This appendix aims to outline 
+economic models in the metaverse and 
+emphasizes the responsible use of personal 
+data while outlining its potential.
+Demystifying the Consumer Metaverse
+47Glossary
+Metaverse: The metaverse describes 
+persistent, interconnected virtual worlds 
+and spaces that are characterized by the 
+enablement of social interaction and value 
+distribution and a certain degree of immersion. 
+Human-first: A metaverse that prioritizes the 
+human needs of an individual and consequently 
+integrates supportive design choices, tools 
+and interactions to respect the persons behind 
+the data; this transcends decisions – from 
+architecture and security to privacy, identity and 
+safety choices.
+web3: web3 describes an emerging portfolio 
+of decentralized technologies, protocols and 
+standards that help to establish provenance, 
+veracity and value of data.
+Web3.0: Web3.0 describes the third stage 
+of the World Wide Web’s development. It is 
+an evolution focused on distributing systems 
+to create a more secure, transparent and 
+open internet experience that enables direct 
+interactions between users and their peers 
+without intermediaries.Interoperability: The ability to interact, 
+exchange and make use of data and resulting 
+information to enable movement, transactions 
+and participation across systems, platforms, 
+environments and technologies. 
+Phygital: Combines the words physical and 
+digital to describe blending digital/virtual 
+experiences with physical ones. Extending 
+into the metaverse, phygital now portends 
+to describe opportunities for experiences 
+to exist dually in physical and digital spaces 
+simultaneously – as well as real goods and 
+services as they become interoperable.
+XR: XR or extended reality is an umbrella term 
+that includes immersive technologies such as 
+augmented reality (AR), virtual reality (VR), and 
+mixed reality (MR).
+Decentralized finance (DeFi): Used to refer 
+to a financial ecosystem built on blockchain 
+technology where users exchange assets 
+without intermediaries. 
+Digital token: A unit on a digital ledger that is 
+used to represent value, such as an asset or 
+a basket of assets, including real-world assets 
+such as commodities, stock or real estate 
+property. The token can be used to facilitate 
+transactions and transfers of title to such 
+underlying value or asset.Non-fungible tokens (NFTs): A solution 
+created to allow us to represent objects with 
+unique, unrepeatable and indivisible qualities 
+within a blockchain.
+Tokenization: The digitization and 
+representation of a physical or digital asset 
+within a blockchain, including all its information. 
+This process brings a more commercialized 
+vision, where people can value and exchange 
+any element based on its supply and demand.
+Digital wallet: In the context of this paper, a 
+digital wallet is considered a crypto wallet, a 
+piece of software or hardware with which users 
+perform the send/receive operations of digital 
+assets through a blockchain network.
+Digital identity: A collection of individual 
+attributes (e.g. name, date of birth, occupation, 
+health status) associated with a uniquely 
+identifiable individual, stored and authenticated 
+in the digital sphere. Digital identity may 
+be used for transactions, interactions, 
+representations and authentication online.
+Decentralized identity: Decentralized identity, 
+also referred to as self-sovereign identity, is an 
+open-standards-based identity framework that 
+uses digital identifiers and verifiable credentials 
+that are self-owned, independent and enable 
+trusted data exchange.Decentralized autonomous organization 
+(DAO): An organization that is managed 
+by making use of smart contracts and 
+blockchain technology to provide transparency, 
+immutability, autonomy and security. All 
+decisions are taken based on programmatic 
+algorithms, where participants can execute 
+their voting rights if applicable.
+Permissionless: Refers to (blockchain) 
+networks without restrictions neither to 
+read nor validate transactions, which 
+means all participants have the same rights. 
+Permissionless networks are also known as 
+public networks.
+Centralized: Refers to environments, platforms 
+and ecosystems in which governance resides 
+in a small group of participants with great 
+power of action and control over the rest of the 
+participants.
+Decentralized: Opposite to centralized. 
+Refers to those environments, platforms and 
+ecosystems in which governance resides with 
+the whole community.
+3D worlds: Digital environments and objects 
+occupying 3D worlds in an immersive sensory 
+setting displayed on flat screens.
+Demystifying the Consumer Metaverse
+48Contributors
+This paper is a combined effort based on 
+numerous interviews, discussions, workshops 
+and research. The opinions expressed herein do 
+not necessarily reflect the views of the individuals 
+or organizations involved in the project or listed 
+below. Sincere thanks are extended to those 
+who contributed their insights via interviews and 
+workshops, as well as those not captured below.
+World Economic Forum 
+Connie Kuang 
+Project Lead, Media, Entertainment and Sport
+Cathy Li 
+Head, Shaping the Future of Media, Entertainment 
+and Sport; Member of the Executive Committee
+Metaverse Initiative 
+Project Fellows
+Thomas Beckley 
+Project Fellow, Accenture 
+Jennifer Bettinger 
+Project Fellow, Accenture
+Kevin Collins
+Managing Director and Global Software 
+and Platforms Lead, Accenture 
+Daniel Diez 
+Project Fellow, AccentureAcknowledgements
+Sincere appreciation is extended to the 
+following working group members, who spent 
+numerous hours providing critical input and 
+feedback to the drafts. Their diverse insights 
+are fundamental to the success of this work.
+Brian Afande 
+Co-Founder and Managing Director, BlackRhino VR 
+Joe Abi Akl 
+Chief Corporate Development Officer and Managing 
+Director, Xsight Future Solutions, Majid al Futtaim
+Ahmed Alghamdi 
+Chief Executive Officer, Artificial 
+Intelligence Global, Algihaz Holding
+Abdulla Aljaziri 
+Senior Manager, Digital Disruption, 
+Dubai Electricity and Water Authority
+Peter Allwood
+Vice-President, Cyber & Intelligence, Mastercard
+Daniel Asmar 
+Associate Professor, Mechanical Engineering, 
+American University of Beirut
+Moritz Baier-Lentz
+Partner, Lightspeed Gaming 
+Paul Bances  
+Vice-President, Market Development & 
+New Legal Entity, PayPal
+Justin Banon 
+Co-Founder, Boson ProtocolAvi Bar-Zeev 
+Chief Technology Officer and Founder, Reality Prime
+Jonathan Batty 
+Director, Public Relations, DXC Technology
+Itamar Benedy 
+Chief Executive Officer and Founder, Anzu
+Mike Blank 
+Chief Operating Officer, Polygon Technologies
+Doreen Bogdan-Martin 
+Director, International Telecommunications Union
+Edward Bowles
+Global Director, Public Policy for Meta 
+Financial Technologies, Meta Platforms
+Jehangir Byramji 
+Emerging Technology and Innovation, 
+Lloyds Banking Group
+Ciara Byrne
+Vice-President, New Business Innovation, 
+Conde Nast
+Xochitl Cadena 
+Project Manager, Metaverse, NEOM
+Adam Caplan 
+Senior Vice-President, Emerging 
+Technologies, Salesforce
+Isaac Castro García
+Co-Founder and Co-Chief Executive Officer, Emerge 
+Pearly Chen 
+Vice-President, HTC-VIA Eugene Chung  
+Chief Executive Officer, Penrose Studios
+Nighat Dad 
+Executive Director, Digital Rights Foundation
+Daniel Diez 
+Chief Marketing Officer, Magic Leap
+Scott Eckert 
+Senior Vice-President, Next Generation 
+Retail and Store No. 8, Walmart
+Maureen Fan 
+Chief Executive Officer and Founder, Baobab Studios
+Tom Ffiske 
+Editor, ImmersiveWire
+Ryan Fitzpatrick 
+Senior Vice-President, Strategy, Vindex
+Fabio La Franca 
+Chief Executive Officer, Blueverse Ventures
+Clementina Giraldo
+Project Specialist, Blockchain, Centre for the 
+Fourth Industrial Revolution, Colombia
+Arturo Gonzalez 
+Director and Global Head, Policy Advocacy  
+& Research, Meta Platforms 
+Keith Grossman 
+President, TIME Magazine
+Walter Grüner 
+Chief Information Officer, Covestro
+Demystifying the Consumer Metaverse
+49Cathy Hackl 
+Chief Metaverse Officer, Journey
+Ylva Hansdotter 
+Founder and Executive Director, XR Impact
+Cortney Harding
+Chief Executive Officer, Friends with Holograms
+HE Huda Al Hashimi
+Deputy Minister of Cabinet Affairs for Strategic 
+Affairs, Prime Minister’s Office in the Ministry of 
+Cabinet Affaires and Future, United Arab Emirates
+Mohamed Heikal
+Head, Business Development, Majid al Futtaim
+Roberto Hernandez
+Global Metaverse Leader, PwC Americas
+Heidi Holman 
+Assistant General Counsel, Microsoft
+Abdulrazzak Hussain
+Vice-President, Information and Communication 
+Technology, Olayan Financing Company
+Tatsuya Ichikawa
+Chief Executive Officer, Avers
+Stephanie Ifayemi
+Head, Digital Standards Policy, London Hub
+Rolf Illenberger 
+Chief Executive Officer, VR Direct
+Dale Imerman 
+Director, Metaverse Partnerships, WPPKyle Jackson 
+Chief Executive Officer, Talespin Reality Labs
+Masa Kawashima 
+Executive Producer, Director of Asia Pacific  
+Operations, Niantic 
+Hoda Al Khzaimi 
+Assistant Research Professor, Engineering, 
+New York University, Abu Dhabi
+Marja Konttinen 
+Marketing Director, Decentraland
+Ingrid Kopp 
+Co-Founder, Electric South
+Basak Koralturk  
+Head, Corporate Strategy, JP Morgan
+Kyle Kretschman
+Chief Economist, Spotify
+Abhinmanyu Kumar
+Chief Executive Officer and Founder, Naavik
+Natalie Lacey 
+Executive Vice-President,  
+Ipsos Media and Entertainment
+Joseph Lin  
+Head, HTC Content and Platforms, HTC-VIA
+George Liu 
+Vice-President, AlixPartners
+Kuniyoshi Mabuchi
+Managing Director, PwC JapanCalvo Mawela 
+Group Chief Executive Officer, Multichoice
+Dinusha Mendis
+Professor of Intellectual Property and 
+Innovation Law, Bournemouth University
+Nelly Mensah 
+Vice-President of Digital Innovation, LVMH
+Tibor Merey 
+Managing Director and Partner, Boston 
+Consulting Group, (BCG)
+Alan Miles 
+Chief Executive Officer, NCSolutions
+Jonathan Miranda 
+Vice-President and Head, Corporate 
+Strategy, Sony Interactive Entertainment
+Peter Miscovich
+Managing Director, Strategy and 
+Innovation, Consulting, JLL
+Hiroaki Miyata 
+Professor and Chair, Department of Health Policy 
+Management, Faculty of Medicine, Keio University
+Hamdullah Mohib 
+Managing Director, Khas Fund, Chimera Investment
+Karabo Morule 
+Founder, Capital Art
+Angelica Munson 
+Executive Officer, Chief Digital Officer, ShiseidoRucha Nanavati
+Chief Information Officer, Mahindra Group
+Rajan Navani 
+Vice-Chairman and Managing Director, Jetline Group
+Genki Oda 
+Chairman and Chief Executive Officer, Remixpoint
+Judith Okonkwo 
+Founder, Imìsí 3D Creation Lab
+Helen Papagiannis 
+Founder, XR Goes Pop
+Nimesh Patel 
+Chief Executive Officer and Founder, Kabuni
+Gerald Podobnik
+Chief Financial Officer, Investment Bank and  
+Corporate Bank, Deutsche Bank
+Anna Rafferty 
+Vice-President, Digital Consumer 
+Engagement, The LEGO Group
+Gabriela Ramos 
+Assistant Director-General for Social and 
+Human Sciences, UNESCO Digital 
+Yonatan Raz-Fridman 
+Founder and Chief Executive Officer, Supersocial
+Michael Reffay 
+Advisor for Digital, Telecommunications and Postal 
+Services, Permanent Representation of France  
+to the European Union
+Demystifying the Consumer Metaverse
+50Philip Rosedale 
+Co-Founder, High Fidelity
+Ali Sajwani 
+Chief Operation Officer, DAMAC International Limited
+Nadim Salha 
+Investment Director, Amanat Holdings
+Nagwa El Shenawy 
+Undersecretary, Ministry of Communications 
+and Information Technology of Egypt
+Jeongho Shin 
+Chief Technology Officer, CJ Olivenetworks, CJ
+Lewis Smithingham 
+Director, Creative Solutions, Media.Monks, S4 Capital
+Tracy Stallard 
+Global Vice-President, Consumer Experiences 
+& In House Agency, Anheuser-Busch InBev
+Artur Sychov 
+Chief Executive Officer and Founder, Somnium Space
+Timmu Toke 
+Chief Executive Officer and Founder, Wolfprint 3D
+Sara Lisa Vogl 
+Co-Founder, R00ts Club
+Amy Webb 
+Chief Executive Officer and Founder, 
+Future Today Institute
+Silvia Wiesner
+General Manager, Belgium and Luxembourg, UnileverCollette Winn 
+Vice-President, Creative Partnerships, 
+NBC Universal Media
+Alexander Winterling 
+Managing Director, Europe, Huma
+Jonathan Wong 
+President, Group One Holdings
+World Economic Forum
+Kimmy Bettinger 
+Project Specialist, Data Policy, C4IR Platforms
+Jaci Eisenberg
+Head, Content Curation,  
+Global Collaboration Village
+Jeremy Jurgens 
+Managing Director, Managing Board, 
+World Economic Forum 
+Stephanie Llamas
+Project Lead, XR Ecosystem Governance
+Erin Parsons
+Project Specialist, XR Ecosystem Governance
+Sandra Waliczek
+Platform Curator, Blockchain and Digital CurrencyAccenture
+Kathleen O’Reilly 
+Senior Managing Director, Global 
+Communications, Media and Technology 
+Industry Practices Chair, Accenture 
+David Treat 
+Senior Managing Director, Metaverse Continuum 
+Business Group Lead, Accenture 
+Kathryn White 
+Associate Director, Metaverse Continuum Business 
+Group (MCBG), North America, Accenture 
+Denise Zheng 
+Managing Director, Metaverse Continuum Business 
+Group, Responsible Metaverse, AccentureProject team 
+Phoebe Barker
+Designer, Studio Miko 
+Laurence Denmark
+Creative Director, Studio Miko
+Martha Howlett
+Editor, Studio Miko
+Demystifying the Consumer Metaverse
+51Endnotes
+1. Citi GPS: Global Perspectives & Solutions,  
+Metaverse and Money – Decrypting the  
+Future, 2022.
+2. “Metaverse may be $800 billion market, 
+next tech platform”, Bloomberg Intelligence, 
+1 December 2021, https://www.bloomberg.com/
+professional/blog/metaverse-may-be-800-billion-
+market-next-tech-platform/. 
+3. Global Data, Metaverse Market Size, Share, 
+Trends, Analysis and Forecasts By Vertical (BFSI, 
+Retail, Media and Entertainment, Education, 
+Aerospace and Defense, Manufacturing, Others), 
+Component Stack (Hardware, Software, Services), 
+Region and Segment 2022-2030, 2022. 
+4. “XR/AR/VR/MR market size 2021-2028”, 
+Statista, 2022, https://www.statista.com/
+statistics/591181/global-augmented-virtual-
+reality-market-size/. 
+5. Grand View Research, Blockchain Technology 
+Market Size, Share & Trends Analysis Report 
+By Type (Private Cloud, Public Cloud), By 
+Application (Digital Identity, Payments), By 
+Enterprise Size, By Component, By End Use, 
+And Segment Forecasts, 2022 – 2030, n.d.
+6. “Worldwide Spending on AI-Centric Systems Will 
+Pass $300 Billion by 2026, According to IDC”, 
+IDC, 12 September 2022, https://www.idc.com/
+getdoc.jsp?containerId=prUS49670322#  
+:~:text=NEEDHAM%2C%20Mass.%2C  
+%20September%2012,%24118%20billion%20
+in%202022%20and.  7. Zaveria, K., “Big data is the future of metaverse, 
+in a sustainable way”, Analytics Insight, 02 October 
+2022, https://www.analyticsinsight.net/big-data-is-
+the-future-of-metaverse-in-a-sustainable-way/.
+8. Kranz, Garry and Christensen, Gerry,  
+“What is 6G? Overview of 6G networks & 
+technology”, Tech Target, April 2022,  
+https://www.techtarget.com/searchnetworking/
+definition/6G.
+9. Pankaj, J., M. Neha, and V. Vitika, Digital Twin 
+Market Report, Allied Market Research, 2022. 
+10. “Video Games – Worldwide”, Statista, 2022, 
+https://www.statista.com/outlook/dmo/digital-
+media/video-games/worldwide.
+11. Mordor Intelligence, Global Virtual Reality In 
+Gaming Market - Growth, Trends, COVID-19 
+Impact, and Forecasts (2022-2027), 2022.
+12. “Distribution of Roblox games users 
+worldwide as of September 2020, by age”, 
+Statista, 2021, https://www.statista.com/
+statistics/1190869/roblox-games-users-global-
+distribution-age/.
+13. Melcher, Niklas, “Deep Dive: Early Metaverse 
+Players – Data on Demographics, Socializing, 
+Playing, & Spending”, NewZoo, 19 January 2022
+14. Roblox, Metaverse Fashion Trends, 2022.
+15. Nokia, Ipsos, Gen Z and the Metaverse, 2022.
+16. “RDC 2022: Our Vision for the Future of  
+Roblox”, Roblox, 9 September 2022,  
+https://blog.roblox.com/2022/09/rdc-2022-
+vision-future-roblox/.17. Roblox, Metaverse Fashion Trends, 2022.
+18. Nokia, Ipsos, Gen Z and the Metaverse, 2022.
+19. De León, Riley, “How 99-year-olf publisher Time 
+is leading legacy media into the NFT future”, 
+CNBC, 17 July 2022, https://www.cnbc.com/  
+2022/07/17/99-year-old-publisher-time-is-
+leading-legacy-media-into-the-nft-future.html.
+20. Brown, Arbram, “How Hip-Hop superstar Travis 
+Scott has become corporate America’s brand 
+whisperer”, Forbes, 30 November 2020,  
+https://www.forbes.com/sites/
+abrambrown/2020/11/30/how-hip-hop-
+superstar-travis-scott-has-become-corporate-
+americas-brand-whisperer/?sh=7f826f9b74e7.
+21. “Forever 21 Shop City”, Roblox, n.d.,  
+https://www.roblox.com/games/8254336243/
+Forever-21-Shop-City.
+22. Mastercard, Mastercard makes it easier, safer to 
+buy crypto [Press release], 4 October 2022.
+23. Berg, Nate, “Inside the lucrative business  
+of a metaverse landlord, where monthly  
+rent can hit $60,000 per property”,  
+Fast Company, 5 September 2022,  
+https://www.fastcompany.com/90749937/inside-
+the-lucrative-business-of-a-metaverse-landlord-
+where-monthly-rent-can-hit-60000-per-property.
+24. Kunst, Alexander, “Attitudes towards online 
+advertising in the U.S. in 2022”, Statista, 
+28 November 2022, https://www.statista.com/
+forecasts/997054/attitudes-towards-online-
+advertising-in-the-us.25. “RDC 2022: Our Vision for the Future of  
+Roblox”, Roblox, 9 September 2022,  
+https://blog.roblox.com/2022/09/rdc-2022-
+vision-future-roblox/.
+26. ”RSX | The Scent of the Metaverse: Verse 1 
+Extrait de Parfum”, Rook Perfumes London, n.d., 
+https://rookperfumes.co.uk/products/sotm.
+27. Orange, Deutsche Telekom, Orange, Telefónica 
+and Vodafone together with MATSUKO 
+implement a proof of concept of holographic 
+presence as a simple phone call [Press release], 
+21 September 2022.
+28. Miller, M. R., F. Herrera, H. Jun, J.A. Landay and 
+J.N. Bailenson, “Personal identifiability of user 
+tracking data during observation of 360-degree 
+VR video”, Scientific Reports, vol. 10 no. 1, 2020.
+29. "About Solid", solid project, n.d.,   
+https://solidproject.org/about.
+Demystifying the Consumer Metaverse
+52

@@ -1,0 +1,1907 @@
+Guia de aperfeiçoamento do Exame 
+de publicidade em Display Guia de aperfeiçoamento do Exame de publicidade em Display 
+Bem-vindo ao Guia de aperfeiçoamento do Exame de publicidade 
+em Display: a maneira  perfeita de se preparar para o Exame de 
+publicidade em Display. O exame inclui  conceitos básicos e avançados, 
+que abrangem as práticas recomendadas para criar,  gerenciar, medir 
+e otimizar as Campanhas de anúncios gráficos pela Rede de Display. 
+Este recurso prático é uma versão resumida do guia de estudo do 
+Exame de publicidade em Display  completo, que está disponível 
+na Central de Ajuda do Google Partners. Você também encontrará 
+informações adicionais e uma variedade  de links úteis. 
+No exame, você deverá responder a 100 perguntas em até 120 minutos. A pontuação 
+necessária para aprovação é de 80%. Você precisará passar nos exames Fundamentos 
+de AdWords e Publicidade em Display (ou em um dos outros exames do Google 
+AdWords, como Publicidade em vídeo, Publicidade em pesquisa, Publicidade em 
+Shopping ou Publicidade mobile) para se tornar certificado em Google AdWords. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display 
+Neste guia de aperfeiçoamento, abordaremos o seguinte: 
+Módulo 1  Sobre a Rede de Display do Google 
+1.1 Sobre a Rede de Display do Google 
+1.2 Onde os anúncios podem ser exibidos na Rede de Display 
+1.3 Sobre segmentação contextual 
+1.4 Sobre o leilão de anúncios da Rede de Display 
+1.5 Sobre "Rede de Pesquisa com exibição em Display" 
+1.6 Criar um site eficiente para dispositivos móveis 
+Módulo 2  Como configurar uma campanha da Rede 
+                  de Display 
+2.1 Criar uma campanha do Google AdWords para atingir os 
+       clientes certos 
+2.2 Como estruturar sua conta do Google AdWords 
+2.3 Como utilizar a Galeria de anúncios do Google AdWords 
+2.4 Recursos de lances na Rede de Display 
+2.5 Escolher um lance para sua Campanha da Rede de Display 
+2.6 Fazer um lance em impressões visíveis com CPM visível  
+2.7 Sobre custo por clique otimizado (ECPC) 
+2.8 Sobre ajustes de lance 
+2.9 Sobre estratégias de lances flexíveis 
+2.10  Sobre o lance de  CPA desejado 
+2.11  Melhorar seu anúncio com extensões 
+2.12  Sobre campanhas de instalações de apps para 
+         dispositivos móveis  
+2.13  Criar anúncios dinâmicos da Rede de Display 
+2.14  Anúncios lightbox 
+2.15  Criar um anúncio lightbox 
+2.16  Requisitos editoriais e profissionais 
+2.17  Corrigir um anúncio reprovado 
+Módulo 3  Como exibir seus anúncios na Rede 
+                  de Display 
+3.1 Configurações de segmentação na Rede de Display 
+3.2 Sobre seleções manuais de canais 
+3.3 Segmentar websites de tópicos específicos 
+3.4 Adicionar palavras-chave negativas a sua campanha 
+3.5 Como funciona a segmentação por idioma 
+3.6 Como utilizar a programação de anúncios personalizada 
+3.7 Opções avançadas para smartphones e tablets nas  campanhas 
+       "Apenas na Rede de Display" 
+Guia de aperfeiçoamento do Exame de publicidade em Display 
+3.8 Como utilizar o Planejador da Rede de Display para ter ideias 
+       de segmentação e estimativas de tráfego 
+3.9 A guia "Rede de Display" 
+Módulo 4  Como alcançar seu público na Rede 
+                  de Display 
+4.1 Alcançar pessoas interessadas em seus produtos ou serviços 
+4.2 Alcançar pessoas semelhantes a seu público existente  
+4.3 Alcançar pessoas com informações demográficas específicas 
+4.4 Utilizar remarketing para alcançar visitantes que já 
+      passaram pelo website e usuários do app 
+4.5 Utilizar remarketing dinâmico para exibir 
+       anúncios  personalizados aos visitantes do seu site 
+4.6 Criar um feed para seus anúncios dinâmicos da Rede de Display 
+Módulo 5  Como medir e otimizar o desempenho 
+                  na Rede de Display 
+5.1 Impulsionar vendas e gerar leads 
+5.2 Aumentar o reconhecimento da marca 
+5.3 Como medir vendas e conversões 5.4 Avaliar o desempenho dos anúncios na Rede de Display 
+5.5 Desempenho da conta, da campanha e do grupo de anúncios 
+5.6 Explorar seus dados na guia "Campanhas" 
+5.7 Otimizar campanhas e anúncios da Rede de Display 
+5.8 Dicas para criar anúncios gráficos eficientes 
+5.9 Sobre otimização de segmentação da Rede de Display 
+5.10  Como entender o acompanhamento de conversões 
+Faça o Exame de publicidade em Display 
+  Módulo 1  Sobre a Rede de Display do Google Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 1  
+1.1 Sobre a Rede de Display do Google 
+A Rede de Display é uma coleção de websites de parceiros e 
+websites específicos do Google (Google Finance, Gmail, Blogger, 
+YouTube), que exibem anúncios do Google AdWords. Esta rede 
+também inclui sites e apps para dispositivos móveis. 
+Ao exibir anúncios na Rede de Display, você pode: 
+● Alcançar novos clientes 
+● Selecionar onde seus anúncios serão exibidos 
+● Engajar usuários com formatos de anúncios atrativos 
+Como corresponder seu anúncio a websites na Rede de Display 
+A Rede de Display permite que você exiba sua mensagem para 
+clientes em potencial, no lugar certo e na hora certa, de diversas 
+maneiras. 
+● Alcance usuários com palavras-chave e tópicos:  com a 
+segmentação contextual , o Google AdWords encontra os 
+melhores lugares para seus anúncios em toda a Rede de 
+Display do Google, com base em suas palavras-chave. 
+● Escolha páginas ou websites específicos:  ao adicionar 
+seleções manuais de canais , você pode exibir seu anúncio 
+em páginas da Web, vídeos on-line, jogos, feeds RSS, 
+websites e apps para dispositivos móveis específicos que 
+você escolheu. 
+● Encontre usuários que demonstraram interesse por algo 
+que você tem a oferecer:  crie uma campanha de 
+remarketing  para alcançar pessoas que já acessaram seu 
+website anteriormente. 
+Tipos de anúncio na Rede de Display 
+Esta é uma lista dos formatos de anúncios que você pode usar para 
+atrair clientes na Rede de Display: 
+● Anúncios responsivos 
+● Anúncios gráficos 
+● Anúncios rich media 
+● Anúncios em vídeo 
+Como medir a eficiência dos anúncios na Rede de Display 
+Para garantir que você sempre alcance suas metas comerciais com 
+a Rede de Display, você também pode analisar os relatórios 
+detalhados. 
+● Relatórios:  veja exatamente em que páginas da Web seus 
+anúncios são exibidos, quais anúncios geram mais cliques 
+e quais websites impulsionam mais vendas com o menor 
+custo. 
+● Valor:  se nossos dados demonstrarem que um clique de 
+uma página da Rede do Google tem menos chance de se 
+tornar um resultado comercial acionável (como vendas 
+on-line, registros, chamadas telefônicas ou inscrições em 
+newsletters), reduziremos o lance  automaticamente 
+para aquele website e cobraremos menos de você pelo 
+mesmo clique. 
+Saiba mais sobre a  Rede de Display do Google» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 1  
+1.2 Onde os anúncios podem ser exibidos na Rede 
+       de Display 
+Quando você anuncia na Rede de Display do Google, seus anúncios 
+podem ser exibidos em uma ampla variedade de websites, 
+aplicativos para dispositivos móveis e conteúdo de vídeo. Veja 
+alguns exemplos: 
+● Sites de editores do Google AdSense , que incluem o 
+AdSense para domínios e o AdSense para erros 
+● Sites de editores do DoubleClick Ad Exchange 
+● Sites do Google , como Google Finance, Blogger, Google 
+Maps e YouTube (Pesquisa Google não inclusa) 
+Com mais de dois milhões de sites na Rede de Display que alcançam 
+mais de 90% dos usuários de Internet pelo mundo (Fonte: 
+Comscore), há muitas oportunidades para alcançar clientes. No 
+entanto, para segmentar os clientes com eficiência, escolha 
+configurações de campanha e adicione métodos de segmentação a 
+seus grupos de anúncios que especificam as condições de quando 
+seus anúncios podem ser exibidos na Rede de Display. 
+Saiba mais sobre onde os anúncios podem ser exibidos na Rede de 
+Display» 
+1.3 Sobre segmentação contextual 
+A segmentação contextual é um dos poucos métodos diferentes que 
+você pode utilizar para exibir seus anúncios em sites e páginas da 
+Web que fazem parte da Rede de Display do Google. Este método de 
+segmentação utiliza as palavras-chave ou os tópicos que você 
+escolheu para corresponder seus anúncios a sites relevantes. 
+1. Você escolhe palavras-chave e tópicos:  palavras-chave 
+são termos individuais, e um tópico é o conceito ou tema 
+central de uma página da Web. 
+2. Nosso sistema analisa as páginas da Web que formam a 
+Rede de Display:  nosso sistema analisa o conteúdo de 
+cada página da Web ou URL da Rede de Display, 
+considerando fatores como: 
+● Texto 
+● Idioma 
+● Estrutura do link 
+● Estrutura da página 
+3. Seu anúncio é veiculado 
+Por palavra-chave 
+Quando sua palavra-chave corresponde aos conceitos ou tema 
+central de uma página da  Web, seu anúncio está qualificado para ser 
+exibido naquela página da Web (também conhecido como seleção 
+automática de canais ). 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 1  
+Por tópico 
+Quando seu tópico corresponde ao tema central de uma página da 
+Web, seu anúncio está qualificado para ser exibido naquela página 
+da Web. 
+Saiba mais sobre segmentação contextual» 
+1.4 Sobre o leilão de anúncios da Rede de Display 
+O leilão de anúncios da Rede de Display é bastante similar ao leilão 
+do Google AdWords. Seus anúncios são classificados entre outros 
+anúncios de anunciantes com base na classificação do anúncio, que 
+depende de seu lance máximo de custo por clique (CPC, na sigla em 
+inglês) e do Índice de qualidade. Isso significa que, caso seu Índice 
+de qualidade seja suficientemente melhor que o do anunciante 
+imediatamente abaixo de você, sua classificação poderá ser superior 
+à do anunciante, mesmo se o lance dele for superior ao seu. 
+Assim como no leilão do Google AdWords , seu lance de CPC 
+máximo não é necessariamente o quanto você pagará por clique. O 
+preço que você paga (CPC real) depende do resultado do leilão e, 
+normalmente, é menor do que seu lance de CPC máximo. 
+Veja de que maneira o leilão de anúncios da Rede de Display se 
+diferencia do leilão do Google AdWords: 
+● Você pagará o que é preciso para se classificar acima da 
+próxima melhor posição de anúncio somente para cliques 
+incrementais  que você recebe por estar na posição atual. 
+● Você pagará o preço que a próxima melhor posição de 
+anúncio pagaria pelo restante dos cliques. 
+Saiba mais sobre o leilão de anúncios da Rede de Display» 
+1.5 Sobre "Rede de Pesquisa com exibição em Display" 
+O tipo de campanha "Rede de Pesquisa com exibição em Display" 
+ajuda você a alcançar pessoas que utilizam a Pesquisa Google ou 
+visitam sites na Web. 
+Como funciona 
+Você gerencia suas campanhas da "Rede de Pesquisa com exibição 
+em Display" da mesma maneira que gerenciaria uma campanha de 
+"Apenas na Rede de Pesquisa": defina um orçamento, escolha 
+palavras-chave relevantes, crie anúncios e defina lances. Seus 
+anúncios podem ser exibidos quando as pessoas pesquisam termos 
+na Pesquisa Google e pesquisam sites de parceiros que 
+correspondam a suas palavras-chave. Eles também podem ser 
+exibidos em páginas relevantes da Web na Rede de Display do 
+Google . No entanto, seus anúncios são exibidos seletivamente na 
+Rede de Display, e os lances são automatizados. Isso ajuda você a 
+alcançar as pessoas com maior chance de se interessarem pelos 
+produtos e serviços que você anuncia. 
+Saiba mais sobre Rede de Pesquisa com exibição em Display» 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 1  
+1.6 Criar um site eficiente para dispositivos móveis 
+Ao projetar seu site, tenha em mente as práticas recomendadas para 
+dispositivos móveis, como a navegação simples e o destaque de 
+opções locais de sua empresa. Se quiser alcançar clientes com 
+celulares WAP, você também precisará utilizar código otimizado 
+para celular para criar seu site. 
+Como alcançar clientes em dispositivos móveis com um website em 
+HTML 
+Mesmo sem um website para dispositivos móveis, o Google 
+AdWords permitirá que você mostre anúncios de texto a clientes ao 
+utilizar a Pesquisa Google em um dispositivo móvel de última 
+geração, como um smartphone Android ou iPhone. Esses 
+smartphones têm um navegador de Internet completo (como de um 
+computador desktop), então o cliente que clicar em seu anúncio de 
+texto na página de resultados de pesquisa poderá acessar seu 
+website padrão. 
+Práticas recomendadas para desenvolver um site para dispositivos 
+móveis 
+Ao criar um website para dispositivos móveis, tenha em mente 
+algumas estratégias que se adequam melhor às pequenas telas e ao 
+comportamento dos usuários dos dispositivos móveis. 
+Seja direto 
+1. Reduza blocos grandes de texto e utilize marcadores. 
+2. Comprima as imagens para que o site carregue mais 
+rapidamente. 
+Facilite o processo de fazer uma compra ou entrar em contato. 
+1. Reduza as etapas necessárias para concluir uma 
+transação. 
+2. Mantenha os formulários curtos e facilite a inserção de 
+dados. 
+3. Utilize a funcionalidade de "clique para ligar" em todos os 
+números de telefone. 
+Simplifique a navegação. 
+1. Minimize o rolamento e mantenha tudo na vertical. 
+2. Utilize uma hierarquia clara nos menus e evite rollovers. 
+3. Utilize botões "Voltar" e "Página inicial" claros. 
+4. Utilize no máximo sete links por página de navegação. 
+Ajude as pessoas a encontrar e chegar em suas lojas físicas 
+1. Coloque o endereço ou localizador de lojas na página de 
+destino. 
+2. Inclua mapas e direções. Utilize o GPS quando possível. 
+3. Permita que os clientes vejam o estoque de lojas 
+próximas. 
+4. Certifique-se de que seu website para dispositivos móveis 
+está indexado para pesquisa na Web. 
+Saiba mais sobre como criar um site eficiente para dispositivos 
+móveis» 
+  Módulo 2 Como configurar uma campanha da Rede 
+                    de Display 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.1 Criar uma campanha do Google AdWords para 
+       atingir os clientes certos 
+Antes de você criar sua campanha de anúncios, familiarize-se com 
+estes termos e conceitos essenciais do Google AdWords: 
+● Campanha 
+● Grupos de anúncios 
+● Palavras-chave 
+● Orçamento 
+● Lances 
+Como escolher as configurações de sua campanha. Assista este 
+vídeo» 
+Como entender as configurações de sua campanha 
+As configurações de campanha que você selecionar serão aplicadas 
+a todos os anúncios dentro da mesma campanha. O tipo de 
+campanha que você escolher determinará as configurações que 
+estarão disponíveis. 
+As configurações abordam três áreas básicas relacionadas a seu 
+anúncio: 
+● Quanto você pagará ao definir seu orçamento e seus 
+lances (é possível ajustá-los mais tarde). 
+● O que incluir em seu anúncio, além de texto e link, com as 
+extensões de anúncio. 
+● Onde você deseja que seus anúncios sejam exibidos ao 
+utilizar configurações para  localizações geográficas, 
+idiomas e canal na Web (chamada de Redes). 
+Sobre grupos de anúncios 
+Um grupo de anúncios é feito de um conjunto de palavras-chave, 
+anúncios e lances. Cada campanha de anúncios contém um ou mais 
+grupos de anúncios. Grupos de anúncios permitem que você agrupe 
+suas palavras-chave aos anúncios mais relevantes. Isso ajuda a 
+garantir que você mostre o anúncio mais relevante quando alguém 
+pesquisa uma palavra ou frase em particular. 
+Compreender como sua conta do Google AdWords é estruturada 
+O Google AdWords é organizado em três camadas: conta , 
+campanhas  e grupos de anúncios .
+1. Sua conta  é associada a um endereço de e-mail, uma 
+senha e informações de faturamento exclusivos. 
+2. Sua campanha  de anúncios tem orçamento e 
+configurações próprios que determinam onde seus 
+anúncios serão exibidos. 
+3. Seu grupo de anúncios  contém um conjunto de anúncios 
+semelhantes e palavras e frases, conhecidas como 
+palavras-chave, com as quais você deseja acionar a 
+exibição de seus anúncios. 
+Saiba mais sobre como criar uma campanha do Google AdWords 
+para alcançar os  clientes certos» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.2 Como estruturar sua conta do Google AdWords 
+Uma boa organização da conta ajuda você a fazer alterações 
+rapidamente,  segmentar seus anúncios com eficiência e, 
+consequentemente, alcançar mais de suas metas de publicidade. 
+Três dicas principais para estruturar sua conta 
+1. Organize sua campanha para refletir seu website. 
+2. Crie campanhas separadas para anunciar em várias 
+regiões. 
+3. Utilize o AdWords Editor para gerenciar suas campanhas. 
+Saiba mais sobre como estruturar sua conta do Google AdWords» 
+2.3 Como utilizar a Galeria de anúncios do Google 
+       AdWords 
+A Galeria de anúncios, anteriormente conhecida como Criador de 
+anúncios gráficos, é uma ferramenta de criação de anúncios que 
+oferece vários formatos de anúncio gráfico em diferentes categorias, 
+como anúncios de imagem, anúncios dinâmicos, anúncios de 
+engajamento e anúncios em vídeo, em qualquer uma de suas 
+campanhas na Rede de Display do Google. 
+Veja alguns benefícios de utilizar a Galeria de anúncios: 
+1. Produtos e serviços diferenciados:  utilize imagens de  
+seus produtos e cores que correspondam a sua marca e 
+seu logotipo para fazer as pessoas clicarem em seus 
+anúncios gráficos. 
+2. Campanhas mais eficientes:  utilize anúncios gráficos para 
+gerar maiores  taxas de cliques e volume geral de 
+conversão na  Rede de Display do Google. 
+3. Modelos de anúncios sem custo:  teste várias mensagens, 
+esquemas de cores e imagens sem custos. 
+4. Estilos de anúncios personalizáveis:  crie um anúncio 
+personalizado em quantos tamanhos e variações desejar, 
+e você paga somente por cliques em anúncios ou 
+impressões em sites na Rede de Display do Google. 
+5. Modelos de anúncios padrão no setor:  crie anúncios com 
+um botão de call-to-action claro e 2 a 4 linhas de texto. 
+Saiba mais sobre como utilizar a Galeria de anúncios do Google 
+AdWords»  
+2.4 Recursos de lances na Rede de Display 
+Quando você anuncia na Rede de Display, pode definir seus lances 
+da campanha de diferentes maneiras. 
+● Lances padrão:  se você não tiver um lance personalizado 
+para quando seu anúncio for exibido em um canal que 
+corresponda sua segmentação, o Google AdWords 
+utilizará seus lances padrão do grupo de anúncios. 
+● Lances personalizados:  se você ativou lances 
+personalizados para um único método de segmentação, 
+por exemplo, tópicos, o Google AdWords utilizará 
+esses lances quando seus anúncios forem exibidos em 
+websites relacionados a esse tópico. Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+● Ajustes de lance:  para ter mais controle sobre quando e 
+onde seu anúncio é exibido, 
+você pode definir ajustes de lance no nível da campanha e 
+do grupo de anúncios. 
+Saiba mais sobre como definir ajustes de lance no nível da 
+campanha» 
+URLs personalizados 
+Se você utiliza lances automáticos, pode especificar URLs da página 
+de destino exclusivos para um método de segmentação em seu 
+grupo de anúncios. Você pode definir URLs personalizados em 
+somente um método de segmentação dentro de cada grupo de 
+anúncios. 
+Como as opções de lance interagem 
+Quando seu anúncio estiver qualificado para ser exibido na Rede de 
+Display, o Google AdWords buscará primeiro um lance 
+personalizado. Se você tiver um lance personalizado relevante 
+definido para um método de segmentação, ele será utilizado no 
+leilão de anúncios. Se você não tiver um lance personalizado 
+relevante definido, o Google AdWords buscará o lance padrão. O 
+lance de grupo de anúncios é utilizado como o lance padrão. 
+Os ajustes de lance são aplicados após a definição do lance inicial. 
+Saiba mais sobre recursos de lances na Rede de Display» 
+2.5 Escolher um lance para sua Campanha da Rede 
+       de Display 
+Os tipos de lance na Rede de Display do Google  ajudam você a 
+extrair o máximo de suas campanhas ao definir o preço justo de 
+seus anúncios. Veja os tipos de lances que você pode utilizar: 
+● Para campanhas "Apenas na Rede de Display", você pode 
+definir lances padrão do grupo de anúncios, lances 
+personalizados ou ajustes de lance .
+● Para campanhas "Rede de Pesquisa com exibição em 
+Display", ajustaremos automaticamente seus lances na 
+Rede de Display para tentar espelhar o desempenho de 
+sua pesquisa. 
+Saiba mais sobre lances da Rede de Pesquisa com exibição em 
+Display» 
+Como fazer um lance em campanhas da Rede de Display 
+Fazer um lance na Rede de Display ajuda você a exibir seus anúncios 
+para clientes em potencial no lugar certo e na hora certa. 
+Taxas de cliques  (CTRs) são normalmente mais baixas na Rede de 
+Display porque  é difícil atrair a atenção do usuário. E é por isso que 
+existem os lances para a Rede de Display: para permitir que você 
+defina um lance máximo de CPC  para cliques gerados  apenas na 
+Rede de Display. Você tem mais controle de seus custos 
+e garante que seus lances sejam adequados ao valor que você 
+recebe dos anúncios. 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+Como escolher seu primeiro lance 
+Para encontrar o lance correto na Rede de Display, você pode fazer 
+um lance inicial, acompanhar o desempenho dos anúncios e, depois, 
+editá-los. Se você não definir lances específicos para sua 
+segmentação, o Google AdWords utilizará seus lances padrão do 
+grupo de anúncios. 
+Recomendamos que você continue a monitorar impressões e 
+cliques, mas seria mais útil aguardar algumas semanas antes de 
+fazer muitas alterações. 
+Saiba mais sobre como escolher um lance para sua campanha da 
+Rede de Display» 
+2.6 Fazer um lance em impressões visíveis com CPM 
+       visível 
+Se você quiser pagar somente por impressões de anúncios medidas 
+como visíveis, você pode utilizar impressões de custo por mil 
+impressões visíveis (CPM visível). Um anúncio é considerado 
+"visível" quando 50% dele é exibido na tela por um segundo ou mais 
+nos anúncios gráficos e dois segundos ou mais nos anúncios em 
+vídeo. 
+Você pode selecionar CPM visível como uma estratégia de lances 
+quando escolher lances de CPM para sua campanha "Apenas na 
+Rede de Display". 
+A estratégia de lances com CPM visível não está disponível para 
+campanhas que incluem anúncios com segmentação de apps para 
+dispositivos móveis. Essas campanhas podem incluir anúncios para 
+instalação de apps, anúncios de engajamento com apps ou anúncios 
+com segmentação em apps para dispositivos móveis pelo tipo de 
+campanha "Anúncios em apps para dispositivos móveis". 
+Por que utilizar? 
+● Pague somente por impressões medidas como visíveis. 
+● Seus lances são otimizados para favorecer locais de 
+anúncios que têm maior chance de ficarem visíveis. 
+Se você está interessado em maximizar exibições de anúncios, em 
+vez de cliques, essa estratégia de lances pode ajudá-lo a alcançar 
+essa meta melhor do que outros  tipos de estratégias de lances. 
+Saiba mais sobre como fazer um lance em impressões visíveis com 
+CPM visível» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.7 Sobre custo por clique otimizado (ECPC) 
+O ECPC busca leilões de anúncios que tenham mais chance de gerar 
+vendas para você e depois aumenta seu lance de CPC máximo  em 
+até 30% para concorrer melhor por esses cliques. Ele também 
+diminuirá seu CPC máximo em qualquer valor (até mesmo mais de 
+30%) caso ele determine que há pouca chance de conversão, 
+então você pagará menos por cliques que convertem menos. Isso 
+ajuda você a extrair mais valor de seu orçamento de anúncios. O 
+ECPC leva em consideração detalhes em tempo real, como 
+dispositivo, navegador, local e hora do dia  para ajustar seus lances 
+durante cada leilão de anúncios. 
+Como o ECPC identifica os leilões promissores? 
+O sistema do AdWords busca padrões de cliques e conversões e os 
+compara a seus resultados anteriores. Se determinadas 
+combinações de pesquisas ou palavras-chave levam a mais vendas, 
+por exemplo, ele saberá. É por isso que você precisa que o 
+acompanhamento de conversões  esteja ativado para utilizar o ECPC, 
+pois é de onde vêm os dados. 
+Como o ECPC difere do lance de custo por aquisição (CPA) 
+desejado? 
+ECPC 
+● Funciona com todas as suas configurações de campanhas 
+e lances máximos de CPC. 
+● Pode aumentar os lances em até 30%. 
+● Funciona com sistemas de lances de terceiros. 
+Lance de CPA desejado 
+● É baseado em uma meta de custo por aquisição (CPA) que 
+você define. 
+● Tem liberdade total para definir seu lance de custo por 
+clique (CPC) para cada leilão. 
+● Pode não funcionar em algumas soluções de 
+gerenciamento de lance com base em API. 
+Lances de ECPC e de CPA desejado 
+● Utilizam dados do acompanhamento de conversões ou de 
+sua conta do Google Analytics .
+● Preveem uma taxa de conversão para cada leilão. 
+● Ajustam seus lances para ajudar você a conseguir os 
+cliques mais promissores. 
+CPC otimizado 
+Saiba mais sobre o CPC otimizado, um recurso de gerenciamento de 
+lance automático do Google AdWords projetado para aumentar suas 
+conversões ao mesmo tempo em que diminui seus custos. 
+Assista  este vídeo» 
+Como utilizar ajuste de lance para dispositivos móveis com o ECPC 
+O ECPC não leva em consideração diferenças entre dispositivos 
+móveis e outros dispositivos ao aumentar ou diminuir seus lances. 
+No entanto, você pode definir um ajuste de lance para dispositivos 
+móveis para alterar os lances do dispositivo móvel para cima ou 
+para baixo em relação a seus outros dispositivos, e o ECPC 
+incorporará isso junto com seus próprios ajustes de lance. 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+Observe que o lance de ECPC, assim como o de CPA desejado, 
+continuará definindo diferentes lances para tráfego no desktop em 
+relação a tráfego no tablet com base em diferenças nas taxas de 
+conversão. 
+Saiba mais sobre custo por clique otimizado (ECPC)» 
+2.8 Sobre ajustes de lance 
+Os ajustes de lance permitem que você exiba os anúncios com maior 
+ou menor frequência, com base em onde, quando e como as 
+pessoas pesquisam. Por exemplo, às vezes, um clique vale  mais 
+para você se ele vier de um dispositivo móvel, em determinada hora 
+do dia ou em um local específico. 
+Como utilizar ajustes de lance do Google AdWords. Assista este 
+vídeo»  
+Como funcionam os ajustes de lance 
+Os ajustes de lance são definidos por porcentagens. Suponha que 
+você tem uma campanha com bom desempenho nos dispositivos 
+móveis, com um lance máximo de CPC de R$ 1. Para mostrar seu 
+anúncio a mais clientes em dispositivos móveis, você define um 
+ajuste de lance de +20% para pesquisas em dispositivos móveis, 
+o que resulta em um lance final de R$ 1,20. 
+Veja o cálculo: 
+● Lance inicial: R$ 1 
+● Ajuste para dispositivo móvel: R$ 1 + (+20%) = R$ 1,20 
+● O lance resultante para pesquisas em dispositivos móveis: 
+R$ 1,20 
+Tipos de ajustes de lance 
+● Dispositivo móvel 
+● Local 
+● Agendamento de anúncios 
+● Conteúdo principal (avançado) 
+● Métodos de segmentação (avançado) 
+● Listas de remarketing para anúncios da Rede de Pesquisa 
+(avançado) 
+Saiba mais sobre ajustes de lance» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.9 Sobre estratégias de lances flexíveis 
+Estratégias de lances flexíveis oferecem a você lances automáticos 
+exatamente quando, onde e como você quiser: por meio de várias 
+campanhas ou dentro de uma única parte de uma campanha. 
+Tipos de estratégias de lances flexíveis 
+1. Maximizar cliques  define lances automaticamente para 
+tentar conseguir o máximo de cliques possível dentro do 
+limite de gastos que você estabeleceu. Objetivo:  aumentar 
+os acessos ao site e os cliques em termos com baixo 
+tráfego, enquanto mantém determinado gasto. 
+2. Definir posição na página de pesquisa  ajusta os lances 
+automaticamente para ajudar a aumentar as chances de 
+seus anúncios serem exibidos no topo da página ou na 
+primeira página dos resultados da pesquisa. 
+Objetivo: aumentar a visibilidade na primeira página dos 
+resultados da Pesquisa Google ou ficar nas primeiras 
+posições. 
+3. Parcela de superação desejada  define lances 
+automaticamente para ajudar você a superar anúncios de 
+outros domínios  nos resultados da pesquisa. Objetivo: 
+conseguir mais visibilidade do que outros domínios nos 
+resultados da pesquisa. 
+4. Custo por aquisição (CPA) desejado  define lances 
+automaticamente para ajudar você a aumentar conversões 
+enquanto atinge sua meta de custo por aquisição médio. 
+Objetivo: conseguir mais conversões com seu CPA 
+desejado. 5. Custo por clique otimizado (ECPC)  ajusta 
+automaticamente seu lance manual para cima ou para 
+baixo com base na probabilidade de cada clique gerar uma 
+conversão.  Objetivo: aumentar conversões ao mesmo 
+tempo em que mantém o controle de seus lances de 
+palavra-chave. 
+6. Retorno do investimento em publicidade (ROAS) desejado  
+define automaticamente seus lances para maximizar seu 
+valor de conversão, ao mesmo tempo em que tenta 
+alcançar um retorno do investimento em publicidade 
+médio. Nota:  seu ROAS real pode ficar acima ou abaixo do 
+limite que você definiu. Objetivo: alcançar o retorno do 
+investimento em publicidade (ROAS) desejado quando 
+você valoriza cada conversão de maneira diferente. 
+Saiba mais sobre estratégias de lances flexíveis» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.10  Sobre o lance de custo por aquisição (CPA) 
+         desejado 
+O objetivo do lance de CPA desejado é oferecer a você a maior 
+quantidade de conversões com base em suas metas de custo por 
+aquisição (CPA). Em vez de focar os  cliques (CPC) ou as 
+impressões (CPM), o lance de CPA desejado concentra-se em 
+maximizar as conversões. 
+Como o Otimizador de conversões funciona 
+Utilizando informações do histórico de sua campanha, o lance de 
+CPA desejado encontra automaticamente o melhor lance de CPC 
+equivalente para seu anúncio sempre que ele estiver qualificado para 
+exibição. Você ainda pagará por clique, mas não precisará mais 
+ajustar seus lances manualmente para alcançar suas 
+metas de conversão. 
+Sobre o CPA desejado recomendado 
+O lance de CPA desejado oferece um CPA desejado recomendado  
+para ajudar você a começar. Assim como nos lances de CPC, o CPA 
+desejado que você define é seu principal controle sobre quantas 
+conversões você conseguirá e quanto pagará por elas. Você pode 
+aumentar seu CPA desejado se quiser aumentar o tráfego e as 
+conversões. Caso seu CPA médio seja superior ao que você gostaria, 
+pode reduzi-lo, o que provavelmente diminuirá o CPA médio e o 
+número de conversões. 
+Descubra  como ajustar seu CPA desejado» 
+Requisitos para o lance de CPA desejado 
+● Sua campanha deve utilizar o Acompanhamento de 
+conversões do Google AdWords, o acompanhamento de 
+conversões de várias contas ou importar dados do Google 
+Analytics. 
+● A campanha deve ter conseguido pelo menos 15 
+conversões nos últimos 30 dias. 
+Aumentar as conversões de sua campanha 
+Veja algumas ideias de como aumentar o número de conversões 
+de sua campanha: 
+● Aumente seu orçamento. 
+● Aumente seus lances de CPC para os grupos de anúncios 
+nas campanhas que não atingem seu orçamento. 
+● Mova o código de acompanhamento de conversões em 
+seu website. 
+● Combine sua campanha com outra campanha para um 
+produto relacionado que tenha uma taxa de conversão 
+semelhante. 
+● Ative a Rede de Display do Google. 
+● Adicione palavras-chave mais relevantes a seus grupos de 
+anúncios. 
+● Altere seus anúncios ou página de destino para tentar 
+aumentar sua taxa de  cliques (CTR) ou taxa de conversão. 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+Dicas para um lance de CPA desejado bem-sucedido 
+● Comece com o CPA desejado recomendado e ajuste 
+conforme seja necessário. 
+● Utilize o Simulador de CPA desejado. 
+● Recomendamos que você não altere o CPA desejado mais 
+de uma vez a cada poucas semanas. 
+● Use o lance de CPA desejado com campanhas existentes. 
+● Não remova seu código de acompanhamento de 
+conversões do website nem o mova para um lugar 
+diferente enquanto o lance de CPA desejado estiver em 
+exibição. 
+● Compare seu CPA e a taxa de conversão antes e depois de 
+utilizar o lance de CPA desejado para medir o impacto dele 
+em sua campanha. 
+● Se você normalmente atinge o limite do orçamento, 
+aumente-o para permitir maior visibilidade de seus 
+anúncios. 
+Alterações no tráfego ou na taxa de conversão 
+Alterações no tráfego 
+Se observar uma queda no tráfego (cliques e conversões) após 
+ativar o lance de CPA desejado, isso pode ser devido a alguns 
+fatores: 
+● Seu CPA desejado pode estar muito baixo. 
+● Em vez de conversões, talvez você tenha verificado cliques 
+ou impressões. 
+● O acompanhamento de conversões está desativado. 
+● Seu grupo de anúncios não tem um CPA desejado. 
+Alterações na taxa de conversão 
+É possível que haja uma queda na taxa de conversão quando você 
+começa a utilizar o lance de CPA desejado. Isso pode ocorrer porque 
+você vê uma média da taxa de conversão de todos os cliques. 
+Saiba mais sobre o lance de CPA desejado» 
+2.11  Melhorar seu anúncio com extensões 
+Veja como uma empresa como a Main Street Flowers utiliza 
+sitelinks, chamadas e extensões de local para aprimorar seus 
+anúncios. Assista este vídeo»  
+Extensões de anúncio dão mais motivos para clicar em seu anúncio 
+Extensões de anúncio são um tipo de formato de anúncio  que 
+exibem informações adicionais (uma "extensão" de seus anúncios 
+de texto) sobre sua empresa. Algumas podem ser adicionadas 
+manualmente, e outras são automatizadas. 
+Extensões de anúncio tendem a melhorar a visibilidade e a taxa de 
+cliques  (CTR) de seu anúncio. Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+Como as extensões de anúncio funcionam 
+O Google AdWords exibe uma ou mais extensões com seu anúncio 
+quando ele calcula que a extensão (ou combinação de extensões) 
+melhorará o desempenho da campanha e quando sua Classificação 
+do anúncio  é alta o suficiente para ele ser exibido. 
+Qual o custo das extensões de anúncio 
+Não há custo para adicionar extensões a sua campanha, mas há 
+cobrança normal para cliques em seu anúncio , bem como para 
+determinadas interações que as extensões fornecerem. O custo 
+desses cliques é definido da mesma maneira que os cliques em 
+título: o máximo que você pagará é o mínimo necessário para 
+manter suas extensões e a posição do anúncio. 
+Saiba mais sobre custo real por clique (CPC)» 
+Onde as extensões podem ser exibidas 
+As extensões de anúncio são exibidas com anúncios na Rede de 
+Pesquisa e, dependendo da extensão, podem ser exibidas com 
+anúncios na Rede de Display. 
+Tipos de extensões de anúncio 
+Extensões manuais 
+● Extensões de app  - Exibem um link abaixo do texto do 
+anúncio que direciona as pessoas para  a loja de apps ou 
+inicia o download  de seu app. 
+● Extensões de chamada  - Permitem que as pessoas 
+cliquem em um botão para fazer uma chamada para seu 
+telefone. ● Extensões de local  - Ajudam as pessoas a encontrarem a 
+loja mais próxima de onde estão ou a fazerem uma 
+chamada para você. 
+● Extensões de comentários  - Exibem comentários positivos 
+de terceiros de fontes com reputação. 
+● Extensões de sitelinks  - Adicionam links para ajudar 
+pessoas  a encontrarem o que procuram. 
+● Extensões de frase de destaque  - Adicionam texto 
+descritivo a seu anúncio para ajudar pessoas a saberem 
+mais sobre o que você tem  a oferecer. 
+Extensões automáticas 
+● Avaliações de consumidores  - Exibem o que os clientes 
+gostaram com dados de pesquisa de alta qualidade. 
+● Visitas anteriores  - Exibem para as pessoas se já clicaram 
+anteriormente em seu website pelos resultados da 
+Pesquisa Google. 
+● Extensões sociais  - Exibem quantos seguidores você tem 
+no Google+. 
+● Snippets estruturados dinâmicos  - Exibem 
+automaticamente detalhes adicionais da página de destino 
+com seu anúncio na Pesquisa Google. 
+● Avaliações do vendedor  - Exibem suas avaliações 
+comerciais on-line junto com seu anúncio. 
+● Extensões de sitelinks dinâmicos  - Conectam clientes em 
+potencial a páginas relevantes em seu website mais 
+facilmente. 
+Saiba mais sobre como aprimorar seu anúncio com extensões» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.12  Sobre campanhas de instalações de apps para 
+         dispositivos móveis 
+Promova seu app com campanhas para gerar downloads 
+Com campanhas "Instalações de apps para dispositivos móveis" nas 
+Redes de Pesquisa e de Display e "TrueView para promoção de apps 
+para dispositivos móveis" no YouTube, você pode criar anúncios de 
+instalações de apps personalizados que são exibidos 
+exclusivamente em smartphones e tablets. O Google AdWords ajuda 
+a criar seus anúncios de instalações de apps com base no ícone e 
+nas avaliações de seu app, e esses anúncios direcionam as pessoas 
+diretamente para a loja de apps para fazer o download de seu app. 
+Conectar sua conta do Google AdWords à conta de desenvolvedor 
+do Google Play facilita mais ainda: você pode sincronizar listas de 
+usuário e segmentação, além de monitorar as instalações 
+perfeitamente. 
+Diferenças entre tipos de campanha 
+Instalações de apps para dispositivos móveis:  controlam sua 
+campanha toda. Promovem seu app em uma única rede para gerar 
+instalações do app. 
+● Estratégias de lances:  CPC, CPV (somente YouTube). 
+● Onde os anúncios podem ser exibidos:  Rede de Display, 
+Rede de Pesquisa (inclusive pesquisa do Google Play de 
+apps para Android), YouTube. 
+● Formatos de anúncio:  anúncios de instalações de app, 
+Anúncios gráficos de instalações de app, Anúncios em 
+vídeo de instalações de app, Anúncios de promoção de 
+app TrueView (YouTube). 
+Campanhas universais para apps:  simplificam o gerenciamento de 
+campanhas de instalação de app. Promovem seu app para Android 
+em várias redes dentro de uma única campanha. 
+● Estratégia de lances:  CPA desejado. 
+● Onde os anúncios podem ser exibidos:  websites de 
+editores Google Play, Pesquisa Google, YouTube e Rede de 
+Display e apps para dispositivos móveis. 
+● Formatos de anúncio:  direcionam usuários para as 
+informações do app na Google Play Store. Fornecem 
+linhas de texto para gerar anúncios e nós fazemos o 
+restante. 
+Onde os anúncios de instalações de app podem ser exibidos 
+Quando você criar sua campanha, escolha o tipo de rede que melhor 
+corresponde a como você gostaria de promover seu app: 
+1. Na Rede de Display  - para alcançar pessoas enquanto elas 
+utilizam outros apps semelhantes ao seu com os anúncios 
+de instalações de app. Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2. Na Rede de Pesquisa  - para exibir anúncios de instalações 
+de app a pessoas que procuram por um app como o seu, 
+seja no app Pesquisa Google ou no Google Play (somente 
+em Android). 
+3. No YouTube  - para exibir anúncios em vídeo para alcançar 
+pessoas interessadas em conteúdos relacionados a seu 
+app. 
+Vídeo sobre como utilizar anúncios da Rede de Display para gerar 
+instalações de app» 
+Escolha seu app 
+Quando você criar uma campanha "Instalações de apps para 
+dispositivos móveis", pediremos para você selecionar o app que 
+deseja promover imediatamente para que possamos ajudá-lo a 
+personalizar opções de lances, segmentação e formato de 
+anúncios para seu app. Há algumas opções para selecionar seu app: 
+● Adicione um app da Google Play Store ou da Apple App 
+Store. 
+● Insira o ID de seu próprio app ou o nome do pacote. 
+● Selecione um app que você anunciou anteriormente a 
+partir do menu suspenso. 
+Opções de segmentação na Rede de Display 
+Veja algumas das segmentações mais precisas somente para 
+instalações de apps para dispositivos móveis: 
+● Categorias de apps instalados:  exibem anúncios para 
+pessoas que fizeram o download de outros apps em uma 
+categoria para a qual você deseja segmentar. 
+● Novos dispositivos móveis:  exibem anúncios para 
+pessoas que ativaram recentemente os smartphones e 
+podem ter interesse em adicionar novos apps. 
+● Categorias de apps para dispositivos móveis:  exibem 
+anúncios em apps dentro de determinadas categorias. 
+Formatos de anúncio de instalação do app 
+Veja alguns formatos de anúncio disponíveis na Rede de Display: 
+● Anúncios de instalação do app 
+● Anúncios gráficos de instalação do app 
+● Anúncios em vídeo de instalação do app 
+No YouTube 
+Escolha seu app 
+Para campanhas "TrueView para promoção de apps para 
+dispositivos móveis", solicitaremos que você informe o URL do app 
+que deseja promover e seu vídeo do YouTube para que possamos 
+direcionar as pessoas para a loja de apps correta para fazer o 
+download de seu app diretamente pelo anúncio. Você informará 
+o URL do app pela loja de apps quando criar a campanha. 
+Defina lances para visualizações de vídeo 
+No YouTube, você define lances de custo por visualização (CPV). 
+Você definirá lances para sua campanha "TrueView para promoção 
+de apps para dispositivos móveis" quando configurar a 
+segmentação. Toda interação com seu vídeo (exceto pular) é 
+contabilizada como uma visualização. Isso acontece quando 
+alguém assiste pelo menos 30 segundos do vídeo ou clica no link ou 
+no botão "Instalar", o que ocorrer primeiro. Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+Anúncios em vídeo para seu app 
+Em sua campanha "TrueView para promoção de apps para 
+dispositivos móveis", você cria seu anúncio logo após definir seus 
+lances e orçamento. Esses anúncios são vinculados à página de seu 
+app na loja de apps para que as pessoas possam clicar para fazer o 
+download ainda mais rapidamente. 
+Segmentação no YouTube 
+As campanhas "TrueView para promoção de apps para dispositivos 
+móveis" permitem que você alcance as pessoas no YouTube que 
+veem conteúdo ou têm interesses relacionados a seu app. Quando 
+você cria uma campanha, pode segmentar tópicos de vídeo 
+específicos depois de definir seus lances de CPV. 
+Como levar em consideração os atrasos de conversão 
+Os números de conversão podem levar vários dias para serem 
+exibidos nos relatórios, devido a interações atrasadas entre o 
+dispositivo da pessoa, o Google e os serviços de monitoramento de  
+terceiros que você utilizar. Ao analisar seus relatórios de conversão, 
+lembre-se de que os três dias anteriores de dados de conversão 
+podem estar ausentes. 
+Saiba mais sobre campanhas de instalações de apps para 
+dispositivos móveis» 
+2.13  Criar anúncios dinâmicos da Rede de Display 
+Crie anúncios dinâmicos da Rede de Display para exibir produtos ou 
+serviços de seu feed. Você terá a oportunidade de criar esses 
+anúncios quando for configurar sua campanha de remarketing 
+dinâmico na Galeria de anúncios de sua conta. Quando você criar 
+anúncios dinâmicos, especificará se eles devem utilizar um layout de 
+anúncio específico ou seus layouts preferidos. 
+Com os layouts preferidos, você escolherá os layouts e recursos que 
+quiser. Alguns recursos de layouts incluem: 
+● Carrosséis de vários produtos. 
+● Cortar suas imagens para se encaixarem nos anúncios. 
+● Avaliações por estrelas. 
+Personalize o texto em seus anúncios dinâmicos 
+Embora haja vários layouts de anúncios disponíveis, talvez você 
+queira personalizar seus anúncios dinâmicos. Se você utiliza um 
+feed de educação, de voos, de viagens ou personalizado, pode 
+ajustar a organização dos atributos de seu feed nos anúncios 
+dinâmicos. 
+Saiba como criar anúncios dinâmicos da Rede de Display» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.14  Anúncios lightbox 
+O que são anúncios lightbox? 
+Os anúncios lightbox são uma oportunidade para você alcançar, 
+encantar e engajar novos públicos por meio de formatos ricos e 
+interativos. Dependendo de seu objetivo, você pode escolher o 
+modelo de faturamento para alcançá-lo. As regras para anúncios 
+gráficos  também geralmente se aplicam a anúncios lightbox. 
+Requisitos técnicos 
+Há dois tipos de anúncios lightbox: prontos e personalizados. 
+1. Anúncios lightbox prontos  
+Os anúncios lightbox prontos são conjuntos de modelos 
+predefinidos disponíveis no Google AdWords. Utilize 
+recursos existentes de sua marca, inclusive vídeos, 
+imagens, feed de produtos e mapas, para criar 
+experiências enriquecedoras com facilidade. 
+2. Anúncios lightbox personalizados 
+Os anúncios lightbox personalizados são veiculados por 
+terceiros totalmente desenvolvidos por agências criativas, 
+de acordo com as especificações do Google AdWords. 
+Classificação de conteúdo 
+O Google atribui uma classificação de conteúdo a todos os 
+anúncios. Os anúncios lightbox e o conteúdo para o qual apontam 
+deve ser "indicado para menores". Para mais informações, consulte a 
+política em conteúdo voltado para adultos .Anúncios lightbox prontos e Layouts do Studio 
+● Blocos da Galeria de anúncios prontos podem ser criados 
+em questão de minutos e ser aprovados em até 24 horas 
+após a criação do anúncio. 
+● Para Layouts do Studio, pode levar de 3 a 4 dias úteis para 
+criar e aprovar  os anúncios. 
+Saiba mais sobre anúncios lightbox» 
+2.15  Criar um anúncio lightbox 
+A família lightbox é um pacote de formatos de anúncios interativos 
+que ajudam você a alcançar, cativar e encantar seus clientes em 
+potencial. As interações nesses anúncios podem variar desde passar 
+o cursor do mouse sobre um anúncio para abrir a unidade até 
+reproduzir um vídeo ou tocar para ver o conteúdo. O anúncio em si 
+pode ser uma grande tela que você utiliza para promover a 
+mensagem de sua marca, seja a tela um carrossel de vídeo, um jogo 
+interativo ou um catálogo. 
+Veja alguns benefícios de utilizar os anúncios lightbox: 
+● Conecte-se aos clientes certos:  você pode segmentar 
+seus anúncios com todos os diferentes métodos de 
+segmentação na Rede de Display disponíveis. E você paga 
+somente quando há um engajamento qualificado 
+com seus anúncios. 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+● Cative seu público:  ao utilizar recursos on-line que talvez 
+você já tenha, como vídeos ou catálogos, você pode criar 
+anúncios atraentes em um de nossos incríveis formatos. 
+Como funcionam os anúncios lightbox 
+Anúncios lightbox estão disponíveis em tamanhos padrão do 
+Interactive Advertising Bureau (IAB). Depois de clientes terem 
+interagido com esses anúncios, eles carregam rich media dentro do 
+anúncio ou em uma tela expandida. Esse tipo de interação reduz 
+engajamentos acidentais, o que fornece uma melhor experiência 
+para os clientes e mais valor para os anunciantes. 
+Formatos de anúncio lightbox 
+Há dois formatos de anúncio lightbox disponíveis no AdWords: 
+● Anúncio lightbox com vários vídeos 
+● Anúncio lightbox com galeria de imagens e vídeos 
+Saiba mais sobre como criar um anúncio lightbox» 
+2.16  Requisitos editoriais e profissionais 
+Nossa política 
+Para fornecer uma experiência de usuário de qualidade, o Google 
+exige que todas as promoções atendam altos padrões editoriais e 
+profissionais. 
+Evite alguns erros comuns em seu anúncio de texto. Assista um 
+vídeo»  
+Exemplos do que não é permitido 
+Veja exemplos de conteúdos que não permitimos: 
+A promoção não está clara 
+● A promoção é incompreensível, imprecisa ou não faz 
+sentido. 
+A relevância não está clara 
+● Promoções irrelevantes para a página de destino. 
+Comparação com concorrentes ou declarações de superioridade 
+sem base 
+● Promoções que contêm comparações não autorizadas por 
+terceiros na página de destino. 
+Utilidade 
+● Promoções ou conteúdos de difícil  navegação .
+Requisitos de estilo 
+● Promoções que não utilizam os recursos do bloco de 
+anúncios para a finalidade proposta ou que são 
+inconsistentes quanto ao estilo de apresentação dos 
+resultados da Pesquisa Google. 
+Ortografia e gramática 
+● Promoções que não utilizam ortografia e gramática 
+adequadas. 
+● Pontuação, símbolos, capitalização, espaçamento ou 
+repetições que não são utilizados corretamente ou para 
+sua finalidade 
+Saiba mais sobre requisitos editoriais e profissionais» 
+Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 2  
+2.17  Corrigir um anúncio reprovado 
+Se algum de seus anúncios for reprovado, significa que ele não está 
+em veiculação. Para colocar seu anúncio em veiculação, descubra 
+qual anúncio foi reprovado e edite-o para que atenda nossas 
+políticas de publicidade .
+Erros comuns para evitar em seu anúncio de texto. Assista este 
+vídeo»  
+Como corrigir um anúncio reprovado 
+Veja como colocar seus anúncios em veiculação: 
+Etapa 1:  Descubra por que seu anúncio foi reprovado. 
+Etapa 2:  Faça as alterações necessárias em seu anúncio ou website. 
+Etapa 3:  Aguarde a análise de seu anúncio. 
+Saiba como corrigir um anúncio reprovado» 
+  Módulo 3 Como exibir seus anúncios na Rede de Display 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+3.1 Configurações de segmentação na Rede de Display 
+Na Rede de Display do Google, você pode alcançar uma grande 
+quantidade de clientes, escolher em que sites ou páginas seus 
+anúncios serão exibidos e engajar pessoas com vários formatos de 
+anúncios atraentes. 
+Para anunciar na Rede de Display, utilize qualquer tipo de campanha 
+"Apenas na Rede de Display" ou "Rede de Pesquisa com exibição em 
+Display". 
+Conceitos básicos: como exibir seus anúncios na Rede de Display 
+Métodos de segmentação, como palavras-chave e públicos-alvo de 
+afinidade, exibem seus anúncios  na Rede de Display. 
+Você vende artigos esportivos. Para sua campanha de futebol, você 
+quer que os anúncios sejam exibidos em páginas relacionadas a 
+futebol. 
+Quando você adiciona métodos de segmentação, como 
+palavras-chave ou públicos-alvo de afinidade, informa ao Google 
+AdWords onde deseja que seus anúncios sejam exibidos ou quem 
+pode ver seus anúncios conforme navegam pela Rede de Display. 
+Você adiciona segmentação aos grupos de anúncios em 
+suas campanhas da Rede de Display. 
+Tenha maior controle sobre onde seus anúncios são exibidos. 
+Escolha configurações de segmentação 
+Configurações de segmentação, como "Segmentação e lance" e 
+"Somente lance" também determinam o alcance de seus anúncios. 
+Considere-os controles que fazem o seguinte: 
+"Segmentação e lance" 
+● Restringe a exibição de seus anúncios para o método de 
+segmentação  que você escolheu, como palavras-chave. 
+● Permite que você defina lances para segmentação 
+individual, como R$ 2,00 para comprar bolas de futebol. 
+"Somente lance" 
+● Não restringe a exibição de seus anúncios para o método 
+de segmentação que você escolheu. 
+● Permite que você defina lances para segmentação 
+individual, como R$ 2,00 para torcedores de futebol. 
+Observação importante:  Para pequenas e médias empresas, é 
+melhor definir menos métodos de segmentação para "segmentação 
+e lance" em um grupo de anúncios. Caso contrário, você pode 
+restringir demais o alcance de seus anúncios e eles serão exibidos 
+raramente. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+Tente combinações de segmentação avançadas com base em seus 
+objetivos 
+Campanhas de vendas diretas 
+Caso seu objetivo seja vender produtos e alcançar um tipo 
+específico de público, talvez você queira adicionar alguns métodos 
+de segmentação para seu grupo de anúncios que estão definidos 
+como "Segmentação e lance". Seus anúncios podem ser exibidos 
+somente quando os métodos de segmentação específicos que você 
+selecionou forem correspondidos. 
+Campanhas da marca 
+Caso seu objetivo seja alcançar o máximo de pessoas possível, 
+talvez você não queira adicionar muitos métodos de segmentação a 
+seu grupo de anúncios. No entanto, você ainda pode adicionar 
+métodos com várias segmentações para definir lances em algum em 
+particular sem limitar significativamente seu alcance. 
+Saiba mais sobre configurações de segmentação na Rede de 
+Display» 
+3.2 Sobre seleções manuais de canais 
+Canais são os locais na Rede de Display do Google onde seus 
+anúncios podem ser exibidos. Eles podem ser um website ou uma 
+página específica de um site, um app para dispositivos móveis, um 
+conteúdo em vídeo ou até um bloco de anúncios individual. 
+O que torna um canal uma "seleção manual de canais" é você 
+escolher segmentar por um website, app para dispositivos móveis ou 
+bloco de anúncios especificamente. 
+Se você escolher sites bastante acessados ou estiver no começo 
+com publicidade na Rede de Display, talvez precise de mais lances 
+para conseguir impressões. Você pode ajustar seus lances 
+posteriormente .
+Por que adicionar seleções manuais de canais 
+● Exiba seus anúncios somente em canais específicos que 
+você escolher. 
+● Exiba seus anúncios em canais nos quais seus clientes 
+passam o tempo deles. 
+● Receba mais (ou menos) tráfego de canais ao definir 
+lances de canal individuais. 
+Saiba mais sobre seleções manuais de canais» 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+3.3 Segmentar websites de tópicos específicos 
+Da mesma forma que sua empresa busca atender determinados 
+clientes, seus clientes podem se interessar por determinados 
+tópicos. A segmentação por tópicos permite que você coloque seus 
+anúncios do AdWords em páginas da web sobre esses tópicos, seja 
+agricultura, música ou um assunto totalmente diferente. 
+A segmentação por tópicos permite que seus anúncios sejam 
+qualificados para exibição em quaisquer páginas da Rede de Display  
+que tiverem conteúdo relacionado a seus tópicos selecionados. 
+Por que segmentar tópicos 
+● Gere tráfego adicional. 
+● Alcance um público mais amplo rapidamente. 
+● Orçamento de campanha flexível ou não restrito. 
+● Construa sua exibição de anúncios rapidamente. 
+● Objetivo de custo por aquisição moderadamente flexível. 
+● Evite que seus anúncios sejam exibidos em páginas 
+irrelevantes ou de baixo desempenho. 
+Quanto custa a segmentação por tópicos 
+A precificação para segmentação por tópicos funciona da mesma 
+maneira que para outros anúncios segmentados por canais. Você 
+seleciona o preço máximo que deseja pagar cada vez que seu 
+anúncio é exibido, e o sistema do AdWords exibirá seu anúncio em 
+páginas da Rede do Google que tenham conteúdo sobre esse tópico 
+e onde seu lance poderá ganhar uma posição. 
+Um assunto muito discutido pode ter milhares ou até dezenas de 
+milhares de páginas em que seu anúncio pode ser exibido. 
+Saiba mais sobre como segmentar websites sobre tópicos 
+específicos» 
+3.4 Adicionar palavras-chave negativas a sua 
+      campanha 
+Com palavras-chave negativas, você pode: 
+● Evitar que seu anúncio seja exibido para pessoas que 
+pesquisam ou acessam websites sobre assuntos que você 
+não oferece. 
+● Exibir seus anúncios para pessoas mais propícias a clicar 
+neles. 
+● Reduzir custos ao excluir palavras-chave em que você 
+gasta recursos financeiros mas não recebe nenhum 
+retorno. 
+Quando você selecionar palavras-chave negativas, escolha termos 
+de pesquisa semelhantes a suas palavras-chave, mas sinalize que 
+provavelmente a pessoa busca um produto diferente. 
+Como utilizar palavras-chave negativas no Google AdWords. Assista 
+um vídeo»  
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+O Google AdWords permite que você faça o seguinte com as 
+palavras-chave negativas para melhorar suas campanhas: 
+● Adicionar palavras-chave negativas  (campanhas "Rede de 
+Pesquisa com exibição em Display" ou "Redes de Display e 
+Pesquisa"). 
+● Editar, remover ou fazer o download de palavras-chave 
+negativas (campanhas "Rede de Pesquisa com exibição 
+em Display" ou "Redes de Display e Pesquisa"). 
+● Excluir palavras-chave  (campanhas "Apenas na Rede de 
+Display") 
+● Receber ideias de palavra-chave negativa 
+Saiba mais sobre como adicionar palavras-chave negativas a sua 
+campanha» 
+3.5 Como funciona a segmentação por idioma 
+Se você tentar se comunicar com outros que não falam o mesmo 
+idioma, talvez seja difícil transmitir sua mensagem. Assim como no 
+Google AdWords, você quer que os anúncios sejam exibidos para 
+clientes que consigam compreendê-los. 
+Como escolher seu idioma de destino 
+A segmentação por idioma permite que você escolha o idioma dos 
+sites em que você deseja que os anúncios sejam exibidos. 
+Exibiremos seus anúncios para clientes que utilizam produtos do 
+Google (como Pesquisa Google ou Gmail) ou acessam sites na Rede 
+de Display do Google  (GDN) no mesmo idioma. O Google AdWords 
+não traduz anúncios ou palavras-chave. 
+Como detectamos os idiomas 
+Cada Domínio do Google tem um idioma padrão. Por exemplo, o 
+padrão de Google.com é em inglês, e o padrão de Google.fr é em 
+francês. 
+Na Rede de Display do Google, o Google AdWords pode verificar o 
+idioma das páginas que a pessoa visualizou recentemente para 
+determinar quais anúncios exibir. Isso significa que podemos 
+detectar o idioma das páginas que a pessoa visualizou 
+anteriormente ou a página que ela está acessando no momento. 
+Organize campanhas por idioma 
+As configurações de segmentação por idioma são definidas no nível 
+da campanha, então, se você quiser segmentar para mais de um 
+idioma, recomendamos que crie campanhas separadas para cada 
+um. Isso ajuda a garantir que o anúncio que você escreveu em um 
+idioma também apareça em um site escrito no mesmo idioma. 
+Saiba mais sobre como funciona a segmentação por idioma»  Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+3.6 Como utilizar a programação de anúncios 
+       personalizada 
+Talvez você queira que seu anúncio seja exibido quando um cliente 
+faz pesquisas on-line ou somente em determinados dias. Para 
+campanhas com "Todos os recursos" ativado, você pode utilizar a 
+programação de anúncios personalizada para: 
+● Especificar determinadas horas e/ou dias da semana em 
+que você deseja que seus  anúncios sejam exibidos. 
+● Definir ajustes de lance para aumentar ou diminuir seus 
+lances para  dias e horários específicos. 
+Por padrão, suas campanhas do Google AdWords são definidas para 
+"Exibir os anúncios todos os dias e a qualquer hora". 
+Não encontrou o agendamento de anúncios? 
+A programação de anúncios personalizada está disponível para 
+campanhas com "Todos os recursos" ativado. Se o subtipo de sua 
+campanha estiver definido como "Padrão", você não verá a opção de 
+agendamento de anúncios na guia "Configurações" de sua 
+campanha. Você precisará alterar o subtipo da campanha para 
+"Todos os recursos". 
+Para utilizar o agendamento de anúncios no Google AdWords, 
+assista este vídeo»  
+Como ajustar para diferenças de fuso horário 
+É importante que você ajuste sua programação de anúncios com 
+relação às diferenças de fuso horário de seus clientes-alvo. 
+Defina um ajuste de lance para a programação de anúncios 
+Você pode definir ajustes de lance para dias e horários específicos 
+na subguia "Programação de anúncios" das configurações de sua 
+campanha. Se você também quiser definir ajustes de lance para  
+dispositivos móveis e locais, todos os seus ajustes serão 
+multiplicados para determinar o ajuste de lance resultante. Ao definir 
+ajustes de lance, seu gasto em cliques individuais pode variar, mas 
+seu orçamento diário geral não será alterado. 
+Saiba mais sobre como utilizar programação de anúncios 
+personalizada» 
+3.7 Opções avançadas para smartphones e tablets 
+       nas campanhas "Apenas na Rede de Display" 
+Você pode segmentar para sistemas operacionais e modelos de 
+dispositivos específicos, bem como operadores  e redes sem fio com 
+suas campanhas "Apenas na Rede de Display". Opções avançadas 
+para dispositivo móvel e tablet  não estão disponíveis para outros 
+tipos de campanha. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+Tenha em mente que algumas campanhas "Apenas na Rede de 
+Display" já são otimizadas para dispositivos móveis: os anúncios de 
+promoção de app para dispositivos móveis serão exibidos somente 
+neles. No entanto, você ainda pode definir ajustes de lance para 
+tablets, smartphones e computadores em "Configurações", na seção 
+"Dispositivos". 
+Saiba mais sobre opções avançadas para smartphones e tablets nas 
+campanhas "Apenas na Rede de Display"» 
+3.8 Como utilizar o Planejador da Rede de Display para 
+       ter ideias de segmentação e estimativas de tráfego 
+O Planejador da Rede de Display é uma ferramenta gratuita do 
+Google AdWords que você pode utilizar para planejar suas 
+campanhas de anúncios da Rede de Display. Você precisará 
+somente de alguns detalhes básicos para começar, como os 
+interesses de seus clientes ou sua página de destino. O Planejador 
+da Rede de Display gera ideias de segmentação junto com 
+estimativas de impressão e custos históricos para direcionar seu 
+plano. 
+Por que utilizar o Planejador da Rede de Display 
+Ideias para ajudar você a começar. Ideias de palavras-chave, canais 
+e todos os outros métodos de segmentação na Rede de Display 
+ajudam você a planejar sua campanha. 
+Estimativas de impressão e custos históricos para guiar suas 
+decisões. Estimativas mostram como poderia ser o desempenho 
+dessas ideias com base em resultados passados. Custos históricos 
+levam você a ideias dentro do orçamento e ajudam-no a definir 
+lances para as ideias que adotar. 
+Um plano que você pode compartilhar. Download com um clique faz 
+com que exportar 
+seu plano e compartilhá-lo com clientes e colegas fique mais fácil. 
+Como utilizar o Planejador da Rede de Display do Google AdWords. 
+Assista este vídeo»  
+Saiba mais sobre como utilizar o  Planejador da Rede de Display para 
+ter ideias de segmentação e estimativas de tráfego» 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 3  
+3.9 A guia "Rede de Display" 
+A guia "Rede de Display": 
+● Está disponível somente para campanhas que exibem 
+anúncios na Rede de Display do Google. 
+● Pode ser utilizada para determinar onde seus anúncios 
+são exibidos na Rede de Display do Google. 
+Tipos de métodos de segmentação e exclusões 
+Segmentação contextual: corresponda conteúdo de website 
+relevante. 
+● Palavras-chave:  segmente ou exclua por frases-chave da 
+página. 
+● Tópicos:  segmente ou exclua pelo tema central da página 
+ou do website. 
+Públicos-alvo: alcance grupos específicos de pessoas. 
+● Categorias de interesse:  segmente ou exclua por 
+interesses ou afinidades. 
+● Remarketing:  segmente ou exclua pessoas que 
+acessaram seu website anteriormente. 
+● Informações demográficas:  segmente ou exclua por sexo 
+ou idade, como "masculino", "18-24". 
+Segmentação por canal: selecione ou exclua websites e apps 
+específicos. 
+● Canais:  segmente por websites, app para dispositivos 
+móveis ou vídeos, como example.com , com seleções 
+manuais de canais , ou exclua quaisquer seleções 
+automáticas de canais  que utilizem exclusões. 
+● Opções de categorias de site:  permita ou exclua por 
+categorias da Rede de Display, como streaming de vídeo 
+ao vivo ou websites sobre crimes, polícia e emergências. 
+O que fazer em sua guia "Rede de Display" 
+● Segmentar anúncios 
+● Adicionar exclusões 
+● Visualizar relatórios de desempenho da segmentação 
+Saiba mais sobre a guia "Rede de Display"» 
+  Módulo 4 Como alcançar seu público na Rede de Display 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 4 
+4.1 Alcançar pessoas interessadas em seus produtos 
+      ou serviços 
+Dependendo de seus objetivos de publicidade e do estágio do 
+processo de compra em que seus clientes estiverem, você pode 
+adicionar diferentes públicos-alvo em seus grupos de anúncios e 
+grupos de segmentação: 
+● Públicos-alvo de afinidade 
+● Públicos-alvo de afinidade personalizados 
+● Públicos-alvo no mercado 
+Como funcionam os públicos-alvo 
+Quando alguém acessa um site parceiro do Google, podemos utilizar 
+o conteúdo da página ou do website para exibir anúncios relevantes 
+para o contexto. Nós utilizamos os principais tópicos e temas da 
+página, bem como dados de empresas de terceiros, para associar os 
+interesses ao ID de cookie  anônimo do visitante. 
+Benefícios e práticas recomendadas 
+Com públicos-alvo, você pode exibir anúncios a clientes associados 
+a públicos-alvo que você selecionou, mesmo quando as pessoas 
+acessam websites que não estejam relacionados contextualmente 
+ao público-alvo que você selecionou. 
+Públicos-alvo no mercado para campanhas da Rede de Display do 
+Google 
+Adicionar esses públicos-alvo a seus grupos de anúncios podem 
+ajudar você a alcançar pessoas  que sempre querem comprar um 
+produto ou serviço específico. 
+Saiba mais sobre como alcançar pessoas interessadas em seus 
+produtos ou serviços» 
+4.2 Alcançar pessoas semelhantes a seu público 
+existente 
+O remarketing do Google permite que você alcance pessoas que já 
+acessaram seu site e conecte-se a um público-alvo que já se 
+interessa por seus produtos ou serviços. 
+O recurso "Públicos-alvo semelhantes" permite que você encontre 
+pessoas que compartilham características com os visitantes de seu 
+site. Isso permite que você alcance novos clientes em potencial 
+qualificados. 
+Este recurso está disponível para "Apenas na Rede de Display". 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 4 
+Como são formados "Públicos-alvo semelhantes" 
+O Google AdWords analisa as atividades de navegação nos sites da 
+Rede de Display nos últimos  30 dias e utiliza isso, junto com nosso 
+mecanismo contextual, para compreender os interesses em comum 
+e as características das pessoas de sua lista de remarketing. Com 
+base nessas informações, o Google AdWords encontra 
+automaticamente novos clientes em potencial 
+cujos interesses e características sejam semelhantes aos das 
+pessoas em sua lista de remarketing. 
+Qualificação para públicos-alvo semelhantes 
+O Google identificará automaticamente quais de suas listas de 
+remarketing se qualificam para públicos-alvo semelhantes, com base 
+em vários fatores, que incluem mas não se limitam ao número de 
+visitantes da lista original, há quanto tempo essas pessoas entraram 
+na lista original e os tipos de sites pelos quais esses visitantes 
+navegaram. 
+Podemos definir um público-alvo semelhante somente para suas 
+próprias listas de remarketing. 
+Benefícios de utilizar públicos-alvo semelhantes 
+Segmentação por público-alvo simplificada 
+Públicos-alvo semelhantes evitam as adivinhações para descobrir 
+novos públicos-alvo. 
+Como conseguir novos clientes em potencial 
+Com públicos-alvo semelhantes, você pode aumentar o alcance de 
+campanhas de remarketing existentes e atrair novos usuários para 
+seu site que tenham uma possibilidade maior de estarem 
+interessados em seu produto ou serviço. 
+Saiba mais sobre como alcançar pessoas semelhantes a seu 
+público existente» 
+4.3 Alcançar pessoas com informações 
+      demográficas específicas 
+Com segmentação demográfica no Google AdWords, você pode 
+alcançar clientes que têm chance de estar dentro dos grupos 
+demográficos de sua escolha. Você pode escolher a partir dos 
+seguintes grupos demográficos: 
+● Idade ("18-24", "25-34", "35-44", "45-54", "55-64", "65 ou 
+mais"  e "Desconhecida") 
+● Sexo ("Feminino", "Masculino" e "Desconhecido") 
+● Status parental ("Com filhos", "Sem filhos" e 
+"Desconhecido") 
+A segmentação demográfica na Rede de Display  pode ajudar você a 
+alcançar os seguintes objetivos: 
+● Alcançar o público-alvo certo. 
+● Personalizar seus anúncios e lances. 
+● Refinar sua segmentação.  Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 4 
+Relatório demográfico na Rede de Display do Google 
+Com o relatório demográfico da Rede de Display, você pode ter 
+insights sobre seu público-alvo que podem ajudar você a gerenciar e 
+analisar vários métodos de segmentação demográfica. Os gráficos 
+demográficos mostram a você quais grupos demográficos seus 
+anúncios alcançam, entre todos os seus grupos de anúncios e sua 
+conta. 
+Como o Google determina as informações demográficas 
+Quando alguém acessa um website que tem parceria com a Rede de 
+Display do Google , o Google armazena um número nos navegadores 
+dessa pessoa (usando um " cookie ") para salvar os acessos. Esse 
+número identifica exclusivamente um navegador da Web em um 
+computador específico, não uma pessoa. Os navegadores podem 
+estar associados a uma categoria demográfica, como sexo, faixa 
+etária ou status parental, com base nos websites que foram 
+acessados. 
+Informações demográficas de apps para dispositivos móveis:  esse 
+recurso de segmentação utiliza um identificador anônimo  vinculado 
+ao celular do cliente para lembrar quais apps a pessoa utilizou. 
+Podemos associar o identificador anônimo a uma categoria 
+demográfica com base em navegação da Web e atividades de apps 
+em um dispositivo móvel. 
+Categoria "Desconhecido" 
+Você pode optar por segmentar ou excluir pessoas cuja idade, sexo 
+ou status parental não conseguimos identificar ao selecionar a 
+categoria "Desconhecido". 
+Saiba mais sobre como alcançar pessoas com informações 
+demográficas específicas» 
+4.4 Utilizar remarketing para alcançar visitantes que 
+       já passaram pelo website e usuários do app 
+O remarketing permite que você mostre anúncios para pessoas que 
+acessaram seu website ou utilizaram seu app para dispositivos 
+móveis anteriormente. 
+O remarketing dinâmico ainda eleva para o próximo patamar ao 
+incluir os produtos ou serviços que as pessoas viam em seu website 
+dentro dos anúncios. 
+Formas de remarketing com o Google 
+● Remarketing padrão 
+● Remarketing dinâmico 
+● Remarketing para apps para dispositivos móveis 
+● Listas de remarketing para anúncios da Rede de Pesquisa 
+● Remarketing de vídeo 
+Mais motivos para utilizar o remarketing 
+Não importa se você quer impulsionar as atividades de venda, 
+aumentar os registros ou promover o reconhecimento de sua marca, 
+o remarketing pode ser um componente estratégico de sua 
+publicidade. Ele pode gerar retorno do investimento (ROI) para todos 
+os tipos de anunciantes. 
+● Alcance pessoas quando elas estão mais propícias a 
+comprar 
+● Listas personalizadas para seus objetivos de publicidade 
+● Alcance em larga escala  Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 4 
+● Precificação eficiente 
+● Criação fácil de anúncios 
+● Visibilidade de onde seus anúncios são exibidos 
+Saiba mais sobre como utilizar o remarketing para alcançar 
+visitantes que já passaram pelo website  e usuários do app» 
+4.5 Utilizar remarketing dinâmico para exibir anúncios 
+       personalizados aos visitantes de seu site 
+O remarketing permite que você mostre anúncios para pessoas que 
+já acessaram seu website ou utilizaram seu app para dispositivos 
+móveis. O remarketing dinâmico permite que você mostre aos 
+visitantes anteriores anúncios que contenham produtos e serviços 
+que viram em seu website. 
+Mais motivos para utilizar o remarketing dinâmico 
+● Anúncios que escalam com seus produtos ou serviços:  
+emparelham seu feed de produtos ou serviços com 
+anúncios dinâmicos, o que escala seus anúncios 
+para cobrir seu inventário completo. 
+● Feeds simples, mas poderosos:  o mecanismo de 
+recomendação de produto do Google AdWords 
+selecionará produtos e serviços de seu feed, o que 
+determina a melhor combinação de produtos para cada 
+anúncio com base na popularidade no que o visitante viu 
+em seu website. 
+● Layouts de alto desempenho:  o Google AdWords prevê 
+qual layout de anúncio dinâmico tem mais chance de ter 
+um desempenho melhor para a pessoa, o canal e a 
+plataforma em que aparecerá. 
+● Otimização de lance em tempo real:  com lances de CPC e 
+de CPA desejado aprimorados. O Google AdWords calcula 
+o lance ideal para cada impressão. 
+De que você precisa para começar 
+Feed de produto ou serviço 
+Crie um feed que inclui todos os seus produtos ou serviços, junto 
+com detalhes sobre cada item (ID, preço e imagem exclusivos e 
+muito mais). Esses detalhes são extraídos de seu feed para seus 
+anúncios dinâmicos. 
+Tag com parâmetros personalizados 
+Adicione a tag de remarketing dinâmico com parâmetros 
+personalizados a todas as páginas de seu website. 
+Anúncios dinâmicos 
+Os anúncios dinâmicos utilizam layouts de vários tamanhos e 
+formatos para plataformas modernas, inclusive HTML5 para 
+dispositivos móveis. Você criará anúncios dinâmicos  na Galeria de 
+anúncios. 
+Saiba mais sobre como utilizar remarketing dinâmico para exibir 
+anúncios personalizados para os visitantes de seu website» 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 4 
+4.6 Criar um feed para seus anúncios dinâmicos da 
+       Rede de Display 
+Com o remarketing dinâmico, você criará um feed de todos os seus 
+produtos ou serviços junto com atributos, como códigos, imagens e 
+preços exclusivos. Quando anúncios são exibidos para pessoas que 
+acessaram seu website, detalhes sobre os itens que elas 
+visualizaram são extraídos de seu feed para os anúncios. 
+Como configurar feeds para sua campanha de remarketing dinâmico 
+nos dados da empresa. Assista este vídeo»  
+Sobre feeds 
+Quando você cria um feed, significa que criou basicamente um 
+banco de dados de produtos ou serviços que pode ser utilizado em 
+seus anúncios dinâmicos. 
+● Colunas  são atributos de cada item que você listou (como 
+códigos, preços e descrições exclusivos) e devem 
+corresponder às letras e espaços da especificação. 
+● Códigos  são importantes de incluir em seu feed porque 
+são utilizados por seu tag de remarketing para conectar 
+pessoas em suas listas aos produtos que elas 
+visualizaram. 
+● Para produtos ou serviços disponíveis em mercados 
+diferentes, crie um feed para cada idioma e moeda. 
+Tenha modelos e especificações de feed para seu tipo de empresa 
+O tipo de feed que você criar deve corresponder ao tipo de empresa 
+que você selecionou ao criar sua campanha de remarketing 
+dinâmico. Utilize o feed "Personalizado" somente se os outros tipos 
+de empresa não se aplicam a seus produtos ou serviços. 
+Importante 
+Seu feed, tag e campanha não podem utilizar ou coletar informações 
+pessoais ou confidenciais dos visitantes do website ou do app. Leia 
+a Política para publicidade com base em interesses e local . Novos 
+itens atualizados em seu feed passam por um processo de 
+aprovação para garantir que são adequados para os usuários, 
+de acordo com nossas políticas de publicidade . 
+Corrija problemas em seu feed 
+Quando um item em seu feed não estiver disponível ou não tiver sido 
+especificado, ele não será utilizado em seus anúncios. Talvez você 
+veja erros logo após fazer upload de seu feed ou de 3 a 4 horas 
+depois de seu feed ser processado.  
+Erros após o upload de seu feed 
+Alguns erros comuns incluem "atributos obrigatórios ausentes", 
+"atributos inválidos" e "formato de preço inválido". 
+Erros após o processamento de seu feed 
+Alguns erros comuns incluem "imagem inacessível", "formato de 
+imagem inválido" e "tamanho da imagem inválido". 
+Saiba mais sobre como criar um feed para seus anúncios dinâmicos 
+da Rede de Display» 
+  Módulo 5 Como medir e otimizar o desempenho  na 
+                    Rede de Display 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+5.1 Impulsionar vendas e gerar leads 
+Os objetivos das campanhas de geração de tráfego e de leads 
+● Incentivar clientes a concluírem uma compra. 
+● Gerar leads ao coletar informações de contato deles por 
+meio de uma página de inscrição. 
+● Aumentar o tráfego para seu website para que você possa 
+distribuir informações. 
+Onde você deve veicular suas campanhas 
+Sugerimos que você utilize uma combinação de campanhas 
+segmentadas por palavra-chave na Rede de Pesquisa do Google  e na 
+Rede de Display do Google . Veja por quê: 
+Rede de Pesquisa do Google  
+Quando as pessoas pesquisam uma palavra-chave que você 
+escolheu, seu anúncio pode ser exibido nas páginas de resultados de 
+pesquisa do Google. 
+Parceiros de pesquisa 
+Seus anúncios podem ser exibidos próximos aos resultados de 
+pesquisa nessas propriedades de Parceiro de pesquisa. 
+Rede de Display do Google 
+Você pode utilizar segmentação contextual  na Rede de Display do 
+Google para direcionar sua campanha publicitária para páginas 
+específicas que tenham temas relevantes para sua mensagem 
+publicitária. 
+O que você deve saber sobre segmentação por canal, formatos de 
+anúncios e lances 
+Segmentação por canal 
+Essa forma de publicidade permite que você escolha "canais" – 
+websites ou seções de sites específicos dentro da Rede de Display 
+do Google onde você pode veicular seus anúncios. 
+Formatos de anúncio 
+Recomendamos usar os anúncios responsivos com uma 
+call-to-action forte e objetiva.  Eles se adaptarão a qualquer 
+espaço de anúncio disponível e podem incluir logotipos 
+e imagens, bem como texto. 
+Estratégia de lances 
+Sugerimos a utilização de lances com custo por clique para suas 
+campanhas com segmentação contextual e segmentação por canal. 
+Como medir a eficiência 
+Depois de configurar uma ferramenta gratuita chamada 
+acompanhamento de conversão, você poderá visualizar algumas 
+métricas importantes, como o número de conversões, o custo por 
+conversão e a taxa de conversão, bem como os dados de conversão 
+de palavras-chave e os dados das páginas de destino. 
+Saiba mais sobre como impulsionar vendas e gerar leads» 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+5.2 Aumentar reconhecimento da marca 
+Campanhas de engajamento da marca podem ajudar você a: 
+● Aumentar interações  com sua marca. 
+● Criar mais associações positivas de marca .
+● Aumentar a fidelidade da marca  ao se conectar com o 
+público-alvo. 
+● Motivar clientes  a se engajarem a sua marca e produtos 
+associados. 
+Como utilizar a segmentação por canal, os formatos de anúncios 
+rich media e os lances de CPM 
+Segmentação por canal 
+Com a segmentação por canal , você pode escolher "canais", 
+websites ou seções de sites específicos dentro da Rede de Display 
+do Google onde você pode veicular sua campanha. Você pode 
+selecionar sites com base em tópicos específicos ou no público-alvo 
+que deseja alcançar. Também pode escolher um site que atenda 
+os critérios da marca. 
+A ferramenta  Planejador da Rede de Display  pode ajudar você a ter  
+ideias para a segmentação por canal. Insira algumas informações  
+sobre seu cliente – como os interesses e os sites que costumam  
+acessar – e o Planejador da Rede de Display gerará uma lista de  
+ideias de segmentação por canal. 
+Formatos de anúncio 
+Como o objetivo principal de uma campanha de engajamento da 
+marca pode ser interagir com o público-alvo, sugerimos que você 
+utilize formatos de anúncios rich media. Com a Rede de Display do 
+Google, você pode alcançar clientes com anúncios responsivos, mas 
+também pode usar vários outros formatos visuais, como imagens 
+estáticas, animação em flash e vídeos. 
+Estratégia de lances 
+Com campanhas de engajamento da marca, você deseja maximizar 
+a exposição da marca em sites relevantes. Os lances de CPM 
+normalmente são adequados para uma campanha assim, já que 
+você pode definir seus lances diretamente a partir dos objetivos de 
+desempenho que definiu para sua campanha. 
+Saiba mais sobre como aumentar o reconhecimento da marca» 
+5.3 Como medir vendas e conversões 
+Quando você utiliza o Google AdWords para aumentar as conversões 
+ou vendas, acompanhe as conversões com uma ferramenta gratuita 
+chamada acompanhamento de conversão . Dessa maneira, você 
+pode visualizar importantes estatísticas, como 
+custo por conversão e taxa de conversão, que informam o 
+desempenho de sua campanha.  Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+Uma conversão é o que você escolher 
+Uma conversão pode ser uma compra, mas também uma chamada 
+pelo celular, um visitante que envia informações de contato para 
+uma cotação de seguro ou comprador em potencial que faz o 
+download de um artigo sobre as capacidades do software de sua 
+empresa. Ou talvez seja uma solicitação de mais informações ou 
+visualizações de uma página que apresenta seu novo produto. 
+Informações de conversão que você pode medir 
+Depois de configurar o acompanhamento de conversão, você pode 
+visualizar algumas estatísticas importantes para ajudá-lo a medir o 
+desempenho de sua campanha de anúncios: 
+● Aprenda como adicionar colunas. 
+● Número de conversões e custo por conversão. 
+● Taxa de conversão. 
+● Dados de conversão de palavra-chave. 
+● Veja como os clientes interagem com seus anúncios pelos 
+dispositivos. 
+● URLs de destino. 
+Saiba mais sobre como medir vendas e conversões» 
+5.4 Avaliar desempenho do anúncio na Rede 
+       de Display 
+Descubra onde seus anúncios são exibidos na Rede de Display 
+A guia "Canais" exibe todas as páginas da Web, apps e vídeos em 
+que seus anúncios gráficos foram exibidos, independentemente do 
+método de segmentação. Você verá canais gerenciados  que 
+selecionou para exibir seus anúncios e canais automáticos  
+onde seus anúncios foram correspondidos automaticamente com 
+base em um ou mais de seus métodos de segmentação, 
+como palavras-chave ou tópicos. 
+Informações básicas 
+● Confirme que seus anúncios são exibidos 
+● Consiga uma lista de sites onde seus anúncios foram 
+exibidos 
+● Veja se os anúncios têm recebido impressões e cliques 
+Introdução do editor de relatórios 
+O editor de relatórios é uma ferramenta analítica que permite que 
+você organize seus dados em tabelas e gráficos multidimensionais. 
+Veja alguns benefícios do editor de relatórios: 
+● Uma interface simples com função "arrastar e soltar" 
+● Análise multissegmento 
+● Filtro e classificação avançados 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+Estatísticas demográficas e de desempenho 
+● Identifique a segmentação de anúncios que tem trazido 
+resultados 
+● Receba informações sobre por que seus anúncios foram 
+correspondidos a um  canal específico 
+● Descubra quais grupos demográficos veem seus anúncios 
+Saiba mais sobre como avaliar o desempenho dos anúncios na Rede 
+de Display» 
+5.5 Desempenho da conta, da campanha e do grupo 
+       de anúncios 
+O Google AdWords é organizado em três camadas (níveis): conta , 
+campanhas e grupos de anúncios . 
+Com os três níveis em mente, você pode personalizar a visualização 
+dos dados de desempenho para deixá-los mais abrangentes ou mais 
+específicos. 
+Sua conta é associada a um endereço de e-mail, uma senha e 
+informações de faturamento exclusivos. No entanto, para o relatório, 
+é importante pensar em sua conta como uma coleção de 
+campanhas. Se você quiser visualizar os dados de desempenho de 
+sua conta completa, clique em "Todas as campanhas" no painel 
+lateral de sua conta do Google AdWords. Os totais de todas as linhas 
+são listados na parte inferior de sua tabela de estatísticas. 
+Introdução do editor de relatórios 
+O editor de relatórios é uma ferramenta analítica que permite que 
+você organize seus dados em tabelas e gráficos multidimensionais. 
+Descubra como explorar seus dados com o editor de relatórios» 
+Seus dados de campanha 
+Uma campanha individual tem seu próprio orçamento e 
+configurações que determinam onde seus anúncios são exibidos, 
+além de ser formada por uma coleção de grupos de anúncios. Cada 
+uma de suas campanhas é listada no painel lateral de sua conta do 
+Google AdWords e também são exibidas quando você clica na guia 
+"Campanhas" no meio da tela. 
+Seus dados do grupo de anúncios 
+Seu grupo de anúncios contém um conjunto de anúncios 
+semelhantes e as palavras e frases, conhecidas como 
+palavras-chave , que você deseja que seus anúncios exibam. Quando 
+você clicar em uma campanha, o Google AdWords mostrará a você a 
+visualização do desempenho da campanha detalhada por grupos de 
+anúncios individuais. Você também pode ver  dados de grupos de 
+anúncios ao clicar na guia "Grupos de anúncios" no meio de sua tela. 
+Cada grupo de anúncios pode conter vários anúncios. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+Quando você estiver familiarizado com a estrutura de sua conta do 
+Google AdWords, poderá visualizar e personalizar os dados em sua 
+tabela de estatísticas e fazer o download dos relatórios para 
+monitorar o desempenho de suas campanhas, campanhas 
+individuais e grupos de anúncios, bem como seus anúncios e 
+palavras-chave. 
+Saiba mais sobre desempenho de conta, campanha e grupo de 
+anúncios» 
+5.6 Explore seus dados na guia "Campanhas" 
+A guia "Campanhas" é sua primeira parada para entender o 
+desempenho de seus anúncios. Você pode monitorar as estatísticas 
+de campanha ou visualizar dados específicos dos grupos de 
+anúncios, dos anúncios ou das palavras-chave e personalizar a 
+forma em que os dados são exibidos. 
+Cada subguia na guia "Campanhas" de sua conta do Google 
+AdWords apresenta uma visão diferente de seus dados. 
+Você pode utilizar o editor de relatórios para organizar seus dados 
+em tabelas e gráficos multidimensionais. 
+Veja a visão geral do que você encontrará em cada subguia: 
+1. Campanhas 
+A subguia "Campanhas" é um ótimo início para analisar o 
+desempenho de suas campanhas. Assim como a maioria das 
+subguias, você pode personalizar a forma como seus dados são 
+exibidos. 
+2. Grupos de anúncios 
+Utilize a subguia "Grupos de anúncios" para ver o desempenho de 
+seus grupos de anúncios individuais. 
+3. Configurações 
+A subguia "Configurações" permite que você ajuste as 
+configurações, como as opções de orçamento, rede e lance, o 
+idioma, a segmentação por local e outras configurações que afetam 
+uma campanha inteira.  
+4. Anúncios 
+Utilize a subguia "Anúncios" para visualizar os dados sobre cada 
+anúncio individual em sua conta. Compare anúncios e veja quais têm 
+o melhor desempenho. 
+5. Palavras-chave 
+Aqui, você pode ver as palavras-chave que selecionou para todas as 
+suas campanhas ou somente para um único grupo de anúncios. 
+6. Extensões de anúncio 
+As extensões de anúncio ajudam as pessoas a facilmente descobrir 
+mais sobre sua empresa e suas ofertas ao fornecer informações 
+adicionais, como endereço e número de telefone, mais links de 
+páginas e imagens de produto. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+7. Dimensões 
+A subguia "Dimensões" permite que você destrinche seus dados pela 
+dimensão de escolha em um grupo de anúncios, uma campanha ou 
+uma conta inteira. Você pode utilizar "Dimensões" para visualizar as 
+estatísticas de outras guias do Google AdWords. 
+8. Rede de Display 
+A subguia "Rede de Display" é onde você pode gerenciar suas 
+campanhas de display e ver dados de desempenho sobre seus 
+anúncios na Rede de Display . 
+Saiba mais sobre como explorar seus dados na guia "Campanhas"» 
+5.7 Otimizar anúncios e campanhas da Rede 
+       de Display 
+Veja algumas maneiras de otimizar suas campanhas da Rede de 
+Display: 
+● Organize suas campanhas por tema 
+As campanhas devem ser uma coleção de grupos de 
+anúncios. Cada grupo de anúncios deve ter vários 
+anúncios que correspondam aos métodos de 
+segmentação  que você escolher. 
+● Agrupe suas listas de palavras-chave 
+Para emparelhar seus anúncios e palavras-chave, 
+agrupe-os em grupos de anúncios com base em seus 
+produtos, serviços e outras categorias. 
+● Escreva ótimos anúncios 
+É importante criar o anúncio mais atraente que você puder. 
+Você pode utilizar a Galeria de anúncios para criar 
+anúncios personalizados com base na aparência de seu 
+website. 
+● Utilize inserção de palavra-chave 
+A inserção de palavra-chave pode tornar seus anúncios 
+mais relevantes para os clientes e ajudar a aumentar sua 
+taxa de cliques (CTR) .
+● Segmente seus anúncios com eficiência 
+Refine suas palavras-chave, utilize canais e tópicos, exclua 
+websites e faça remarketing para as pessoas que já 
+visitaram seu site. 
+● Escolha as palavras-chave corretas 
+As palavras-chave individuais de seu grupo de anúncios 
+ajudam a determinar onde seus anúncios são exibidos na 
+Rede de Display. 
+● Exclua palavras-chave irrelevantes 
+Excluir palavras-chave pode ajudar você a evitar que seus 
+anúncios sejam exibidos em páginas sobre tópicos 
+irrelevantes. 
+● Selecione canais e tópicos 
+Segmente vários canais  sobre o mesmo assunto para 
+incluir uma combinação de websites populares e websites 
+bem específicos para aumentar as chances de seus 
+anúncios serem exibidos. 
+● Exclua websites e tópicos irrelevantes 
+Evite que seus anúncios sejam exibidos em websites que 
+não sejam relacionados a sua empresa. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+● Alcance pessoas que já demonstraram interesse 
+Você também pode exibir anúncios para pessoas que já 
+acessaram seu website ou utilizaram seu app ao criar uma 
+campanha de remarketing .
+Ajuste seus lances 
+Dependendo de quais redes você segmenta, precisará monitorar e 
+gerenciar seus lances para garantir que você aproveite ao máximo 
+seu orçamento diário com publicidade. 
+Foque no custo por aquisição (CPA) 
+Recomendamos que você utilize dados do acompanhamento de 
+conversões  e seu custo por aquisição (CPA), em vez do CTR, para 
+medir o desempenho geral  dos canais na Rede de Display. 
+Fique de olho no desempenho de seus anúncios 
+Descubra quais sites exibiram seus anúncios 
+Monitorar quais websites, vídeos e apps exibiram seus anúncios 
+pode ajudar você a evitar impressões em canais em que seus 
+anúncios não geram cliques. 
+Utilize o Acompanhamento de conversões do Google 
+Analisar seu número total de conversões e o valor delas pode ajudar 
+você a decidir se deve aumentar seu orçamento, alterar seus lances 
+ou fazer outras alterações em seus grupos de anúncios para receber 
+mais visitantes segmentados. 
+Mantenha uma campanha de anúncios de alta qualidade para ter a 
+melhor visibilidade possível 
+A maioria dos websites "Apenas na Rede de Display" exibem alguns 
+anúncios por página. O canal de seu anúncio na página é fortemente 
+influenciado pelo Índice de qualidade  e pelo lance de seu anúncio. Se 
+você descobrir que seus anúncios não são exibidos com frequência 
+na Rede de Display, tente melhorar seu Índice de qualidade com 
+anúncios mais relevantes e segmentação refinada. 
+Saiba mais sobre Como otimizar anúncios e campanhas da Rede de 
+Display» 
+5.8 Dicas para criar anúncios gráficos eficientes 
+Se você é novo na criação de anúncios gráficos ou deseja melhorar o 
+desempenho de seus anúncios, temos algumas dicas para ajudá-lo: 
+● Utilize texto, imagens e esquemas de cores com eficiência. 
+● Teste diferentes tipos de anúncios gráficos e designs de 
+conteúdo. 
+● Aproveite os modelos da Galeria de anúncios. 
+● Crie suas próprias imagens personalizadas. 
+● Gere anúncios gráficos com base nos seus anúncios 
+responsivos existentes. 
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+Crie o anúncio gráfico ideal 
+Veja nossas dicas para criar anúncios gráficos eficientes: 
+● Seja explícito em sua call-to-action, seja ela um botão ou 
+não. 
+● Equilibre o texto do anúncio e as imagens. 
+● Tente diferentes ideias de anúncios. 
+● Inclua preços, promoções e ofertas exclusivas. 
+● Forneça uma página de destino relevante. 
+● Teste diferentes tamanhos de anúncios. 
+● Anuncie em dispositivos móveis. 
+Como criar seu anúncio com a Galeria de anúncios 
+Para a solução mais rápida e simples para criar anúncios gráficos, 
+sugerimos que você utilize nossa Galeria de anúncios . Essa 
+ferramenta oferece modelos de anúncios gráficos prontos com uma 
+biblioteca de imagens gratuitas. Veja algumas dicas para editar 
+imagens dentro da Galeria de anúncios: 
+● Visualizações dos anúncios gráficos:  você pode visualizar 
+como seu anúncio gráfico será exibido enquanto o cria. 
+● Confirme que seu anúncio seja exibido adequadamente em 
+todos os tamanhos de anúncios selecionados:  utilize a 
+visualização para verificar se sua imagem é exibida 
+adequadamente no tamanho de anúncio que você deseja. 
+Como criar imagens personalizadas 
+Imagens personalizadas são úteis se você tiver gráficos especiais 
+relacionados a sua empresa. Sugerimos que você siga estas 
+diretrizes ao criar imagens personalizadas: 
+● Utilize imagens com formato PNG 24 bits transparente 
+sempre que possível. 
+● Reutilize gráficos de outras campanhas publicitárias, 
+desde que eles atendam às políticas de publicidade do 
+Google. 
+● Projete imagens com uma ferramenta de criação de 
+imagens on-line. 
+● Projete suas imagens com aplicativos de software de 
+edição de imagem. 
+● Faça parceria com um designer gráfico ou outras agências 
+criativas para criarem  imagens para você. 
+Gere anúncios gráficos personalizados com base nos anúncios 
+responsivos 
+Precisa de ajuda para elaborar conteúdo para seu anúncio gráfico? 
+Você pode gerar anúncios gráficos personalizados com base nos 
+anúncios responsivos. Para isso, use as sugestões da Galeria de 
+anúncios ou a tabela de anúncios encontrada na guia "Anúncios". 
+Saiba mais sobre dicas para criar anúncios gráficos eficientes »
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+5.9 Sobre otimização de segmentação da Rede 
+       de Display 
+A otimização de segmentação permite que o Google AdWords 
+adicione segmentação de alto potencial a um grupo de anúncios em 
+suas campanhas "Apenas na Rede de Display". 
+Quando utilizar a otimização de segmentação 
+A otimização de segmentação funciona melhor se você: 
+● Estiver interessado em encontrar mais clientes. 
+● Precisar de ajuda para identificar a melhor segmentação 
+para alcançar seus clientes mais prováveis. 
+● Quiser manter seu custo por cliente ou custo por 
+conversão atuais. 
+A otimização de segmentação não é recomendada para anunciantes 
+que desejam ter controle total sobre a exibição de seus anúncios. 
+Tipos de otimização de segmentação 
+Segmentação conservadora  
+● Disponível para todas as campanhas da Rede de Display. 
+● Segmentação adicional ao custo atual por cliente. 
+● Alcança alguns clientes adicionais. 
+● Utilize quando quiser mais conversões mas precisar 
+permanecer próximo de seu custo atual por cliente. Segmentação arrojada (Otimizador de campanhas da Rede de 
+Display) 
+● Disponível para todas as campanhas da Rede de Display 
+com pelo menos 15 conversões por mês. 
+● Segmentação adicional ao custo atual por cliente. 
+● Alcança até mais clientes adicionais que a "conservadora". 
+● Utilize quando quiser o máximo de conversões possível e 
+estiver confortável com algumas variações de seu custo 
+atual por cliente. 
+Saiba mais sobre otimização de segmentação da Rede de Display» 
+5.10  Como entender o acompanhamento 
+         de conversões 
+O acompanhamento de conversões mostra a você o que acontece 
+depois que um cliente clica em seus anúncios, independentemente 
+se ele comprou seu produto, inscreveu-se em sua newsletter ou 
+preencheu um formulário para receber mais informações. Ao 
+acompanhar essas ações, ou " conversões ", você saberá que 
+anúncios, palavras-chave  e campanhas  geram negócios. Isso ajuda 
+você a investir com mais sabedoria nos melhores anúncios e 
+otimizar seu retorno do investimento (ROI) .
+ Guia de aperfeiçoamento do Exame de publicidade em Display  |  Módulo 5 
+Conversão 
+Uma conversão  é uma ação de cliente que tem valor para sua 
+empresa, como uma compra, o download de um app, a visita ao 
+website, o preenchimento de um formulário ou a assinatura de  um 
+contrato. Ações on-line e off-line são chamadas de conversões 
+porque o  clique de um cliente tornou-se (converteu-se em) um 
+negócio. 
+Por que medir conversões 
+Medir conversões é útil para sua empresa se você quiser fazer  o 
+seguinte: 
+● Conectar seus anúncios e palavras-chave aos objetivos de 
+sua empresa. 
+● Otimizar seu ROI. 
+● Veja como os clientes interagem com seus anúncios pelos 
+dispositivos. 
+Como contar conversões 
+É possível ver os dados de conversão nos relatórios de 
+acompanhamento de conversões. 
+Para cada ação de conversão, como compra ou preenchimento de 
+um formulário, você pode optar por ver "Todas as conversões" ou 
+"Conversões únicas". 
+A configuração "Todas" é útil para contabilizar todas as instâncias de 
+vendas, enquanto "Únicas" é utilizada para contabilizar somente uma 
+conversão quando a mesma pessoa gera vários leads. Por exemplo, 
+se uma pessoa preencher dois formulários diferentes solicitando 
+contato a respeito dos serviços que você oferece. 
+Saiba mais sobre como entender o acompanhamento de conversões»  
+Você gostou do que aprendeu? Faça o Exame de publicidade em Display» 

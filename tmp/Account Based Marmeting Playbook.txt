@@ -1,0 +1,589 @@
+ACCOUNT-BASED MARKETING 
+Playbook & Toolkit
+Follow this simple step-by-step guide to develop an account-based marketing approach and strategy. Table of Contents
+ACCOUNT-BASED MARKETING
+Introduction 04Framework 03
+About 25Align Resources 08
+11 Select Accounts
+14 Generate Insights
+17 Create Plans
+20 Execute Campaigns
+23 Measure Resultsstage
+stage
+stage
+stage
+stage
+stage1
+2
+3
+4
+5
+6Leverage the framework below to quickly  
+empower your organization’s agile marketing strategy. ACCOUNT-BASED MARKETING
+ Framework
+ABM Capabilities
+AssessmentBuyer Persona 
+Template
+Decision Maker 
+Influencer MapABM Platform  
+Evaluation MatrixABM Program 
+Metrics Dashboard
+ABM Campaign 
+Planning Tool1
+Click the buttons below to access all related 
+training, tools, templates, and other resources.
+ABM Roles Matrix
+ABM Program 
+Budget TemplateAccount Scoring 
+ToolEngagio’s ABM 
+Market Map
+Owler
+Google Alerts2 3 4 5 6
+ABM Strategy  
+& AlignmentAccount 
+SelectionInsight 
+GenerationAccount 
+PlanningABM Campaign 
+ExecutionResults 
+Measurement
+ABM Tech Stack 
+ReportIdeal Customer 
+Profile TemplateABM Buying 
+Committee Diagram
+ABM Content Plan 
+Worksheet
+ABM Key Account 
+Planning CanvasABM Account Tiers 
+Worksheet
+Account & Product 
+Mapping Matrix 4
+ACCOUNT-BASED MARKETING
+Introduction2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results
+ABM Defined
+All effective marketers know that their job is to get the right 
+message to the right person in the right way at the right time. 
+Account-based marketing (ABM) is one specific way of doing exactly 
+that in the B2B setting, and as such, it’s hardly a new idea. 
+The coining of the term and associated buzz over the last five years is 
+the result of new technologies that allow marketers to implement the 
+strategy at scale.
+ABM’s core characteristics include identifying a subset of high-potential 
+accounts and collaborating with sales to personalize engagement with 
+each account’s stakeholders, thereby closing deals on accounts that 
+offer maximum bang for marketing department bucks. 
+Ultimately, it is a strategic B2B marketing approach that aligns sales and 
+marketing efforts to target the right accounts, resulting in more mean-
+ingful and profitable customer engagement.
+Many have heard of ABM by other names: target account 
+marketing or strategic account marketing. 1
+Align 
+Resources
+ 5
+ACCOUNT-BASED MARKETING
+Introduction2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results
+The ITSMA defines three different ABM tiers based on the level of personalization and technology used: 
+Strategic ABM
+One-to-one accounts
+“Creating and executing highly-customized 
+marketing plans for individual accounts”ABM Lite
+One-to-few accounts
+“Creating and executing lightly-customized programs 
+for clusters of accounts with similar issues and needs”Programmatic ABM
+One-to-many accounts
+“Leveraging technology to tailor marketing 
+campaigns for specific named accounts at scale”Market specific accounts at scale
+Leverages sales knowledge
+5-10 “second-tier” target accounts
+Tailored content and marketing 
+initiatives
+Customized marketing plants for 
+individual accounts
+Forge strong relationships with  
+most-valued stakeholders
+Strategic ABMABM LiteProgrammatic ABM
+One-to-one accountsOne-to-few accountsOne-to-many accountsABM Success Stories: A Tiered Approach1
+Align 
+Resources 6
+ACCOUNT-BASED MARKETING
+ABM Defined
+An effective ABM strategy consists of three broad phases: account plan-
+ning, engagement, and measurement. 
+Introduction2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources
+Within each phase, there are tasks to complete and milestones to reach.
+Before defining these steps in further detail, it’s important to highlight that 
+any new marketing strategy will require a crawl, walk, and run approach. 
+Often, an ABM pilot program is the ideal way to introduce the strategy 
+in a company.ACCOUNT PLANNING
+ENGAGEMENT
+MEASUREMENTBe sure to check our Ultimate Guide to ABM for more background on 
+account-based marketing.Helpful Resources
+VIEW RESOURCE
+DOWNLOAD GUIDE
+Sections of the guide include: 
+ ■What is ABM?
+ ■Why ABM?
+ ■ABM Success Stories
+ ■How To Implement ABM
+ ■ABM Troubleshooting
+ ■Action Plan 7
+ACCOUNT-BASED MARKETING
+How to Use this Playbook
+This document consists of six stages, each with a description, steps, 
+and action items. 
+Action items include using our premium tools and templates. Our inten-
+tion with this playbook is to guide you through account-based marketing 
+by helping you: Outputs from This Playbook
+Introduction2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results
+Align  your team
+Plan  for account-based marketingSelect  target accounts
+Execute  successful ABM campaigns
+Measure  the performance of your program1
+Align 
+Resources
+Stage 1 - Align Resources
+Stage 4 - Create PlansABM Capabilities Assessment, ABM Tech Stack Report,  
+ABM Roles Matrix, ABM Program Budget Template
+Ideal Customer Profile Template, ABM Account Tiers Worksheet, 
+Account & Product Mapping Matrix, Account Scoring Tool
+Buyer Persona Template, Decision Maker Influencer Map
+ABM Buying Committee Diagram, ABM Content Plan Worksheet, 
+ABM Key Account Planning Canvas
+Engagio’s ABM Market Map, ABM Platform Evaluation Matrix,  
+ABM Campaign Planning Tool   
+ABM Program Metrics DashboardStage 2 - Select Accounts
+Stage 5 - Execute CampaignsStage 3 - Generate Insights
+Stage 6 - Measure Results
+Align ResourcesSTAGE 1
+STEP 1: Evaluate Your ABM Capabilities
+STEP 2: Audit your Tech Stack
+STEP 3: Build your ABM Team
+STEP 4: Determine your ABM Budget
+ACCOUNT-BASED MARKETINGIn this first stage, you will evaluate your strategic capabilities,  
+align your team, and determine your ABM budget. 9
+ACCOUNT-BASED MARKETINGEvaluate Your ABM Capabilities Audit your Tech StackSTEP 1 STEP 2Introduction
+Align  
+Resources12
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results
+Action Item Action Item
+Benchmark yourself against 500+ organizations and get 
+personalized recommendations to improve your ABM 
+capabilities with our interactive assessment. Download a copy of the ABM Tech Stack Report to 
+better understand the ABM technology adoption curve 
+and the top 7 ABM challenges.
+If your ABM journey has already started, use our ABM Capabilities 
+Assessment to evaluate the following key processes:Demandbase and Demand Metric recently completed 
+research to illuminate the marketing technology stack 
+challenges B2B firms face as they execute Account-Based 
+Marketing (ABM) strategy.Account Selection
+Account Profiling
+Planning
+Content & Channels
+MeasurementVIEW RESOURCE
+DOWNLOAD RESEARCH
+ TAKE ASSESSMENT 10
+ACCOUNT-BASED MARKETINGBuild your ABM TeamSTEP 3Introduction
+Determine your ABM BudgetSTEP 4
+Align  
+Resources1
+Action Item Action Item
+Use the ABM Roles Matrix to understand the roles and 
+responsibilities of high-performing ABM teams.Use the ABM Program Budget Template to set and 
+track your overall ABM budget on a monthly and yearly 
+basis.
+This tool will help you identify and document responsibilities 
+for the following team members: Sections of the budget template include:
+ ■ABM Lead (Head of Marketing)
+ ■ABM Campaign Manager
+ ■Product Marketing
+ ■Account Development Reps 
+(BDR/SDR) ■Software
+ ■Advertising
+ ■Campaigns
+ ■Content
+ ■Training
+ ■Consulting ■Sales Leadership & 
+Account Executives
+ ■Executive Sponsors
+ ■Operations
+DOWNLOAD TEMPLATE
+ DOWNLOAD TEMPLATE2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results 11
+ACCOUNT-BASED MARKETINGSelect AccountsSTAGE 2
+STEP 1: Identify your Ideal Customer
+STEP 2: Categorize Account Entitlements
+STEP 3: Identify What to Sell
+STEP 4: Score Target Accounts
+ACCOUNT-BASED MARKETINGIn Stage 2, you will build an ideal customer profile,  
+determine account entitlements, identify which products or  
+solutions to sell, and evaluate target accounts. 12
+ACCOUNT-BASED MARKETING
+Select  
+Accounts2Introduction3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources
+Identify your Ideal CustomerSTEP 1
+Categorize Account EntitlementsSTEP 2
+Action Item Action Item
+Use the Ideal Customer Profile (ICP) Template to 
+describe the type of company that would benefit the 
+most from your products or solutions.Use our ABM Account Tiers Worksheet to create tiers 
+for the accounts that are included in your ABM program.
+Sections of the ICP template include: For each tier, make decisions about which marketing tactics 
+and channels you will use to engage them.  
+Use this matrix to communicate to your sales organization 
+which entitlements each tier of account is eligible for. ■Firmographics
+ ■Psychographics
+ ■Behavioural
+ ■Environmental
+DOWNLOAD TEMPLATE
+DOWNLOAD TEMPLATE 13
+ACCOUNT-BASED MARKETING
+Select  
+Accounts2Introduction3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources
+Identify What to SellSTEP 3
+Score Target AccountsSTEP 4
+Action Item Action Item
+Use our Account & Product Mapping Matrix to identify 
+which products or solutions you should sell into each 
+target account.Use our Account Scoring Tool to train sales reps on how 
+they can score each of their accounts to identify the key 
+accounts in their customer-base or sales territory.
+Conduct a white space analysis to identify new sales 
+opportunities that you can sell into your existing target 
+accounts. What criteria can you use to score accounts?
+DOWNLOAD TEMPLATE
+ ■Industry
+ ■Company Size
+ ■Decision Maker
+ ■Current Need
+ ■Opportunity Size
+ ■Purchase History
+DOWNLOAD TEMPLATE 14
+ACCOUNT-BASED MARKETINGGenerate InsightsSTAGE 3
+STEP 1: Identify Buyers and Create Personas
+STEP 2: Map Buyer Influence
+STEP 3: Capture & Socialize Account Insights
+ACCOUNT-BASED MARKETINGIn Stage 3, you will build buyer personas, evaluate key stakeholders at your 
+target accounts, and capture account insights. 15
+ACCOUNT-BASED MARKETING
+Action Item Action Item
+Use our Buyer Persona Template to create profiles of 
+the different personas in your target audience.Use our Decision Maker Influencer Map to evaluate key 
+stakeholders during a complex sale and to identify strat-
+egies that can influence the deal.
+Generate 
+Insights3
+Identify Buyers and Create Personas Map Buyer InfluenceSTEP 1 STEP 2
+A few important considerations might include: What goes into an influencer map?
+ ■Will you develop personas based on your existing 
+customers, prospective customers, both, or other?
+ ■Do you have enough information to create buyer personas 
+or is more research required?
+ ■Can you identify your customers’ “pain points”? ■Stakeholder Name
+ ■Decision Maker Role (executive, technical buyer)
+ ■Interest – how interested is the stakeholder in the deal?
+ ■Power – how much power does this person have?
+ ■Buy-In – what is their level of support?
+ ■Flexibility – how likely are they to change their mind?
+DOWNLOAD TEMPLATE
+ DOWNLOAD TEMPLATEIntroduction4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources2
+Select 
+Accounts 16
+ACCOUNT-BASED MARKETING
+Generate 
+Insights3Introduction4
+Create  
+Plans5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources2
+Select 
+Accounts
+There are a variety of solutions that can help you gain 
+account insights. Vendor solutions can be grouped into 
+the following categories:
+ ■Account Data
+ ■Contact Data
+ ■3rd Party Intent Data
+ ■Insights
+ ■Data Platforms
+For a less mature audience, account insights can be 
+captured by simply setting up news alerts using the 
+following technologies: Capture & Socialize Account InsightsSTEP 3
+SOURCE:  ENGAGIO’S ALL NEW ABM MARKET MAP
+ 17
+ACCOUNT-BASED MARKETINGCreate PlansSTAGE 4
+STEP 1: Identify Buying Committees
+STEP 2: Build a Content Plan
+STEP 3: Finalize Target Accounts Plans
+ACCOUNT-BASED MARKETINGIn Stage 4, you will identify buying committees, build content plans, and 
+create one-page action plans for your target accounts.  18
+ACCOUNT-BASED MARKETING
+Create  
+Plans4Introduction5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources2
+Select 
+Accounts3
+Generate 
+Insights
+Identify Buying Committees Build a Content PlanSTEP 1 STEP 2
+Action Item Action Item
+Use our ABM Buying Committee Diagram to help you 
+build a organizational chart for each of your target 
+accounts. Use our ABM Content Plan Worksheet to identify the 
+content assets that you will use at each stage of the 
+journey.
+The formatting provided in the template will make it easy 
+for you to identify the following key personas at your target 
+accounts: Identify the right content to use at each of the following 
+stages:
+ ■Deal Influencer
+ ■End User
+ ■Technical Buyer
+ ■Financial Buyer ■Prospecting/Needs Analysis
+ ■Qualification/Discovery
+ ■Demo/Consideration
+ ■Proposal/Decision
+ ■Contract/Implement
+DOWNLOAD TEMPLATE
+ DOWNLOAD TEMPLATE 19
+ACCOUNT-BASED MARKETING
+Create  
+Plans4Introduction5
+Execute 
+Campaigns6
+Measure 
+Results1
+Align 
+Resources2
+Select 
+Accounts3
+Generate 
+Insights
+Finalize Target Accounts PlansSTEP 3
+Action Item
+Use our ABM Key Account Planning Canvas to create a 
+one-page action plan for each of your target accounts.
+Sections of this template include: 
+ ■Account Overview
+ ■Budget
+ ■Opportunities
+ ■Revenue Forecast
+DOWNLOAD TEMPLATE
+ ■Engagement Plan
+ ■Pains & Challenges
+ ■Goals & Priorities
+ ■Next Steps
+ 20
+ACCOUNT-BASED MARKETINGExecute CampaignsSTAGE 5
+STEP 1: Review ABM Technology
+STEP 2: Evaluate ABM Technology
+STEP 3: Create Campaign Plans
+ACCOUNT-BASED MARKETINGIn Stage 5, you will review and evaluate ABM technology before  
+creating campaign plans to execute. 21
+ACCOUNT-BASED MARKETINGAction Item
+Execute 
+Campaigns5
+Review ABM Technology Evaluate ABM TechnologySTEP 1 STEP 2
+Action ItemIntroduction1
+Align 
+Resources2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans6
+Measure 
+Results
+Check out Engagio’s ABM Market Map for a compre-
+hensive listing of all the categories and vendors in ABM.
+Sections of the map include: 
+VIEW INFOGRAPHIC
+Use our ABM Platform Evaluation Matrix to compare 
+vendors against one another based on up-to-date ABM 
+technology requirements.
+Sections of this vendor evaluation include:
+ ■Target Account Selection
+ ■Account-Based Advertising
+ ■Website Personalization
+ ■Real-Time Intent Data
+ ■Identify Anonymous Website 
+Visitors ■Foundation
+ ■Data and Insights
+ ■Interactions
+ ■Orchestration
+ ■Measurement
+DOWNLOAD TEMPLATE
+ ■Account Engagement Scoring
+ ■Lead-to-Account Matching
+ ■Account-Based Lead Nurturing
+ ■ABM Campaign Orchestration
+ ■Analytics 22
+ACCOUNT-BASED MARKETINGAction Item
+Execute 
+Campaigns5
+Create Campaign PlansSTEP 3Introduction1
+Align 
+Resources2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans6
+Measure 
+Results
+Use our ABM Campaign Planning Tool to help you plan 
+successful marketing campaigns for each of your target 
+accounts. 
+DOWNLOAD TEMPLATE
+Document ABM campaign details such as:
+ ■Objectives & Budget
+ ■Channels & Messages
+ ■Success Goals
+ ■Campaign Theme ■Project Team
+ ■Touchpoints
+ ■Campaign Schedule 23
+ACCOUNT-BASED MARKETINGMeasure ResultsSTAGE 6
+Now that you have executed your campaign strategy, you can start to 
+measure the results of your Account-Based Marketing program.
+STEP 1: Measure Results
+ACCOUNT-BASED MARKETING 24
+ACCOUNT-BASED MARKETING
+Use our ABM Program Metrics Dashboard to help you 
+centralize your key ABM campaign metrics. 
+DOWNLOAD TEMPLATE
+All of the metrics in this template can be customized to suit 
+your organization’s needs. Baseline metrics include:
+ ■Marketing Qualified Accounts (MQAs)
+ ■Meetings Booked with Target Accounts
+ ■Target Account Opportunities
+ ■Target Accounts Won
+ ■Target Accounts Expanded
+ ■Annual Contract Value
+Measure  
+Results6
+Manage the process end-to-endSTEP 1
+Action ItemIntroduction1
+Align 
+Resources2
+Select 
+Accounts3
+Generate 
+Insights4
+Create  
+Plans5
+Execute 
+Campaigns
+Demand Metric helps Marketing teams get stuff done with practical tools, 
+training, and a simple, modern platform for managing work.
+Our analysts identify best practices from fast-growing companies and 
+build Playbooks & Toolkits, Guides & Reports, Training Courses, and Project 
+Templates to help you optimize your processes, add structure to your depart-
+ment, and get your team punching above their weight class.
+Manage your work visually with our easy-to-use platform, built for small 
+marketing teams by design. See what your team is working on at a glance 
+so you can spend less time managing projects and more time knocking 
+stuff off your list.
+Through strategic partnerships with the AMA, ANA, and AIPMM, our 1,000+ 
+time-saving tools & resources have become the industry standard. Don’t 
+start from scratch! 
+Sign up for a free trial at www.demandmetric.comAbout Demand Metric
+LEARN MORE© Demand Metric Research Corporation.  
+All Rights Reserved.
+www.demandmetric.com

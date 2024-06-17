@@ -1,0 +1,170 @@
+ARTIFICIAL INTELLIGENCE
+This new data poisoning tool lets artists ﬁght back against generative AI
+The tool, called Nightshade, messes up training data in ways that could cause serious damage to image-generating AI
+models. 
+By Me lissa Heikkilä
+October 23, 2023
+STEPHANIE ARNETT/MITTR | REIJKSMUSEUM, ENVATO
+A new tool lets artists add invisible changes to the pixels in their art before they upload it online so that if it’s scraped
+into an AI training set, it can cause the resulting model to break in chaotic and unpredictable ways. 
+ .800 R$58.900
+2011/2012R$54.900
+2011/2011
+4.790 R$69.900
+2014/2014R$69.900
+2014/2015
+SUBSCRIBE
+SUBSCRIBEThe tool, called Nightshade, is intended as a way to ﬁght back against AI companies that use artists’ work to train
+their models without the creator’s permission. Using it to “poison” this training data could damage future
+iterations of image-generating AI models, such as DALL-E, M idjourney, and Stable Diﬀusion, by rendering some
+of their outputs useless— dogs become cats, cars become cows, and so forth. M IT  Technology Review got an
+exclusive preview of the research, which has been submitted for peer review at computer security conference
+Usenix.   
+Advertiseme nt
+AI companies such as OpenAI, M eta, Google, and Stability AI are facing a slew of lawsuits from artists who claim
+that their copyrighted material and personal information was scraped without consent or compensation. Ben
+Zhao, a professor at the University of Chicago, who led the team that created Nightshade, says the hope is that it
+will help tip the power balance back from AI companies towards artists, by creating a powerful deterrent against
+disrespecting artists’ copyright and intellectual property. M eta, Google, Stability AI, and OpenAI did not respond
+to M IT Technology Review’s request for comment on how they might respond. 
+Zhao’s team also developed Glaze, a tool that allows artists to “mask” their own personal style to prevent it from
+being scraped by AI companies. It works in a similar way to Nightshade: by changing the pixels of images in
+subtle ways that are invisible to the human eye but manipulate machine-learning models to interpret the image
+as something diﬀerent from what it actually shows. 
+🎁 Give a gift subscription to MIT Technology Review and save 25%  for a
+limited time.
+The team intends to integrate Nightshade into Glaze, and artists can choose whether they want to use the data-
+poisoning tool or not. The team is also making Nightshade open source, which would allow others to tinker with
+it and make their own versions. The more people use it and make their own versions of it, the more powerful the
+tool becomes, Zhao says. The data sets for large AI models can consist of billions of images, so the more poisoned
+images can be scraped into the model, the more damage the technique will cause. 
+A targeted attack
+Nightshade exploits a security vulnerability in generative AI models, one arising from the fact that they are
+trained on vast amounts of data— in this case, images that have been hoovered from the internet. Nightshade
+messes with those images. 
+Artists who want to upload their work online but don’t want their images to be
+scraped by AI companies can upload them to Glaze and choose to mask it with
+an art style diﬀerent from theirs. They can then also opt to use Nightshade.
+Once AI developers scrape the internet to get more data to tweak an existing
+AI model or build a new one, these poisoned samples make their way into the
+model’s data set and cause it to malfunction. 
+Poisoned data samples can manipulate models into learning, for example, that
+images of hats are cakes, and images of handbags are toasters. The poisoned
+data is very diﬃcult to remove, as it requires tech companies to painstakingly ﬁnd and delete each corrupted
+sample. Related Story
+This artist is dominating AI-
+generated art. And he’s not
+happy about it.
+Greg Rutkowski is a more popular
+prompt than Picasso. SUBSCRIBEThe researchers tested the attack on Stable Diﬀusion’s latest models and on an AI model they trained themselves
+from scratch. W hen they fed Stable Diﬀusion just 50 poisoned images of dogs and then prompted it to create
+images of dogs itself, the output started looking weird— creatures with too many limbs and cartoonish faces.
+W ith 300 poisoned samples, an attacker can manipulate Stable Diﬀusion to generate images of dogs to look like
+cats. 
+COURTESY OF THE RESEARCHERS
+Generative AI models are excellent at making connections between words, which helps the poison spread.
+Nightshade infects not only the word “dog” but all similar concepts, such as “puppy,” “husky,” and “wolf.” The
+poison attack also works on tangentially related images. For example, if the model scraped a poisoned image for
+the prompt “fantasy art,” the prompts “dragon” and “a castle in The Lord of the Rings” would similarly be
+manipulated into something else. 
+Advertiseme nt
+SUBSCRIBECOURTESY OF THE RESEARCHERS
+Zhao admits there is a risk that people might abuse the data poisoning technique for malicious uses. However, he
+says attackers would need thousands of poisoned samples to inﬂict real damage on larger, more powerful models,
+as they are trained on billions of data samples. 
+“W e don’t yet know of robust defenses against these attacks. W e haven’t yet seen poisoning attacks on modern
+[machine learning] models in the wild, but it could be just a matter of time,” says Vi taly Shmatikov, a professor at
+Cornell University who studies AI model security and was not involved in the research. “The time to work on
+defenses is now,” Shmatikov adds.
+Gautam Kamath, an assistant professor at the University of W aterloo who researches data privacy and robustness
+in AI models and wasn’t involved in the study, says the work is “fantastic.” 
+The research shows that vulnerabilities “don’t magically go away for these new models, and in fact only become
+more serious,” Kamath says. “This is especially true as these models become more powerful and people place
+more trust in them, since the stakes only rise over time.” 
+Limited time: Save 25%
+Empower the tech enthusiast
+on your list by providing them
+access to emerging tech
+news, big picture perspectives
+& evolving trends.
+GIVE A GIFT & SAVE
+A powerful deterrentSUBSCRIBEARTIFICIAL INTELLIGENCEDEEP DIVE
+by Melissa Heikkilä
+Limited time: Save 25%
+Get access to the Hard Problems
+issue, which examines technology’s
+role in our lives, from AI, to social
+media, to politics and more.
+SUBSCRIB E & SAVEJunfeng Yang, a computer science professor at Columbia University, who has studied the security of deep-
+learning systems and wasn’t involved in the work, says Nightshade could have a big impact if it makes AI
+companies respect artists’ rights more— for example, by being more willing to pay out royalties.
+AI companies that have developed generative text-to-image models, such as Stability AI and OpenAI, have
+oﬀered to let artists opt out of having their images used to train future versions of the models. But artists say this
+is not enough. Eva Toorenent, an illustrator and artist who has used Glaze, says opt-out policies require artists to
+jump through hoops and still leave tech companies with all the power. 
+Toorenent hopes Nightshade will change the status quo. 
+“It is going to make [AI companies] think twice, because they have the possibility of destroying their entire
+model by taking our work without our consent,” she says. 
+Autumn Beverly, another artist, says tools like Nightshade and Glaze have given her the conﬁdence to post her
+work online again. She previously removed it from the internet after discovering it had been scraped without her
+consent into the popular LAION image database. 
+“I’m just really grateful that we have a tool that can help return the power back to the artists for their own work,”
+she says.
+SUBSCRIBERogue superintelligence and merging
+with machines: Inside the mind of
+OpenAI’s chief scientist
+An exclusive conversation with Ilya Sutskever on his fears for the
+future of AI and why they’ve made him change the focus of his
+life’s work.
+By Will Douglas Heaven
+Unpacking the hype
+around OpenAI’s rumored
+new Q* model
+If OpenAI's new model can solve grade-
+school math, it could pave the way for
+more powerful systems.
+By Melissa Heikkilä
+Minds of machines: The
+great AI consciousness
+conundrum
+Philosophers, cognitive scientists, and
+engineers are grappling with what it would
+take for AI to become conscious.
+By Grace HuckinsGoogle DeepMind’s new Gemini model
+looks amazing—b ut could signal peak AI
+hype
+It outmatches GPT-4 in almost all ways—b ut only by a little. Was
+the buzz worth it?
+By Melissa Heikkilä &Will Douglas Heaven
+SUBSCRIBEThe latest iteration of a legacy
+Founded at the Massachusetts Institute of Technology in 1899, MIT Technology Review is a world-
+renowned, independent media company whose insight, analysis, reviews, interviews and live events
+explain the newest technologies and their commercial, social and political impact.
+READ ABOUT OUR HISTORY
+Advertise with MIT Technology Review
+Elevate your brand to the forefront of conversation around emerging technologies that are radically
+transforming business. From event sponsorships to custom content to visually arresting video
+storytelling, advertising with MIT Technology Review creates opportunities for your brand to resonate
+with an unmatched audience of technology and business elite.
+STAY CONNECTED
+Illustration by Rose Wong
+Get the latest updates from
+MIT Technology Review
+Discover special offers, top stories, upcoming events, and more.
+Enter your email
+Privacy Policy
+SUBSCRIBEAbout us
+Careers
+Custom content
+Advertise with us
+International Editions
+Republishing
+MIT News
+Help & FAQ
+My subscription
+Editorial guidelines
+Privacy policy
+Terms of Service
+Write for us
+Contact us
+© 2023  MIT Technology ReviewADVERTISE WITH US

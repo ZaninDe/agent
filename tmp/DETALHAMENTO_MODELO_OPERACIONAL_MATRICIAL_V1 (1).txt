@@ -1,0 +1,58 @@
+2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALNOVO MODELO MATRICIAL.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALO modelo matricial é uma Matriz XY.XY2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALO que temos em X e em Y.X = DisciplinasY = Grupo de Clientes2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALDISCIPLINAS E GRUPOS DE CLIENTES.
+Disciplinas da TodayGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success00000CX - Consumer Experience00000UX - User Experience00000Criação/Conteúdo00000Community Management00000Mídia00000SEO00000Data Intelligence00000As disciplinas são as especializações (matérias) que a Today domina.XY2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALO PAPEL DAS DISCIPLINAS.
+Disciplinas da TodayGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success00000CX - Consumer Experience00000UX - User Experience00000Criação/Conteúdo00000Community Management00000Mídia00000SEO00000Data Intelligence00000Serem especialistas na matéria, com foco em desenvolver serviços com alta qualidade, agéis e surpreendentes.
+No exemplo acima temos a disciplina de Criação e Conteúdo. O objetivo dela é entregar um produto de alta qualidade para todos os grupos de clientes.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALO PAPEL DOS GRUPOS DE CLIENTES.
+Disciplinas da TodayGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success00000CX - Consumer Experience00000UX - User Experience00000Criação/Conteúdo00000Community Management00000Mídia00000SEO00000Data Intelligence00000Atenderem a totalidade do escopo de serviços contratado pelos clientes.
+No exemplo acima temos o Grupo Azul. Nele estão contidos clientes reunidos por similaridade de escopo, indústria ou por fazerem parte de um mesmo grupo econômico.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALHEADS DE DISCIPLINAS E DE GRUPOS DE CLIENTES.
+Disciplinas da TodayGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success00000CX - Consumer Experience00000UX - User Experience00000Criação/Conteúdo00000Community Management00000Mídia00000SEO00000Data Intelligence00000São responsáveis pela gestão do modelo.
+Na horizontal temos os heads de disciplinas que são responsáveis por todos os aspectos técnicos das disciplinas sob sua gestão. Na vertical os heads de grupos de clientes - Insiders - que são responsáveis pelos clientes.
+Insider
+Insider
+Insider
+Insider
+Insider
+2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALALOCAÇÃO DEDICADA DO TEMPO DOS PROFISSIONAIS.
+Disciplinas da TodayGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success22311CX - Consumer Experience-----UX - User Experience-----Criação/Conteúdo35322Community Management1-321Mídia1-111SEO-----Data Intelligence111--Como a distribuição do tempo é realizada.
+Nesse exemplo, temos a quantidade de pessoas das disciplinas e que ﬁcam com o seu tempo 100% dedicado para os grupos de clientes.
+Insider
+Insider
+Insider
+Insider
+Insider
+2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALALOCAÇÃO FLUTUANTE DE PROFISSIONAIS.
+Disciplinas da TodayFlutuanteGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success100000CX - Consumer Experience100000UX - User Experience100000Criação/Conteúdo400000Community Management200000Mídia200000SEO200000Data Intelligence400000São proﬁssionais cujo o tempo é compartilhado e utilizado para todos os grupos de clientes.
+Proﬁssionais que estão na alocação ﬂutuante não tem seu tempo dedicado a nenhum dos grupos de clientes. A sua alocação é de acordo com a demanda* e prioridades* estabelecidas.
+Insider
+Insider
+Insider
+Insider
+Insider
+* A gestão da demanda e das prioridades é do time de CS (Customer Success).2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALREGRAS PARA A ALOCAÇÃO.
+Disciplinas da TodayFlutuanteGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success122311CX - Consumer Experience1-----UX - User Experience1-----Criação/Conteúdo435322Community Management21-321Mídia21-111SEO2-----Data Intelligence4111--O modelo geral que deve ser utilizado para fazer a distribuição do tempo dedicado pelos proﬁssionais.
+Insider
+Insider
+Insider
+Insider
+Insider
+Seguem planilha de prioridade (para saber qual grupo/cliente é prioridade) e ferramenta de processos Pipefy.A alocação é de 100% dentro do grupo. Seguem ferramenta de processos Pipefy. *na ausência da ferramenta de processos, o time de CS seguirá planilha distribuída pela head de CS.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALPERIODICIDADE DE ALTERAÇÃO DAS ALOCAÇÕES.
+Disciplinas da TodayFlutuanteGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success122311CX - Consumer Experience1-----UX - User Experience1-----Criação/Conteúdo435322Community Management21-321Mídia21-111SEO2-----Data Intelligence4111--Quando pode mudar o planejamento de alocação.
+Insider
+Insider
+Insider
+Insider
+Insider
+Alterações semanais.Alterações bimensais*.* signiﬁca que um proﬁssional alocado para um determinado grupo poderá atuar em outro após 2 meses.Insiders e proﬁssionais de CS só podem ser trocados de grupo após profunda análise da gestão da Today.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALPAUTA INTRAGRUPO.
+Disciplinas da TodayFlutuanteGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success122311CX - Consumer Experience1-----UX - User Experience1-----Criação/Conteúdo435322Community Management21-321Mídia21-111SEO2-----Data Intelligence4111--A alocação da pauta dentro de cada grupo de cliente.
+Insider
+Insider
+Insider
+Insider
+Insider
+A pauta de trabalhos a ser entregue pelos proﬁssionais dedicados pode ser alterada diariamente dentro do grupo, sempre com a gestão do time de CS (demandas e prioridades) e com a anuência do líder da disciplina. Demandas extraordinárias e que superam a capacidade de alocação do grupo (ou a “senioridade” dos proﬁssionais), podem contar com o suporte do time ﬂutuante para serem entregues.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALPAUTA INTERGRUPOS.
+Disciplinas da TodayFlutuanteGrupo PretoGrupo AzulGrupo AmareloGrupo VermelhoGrupo RoxoCS - Customer Success122311CX - Consumer Experience1-----UX - User Experience1-----Criação/Conteúdo435322Community Management21-321Mídia21-111SEO2-----Data Intelligence4111--A alocação da pauta de trabalho de clientes de um grupo para proﬁssionais dedicados a outro grupo.
+Insider
+Insider
+Insider
+Insider
+Insider
+Essa alocação só pode ocorrer em situações extraordinárias e com a expressa autorização da head de CS.2018MODELO MATRICIAL - PROPRIEDADE CONFIDENCIALPAPÉIS NO PROCESSO DE ALOCAÇÃO.CS (Customer Experience)Heads de DisciplinasAnalisa e decide juntamente com os Insiders as demandas e suas prioridades para os clientes.Recebe as demandas priorizadas da equipe de CS. Deﬁne o melhor proﬁssional para realizar a entrega dentro das regras de alocação previamente deﬁnidas.Deﬁne a quantidades de proﬁssionais que devem ser alocados dentro de cada grupo e a quantidade que pode ﬁcar alocada na equipe ﬂutuante. *CS nunca deﬁne quais proﬁssionais, somente critérios de quantidade.Recebe de CS a orientação de quantos proﬁssionais tem para alocar em cada grupo e na equipe ﬂutuante. Deﬁne quais e onde os proﬁssionais ﬁcarão alocados.Gerencia a alocação intragrupo, com a anuência do head de disciplina.Analisa a qualidade ﬁnal do produto entregue pela pessoa  que foi deﬁnida para realizar a tarefa. Responsável por cobrar velocidade (cumprimento de prazos). É o guardião da alocação (tempo). *CS não deﬁne o tempo que cada proﬁssional vai para fazer o job. Essa informação vem do head de disciplina.Responsável por determinar o tempo de alocação que cada proﬁssional terá para realizar os jobs.Somente a head de CS pode autorizar a alocação de trabalhos intergrupos.Heads de disciplinas não tem autonomia para realizar alocação de trabalhos intergrupos sem a expressa anuência da head de CS.Avenida Paulista, 1374 - 5o andarWework FloorCep: 01310-100 - São Paulo, Brasilwww.today.ag

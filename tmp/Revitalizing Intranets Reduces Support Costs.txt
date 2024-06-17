@@ -1,0 +1,365 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Revitalizing Intranets Reduces Support Costs  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+This report has been designed to provide practical advice for revitalizing 
+and re -launching your corporate Intranet.  
+ 
+ 
+Read this brief 8-page report to learn:  
+ 
+ What is an Intranet?  
+ What are the Business Benefits?  
+ Common Content by Department  
+ Intranet Revitalization Best Practices  
+ 
+ 
+Read this report to learn how to audit the usage of your Intranet, assess 
+content & assign ownership, and re -launch your Intranet to save money 
+on support & administrative costs.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+Table of Contents                                Page  
+ 
+ 
+ 
+What is an Intranet?        3  
+ 
+What are the Business Benefits?       3  
+ 
+Common Content by Department      4  
+ 
+Intranet Revitalization Best Practices      6 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+What is an Intranet?  
+What are the Busines s Benefits?    
+ 
+ 
+ 
+ 
+An Intranet, or ‘portal’, is similar to an Internet website except that it is 
+restricted to users within an organization. (Intranets that extend outside 
+the company to partners or customers are called Extranets). Intranets 
+use web servers to distribute inf ormation, and users view content with 
+their Internet browser or by downloading documents.  
+  
+Many organizations select Intranets to share information among 
+employees since they can be built and maintained more cost -effectively 
+than other types of private networks or enterprise content management 
+& collaboration systems.  
+ 
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Although many organizations have implemented an Intranet, most 
+corporate Intranets in mid -sized companies are not well organized, user -
+friendly, or contain relevant content that is current and being 
+maintained by a designated content owner.  
+  
+ 
+These challenges aside, Intranets can provide many business benefits 
+including, but not limited to, the following five areas:  
+   
+1. Reduced Support Costs  - providing employees with a ‘self -
+service’  resource to find answers to their questions can 
+drastically reduce inter -office support calls, provided that 
+employees actually use the Intranet and know its contents.  
+ 
+2. Minimized Administrative Costs  - posting standardized 
+business processes, checklists, templates, and other materials 
+such as proposals, contracts,  or other commonly used 
+documents, will increase the efficiency of your operation and 
+provide a mechanism for version -control.  
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+Common Content by Department  3. Brand Consistency  - by maintaining documents at the Intranet 
+level, rather than having staff save them to their desktop, 
+Marketers have more control over their corporate brand & image, 
+reducing the risk of out -of-date materials being used in the field. 
+Monitoring download activity is a sound method to ensure that 
+your employees are in the habit of using the Intranet instead of a 
+desktop folder.  
+ 
+4. Improved Remote Access  - many employees would do work 
+outside the office if they had access to the information and tools 
+they need to be productive. As many intranets are internally 
+hosted they can be unreliable or slow to load, especia lly if remote 
+workers do not have a fast Internet connection. Adopting a 
+hosted solution can be very cost -effective, increase availability, 
+and provide usage analytics.  
+ 
+5. Employee Self -Service  - not only do successful Intranets 
+reduce helpdesk & support ca lls, but they also provide a faster 
+method for employees to get answers to their questions. This can 
+mitigate process bottlenecks for busy helpdesks, and provide a 
+better experience for an end -user, provided the Intranet is easy 
+to navigate.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+All corporate departments have information that needs to be provided to 
+employees. Following is a list of common Intranet contents made 
+available by departments. This list is not exhaustive but was generated 
+to stimulate further  thinking about what content your organization would 
+like to provide.    
+  
+ 
+Finance & Accounting  
+  
+ Payroll & Compensation Information  
+ Accounts Receivable/Payable & Budget Reports  
+ Expense Reimbursement Policies & Procedures  
+ Cost/Benefit, Business Case, or ROI templates  
+ Approval Processes for Capital Expenditures  
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+Human Resources  
+  
+ 401K and Employee Benefits Information  
+ Corporate Policies, Procedures, & Manuals  
+ Performance Reviews & Development Plans   
+ New Employee Orientation & Handbooks  
+ Training & Corporate Development Materials  
+  
+  
+Marketing  
+  
+ Corporate Logos & Marketing Collateral   
+ Sales Presentations, Proposals, & Scripts  
+ Tradeshow Checklists & ROI Calculators  
+ Press Releases & Investor Relation s Info  
+ Sponsorship Policies & Sustainability Reports  
+  
+  
+Sales & Customer Service  
+  
+ Service Level Agreements  
+ Standard Contracts & Agreements  
+ Customer Service & Sales Process Diagrams  
+ Funnel Reports & Sales Forecasts  
+ Client Lists, Testimonials, and Sales Tools  
+  
+  
+Information Technology  
+  
+ Helpdesk Frequently Asked Questions  
+ I/T Policies & Procedures  
+ Disaster Recovery Plans  
+ I/T Project Request Forms  
+ Strategic Information Technology Plans  
+  
+  
+Operations  
+  
+ Administration Processes   
+ Support for Creating New Processes   
+ Lean Manufacturing, ISO or Six Sigma info   
+ Purchasing Policies & Supply Chain Management   
+ Process Management Frameworks & Standards  
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+Intranet Revitalization Best Practices   
+ 
+   
+ 
+ 
+1. Conduct an Intranet Usage Survey  - use our Intranet Usage 
+Survey  template to identify which employees are actually using 
+the Intranet, how they using it, and to documen t areas for it to 
+be improved by department. This survey can be used to 
+benchmark your current situation and used again later to 
+demonstrate a measurable improvement and return on 
+investment for your revitalization project.  
+ 
+2. Develop a Project Plan  - use our Project Charter  to 
+document goals, objectives, timelines, and other pertinent 
+Intranet Revitalization Project information for senior 
+management to assess at a high level. Build a Business Case  if 
+required to justify any expenditures.  
+ 
+3. Evaluate Vendor Solutions  - if you are not already committed 
+to an Intranet platform, assess 3 -5 vendors to learn more about 
+your options. Intranet vendors generally fall into three 
+categories: Wiki providers (open -source and free), hosted portal 
+solutions such as iCentera (starti ng at ~$500/month), or 
+Enterprise Content Management & Collaboration solutions such 
+as Microsoft Sharepoint (up to $500,000+).  
+ 
+4. Engage the I/T Department  - discuss requirements with your 
+I/T Director and determine if your current solution will meet your 
+needs. If you require a new system, schedule the selection 
+process and customization project according to your project 
+timelines and availability of I/T resources.  
+ 
+5. Audit Content Ownership  - analyze your current intranet 
+content to determine who the conten t owners are, or if there is a 
+lack of ownership for any materials. Determine who should own 
+each type of content, and create a content publishing & approval 
+process. Many portal systems have inherent content publishing 
+functionality built -in to control wo rkflows and approvals, so 
+ensure this requirement is on your list.  
+ 
+6. Identify User Needs  - interview each department leader to 
+understand their Top 5 most common support call questions. Use 
+our Intranet FAQ Worksheet  to document these questions, 
+and determine the overall Top 10 most frequently asked 
+quest ions (FAQ).   
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+ 
+List the Top 10 FAQ’ s on the Intranet homepage to direct users 
+quickly to their area of i nterest, and l ist the Top 5 FAQ’ s on the 
+main page for each department to facilitate navigation.  
+ 
+7. Assess Intranet Content  - determine if your content is up -to-
+date, accurate, relevant, or missing. Document what needs to be 
+updated, created, refined, or removed from the  Intranet and 
+assign th ese tasks to the content owner.  
+ 
+8. Organize Intranet Content  - create a hierarchy, which is a 
+table of contents or site map, to organize your intranet content. 
+Speak to your web developer about site maps as they have most 
+likely built one for your corporate website and can provide 
+guidance with this task. Make this hierarchy available on the 
+homepage for quick and easy navigation to the pages that users 
+require. Task each content owner with updating their section of 
+the Intranet to prep are for the re -launch.  
+ 
+9. Design the Homepage  - be sure to include a ‘Search’ function, 
+Top FAQs, site map, and links to each department’s  section of 
+the Intranet. You may wish to include a section containing 
+company news, highlight project status reports, or provide other 
+content that will keep users coming back to the Intranet. Be sure 
+to change elements of your homepage to keep it fresh a nd 
+interesting.  
+ 
+10. Re-Launch the Intranet  - send out an email communication 
+regarding the re -launch of your Intranet to all employees. Attach 
+a Project Request Form  and indicate who the content owners 
+are for each department to ensure your employees know where 
+to turn when they need a new resource developed.  
+ 
+11. Conduct User Training  - once your content is uploaded and you 
+are ready to re -launch your Intranet, schedule  a meeting with 
+each department to provide user training. To ensure adoption, it 
+is critical that your users are fully aware of the contents on the 
+Intranet and that they are comfortable using the system.  
+ 
+12. Send Monthly Reminders  - deliver a monthly email to all 
+employees highlighting new content, common uses, or tips & 
+tricks to reinforce adoption rates and increase ROI. You need to 
+maintain mindshare for at least the first 3 months to ensure 
+project success. If you have analytics, monitor download activit y 
+and target users who have never logged in, or login very rarely.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 8 
+13. Re-Survey Intranet Usage  - use our Intranet Usage Survey  
+again three months after the re -launch to measure 
+improvements to usage and stimulate thinking for new content 
+requests.  
+ 
+14. Conduct a Post -Mortem  - use our Post-Project Evaluation  
+template to determine project  success and document any lessons 
+learned for future initiatives.  
+ 
+ 
+ 

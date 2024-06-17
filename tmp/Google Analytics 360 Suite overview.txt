@@ -1,0 +1,346 @@
+Google Analytics 360 Suite 
+What it is, and how it can improve your marketing 
+Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+The Analytics 360 Suite 
+ Google Analytics 360 Suite overview 
+Analytics 360 
+Tag Manager 360 
+Optimize 360 
+Data Studio 
+Attribution 360 
+Audience Center 360 
+Surveys 360 An integrated, 
+intelligent solution 
+Google Analytics 360 Suite is an all-in-one 
+solution that lets you improve your marketing 
+efforts and deliver a better customer experience. 
+Designed for enterprises, it integrates online and 
+offline data and puts everything from analytics to 
+attribution together in one powerful package. 
+So your enterprise can reach its goals, and get 
+better results every day. 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Analytics 360 
+Enterprise level 
+digital analytics 
+Tag Manager 
+360
+Superb tag 
+management 
+Optimize 360 
+Web testing and 
+personalization 
+Data Studio 
+Informative 
+dashboards and 
+reports 
+Attribution 360 
+Data driven 
+attribution 
+Audience 
+Center 360 
+Data management 
+platform 
+Surveys 360 
+Reliable market 
+research 
+The 360 Suite products Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Benefits and capabilities 
+● See all of your customer and 
+marketing data in one place 
+● Share insights to maximize your 
+company’s efforts 
+● Create customized experiences for 
+your visitors 
+● Seamlessly integrate Google and 3rd 
+party data sources 
+● Access everything in one 
+beautifully-integrated stack 
+● Control access across the suite 
+Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Analytics 360 
+Understand your users on a whole new level 
+Analytics 360 
+Google Analytics 360 gives you 
+enterprise-level tools to measure and 
+analyze data from all of your touchpoints, 
+giving you a deeper understanding of your 
+customer experience. Analytics 360 benefits 
+● Leverage powerful data collection 
+and management to create 
+meaningful analysis, visualization, 
+reporting, and activation 
+● Collect customer behavior data from 
+online and offline sources in one 
+place 
+● Analyze all of your advertising, so you 
+can evaluate user experience and 
+performance. Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Some special features worth noting 
+● Raw data access - unrestricted by data caps 
+● Multi-touch, data-driven attribution 
+● DoubleClick and BigQuery integrations that help 
+you build and analyze your programmatic efforts 
+● Enterprise-level service, support, and SLAs 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+How does Analytics 360 compare to Analytics? 
+Benefits Analytics 360 Analytics 
+Native onboarding AdWords, AdSense, Search Console, DoubleClick 
+AdExchange, Firebase, DoubleClick Bid Manager, 
+DoubleClick Campaign Manager, DoubleClick for 
+Publishers, and DoubleClick Search AdWords, AdSense, Search Console, 
+DoubleClick AdExchange, and Firebase 
+BigQuery Yes No
+Data freshness Every 4 hours or faster Not guaranteed 
+Views, custom dimensions, 
+custom metrics 400 views, 200 custom dimensions, 200 custom 
+metrics 200 views, 20 custom dimensions, 20 
+custom metrics 
+Funnels and attribution 
+modeling Advanced, customizable funnels and data-driven 
+attribution Basic funnels and attribution models Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Tag Manager 360 
+Easy, fast tagging Tag Manager 360 
+Google Tag Manager 360 is a powerful tag 
+management tool that gives you full control 
+of how your tags are defined and fired. 
+It also gives you control over versions and 
+account roles, and lets you quickly deploy 
+Google and 3rd party tags. 
+That means you can launch programs 
+faster, and make swifter decisions. 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Create, change, 
+and manage tags 
+and personnel with 
+ease 
+Access increased 
+security features 
+that allow version 
+control, as well as 
+black and white 
+lists
+Test and 
+collaborate across 
+teams with 
+unlimited custom 
+environments 
+Enjoy integration 
+with the entire 360 
+Suite 
+Get 
+enterprise-level 
+service, support, 
+and SLAs 
+Tag Manager 360 benefits 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+How does GTM 360 compare to GTM? 
+Benefits Tag Manager 360 Tag Manager 
+Workspaces for concurrent 
+tagging projects Unlimited 3
+User and account 
+administration Google Analytics 360 Suite 
+administration Basic 
+Implementation services No Yes
+Support Enterprise-level service, support, 
+and SLAs Self-service Help Center and 
+community forums Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Optimize 360 
+Test, adapt and personalize your site Optimize 360 (beta) 
+Google Optimize 360 is an easy-to-use 
+website testing and optimization tool. 
+Use it to test variations of your website and 
+deliver personalized customer experiences 
+that work for your visitors - and your 
+business. 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Optimize 360 benefits 
+● Implement your customer insights smoothly and 
+efficiently 
+● Create content that fits the moment 
+● Run complex, multivariate testing 
+● Use a visual editor to create multiple experiments 
+● Deliver personalized experiences to your custom 
+segments 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Full multivariate 
+testing to unlock 
+your website’s true 
+potential 
+A WYSIWYG, drag 
+and drop editor 
+Ad hoc experiment 
+objectives that let 
+you test your goals 
+Enjoy integration 
+with the entire 360 
+Suite 
+Enterprise-level 
+service, support, 
+and SLAs 
+Some special features worth noting Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+How does Optimize 360 compare to Optimize? 
+Benefits Optimize 360 Optimize 
+Google Analytics audience 
+targeting Yes No (can only target all traffic) 
+Multivariate testing Full Limited 
+Simultaneous experiments Advanced Basic Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Data Studio 
+Dashboards that lead to insights Data Studio 
+Google Data Studio turns your data into 
+dashboards and reports that are easy to 
+read, easy to share, and fully customizable. 
+So you can enjoy better data visualization, 
+and make better business decisions. 
+Data Studio integrates seamlessly with your 
+Google data, as well as a growing list of 3rd 
+party programs. 
+Data Studio benefits 
+● Combine several data sources and 
+put them all to work 
+● Share, collaborate, and control your 
+dashboards 
+● Create dynamic reports with 
+interactive controls based on the 
+dimensions that matter most to you 
+● Access reusable templates for 
+creating quick, professional looking 
+reports 
+● Generate unlimited reports - for free 
+Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Attribution 360 
+Give credit where credit is due Attribution 360 
+Attribution 360 (formerly Adometry) brings 
+together online and offline media to let you 
+measure and optimize marketing spend 
+across all channels. 
+Measure the impact of your ads, make 
+better decisions, and improve the customer 
+experience and ROI. 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Understand where 
+all of your 
+customers are 
+coming from 
+Get TV, digital, and 
+marketing mix 
+attribution and 
+modeling all in one 
+place 
+Leverage 
+integrated insights 
+and machine 
+learning 
+Leverage integrated 
+real time bidding 
+optimization 
+View your entire 
+marketing picture 
+or drill down into 
+specific channels 
+Attribution 360 benefits Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Some special features worth noting 
+● Airings data and digital response data that lets 
+you understand how TV works 
+● Integration with DoubleClick Campaign Manager, 
+to improve programmatic success 
+● Leverages Google’s full machine learning to 
+measure the effect of each ad 
+● Offline conversion connector so you can 
+understand which in-store sales are connected to 
+your digital marketing 
+● Enterprise-level service, support, and SLAs 
+$1.9B $577M $358M $164M $150M $149M Cumulative Discrete Total sales 
+Baseline
+Paid search
+Television
+Affiliate
+Email
+Digital video
+Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Audience Center 360 
+Understand your most valuable customers Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Audience Center 360 
+Google Audience Center 360 is a data management 
+platform that collects and organizes all your data 
+sources. 
+It lets you identify your most valuable audiences, so you 
+can reach them with the right message at the right 
+moment. 
+Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Create incredible, 
+actionable 
+audiences from all 
+of your data 
+Get up and running 
+and gain powerful 
+insights in just 24 
+hours 
+Build, segment and 
+test audiences to 
+optimize your 
+marketing efforts 
+Audience Center 360 benefits Some special features 
+worth noting 
+● Native integrations with Google 
+products, giving you seamless 
+access to your campaign, audience, 
+and usage data 
+● Analytics and reporting on ads, 
+audiences, and locations 
+● A/B/n testing up to 10 groups in a 
+test
+● Integration with Google and 3rd party 
+sources, both incoming and outgoing 
+● Cross-channel ad frequency caps to 
+optimize messaging 
+● Enterprise-level service, support, and 
+SLAs 
+Proprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Surveys 360 
+Make better decisions with market research Surveys 360 
+Google Surveys makes it easy to get fast, 
+reliable insights from consumers across the 
+internet and on mobile devices. 
+Ask consumers questions important to your 
+business, get accurate answers, and unlock 
+meaningful insights you can use in your 
+business. Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Ask your 
+customers what 
+they think, directly 
+Ask the right 
+audience by 
+targeting user lists 
+and zip codes 
+See results from 
+highly-accurate 
+representative 
+samples 
+Offer incentives to 
+increase response 
+rates 
+Generate 
+actionable, 
+analyzed data that 
+is easily shared 
+Surveys 360 benefits Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+Some special features worth noting 
+● Occupation and industry targeting for hard to 
+reach audiences 
+● Option to generate online ratings that show up in 
+Google searches 
+● Survey respondents across multiple devices, 
+including your website 
+● User-list targeting 
+● Enterprise-level service, support, and SLAs Source:  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis non erat sem 
+How does Surveys 360 compare to Surveys? 
+Benefits Surveys 360 Surveys 
+Zip code targeting Yes No
+Custom panels Yes No
+Occupation and industry 
+targeting Yes NoProprietary + Confidential Proprietary + Confidential Proprietary + Confidential 
+Ready for better integration, 
+insights and results? 
+Get started with the Google Analytics 360 Suite 
+google.com/analytics/360-suite/ 

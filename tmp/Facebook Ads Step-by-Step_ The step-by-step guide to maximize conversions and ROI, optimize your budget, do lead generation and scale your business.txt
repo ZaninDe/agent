@@ -1,0 +1,1672 @@
+FACEBOOK ADS
+STEP-BY-STEP
+The step-by-step guide to maximize conversions and
+ROI, optimize your budget, do lead generation and
+scale your business
+Bryan Bren
+© Copyright 2023 - All Rights Reserved
+The contents of this book may not be reproduced, duplicated, or transmitted without the direct written
+permission of the author or publisher. Under no circumstances shall the publisher, or the author, be
+held legally responsible or liable for any damages, repairs, or monetary losses due to the information
+contained in this book. Either directly or indirectly.
+Legal notice: This book is copyrighted. This book is for personal use only. You may not modify,
+distribute, sell, use, quote, or paraphrase any part, or the content within this book, without the consent
+of the author or publisher. Disclaimer: Please note that the information contained in this document is
+for educational and entertainment purposes only. Every effort has been made to present accurate, up-
+to-date, reliable, and complete information. No warranty of any kind is stated or implied. Readers
+acknowledge that the author makes no commitment to provide legal, financial, medical, or
+professional advice. The contents of this book have been derived from various sources. Please consult
+a licensed professional before attempting any of the techniques described in this book. By reading this
+document, the reader agrees that under no circumstances is the author liable for any losses, direct or
+indirect, incurred as a result of the use of the information contained in this document, including, but
+not limited to, errors, omissions, or inaccuracies.Summary
+Introduction
+Chapter 1: How does advertising work?
+Chapter 2: Facebook Ads, benefits and marketing goals
+Chapter 3: The skeleton of a campaign
+Chapter 4: How to best set up your account
+Chapter 5: Monitoring your campaigns
+Chapter 6: Retargeting
+Chapter 7: Lookalike
+Chapter 8: Bidding strategies. Target cost vs discount bidding
+Chapter 9: The five most common mistakes to avoid
+Chapter 10: Artificial Intelligence and Facebook Ads
+ConclusionIntroduction
+In the digital age in which we live, online advertising has become a crucial
+element for companies wishing to reach their audiences effectively and
+efficiently. Among the various advertising platforms available, Facebook Ads
+has emerged as one of the most powerful and versatile. This book, "Facebook
+Ads Step-By-Step," is designed to help you understand, master, and leverage
+the full potential of Facebook Ads to achieve your marketing goals.
+The book is structured into ten chapters, each focusing on a specific aspect of
+Facebook Ads, providing a detailed overview, practical tips, and suggestions
+for success.
+Facebook Ads is a powerful tool for promoting your business online. This
+step-by-step manual will take you through every aspect of Facebook Ads,
+from understanding the fundamentals of advertising to creating advanced
+strategies to achieve relevant results. Facebook Ads offers the opportunity to
+reach highly targeted audiences, increasing brand awareness, conversions and
+sales. Along the way, we will explore the different types of ads, tactics for
+optimizing your ad account, campaign tracking, and more. Whether you're a
+beginner or a marketer with some experience, this guide will provide you
+with the tools you need to make the best use of Facebook Ads, achieve your
+marketing goals, and get up to speed on what's new on the platform. Let's
+begin the journey into the universe of Facebook Ads.
+Below you will find an introduction to the chapters that are contained in this
+book.Chapter 1: How does advertising work?
+In this introductory chapter, we will explore the fundamentals of advertising.
+Knowing the different types of advertising, such as mythical, referential,
+substantive, and oblique, will help us better understand how advertising
+campaigns work in general.Chapter 2: Facebook Ads, benefits and marketing goals
+Here we will delve into the benefits of using Facebook Ads as part of your
+marketing strategy. We will learn how to clearly define marketing goals and
+how Facebook Ads can help you achieve them.Chapter 3: The skeleton of a campaign
+This chapter will break down the key elements of a Facebook ad campaign.
+You will learn how to create engaging ads tailored to your target audience.Chapter 4: Getting into the swing of things: how to best set up
+your account
+Here we will provide detailed guidance on how to set up and configure a
+Facebook advertising account. We will explore targeting options to reach the
+right audience.Chapter 5: Monitoring your campaigns
+Measuring the effectiveness of your campaigns is essential. In this chapter,
+you will discover key tools and metrics for monitoring performance, as well
+as how to optimize campaigns based on the data you collect.Chapter 6: Retargeting
+Retargeting is a key strategy for re-engaging website visitors. You will learn
+how to use it to increase conversions and maximize ROI.Chapter 7: Lookalike
+Audiences similar to your best customers can expand the reach of your
+campaigns. You will explore how to maximize the effectiveness of targeting
+strategies.Chapter 8: Bidding Strategies
+You will learn how to set up competitive bidding to get the desired results.
+You will explore different bidding strategies based on campaign goals.Chapter 9: The five most common mistakes to avoid
+Identify common mistakes in Facebook Ads campaigns and learn how to
+avoid them to maximize the success of your ads.Chapter 10: Artificial Intelligence and Facebook Ads
+Artificial intelligence is revolutionizing Facebook ads. In this chapter, you
+will learn how AI can improve the effectiveness of your advertising
+campaigns and how to integrate it into your strategy.
+Each chapter will take you step by step through the knowledge and tactics
+needed to master Facebook Ads. This guide will provide you with the basics
+to achieve outstanding results with Facebook Ads campaigns.Chapter 1:
+How does advertising work?
+The chapter begins with an intriguing question: how many advertisements do
+we see in a day? In the 1970s, a survey in the United States found that a
+person saw between 500 and 1,600 advertisements a day. A more recent
+survey, conducted in 2007 by the Young Institute, explored this more
+scientifically and accurately. They involved 4,110 volunteers who closely
+monitored how many advertisements they encountered each day.
+According to this study, in 2007, an average person saw more than 5,000
+advertisements per day. This included a wide range of advertisements, such
+as supermarket flyers, street billboards, radio spots, television commercials,
+and online advertisements.
+In 2023 we must consider the impact of the digital revolution and
+smartphones. The widespread use of smartphones has created new spaces for
+advertising, with ads appearing while browsing the web, using apps, and on
+social media.
+One surprising statistic is that today a person might see more than 10,000
+advertisements a day. This number is impressive, but how does a single
+advertisement stand out among this myriad of ads?
+Companies continue to invest in advertising because it works. One example
+is Google, which earned $134 billion in advertising in 2019. Companies
+invest in advertising because it brings results, otherwise they would be doing
+something else.
+So how does the psychological mechanism that makes an advertisement
+effective work?
+In short, successful advertisements address the emotions and needs of
+consumers, seeking to create a link between the advertised product or service
+and the desires of the audience.
+Thus, the effectiveness of advertisements is related to their ability toemotionally engage audiences and satisfy their needs.
+I introduce a concept called the "semiotic square" as a key to understanding
+how advertisements work. This may sound complicated, but let's try to
+simplify it.
+The semiotic square is a scheme that is used to classify concepts and ideas
+within advertisements. It may look complicated when you look at it, but the
+basic concept is quite intuitive.
+First, if you type "semiotic square" into Google you can get a representation
+of what I am about to explain.
+Imagine the semiotic square as a way of organizing ideas. In the center is a
+main concept (e.g., "White") and around it, there are other related ideas. For
+example, "Black" is the opposite of "White." There are horizontal arrows
+connecting the opposite concepts. Then there are diagonal arrows that
+represent a relationship of contradiction. For example, "Not White" is in
+contradiction with "White."
+Finally, there are vertical dotted lines that represent complementarity. For
+example, "Black" and "Not White" are complementary, meaning that if one is
+true, the other is false. Although they do not represent the same thing, they
+complement each other.
+So basically, "White" and "Black" are opposites, while "White" and "Not
+White" are contradictory. Likewise, "Black" and "Not White" are
+complementary.
+This approach may seem complicated when applied to philosophies or
+theories within advertisements. However, its purpose is to simplify our
+understanding of the relationships between concepts and ideas in
+advertisements, helping us to better understand how they work.
+Experts in advertising create an in-depth and interesting reading of the
+rhetoric and ideology on which advertising messages are based. Jean Marie
+Flock is one of the most prominent semioticians in the field of advertising
+and has spent much time studying how philosophy and ideology are reflected
+in advertising messages.So-called referential advertising focuses on truth, although this truth need not
+be objective. The goal is for the audience to perceive the message as truthful.
+For example, think of advertisements for toothpaste in which a dentist or
+doctor in a white coat promotes the product. This authority figure is used to
+instill a sense of objectivity and trust in consumers. Although the dentist may
+not have a direct interest in the company, his professional role makes him a
+credible reference, and this helps sell the product.
+On the other hand, the so-called mythical advertising philosophy is the
+opposite of referential. In this approach, advertising uses symbols, myths and
+narratives to create an atmosphere or image around the product. This type of
+advertising is not based on objective truth, but rather on building an
+emotional experience or idea around the brand.
+Let's delve into these concepts.
+The mythical advertisement
+Mythical advertising relies on testimonials or symbols that do not provide
+objective data about the product, but rather create a magical atmosphere
+around it. For example, when you see a famous model or actor promoting a
+perfume, the advertisement suggests that by purchasing that perfume, you
+will be able to access a magical world or dream, symbolized by these
+celebrities. Buying the product becomes a passport to this enchanted world.
+Mythical advertising leverages the creation of an illusion that justifies the
+price of the product.
+On the other hand, referential advertising relies on objective data and
+statistics to prove the value of the product. For example, if they show you a
+statistic demonstrating the effectiveness of a hair care product, this is the key
+to convincing you to buy it. Instead of creating a dream, referential
+advertising focuses on concrete demonstration of the product's qualities.
+Substantive advertising, on the other hand, is mainly used for food products.
+In this case, advertising focuses on the visual presentation of the product
+itself, emphasizing the attractive and inviting appearance. For example, when
+you see photographs of the food in the restaurant or the pictures on product
+packaging in the supermarket, you are stimulated to have an appetite. In thisadvertising philosophy, the product is assumed to speak for itself, and a
+subjective approach or someone else's testimony is not needed to convince
+the consumer of the product's appeal.
+Thus, there are four main approaches in advertising that try to influence
+people in different ways.
+Referential Advertising
+: This advertising as written earlier is based on
+objective truth. They use statistics and hard data to prove the value of the
+product. For example, if you see an ad showing how much a certain
+toothpaste reduces tooth decay, this is referential advertising. It does not need
+to create a special atmosphere or a dream, but relies on facts to convince you
+of the product's effectiveness.
+Mythical Advertising
+: This type of advertising creates an enchanted world
+around the product. It makes use of famous testimonials or symbols to arouse
+emotions and dreams in consumers. For example, when a famous actor or
+model promotes a perfume, the goal is to make you feel as if by purchasing
+that perfume, you will become part of a magical world. Mythical advertising
+focuses on creating an illusion that justifies the price of the product.
+Substantive Advertising
+: This type of advertising is often used for food
+products. It is based on the visual aspect of the product itself, showing
+attractive and inviting images. For example, when you see images of
+delicious food on a package or in a restaurant, the goal is to make your mouth
+water. Communication is based on the tangible appearance of the product,
+without the need for additional explanation.
+Oblique Advertising
+: This approach is a little different from the others.
+Oblique advertising does not follow a direct communication model. Instead,
+it relies on the interpretation of the subject. These advertisements can be
+complex, ironic, and difficult to understand initially. However, they are
+memorable because they require the consumer to engage in a kind of
+"discovery" of meaning. This is often used for products or services that
+cannot be directly and tangibly explained, such as some complex digital apps.
+The advertiser or marketer seeks to reach his audience effectively. To do this,
+he must consider who the target audience is and adapt the advertising
+approach accordingly. This means that the way an advertisement isconstructed depends on the type of people it is aimed at.
+Imagine the world of television as a diverse audience. If an advertiser wants
+to promote an app, he or she may realize that not all television viewers are
+interested in the product. So instead of targeting everyone, he tries to reach a
+small elite of people who might be interested.
+The key point here is that oblique advertising requires the consumer to
+actively participate by interpreting the message. If you can do this, you will
+feel part of the message itself, which can make you feel special or "above
+average."
+On television, many digital-related advertisements follow this oblique
+approach. However, it is important to note that there is no fixed rule that says
+a type of product must necessarily take a certain advertising approach. The
+choice depends on the advertiser's strategy and target audience.
+Marketing choices are not rigid, and an advertisement does not always have
+to follow a specific philosophy. For example, the same object, such as an
+automobile, can be advertised in different ways, touching on all four aspects
+of advertising: referential, mythical, substantive, and oblique.
+Let us now apply the theoretical framework presented in this chapter to the
+specific case of the automobile.
+Referential Advertising
+: If you promote a car in this way, the emphasis will
+be on the practicality and reliability of the vehicle. Objective data such as
+comfort and performance will be emphasized. The message is that the
+consumer should choose that car because it is a practical and reliable choice.
+Mythic Advertisement
+: In contrast, in a mythic advertisement for a car, the
+emphasis will be on creating an image. By buying that car, the consumer is
+making a statement of identity, seeking adventure and dreaming. The car
+becomes a symbol of who you are and what you want to express to yourself
+and others.
+Substantive 
+Advertising: This type of advertising focuses on the visual
+presentation of the product. The car will be shown in all its beauty andpower. The advertisement will try to bring out the appearance and quality of
+the vehicle. This type of approach is often used for luxury cars.
+Oblique 
+Advertising: This advertising is more complex and requires some
+interpretation on the part of the consumer. The 'car purchase is linked to an
+identity claim within a smaller group. The person who buys that car wants to
+be recognized as part of an exclusive circle. It is not obvious or obvious, but
+it appeals to specific consumer intelligence. This type of advertising often
+resorts to irony by enhancing the product in a playful way and emphasizing
+the pleasure that ownership provides.
+So even though we are talking about the same product category, the car, the
+choice of how to advertise it can vary greatly 
+depending on the goals and
+target audience. Advertising may aim for practicality, dreaminess, visual
+appeal, or a deeper understanding of the consumer.
+In advertising communication, there are several ways to create an identity and
+connection with the audience. This can be done through critical enhancement,
+which is similar to substantive rhetoric. In this case, emphasis is placed on
+perfect logic, costs and benefits, and value for money. This type of
+communication is based on objective data and logic.
+However, in a world where communication is fast and slogans are short, we
+only have a few seconds to capture the audience's attention. Instead of
+explaining in detail who we are and what we do, it is often more effective to
+emphasize who we are not, who the outsider is. This creates a sense of
+identity and belonging more clearly and efficiently. This is especially
+important for businesses.
+Therefore, communication today often focuses on who to exclude rather than
+who to include, as it is a quicker and more effective way to create identity
+and involvement. This approach can also be seen in politics, where declaring
+who is the "enemy" or who is different creates a sense of belonging and
+vindication.
+Reflecting on advertising communication can thus give us a better
+understanding of how certain mechanisms and identity choices work in thecontemporary world, where speed is of the essence and we often work by
+exclusion rather than inclusion.
+This first chapter is designed to give the reader an idea of the theory behind
+the advertising gimmicks we see every day. I recommend using the four types
+of advertising to devise the content of your Facebook ad campaigns, trying to
+promote your 
+product or service through all four types we saw just now so
+you can test which one works best with your audience.Chapter 2:
+Facebook Ads, benefits and marketing goals
+Let's now get into the meat of Facebook Ads by listing some of the
+advantages that make Facebook one of the most widely used tools in the
+world for generating paid traffic.
+Intercepting latent demand
+Facebook Ads offer you a significant advantage in reaching potential
+customers who may not yet have expressed an active interest in your product
+or service. This is what we mean by "latent demand." A concrete example: as
+you walk down the street, you smell freshly baked croissants. Although you
+were not initially thinking of buying one, the smell triggers in you the desire
+to buy one. This is an example of latent demand that can be captured through
+Facebook Ads.
+Reaching the right audience
+Facebook allows you to precisely define your target audience. You can target
+people who have shown a past interest in your industry or product. For
+example, if you run a gym, you can show your ads to people interested in
+fitness or workout programs similar to yours, instead of showing them to a
+general 
+audience. This allows you to maximize the effectiveness of your
+promotion.
+Real-time monitoring of results
+Unlike traditional advertising, where once you print a poster or post a flyer
+you can no longer make changes, Facebook Ads allows you to constantly
+monitor the results of your campaigns in real time. You can see who is
+interacting with your ads, how many users are seeing them, and more. This
+level of analytics allows you to make changes and optimize your advertising
+strategy at any time.Continuous optimization of results
+With the ability to analyze data in real time, you can constantly optimize your
+campaigns. If you notice that an ad is performing particularly well, you can
+increase the budget or replicate it. Conversely, if an ad is not getting the
+desired results, you can make changes or discontinue it. This flexibility
+allows you to get the maximum return from your advertising budget.
+Low cost
+A notable advantage of Facebook Ads is the ability to reach a large audience
+with a relatively low budget. For example, with one euro of investment, you
+can potentially reach about 1,000 potential customers who are highly
+interested in your product or service. However, it is important to note that
+competition is 
+growing on these platforms and costs may increase over time.
+Therefore, it is essential to take this variable into account in the future.
+In summary, Facebook Ads offer a number of advantages, including the
+ability to reach latent demand, precisely define your target audience, monitor
+and optimize results in real time, and keep costs relatively low. These factors
+make Facebook advertising a powerful option for local businesses and
+professionals who wish to promote their products or services online.
+Marketing goals
+This section explains how the choice of the target of a Facebook ad campaign
+directly influences the way ads are distributed.
+Importance of lens choice
+Selecting the target of a Facebook ad campaign is a crucial step. This choice
+will define the behavior of Facebook's algorithm during ad distribution. In
+other words, it will determine who will see the ads and how they will be
+presented. Choosing the wrong target could result in ineffective ad
+distribution and a disappointing return on investment.Example of two campaigns
+To make the concept clearer, let us consider a practical example. Let's
+imagine that we create two ad campaigns that are identical 
+in all details
+except for the objective. One campaign has the goal of "interactions," which
+seeks to encourage users to like, comment, share or save the ad. The other
+campaign has the goal of "conversions," which seeks to push users to take
+specific actions such as a purchase on the website.
+Audience segmentation
+Facebook uses the selected goal to divide the audience into groups. If you
+choose the "interactions" goal, Facebook will look for people who are usually
+more likely to engage with your content, such as by liking or commenting.
+For the "conversions" goal, Facebook will identify those who are statistically
+more likely to buy from your website.
+Different results
+Because of the difference in objective, these two campaigns will have
+different results. The "interactions" campaign will mainly generate
+interactions, but may have few conversions. In contrast, the "conversions"
+campaign will mainly result in conversions (purchases on the website).Facebook campaign goals
+Facebook groups campaign goals into three main categories: brand
+awareness, consideration, and conversion. In the "brand awareness" category,
+you will find goals such as "local relevance" to increase visibility. In the
+"consideration" category, there are goals such as "traffic" and "interactions"
+to engage the 
+user. In the "conversion" category, you will find goals such as
+"purchases" and "contact generation" to push users to take specific actions.
+Pixel optimization
+The Facebook "pixel" is a key component for tracking conversions on your
+website. The pixel collects data on user behavior. When properly configured,
+it gives Facebook valuable information to optimize ad distribution. Without
+the pixel, Facebook cannot adequately measure user behavior on your site.
+We will explore this in more detail in chapter four.
+Examples of specific campaign objectives
+The section examines specific goals such as "traffic" (to increase website
+visits), "interactions" (to encourage users to interact with ads), "video
+viewing" (to promote video viewing), and "conversion" (to get specific
+actions such as purchases). Each objective is suitable for different purposes.
+Testing and data analysis
+Experimenting with different campaign targets is critical. Closely monitoring
+data, such as cost per conversion or effectiveness of targeting options, is
+essential. Data analysis will help you understand what works best for your
+business and optimize your Facebook ad campaigns.
+Ultimately, choosing the right target for your Facebook ad campaign is a
+strategic decision that will greatly influence 
+results. Understanding how these
+targets work will allow you to plan and optimize your campaigns more
+effectively.Chapter 3:
+The skeleton of a campaign
+In this chapter I will guide you through the creation of a Facebook Ads
+campaign in a simple and clear way. As stated earlier, Facebook Ads is a
+Facebook advertising tool that allows you to promote your business, services
+or products, and attract new customers. When you scroll through your feed
+on Instagram or Facebook you see ads from third-party advertisers. Here, you
+will be like them.
+Creating an advertising campaign is not difficult, but there are some
+strategies to apply to make it work best. Personally, I use Facebook Ads to
+promote my services and activities, and I also do it to help third parties with
+online marketing. If you are interested in anything in particular, you can
+contact me by email at support@ewritinghub.com.
+Now, without further ado, let's go to see how Facebook Ads works.
+To get started, you will need to search for "Business Manager" on Google.
+Once you do, you should see the first result, which is "Business Manager
+Suite." If you click on this result, you will be taken to the administration
+page.
+Here, you will see the advertising accounts you have created in the past, but
+if you don't have one yet, the system will guide you in creating a Business
+Manager account linked to your Facebook account.
+Now, to begin creating an ad campaign, click on the "Ads" section in the
+drop-down menu on the left. This section will show you a list of campaigns
+you have created in the past and allow you to create a new one by clicking
+"Create."
+When you start creating a new campaign, the first thing you will be asked is
+the marketing objective. You need to decide what you want to achieve with
+this campaign. For example, if you sell products or services on a website and
+have a Facebook page, you might select "Get more calls" to be contacted by
+more potential customers. Otherwise, if you want to increase traffic to yourwebsite, you could choose "Traffic." There are many other options including
+"Interaction" if you want more likes and comments on your posts, and so on.
+You can also choose "Messages" as a target if you want to interact directly
+with users who send you messages on Facebook Messenger, which can be
+very interesting.
+So, to create your first campaign, follow the steps listed below.
+Step 1
+Choose the Campaign Goal. Let's imagine that we want to increase traffic to
+your website. In this case, we select the goal "Traffic" when we create the
+campaign.
+Step 2
+Let's name our campaign. For example, let's call it "Web Site Promotion" and
+click "Continue" to proceed.
+Step 3
+We organize the Advertisements. The campaign structure is simple. There is
+the main campaign, under which we can create various "ad groups." Each ad
+group contains the actual ads, such as the images or videos we want to show.
+Step 4
+Let's define the Target Audience. Now we come to the interesting part:
+defining the target audience. We can specify the geographic location, age,
+gender, and interests of the audience to whom we wish to show ads. For
+example, if we run a pizzeria and promote a pizza for 5 euros, we can select
+"Pizza" as the interest. Facebook will show ads to people interested in pizzas.
+Step 5Audience Details. We can also further refine the audience by choosing a
+specific city or expanding the area to a larger region. It is important to strike a
+balance between a large audience and one that is too small.
+Step 6
+Specific Interests.
+Facebook offers suggestions of related interests. In addition to "Pizza," we
+can add "Restaurants" or other interests that might attract potential customers.
+By following these steps, you will be able to define your target audience
+precisely and purposefully, which is critical to the success of your Facebook
+Ads campaign.
+Audience segments
+I recommend that you never reduce your audience below 50,000 when you
+are promoting in Italy. Also, try to maintain a fairly large audience. You can
+adjust the age, for example, from 18 to 65, or choose a specific age, such as
+24-65 or 55. You can also select the gender (male or female).
+The interesting part is about defining your target audience. Suppose you have
+a pizzeria and you want to promote a 5 euro pizza. You can select the
+audience that is interested in pizza. For example, enter "pizza" as the interest.
+This will ensure that your advertisements are shown to people who are
+interested in pizza.
+You can also add other related interests, such as "food" and "restaurants."
+Also, if your pizzeria is in Rome, you can further narrow your audience by
+selecting "Rome" as the location. This is especially useful if you want to
+focus only on a specific geographic area.
+You can also set a radius in kilometers, such as 20 km, to define a specific
+geographic area where you want the listings to be shown. This helps focus
+promotion only in the vicinity of your restaurant. Here's a tip: 20 km is often
+a good radius to consider, since most people don't travel more than 40 km to
+get a pizza.This process helps you narrow your audience and reach people who are more
+likely to be interested in your offer.
+Further settings
+Now we are ready to start a campaign with these settings. You can scroll
+down and further customize your ad placements. I recommend leaving the
+default settings, which include the Facebook News Feed and the Instagram
+Feed.
+You can remove options that you don't feel are appropriate, such as the
+Facebook Marketplace, video feeds, or the right-hand column. Leave only
+those that you feel will be most effective for your marketing objective. For
+example, you can remove Messenger Mail if you feel it is not needed.
+In addition, you can choose optimization for publishing. If you are trying to
+increase traffic to your website, I recommend selecting "Link Clicks." This
+will optimize the campaign to get link clicks to your site.
+Then, you can set a daily budget. To start, you can plan a budget of 5-10
+euros per day. If you start to see positive results, you can gradually increase
+the budget by 20-30% per day.
+Once you have completed these settings, you can click "Continue" to
+continue with setting up your campaign.
+Creating an advertisement
+Let's delve into the creation of the ad. From here, we will need to follow a
+few steps to create our ad.
+Page Selection
+: If you have a Facebook page, you will need to select it. This
+is the page that will be associated with the ad.
+Image or Video
+: You can choose to upload an image or video for your ad.
+For example, we will upload an image of a pizza.
+Ad Text
+: Write the text of the ad, such as "Great offer - Pizza menu for 5euros!" You can also add a headline, such as "Pizza for €5," and select the
+type of button, such as "Find out more," which is often effective.
+Destination URL
+: Here you will need to enter the URL of your website or
+page to which you want people to be redirected when they click on the ad.
+Description (Optional)
+: You can add an optional short description if you
+wish.
+Confirm
+: Once you have entered all this information, confirm and proceed.
+After creating your ad, you can go to "Ad Suggestions" to get a summary of
+your ad performance, such as clicks, impressions, and other metrics. You can
+use this data to monitor the effectiveness of your ad campaign.
+I recommend that you lend this book to friends and people you know,
+especially if they have a business or product to promote. The information
+provided here can be very useful for anyone who wants to get started with
+Facebook advertising. See you in the next chapter!Chapter 4:
+How to best set up your account
+In this chapter I show you the best strategy to set up your account in a short
+time.
+This chapter will be slightly more advanced, but if you are new to
+advertising, try to follow the steps carefully. If, on the other hand, you
+already have experience with advertising on Facebook and Instagram, this
+part will still be useful as you can find out what enabled me to create and
+manage successful advertising campaigns.
+We start by opening the browser and heading to business.facebook.com.
+Before you start sponsoring on Facebook, it is important to have an account.
+Remember that if you have an account that has existed for a long time, you
+will be viewed more favorably by Facebook, as the American company
+prefers "older" users on the platform.
+Start by logging in with your personal Facebook account. Don't worry, your
+personal information will not be visible during this process.
+After logging into Facebook, move to the "Business" section. This is the
+starting point for creating your advertising campaign.
+To make this chapter more practical, I want to share with you one of my
+strategies for selling a product, using Facebook. This will be a demonstration
+example that you can take a cue from and then apply to your business.
+To begin, log in to Facebook and then to business.facebook.com. If you do
+not yet have an account on business.facebook, follow the guided instructions
+to create one, entering a name, an advertising account name and an email.
+Once logged in, you will be taken to the main page.
+Now, on the main page, click on "All Tools." This is where the process of
+creating your ad campaign begins. It will be a guided process, so follow the
+steps carefully.Once inside the interface, click on "Event Management." This is the first step
+in setting up your campaign. Follow the steps exactly as I am describing
+them, and you will soon be able to create your first campaign.
+The interface shown is divided into sections. Click on the three bars at the top
+left to access all the tools. The first thing to do is to go to "Business Settings."
+Facebook often blocks ad campaigns or bans users. Therefore, it is important
+to configure the settings correctly to avoid future problems.
+To overcome these initial problems, here are some suggestions. First, if you
+are in the early stages, as also mentioned earlier, start running ads with your
+personal profile, as an older profile on Facebook is viewed more favorably by
+the platform.
+The second tip is to verify your company. This step is important to give
+Facebook more details about who you are and what you stand for. This will
+help Facebook better identify you as a legitimate user and allow for more
+long-term ad serving.
+After learning about Facebook's regulations, go to "Business Settings" in the
+interface of business.facebook.com. Here, you will find the "Business
+Information" option. Fill in all the details 
+of the business, including the
+business name, address, business phone number and business website. A
+website is important because that is where you will make your sales from. If
+you do not yet have a website, create it first and then move on to promoting
+your business on Facebook.
+Leave "Company Verification Status" as is for now, but keep in mind that
+you will need to verify the company in the future.
+If you already have a VAT number, send the required documents to
+Facebook, including your personal and company documents. Usually, in 24-
+48 hours you will be verified. This additional step reduces the risk of being
+banned by Facebook. Keep in mind that, even for no apparent reason, you
+may be banned, but Facebook offers the option of making an appeal to clarify
+the situation.Creating a Facebook page
+Before you begin the process of setting up your Business Manager account, I
+recommend that you create a Facebook page dedicated to selling your
+products. Be sure to include at least one photo and a brief description for your
+page.
+Adding a page
+Go back to the Business Manager account and go to the "Pages" section.
+Enter the name of your page and add it. You can also do this directly from the
+"Pages" section by selecting "Add Page," then enter the page name and
+follow the wizard.
+Adding users
+After adding the page, go to the "People and Partners" section. Here you can
+add people, including collaborators or helpers, whom you will have
+previously listed. Assign them the necessary permissions to manage the page.
+By following these steps, you will have set up your Business Manager
+account and prepared your page to start promoting your products on
+Facebook. Remember to provide as much information as possible to
+Facebook, as this will help reduce the risk of being banned and optimize your
+advertising campaigns.
+After assigning the necessary permissions to people, move to the advertising
+accounts section. Here you can create your own advertising account or
+request access to an existing one. This same process also applies to the
+"People" section. Make sure you have given people permissions to manage
+campaigns and advertising accounts.
+If you wish to link your Instagram account, go to the "Instagram Accounts"
+section. Click on "Add" and follow the instructions to link your advertising
+account to Instagram.Pixel
+After adding the Instagram account, it is time to focus on the "pixel." For
+those who do not know what a pixel is, it is a small tracking code that is
+embedded in your website. This pixel allows you to track all the activity that
+occurs on your site, such as sales, products added to your shopping cart,
+payment information 
+entered, and so on. It is essential to understand that
+those running advertising campaigns do not rely on luck, but instead work
+based on the analysis of statistics provided by the platform.
+Imagine being on Facebook or Instagram and seeing a promoted post with the
+option to "promote now" to reach more users. This is one of the methods
+offered by platforms such as Meta for average users, i.e., consumers looking
+to increase the visibility of their content. However, this tool is often used
+haphazardly, without careful strategy or analysis. It is common to select a
+minimum daily budget and enter only a location and interest. This way, the
+campaign can get going, but without careful monitoring of statistics, you do
+not have the control needed to maximize results.
+The key to success is to understand the data in depth, as this will enable you
+to manage the campaign effectively and understand how to expand and
+optimize it.
+The "pixel" is a small piece of code that helps us track activity on our
+website. In this case, we can easily add it via a blue button. If you're using a
+platform like Shopify, just download the Facebook app and follow the guided
+instructions. Otherwise, if you're using Wordpress, there are several ways to
+install the pixel. The choice depends on your sponsorship platform and your
+website.
+To add the pixel, enter the name of the pixel and the URL of your website,
+then follow the step-by-step instructions provided by the Facebook
+application. This way, 50% of the work will be completed. The remaining
+part should be done on your website.
+Payment methods
+Regarding payment methods for advertising campaigns, you will need to adda payment method. Personally, I use Revolut, a banking platform that offers
+several virtual card options. These cards can be used to pay for services such
+as Facebook or Apple subscriptions. Revolut also offers benefits such as
+travel and health insurance. They have a free subscription and a paid
+subscription with additional benefits, including the ability to get a metal card
+for worldwide payments.
+There are two important steps to ensure the security of your profile. The first
+is two-factor authentication, which is also tied to Facebook's ban policy.
+These additional security steps help protect your account and add authority to
+your Facebook presence.
+If someone wants to access your or your Business Manager, they will send
+you a request that you can confirm or decline. This information is important
+to ensure the security of your account and your business activities.
+Creating a campaign: practical insight
+Let us now repeat the process of creating an advertising campaign in more
+depth and practicality.
+Click on the "Create" button under the "Advertising" option.
+As also seen above, you will find yourself with a number of campaign goals
+to choose from. For example, "Brand Awareness" is useful for introducing
+your brand to people who might remember it. "Video views" is suitable for
+promoting videos, while "Store location awareness" is useful if you have a
+physical store.
+If you choose the goal "Traffic," your goal will be to direct people to your
+business website to increase traffic.
+Pay close attention to the budget you devote to listings, because it is crucial.
+The main rule that should guide our actions is to invest in advertising
+campaigns that will give us a financial return.
+The "Traffic" campaign aims to generate interactions with our content, while
+the "Contact" campaign is useful for companies looking for customersinterested in their products or services. People could leave their contact
+information, such as email, and a member of our staff will contact them to
+initiate a sales cycle.
+The main goal is "Conversion," which allows us to bring customers to our
+site and lead them to a purchase.
+Advertisements
+The advertising campaign is divided into ad groups and advertisements.
+In the ad group, we will identify the interests of potential customers. We will
+need to set a daily budget, which, as mentioned, should be less than 10 euros
+for an interaction campaign. The campaign should start the next day at
+midnight, so that we spend that 10 euros over the course of a day.
+In terms of defining the audience, we start by including Italy as the place
+where we want to reach people. We want to target young people between the
+ages of 18 and 30, as the product we hypothesized is suitable for this age
+group.
+In the "Detailed Targeting" section, we can specify interests. For example, if
+we are promoting products related to sports and leisure, we could enter
+interests such as "Sports" and "Leisure" and also brand names, such as
+"Decathlon." If you want broader targeting and want Facebook to choose the
+audience, you can leave this field blank.
+We select the Italian language, since we are trying to reach audiences in Italy.
+As for placements, we opt for a manual choice, so we can decide where our
+sponsorships will appear. In this case, we leave only "Feeds," "Stories," and
+"Reels" active, removing the "Websites." The target devices will be those
+with WiFi connections.
+We call this group of advertisements "Broad Traffic 1." Next, we define the
+name of the advertisement, for example, "Video 1." At a later time, we can
+add the video.
+After everything is set up, we will click "Publish" and the sponsorship will bepublished. We will leave it active for about 3-4 days, with the goal of getting
+at least 100 likes on the page.
+Now, let's move on to a second campaign, targeting sales. We start by
+creating a new campaign with the goal "Sales." We will call it, for example,
+"Sales One." In this case, we define a group of ads with the targeted interest
+and location. We can also choose whether to create a new pixel or use an
+existing one.
+This is the process to follow when creating a Facebook ad campaign.
+We start as shown above, configuring the pixel without making any changes
+to the default settings.
+Let's set the daily campaign budget to 10 euros. Each interest will have a
+daily budget of 10 euros. The campaign starts the next day at midnight, but
+we do not set a specific end date.
+Regarding genders, we leave the campaign completely "Broad," which means
+that Facebook will decide who to show the ads to. We set the location as Italy
+and select the option "People living in this location" to be specific. For age,
+we can set a range from 18 to 65. This will give us the flexibility to see which
+age groups respond best.
+These are the initial steps for creating the campaign. You can proceed with
+setting up the ads, as shown above, and then optimize based on the data you
+collect.
+After setting up the pixel as described in the dedicated section, we move on
+to the campaign configuration.
+Regarding gender, we let Facebook select the target audience, targeting
+people living in Italy, with no particular restrictions on age.
+The campaign will be in Italian and will have manual placements, with the
+goal of showing ads on Facebook and Instagram. We are excluding other
+options.
+On the right, we see a rough estimate of the audience to whom the ads will be
+shown, with an expected reach of between 1,300 and 3,000 people and aconversion potential of between 15 and 42 sales. Keep in mind that these
+numbers are approximate since we have included little information up to this
+point.
+In the section "Detailed Targeting," we leave all fields blank, allowing
+Facebook to manage audience selection.
+Above, we leave the field of interest blank, configuring the campaign as
+"Broad" and allowing Facebook to select the audience.
+Next, we enter our page and Instagram account.
+Finally, we add three images, a video and a carousel in the lower section to
+create different types of ads.
+We click on "Publish" to start the campaign. We can further optimize based
+on the data collected later.
+In the first listing, we select "Single Image or Video" and add an image. If
+you don't have the image yet, you can upload it to the interface by clicking
+"Upload".
+After adding the image, choose the desired format from the available options:
+1080 x 1080, 1080 x 1920, or 1.91 x 1. This choice depends on the graphics
+of the image.
+If you wish to replace the image, you can easily do so by selecting "Replace."
+Proceed by clicking "Next" and you will see a preview of what your ad will
+look like.
+Now let's move on to the main text, which will appear at the top of the ad.
+You can write a message, for example, "The best-selling 2023." If you want
+to insert an emoji, you can find it on Google and copy it, then paste it into the
+ad.
+Further down, we define the "Call To Action" button as "Buy Now" or
+"Order Now," depending on your goal. Make sure it is clear that clicking this
+button will direct customers to order.Next, we enter the URL of our website. You can copy the URL directly from
+your browser bar. You do not need to worry about the link displayed at this
+time.
+Images
+Now, let's focus on the images. Here the goal is to have three different
+images per advertisement so as to test which of the three will perform best.
+To have three different images, simply duplicate the image you will have
+chosen or created for your ad four times.
+Call the first image "Image 1" to keep track of the changes. For the other
+images, remove the existing image, then add the new image by selecting
+"Load" and loading the second image.
+Repeat this process for all images, changing the relevant information.
+Click on "Next" as before and then on "Finish." In this way, we create three
+image variants to see which one works best in terms of conversions. Let's call
+the second variant "Image 2" and replace the image.
+Repeat the same process for the third variant, calling it "Image 3."
+Now, let's call it "Video 1." Delete all present content, then add your video as
+explained above.
+Let's move on to creating the image carousel. Let's call it "Carousel 1" and
+select the option "Carousel" instead of "Single 
+Image or Video." Add at least
+two units to the carousel, and for each unit, insert an image.
+For the title of the carousel, use the same text that you used for the first
+image, such as "The best-selling 2023." You can also use the same main text.
+In this way, you have created three images, a video, and a carousel, all
+targeting your potential customer's interests. To summarize, all potential
+customers with interests in this "Broad" campaign will be exposed to these
+different variations of ads.Now that we have created this content, we need to duplicate it for different
+interests. Here's how to do it: duplicate each of the ad variations you've
+created, one at a time.
+Instead of using the broad "Broad" category, select a more specific interest.
+For example, if you choose "Outdoor Sports," enter this interest in the
+"Details" section and set the age to 18-30, if deemed appropriate. Your ad
+will then be shown to people ages 18-30 with an interest in outdoor sports.
+Keep all other settings unchanged.
+After creating this variant, call it "Outdoor Sports 1," for example. You can
+see that it still contains all your images, videos, and settings.
+Duplicate this variation again and change the interest. For example, if
+suggestions show you related interests such as "Gardening," select one of
+them. This time, call it "Gardening 1." Keep all the rest of the settings
+unchanged.
+Variants
+Repeat this process to create variants for different interests, duplicating
+existing variants and changing the specific interest for each. This will allow
+you to target your ad to a variety of interested audiences.
+Managing a Facebook ad campaign involves experimenting with and testing
+various interests to see which works best. After creating a variant for a
+specific interest, duplicate it and change the interest for each duplicate. It is
+recommended to have at least five variants.
+Once you have created variations, publish them and be sure to name them
+consistently to avoid confusion. After that, you can access the Facebook Ads
+Manager interface to monitor your campaigns, interests, and ads. You can
+customize the columns to display metrics that matter to you, such as amount
+spent, cost per click (CPC), results, coverage, and click-through rate (CTR).
+Keep in mind that the success of your Facebook ad campaigns will depend on
+your ability to test, analyze and optimize based on the data you collect.Chapter 5:
+Monitoring Your Campaigns
+When it comes to monitoring an advertising campaign, it is important to keep
+an eye on various indicators. Below I list some of the main indicators.
+Cost per Result
+This shows you how much you spend to get a specific result, for example, a
+customer or lead.
+Cost per Thousand (CPM)
+This indicates how much you spend to have a thousand people visualize your
+creativity.
+Interaction with the Page
+This is important if you are tracking user engagement with your page.
+Video Playback
+If you are using video in your sponsorships, you can see how many users
+viewed the video for at least 25 percent or 95 percent of its duration.
+Click on the Link
+It shows you how many people actually clicked on the link you included in
+your creative.
+Cost Per Click (CPC)
+Indicate the cost of each click on your ad.Total Purchases, Additions to Cart, Additions of Payment
+Information
+These indicators are essential if you are running a sales campaign.
+ROAS (Return on Advertising Expenses)
+This tells you how much you earned versus how much you spent on
+advertising.
+To track these metrics, you can customize columns in your Facebook Ads
+Manager interface. This way, you can see data relevant to your campaign and
+make informed optimization decisions. Realize that these metrics will be
+crucial for 
+evaluating the effectiveness of your campaigns and making
+necessary changes.
+After activating the campaign, you should keep it under observation for at
+least three days to evaluate the results. Here's what you should look for:
+Budget Spent Correctly
+Make sure the budget is being spent evenly across all ads. If you see that one
+is spending much more than the others without matching results, you may
+want to scale it back or turn it off.
+Cost per Result
+This is important. If you notice that the cost per result is very high on one ad
+compared to the others, you may need to take action.
+Duplicate Effective Ads
+If an ad is performing particularly well, duplicate it to expand its reach. This
+is one way to scale your campaign.
+The goal is to figure out which ads are working best and focus on those,
+while turning off or editing those that are not getting good results.Keep in mind that this is just the beginning of your Facebook and Instagram
+sponsorship journey. As you gain experience, you will be able to optimize
+your campaigns more effectively 
+to achieve your goals. The key is to monitor
+closely and make constant improvements.Chapter 6:
+Retargeting
+In this chapter I try to describe how you can start a retargeting campaign on
+Facebook. In previous chapters, we learned how to create a Facebook
+campaign targeted to a custom audience and, among other things, how to
+install the conversion pixel. Now we are ready to understand how retargeting
+campaigns work. To do this, follow the steps listed and elaborated on below.
+Log into your Facebook Business Manager. Go to the "Ad Management"
+section, which we have already reviewed in this book.
+Now we are ready to launch our advertising campaign. To do so, click the
+"Create" button.
+At this time, you will have the opportunity to choose the target of your
+campaign.
+So, the first step is to log into the Business Manager, then to the "Ad
+Management" section, and finally choose the target for your campaign.
+When it comes to starting a retargeting campaign on Facebook, it is essential
+to understand that you can select different goals based on the type of
+campaign you want to run. For example, if we want to create a campaign to
+encourage people to buy a product after viewing a sales page without making
+a purchase, we would use the "Conversion" goal.
+Conversely, if we wish to drive people to view a specific page after visiting
+other pages within our website, we might use the "Traffic" objective. In this
+case, to be faster, I will choose the "Traffic" goal, but the choice of goal
+should always meet the needs of your marketing strategy.
+Next, after clicking "Continue," we will select the budget for the campaign.
+For retargeting campaigns, especially when the audience is not very large (we
+are not talking about millions of people), you can set a modest daily budget,
+for example, 3, 4 or 5 euros per day.It is important to note that retargeting campaigns should be constantly active
+in any business. This applies both to existing customers, who may continue to
+shop, and to potential customers who wish to review your brand. Thus,
+keeping these campaigns active is essential to differentiating yourself and
+getting results.
+To better explain the importance of remarketing, let's consider a simple
+example. Imagine that a mother is about to purchase a product from an online
+store. However, her young child starts screaming that he is hungry and wants
+to eat. The mom interrupts the purchase process to feed the child, forgetting
+about the product in the shopping cart. This scenario can happen to anyone,
+not just a mom, but to any person.
+Now, if there were no remarketing campaign, the online store would have
+lost this customer. But with a remarketing campaign, you can reappear in
+front of those who have already visited the website. You could offer them a
+discount to incentivize them to buy. This serves as a reminder of your brand
+and might persuade the customer to complete the purchase. For example, you
+could offer an additional 5 percent discount if 
+the purchase is made within 24
+hours. This creates a sense of urgency, prompting the customer to decide to
+buy now rather than put it off. This is the kind of difference a remarketing
+campaign can make.
+Now, in the settings section, you can choose to create a traffic campaign to
+get people to visit a specific page on your website. The key to remarketing
+lies in using a "custom audience," which in this case would include all
+visitors to your Web site. Note that you will not have custom audience
+estimates at first because it is a newly created audience. Keep in mind that the
+size of the custom audience may vary, but it is the foundation of remarketing.
+Remember 
+that the data are constantly changing. For example, today's
+audience will be different from tomorrow's, since it is based on a 30-day
+period. As I had explained earlier, the key lies in the "custom audience,"
+which you should already have at this point.
+Now, in this section, I may not have to make significant changes since I
+already have my custom audience. So, I would uncheck the option to reach
+people outside of this custom audience. This is important because I want tofocus only on those who have visited my Web site, for example, all visitors to
+the site. But I may want to focus only on those who have visited a specific
+page. For example, I might want to create a campaign for those who have
+visited my services page.
+Another practical example: imagine that I have a personal website,
+ewritinghub.com, where I post articles about self-publishing. Visitors to my
+site may not be aware that I also run a publishing services agency. Therefore,
+with the help of my site's pixel, I can create a custom audience based on all
+visitors to my website over the past 30 days, since this audience is interested
+in digital publishing. Next, I can create a direct advertising campaign from
+my page, informing visitors that I offer consulting and marketing services.
+The key to remarketing is to select the right audience that you have created
+and then focus on the creativity of your message, but the rest of the process
+remains fairly unchanged.
+So, in short, I'm trying to communicate to people who know me something
+they may not have known: a product or service that I could offer them that
+they might be interested in.
+Here is a simple example of how to do a retargeting campaign. When we set
+up a campaign, we can select the specific page we want to refer to and then
+create the ad. Next, we decide whether we want to optimize the campaign for
+"Conversions" or "Traffic," depending on our goals.
+If we want to sell a product to people who have already visited our website,
+the best choice is usually the "Conversion" campaign. For example, if
+someone visited the sales page of a product but did not purchase it, we can
+create a retargeting campaign for everyone who viewed that page but did not
+make a purchase. We can exclude those who completed the purchase. In this
+way, we can offer a 5% discount to those who showed interest but did not
+purchase, encouraging them to finalize their purchase.
+Remarketing done this way is effective, but there are many different
+strategies you can adopt depending on the needs of your company or personal
+project. The key is to reach the right people and present them with a
+persuasive message.Chapter 7:
+Lookalike
+Facebook Lookalike Audience is an important concept to understand. Simply
+put, a "Lookalike" or "similar" audience on Facebook is an audience that
+Facebook creates based on a custom audience that you have already created.
+To better understand how this works, imagine that Facebook collects a lot of
+data about how we behave on the platform, such as the pages we follow, the
+videos we watch, the posts we comment on, the likes we put up, the shares,
+friendships, and groups we participate in. All of this data is used by Facebook
+to create a set of personalized audiences. These personalized audiences
+consist of people who have already connected with your brand in some way
+through your pages, website, videos or posts.
+Now, when you create a Lookalike audience, Facebook uses the data
+collected to find people on Facebook who have similar behaviors to those in
+your custom audience. This is a powerful way to expand your reach and
+reach new people who are more likely to be interested in your business.
+So, in summary, Lookalike audiences on Facebook are groups of people
+similar to those who already know your brand, and it is an effective way to
+expand your audience and get positive results with your advertising
+campaigns.
+To create Lookalike audiences on Facebook, think of this process as saying to
+Facebook, "Look, we have these custom audiences that represent people who
+have visited our site, left their contact information, or follow our page. Now,
+we want to create audiences similar to these. We want you to do the dirty
+work, which is to find people on Facebook who are similar to those in our
+custom audiences."
+Basically, Facebook will take care of finding people who have similar
+behaviors and characteristics to those who are already in your custom
+audience. You don't have to worry about manually defining your target
+audience, interests, ages, or gender, because Facebook will do all this workfor you. Facebook will find people similar to those who are already proven to
+be interested in you because they have interacted with your brand, follow
+you, or like what you do. This is an advanced and powerful strategy, both
+because Facebook does most of the work and because you are targeting
+people who are already interested and potentially customers.
+Creating Lookalike audiences allows you to expand your audience in a
+targeted and effective way. And now I'll show you how to create them.
+To create a Lookalike audience on Facebook, start in the "Ad Management"
+section of your Business Manager. Then, go to the toolbar and select
+"Audiences," just like when you created custom audiences.
+The process of creating Lookalike publics is similar to that of custom publics,
+but with some important differences. Here's how it works:
+Click on "Create Audience" and select "Lookalike Audience." Keep in mind
+that to create lookalike audiences, you must have previously created custom
+audiences.
+Choose the data source or an existing audience. This means selecting an
+audience of which Facebook will find similar people. For example, you can
+choose a custom audience that represents people who have watched a certain
+video or interacted with your website in the past 180 days. Then, click on
+"Source" and select the starting audience.
+Specify the geographic location of your audience. You can limit the audience
+to a specific geographic area, such as Italy, or include multiple countries if
+necessary.
+Set the "Audience Size" by choosing a percentage. This percentage indicates
+how similar the Lookalike audience will be to the original. For example, a
+1% Lookalike audience will consist of the people most similar to the original,
+while a 10% audience will be larger and less similar.
+In general, as the percentage increases, the Lookalike audience becomes
+larger and less similar to the original. A lower percentage will generate a
+more targeted audience that is similar to those in the original audience. This
+allows you to choose the size of the Lookalike audience according to yourneeds.
+Once you have configured these options, you can create Lookalike audiences.
+This will allow you to reach new people similar to those who are already in
+your custom audience, thus increasing the chances of getting positive results
+with your advertising campaigns.
+I understand that the percentages may seem a bit complex, but I will try to
+explain better what they represent.
+When you create a Lookalike audience on Facebook, you can choose the
+"Audience Size" by setting a percentage. For example, you can choose 1%,
+2%, 3%, up to 10%. This percentage indicates how similar the Lookalike
+audience will be to the original.
+The lower the percentage, such as 1% or 2%, the more similar the Lookalike
+audience will be to the original. For example, if you choose 1%, the audience
+will consist of people who are extremely similar to those in your original
+audience. However, they will also be fewer in number.
+Conversely, if you choose a higher percentage, such as 10%, the Lookalike
+audience will be larger but less similar to the original. There will be many
+more people, but they will be less similar to those in your target audience.
+The key here is that there is no absolute "best" percentage. The choice
+depends on your needs and your strategies. Some may find that Lookalike
+audiences at 7% or 9% work better for their campaigns than those at 1%. It is
+a matter of testing.
+Therefore, when working with Lookalike audiences, it is advisable to create
+several of them at different percentages, such as from 1% to 10%. This way,
+you can test them one by one to see which one works best for your
+campaigns. Audience size and similarity are two aspects you need to balance
+to get the best results for your specific target.
+When creating each Lookalike audience, you will need to specify the source
+of the data, for example, people who have interacted 
+with a specific video. In
+addition, you will need to set the geographic location you wish to target.This process should be repeated for each custom audience you have
+previously created, whether it be interactions with videos, website visits, or
+interactions on the Facebook page.
+Once all Lookalike audiences have been created, they will be available for
+use in your future advertising campaigns.
+A key aspect is to test all these Lookalike audiences with different
+percentages to find out which works best for your campaign goals. There is
+no absolute "best" percentage, so testing is essential to optimize your
+campaigns and reach a broader audience similar to those who are already
+interested in your brand or product.
+Creating Lookalike audiences may initially seem tedious, but it is an
+important step in improving the performance of your Facebook ad
+campaigns.
+It is critical to test each Lookalike audience separately, as you cannot know a
+priori which one will work best for your campaigns. Testing is the key to
+optimizing performance.
+Once you have created your Lookalike audiences, you can use them in
+different advertising campaigns. Be sure to select the appropriate Lookalike
+audiences based on the specific goals of the campaign.
+When creating campaigns, customize budgets and placements according to
+your needs. These settings may vary depending on the type of campaign and
+target audience.
+Carefully monitor the performance of different Lookalike campaigns to
+identify which ones work best to achieve your goals.
+In summary, although it may seem like a complex process, creating
+Lookalike audiences and testing them is crucial to expanding your audience
+and reaching people similar to those who are already interested in your brand
+or product.Chapter 8:
+Bidding strategies. Target cost vs discount
+bidding
+Many marketers often ask questions about how to set the budget correctly.
+This is part of Facebook's complex auction and scoring system. Many people
+try to copy successful strategies, but what works for one may not work for
+another, especially if they are dealing with different products or different
+audiences. Some people think that knowing only how Facebook works is
+enough to get good results, while others overlook the importance of having a
+quality product and an attractive offer.
+The goal of this chapter is to explain in detail how the Facebook advertising
+system works, so that you can develop your own strategy and act
+independently. Not bad, right? But what happens if your ads receive
+unexpected costs, even if you're just getting started?
+The idea here is to explain how to effectively use a crucial part of Facebook's
+advertising system. Often, when we create ads, we risk making random
+choices or neglecting important aspects. Often, in fact, the inexperienced
+advertiser wants to publish a campaign as quickly as possible with the hope
+of immediately starting to get results.
+The goal of the chapter is to simplify this process while still giving the right
+tips for setting the budget correctly.
+Let's start by addressing the topic of "delivery," the system that distributes
+your ads on Mark Zuckerberg's platform. The Facebook founder's main goal
+is to strike a balance between showing users ads that are interesting and
+relevant to them and creating an effective advertising system.
+To achieve its goal of showing interesting ads to users and maintaining
+advertising effectiveness, Mark Zuckerberg has been working on two main
+aspects: the 
+auction mechanism 
+and the ad 
+frequency system.The auction mechanism may be familiar to many people, but the frequency
+system is often a mystery. This is what can cause unwelcome situations, such
+as using your budget unexpectedly.
+Let's start with the first point.
+One of Facebook's main goals is to improve the user experience, which
+means limiting the number of ads posted on users' wall. This creates
+competition among all companies trying to reach the same audience. The
+auction system determines which ads will be shown to a specific user.
+You may be thinking of a traditional auction in which the highest bidder gets
+the desired item. This is partly true, but you need to understand that money
+alone does not guarantee the balance between user experience and investment
+efficiency, which is what we are talking about. There are many other
+elements considered, divided into three main categories.
+Among these elements is the "bid," which is the amount an advertiser is
+willing to pay for a specific result. Then there is the "estimated action rate,"
+which is a kind of prediction based on Facebook's machine learning. This
+calculates the 
+estimated probability that an ad will generate the desired event,
+considering various data, such as the user's past actions and the ad's history.
+Up to this point, we have talked about how Facebook tries to make specific
+events happen through its ads, because without these events, there would be
+no benefit to advertisers.
+Now, let's turn to the concept of "user value," which is an important but not
+the most crucial parameter. This parameter considers several factors, such as
+the quality of your ad, the user experience after clicking on the ad (for
+example, whether the landing page loads quickly), and other details. In
+addition, when you install the Facebook pixel on your website, Facebook
+collects data on user behavior that can be useful for optimizing your ads.
+This is all part of the complex process of determining which ad is shown to
+whom. Facebook uses the advertisers' "bid" to decide which ad to show and
+how much to charge the winning advertiser. The important thing is that you
+only pay when the specific event you selected actually occurs. The cost is
+based on the bid you won the auction with, not necessarily the maximumamount you were willing to spend. So if you bid, for example, 5 euros for an
+event and your competitor bid only 2 euros, you will pay an amount close to
+what your competitor was willing to pay, so about 2 euros in this case.
+Now, we come to the "reach and frequency system," a lesser-known aspect
+than the auction mechanism. While the auction mechanism determines which
+ads are shown, the reach and frequency system determines how your budget
+is spent.
+Now let's get into the details, so keep your focus high because this will help
+you better understand how your budget is managed once you post your
+listings.
+Here's how it works.
+Facebook needs a spending frequency system. Every day, millions of ads try
+to appear on Facebook users' wall. Each opportunity has a value, which
+depends on various factors, such as the competition at that time.
+Imagine running a bunch of Facebook ads for a week with a limited budget.
+This concept also applies if you are posting daily ads or for a different period.
+Now, imagine that you run your ads at a time when opportunities are
+particularly expensive because of increased competition in the auction. The
+market is dynamic, so prices vary. Without a frequency system, Facebook
+could quickly spend your budget in the early days, even though opportunities
+are less expensive at that time.
+And that's where the reach and frequency system comes in. Many advertisers
+expect to see their budget spent evenly throughout the entire campaign. In
+fact, most advertising platforms (Facebook Ads, Google Ads and Amazon
+Ads, among the best known) introduce a spend frequency system to address
+this issue.
+In fact, Facebook wants to make sure your budget is available until the end of
+your campaign, when costs may be lower.
+This system is often based on a probabilistic approach known as
+"probabilistic budgeting."It works like this.
+You use your maximum budget to participate in a random subset of auctions
+from those you have selected.
+For each auction you select, Facebook keeps track of how much budget has
+been spent so far and how much is left to reach your total budget.
+In this way, it tries to spend the budget evenly throughout the campaign,
+ensuring that it is available until the end.
+You can tell Facebook to use this approach by selecting the "target cost"
+option in the optimization section of your ad creator.
+There are some advantages to using this approach. First, it keeps costs per
+result stable over time, which is useful if you want to maintain precise control
+over costs. However, there are some issues to consider.
+Costs may fluctuate until Facebook has collected enough data. Typically,
+Facebook needs at least 50 events to optimize an ad campaign effectively.
+If you set a "target cost" too low, you may find that the budget is not being
+fully spent, so it is important to strike a balance.
+Another important aspect to consider is that Facebook will try to reach your
+"target cost," even if there are results available at a lower cost. For example,
+if you have a target cost of 10 euros for an acquisition, but in the initial
+learning phase, the average cost for an acquisition is 8 euros, Facebook will
+try to achieve results that are closer to 10 euros, even if we could have
+achieved 
+lower costs. This can be considered a downside if you want to
+maximize the efficiency of your budget.
+To address this problem, Facebook has introduced a system called "best
+bidding." Basically, instead of randomly excluding certain results, Facebook
+excludes them based on a criterion that varies as the campaign progresses.
+In each auction, Facebook calculates a new "bid" called the "best bid," which
+will always be lower than your maximum bid. This best bid not only ensures
+that your budget is spent evenly throughout the campaign, but also helps you
+achieve more cost-effective results. The best bid is dynamic and adjustsbased on how much budget has been spent up to that point and how much
+time is left until the end of the campaign. If you have set an upper limit for
+your bid, the best bid will never exceed it and will fluctuate within this range.
+To clarify, let us consider a practical example.
+Imagine you have set a maximum budget of 5 euros for getting a lead (i.e., a
+potential customer who has left his or her email address on your landing
+page) and you still have 10 euros in your overall budget. The campaign is
+about to end, but market conditions change. For example, costs vary between
+1 and 5 euros.
+If Facebook used only your maximum budget of 5 euros to participate in each
+auction, there is a risk that your remaining budget would be quickly depleted,
+perhaps with only two auctions. But if Facebook lowers the bid to 1 euro, you
+could get up to 10 new leads, thus maximizing the amount of results with
+your budget. This is the advantage of discount bidding.
+Discount bidding is effective in reducing costs when you have a limited
+budget but may be inefficient with high competition. On the other hand,
+"target cost" is more stable but may not maximize cost efficiency with lower
+budgets. The choice between the two depends on your business needs.
+Now, let's turn to practical considerations. Here's what you should do.
+1
+. 
+Look at past performance data.
+2
+. 
+Analyze your previous campaigns targeting the same audience
+or product. Take a look at average costs to get results and use
+this data as a starting point for new campaigns.
+3
+. 
+Consider the real value of results to your business. If you
+know the value of an outcome, such as the maximum amount
+you can afford to pay while still making a profit, start with
+that value.
+4
+. 
+Set your daily budget at least five times higher than your
+bidding limit. For example, if your bidding limit is $10, set a
+daily budget of at least $50. This allows you to get asignificant number of results, usually between 5 and 7, needed
+for the learning phase.
+5
+. 
+Set a "bid cap" (bid limit) and a "bid floor" (minimum bid) if
+necessary. These limits help control the way Facebook bids
+for your auctions. By setting a higher limit, you prevent
+Facebook from overspending your budget.
+6
+. 
+In addition, it is important to consider the relationship
+between your budget and your offer. If you do not set an
+upper limit, Facebook may spend as much as necessary to
+completely consume your budget. This could result in a
+significant increase in costs, so it is best to be cautious.
+And now, you can start building your strategies.
+Here are some important final considerations.
+Don't go overboard with targeting. Facebook still looks for users who can
+generate the events you want at the lowest possible cost. If you over-target,
+you may narrow your audience too much, preventing Facebook from
+optimizing your campaigns. Start with a broader target audience and allow
+Facebook to learn and optimize over time.
+If you are not sure which "bid" to set, you can start with discount bidding
+without a "bid cap." This will allow Facebook to look for the lowest costs
+first. Keep an eye on costs during this initial phase.
+If you want to pitch a product or service to an audience that you can't
+organize on Facebook, don't worry too much. Over time, Facebook will begin
+to understand which users within a large audience are most likely to fulfill the
+desired events. Although it takes a little longer, this system works.
+Remember that Facebook is designed to adapt and optimize campaigns based
+on data and events. So, don't worry too much if it doesn't seem perfect at first.
+By watching the process carefully and making the necessary adjustments, you
+can achieve effective results. This is how Facebook's spend frequency system
+works.Below I briefly summarize the main concepts of this last chapter.
+When setting the bid (bid) for your campaigns, make sure you understand the
+specific target you want to achieve. If you must expand your budget, consider
+using "target cost" to avoid significant cost variances.
+After successfully testing this approach on a specific audience, you can
+extend it to other audiences in the same niche.
+Make decisions regarding budget and bidding only after the learning phase
+has been completed, which requires at least 50 events. Do not make changes
+before this point, otherwise Facebook will have to start over.
+If you cannot reach the minimum number of events needed to complete the
+learning phase, consider going back to an earlier phase where you can get
+more events with higher probability to assess the profitability of the
+campaign.
+Remember that these considerations apply primarily to "standard delivery."
+There is also "accelerated delivery" in which Facebook will seek any event,
+regardless of cost, which can lead to rapid budget depletion.Chapter 9:
+The five most common mistakes to avoid
+Mistake 1: Ignoring the Buyer Persona
+We often make the mistake of not spending enough time understanding who
+our ideal customer is. Creating a detailed profile of the buyer persona is
+critical to making sure your campaigns reach the right audience. Don't
+underestimate this.
+How to create a buyer persona
+You have certainly heard a lot about the "buyer persona" in recent years, but
+what does it represent, why is it important, and how can you use it to increase
+sales? In this subchapter, we will explore these key aspects.
+What is a Buyer Persona?
+A buyer persona is a representation of your ideal customer based on data such
+as preferences, buying behavior and other relevant information. Knowing
+your customer thoroughly is crucial to the success of your digital marketing
+campaigns.
+The Importance of Buyer Persona
+Creating a buyer persona not only helps you sell to a specific person but also
+to everyone similar to them in terms of interests and buying decisions.
+Detailed creation of Buyer Persona
+The depth and detail of a buyer persona can vary depending on your business
+goals. They can be general or very specific, as in our example of "James," a
+27-year-old fashion expert.Benefits of Buyer Persona across the Business
+The creation of buyer personas affects not only marketing but also other
+company departments, such as product development, sales and customer
+service.
+How to Create Buyer Persona from Existing Data
+You can get valuable data from existing customers through interviews,
+surveys, and feedback. People are now more likely to share their opinions.
+Market Research for Buyer Persona
+Market research can provide you with additional information. You can
+explore competitors in your industry and identify overlapping audiences.
+Creating a buyer persona is critical to improving the targeting of your
+campaigns and personalizing the user experience. Get data from existing
+customers and do market research to build a solid buyer persona.
+Error 2: Lack of Testing
+Another common mistake is not doing enough testing. Campaigns can work
+well for a while and then decline. It is important to test different variables,
+such as messages, images, and audiences, to keep campaigns fresh.
+Currently, I am conducting a test for a client, so I will not show the name of
+the account or the type of advertising we are using, but I will share the results
+we got.
+We spent only 200 euros in this test, and we see the results from different
+listings. In the first advertisement, we spent 18 euros, in the second 15 euros,
+in the third 85 euros, and in the fourth 44 euros, for a total expenditure of
+about 200 euros. The return on investment (ROI) was 149 euros.
+This shows that the campaign with the highest spend does not always
+generate the most sales. It is essential to test every aspect of your campaigns
+to avoid wasted budgets.We learned that by continuing this campaign, we will make profits and
+further optimize it to increase sales.
+So, let's look at how to create a test ad within Facebook Ads. We will start by
+creating a new campaign and selecting the goal "Conversions." Let's name
+the campaign and choose a name that 
+describes the test we are conducting.
+For example, "Creativity Test."
+We should not set the budget at the campaign level but at the ad group level.
+This allows us to have control over the budget. So we set the ad group
+budget, for example, 20 euros per day.
+Next, we define audience segmentation, specifying geographic location and
+other relevant details. We leave the check mark on "Automatic placements"
+and select the language (e.g., Italian).
+Now, let's create an ad. If we are conducting a creativity test, we need to
+duplicate the ad group and make variations in each version. We give the
+variations a descriptive name, such as "Variant 1," "Variant 2," etc. Each
+variant will have a different image or video.
+We fill in the ad text, select a "Call to Action" (e.g., "Buy Now") and add our
+website link.
+We duplicate the ad group for each variant we want to test. Each ad group
+will have the same budget set at the group level to ensure that Facebook
+spends the same amount of money on each variant.
+Once all settings are made, we run the ads and the test is ready to run.
+Remember that you can repeat this process for several variations, but the
+budgets will be added up, so be sure to keep that in mind.
+This method allows you to test different creatives and identify which ones
+generate the best results. You can then further optimize your campaign based
+on the data collected during testing.
+Error 3: Not Interpreting Data
+When you create advertising campaigns, you are capturing data. It is essential
+to interpret it correctly to improve your strategies. Facebook offers manyopportunities to segment data, so take advantage of them.
+Mistake 4: Playing Emotionally with the Budget.
+Do not act impulsively or emotionally with campaign budgets. Follow the
+timing of the algorithm and don't scale too quickly. Remember that you are
+working with data and an algorithm, not just emotions.
+Many entrepreneurs and local business owners wonder how much they
+should invest in platforms such as Google, Instagram, Facebook, and TikTok.
+Some people wake up one day and decide to start with a budget of 5 euros a
+day, but this can be a mistake if the budget is not well calculated.
+When it comes to budget decisions, it all depends on the type of business you
+run. Local businesses and e-commerce businesses will have different budgets.
+For local businesses, word of mouth and tools like Google My Business can
+help you gain visibility without having to spend a lot on advertising. E-
+commerce businesses, on the other hand, may require a larger budget to
+achieve their goals.
+On Facebook Ads, advertising works like an auction, where advertisers
+compete for ad space. The cost will depend on the goal you are trying to
+achieve. For example, trying to get a 
+conversion (such as a purchase) will
+cost different than trying to increase the overall visibility of your ad.
+The cost per result also varies based on the quality of your ads and past
+performance data. You can have more competitive ad space if your ads are
+performing well and if you have a positive rating.
+To determine the budget, you should calculate how much you are willing to
+spend to achieve a specific result. If your goal is to get one purchase per day
+and each purchase costs 30 euros, you should have a budget of at least 30
+euros per day. The budget will depend on the math and your margins.
+In my experience, some benchmarks can help. For example, a restaurant
+might spend between 10 cents and 3 euros to get a contact that could lead to a
+reservation. E-commerce businesses will have different costs depending on
+the value of the average shopping cart and the lifetime value of the customer.The key is to calculate the budget based on goals and desired outcomes.
+Mistake 5: Don't Diversify
+Diversify campaigns based on different buyer personas. Don't limit yourself
+to one audience or one strategy. Create targeted campaigns to reach multiple
+audiences and test various segmentation options.
+I report below a strategy for optimizing your campaigns.
+Choose the correct target
+When creating a Facebook advertising campaign, the first crucial step is to
+select the appropriate target. This will define how the campaign will be
+optimized. For example, if you want to get leads, you should select the goal
+"Lead Generation." If you are looking for conversions on your website, you
+should select the "Conversions" goal. The key is to clearly understand what
+you want to achieve with your campaign.
+Check the CTR (Click-Through Rate)
+CTR is a critical indicator of your ad's performance. This value represents the
+percentage of people who click on your ad relative to the number of views. A
+higher CTR indicates that your ad is attractive and attracts interest. To
+improve CTR, you should create appealing ads and make sure they target the
+right audience.
+Focus on CPM (Cost per Thousand Impressions).
+CPM measures how much it costs to show your ad to 1,000 people. This
+value depends on several factors, including your target audience and the
+quality of your ad. Monitor CPM to detect any seasonal trends and to
+evaluate the effectiveness of your campaigns. During high CPM periods,
+such as holidays, you may need to balance your budget appropriately.
+Evaluate the CPC (Cost per Click)The CPC represents the cost of each click on your ad. This value can vary
+widely depending on the goal of the campaign and the 
+type of audience you
+are trying to reach. For example, if you are looking for conversions, the CPC
+may be higher but may result in better results in terms of sales. To reduce the
+CPC, you can work on your offer, the quality of your creative, and audience
+segmentation.
+Choose placements
+Facebook offers a number of ad placements, such as the news feed,
+Instagram, Audience Network and more. Automatic placement is often
+recommended because it allows Facebook to optimize the distribution of your
+ad. However, you can consider whether excluding specific placements could
+help improve campaign performance. For example, if the Facebook feed is
+particularly expensive, you could exclude it to save costs.
+Choose the right target audience
+Audience segmentation is critical. Be sure to select an audience that matches
+your buyer persona and campaign goals. For example, if you are selling
+household products, avoid targeting ads to people under the age of 30, as they
+may not have a home of their own. Do a thorough study of the demographic
+and behavioral characteristics of your audience.
+Optimize landing page or product sheet
+The page you take users to after they click on the ad is crucial. Make sure the
+landing page or product sheet maintains continuity with the ad so that users
+find what they expected. 
+Optimize the visual aspect and make sure the user
+experience is smooth. Answer frequently asked questions that potential
+customers might have before making a purchase.
+Conversion Rate Optimization (CRO)
+CRO involves testing and optimizing the user experience to increase the
+conversion rate. This may mean creating different versions of a landing pageto see which converts best or making sure that buying a product is as smooth
+as possible for users. The goal is to reduce advertising costs while improving
+conversions.
+These optimizations will help you maximize the effectiveness of your
+Facebook advertising campaigns, improving the ratio of costs to results.Chapter 10:
+Artificial Intelligence and Facebook Ads
+Currently, artificial intelligence in Facebook Ads is one of the most bursting
+innovations in the world of online marketing.
+In fact, AI is influencing creativity, text and ad campaigns on Facebook. In
+this important final chapter I introduce Facebook Dynamic Ads and try to
+share some tips that you can apply immediately to your campaigns.
+AI within Facebook offers many possibilities. It allows you to have an
+algorithm that better understands who responds to your ads and who doesn't,
+and it can also identify which creative and text work best. It is also able to
+allocate budget more intelligently toward the highest performing targets,
+among many other things.
+One major change concerns the ability to set an advanced budget, known as
+"Advantage Plus." In this way, the AI will automatically distribute the budget
+according to specific time slots and days and also according to ad groups.
+This is just one of many improvements in the area of Facebook ads made
+possible by artificial intelligence.Facebook Dynamic Ads
+Facebook Dynamic Ads are a form of dynamic advertising offered by
+Facebook that allows companies to show customized ads to users based on
+their past interactions with the company's website or app. These ads are
+particularly effective for remarketing, that is, reaching users who have
+already visited the company's website or interacted with the company's app.
+Here's how they work.
+Product catalog creation
+To use Facebook Dynamic Ads, the company must first create a product
+catalog that lists the products or services it wishes to promote.
+Tracking users' actions
+Facebook tracks users' actions on the company's website or app, such as
+viewing products, adding them to a shopping cart or making a purchase.
+Creation of dynamic ads
+Advertisers can then create dynamic ads using the product catalog and user
+behavior information. Ads can include titles, descriptions and images of
+relevant products.
+Customized targeting
+Facebook uses the data collected to show dynamic ads to users who have
+shown specific interest in the company's products or services. This allows it
+to create ads that are highly relevant to the user.
+Automatic optimizationFacebook Dynamic Ads are designed to automatically optimize the
+distribution of ads, showing them to people most likely to take actions such
+as buying.
+This approach to online advertising allows companies to show relevant
+products to users in an automated way, increasing the likelihood of
+conversion and enabling greater user engagement. Facebook Dynamic Ads
+are particularly useful for companies that have a large catalog of products or
+services and want to maximize the value from their Facebook and Instagram
+ads.
+To set up dynamic ads on Facebook, follow these steps:
+1
+. 
+Sign in to Facebook Ads Manager: Sign in to your Facebook
+Ads Manager account or create an account if you don't
+already have one.
+2
+. 
+Create a new campaign: In the Ads Manager, click "Create" to
+start a new ad campaign.
+3
+. 
+Select campaign goal: Choose the ad campaign goal that best
+suits your needs, such as "Conversions" or "Catalog Sales,"
+which are goals commonly associated with dynamic ads.
+4
+. 
+Configure the campaign: Set the details of your campaign,
+such as the campaign name, specific goal, budget, publication
+time, and target audience. You can select the audience based
+on your demographic, geographic and interest preferences.
+5
+. 
+Create a product catalog: For dynamic ads, you must have a
+product catalog in Facebook Business Manager. You can
+create it by following the instructions provided by Facebook.
+The catalog allows you to upload your products and related
+information.
+6
+. 
+Create a dynamic ad set: When setting up a new ad set, select
+the "Dynamic Ad" option under the ad format. Enter the name
+of the ad set and link to the previously created product
+catalog.7
+. 
+Configure the dynamic ad template: Choose a template for
+your dynamic ad. You can customize it to suit your needs,
+including elements such as title, description, and image.
+8
+. 
+Choose product type: Decide whether you want to promote all
+products in the catalog or only some by selecting them based
+on specific criteria, such as category, price or brand.
+9
+. 
+Set automation rules (optional): You can configure
+automation rules to optimize ad display based on user
+behavior or ad performance. For example, you can
+automatically show products related to those viewed by a
+user.
+10
+. 
+Confirm and Publish: Review and confirm your dynamic ad
+set settings and click "Publish" to activate the campaign.
+Dynamic Creativity
+When it comes to dynamic creative, you are giving Facebook's algorithm a
+range of creative options for your ads. This can include variations of images,
+videos, text, headlines and descriptions. The goal is to give the algorithm a
+wide range of elements from which to choose so that it can customize the ads
+to better suit the target audience. The algorithm explores all these different
+combinations to identify which ones work best in terms of engagement and
+conversions. So by providing a wide variety of creative elements, you are
+giving the algorithm more leverage to optimize the performance of your ad
+campaign.
+Do not interfere with incubation
+Incubation is the initial period of an ad campaign in which Facebook's
+algorithm is learning the audience's behavior. During this phase, it is crucial
+not to make any changes or interventions to the campaign. This is because the
+algorithm needs to collect data and learn which ads work best with the target
+audience. Therefore, avoiding making premature changes is essential. By
+letting incubation proceed without intervention, you are allowing thealgorithm to gain the background information it needs to optimize your
+campaign later.
+Analyze the data
+Once your ad campaign has passed the incubation phase and is rolling, it's
+time to examine the data collected. Within Facebook's Business Manager,
+you will find analytical tools that allow you to delve deeper into campaign
+performance. You can analyze key variables, such as the different creative
+used, placements, target audiences, and more. This data analysis will give
+you a detailed view of what is working best and what can be optimized.
+Using this information, you can make targeted improvements to your ad
+campaign, tailoring it based on the actual data you have collected.
+In summary, by using dynamic creative, respecting incubation, and analyzing
+data accurately, you will be able to make the most of the power of Facebook's
+artificial intelligence to improve the performance of your advertising
+campaigns.
+We think of campaign management as a puzzle. When you have collected
+enough data, you have the opportunity to examine it closely. This allows you
+to figure out which types of creative (such as images, videos, text), and
+combinations are working well and which are not. In other words, you can
+find out what is getting your audience's attention and what is only increasing
+the cost of your campaigns without providing positive results. This analysis
+allows you to understand how to optimize your advertising budget, focusing
+it on the strategies that give the best results.
+An important aspect is that, at this stage, you are not only collecting data, but
+also interpreting and storing it to make better decisions in the future.
+Remember that when you 
+advertise, you are capturing valuable data, and
+understanding it is critical to success.
+When we talk about "dynamic ads," then, we are referring to a feature that
+allows Facebook to generate many variations of ads automatically. You can
+leave it to Facebook to experiment and test these variants and then take action
+to optimize based on the results you are getting. In essence, Facebook does
+the "dirty" part of the work, and you can make more informed decisions toimprove your campaigns.
+Now, we come to the last tip, which is about placements. As mentioned, with
+the "Advantage Plus option," you can influence how Facebook's system
+distributes the budget between placements, such as Facebook and Instagram.
+This is based on what you have set up in your campaign and how the
+audience is responding. Initially, I recommend that you enable the option
+"Advantage Plus." Recently, I have noticed that this option has led to
+particularly interesting results.
+In addition, the intelligence built into Facebook's algorithm, or Meta, is truly
+amazing. It can autonomously understand where and when to focus efforts
+for best results, even considering the best times.
+When we talk in the jargon about "going snooping within placements," we
+are referring precisely to examining how your ads are performing on different
+places, such as Instagram and Facebook. This will help you find out which
+positions are getting the best results. You might be surprised, for example, at
+how well your ads can perform on Instagram, even if you thought your
+audience was more focused on Facebook.
+The idea here is to take full advantage of the Facebook algorithm's ability to
+automatically optimize placements. However, this does not mean that you
+should rely completely on the algorithm; it is also important to know how to
+optimize manually, interpret the data, and understand how to manage your
+campaigns efficiently.
+Indeed, advertising platforms realized before anyone else how powerful
+artificial intelligence could be and how it could be a tremendous asset if
+integrated properly into their algorithms.
+In short, in this way, the algorithm becomes more efficient as artificial
+intelligence speeds up the learning process and better understands who
+responds positively to advertisements. So if you launch an ad campaign
+today, the algorithm will be able to quickly identify your target audience and
+improve the effectiveness of your campaign.
+Imagine you launch an ad campaign to promote your books. Suppose random
+names such as Mario Rossi and Lucia Ferrari interact with your ad, leavelikes, comments and ultimately buy the book. What happens?
+First of all, this is a very positive sign. People are interacting with your ad
+and making purchases, which indicates good ad performance. But there's
+more: the Meta algorithm understands that this ad is performing. Although I
+used random names as an example, the principle remains the same. The more
+data we have, the better. Why? Because the algorithm, empowered by
+artificial intelligence, begins to identify who is responding positively to your
+listings.
+Basically, the algorithm becomes like a bloodhound looking for other people
+with similar characteristics who might 
+be interested in your listings. The
+integration of artificial intelligence into the algorithms is definitely an added
+value. This process not only affects Meta but also other platforms such as
+Google. Therefore, it is crucial to properly define the goals of your listings
+for optimal results, for example, if your goal is sales, you should set a
+conversion goal.
+These new interactions in advertising campaigns, as you may have guessed,
+can lead to extraordinary results.Conclusion
+In this comprehensive guide to Facebook Ads, you've explored every aspect
+of Facebook ads, from understanding the fundamentals of advertising to
+creating advanced strategies to achieve successful results. Facebook Ads is an
+extraordinary tool for reaching targeted audiences, increasing brand
+awareness, conversions and sales.
+You learned how to create engaging ads, set up and configure your ad
+account, measure the effectiveness of campaigns, and use advanced strategies
+such as retargeting and similar audiences. You also gained knowledge about
+bidding strategies and the importance of bursting artificial intelligence in
+Facebook ads.
+Remember that success in Facebook ads requires consistency, monitoring and
+adapting to the evolving needs of your audience. Avoid common mistakes
+and make the most of the tools and metrics at your disposal.
+I trust this guide has provided you with a solid foundation for creating
+successful Facebook advertising campaigns and maximizing your ROI. Keep
+exploring, testing and adapting strategies to get the best possible results.
+At the end of this comprehensive guide to Facebook Ads, it is important to
+reflect on what you have learned and how you can apply this knowledge to
+improve your marketing strategies.
+Facebook Ads is an ever-evolving tool, and taking full advantage of it
+requires dedication and adaptability. Here are some key considerations.
+Planning and Goals
+Remember the importance of setting clear goals for your campaigns. Whether
+it's to increase sales, generate leads or improve brand awareness, setting
+measurable goals will help you gauge the success of your campaigns.
+Creativity and TargetingAd creative and targeting are critical to success. Be sure to create ads that are
+engaging and relevant to your audience. Use Facebook's targeting options to
+reach the right people at the right time.
+Measurement and Optimization
+Performance monitoring is crucial. Use metrics provided by Facebook to
+assess which campaigns, ads and audiences are performing best. Optimize
+campaigns based on the data collected to maximize ROI.
+Advanced Strategies
+Leverage advanced strategies such as retargeting and similar audiences to
+maximize the effectiveness of your campaigns. Explore different bidding
+strategies based on your specific goals.
+Continuous Learning
+Facebook Ads is constantly evolving. Keep up-to-date on new features and
+best practices. Continuous learning will help you stay competitive in the
+world of online advertising.
+Common Errors
+Avoid common mistakes that many companies make, such as inaccurate
+targeting or failure to track campaigns. Learn from the mistakes and adjust
+your actions accordingly.
+Artificial Intelligence
+Artificial intelligence is playing an increasingly important role in Facebook
+ads. Explore how you can leverage AI to optimize your campaigns and
+improve ad effectiveness.
+In conclusion, Facebook Ads is a powerful marketing tool that can bringextraordinary results if used correctly. Continue to explore, test and adapt
+your strategies to fit the changing needs of your audience. Success requires
+commitment, but the opportunities are immense.
+Thank you for getting this far and don't forget to leave a review on Amazon, I
+look forward to hearing from you.
+Also, if you want to deepen your knowledge of digital marketing, I highly
+recommend purchasing my books on Google Ads, social media and email
+marketing, available on Amazon in five languages.
+If you have any questions or would like to get in touch with me, please feel
+free to write to support@ewritinghub.com asking for Bryan.
+Ad maiora.

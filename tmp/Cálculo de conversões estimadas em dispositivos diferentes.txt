@@ -1,0 +1,125 @@
+Cálculo de estimativa de conversão em dispositivos diferentes 
+A jornada do consumidor moderno tem muitas reviravoltas. Ela abrange diversos dispositivos, canais e tipos de 
+mídias. De fato, 90% das pessoas começa uma atividade em um dispositivo e termina em outro . Para ajudar os 
+profissionais de marketing a medirem completamente o impacto dos anúncios deles na jornada do consumidor 
+e impulsionar mais conversões, o Google lançou o acompanhamento de conversões em dispositivos diferentes 
+no Google AdWords para pesquisa e exibição de anúncios. Use-o para saber sempre o motivo e o método por 
+trás das decisões do consumidor. 
+Um exemplo de como calculamos conversões em dispositivos 
+diferentes no Google AdWords: 
+Uma livraria on-line está promovendo um novo romance, que recebe 100 cliques de anúncios. 
+Existem diversas medidas que tomamos para determinar quantos desses 100 cliques de 
+anúncios se transformarão em conversões em dispositivos diferentes. 
+Inicialmente, verificamos os cliques de anúncios de um profissional de marketing que levaram 
+a conversões em dispositivos diferentes de usuários que já tinham feito login em serviços do 
+Google. Em seguida, expandimos o modelo para mostrar quantas conversões em dispositivos 
+diferentes um profissional de marketing relataria se todos os cliques e as conversões do 
+Google AdWords viessem de usuários que já tinham feito login. 
+Fazemos isso ao personalizar nosso modelo de estimativa em dispositivos 
+diferentes com base em diversos fatores exclusivos de cada profissional 
+de marketing para otimizar a precisão do modelo para cada campanha 
+e grupo de anúncios. 
+Por fim, divulgamos o relatório somente se tivermos 95% de certeza de que 
+ele reflete o comportamento real do usuário em dispositivos diferentes. 
+Por exemplo, para uma conta que mostra 100 conversões em dispositivos 
+diferentes, seria necessário 95% de confiança de que o resultado real está 
+entre 90 e 110. 
+Metodologia em dispositivos diferentes 1/3 As conversões em dispositivos diferentes começam como um clique em um anúncio em um dispositivo e terminam como uma conversão 
+em outro dispositivo ou em um navegador da Web diferente no mesmo dispositivo. Para medir as estatísticas de conversão em dispositivos 
+diferentes, usamos dados agregados e anônimos de usuários que já tinham feito login antes em serviços do Google. Assim, fornecemos 
+aos profissionais de marketing relatórios altamente precisos e granulares sobre o comportamento em dispositivos diferentes, sem 
+comprometer a privacidade do usuário. 
+Nosso modelo é personalizado, com base em diversos fatores 
+importantes: 
+● País : as taxas de login podem variar por país. Por exemplo, se metade dos cliques 
+da livraria on-line vem do Canadá e outra metade, do Reino Unido, os cliques de cada 
+país terão um resultado esperado um pouco diferente. 
+● Tipo de conversão : os anunciantes usam muitos tipos de conversão diferentes 
+(leads, compras etc.), e as estatísticas de desempenho para cada um podem variar 
+significativamente. Nesse exemplo, personalizamos o modelo especificamente para 
+a conversão de vendas de livros. No entanto, também podemos considerar outros 
+tipos de conversão, como inscrição no boletim informativo. 
+● Data : as taxas de cliques e conversões de usuários que já tinham feito login podem 
+variar com o tempo, com base em muitos fatores, por exemplo, se você usou ou não 
+um login do Google em seu site para podermos atualizar nosso modelo 
+constantemente. 
+● Dispositivo do clique e da conversão : o tipo de dispositivo afeta ambos se um 
+usuário fizer login em serviços do Google na hora do clique e da conversão. 
+É mais provável que um visitante da livraria on-line tenha feito login em um serviço 
+do Google em um computador na hora do clique do que em um dispositivo móvel. 
+O modelo leva em conta essas variações. 
+Veja o que acontece com mais detalhes: 
+1. Observar as conversões em dispositivos diferentes de usuários 
+do Google que já tinham feito login. 
+Depois, quando um clique de anúncio do consumidor se transforma em uma compra, 
+é possível ver qual dispositivo ou navegador ele usou quando clicou no anúncio. Também 
+podemos verificar se ele usou um dispositivo ou navegador diferente na hora da conversão. 
+O acompanhamento tradicional de conversões é vinculado a um único navegador. Por isso, 
+no passado, os profissionais de marketing não conseguiam reconhecer as conversões que 
+aconteciam em outros dispositivos ou navegadores. 
+Na livraria mencionada, verificaríamos quantos cliques em anúncios vieram de usuários que já 
+tinham feito login e quantos desses cliques resultaram em conversões de cada um desses 
+usuários em outro dispositivo ou navegador. Nosso sistema credita o último clique em um 
+anúncio do Google com a conversão. Por exemplo, se um usuário clicar em um anúncio no 
+smartphone e depois clicar em outro anúncio para o mesmo profissional de marketing no laptop 
+antes de fazer uma compra, essa conversão será creditada ao clique no anúncio no laptop 
+dentro do Google AdWords. Essa etapa nos permite observar conversões em dispositivos 
+diferentes, enquanto nos certificamos de que não existem relatórios duplicados para outras 
+conversões baseadas em cookies dentro do Google AdWords. 
+2. Criar um modelo personalizado para estimar as conversões 
+em dispositivos diferentes para todos os cliques de anúncios. 
+Em seguida, verificamos os sinais que vêm dos cliques e dos pixels de conversões do Google 
+AdWords. Isso anos ajuda a entender com que frequência os consumidores que compravam ou 
+eram convertidos faziam login em serviços do Google anteriormente. Nesse ponto, temos dois 
+grupos de informações importantes: a linha de base de conversões observadas em dispositivos 
+diferentes e uma compreensão da porcentagem de cliques de anúncios e de conversões de 
+usuários que já tinham feito login. 
+Agora, calculamos uma taxa esperada de conversão em dispositivos diferentes para todos 
+os demais cliques em anúncios que vêm do tráfego de usuários que não tinham feito login. 
+Metodologia em dispositivos diferentes 2/3 3. Usar o modelo para relatar o tráfego geral em dispositivos 
+diferentes, mas mostrar os dados somente quando tivermos 
+certeza da precisão. 
+Neste ponto no exemplo, temos as informações necessárias para mostrar à livraria quantas 
+conversões em dispositivos diferentes estão sendo impulsionadas pelas campanhas do 
+Google AdWords. 
+Se observarmos 6 compras de livros de usuários que já tinham feito login em dispositivos 
+móveis, poderemos usar os demais sinais disponíveis para estimar que a quantidade real 
+de conversões em dispositivos diferentes é 10. 
+A etapa final é apenas relatar os dados que atendem a nossos limites rígidos de certeza. Isso 
+significa que relatamos dados de conversão em dispositivos diferentes somente quando 
+temos ao menos 95% de certeza de que a estimativa está dentro de 10% do valor real. Se não 
+alcançarmos essa meta rigorosa, não relataremos nenhuma conversão em dispositivos 
+diferentes. 
+Melhoria da cobertura de métricas em dispositivos diferentes 
+O Google fornecerá estimativas em dispositivos diferentes automaticamente com 
+a maior frequência possível. No entanto, há medidas que você pode tomar para aumentar 
+a cobertura da métrica em sua conta: 
+● Adicionar o código de acompanhamento de conversões a todos seus sites : isso 
+se aplica a todas as páginas de conversão relevantes em todos os dispositivos 
+(dispositivos móveis, computadores e tablets). 
+● Utilizar acompanhamento de conversões entre contas  caso você tenha mais 
+de uma conta que segmente usuários no mesmo mercado. Lembre-se de que 
+você também pode simplificar o gerenciamento de tags com o Gerenciador de 
+tags do Google quando você implementar o acompanhamento de conversões 
+entre contas. 
+Metodologia em dispositivos diferentes 3/3 ● Permitir que as tags do Google AdWords registrem todas as 
+transações, não apenas aquelas diretamente do Google : se você 
+usar uma tag de contêiner, ela será acionada seletivamente somente 
+se o usuário vier diretamente do Google. Isso eliminará nossa 
+capacidade de fornecer relatórios em dispositivos diferentes. 
+● Definir uma duração apropriada da janela de conversão : escolha 
+uma duração de ao menos 30 dias para exibir o valor de longo prazo 
+recebido de usuários de dispositivos diferentes. Em média, as 
+conversões em dispositivos diferentes demoram mais do que 
+conversões padrão. Isso também ajudará você a descobrir mais 
+palavras-chave de "funil superior" que tendem a começar como um 
+clique móvel e ser convertidas em outro dispositivo. 
+● Adicionar um símbolo do G+ a seu site  para aumentar as taxas de 
+login no Google em suas páginas e melhorar ainda mais a precisão 
+de seus resultados. 
+Os dados de conversão em dispositivos diferentes do Google AdWords estão 
+disponíveis para os anunciantes medirem como o marketing para smartphones 
+afeta as conversões. Para começar, basta usar o acompanhamento de 
+conversões e, assim que dados suficientes forem coletados, os relatórios serão 
+exibidos nas colunas "Estimativa do total de conversões" para ajudar você a 
+medir os momentos que importam. 

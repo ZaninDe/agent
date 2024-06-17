@@ -1,0 +1,333 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Supporting Stakeholders with Extranets  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+This report provides practical advice for developing secure, user -friendly 
+extranets for your key stakeholders.  
+ 
+Read this brief 7 -page report to learn:  
+ 
+ What is an Extranet?  
+ Business Benefits of Creating an Extranet  
+ Security Issues Surrounding Extrane ts  
+ Extranet Design Best Practices  
+ How to Set -up your Extranet  
+ 
+ 
+Review this report to understand how to implement an external 
+communication tool for employees, partners, customers, or other key 
+stakeholders. Use our Extranet Development Checklist to ens ure you 
+don’t miss any key steps in the process.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+Table of Contents                                Page  
+ 
+ 
+ 
+What is an Extranet?        3  
+ 
+Business Benefits of Creating an Extranet     3  
+ 
+Security Issues Surrounding Extranets      4  
+ 
+Extranet Design Best Practices       5  
+ 
+How to Set -up your Extranet       6 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+What is an Extranet?  
+Business Benefits of Creating an Extranet    
+ 
+ 
+ 
+ 
+An extranet is an extension of a company’s internal network that allows 
+authorized users to access information in a secured manner. Public 
+access can be given to employees, customers, partners, investors, or 
+other key stakeholders.  
+  
+Extranets generally r eside on a company’s private server rather than on 
+a public Internet server. However, they use Internet protocols so users 
+can navigate with a web browser. Access from the Internet can be 
+controlled through various architectures that are username/password 
+specific, thus limiting users to pages relevant to their needs, while 
+keeping other areas of the extranet private and secure.  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+Many service oriented companies use extranets to provide a system for 
+customer support and to have a single user interface to communicate 
+with business partners. Other reasons companies tend to use extranets 
+are as follows:  
+ 
+ Supply Chain Integration : Onli ne ordering, order tracking, and 
+inventory management.  
+ 
+ Cost Reduction : Companies will often make manuals, 
+catalogues, or technical documentation available online to save 
+money on printing and distributing hard copies.  
+ 
+ Accountability : Past projects and draft documents can be 
+archived, accurate time and billing information can be 
+documented, and a communication log can be maintained to 
+ensure service level agreement are met.     
+ 
+ Collaboration between  Business Partners : Allowing members  
+of a product team to work with common documentation remotely 
+can increase collaboration.     
+ 
+ Improve Business Relationships : Extranets provide better 
+communications among business partners.      
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+Security Issues Surrounding Extranets   
+ Improve Customer Service : Allows customers to have direct 
+access to information and to resolve their own inquiries 24/7.     
+ 
+ Work remotely : Enables constant communication and access to 
+business information regardless of time or location. This can also 
+make servicing remote clients easier and less expensive than 
+traditional methods.     
+ 
+ Security : Provided this is a requirement for your extranet, 
+exchanges will take place in a secure environment with log 
+information readily available.  
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+When business data is made available to stakeholders, it is expected to 
+be available, up -to-date and secure at all times. It is often difficult to 
+protect all extranet applications using the same security infrastructure 
+because each business application te nds to have its own unique set of 
+performance and security requirements.  
+  
+ 
+The following is a list of key security considerations:  
+  
+ 
+ Align Stakeholder Security Expectations : ensure that all 
+users of the extranet understand that they have a responsibility 
+to ensure that data is kept secure.     
+ 
+ Document Service Level Agreements (SLA) : clearly 
+document resolution times for customer issues, based on 
+severity, business impact, and available resources. Minimize any 
+liabilities regarding customer support.     
+ 
+ Take Extranet Liabilities into Account : risks such as 
+unplanned disasters (denial  of service), performance 
+degradations or application unavailability, and security breaches, 
+can cause major problems if your business becomes entirely 
+dependent on this system.     
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+Extranet Design Best Practices   Review Extranet Access Controls  to validate that they 
+represent the best c hoices for the specific business applications 
+and user connectivity needs. Consider adding two -factor 
+authentication to increase security.  
+ 
+ Cost Development Efforts Accordingly : All administration, 
+integration, and management costs should not be overlooke d or 
+underestimated.     
+ 
+ Consider Other Security Measures on a per application 
+basis : These include data encryption and protection, mutual 
+client/server authentication, and user access rights verification 
+along with non -repudiation.     
+ 
+ Establish Security Policies : user access and privilege 
+requirements must be established, disseminated to users, and 
+actively enforced to reduce your risk.     
+ 
+ Review Privacy Legislation : evaluate HIPAA, Sarbanes Oxley, 
+and other legislation to ensure that the information you  plan to 
+provide is permitted.     
+ 
+ Application Security Reviews : should be conducted to ensure 
+that security policies are working as planned. Be sure to actively 
+check access logs on a weekly basis.   
+  
+ Servers and Physical Storage  must be situated in a sec ure 
+environment to ensure application availability.     
+ 
+ Don’t Forget to Create Backups : on a daily basis.  
+ 
+ 
+ 
+ 
+   
+ 
+ 
+1. Take Time to Select the Right Solution : Employees must be 
+comfortable with the solution. It must also reflect the right 
+amount of information you want to store and exchange with 
+clients, partners, or other users.  
+ 
+2. Consider Outside Assistance : If you don’t have internal IT 
+skills, hire a reput able IT service provider who can help with set -
+up, hosting and on -going support.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+How to Set up  your Extranet  3. Monitor the Solution : Monitoring can be done both internally 
+(through employee survey) and externally (through client 
+feedback). Also, review adoption rates and application 
+performance on a regular basis.  
+ 
+4. Review the Solution : After a few months, conduct a formal 
+review to see how much money the system has saved your 
+organization. It is also important to consider intangible benefits 
+like increased customer satisfaction.  
+ 
+5. If It’s Not Working, Don’t Use It : Don’t  waste time trying to 
+force a fit for all stakeholders. You can always add functionality 
+or sections for stakeholder groups on an incremental basis. 
+Current solutions may need to be replaced with more user -
+friendly or secure applications.  
+ 
+6. Don’t Put Everything In : Too much information in your 
+extranet can make it more difficult for users to find what they are 
+looking for. Create a homepage that lists the most commonly 
+searched for information, to facilitate user adoption rates and 
+experience.  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+Make sure to use Demand Metric’s Extranet Development Checklist  
+to ensure nothing is overlooked when setting up your extranet. It is 
+import ant to take the following criteria into consideration before moving 
+forward:  
+  
+1. Define your Requirements : Conduct ample research into 
+external and internal stakeholder requirements. Use our 
+Business Requirements tool  to document requirements for 
+each stakeholder group.  
+ 
+2. Goals and Objectives : Align internal and external goals with 
+senior level objectives. Also, outline desired outcomes and how 
+success will be measured.  
+ 
+3. Select Target Audience : Discuss your target audiences and 
+how this solution will address their needs. Ensure that all key 
+requirements can be delivered.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+4. Content : Determine what content you would like to deliver via 
+your extranet and create a content structure that is intuitive and 
+easy to find information. Read our report on Revitalizing 
+Intranets  to gather ideas for content that you would like to 
+make available externally.  
+ 
+5. User Access Controls : Develop a strategy to control access and 
+to manipulate data (i. e. rights given to add records, modify 
+records, and delete records). This is generally done by user, by 
+role, or by workspace.  
+ 
+6. Create Role Based Functionality : Address roles in your 
+organizations (administration, client, employee, management) 
+and assign features and functions to roles. Training and on -going 
+support must also be addressed, when determining maintenance 
+processes.  
+ 
+7. Implement your Solution : work with your IT department or 
+service provider to technically implement your extranet and 
+conduct ad equate testing procedures.  
+ 
+8. Go Live : This is done following a period of testing. Be sure to 
+communicate the launch of this new resource.  
+ 
+9. Conduct User Training : Ensure that all user groups are 
+comfortable using the extranet to drive adoption.  
+ 
+10. Review an d Monitor : Monitor user adoption and review goals, 
+objectives, and metrics on a regular basis.  
+  
+ 

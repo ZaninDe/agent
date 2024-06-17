@@ -1,0 +1,776 @@
+BlueprintAI for Personalization
+Sponsored By2  |  AI for Personalization Blueprint  3  Why Artificial Intelligence Is a Must for Personalization
+5  A Quick Introduction to AI for Personalization  
+ What Is AI? 5
+ Machine Learning and the Core Types of AI 7
+9   How to Find AI Use Cases in Personalization  
+Top AI Use Cases in Personalization 10 
+Top Personalization Use Cases by Industry 11
+13  Top Companies using AI for Personalization 
+ How Bundesliga creates fan engagement with Amazon Personalize 13
+ Yelloh transforms into a modern mobile retailer with personalized communications 14
+ ResMed uses Amazon SageMaker to personalize sleep therapy for millions 15
+16  Top AI Tools for Personalization 
+  Amazon Personalize 16 
+Amazon SageMaker 18 
+Airship 19 
+Dynamic Yield 19 
+Mutiny 19 
+Persado 19 
+Rasa.io 20 
+Sailthru 20
+21  Why Personalization of the Future Depends on AI
+ About Marketing AI Institute 22
+ About Amazon Web Services (AWS) 22
+ Table of Contents3  |  AI for Personalization Blueprint  
+It has never been more important for your brand to master the art and science of 
+personalization. 
+The vast majority of B2C and B2B consumers expect sophisticated personalization from brands. A full 
+86% of B2B consumers expect you to understand their personal preferences, says Gartner . And 71% 
+of B2C consumers expect the same. Not to mention, they expect you to act on it to deliver highly 
+personalized experiences.
+There’s just one (very big) problem:
+Of the companies doing personalization, most still personalize based on simple pre-defined rules. (“If 
+you are X, you will see Y.”) 
+Pre-defined rules used to work well enough in the early days of digital experiences. Back then, 
+you didn’t have much user data to work with. You could tell what someone clicked on or visited or 
+bought—and that was about it. Limited data meant limited personalization options. So, limited rules 
+weren’t a problem.
+Today, this couldn’t be further from the truth.
+Companies have a flood of data on users from a huge number of sources. Consumer interactions 
+take place across more touchpoints than ever. And we have a breathtaking number of ways to 
+personalize content and products based on this data.
+These conditions make pre-defined rules woefully inadequate for modern personalization. In fact, 
+pre-defined rules have a few fatal flaws that can actively work against you:
+Why Artificial Intelligence  
+Is a Must for Personalization
+1.   They’re static. Pre-defined rules don’t change. They don’t respond to new data. They don’t 
+adapt to evolving consumer needs and behaviors. If your customers change, pre-defined 
+rules don’t. As a result, they often create an outdated and ineffective customer experience. 
+For instance, you might use static, pre-defined rules to display your latest content first on 
+your website. That’s a one-size-fits-all approach that completely fails to take into account a 
+customer’s content preferences or display content based on their consumption habits.  
+2.   They can’t get full value out of your data. Most companies have a wealth of data that can create better 
+personalization. But it’s hard to leverage this data with pre-defined rules. Every new data source used requires 
+more rules to create better personalization. Few teams have the bandwidth to create rules indefinitely to 
+improve their personalization.  
+3.   They don’t scale. Every pre-defined rule is manually built and manually maintained. Every pre-defined rule 
+created introduces more complexity, conflicts, and complications. The more complexity, the higher cost of 
+resources and time to manage personalization. That makes it impossible to effectively scale a pre-defined 
+rules-based approach.
+These flaws are why top brands are turning to AI for personalization. AI has many ways to overcome the limitations 
+of pre-defined personalization rules. It operates in a fundamentally different way than pre-defined rules.
+With pre-defined rules, you manually define and create the personalization rules. With AI, you specify your 
+personalization goal, and it figures out which rules to follow to achieve it.86% of B2B 
+consumers 
+expect 
+you to 
+understand 
+their 
+personal 
+preferences.
+ 71% of B2C 
+consumers 
+expect the 
+same. 4  |  AI for Personalization Blueprint  
+•  AI dynamically and automatically personalizes content and products. It also can 
+adapt and improve on its own over time in response to changing data and behaviors 
+in real time.
+ 
+•  AI uses massive amounts of your data from different sources to provide 
+recommendations. If you have a large amount of high-quality, accurate data, it can 
+rapidly improve your performance.
+ 
+•  AI scales as your personalization program grows since it doesn’t rely on manual,  
+pre-defined rules.
+•  What AI is and what it is capable of doing.
+ 
+•  What AI use cases are available for personalization, and how to find your brand’s specific use cases.
+ 
+•  What AI tools and technologies can create real business outcomes for you.
+That means:
+In fact, AI can:  
+• Segment users based on their particular dynamic behaviors and interactions.
+ 
+•  Deliver highly personalized digital experiences exactly tailored to individuals.  
+That includes personalizing based on needs, wants, and behaviors learned over time.
+ 
+•  Increase customer engagement and satisfaction with truly intelligent content and product 
+recommendations, which ultimately increases revenue for your business.
+Not to mention, you don’t have to build your own AI models with leading solutions. Instead, you can use out-
+of-the-box AI personalization to see return-on-investment (ROI) fast. According to McKinsey, organizations that 
+have implemented personalization see a 10-15% increase in revenue. That benefit is even bigger in direct-to-
+consumer businesses, with personalization providing up to a 25% lift in revenue for these types of companies.
+Maybe that’s why Gartner predicts 80% of all customer contact will take place via AI by 2030. And it’s definitely 
+why you should consider using AI in your personalization efforts.
+The good news is: That’s never been easier to do. 
+Powerful AI is now accessible to professionals in marketing, sales, and more. Enterprise developers who 
+don’t have AI experience can also deploy the technology. You and your team can now operationalize AI at 
+scale while mitigating the risks that can arise when building and deploying AI models.
+AI also makes it possible to do effective omnichannel personalization at a 1-to-1 level. That means you can 
+personalize the entire user journey across different devices, allowing you to connect deeper, make more relevant 
+recommendations, and capture the user’s attention, loyalty, and engagement.
+And the best part?
+At no point do you need a degree in data science or machine learning to do it. You just need to understand 
+the following:
+The rest of this guide shows you how through actionable advice, recommendations on use cases 
+and tools to use, and real-world examples of AI personalization using AWS offerings, including 
+Amazon Personalize.Why Artificial Intelligence Is a Must for Personalization
+Organizations 
+that have 
+implemented 
+personalization 
+see a 10- 15% 
+increase in 
+revenue. 5  |  AI for Personalization Blueprint  
+To grasp what’s possible with AI, you need to understand the technology. But don’t worry. You don’t 
+need to get a Ph.D. in the subject to do that. All you need is a simple, useful definition of AI. That will 
+allow you to see how it’s different—and much smarter—than the technology you use today.
+Let’s dive in.
+What Is AI?
+If you ask 10 experts to define “AI,” you’ll get 10 different definitions given the complexity of the 
+subject. Our favorite is a simple one:
+AI is the science of making machines smart.
+By “being smart,” these machines, in turn, enhance human knowledge and capabilities. 
+So, what does “being smart” actually mean?
+AI is smart because it can determine its own pathways to achieving an overall goal.
+To illustrate what we mean, let’s look at the traditional software you use today. That software can only 
+do what you tell it to do. You give it rules and instructions. It follows those rules and executes those 
+instructions to the letter. 
+Let’s look at an example:
+Say you want to recommend new products, services, or content to users that visit your website. Here’s 
+what that typically looks like:
+1.  You manually segment users into broad categories. You base these categories on a few simple factors. 
+For instance, the user’s job title, industry, and whether or not they’ve taken an action on your site.
+2.  You then create a set of static personalization rules. Those rules match products and 
+content to users depending on their category. These rules are basic. But despite that, they 
+get complicated quickly. Let’s say your users can select one of five job titles and one of 
+four industries. That’s 20 different possible combinations of title and industry alone. 
+3.  You set your static personalization rules live. Then, you monitor performance across all 
+your different categories. As you analyze performance, you make manual changes to rules 
+based on the data. These changes take a lot of time and effort.
+This type of personalization is probably better than no personalization.
+But it’s not very sophisticated. It’s highly labor intensive. And it’s really inefficient. Every step of the way, 
+you’re in charge of giving the machine instructions and telling the machine what to do. And it follows 
+them without deviation.
+It’s like having an army of hard-working interns who follow your instructions literally. They don’t offer 
+new ideas. They don’t innovate new approaches. They just follow commands.
+This is a huge missed opportunity to create a deeper connection with customers, build a meaningful 
+experience, and build trust and loyalty with consumers by showing them you understand their needs 
+and preferences.
+A Quick Introduction to  
+AI for Personalization
+AI is “the 
+science 
+of making 
+machines 
+smart.”6  |  AI for Personalization Blueprint  
+A Quick Introduction to AI for Personalization
+Thankfully, AI-powered personalization is fundamentally different from traditional personalization.
+ 
+Let’s stick with our example from above. With AI, we can fundamentally transform what’s possible with personalization:
+1.  AI can segment users for you based on a much larger range of attributes and signals. It can learn about 
+your catalog of products and content. It can learn about how users interact with those catalogs. It can 
+segment users dynamically based on their attributes, preferences, and behaviors. And it can segment 
+them into complicated categories without extra work.
+2.  AI can then personalize content, services, and products to users in real time based on a legion of factors 
+and attributes. And AI doesn’t just personalize based on individual factors. It can also personalize in 
+different ways for the same individual based on channel (ads, email, social, etc.). 
+3.  AI can adapt personalization to changing customer interactions automatically. You don’t need to manually 
+update or change rules. You don’t need to stay on top of mountains of data. AI does it all for you. Just one 
+example: AI is perfect for brands that experience seasonality since it can adjust recommendations based on 
+spikes in, for instance, hotel bookings for certain destinations based on the weather in a given location.
+Now, that’s impressive on its own. But here’s the real AI secret sauce:
+AI learns each time it tries to achieve your personalization goals, such as: 
+•  Optimizing for users with no interaction history.
+•  Increasing overall engagement and average order values.
+•  Boosting time spent on page.
+•  Increasing time spent viewing video content.
+•  Surfacing new items to improve upsell and cross-sell opportunities.
+•  And more.
+In fact, each time you use AI for personalization, it learns more about what your customers like best.
+For example, let’s say you have a new user who consumes your streaming content across devices. Over time, AI 
+learns that this user likes watching TV on mobile devices and full movies at home. AI then automatically adjusts 
+recommendations for each channel based on that.
+In another example, let’s say you are a hotel chain that wants to increase customer lifetime value. You can use 
+AI to offer highly personalized property and room recommendations to customers. As AI learns more about 
+your customer’s behavior, it can use that information to personalize upsells and cross-sells while the customer is 
+staying at a property.
+In every case, AI isn’t following the playbook from the last time you personalized an experience for a customer. 
+It’s learning from past engagements and improving its recommendations using a new and improved playbook.
+That’s why AI is so powerful: It has the ability to unlock exponential performance gains over time the more you use it.
+AI is like having an army of geniuses at the top of their game working independently for you 24/7.
+Traditional software using traditional personalization approaches simply can’t compete. And neither can 
+companies using traditional software and approaches. In fact, more than half (60%) of consumers  
+say they will likely become repeat buyers after a personalized shopping experience with a  
+retailer, according to Twilio.7  |  AI for Personalization Blueprint  
+A Quick Introduction to AI for Personalization
+Machine Learning and the Core Types of AI
+We’ve established why AI is much different—and much better—than traditional personalization.
+Now, let’s define a few final ways of thinking about AI that are important to fully grasp the subject.
+The term “artificial intelligence” is a category of technology, not a single tool. It’s a broad suite of 
+techniques that leverage smart machines in different ways.
+These tools rely on “machine learning” to work their magic. Machine learning is the primary 
+subset of artificial intelligence technology. It’s how AI tools achieve goals on their own and learn 
+from their efforts.
+There are a couple of steps to make a machine smart. First, humans have to train the machine. 
+We show the machine data, then train it to recognize patterns in that data. Using those patterns, 
+the machine learns how to achieve goals. Once fully trained, it can recognize those patterns and 
+achieve those goals in the wild. It can also then train itself on what it learns rather than returning to 
+its human teachers.
+Now, machine learning isn’t the only term you’ll hear in discussions of AI. You’ll also hear terms like:
+• Deep learning   • Reinforcement learning
+• Neural networks   • Topic modeling
+• Robotics    • And many, many more
+These terms can be useful to learn. But you don’t need to know all the jargon to understand how 
+and where to apply AI in your business or to see real business value from the technology.
+In fact, you only need to know that there are four core applications of AI: Language, Vision, Speech, 
+and Vertical-Focused.
+Language AI. This is the ability of machines to understand and generate written and spoken words. 
+Language AI technologies and terms you may encounter include:
+• Machine translation.   • Sentiment analysis.
+• Natural language generation.  • Text analysis and summarization.
+• Natural language processing.    
+An example of Language AI in your everyday life is Gmail’s Smart Compose feature. You type an email, 
+and Gmail predicts how to complete your next sentence.
+Vision AI. This is the ability of machines to analyze and understand data from still images and videos. 
+In essence, vision AI seeks to automate tasks that the human visual system can naturally do. Vision AI 
+technologies and terms you may encounter include:
+• Object recognition.   • Emotion generation.
+• Image generation.   • Optical Character Recognition (OCR).
+• Video generation.
+An example of Vision AI in your everyday life is the facial recognition that unlocks your iPhone. Vision 
+AI determines if the face it is seeing is yours and, if it is, grants you access to the device.
+Speech AI. This is the ability of AI to recognize, process, and emulate human voices and speech. 
+Speech AI technologies and terms include:
+• Voice recognition.   • Speech-to-speech translation.
+• Dialogue modeling.   Machine 
+learning is the 
+primary subset 
+of artificial 
+intelligence 
+technology. It’s 
+how AI tools 
+achieve goals 
+on their own 
+and learn from 
+their efforts.8  |  AI for Personalization Blueprint  
+A Quick Introduction to AI for Personalization
+An example of Speech AI is when transcription software recognizes which speakers are saying 
+which words, allowing AI to label their conversation appropriately.
+Vertical-Focused AI. Vertical-focused AI is artificial intelligence designed to perform 
+advanced predictive functions for specific use cases, industries, or verticals. Examples of 
+vertical-focused AI include:
+• Personalization.   • Anomaly detection.
+• Forecasting.   • Fraud detection.
+• Pattern recognition.
+An example of Vertical-Focused AI is Amazon product recommendations. Amazon learns from 
+what you’ve bought in the past on its site, as well as what other users like you are interested in, 
+and recommends other products you are likely to want to buy.
+While there are literally hundreds of use cases for AI-powered personalization, they all fall under 
+one or more of these four core applications.
+Now, let’s find one or more use cases for your work and business.Amazon learns 
+from what 
+you’ve bought 
+in the past on 
+its site, as well 
+as what other 
+users like you 
+are interested 
+in, and 
+recommends 
+other products 
+you are likely 
+to want to buy.9  |  AI for Personalization Blueprint  
+Finding AI use cases doesn’t need to be rocket science. And you don’t have to personalize 
+everything with AI all at once. To start, all you have to do is figure out how AI can help improve your 
+personalization efforts.
+To do that, you’ll want to start by looking at what you and your team do every day, week, 
+month, quarter, etc. Also, list out what business objectives you and your team are trying to 
+accomplish over these time frames.
+For each of the tasks or objectives on this list, ask yourself the three questions below. 
+•  Is it data-driven? Are you using a lot of data to make any decisions related to 
+personalization? Or do you have access to a lot of data you could use to make 
+personalization decisions? If data is used (or exists) to help you perform a task, it may 
+be a good candidate for using AI to do it better and faster.  
+ 
+We’re not talking about straightforward, rules-based decisioning. We’re instead focused 
+on decisioning that requires better data analysis.  
+ 
+Keep in mind: You’ll want to look at areas where you generate a lot of data because AI 
+often needs lots of data to function. That could include data from different locations, 
+business units, catalogs, interaction data from your website (views, clicks, etc.), item 
+metadata (details on new articles, products, etc.), user metadata (age, location, 
+subscription details, etc.), or customer sources. 
+•  Is it repetitive? Do you do the same thing over and over again to accomplish the task? 
+Is there a process to accomplish the business objective that you can define steps for?  
+ 
+AI excels at augmenting or automating tasks that have standardized, repeatable steps. 
+You also don’t need to automate an entire repetitive task with AI. You can look at making 
+individual steps of the process better and faster using AI.
+•  Is it making a prediction? Does your task involve trying to predict something? If you’re 
+doing personalization, you better believe it does.  
+ 
+Personalization is all about making predictions. Predictions about what users want to see, 
+consume, buy, and do. And AI is uniquely suited to making predictions that are delivered  
+in real time.  
+ 
+Look for predictions you try to make—or would like to make—minute-by-minute.
+You don’t have to answer “yes” to all three questions to have an AI use case. Answer “yes” to one 
+or two questions, and the task is a likely use case for AI. Answer “yes” to all three questions, and it 
+definitely is.  
+How to Find AI Use Cases  
+in Personalization
+All you have 
+to do is figure 
+out how AI can 
+supercharge 
+select tasks 
+you do all the 
+time.10  |  AI for Personalization Blueprint  How to Find AI Use Cases in Personalization
+For more ideas, look at this list of common use cases for AI in personalization that top brands are using:  
+•  Personalize a homepage. You can match content, services, products, promotions, images, artwork, sections, 
+categories, and results on pages to a user’s preferences and behavior.
+•  Personalize product and content recommendations. You can match products to a user’s needs, increasing 
+sales, as well as cross-sell and upsell opportunities. You can also serve users individualized content 
+recommendations that increase content consumption. 
+•  Personalize recommendations based on business goals. You can rank recommendations based on the metrics 
+you need to hit, like revenue, watch time, etc.
+•  Personalize recommendations to account for business rules. You can use your own business rules to 
+automatically augment recommendations. For instance, you can do things like filter out recently watched 
+items or make sure to highlight premium content if a user is in a particular subscription tier.
+•  Personalize marketing assets. You can tailor ads, emails, push notifications, and more to individual user behavior.
+•  Make product discovery intelligent. You can serve up smarter search results so customers find what they want faster. 
+AI can also analyze product metadata to provide smarter product recommendations to users from your catalog.
+•  Recommend new items or recommend items that are trending. You can recommend specific items that 
+are gaining popularity among users at the fastest pace.
+•  Create contextualized recommendations. Provide recommendations based on specific contextual 
+factors, such as device type, location, time of day, etc.
+•  Personalize descriptions and reviews. You can analyze and use unstructured text to increase the relevance 
+of these assets. You can also maximize the value of your data by unlocking information trapped in product 
+descriptions, reviews, or other unstructured text to generate more relevant recommendations.
+ 
+Additionally, you can also use AI to intelligently segment users after you’ve implemented it for 
+personalization. You can segment users based on advanced similarity models that account for many 
+factors outside of just attributes and behaviors. And you can learn what products, categories, and brands 
+user segments prefer based on past interactions, affiliations, and topics of interest.Top AI Use Cases in Personalization
+Solutions like Amazon Personalize offer 
+pre-built recommenders that make your 
+work easier. Pre-built recommenders 
+make it faster and easier to launch AI-
+powered personalization. They do that 
+by offering a pre-made personalization 
+“recipe” that you can easily launch.
+You simply select the recommenders for 
+your use cases, and Amazon Personalize 
+does the heavy lifting of using AI to 
+generate recommendations that you 
+access through an easy-to-use API.
+These recommenders learn from your 
+users’ historical activity, as well as their 
+real-time interactions with items in your 
+catalog, in order to adjust to changing 
+user preferences and deliver immediate 
+value to your end users and business.
+ Amazon Personalize offers pre-built 
+recommenders in retail and in media and 
+entertainment.
+ 
+In retail, you can select from pre-built 
+recommender options like:
+•  Most Viewed
+•  Best Sellers
+•  Frequently Bought Together
+•  Customers Who Viewed X Also Viewed
+•  Recommended For You
+In media and entertainment, you can 
+select from options like:
+•  Most Popular
+•  Because You Watched X
+•  More Like X
+•   Top Picks
+•  Trending NowAmazon Personalize then uses AI to 
+generate these types of recommendations 
+for users via API calls. To do that, you follow 
+a simple four-step process with Personalize:
+•  Add your data.
+•  Create a solution. (User 
+recommendations, similar items, 
+personalized ranking, etc.)
+•   Tune the recommendations according 
+to different preferences, business rules, 
+and business metrics.
+•  Access recommendations, contextualize 
+them, and analyze performance.
+It’s as simple as that.You Don’t Have to Build It All Yourself: Use-Case Optimized Recommenders11  |  AI for Personalization Blueprint  
+How to Find AI Use Cases in Personalization
+Top Personalization Use Cases by Industry
+Another way to look at AI use cases for personalization is to draw inspiration for use cases by industry.
+Retail
+ 
+•  Recommend products, upsells, and cross-sells in real time, as well as popular or similar items 
+based on a user’s past interactions.
+•  Increase average order value by promoting items likely to increase order size. 
+•  Personalize search results and recommendations to increase click-through rates, reduce cart 
+abandonments, and increase customer loyalty.
+Media, Entertainment, and Sports
+ 
+•  Cross-promote content recommendations between media properties.
+•  Make more accurate content recommendations based on more user attributes and behaviors.
+•  Create highly personalized pre-roll, mid-roll, and post-roll ad placements in audio and video content.
+•  Create “Just for You” personalized content recommendations based on user preferences, as well 
+as highlight new or trending content, movies, and shows.
+The AWS Magic Movie Machine lets you experience how AI can personalize content for media 
+and entertainment companies. In this short, interactive game, you are looking for movie 
+recommendations that match your personal interests. See firsthand how Amazon Personalize 
+learns what you like and then tunes your recommendations in real time.See AI in Action for Media and Entertainment
+Financial Services
+•  Automatically categorize transactions to deliver the right financial product at the right time to users.
+•  Intelligently segment users to personalize financial advice and information. 
+•  Personalize content and offers to encourage users to complete financial transactions.
+•  Accelerate digital transformation by unifying financial records across disparate systems.
+Professional Services
+•  Tailor content recommendations to individual user preferences on professional services sites.
+•  Personalize messaging across channels to prompt users to engage and take action.
+•  Make content recommendations to improve engagement in membership communities.
+Manufacturing
+•  Personalize product recommendations to equipment buyers in specific industries and use cases.
+•  Personalize user experiences with websites and apps that support product lines.
+•  Proactively recommend content and products based on common replacement or upgrade timelines.
+Healthcare 
+•  Recommend relevant health content to users to increase time-on-page and boost engagement.
+•  Create personalized experiences that take into account unique health data, issues, and behaviors.
+•  Personalize provider communications and notifications to increase patient response  
+rates and patient retention.12  |  AI for Personalization Blueprint  
+How to Find AI Use Cases in Personalization
+Travel and Hospitality
+•  Serve users the most relevant photos and reviews to increase bookings.
+•  Create more dynamic menus, provide better delivery options, and develop a portfolio of 
+ancillary offers.
+•  Recommend experiences based on activity or destination preferences, seasonality, and trending 
+destinations. 
+Software and Internet
+•  Personalize communications to re-engage with past or dormant customers. 
+•  Personalize individual user experiences to specific account details, plans, and upgrade needs.
+•  Use intelligent product search to increase subscriber rates and upsell existing subscribers.
+SaaS Solution Providers
+•  Create personalized retention offers based on a user’s past engagement.
+•  Target users with highly personalized time-sensitive promotions to boost monthly recurring 
+revenue (MRR) and annual recurring revenue (ARR).
+•  Create personalized trial and onboarding experiences to get users to time-to-value faster.13  |  AI for Personalization Blueprint  You have a foundational understanding of AI. You have—or know how to find—use cases for AI. 
+Now, let’s look at how real brands are using real AI technology to do transformative personalization 
+at scale.
+How Bundesliga creates fan engagement with Amazon Personalize
+Football is more than a sport. It’s a way of life. 
+Bundesliga, Germany’s premier football league, knows that all too well. Fans of Bundesliga’s 36 
+clubs are rabid about watching matches, buying merchandise, following their favorite teams and 
+players online, consuming content, reading articles, and engaging with the league’s app. 
+Personalizing the fan experience to stoke passions and increase engagement is Bundesliga’s 
+mission. And it would be complex enough if each fan loved just one team.
+But the average Bundesliga fan follows four clubs out of the 36. That creates thousands and 
+thousands of possible individual fan profiles to cater to across multiple platforms, channels, and 
+content types. 
+That’s why Bundesliga turned to AI from Amazon Personalize to create an individualized, 
+regionalized, and personalized experience for each and every fan.
+The league deployed Amazon Personalize to generate individualized content for millions 
+of active users in the Bundesliga Official App. Using Personalize, the app now recommends 
+individualized content and notifications for each fan based on a dizzying array of personal 
+preferences and behaviors.
+Bundesliga chose Amazon Personalize because the AI made it easy to quickly deploy 
+personalized recommendations at scale—without having to invest a ton of time and resources 
+into building a custom solution. It also offers plenty of customization features for Bundesliga’s 
+needs and works well with the other cloud and data services they’re using.
+As a result of deploying Personalize, Bundesliga saw major improvements across core metrics. 
+Each fan read 68% more articles on average per week. The average number of sessions per fan 
+each week rose by 24%. And, on average, fans spent 18% more time in the app.
+Now that’s something to applaud.
+Top Companies Using  
+AI for Personalization
+Each fan 
+read 68% 
+more articles 
+on average 
+per week. 
+The average 
+number of 
+sessions per 
+fan each 
+week rose by 
+24%. And, on 
+average, fans 
+spent 18% 
+more time in 
+the app.14  |  AI for Personalization Blueprint  
+Top Companies Using AI for Personalization
+Yelloh transforms into a modern mobile retailer with personalized 
+communications
+Yelloh delivers frozen foods directly to more than 1.5 million people annually, resulting in 7.5 
+million transactions each year.
+Delivering trusted quality isn’t anything new for Yelloh. The company used to be Schwan’s 
+Home Delivery, a company trusted by consumers for more than 70 years to deliver high-quality 
+food right to their doors. The new name reflects the transition from trusted, old-school delivery 
+company to modern, mobile retailer.
+But that transition wasn’t always easy. 
+As the company transitioned to a mobile-first retail approach, it struggled to create the types 
+of meaningful, personalized customer connections via mobile that would make a real impact. 
+That’s because it required building a connected experience at scale by automating, delivering, 
+and analyzing millions of interactions—a feat the company just wasn’t equipped to accomplish 
+on its own.
+Because of that, the company’s mobile retail operations were as much as 50% inefficient. 
+That was before Yelloh adopted Amazon Personalize.
+Using Amazon Personalize and two other key AWS services, Yelloh was able to quickly deploy 
+more intelligent product recommendations for customers and dramatically increase mobile retail 
+operational efficiency.
+With Personalize, Yelloh customers can now receive suggestions on new food items they might 
+like, based on their previous orders and purchases from buyers similar to them. Personalize 
+also made it easy for Yelloh to quickly take personalized recommendations like these from 
+conception to deployment nationwide.
+By coupling Personalize with Amazon Pinpoint and Amazon Connect, the company was also 
+able to send 100,000 messages to customers letting them know a delivery truck was near them, 
+based on their personal preferences and location.
+As a result, the company received delivery commitments worth an extra $100 million in revenue and 
+saved another $50 million by optimizing delivery routes based on customer responses and preferences. 
+That wasn’t just good for profits. It was good for the planet. Yelloh’s vehicle fleet is on pace to drive 
+10 million miles less per year due to better delivery routing.As a result, 
+the company 
+received 
+delivery 
+commitments 
+worth an extra 
+$100 million in 
+revenue and 
+saved another 
+$50 million 
+by optimizing 
+delivery 
+routes based 
+on customer 
+responses and 
+preferences. 15  |  AI for Personalization Blueprint  
+Top Companies Using AI for Personalization
+ResMed uses Amazon SageMaker to personalize sleep therapy for millions
+Digital health technology company ResMed had an ambitious goal: 
+Help improve 250 million lives per year by 2025. And if anyone should know about helping millions, 
+it’s ResMed. 
+The company provides continuous positive airway pressure (CPAP) devices and masks for people 
+with sleep apnea, chronic obstructive pulmonary disease, and other sleep disorders. The equipment 
+is cloud-connected, so it collects data on patients’ sleep patterns and shares that data with patients 
+through ResMed’s myAir patient app. The app uses AI to provide patients with recommendations 
+and coaching that produce better outcomes.
+There was just one problem.
+ResMed’s previous AI capabilities couldn’t process enough data to deliver truly personalized 
+recommendations for millions of patients. In fact, it couldn’t securely process and use the huge 
+volumes of patient sleep data it would need to in order to hit its 2025 goal of helping 250 million 
+people per year—roughly double the people they were helping at the time.
+It needed a way to streamline and scale its AI operations—and fast.
+To do that, the company turned to Amazon SageMaker. SageMaker is a fully managed 
+service that gives data scientists and ML practitioners all the tools they need to build, 
+train, and deploy custom models quickly. 
+Thanks to those capabilities, ResMed was able to quickly build a centralized, standardized 
+AI solution that scaled globally and connected with the company’s existing data storage 
+solutions. In fact, leveraging SageMaker and AWS Data Lab, which offers joint engineering 
+support for AWS customers, ResMed was able to roll out a prototype in two months and 
+foundational capabilities in six months.
+Today, ResMed uses SageMaker to run pre-processing, post-processing, and model 
+evaluation workloads, as well as for training models and pipelines. 
+The result?
+ResMed’s models now deliver predictions and personalized recommendations—up to two 
+million per day—that have supercharged how patients use the myAir app. 
+In the past, all myAir users would receive very similar messages from the app. But now, 
+the app provides personalized interactions with millions of patients based on their 
+individual contextualized data, such as the device they use and their waking hours.
+AI-powered personalization isn’t just better at achieving ResMed’s goal. It’s better at 
+helping patients live their best lives.ResMed’s models 
+now deliver 
+predictions and 
+personalized 
+recommendations—
+up to two million 
+per day—that have 
+supercharged how 
+patients use the 
+myAir app. 16  |  AI for Personalization Blueprint  
+Ready to try out AI for yourself? AI for personalization comes in many forms. It includes not just tools 
+but also AI recommendation engines that provide recommendations via API calls, which make it easy 
+to integrate AI into your existing tech stack or ecosystem. 
+Here are eight of the leading AI solutions for personalization that you should try today. 
+ 
+Amazon Personalize   
+Amazon Personalize empowers you to quickly build and deploy an array of personalized 
+recommendations and intelligent user segmentation at scale. It uses the same proven machine 
+learning technology that Amazon.com has used for over 20 years on its own website.
+Amazon Personalize is an API AI service that allows you to host machine learning models for 
+recommendations and user personalization. These models can be tailored to your individual needs, 
+and the solution is designed to easily integrate personalized recommendations into your existing 
+websites, applications, email marketing systems, and more.
+That gives anyone the ability to use AI to deliver the right customer experience at the right time and 
+in the right place. Not to mention, Amazon Personalize customers pay only for what they use, with 
+no minimum fees or upfront commitment. With Personalize, you can:
+ 
+•  Quickly implement a customized personalization engine in days—not months—with no AI 
+expertise required.
+•  Personalize pages, items, products, and content based on real time user preferences and 
+behaviors, as well as catalog metadata. You can also augment recommendations to adapt to 
+your own business rules.
+•  Create contextualized recommendations. Provide recommendations based on specific 
+contextual factors, such as device type, location, time of day, etc. Or recommend specific 
+items that are gaining popularity among users at the fastest pace.
+•  Create quality recommendations for fresh items, products, and/or content using metadata 
+when data on users is scarce. This solves “cold start” problems by allowing you to make 
+recommendations for new items even if a user doesn’t have any interaction history or when 
+new items are added to your catalog. 
+•  Drive meaningful engagement by personalizing every touchpoint in the customer journey 
+and tune personalization using advanced 1:1 targeting. That includes personalizing marketing 
+assets like ads and emails to each and every user for maximum impact.
+•  Make product discovery intelligent. You can serve up smarter search results so customers 
+find what they want faster. AI can also analyze product metadata to provide smarter product 
+recommendations to users from your catalog.
+•  Personalize descriptions and reviews. You can analyze and use unstructured text to increase 
+the relevance of these assets. You can also maximize the value of your data by unlocking 
+information trapped in product descriptions, reviews, or other unstructured text to generate 
+more relevant recommendations.
+•  Unify your data to create meaningful customer experiences across the entire user journey.
+Top AI Tools for  
+Personalization17  |  AI for Personalization Blueprint  
+Top AI Tools for Personalization
+Top companies across industries use Amazon Personalize to:
+1.  Optimize recommendations. Automate creating and maintaining personalized 
+recommendations.
+2.  Target customers more accurately. Apply AI to run more effective prospecting campaigns by 
+segmenting users based on preferences such as product, category, and brand.
+3.  Maximize the value of data. Analyze unstructured text and use the information contained in it 
+to generate better recommendations.
+4.  Promote items using business goals. Customize your recommendations by promoting 
+specific items based on business goals while still ensuring the highest relevance possible.
+One major benefit of Personalize is that—no matter what you use it for—you can get to market and 
+achieve ROI quickly. You can stand up a proof-of-concept (POC) in just a few days. This is a marked 
+difference from launching an in-house personalization solution, which can take a lot of time and 
+resources. (Not to mention, companies often underestimate how hard it is to find and attract the talent 
+and technical skill sets needed to train, deliver, and maintain a sophisticated personalization system.)
+And don’t forget: Amazon Personalize also comes with pre-built recommenders in select industries. 
+These are pre-made personalization models for different use cases that you can deploy without 
+building on your own.
+So, who’s a good fit for Amazon Personalize?
+You’re probably a great fit for the solution if you:
+•  Have a large number of users that can be segmented based on preferences or item attributes.
+•  Have a large catalog of items and users—more than 50 users, 50 items, and 1,500 interactions.
+•  Recommend items to known users.
+•  Recommend items to new users.
+Does that sound like you?
+Learn more about Amazon Personalize here and get started for free.
+GET STARTED18  |  AI for Personalization Blueprint  
+Top AI Tools for Personalization
+Amazon SageMaker  
+If you want to create your own ML models, Amazon SageMaker provides you with all the tools you’ll 
+need in one place. Amazon SageMaker is a fully managed service that helps your data scientists and 
+ML practitioners build, train, and deploy machine learning models quickly.
+For recommendation engines, Amazon SageMaker offers built-in algorithms such as factorization 
+machines and hundreds of pre-trained models, as well as the option to develop your own algorithms. 
+Like Personalize, SageMaker is also built on Amazon’s two decades of experience developing real-
+world AI applications, including product recommendations and personalization.
+SageMaker enables high-performance, low-cost machine learning at scale in a number of ways. With it, 
+you can:
+•  Enable more people to innovate with machine learning through a choice of tools—integrated 
+development environments (IDEs) for data scientists and no-code interfaces for business analysts.
+•  Access, label, and process large amounts of structured data (tabular data) and unstructured data 
+(photo, video, geospatial, and audio) for machine learning.
+•  Reduce training time from hours to minutes with optimized infrastructure. Boost team 
+productivity up to 10 times with purpose-built tools.
+•  Automate and standardize machine learning practices and governance across your organization 
+to support transparency and make it easier to audit practices.
+Through features like Canvas, SageMaker also gives you the ability to generate accurate AI-powered 
+predictions—without code. With Canvas, business analysts can use a visual interface to generate these 
+predictions on their own without any previous AI experience or having to write any type of code.
+In just a few clicks, you can import data, select what you want to predict, automatically prepare the 
+data, and build an AI model to start making predictions. That means anyone on your team can use 
+Canvas to build predictive personalization models that move your business forward.
+Ready to start building your own personalization models?
+Learn more about Amazon SageMaker.
+LEARN MORE19  |  AI for Personalization Blueprint  
+1 C-suite Series: The 2021 CEO Study
+2 The State of Marketing Budget and Strategy in 2022
+3 Leadership Vision for 2021: Chief Marketing Officer
+Top AI Tools for Personalization
+Airship offers a suite of tools that helps brands create better personalized mobile experiences through 
+smarter push notifications, content, and analytics. Core to Airship’s personalization features is its Mobile 
+Data Hub product. And Mobile Data Hub relies on predictive AI to enable truly personalized mobile 
+experiences.
+With Mobile Data Hub’s AI, you can predict the optimal send time to reach customers based on their 
+behavior. You can also predict which customers are most likely to churn. The result is a smarter, AI-
+powered mobile experience that customers love.
+Dynamic Yield is an experience platform that uses deep learning (an advanced type of AI) to 
+personalize your customer experience to each individual consumer.
+The platform’s AI-powered product recommendations suggest the most relevant offers for each 
+individual based on shopping behavior. Thanks to the AI’s self-learning capabilities, Dynamic Yield’s 
+platform also continuously optimizes and improves its recommendations using customer data. And its 
+pre-configured models make it easy to get up and running quickly.
+Mutiny is a no-code AI solution that allows you to personalize your website by just pointing and 
+clicking. This makes it quick and easy to roll out personalization changes and experiments without 
+developers. 
+You can use these capabilities to better personalize your website for individual visitors. You can also 
+create personalized landing pages for account-based marketing (ABM) campaigns. And you can even 
+personalize landing pages for paid ads at scale, so every ad has its own page.20  |  AI for Personalization Blueprint  
+Top AI Tools for Personalization
+AI platform Persado allows you to automatically personalize each and every message to an individual 
+user’s preferences. 
+Persado’s AI actually knows what type of language a user prefers. Then, it adjusts your content to make 
+it maximally appealing to that individual. And it does it at scale across your entire audience.
+That means each message you send across content, copy, and ads is the exact right message with the 
+highest chance of motivating a user to take action.
+ 
+With rasa.io, you can send personalized smart newsletters that are tailored to each and every 
+prospect’s individual content preferences. 
+Using AI, rasa.io evaluates how each user engages with content in your email newsletter. Then it 
+customizes future newsletters to deliver more of the content an individual prefers, making it more likely 
+they’ll open and engage with your email.
+That means you can automatically nurture your newsletter subscribers with value-driven content 
+personalized on a one-to-one basis.
+Sailthru is a cross-channel personalization solution that uses AI in a variety of contexts to tailor 
+engagements across web, mobile, SMS, email, and more.
+With AI from Sailthru, you can:
+•  Predict when consumers are most likely to visit your site or buy from you, then proactively 
+engage with them to maximize the likelihood of conversion.
+•  Deliver messages at the exact times when consumers are most likely to open, click, and engage 
+with them.
+•  Use consumer behavioral data to make predictions that help you increase the number of 
+customers you acquire and decrease the costs to acquire them.
+•  Hyper-personalize content and products to customers based on their interests and behaviors. 21  |  AI for Personalization Blueprint  You’ve seen first-hand how AI for personalization can transform businesses across many 
+industries.
+Now, it’s up to you to capitalize on the opportunity to use AI for personalization.
+If you don’t, you face an existential threat from competitors who do. That’s because 
+consumers reward the levels of personalization that are only possible with AI.
+According to Twilio’s 2022 State of Personalization report, a full 62% of consumers say a 
+brand will lose their loyalty if it delivers an un-personalized experience, up from 45% who 
+said this in 2021.
+This represents a huge competitive advantage for brands that do personalization right—
+because not enough are. 
+Today, Twilio also finds that only 35% of companies feel they’re achieving omnichannel 
+personalization. And only 47% actually personalize communications based on real time 
+customer behavior.
+You don’t have to be one of the companies left behind.
+Using the contents of this blueprint, you can quickly, easily, and profitably start using AI for 
+personalization right now.
+The only question left to answer is:
+What are you waiting for?
+Why Personalization of the  
+Future Depends on AI
+Consumers 
+reward the 
+levels of  
+personalization 
+that are only 
+possible with 
+AI.22  |  AI for Personalization Blueprint  
+About Marketing AI Institute
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders. The Institute owns and operates the 
+Marketing Artificial Intelligence Conference (MAICON) and AI for Writers Summit, hosts The Marketing 
+AI Show podcast, runs the AI Academy for Marketers featuring dozens of on-demand courses, and 
+published Marketing Artificial Intelligence: AI, Marketing, and the Future of Business (Matt Holt Books, 
+2022). Learn more at www.marketingaiinstitute.com.
+About Amazon Web Services (AWS)
+Amazon Web Services (AWS) is the world’s most comprehensive and broadly adopted cloud 
+platform, offering over 200 fully featured services from data centers globally. Millions of customers — 
+including the fastest-growing startups, largest enterprises, and leading government agencies — are 
+using AWS to lower costs, become more agile, and innovate faster. To learn more about AWS, visit 
+aws.amazon.com.

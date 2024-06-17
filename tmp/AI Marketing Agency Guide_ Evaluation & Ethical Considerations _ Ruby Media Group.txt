@@ -1,0 +1,680 @@
+()
+AI Marketing Agency Guide: Evaluation &
+Ethical Considerations
+October 28, 2022 by Kris Ruby (https://rubymediagroup.com/author/krisruby/)
+How to Hire an AI Marketing Firm
+The Ultimate Guide for CMOS to hiring an AI/ML  Savvy Marketing & PR Firm
+Artificial intelligence has transformed how businesses market, advertise and produce content.
+A recent commercialization wave  (https://www .wsj.com/articles/generative-ai-startups-attract-business-
+customers-investor-funding-1 1666736176)  of artificial intelligence software has led to a surge of
+new investments in natural language processing and large language models.
+Today , companies are leveraging AI and ML  tools for content creation, advertisement art generation,
+and email marketing automation.Listen to this article now 1.0 ✕
+00:00 47:55
+10
+10
+As more businesses engage in digital transformation, the demand for investment in artificial
+intelligence resources continues to increase.
+Most executives are not yet thinking in terms of AI vs. traditional marketing agencies, but they should
+be. Here’ s why .
+The sophisticated enterprise buyer is planning for the future of business. You may be thinking, “I want
+an AI-enabled marketing agency!” This article is for you.
+Buyer Beware: protect your marketing dollars and CMO from being lured in with fake promises of
+artificial intelligence capabilities.
+AI marketing agencies are popping up on Google largely as a keyword exercise before the start of the
+gold rush in this domain.
+Similar to the cryptocurrency  (https://rubymediagroup.com/cryptocurrency-marketing-public-relations/)
+wave of influencer marketing scams and fraud, digital marketing agencies are now cashing in on the
+allure of marketing buzzwords, without having the substance or experience to back up the claims.
+There are some digital marketing agencies that claim to specialize in artificial intelligence (AI)
+marketing that know nothing about AI.
+If you don’t know what questions to ask when evaluating an AI marketing agency , you risk making the
+wrong choice.
+In The Ultimate Guide to Hiring an AI Marketing Agency for your business, you will learn:
+1. The risks of deploying AI business automation
+2. How to Choose an AI Marketing Consulting Firm
+3. The Benefits of Hiring an AI Marketing Agency vs. the DIY  route
+4. How to Know if an AI Marketing Agency is Right for Your Business
+5. What Services AI Marketing Agencies Of fer
+6. The pros and cons of generative technology
+7. How to avoid creative disputes with your agency when deploying generative AI tools
+8. A look at how agencies are utilizing AI for client campaigns
+AI MARKETING AGENCY DEFINITION 
+What is AI Marketing?
+AI marketing is not just using what an AI tool spits out.
+AI marketing  combines traditional creative marketing principles with generative technology to aid your
+business in digital transformation.
+AI marketing tools should complement your marketing ef forts, not replace them. Every tool provides
+different outputs depending on the training input. Additionally , this is why it is also dif ficult to answer the
+question, what is the best AI tool? The answer is highly subjective and based on individual generative
+preference. That is akin to asking, who is the best artist?
+The only way to assess the best AI tool is to access all of them, which is a perk our clients have when
+they hire our agency . We have invested in AI marketing tools so you don’t have to.
+Emerging AI generative content creation and art tools will soon reach mass adoption. In the future,
+generative tools will fundamentally transform the future of the creative class.
+From improving content optimization to writing blog introductions, call to actions, meta descriptions,
+definitions and more, AI can help with the mundane part of content creation that could benefit from
+automation.
+What is an AI marketing agency , anyway?
+A digitally-savvy AI Marketing agency embraces automation tools and artificial intelligence software for
+streamlined digital marketing support and solutions. How does an AI marketing agency dif fer from a
+traditional marketing agency  (https://rubymediagroup.com/traditional-marketing-vs-digital-marketing/) ?
+An AI-first agency will leverage generative tools for creative output when developing a campaign
+strategy for your business.
+Conventional marketing firms do not deploy AI solutions, leading to higher costs for talent, ideation and
+output. AI Marketing agencies are staf fed with prompt engineers and automation specialists. The core
+set of capabilities vastly dif fers from traditional marketing agencies.
+AI marketing agencies utilize machine learning to assist with:
+Social media content moderation  
+Image recognition & detection  
+Data analysis & automation  for reviews
+Data classification & segmentation
+Hyper personalized shopping recommendations  in e-commerce 
+What is the goal of AI marketing?
+AI Marketing should do two things: save your business time, money , or both.
+Through the process of generative output, an agency is able to better assess your creative hopes and
+dreams through the application of artificial intelligence.  
+This doesn’t mean you should automatically use what the AI creates, but it does mean that AI can
+facilitate the process of interactive brainstorming and branding in a way that was previously not
+possible.
+The branding process was traditionally one-sided and gated. Generative artificial intelligence opens up
+tremendous opportunities to give clients more creative freedom to see their concepts turned into
+reality .
+Not everyone is an artist; but now everyone has access to art. That is exciting.
+How do you evaluate an AI marketing agency?
+How large is your stack? My stack is bigger than your stack. 
+When you are evaluating your current marketing agencies capabilities on AI, you want to know the
+following:
+What AI marketing tools do you use?
+How much do you modify the output?
+Is the input created by you or pulled from third-party sources?
+What is the cost of the AI tools and how much will it increase my monthly retainer to leverage this
+advanced AI technology?
+If we part ways, who owns the output of the AI-generated content?
+Will I still have access to the AI software if we stop working together?
+What additional tools are necessary for maximum impact? (ex. image upscaling tools)
+Do you have your own in-house AI-software as an agency?
+What will the approval process look like in terms of output and generations?
+How much time does it take for you to create one usable AI image and how much time will that take
+away from other PR/ Marketing initiatives you are working on?
+What services do AI marketing agencies offer?
+Currently , AI marketing agencies like Ruby Media Group can help clients with:
+Generative AI output for content marketing campaigns
+AI for meta descriptions and blog post titles
+AI for call-to-action creation at the end of blog posts
+Artificial intelligence art generation for blog post header images
+AI B2B marketing strategy development
+AI marketing recommended campaign tactics
+We could certainly use AI for far more than the list above, but we choose not to. Why? Because
+despite the advancements in technology , we still believe in writing our own copy . Over using AI
+technology can have devastating impacts on your Google search results. The technology is extremely
+powerful in that it can either really help you or hurt you when it comes to your digital assets and search
+engine rankings.
+Google is not a fan of AI-generated content either and they aren’t shy about issuing warnings against
+it.  However , in a recent podcast, John Mueller encouraged people to experiment with generative AI for
+decorative purposes when it comes to content optimization and blogging.  
+READ:  Google on the use of AI images  (https://www .searchenginejournal.com/google-on-using-ai-
+images/467364/)
+TL; DR: AI should never be used to produce full articles; it should only be used as a generative content
+assistant.
+When you work with an AI company , you have to know how far they are willing to go with it. Think of a
+painter . Are they using a large brush or the smallest brush with fine strokes and a splash of paint?  
+Will they write full blog posts with it or use it sparingly for meta tags and headline generation? Where
+do they fall on the application and usage scale?
+Remember , a skilled practitioner is one who knows how to use the tools and when. They understand
+these are powerful weapons and should not be used in every use case.  
+Essentially , AI is akin to a powerful machine gun. If you don’t understand how the technology is being
+leveraged in your content marketing campaign by an agency of record, it can lead to serious
+downstream impacts on marketing performance.  
+Short-term thinking can have long-term consequences.
+Practitioners will create a new wave of commercialization in artificial intelligence, which will expand far
+beyond the current AI-generative tools that exist.
+In the future, you will see AI consulting companies of fer:
+Data labeling as a service
+Test and evaluation as a service
+Model monitoring as a service
+Data cleaning as a service
+No-code AI SaaS
+Over the past year , hundreds of companies have started to incorporate fine-tuned AI product of ferings
+into their service. Some companies may have inadvertently misled consumers to believe they trained a
+custom model, when in reality , they are sending an API call to something that is readily available for
+anyone to use with API access.
+Initially , the only barrier to enter the generative AI market was obtaining access to the API or GPT -4. 
+However , creating a product or service that solely relies on OpenAI can pose serious reliability issues if
+access is revoked.
+How to choose the right AI Marketing consulting firm for your
+business
+Artificial intelligence service provider evaluation 101
+Hiring an AI-marketing consulting  agency: what you need to know
+AI consulting agencies use artificial intelligence to help you make better business decisions based on
+data.
+When you hire an agency for AI marketing consulting services, they will optimize your current B2B
+marketing & PR strategy  (https://rubymediagroup.com/b2b-marketing-pr-strategy/)  to determine if there
+is a faster way to achieve outpaced financial results by leveraging AI and machine learning.
+Their skillset should include a baseline understanding of natural language processing, predictive
+analysis and data automation.
+Before hiring an AI marketing agency , consider the following:
+1. What core services does the agency of fer?
+2. What is the agency’ s specialty?
+3. What are the agency’ s core competencies?
+4. What is the agency’ s track record with experimental technology?
+5. What is the agencies experience level in machine learning?
+6. What is their success rate?
+7. What is their pricing structure? What is an add on. vs. what is included?
+Define marketing objectives and business use case
+It is important to have a clear understanding of your organization’ s marketing objectives before
+engaging an agency .
+Why do you want to leverage AI for your business?
+What problem are you trying to solve?
+This will help ensure that the agency you ultimately choose is a good fit for your needs.
+Researching AI marketing agencies
+There are a number of ways to research AI marketing agencies, including AI-based search engines,
+social media platforms, conference speakers and industry specific podcasts.  
+Does the agency actively participate in industry discussions?  
+How often do they blog about AI and Machine Learning?  
+What type of questions do they tweet about AI? 
+Do they enjoy discovering new AI tools?  
+Does the agency have a proven track record of beta testing and being known as an early adopter?
+Asking for recommendations from trusted colleagues or business partners is challenging because the
+space is so new . Instead, you may want to ask for recommendations from VC’ s, investors, data
+scientists, product managers and CMOs who are active in the digital marketing and machine learning
+forums. Someone who is passionate about AI in Marketing can be found in the openAI playground
+(https://beta.openai.com/playground)  testing new features or deep on Reddit threads discussing image
+upscaling tools and techniques.
+How to choose an artificial intelligence service provider
+The agency must be open to ever -changing strategies and evolving technology implementation.
+At Ruby Media Group, we know the importance of AI in the context of your larger digital marketing
+goals. Fundamentally , the creative agency must be comfortable with experimentation, implementation,
+and novel approaches. You want to work with someone who is nimble and agile. Most importantly , the
+person needs to be more in love with the business results than the methodology or process to get
+there.
+What does this mean?
+Their love for AI can’t cloud their consulting judgment when it comes to campaign performance. If the
+cost to implement AI is 100x the current marketing budget, the consultant must be willing to make
+recommendations that fit your budget as well as your business use case.  
+Novel technology is great; but sometimes, the time it takes to learn the technology can take away from
+the time that is necessary to grow your business.  
+A cost-benefit analysis must be conducted to make sure the output will be 10x the input of time and
+financial resources.
+WATCH: THE FUTURE OF AI IN MARKETING
+(https://www .youtube.com/watch?v=PcAIgm5XJWU)
+▶▶
+Hiring an AI Marketing Company: what to look out for and avoid
+How do I hire the right AI marketing agency?
+When evaluating an AI-marketing agency , you are bound to encounter several problems.
+Here are some of the problem’ s founders may have when evaluating ML/AI- powered agencies:
+Bait and switch tactics.
+AI-powered marketing is not snake oil. The people deploying the application of the technology can,
+however , sell snake oil to unsophisticated buyers. In the world of AI software, snake oil practices are all
+too common. For example, you buy an AI tool and the output is great, but a few months later , it
+deteriorates. Why?
+Because the developer changed the underlying model. They are no longer using tier-1 DaV inci and
+have instead used the base model of OpenAI. A non-sophisticated buyer will not know the dif ference
+and will instead be left wondering why the output that was once so good is now terrible. This is where
+a trained AI marketing agency can help decipher what is going on behind the scenes.
+Time is money .
+AI marketing tools  (https://rubymediagroup.com/artificial-intelligence-marketing/)  promise the allure of
+self-serve marketing. It sounds great, but in reality , it works best if you are plugging it into an existing
+strategic framework. Without a framework, you could literally burn hours testing concepts. Ideally , an AI
+marketing agency should be aligned with your brand on strategy .
+Putting AI technology into practice requires extensive resources beyond the cost of the toolset.
+If a tool is $250 per month, but the time it takes to learn the tool costs $10k per month, this must be
+accounted for in the scope of work. This is where an agency has a substantial advantage vs. in house
+talent because you are not paying for their onboarding. They are already skilled and equipped with
+how to leverage the tools for maximum output.
+Pro Tip: Your AI marketing budget should include the cost of ML  software implementation onboarding
+and training.
+The cost of the AI tool is often misleading because it does not account for the time it takes to learn the
+tool.
+According to a recent study conducted by Capterra  (https://www .capterra.com/resources/ai-
+marketing/) , the time to implement AI or ML  technology directly increases with company size.
+“Among marketers working at companies with one to 100 employees, 36% say it takes six months to
+less than twelve months to implement AI compared to 53% among those working at companies with
+over 5,000 employees.”
+“69% of marketers said it took their company 6+ months to implement AI or ML  technology .”
+“35% of marketers cite risk and data management issues as top challenges of using the technology .”
+Companies need to invest significant time to onboard new software and get AI tools of f the ground in
+internal marketing departments.
+“44% of companies said it took 6-12 months to implement AI and ML  tools.”
+“22% said it took about 1-2 years to implement. The time taken to implement also increases with the
+company size.”
+“57% of marketers said it took less than six months for their staff to learn to use the tools. About
+30% said it took 6-12 months to learn to use them.”
+Should I hire a marketing agency that specializes in machine learning and artificial intelligence?
+The answer to this question depends on your business use case. That being said, you want to make
+sure you hire an agency that has deep industry experience. You also want to ensure you have the
+funding to make the engagement a success.
+For example, the time it takes to run plagiarism checks against an AI-writing tool takes longer than the
+time it takes to write copy from scratch. These risks must be carefully considered.
+AI requires significantly more time than traditional human writing because of the time it takes to edit
+and cross check the output. I cannot emphasize this point enough that sometimes, it is easier to not
+use an AI tool at all.
+In addition to the cost of hiring a marketing agency , AI marketing investments include:
+The cost for the initial deployment
+Onboarding and implementation
+Software cost
+Every founder should think about the total cost of the AI/ML  deployment beyond the cost for the
+toolset. Additionally , there are long-term ef fects of implementing a B2B Artificial intelligence marketing
+strategy .
+If you are creating your own in-house model, that data has to be routinely trained and cleaned to be up
+to date. If you are using a dataset pulled from a third-party , the likelihood the data is outdated is
+extremely high.
+Pro tip: If you do not update your privacy policy and let customers know how you are using AI to make
+automated decisions, you risk having a consumer protection FTC report filed against your business.  
+This isn’t conjecture; it is already happening.
+The agency believes generative AI technology just came out last week. They are already
+behind.
+Pay close attention to the practitioners who are just discovering AI writing tools this week vs the ones
+who have been using them for the past two years. That alone should tell you all you need to know
+about the people who actually work in the space vs. the ones who are way behind.
+We have been covering AI for the past two years, so it is strange that the media seems to think AI
+writing tools just came out this week after the Jarvis funding announcement ran in the press.
+Furthermore, the landscape is complex, with new AI startups getting funded daily .
+SEMrush  (https://www .semrush.com/lp/sem/en/?
+ref=0359998646&utm_campaign=aio_campaign&utm_source=berush&utm_medium=promo&utm_term=2
+is not the name of a category; it is a tool in a category of rank tracking and search engine optimization
+tools. The same is true for AI copywriting tools. Also play close attention to the acquisition rate of these
+tools. The agencies who acquire these tools at the start will have a significant competitive advantage.
+How to effectively work with an AI marketing agency
+After you have chosen an AI-marketing agency , you must know how to properly work with them to get
+the most out of your investment.
+Two things matter the most: friction and momentum.
+Friction kills momentum. Less friction; more momentum. More friction; less momentum.
+AI has value when deployed correctly . Here’ s how to extract the most of the new technology for your
+business.
+There is an art and science to prompt engineering in art and copy .
+It’s not as simple as it looks.
+AI marketers rarely use anything produced on the first generative output. An unskilled practitioner will
+use the first run the AI generates. While this may seem more cost ef fective, it will be more expensive in
+the long run when you inevitably get sued for plagiarism.
+Do not push for creative asks that are unrealistic.
+The plug-and-play dream of AI tools are far from the reality of it, and there is nothing more frustrating
+than someone saying, “I asked for a picture that represents corporate diversity ,” why does the
+Midjourney  (https://www .midjourney .com/home/)  picture show the opposite? The agency can keep re
+rendering the output, but it has nothing to do with the underlying training data.
+Understand the limitations of AI.  
+Yes, this includes the limitations of what you ask for in a creative brief. Simply put, we are not
+magicians. W e can’t change the data a model was trained on, and we don’t have the surgical precision
+to paint in the exact picture you want if the model was trained on something else. In that use case,
+traditional marketing is a better fit.
+Who gets access to the AI software?
+When you first hear that your marketing agency is experimenting with MidJourney for your content
+marketing campaign, it sounds exciting. Everyone wants in and a chance to create new AI images. But
+if the subscription is linked to the agency’ s account, that won’t happen. Each subscription is linked to
+someone’ s Discord server , and people pay per seat. Reign in the asks unless you want to pay for a
+corporate account or for multiple seats. W ant the agency to create a custom Discover server for your
+whole team? Yes, that will cost more. Don’t ask the agency to train your internal team on the tools
+unless you are prepared to pay for the training time.
+The agency takes pride in their carefully curated AI-tech stack.
+Prior to a discovery call, our agency will request detailed information about your organization’ s
+marketing objectives. W e can then evaluate the right AI tools for your campaign. No two clients are the
+same, and we build a custom stack of tools for every client we work with depending on their use case.
+This is why the spray and pray approach of “Just use Jarvis  (https://www .jasper .ai/?fpr=kris91)  for
+everything!” is terrible advice.
+Jarvis is the name of one tool; not an entire category . That is akin to stating that the social media
+vertical has only one player; Meta. Early on it did, but that quickly turned to multimodal and new
+generative options.
+SHOP  our AI software stack  (https://www .shopper .com/c/SaaS-Business-Software/2hNv)
+Art is highly subjective.
+Ask your agency to create images with specific prompts, but don’t be unhappy if you hate what they
+come up with. What you love, someone else hates. When the agency loves, you could hate. Getting to
+a middle ground where you are both happy takes hard work. This exercise is not for the faint of heart.
+This is deep, emotionally draining work. Marketers are not artists in the true sense of the word, so
+strategic marketers will find this process filled with friction and not happy .
+Marketers are creatives; they like to create with autonomy and little client intervention.
+However , AI art changes the paradigm. It is not as simple as presenting new ads to a client and getting
+a “that was great.” More often than not, the client will probably hate the first few rounds, which is tough
+to swallow .
+What engine do you like best?
+What style of art?
+What prompts help you get there?
+This discovery process takes a lot of time and billable hours. I repeat: it is not as simple as saying
+draw me a picture and a wizard goes to work. In fact, AI art can hurt an agency relationship if the
+expectations are not set properly .
+A client can walk away wondering; why did I hire them? That image was awful! I thought they
+understood me, I guess not. Do not despair . It takes time and ef fort to figure out what you both like. For
+this reason, I do not think AI art makes sense for every client unless there is chemistry , compatibility ,
+and communication to work through the inevitable breakdowns that will occur during the creative
+generative process.
+Breakdowns lead to break ups and terminations if feedback is not handled properly .
+Clients want to feel heard and respected, and agencies want to be validated for their creativity . It is
+difficult to find a perfect match on this, and when it doesn’t occur , it results in hurt feelings, loss of
+motivation, and underperforming campaigns.
+Don’t fall in love with a concept, and most importantly , only present your best work.
+A great way to discern an amateur AI marketer from a seasoned one is to look at their portfolio. Do
+they present hundreds of images or ten? A true artist or marketer cuts down what they present. An
+amateur one wants to wow you with hundreds of images – this is to say “look at me” more than it has
+anything to do with looking at you. Their portfolio is an exercise of intellectual narcissism. That in itself
+will show you they are not a good fit.
+See if you are attracted to the vibe of their art. Does it feel dark and cold? Or warm and welcoming?
+Cutting-edge and innovative? Or dark triad vibes? How does their art make you feel? Fundamentally ,
+choosing a marketing agency is about chemistry and compatibility . Listen to how you feel when you
+look at their work and don’t ignore it. The right marketing puts people in the right funnel. The same is
+true when it comes to AI-generated art.
+Finally , when hiring an AI marketing agency for your business, make sure the agency is well versed
+with The AI Bill of Rights  (https://www .whitehouse.gov/ostp/ai-bill-of-rights/)  and FTC guidelines on the
+responsible use of AI (https://www .ftc.gov/business-guidance/blog/2021/04/aiming-truth-fairness-
+equity-your-companys-use-ai) . Because the technology is so new , it is important to make sure you are
+not taking unnecessary risks that could cost your business legal issues down the line.
+What is your risk tolerance?
+Are you risk averse? Your risk tolerance should align with the agency you hire when deploying and
+leveraging new technology for your business. For example, if you are using AI to make automated
+business decisions, that has to be stated to your customers. If your AI marketing agency is not telling
+you that, that is a cause for concern.
+Tools in isolation do not help you understand the larger implications of the technology . This is where an
+AI/ML  consultant will help you see the 360-enterprise view . Using AI tools without understanding the
+legal, financial, and security implications is a mistake.
+The technology is powerful and can be used as a weapon of creativity or destruction.  
+The stakes are significantly higher than with deploying traditional marketing tactics, largely because it
+is being developed in real time, and the technology has outpaced the laws that govern it.  
+Work with an AI marketing agency that adheres to the ethical usage of AI. These decisions transcend
+from every tool they choose, to the recommendations they make for updating privacy policies, data
+policies and adherence to national guidelines.  
+What factors should be considered when evaluating an AI marketing
+agency?
+Technological advancements in AI have created unlimited generative options for creative outcomes.
+At Ruby Media Group, we believe in informed consent when it comes to the use and application of AI
+Marketing tools. This means that you have freedom to opt in and opt out to the AI tools we use as a
+marketing agency .
+As a legal-first PR agency , we pride ourselves in making calculated and cautious strategic decisions
+on behalf of our clients. There is a risk and reward to the use of experimental AI technology in your
+marketing campaign. If an agency uses these tools on your behalf without you being fully aware, you
+could run into serious legal and copyright issues down the line.
+Ultimately , you are in the driver ’s seat of what constitutes value, which is why it is important for you to
+know how much time it takes to use the technology . Despite the promise of ef ficiency , AI tools are often
+plagued with bugs, down time, server errors, and renders that are not usable. This means your agency
+will have to spend more time with customer support (or a bot) and troubleshooting to get it right while
+AI is still in the experimental stage.
+Experimentation comes with a cost. Are you prepared to pay for it?
+Do you approve that time or do you want your agencies time spent on more traditional PR and
+marketing initiatives?
+Ethical AI means including you in this decision-making process and empowering you to make
+decisions about how and where your time is spent on deliverables and outcomes.
+There is a steep learning curve when it comes to AI marketing tools, and no two tools are the same.
+Despite marketing claims saying ‘it’ s as easy as a click of a button’, that couldn’t be further from the
+truth. In the end, someone will pay for the learning curve in either time or money .
+Decide where you want to allocate your resources for the highest return. Do you want your team
+trained in-house or do you prefer to work with an agency who is already up to speed?
+These are the types of conversations you should be having with your agency . If you aren’t, you won’t
+know where your money (and their time) is going and that can lead to fatal and devastating outcomes.
+AI ETHICAL  CONSIDERA TIONS
+What are the ethical concerns of leveraging AI tools for business?
+There are many ethical concerns with the use of AI in marketing. 
+Because AI is still so new , it is hard to give you a definitive checklist on what the ultimate AI marketing
+agency should of fer. Instead, this article will serve as a framework as to the larger questions you
+should be considering when you begin your journey of assistive and generative technology . These
+issues aren’t black and white. There is a grey zone that lies in the center of artificial intelligence,
+because ultimately , many of these questions have to do with your ethics.
+Do your ethics align with the agency’ s ethics?
+Ultimately , the decision to utilize AI for business decisions will become a polarizing one. There are
+brand activists who allege that generative AI is essentially stealing from artists and writers, whereas
+others say that AI is merely assistive and helpful for content optimization.
+Your decision to use AI is not one to be taken lightly . It can include a myriad of potential cancel culture
+issues  (https://rubymediagroup.com/cancel-culture-brand-management/)  for your brand as well as
+legal and financial issues if you do not properly disclose your usage of the technology .
+Where this gets particularly troublesome is if you hire a marketing agency who does not disclose their
+use of AI on your behalf. Depending on how your contract is structure, the liability will ultimately fall
+back on you. This is why you need to start having this conversation now , before it’ s too late.
+The ethics of AI-generated output.
+What are some ethical concerns around the application of artificial intelligence in marketing?
+It is important to understand where you draw the line when it comes to generative output. For example,
+some marketers utilize machine learning and neural networks to create output that unfortunately rips
+off the styles and themes of other artist works. W e are not okay with that. Are you? You should know
+where you stand before asking a marketer to create AI art for you. If not, you run the risk of legal
+issues down the line.
+If you type the most generic phrase possible into a prompt such as, “A  dog with a red ball,” then the AI
+will generate an image based on what it learned by scanning 20 billion mostly rights-protected images.
+If this poses legal challenges, you will have to avoid AI image generation altogether . But remember ,
+this is the very early stage of generative output. W e are not that far away from new models being
+trained on material that artists and authors have opted into and given consent for .
+AI paraphraser tools otherwise known back in the day as article spinners scrape the web for content
+written by other authors. This can lead to serious plagiarism implications and is ethically questionable.
+You should know if your agency is doing this. If you don’t, you can quickly find yourself hit with a cease
+and desist after the agency is long gone simply because they never told you they were using AI article
+rewriter tools.
+Copyright.
+What are some issues that may emerge in the future pertaining to AI generated copy and images?
+The ethical issue of consent to training data and copyright. An emerging area that will become critical
+in the near future is the ability for artists and writers to opt out of being used in training data for AI. The
+emergence of a new class of AI-opt out tools which be just as important as the creation of the AI tools.
+Attorney Sharon Torek, Founder of Legal and Creative  (https://www .legalandcreative.com/) , urges
+creators to maintain a low risk profile when it comes to early adoption.
+“Copyright law has not yet caught up with AI and the legal implications of using AI to be a low risk IP
+strategy ,” said Torek.
+What legal rights do you have around natural language-generated content?
+If you have retained a content marketing agency to generate AI content for a B2B content marketing
+strategy , make sure the following has been outlined:
+Who owns the content?
+Who owns the login access to the AI content marketing tools? For example, if you want total control,
+you may prefer purchasing your own SaaS tech stack instead of using access through a third-party
+agency .
+Content creators have an ethical responsibility for the content they generate for clients. If AI marketing
+tools are used, clients must know what tools are being used to avoid legal surprises.
+Plagiarized content.
+Ethics in AI and the rise of copycat content
+Neural networks, AI plagiarism, and the rise of agency lawsuits
+AI-generated content from GPT -3 can include plagiarized content that is directly lifted from other
+websites. Using this content without rewriting it can potentially tank your hard-earned search engine
+rankings.
+“Most of the AI content writers who use the GPT -3 playground are text spinners and duplicating
+content. They are diluting the value of already published content on the Internet because GPT -3 is
+trained on the entire corpus of Internet data.  If you are able to create a smart AI semantic layer
+between a user ’s original research that is the best use case. This strategy will separate deep research-
+based AI-assisted content from article spinning.” -Harish Kumar , Founder of CrawlQ
+(https://app.crawlq.ai/sign-up?_get=kristen21) .
+READ:  Google Says AI Generated Content Is Against Guidelines
+(https://www .searchenginejournal.com/google-says-ai-generated-content-is-against-
+guidelines/444916/)
+If a marketing agency uses an AI tool and fails to run it through a plagiarism checker , and the copycat
+content results in a lawsuit, who is responsible: your company or the agency?
+When AI gets it wrong, who is held liable?
+Legal frameworks lagging on AI generated content
+Legislation has lagged around the usage of artificial intelligence and machine learning. Unfortunately ,
+that puts you as the consumer at risk. While growth and regulation teams scramble to find a solution,
+several options are on the table, including royalties to artists, opting in to training data or enabling
+artists to opt-out of their name being used on prompts for generative design creation.
+Before you hire an agency to use an AI tool for your business, make sure you know what model was
+used and if consent was granted to avoid future copyright issues.  
+Ask: W as consent granted for the underlying data that was used to train the model?
+Let’s assume the answer is no. This not only opens up the client to possible legal issues, it also opens
+up the agency to legal issues if they are using the tools to create output in marketing campaigns for
+clients. For this reason, we are extremely careful with what we generate using AI tools right now . For
+example, we steer clear of creating any output that shows a human face or using styles that are
+trained on other artists work. In terms of AI writing tools, although our agency owns these tools, we
+don’t use any of them for the actual writing process. W e only use them to help generate H2 tags, meta
+descriptions or for keyword optimization. It is important to ask an agency where they stand on this
+before hiring them.
+Similar to the privacy policy , I predict more companies will add a clause on their website that states
+their of ficial stance on the use of AI writing on their website.
+One of the biggest issues with using AI writing tools in marketing is that you could be lifting other
+writers work verbatim without realizing it. These writers did not consent to having their work trained- in
+the same way artists didn’t either .
+As a journalist, I am starting to notice this more and more – when I put in keywords on topics I cover-
+the output starts spitting out work that feels extremely similar to my own article. That is never a good
+feeling and makes someone wonder how they can opt out of this experiment in real time. To find out if
+you have been included in training data for recent AI models, check out haveibeentrained
+(https://haveibeentrained.com)
+CLOSING THOUGHTS:
+Remember , it is not how many tools you have or the luxury name of the tool. A tool is useless if you
+don’t know how to use it. What good is a Lamborghini that sits in your driveway if you can’t drive stick?
+Similarly , what good is the Rolls Royce of AI tools if it is too complex for an agency to use? I repeat:
+does the agency actually know how to use the tools they own? Some agencies own tools and bill
+clients for tools monthly that they have virtually no clue how to operate. This is a serious problem. They
+don’t know how to use it. You don’t know what you are paying for . But you feel good that you are
+paying for *something* because the word AI is attached to it.
+Finally , someone who is skilled with AI writing tools will know how to evaluate the tools for quality
+output. They will also know the right questions to ask when evaluating software on your behalf. Many
+agencies buy the highest price tool and believe that high price means best output. Without the high
+cost of a tool, they truly wouldn’t know the dif ference. A skilled AI marketing professional will instantly
+be able to tell you the dif ference, regardless of the price point.
+Someone who buys AI tools like we do day in and day out can tell you what output is junk vs. output
+that is gold. W e can spot a bait and switch a mile away when it comes to garbage GPT -3 output vs.
+DaVinci. W e can tell you what image is generated by Stable Dif fusion vs. upscaled by Midjourney . The
+only way we know the dif ference is because we invest heavily in the tools and we use the tools we buy .
+Not every tool will be a winner; but our belief is that we are training by learning each tool through the
+acquisition of each new tool that comes to market. Again, this is a core dif ference between an agency
+that adds AI/ML  marketing as a bolt on service vs. an agency that is actually interested in evolving the
+technology or launching an in-house tool of their own that is trained on successful data.
+That brings me to another important point.
+An agency that is invested in the AI landscape will eventually want to launch their own AI content
+marketing tool. Make sure you know if your data will be used to train a model that the agency develops
+later on. This should be mentioned and outlined in the contract.
+Agency owners have to exercise due diligence and caution with the AI marketing vendors and tools
+they select. Some of these tools may poach your clients and tell them that the tools will replace the
+agency .
+Simply put; you are buying tools that are directly competing with you and want your clients as
+enterprise customers for sales leads. Pay close attention to the reputation of the SaaS you purchase
+and also look at the jurisdiction. If a problem does arrive, you will want to ensure it is in a geographic
+area that you can litigate in should any issues occur . Look at the Twitter feeds of the founders of the AI
+content generator tools.
+Is the founder bragging about saving their customers thousands of dollars per month with their tool? If
+so, they probably don’t respect agencies and it may be a good idea to look for a more collaborative
+partner as you assemble your software stack. This is why it is so dangerous for people to believe that
+there is only one big player in the AI space. Yes, there are a few big players that have the most
+headlines and funding, but the space is large enough for new market entrants.
+Do your research and test the tools before deciding on your stack. Don’t have the time to do this? Let
+us do it for you. This is not an area you want to rely on PR hype of the media for because the media
+covering AI has virtually no clue how to use the tools they report about and furthermore many writers
+still believe AI will replace their job, leading to an overall bias with how their report on the generative AI
+market.
+Finally , make sure ownership rights are clearly laid out. Is the agency the owner of the generative
+art/copy or are you? Do they have rights to post the images they create for your campaign and take in
+royalties? Be extremely clear . You won’t be happy if your AI-generated art is turned into a book one
+year down the line that you paid a consultant for but then learned they posted in an online art portfolio.
+Digital usage rights must be clearly laid out; including NFT’ s and secondary sales of any assets
+created during the campaign on your behalf.
+AI MARKETING AGENCY  CHECKLIST (BONUS!)
+Thinking about hiring an AI marketing agency? Ask these questions first.
+Does the agency excel in prompt engineering and AI art generation, or are they masters at GPT -3 fine
+tuning and content generation?
+What is your level of domain expertise?
+Do you specialize in a specific niche within AI?
+Does the agency have AI expertise in public policy initiatives, or are they better suited for the private
+sector?
+Does the agency use the tools they promote?
+What does the agencies af filiate structure look like with the tools they suggest?
+How much time does the agency spend on AI and ML  training and certification?
+The deployment of automated systems in marketing
+Companies must clearly communicate to internal and external stakeholders about the deployment and
+expansion of automated technologies and machine learning systems. This is where Ruby Media Group
+comes in. W e recently worked together with a Fortune 500 company to develop a framework that
+defined internal operational approaches pertaining to transparency and usage guidelines of machine
+learning systems. This framework informed internal employees and external clients about the use of AI
+tools in engagements.
+AI-MARKETING AGENCY SOLUTIONS | RUBY MEDIA GROUP | AI
+CONSULTING FIRM
+AI and ML  capabilities for next-generation publicity
+Digital transformation requires an investment in continuous improvements, assets, and capabilities.
+Don’t let AI outpace you. Ready to perform at the speed of light? W e can bring your organization up to
+speed and assist with AI implementation, onboarding, and marketing growth. RMG helps your
+organization accomplish B2b public relations and marketing objectives through the implementation and
+application of AI software.
+RMG of fers a variety of AI services to support your business growth. Our services include: AI business
+consulting with product delivery , implementation, and onboarding.
+What is stopping you from scaling your business with AI?
+In today’ s business world and digital economy , you have to stay relevant and one step ahead of your
+competitors.
+That requires you to continually evolve with a B2B public relations agency that will evolve with you.
+RMG creates opportunities to explore innovative artificial intelligence for your personalized business
+use case. Fueled by state-of-the-art machine learning technology and in-house software, we are a
+business-friendly solution for a non-technical company looking to leverage machine learning.
+Hundreds of companies have hired us to create their AI business growth strategy with RMG AI
+consultants and yours can too. Ready to grow? W e can help you prepare for the future and what’ s
+next. Gain exclusive access to our suite of AI PR & marketing solutions to accelerate your brand
+visibility and growth on digital platforms. Contact us today .
+Your business will soar with RMG’ s cutting-edge use of AI technology . Ruby Media Group: Helping
+leaders accelerate digital transformation since 2009.
+Introducing Ruby Media Group AI – The future of digital PR.
+Our advanced AI technology delivers personalized PR campaigns that drive results. With Ruby Media
+Group, you can reach your target audience with laser-focused precision, maximizing the impact of your
+advertising dollars.
+Our team of machine learning experts combine the power of AI with deep knowledge of social media
+marketing to create AI marketing campaigns that drive engagement, conversions, and sales.
+We leverage the latest AI techniques, including machine learning and natural language processing, to
+deliver tailored messages that resonate with your audience.
+Don’t miss out on the future of marketing.
+Contact Ruby Media Group today and see how AI can take your business to the next level.
+Did you enjoy this article? You may enjoy our next article in a 3-part series on AI titled:
+Part 1: Artificial Intelligence, Machine Learning, and The Future of Marketing
+(https://rubymediagroup.com/machine-learning-future-of-marketing-ai/)
+Part 2: How AI is Transforming Marketing and PR  (https://rubymediagroup.com/artificial-intelligence-
+marketing/)
+Part 3: AI Marketing Agency Guide for CMOs  (https://rubymediagroup.com/ai-marketing-agency-
+guide/)Get Started  (https://rubymediagroup.com/contact/)
+ABOUT THE AUTHOR
+KRIS RUBY  (https://www .krisruby .com/aboutkrisruby)  is an artificial intelligence marketing consultant
+and the founder of Ruby Media Group, a digital-first social media marketing agency . 
+She frequently offers insights on artificial intelligence in marketing on podcasts, television, radio and
+industry conferences.
+Ms. Ruby is an expert on AI tools for writing and content marketing campaigns. She owns more than
+100 tools and loves testing out new software. Have a new AI tool she should know about? Drop her a
+line. 
+For more a rtificial intelligence news you can trust, subscribe to our blog. 
+RECENT MEDIA  INTER VIEWS ON AI MARKETING:
+Harvard Business Review: How Generative AI is Changing Creative W ork 
+(https://hbr .org/2022/1 1/how-generative-ai-is-changing-creative-work)
+Dot La: Is AI Making the Creative Class Obsolete?  (https://dot.la/ai-art-taking-creative-jobs-
+2658354186.html)
+(https://hbr .org/2022/1 1/how-generative-ai-is-changing-creative-work)
+AI EVENTS:
+Sign up to attend our upcoming event with NASDAQ on AI in PR & Marketing
+(https://www .eventbrite.com/e/artificial-intelligence-in-public-relations-marketing-tickets-
+464728354017)
+WATCH:
+ 
+LEGAL  DISCLAIMER AND COPYRIGHT NOTICE:Hire RMG  (https://rubymediagroup.com/contact)
+You do not have the authorization to screenshot, reproduce or post anything on this article without
+written authorization. This article is protected by U.S. copyright law . You do not have permission to
+reproduce the contents in this article in any form whatsoever without authorization from the author , Kris
+Ruby . All content on this website is owned by Ruby Media Group Inc. © Content may not be
+reproduced in any form  without Ruby Media Group’ s written consent.  Ruby Media Group Inc. will file
+a formal DMCA  Takedown notice if any copy has been lifted from this website. This site is protected by
+Copyscape. This post may contain affiliate links for software we use. W e may receive a small
+commission if any links are clicked. 
+This article was written by a human and no artificial intelligence was used to write this article. 
+ 
+No Generative AI Training Use 
+Ruby Media Group Inc. reserves the rights to this work and any other entity , corporation, or model has
+no rights to reproduce and/or otherwise use the W ork (including text and images on this website) in
+any manner for purposes of training artificial intelligence technologies to generate text, including
+without limitation, technologies that are capable of generating works in the same style or genre as the
+Work. You do not have the right to sublicense others to reproduce and/or otherwise use the W ork in
+any manner for purposes of training artificial intelligence technologies to generate derivative text for a
+model without the permission of Ruby Media Group. If a corporation scrapes or uses this content for a
+derivative model, RMG will take full legal action against the entity for copyright violation and unlicensed
+usage.
+ (https://rubymediagroup.com/author/krisruby/)
+Kris Ruby (https://rubymediagroup.com/author/krisruby/)
+KRIS RUBY (https://www.krisruby.com/) is the CEO of Ruby Media Group, an award-
+winning public relations and media relations agency (https://rubymediagroup.com/) in
+Westchester County, New York. Kris Ruby has more than 15 years of experience in the
+Media industry. She is a sought-after media relations strategist, content creator and
+public relations consultant. Kris Ruby is also a national television commentator and
+political pundit and she has appeared on national TV programs over 200 times covering
+big tech bias, politics and social media. She is a trusted media source and frequent on-air
+( CEO & Founder | Ruby Media Group )
+Tags: AI content generation  (https://rubymediagroup.com/tag/ai-content-generation/) , AI expert Kris
+Ruby  (https://rubymediagroup.com/tag/ai-expert-kris-ruby/) , AI in public relations
+(https://rubymediagroup.com/tag/ai-in-public-relations/) , AI plagiarism
+(https://rubymediagroup.com/tag/ai-plagiarism/) , Ai-driven marketing tools
+(https://rubymediagroup.com/tag/ai-driven-marketing-tools/) , artificial intelligence
+(https://rubymediagroup.com/tag/artificial-intelligence/) , Artificial intelligence art generators
+(https://rubymediagroup.com/tag/artificial-intelligence-art-generators/) , Artificial intelligence ethical
+issues  (https://rubymediagroup.com/tag/artificial-intelligence-ethical-issues/) , Artificial intelligence in
+marketing  (https://rubymediagroup.com/tag/artificial-intelligence-in-marketing/) , Artificial intelligence
+marketing solutions  (https://rubymediagroup.com/tag/artificial-intelligence-marketing-solutions/) ,
+Generative AI (https://rubymediagroup.com/tag/generative-ai/) , GPT4 OpenAI chatGPT
+(https://rubymediagroup.com/tag/gpt4-openai-chatgpt/) , midjourney
+(https://rubymediagroup.com/tag/midjourney/) , Ruby Media Group
+(https://rubymediagroup.com/tag/ruby-media-group/)commentator on social media, tech trends and crisis communications and frequently
+speaks on FOX News and other TV networks. She has been featured as a published author
+in OBSERVER, ADWEEK, and countless other industry publications. Her research on brand
+activism and cancel culture is widely distributed and referenced. She graduated from
+Boston University’s College of Communication with a major in public relations and is a
+founding member of The Young Entrepreneurs Council.  She is also the host of The Kris
+Ruby Podcast Show, a show focusing on the politics of big tech and the social media
+industry. Kris is focused on PR for SEO and leveraging content marketing strategies to
+help clients get the most out of their media coverage. 
+ (https://www .linkedin.com/in/krisruby/)  (https://twitter .com/sparklingruby)
+ (https://www .youtube.com/channel/UCfheOL56OoDsmu2Je-vJvGg)
+© 2023 Ruby Media Group ® | Privacy  (https://rubymediagroup.com/privacy/)

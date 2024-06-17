@@ -1,0 +1,484 @@
+AI for Manufacturing 
+Marketing Blueprint
+Sponsored By
+© 2023, Marketing AI Institute, All Rights Reserved.
+Published July 20232  |  AI for Manufacturing Marketing Blueprint  3  Why Artificial Intelligence Is a Must for Manufacturing Marketing and Sales
+5  What Is AI, Really?  
+ 3 Core AI Applications  6
+7  How to Determine the Right AI Use Case 
+ Top Marketing AI Use Cases in Manufacturing   7
+9  Top Companies Using AI for Manufacturing Marketing 
+ Security Equipment Manufacturer Increases Email Capture Rate By 3X   9 
+ Global Fortune 500 Manufacturer Boosts Net-New Leads and Customer Satisfaction   9 
+11  Top Marketing AI Tools for Manufacturing
+14  Why Manufacturing Marketing of the Future Depends on AI
+ About Marketing AI Institute  14
+ About Drift  14
+ Table of Contents3  |  AI for Manufacturing Marketing Blueprint  
+The world’s manufacturers have faced extraordinary obstacles in the last few years—shaky supply 
+chains, an uncertain global economy, and labor shortages, to name a few.
+Still, customer demand has spurred unexpected growth in the industry. Now, manufacturers are 
+tentatively leaving pandemic-era struggles in the rearview mirror and shifting their focus to leaping 
+ahead of competitors.
+For industry leaders, this means digital transformation. Yet, as the industry progresses toward “smart 
+factory” transformations on the manufacturing floor, many manufacturing marketers still find 
+themselves stuck in place when it comes to marketing technology.
+Despite improved online experiences having a direct positive impact on customer satisfaction,  
+revenue and retention, and an industry shift toward e-commerce, 92% percent of manufacturers  
+report that their digital experiences are behind customer expectations. Competition is surging, 
+demand is high, and yet, the majority of manufacturers are unsatisfied with how their website 
+captures and nurtures leads. 
+Many are also unprepared to navigate a seller-free sales experience. Sales reps today are only 
+getting 5% of a customer’s time during the B2B buying journey. Instead of relying on in-person 
+introductory meetings, customers are turning to company websites and digital channels to do 
+research and determine product fit.
+Customers don’t want to waste time finding information, waiting for responses, digging through 
+emails, or sitting on calls. They want immediate answers and information at their fingertips. They 
+want personalized, relevant experiences on the channels of their choosing.
+Artificial intelligence (AI) can help. Gartner predicts that 75% of B2B sales organizations will 
+augment their traditional sales playbooks with AI-guided selling solutions by 2025, and marketers in 
+neighboring industries are reaping the rewards of AI for things like:
+• Saving time by generating high-quality content, outlines, summaries, and ideas.
+• Providing data-driven recommendations on which marketing assets will perform best.
+• Personalizing marketing campaigns for each member of their audience at scale.
+•  Segmenting users based on their individual behaviors and interactions, and predicting what 
+they’ll do next.
+•  Conversing with multiple customers in real time and answering their questions with subject-
+matter expertise at scale.
+• Increasing customer engagement and revenue with content and product recommendations.
+•  Moving leads through the funnel more efficiently, for higher customer satisfaction and shorter 
+time to revenue (TTR).
+… And many, many more. 
+ 
+Powerful AI tools are commercially available to all manufacturing teams, and they’ve become easier 
+to use, regardless of technical background. In fact, your competitors are likely already harnessing the 
+power of AI to increase their marketing teams’ productivity, efficiency, and mission-critical ROI.
+ 
+Why Artificial Intelligence  
+Is a Must for Manufacturing  
+Marketing and Sales
+Customers 
+don’t want 
+to waste 
+time finding 
+information, 
+waiting for 
+responses, 
+digging 
+through 
+emails, or 
+sitting on 
+calls.4  |  AI for Manufacturing Marketing Blueprint  
+If you’re not already using AI in multiple facets of your marketing strategy, you need to be.  
+Marketing your business without AI puts you at risk of becoming obsolete.
+Good news: You don’t need a degree in data science or machine learning to take advantage 
+of AI. You just need to understand:
+ 
+• What AI is and what it is capable of doing.
+•  What AI use cases are available for manufacturing marketing, and how to find the 
+use cases that make sense for your organization.
+• Which specific AI tools can create real business outcomes for you.
+ 
+With this guide, you’ll uncover all three. You’ll see real-life examples of companies like 
+yours succeeding with AI, gain the confidence to move forward using AI for your marketing 
+strategy, and begin reaping the benefits of AI for your business.Why Artificial Intelligence Is a Must for Manufacturing Marketing and Sales
+You don’t need 
+a degree in 
+data science 
+or machine 
+learning to take 
+advantage of AI. 5  |  AI for Manufacturing Marketing Blueprint  Our favorite definition of AI is simple. It comes from Demis Hassabis, Co-Founder and CEO of Google 
+DeepMind, a major player in AI: AI is “the science of making machines smart.”
+ 
+Smart machines enhance human knowledge and capabilities. 
+But what does it mean for a machine to be smart?
+It means that AI uses machine learning to determine its own pathways toward achieving an overall goal 
+(e.g. drive more sales). 
+First, humans train the machine by showing it data and teaching it to recognize patterns in that data. 
+Using those patterns, the machine learns how to achieve the goals programmed into it. After a certain 
+period of time, the machine starts to recognize those patterns, achieve its goals without human 
+influence, and even iterate on its performance based on feedback.
+To illustrate what we mean, let’s compare how AI software would handle online support cases 
+compared to the traditional software you may use today. 
+Imagine you want to start offering an option for your prospects and customers to get their questions 
+answered online versus only over the phone. You’d probably take the following steps: 
+1. Manually create a Contact Us web page and form on your website where site visitors can 
+submit their requests.
+2. Wait for the questions to come in, and then manually route those inquiries to the 
+appropriate person on your team who will follow up in an email. 
+3. Maybe you add a live chat function to your website and staff your team with live support 
+agents. Your agents then manually answer each question as they come in.
+There are probably a number of tools in your tech stack that would help you with this process, but it’s 
+still not very sophisticated. Every step of the way, you have to have a human at their computer giving 
+the software instructions on what to do. It’s tedious, and it’s inefficient.
+What if you added AI to your tech stack?
+AI-powered marketing technology would:
+1. Instantly recognize how a person landed on your site as well as their previous interactions 
+with your company to send a personalized greeting.
+2. Gather initial information about the individual and their question, and ask for follow up 
+details as relevant. 
+3. Pre-populate known information, such as email addresses, from your contact management 
+system into questions and responses.
+4. Automatically answer simple support questions.
+5. Route the individual to the most appropriate sales rep along with the context of the inquiry 
+for more complex questions.
+6. Schedule meetings for sales reps if they are unable to chat live.
+What Is AI, Really?  6  |  AI for Manufacturing Marketing Blueprint  
+And the best part? AI learns with every interaction it has on your site, so it gets better over time. 
+Whenever a chat conversation is successfully completed, the machine remembers what worked well. It instantly 
+applies these learnings to the next campaign and incrementally improves the playbook instantly and at scale. 
+Or take another example: If the same question continues to come up, AI suggests topics so that you can build 
+immediate responses around what customers care about most and alleviate reps from redundant questions. 
+ What Is AI, Really?  
+Machine learning isn’t the only term you’ll 
+hear in discussions of AI. You’ve probably 
+read or heard people using terms like:
+ 
+Deep learning:   A subset of machine 
+learning that recognizes and brings 
+together complex patterns in pictures, 
+text, sound, and other data by 
+mimicking how the human brain works. 
+Reinforcement learning: A type 
+of machine learning model that 
+uses environmental signals (such 
+as rewarding a machine for certain 
+outcomes) to optimize toward a long-
+term goal. 
+Neural networks: A collection of 
+interconnected artificial neurons that 
+power deep learning. 
+Topic modeling: When AI identifies 
+how words relate to each other and 
+group with each other, enabling all 
+sorts of capabilities like generating 
+language and identifying recurring 
+themes in content.
+Robotics: Robotics combines image 
+recognition, facial recognition, and 
+computer vision to power a physical 
+machine. It is not AI, but rather 
+powered by AI. 
+ 
+There’s a lot of AI jargon out there, but 
+for the sake of manufacturing marketing, 
+there are only three AI applications 
+you really need to pay attention to: 
+Language, Vision, and Prediction. Language AI—The ability for machines 
+to understand and generate written and 
+spoken words. 
+Language AI technologies and terms you 
+may encounter include:
+ 
+• Natural language generation
+• Voice recognition
+• Natural language processing
+• Text analysis and summarization
+• Sentiment analysis
+ 
+An example of Language AI is Gmail’s 
+Smart Compose feature. You type 
+an email, and Gmail predicts how to 
+complete your next sentence.
+In manufacturing, Language AI can be 
+used to write and edit any type of copy 
+across product lines and offerings—from 
+emails and blog posts to landing pages 
+and social media posts.
+Vision AI—The ability for machines 
+to analyze and understand data 
+from still images and videos. Vision 
+AI technologies and terms you may 
+encounter include:
+ 
+• Object recognition
+• Emotion generation
+• Image generation
+• Optical Character Recognition (OCR)
+• Video generation
+ 
+An example of Vision AI is the facial 
+recognition feature on iPhones. Vision AI 
+determines if the face it is seeing is the owner of the phone’s and, if it is, grants 
+them access to the device.
+In manufacturing, Vision AI can create 
+compelling, original images for use in 
+presentations, ebooks, and social media.
+ 
+Prediction AI—The ability for machines 
+to predict future outcomes based on 
+historical data. The better the data 
+that goes in (the inputs), the better the 
+predictions that come out (the outputs). 
+Prediction AI you may already be familiar 
+with include:
+ 
+• Personalization
+• Pattern recognition
+• Forecasting
+• Recommendation
+ 
+An example of Prediction AI is credit 
+card fraud alerts. The AI is trained on 
+your historical data, and, based on your 
+buying history, can predict fraudulent 
+transactions. It then automatically notifies 
+you of those data anomalies.
+In manufacturing, Prediction AI can help 
+personalize your brand experience for 
+every audience member, at scale—and 
+make changes in real-time based on 
+mountains of data.3 Core AI Applications7  |  AI for Manufacturing Marketing Blueprint  
+Between Language AI, Vision AI, and Prediction AI use cases, it’s easy to wonder where to even begin. 
+We recommend starting your AI journey by taking a holistic view of your marketing programs and 
+asking yourself three main questions.
+For each task, consider:
+ 
+Is it data-driven? Are you using data to do the task? Alternatively, do you have data you should be 
+using to do the task, but you’re not? Consider anytime you analyze customer demographics, product 
+sales, browsing behavior and other data points. 
+ 
+Is it repetitive? Do you do the same thing over and over again to accomplish the task? Is there a list 
+of defined steps that you follow to get the task done? Weekly or monthly reporting on your product 
+sales could fall into this category.
+ 
+Is it making a prediction? Are you trying to forecast an outcome or behavior? AI is really good at 
+identifying patterns based on large sets of data. It then uses these patterns to make predictions on 
+likely outcomes or the next best action. 
+ 
+You don’t have to answer “yes” to all three questions to have an AI use case, but these questions are 
+a great framework for creating your AI roadmap and prioritizing where to focus first to see the most 
+impact from AI.  
+Top Marketing AI Use Cases in Manufacturing
+ 
+Manufacturing marketing is rife with opportunity for AI implementation. Top manufacturers have 
+already begun expanding use of this technology from the factory floor to their marketers’ offices. Here 
+are just a few examples of real use cases.
+Analytics  
+• Synthesize data for patterns and emerging trends in real-time. 
+•  Continuously pull relevant data points and measure performance on all marketing activities in 
+visually appealing dashboards and interactive reports, proving ROI for each expense in the strategy.
+•  Provide better personalization with a clearer view of your customers and distributors, 
+informed by data.
+Content
+ 
+• Create visuals, like static images or video, that show how complex systems and parts work.
+•  Automatically surface the content that will most likely help a prospect take a desired next 
+step toward purchase, like converting into a qualified lead.
+•  Implement personalization into websites with dynamic content that helps users find the 
+product or part they’re looking for based on their job title, industry, or product lines they’ve 
+purchased from in the past. 
+•  Proactively recommend content and products based on common replacement or upgrade 
+timelines—and automatically improve these recommendations over time.
+How to Determine the  
+Right AI Use Case8  |  AI for Manufacturing Marketing Blueprint  
+Sales
+•  Predict the accounts that will buy based on your top existing customers and help team members 
+dedicate their time to following those leads.
+•  Likewise, predict the accounts that will churn and flag these risks for team members to nurture  
+the relationship.
+•  Automatically identify cross-sell and upsell opportunities that make sense for a particular buyer based on 
+purchase history.
+•  Expedite the RFP process with predictive text and generative writing programs. 
+•  Predict what will be in scope and out of scope for the deals you’re working on.
+•  Have one-to-one conversations with website visitors and personalize recommendations, resources, and 
+suggestions at scale.
+•  Draft compelling sales content, sales presentations, and proposals.
+•  Allow visitors to automatically set up meetings with the right person on your team and avoid the back 
+and forth of scheduling with field teams. 
+Social
+•  Automatically generate social shares from text prompts or from past work your human content teams 
+have produced.
+•  Automatically schedule social shares to post on the days and times that your audience is most likely to engage. 
+• Create compelling images and videos for social posts. 
+•  Serve different variations of social shares to different audiences based on their preferences, motivations, 
+and needs.
+Website Conversion and Support
+•  Better engage visitors with contextual greetings via AI-powered chatbots and personalized website content. 
+•  Execute A/B tests of site landing pages, headlines, images, offers, calls to action and more, learn from 
+the results, and automatically apply the learnings into future content.
+•  Deflect service requests with AI-powered chatbots that can provide relevant answers immediately. Point 
+site visitors to relevant web resources or route them to the best-available human. 
+•  Provide dynamic and personalized pricing based on customer behavior, competitor prices, and market 
+demand to incentivize conversions. How to Determine the Right AI Use Case9  |  AI for Manufacturing Marketing Blueprint  You have a fundamental understanding of AI and you know how it can be used in your business. Now, 
+let’s look at how real manufacturers are using AI technology to push their marketing—and revenue—
+ahead of the competition.
+Security Equipment Manufacturer Increases Email Capture Rate By 3X
+ 
+Plenty of marketers in the manufacturing space rely on account-based marketing (ABM) to help land 
+target accounts.
+ 
+But for this manufacturer, ABM was just the beginning.
+ 
+The former STANLEY Security, now Securitas Technology, used ABM with some success. It quickly 
+realized there was an opportunity to not only catch the attention of its VIP prospects, but to engage 
+them in a personalized experience that continues even after they had become customers.
+ 
+The key? Account-based engagement (ABE).
+ 
+The goal of ABE is to personalize each experience a target has with your brand in an engaged way, not 
+a passive way. It focuses on creating a highly personalized pre- and post-sales experience based on the 
+customer’s intent, with the goal of initiating and growing one-on-one relationships.
+Securitas Technology leaned on Drift, an AI-powered conversation cloud that personalizes 
+conversations at every stage of the buyer’s journey, to transform its customer experience with ABE.
+ 
+It deployed a Drift chatbot to pinpoint intent. The intelligent chatbot starts a conversation where the 
+customer says exactly what they want. Using Drift on its website, Securitas Technology designed one-
+on-one AI-powered experiences using conversational and firmographic data.
+ 
+The chatbots were customized so they responded to a specific buyer’s needs, whether based on 
+industry, the page they are browsing, or where they are in the buying journey.
+ 
+But the experience goes even deeper than an engaging greeting. Using the data collected from 
+its conversations, Securitas Technology optimized its conversation flow to ensure the best service 
+possible, such as knowing how many sales reps to have available based on seasonal intent.
+ 
+The result?
+ 
+With Drift, Securitas Technology has had more than 55,000 conversations across the globe and 
+uncovered more than 2,300 opportunities. Securitas Technology marketers also found that, with a 
+personalized experience, their email capture rate was 3X higher than with a generalized experience.
+Global Fortune 500 Manufacturer Boosts Net-New Leads and Customer 
+Satisfaction
+ 
+Emerson is a global technology, software, and engineering company that has 170 manufacturing 
+locations and more than 86,000 employees.
+Top Companies Using AI  
+for Manufacturing Marketing10  |  AI for Manufacturing Marketing Blueprint  
+It was seeking to elevate the digital experience on its website, which drew millions of visits annually. The Emerson 
+team wanted to get customers and prospects answers to their questions faster—replacing form fills, and delivering 
+high-value leads directly to their product experts. 
+But, it faced some challenges: particularly related to the company’s size, personnel depth, and geographic diversity. 
+The company needed AI to quickly adapt to each customer’s needs and direct each individual to the right Emerson 
+expert or self-service resource. 
+With Drift’s Conversational AI, Emerson business development representatives, customer care technicians and 
+technical specialists are all able to quickly book meetings, live chat with customers and prospects, and leverage AI 
+to solve an array of customer needs. 
+For example, site visitors can simply click “Talk to an Expert,” and a Drift chatbot will immediately connect them to 
+the right Emerson resource, increasing inbound conversion rates. 
+As a result, Emerson has been able to shorten its sales cycle, lower its cost of service, drive qualified conversations 
+and net-new leads, and offer unmatched customer service. 
+In the six months since implementation, Emerson exceeded its ROI projections with Drift’s chatbot booking more 
+than 600 meetings and driving upward of one new contact per business development rep, per week. On top of the 
+sales growth, customers have never been happier! 
+ Top Companies Using AI for Manufacturing Marketing11  |  AI for Manufacturing Marketing Blueprint  Ready to try out AI for yourself? AI options for manufacturers run the gamut, but we’ve listed a few of 
+the best of the best for you here.
+ 
+Drift’s Conversation Cloud increases lead generation and efficiently grows revenue by connecting with 
+website visitors instantly to share content, answer questions, and book meetings 24/7/365.
+ 
+Manufacturers who provide great digital experiences are two times as likely to be selected over a 
+competitor. With an AI-powered online concierge like Drift, you can recognize visitors, serve relevant 
+content, and get insights on what your customers care about most.
+ 
+Drift’s key capabilities include:
+•  AI Chatbot: Answer questions, share relevant content, and capture email 
+addresses 24/7 to grow your pipeline of qualified leads.
+•  Book a Meeting: Allow customers to schedule sales meetings so your 
+business development team never misses an opportunity.
+•  Target Account Notifications: Get real-time ABM alerts when target 
+accounts and key buying committees visit your site. Engage when intent 
+is highest.
+•  Live Chat: Immediately connect website visitors with the right product 
+experts, business development reps, and support agents.
+•  Integrations: Connect Drift to your technology stack to offer more 
+personalized outreach with context from your existing data—that means if 
+someone asks for information that doesn’t live on your website, the Drift 
+webhooks API can pull it straight from your ERP instead.
+•  Reporting and AI Topics: Measure performance and ROI. Uncover 
+trending chat topics to improve experiences across the customer lifecycle.
+Top Marketing AI Tools  
+for Manufacturing
+Want to try it out? 
+START HERE12  |  AI for Manufacturing Marketing Blueprint  
+Top Marketing AI Tools for Manufacturing
+6sense uses AI to capture “intent signals,” or indicators that identify people who are likely to take a 
+desired action, to help businesses improve their communication efficiency and productivity. 
+ 
+AiAdvertising is a cloud-based Artificial Intelligence-as-a-Service (AIaaS) advertising platform that 
+allows marketers to easily plan, predict and execute hyper-personalized advertising campaigns with full 
+transparency, while gaining the intelligence they need to prove advertising’s impact on the bottom line. 
+This means powerful, high-impact ads that convert. 
+Demandbase is a go-to-market platform built around Account Intelligence, which combines your sales 
+and marketing data with its validated external B2B data to help you find and engage with the accounts 
+most likely to buy from you. It uses AI to make sense of everything, and then it helps you put it into 
+action with Demandbase One™.
+The result? Your team can spot opportunities faster and better understand where to focus their time 
+and money. 
+ 
+Descript uses AI to put professional-grade video and audio production in your hands. The tool’s simple 
+UI makes it easy for anyone to produce videos, audio clips, transcripts, and more. It’s perfect (and 
+affordable) for podcast, webinar, and course production. And you don’t need to hire pricy production 
+firms to create multimedia content assets.
+ 
+MarketMuse is an AI platform that identifies your top content opportunities. The platform uses AI to 
+tell you which topics to target and how to rank for them, and it even generates content briefs for those 
+suggested topics. Plus, it can show you what other pieces of content are on Page 1 of SERPs missed, 
+so you can beat out your competitors.13  |  AI for Manufacturing Marketing Blueprint  
+Top Marketing AI Tools for Manufacturing
+ 
+Mutiny is a no-code AI solution that allows you to personalize your website by just pointing and
+clicking. This makes it quick and easy to roll out personalization changes and experiments without 
+developers. You can use these capabilities to better personalize your website for individual visitors. 
+For example, you can create personalized landing pages at scale for ABM / ABE and paid advertising 
+campaigns.
+ 
+The Persado platform combines natural language generation, machine learning, and experimental 
+design to tailor marketing messaging to be in a language and tone that it knows will motivate 
+individual users the most—turning words into growth levers for your business.
+Salesforce Einstein—a layer of intelligence within the Lightning Platform—allows admins and 
+developers to use the rich set of platform services to build customized, AI-powered apps. 
+Salesloft is a sales-engagement platform designed to provide relationship managers a central place to 
+execute digital selling tasks, communicate with buyers, forecast, as well as get coaching and insights. 
+A few of its AI-based features include meeting and call analysis and insights, in which transcribed and 
+video recorded calls are analyzed to better understand buyer engagement and guide sales coaching, 
+and email templates, in which generative AI is used to create effective outreach emails at scale.
+ 
+Writer is an AI writing platform built for teams. Unlike other GPT-powered applications, Writer is trained 
+on your data—your best-performing blog posts, landing pages, social media posts, as well as your 
+brand style guide. 14  |  AI for Manufacturing Marketing Blueprint  Manufacturers that refuse to evolve and embrace the latest technology often get left behind. That’s 
+been true for centuries, and it’s true of marketers, too.
+ 
+AI gives manufacturing marketers the power to do more with less. It increases your team’s efficiency 
+and makes your marketing campaigns more effective. On top of saving time and money, AI can also 
+help increase pipeline by creating a personalized buying experience for every single lead, at scale. It’s a 
+win-win! 
+ 
+Harness the power of AI for your own organization, or risk becoming obsolete. AI’s capabilities are 
+rapidly improving, and its cost is dropping.
+ 
+You have the understanding. You have the use cases. And the technology is available and affordable.
+ 
+It’s time to get to work.
+About Marketing AI Institute
+ 
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders.
+ 
+The Institute owns and operates the Marketing Artificial Intelligence Conference (MAICON), AI for 
+Writers Summit and AI for Agencies Summit; hosts The Marketing AI Show podcast; runs the AI 
+Academy for Marketers featuring dozens of on-demand courses; and published Marketing Artificial 
+Intelligence: AI, Marketing, and the Future of Business (Matt Holt Books, 2022).
+ 
+Learn more at www.marketingaiinstitute.com.
+ 
+About Drift
+ 
+Drift, the Conversation Cloud company, helps businesses connect with people at the right time, in the 
+right place with the right conversation.
+ 
+Using the Drift Conversation Cloud, businesses can personalize experiences that lead to more quality 
+pipeline, revenue and lifelong customers. Drift brings Conversational Marketing, Conversational Sales 
+and Conversational Service into a single platform that integrates chat, email and video, and powers 
+personalized experiences with AI at all stages of the customer journey.
+ 
+More than 5,000 customers, including 200+ manufacturers, use Drift to deliver a more enjoyable and 
+more human buying experience that builds trust and accelerates revenue. Manufacturing customers 
+include STANLEY Security (now Securitas Technology), Cornerstone Building Brands, Advanced 
+Instruments, 3D Systems and Mirion Technologies, among others. 
+Representing less than 1% of unicorns led by Latino founders, Drift is building an equitable, enduring 
+company to transform the way businesses buy from businesses.
+ 
+For more information, visit www.drift.com and follow @drift.
+Why Manufacturing Marketing  
+of the Future Depends on AI15  |  AI for Manufacturing Marketing Blueprint  

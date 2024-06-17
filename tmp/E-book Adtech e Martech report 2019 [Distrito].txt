@@ -1,0 +1,1785 @@
+&
+REALIZAÇÃO
+APOIO
+SUMÁRIO03. Missão
+04. Quem somos
+05. Nossa filosofia
+06. Introdução
+07. Categorias
+10. Radar Distrito  
+AdTech & MarTech  
+Report 2019
+12. AdTech & MarTech  
+Report 2019
+29. Ecossistema39. Case - TunAd
+40. Case - Hariken
+42. Cenário internacional
+49. Case internacional 
+HootSuite
+50. Conclusão
+51. Termos de uso  
+e reprodução
+52. Créditos
+2
+Ser a principal fonte de inteligência 
+sobre novas tecnologias e inovação 
+nos mercados de marketing, mídia e 
+publicidade do Brasil.  Esse é o objetivo 
+do Distrito AdTech & MarTech Report. 
+Gerar conhecimento, disseminar a 
+cultura de inovação e incentivar o 
+desenvolvimento desse ecossistema faz 
+parte do DNA de todos os envolvidos na 
+realização deste estudo. 
+Com o AdTech & MarTech Report, 
+assumimos a obrigação de transformar 
+tudo o que há de informação,  
+dado e tendência do mercado  
+em oportunidades de negócio  
+para seus diversos players.MISSÃO
+DISTRITO ADTECH & MARTECH REPORT
+3
+Distrito é uma plataforma de inovação para 
+startups, empresas e investidores que buscam  
+o próximo passo de sua evolução. 
+Unimos uma poderosa rede de conexões, dados, 
+inteligência analítica, criativa e espírito empreendedor 
+para contribuir ativamente na transformação 
+tecnológica que está mudando o mundo. 
+Acreditamos na inovação aplicada  
+para construir um futuro melhor. 
+Saiba mais em www.distrito.me
+QUEM SOMOS
+DISTRITO ADTECH & MARTECH REPORT
+4
+NOSSA FILOSOFIA
+As startups delineadas no report foram selecionadas a partir de um traba-
+lho minucioso de pesquisa e consulta ao banco de dados de startups pro-
+prietário do Distrito. Também foram realizadas consultas a bancos abertos 
+e informações públicas do governo.
+As startups foram examinadas individualmente para verificar adequação 
+ao tema do report e aos critérios de seleção estabelecidos. São eles: 
+• Ter a inovação no centro do negócio, seja na base tecnológica, 
+no modelo de negócios ou na proposta de valor.
+• Estar em atividade no momento da realização do estudo,  
+medido pelo status do site e atividade em redes sociais.
+• Desempenhar atividade diretamente relacionada  
+ao setor estudado. 
+• Ter nacionalidade brasileira e operar atualmente no Brasil.
+O trabalho de definição das categorias foi baseado em análise da literatu-
+ra relevante e das classificações utilizadas amplamente no mercado, no 
+Brasil e no mundo. A definição da categoria a que pertence cada startup 
+foi feita por nossa equipe, e, quando uma startup opera em mais de uma 
+categoria, a situamos na que interpretamos como sua atividade principal 
+ou de maior visibilidade.conteudo.distrito.me/cadastro-dataminerEsta é a segunda edição deste estudo, e ele  
+continuará recebendo atualizações recorrentes.  
+Caso queira solicitar a análise da sua startup  
+para uma próxima versão, acesse o link abaixo:
+AGORA É A SUA VEZ. A EQUIPE DO DISTRITO 
+DATAMINER QUER SABER QUAIS FORAM 
+AS SUAS IMPRESSÕES, CRÍTICAS E/OU 
+SUGESTÕES SOBRE O DISTRITO  
+ADTECH & MARTECH REPORT.
+CLIQUE AQUI PARA ACESSAR  
+NOSSO FORMULÁRIO
+DISTRITO ADTECH & MARTECH REPORT
+5
+Tente lembrar quais foram as suas últimas com-
+pras. Ao longo dos últimos meses você pode ter 
+comprado uma peça de roupa, um celular, um 
+livro, ou qualquer outro produto que seja. Inde-
+pendentemente do que tenha sido, em algum mo-
+mento da sua jornada a internet esteve presente. 
+Seja para pesquisar preços, comentários e avalia-
+ções em redes sociais ou efetivamente comprar 
+o produto, você certamente utilizou ferramentas 
+digitais no processo.
+Esse não é um comportamento exclusivamente 
+seu. Milhões de outras pessoas ao redor do mundo 
+compartilham do mesmo processo de compra. O 
+mais interessante de notar é que esta nova forma 
+de consumo tem sofrido alterações nos últimos 
+anos, muito por conta do surgimento de novas 
+tecnologias, assim como ocorreu em outros mo-
+mentos em um passado nem tão distante. Essas 
+alterações no consumo fazem com que as corpo-
+rações tenham que adaptar seus produtos e seus 
+posicionamentos para atender seus clientes.
+Se antes as empresas não podiam abrir mão do 
+investimento em anúncios de TV, jornais e revis -
+tas para conquistar clientes, hoje é preciso avan-çar na transformação digital. Mais do que nunca é 
+necessário compreender em um nível individuali-
+zado cada pessoa, entender quais são suas pre-
+ferências e seus comportamentos de consumo, 
+para que assim seja possível oferecer o produto 
+ideal no momento correto.
+De mídias sociais, podcasts, transmissões ao vivo, 
+avanços na inteligência artificial, até opções de soft -
+ware quase ilimitadas, os profissionais de marketing 
+e mídia nunca tiveram mais métodos e canais de 
+transmissão para suas mensagens. Ao mesmo tem-
+po, com constantes mudanças nas LGPDs, melho-
+res práticas de SEO e um mercado saturado, nunca 
+foi um período mais desafiador para estar no setor.
+E é justamente essa transformação que gostaría-
+mos de apresentar ao longo do Distrito AdTech & 
+MarTech Report. Ao longo das próximas páginas, 
+você irá se deparar com informações que intro-
+duzem, de forma detalhada, as características do 
+setor e quais são as startups que estão atuando 
+na transformação dos setores de propaganda e 
+marketing no Brasil. 
+Boa leitura!INTRODUÇÃO
+Eduardo Fuentes  
+Data Miner @ Distrito
+DISTRITO ADTECH & MARTECH REPORT
+6
+CATEGORIAS
+ADVERTISING  
+& PROMOTION
+Search & Display
+OOH (Out Of Home)
+Geomarketing
+Mídia Programática
+Marketing Analytics  & Performance
+Design
+CONTENT & 
+EXPERIENCE
+E-Mail & SMS Marketing
+Content Marketing
+SEO
+Marketing Automation & Campaign Management
+Marketing Sensorial
+SOCIAL & 
+RELATIONSHIP
+Events, Meetings & Webinars
+Influencers & Buzz
+Customer Relationship
+Social Media Management & Monitoring
+COMMERCE  
+& SALES
+E-Commerce Marketing & Tools 
+Loyalty Programs
+Market Research & Survey
+Big Data & Business Intelligence
+DISTRITO ADTECH & MARTECH REPORT
+7
+CATEGORIAS
+ADVERTISING & PROMOTION
+Este setor é composto por startups que 
+desenvolvem soluções para promoção, 
+divulgação e exibição de marcas, produtos, 
+serviços e campanhas, com o objetivo de facilitar 
+e otimizar os resultados de anúncios publicitários.CONTENT & EXPERIENCE 
+Focada em criar e distribuir conteúdos valiosos 
+e convincentes para atrair, reter e engajar o 
+público-alvo. Para isso, lançam mão de soluções 
+relacionadas a elaboração de conteúdo, técnicas 
+de SEO e disparos de mensagens em massa 
+por e-mail ou SMS, além de controles para 
+automatização e gerenciamento de campanhas.Search & Display
+Plataformas e ferramentas  
+para anúncios em rede 
+de pesquisas e displays, 
+mostradores e comparadores.
+OOH (Out Of Home)
+Soluções voltadas a propagandas 
+em espaços exteriores,  
+que impactam os  
+consumidores fora de casa.
+Geomarketing
+Soluções que utilizam sistemas 
+de geolocalização como forma  
+de otimizar campanhas e 
+alcançar o consumidor no  
+local certo e na hora certa.Mídia Programática
+Soluções para compra  
+de mídia online por meio  
+de uma ferramenta ou um 
+programa de acordo com  
+o público-alvo desejado.
+Marketing Analytics & 
+Performance
+Plataformas e ferramentas 
+voltadas para marketing  
+de resultados, métricas,  
+medição e coleta de dados.
+Design
+Plataformas que oferecem 
+soluções e ferramentas  
+para o desenvolvimento  
+de design e artes gráficas.E-Mail & SMS Marketing
+Soluções que utilizam e-mail 
+e SMS como ferramentas de 
+marketing direto e elaboração  
+de campanhas.
+Content Marketing
+Soluções e ferramentas  
+para criação, distribuição  
+e publicação de conteúdo  
+em diversos formatos.
+SEO
+Soluções que auxiliam a 
+potencializar e melhorar  
+o posicionamento de um  
+site ou aplicativo nos  
+resultados orgânicos de  
+um mecanismo de busca.Marketing Automation & 
+Campaign Management
+Ferramentas para automatização  
+do marketing digital e 
+gerenciamento de campanhas 
+sob medida para os clientes.
+Marketing Sensorial
+Soluções que usam a exploração 
+dos sentidos como parte  
+da estratégia de diferenciação  
+e posicionamento.
+DISTRITO ADTECH & MARTECH REPORT
+8
+CATEGORIAS
+SOCIAL & RELATIONSHIP
+Soluções para as áreas de relacionamento 
+com clientes e marketing nas redes sociais. 
+São soluções como as de gerenciamento e 
+monitoramento de social media, chatbots, 
+sistemas de CRM e gestão do relacionamento 
+com influenciadores.
+Events, Meetings & Webinars
+Plataformas que gerenciam  
+e impulsionam a realização  
+de eventos on-line e off-line  
+para ações de marketing.
+Influencers & Buzz
+Soluções que englobam 
+gerenciamento de 
+campanhas e relacionamento 
+com influenciadores e 
+microinfluenciadores.Customer Relationship
+Todas as soluções que envolvam 
+o relacionamento entre o cliente 
+e a empresa nos diversos  
+canais de comunicação.
+Social Media Management  
+& Monitoring
+Ferramentas para gerenciamento 
+e monitoramento das  
+redes sociais.COMMERCE & SALES
+Soluções que recolhem dados e informações 
+dos compradores, que utilizam inteligência 
+de mercado e que impulsionam motores 
+de vendas, como técnicas de “business 
+intelligence”, sistemas de big data, programas 
+de fidelidade e pesquisas de mercado. 
+E-commerce 
+Marketing & Tools
+Ferramentas para otimização  
+e conversão  de vendas  
+para e-commerces.
+Loyalty Programs
+Soluções para a fidelização de 
+clientes através de benefícios e 
+relacionamento de longo prazo.Market Research & Survey
+Plataformas para criação de 
+questionários e ferramentas  
+para execução de  
+pesquisa de mercado.
+Big Data & Business 
+Intelligence
+Soluções que utilizam grande 
+quantidade de dados para 
+análises, tomadas de decisões  
+e ações de marketing.
+DISTRITO ADTECH & MARTECH REPORT
+9
+BRASIL
+2019 REPORT
+COPYRIGHT 2019DISTRITO
+ADVERTISING & PROMOTION CONTENT & EXPERIENCE
+COMMERCE & SALES
+SOCIAL & RELATIONSHIPS
+ACELERADORAS INVESTIDORESSEARCH & DISPLAY
+CUSTOMER RELATIONSHIP EVENTS MEETINGS & WEBINARS SOCIAL MEDIA MANAGEMENT
+& MONITORING
+INFLUENCERS & BUZZDESIGN MARKETING ANALYTICS
+& PERFORMANCE
+OOHMÍDIA PROGRAMÁTICA
+BIG DATA & BUSINESS
+INTELLIGENCESEO MARKETING SENSORIAL MARKETING AUTOMATION & CAMPAIGN MANAGEMENT
+E-MAIL & SMS MARKETINGCONTENT MARKETING
+E-COMMERCE MARKETING & TOOLS LOYALTY PROGRAMS
+MARKET RESEARCH & SURVEYGEOMARKETING
+FOTO: DIVULGAÇÃO/REPRODUÇÃO
+Pyr Marcondes
+Diretor @ Proxxima
+Plataforma de conteúdo sobre inovação e 
+tendências em marketing, comunicação, 
+publicidade, mercado e cultura digital.
+Saiba mais em proxxima.com.brA indústria de marketing e comunicação no  
+Brasil vive hoje aquele clássico dilema do copo 
+meio cheio, meio vazio. Dependendo do jeito de 
+quem olha, vê uma coisa ou outra.
+Meio vazio – e esvaziando – porque muitos dos seus 
+pilares de anos de sustentação estão em cheque. 
+Modelos de negócio estão sendo revistos. A ren-
+tabilidade de agências de propaganda e dos gru-
+pos de comunicação e mídia vem sendo colocada 
+à prova. O marketing tem diante de si desafios que 
+jamais teve. E o mundo digital, como aliás faz em 
+todos os setores, impõe novas lógicas de atuação e 
+negócios, até hoje desconhecidas.
+Uma situação inédita dessa natureza faz com que 
+muitas empresas se percam e não consigam en-
+frentar a nova ordem, que em verdade traz em si 
+muito de caos.
+Esse é o pedaço meio vazio do copo.
+O pedaço meio cheio é que exatamente as mesmas 
+premissas poderão vir a ser, para muitos, um copo 
+cheio de novas oportunidades. O caos proposto 
+pelas novas dinâmicas de geração de conhecimen-
+to, descobertas tecnológicas disruptivas, avanços 
+e diversificação de modelos de negócios, contém, 
+em si, um sem fim de possibilidade de grande po-
+tencial para empresas, empresários, executivos, gestores, colaboradores, empreendedores e inves -
+tidores. Copo vazio para ser preenchido com criati-
+vidade, ousadia, coragem e inovação.
+Pedra de toque nessa cena acelerada de transfor -
+mação aparecem as startups.
+A indústria de marketing e comunicação no Bra-
+sil ainda não se deu conta de todo o potencial de 
+desenvolvimento e evolução que essas pequenas, 
+frágeis e, na maior parte das vezes, desestrutura-
+das empresas contém e podem liberar, se forem 
+devidamente provocadas e estimuladas.
+O mapa das startups de advertising e marketing 
+desenhado aqui pelo Distrito, além de por si só ser 
+uma iniciativa louvável e de alta valia para o setor, 
+é, em verdade, um mapa da mina. Mina de ouro, 
+representado pelas startups aqui plotadas.
+Se você é um player dessa indústria, faça algo bem 
+importante por você mesmo: decifre este mapa 
+com lupa. Olhe cada startup. E se liga: a inovação 
+dificilmente estará apenas dentro de sua empre-
+sa. A grande chance é que uma das soluções que 
+podem alavancar e diferenciar seu negócio esteja 
+bem aqui neste mapa.
+Ser mané é uma opção totalmente sua.NÃO SEJA MANÉ.
+ECOSSISTEMA - ADTECH & MARTECH
+11
+11
+DISTRITO ADTECH & MARTECH REPORTREPORT
+&ADTECH  
+MARTECHREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT13
+AS DIVISÃO ENTRE AS 
+CATEGORIAS É BASTANTE 
+EQUILIBRADA NO SETORApesar da liderança da categoria Commerce & Sales, 
+todas as categorias são representativas  
+e possuem mais de 20% das startups mapeadas.As divisão entre as categorias é bastante equilibrada no setor
+Big Data &
+Business
+Intelligence
+15 | 11 %
+Loyalty
+Programs
+44 | 32.4 %Market Research
+& Survey
+21 | 15.4 %
+E-commerce 
+Marketing & 
+Tools
+56 | 41.2 %Content
+Marketing
+22 | 21.2 %
+E-mail &
+SMS Marketing
+26 | 25 %
+Customer
+Relationship
+58 | 55.2 %
+Events Meetings &
+Webinars
+4 | 3.8 %Inﬂuencers &
+Buzz
+19 | 18.1 %Social Media
+Management &
+Monitoring
+24 | 22.9 %Marketing 
+Automation &
+Campaign
+Management
+41 | 39.4 %Marketing
+Sensorial
+10 | 9.6 %SEO
+5 | 4.8 %475startups
+mapeadas
+130 | 27.3 %
+Advertising & Promotion
+Design
+12 | 9.2 %
+Geomarketing
+14 | 10.8 %
+Mídia
+Programática
+10 | 7.7 %Marketing
+Analytics &
+Performance
+38 | 29.2 %OOH
+25 | 19.2 %Search &
+Display
+31 | 23.8 %Commerce & Sales Content & Experience Social & Relationships136 | 28.6 % 104 | 21.8 % 105 | 22.1 %REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT14
+SUDESTE SE 
+MANTÉM 
+COMO A 
+REGIÃO COM O 
+MAIOR NÚMERO 
+DE STARTUPS 
+DO SETOR
+O Sudeste continua na liderança do 
+país com com 64,2% das startups, 
+o que também ocorreu nos estudos 
+de Healthtechs (60,6%), LegalTechs 
+(67%) e RetailTechs (67,1%). Esses 
+dados são condizentes com a 
+produção econômica da região, que 
+representa 55% do PIB brasileiro.Sudeste se mantém como a região com
+maior concentração de startups do setor
+Sudeste64.5 %
+Sul28.9 %Centro-Oeste3.6%Nordeste2.8%Norte0.2%DIVISÃO POR REGIÃO
+RO 
+0.8 %CE 
+0.5 %
+GO 
+1.1 %
+DF 
+0.9 %RN 
+0.5 %
+MT 
+0.2 %
+MS 
+0.2 %
+SP 
+48.6 %RJ 
+6.2 %ES 
+0.9 %BA 
+0.9 %AL 
+0.2 %PE 
+0.5 %PB  
+0.2 %
+RS 
+9.4 %SC 
+9.8 %PR 
+9.1 %DIVISÃO POR ESTADOSREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT15
+A MAIOR TAXA 
+DE ABERTURA 
+DE STARTUPS 
+OCORREU NOS 
+ÚLTIMOS 5 ANOS
+É notável que existiu um boom de 
+surgimento de novas empresas 
+entre 2013 e 2016, resultado do 
+amadurecimento do ecossistema 
+de empreendedorismo no Brasil, 
+que tem fomentado cada vez 
+mais o surgimento de novos 
+empreendedores. Enfatizamos que o 
+número menor de startups que surge 
+nos últimos dois anos não representa 
+uma queda real, e sim reflete uma 
+dificuldade maior de encontrar 
+empresas recém-nascidas, que ainda 
+não apareceram para o mercado.A maior taxa de abertura de startup
+ ocorreu nos últimos 5 anos
+475
+2053 5663 65
+51
+31 30
+20 5 10 13 124 4 7 82 26470
+450
+397
+341
+278
+213
+162
+131
+101
+81
+71
+58
+4642 38312321 19
+2019
+2018
+2017
+2016
+2015
+2014
+2013
+2012
+2011
+2010
+2009
+2008
+2007
+2006
+2005
+2004
+2003
+2002
+2001
+2000ANO DE ABERTURA
+LEGENDA
+Número acumulado 
+de startups
+Novas startups  
+ano a anoREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT16
+ADTECHS E MARTECHS DEMONSTRAM 
+AMADURECIMENTO NO MERCADO
+Há indícios de maturidade no setor, dado que aproximadamente 10% das empresas 
+dele contam com mais de 100 funcionários. A categoria que mais emprega é a de 
+Content & Experience, graças aos outliers Movile, Rock Content e Resultados Digitais.
+PERCENTUAL DE STARTUPS POR FAIXA DE FUNCIONÁRIO MÉDIA E MEDIANA DE FUNCIONÁRIOS POR CATEGORIA*
+40 38
+32Advertising & Promotion Commerce & Sales
+Social & Relationships17 11
+1559
+Content & Experience1 a 5
+funcionários
+6 a 20
+funcionários21 a 50
+funcionários51 a 100
+funcionários101+
+funcionários
+12Média
+Mediana
+Adtechs e martechs demonstram
+amadurecimento no mercado
+24.3 %
+35.5 %21.9 %8.3 %10.1 %
+* A diferença entre a média e a mediana no número de funcionários vem de 
+startups maiores que agem como outliers, puxando o valor da média para cima. A 
+mediana representa uma startup mais típica, que está no meio do caminho entre as 
+menores empresas e as maiores, transmitindo mais fielmente a realidade do setor.REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT17
+ADTECHS E MARTECHS 
+POSSUEM UMA BOA 
+VISIBILIDADE, MESMO 
+COM POUCOS 
+FUNCIONÁRIOS
+Este gráfico, que cruza o número de 
+funcionários das empresas com seus 
+seguidores no LinkedIn, é uma forma 
+de entender o porte e visibilidade das 
+empresas. Como a Resultados Digitais,  
+Rock Content, Neoway e Dotz são outliers 
+extremos, disponibilizamos também  
+o mesmo gráfico sem eles, para  
+melhor detalhar as outras startups.
+A linha de tendência mostra a correlação entre 
+porte visibilidade - uma startup acima dessa 
+linha tem uma visibilidade acima do esperado 
+para seu tamanho, e vice-versa.FUNCIONÁRIOS
+FUNCIONÁRIOSSEGUIDORES SEGUIDORES1000 900 800 700 600 500 400 300 200 100
+100 502k4k6k8k10k12k14k16k18k20k22k
+150 200 250 300 400 35010k20k30k40k50k60k70k80k90k100kRD Station
+Rock Content
+Dotz
+GeoFusion
+Meliuz
+Printi
+PrintiInfracommerce
+00
+Infracommerce
+inoveEscale
+SemantixTake
+OlistIn Loco Media
+Pipefy
+Agile PromoterZoom
+Minutrade
+Brasil CTBlinksZenvia
+Cortex
+HandsBuscapeSIM - InBound
+MarketingScupNeowayREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT18
+SOLUÇÕES B2B PREDOMINAM EM ABSOLUTO
+Como o setor de AdTech e MarTech mira quase exclusivamente prover 
+soluções de marketing e publicidade para empresas que querem vender 
+seus produtos e serviços, não é surpresa o fato de que quase  98% das  
+ startups mapeadas  atendem a outros negócios com suas soluções. 
+Empresas B2C são a minoria, como Kuak, Click Card e Flimbo.
+B2B
+89.8 %98 %
+B2B e B2C
+8%B2C
+2.2 %PÚBLICO-ALVOREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT19
+CONTENT & 
+EXPERIENCE 
+POSSUI O MAIOR 
+PERCENTUAL DE 
+STARTUPS COM 
+FATURAMENTO 
+PRESUMIDO 
+ACIMA DE 25MM
+Esse fenômeno também 
+ocorreu nos outros setores 
+mapeados, onde em média, 80% 
+das startups têm faturamento 
+presumido menor que 5MMFATURAMENTO PRESUMIDO
+FATURAMENTO PRESUMIDO POR CATEGORIA3.3% 31.1 % 16.6 % 25.5 % 10.4 % 7.1% 3.1%2.8%
+Até 60k
+Advertising & 
+Promotion
+Commerce & 
+ Sales
+Content & 
+ Experience
+Social & 
+ Relationships
+Até 360k 5M - 25M 360k - 5M 25M - 100M 100M +360k - 1.8M 5M - 10M 25M - 100M60k - 360k 1.8M - 5M 10M - 25M 100M +
+33.6 %
+29.5 %
+36.1 %
+40.7 % 43.2 % 14.8 %47 % 9.6 %34.5 %
+45.5 %25 %
+17.9 %6%
+6%0.9 %
+4.5 %
+1.2 %2.7 %
+1.2 %REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT20
+150510152025303540455055
+20 25 30 35 40 45 50 55 60 65 70 75 80 85QUANTIDADE
+IDADEQUEM SÃO OS SÓCIOS DESSAS STARTUPS?
+Na média, uma sociedade de uma startup do setor consiste de 2,93 sócios, nascidos 
+majoritariamente no estado de São Paulo e que possuem, na maior parte dos casos, idades 
+entre 26 e 45 anos. É possível notar também que a proporção de mulheres entre os quadros 
+societários ainda é desequilibrada, com aproximadamente uma mulher para cada 5 homens. 
+MÉDIA E MEDIANA GÊNERO ESCOLARIDADE
+CIDADE NATAL DISTRIBUIÇÃO DE IDADE2,93
+2é a média de 
+sócios por startup
+Médio 
+incompletoMédio 
+completoSuperior 
+incompletoSuperior 
+completo
+2.2 %23.1 % 9.1 % 65.6 %
+é a mediana de 
+sócios por startup85.7 %
+MASCULINO14.3 %
+FEMININO
+SP
+RS
+MG
+SC
+PR
+RJGO
+DF
+CE
+ES
+MS
+MTPB
+RN
+RO
+AL53.1 %
+9.9%
+9.1%
+9.1%
+8.7%
+5.9%1.2%
+0.9%
+0.6%
+0.6%
+0.2%
+0.2%0.2%
+0.2%
+0.2%
+0.1%
+150510152025303540455055
+20 25 30 35 40 45 50 55 60 65 70 75 80 85QUANTIDADE
+IDADE
+150510152025303540455055
+20 25 30 35 40 45 50 55 60 65 70 75 80 85QUANTIDADE
+IDADEREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT21
+COMO AS ADTECHS 
+SE DEFINEM?
+Esta nuvem de palavras foi construída  
+a partir da descrição das startups em suas 
+contas do Linkedin. Nela, o tamanho das 
+palavras representa proporcionalmente  
+o número de vezes que cada palavra  
+foi citada nas descrições. REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT22
+15,2% das startups mapeadas no primeiro estudo já 
+encerraram suas operaçõesCOMPARAÇÃO COM  
+O ESTUDO ANTERIOR
+475 
+empresas 
+mapeadas344 
+empresas 
+mapeadas
+(+ 38%)2018
+201952
+TAXA DE 
+MORTALIDADE15.2 %
+6,6ANOS
+média de idade das 
+startups que morreramdeixaram de operar 
+desde o último estudoSTARTUPS
+QUAIS SÃO AS CATEGORIAS MAIS AFETADAS?
+Advertising & Promotion
+Commerce & Sales
+Content & Experience
+Social & Relationships 31,9 %
+21,3 %
+23,4 %
+23,4 %
+ADTECH
+MINING REPORT
+1º semestre – 2018
+REALIZAÇÃO
+SPONSORSHIP
+ APOIOREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT23
+FOTO: DIVULGAÇÃO/REPRODUÇÃO
+Eduardo Pereira
+Partner-Director @ KPMG
+A KPMG é uma das maiores firmas globais  
+de serviços de consultoria, auditoria, e impostos, 
+trabalhando lado a lado com seus clientes, 
+com ofertas de excelência lastreadas em 
+capacidades profissionais de altíssimo  
+padrão e conhecimento de indústria.  
+As firmas-membro da KPMG atendem  
+clientes de todos os setores da economia 
+e podem ser encontradas em 154 países.
+Saiba mais em kpmg.com.brA forma como consumimos entretenimento e 
+conteúdo mudou. Também mudou a forma como 
+a gente se relaciona com as marcas. As Adtechs 
+e Martechs sabem muito bem disso, e elas têm 
+acompanhado e, até mesmo, influenciado essa 
+mudança. Essas soluções têm feito a gente, antes 
+meros desconhecidos em um mar de consumido-
+res, nos tornarmos conhecidos para as marcas. 
+Graças às Adtechs e Martechs, as marcas passa-
+ram a acompanhar nossas preferências, interes -
+ses e comportamentos em tempo real. Isso tem 
+ajudado tanto o marketing como a publicidade 
+encontrarem algo que sempre procuraram: ser e 
+se manter relevante para cada consumidor. E ao 
+ser relevante para cada consumidor, as chances 
+de conversão aumentam exponencialmente.  
+Essas startups vieram para ficar, e para desafiar o 
+mercado a pensar e agir com um novo mindset: de 
+que a única constante é a mudança, de que os da-dos reinam, e que é preciso colaborar para conquis -
+tar. A realidade é que o investimento em marketing 
+e publicidade está em franca expansão. Nunca se 
+investiu tanto em atrair, reter e melhorar a expe-
+riência dos consumidores. A diferença é que esse 
+investimento deixou de estar concentrado e passou 
+a estar distribuído. E assim como os investimentos, 
+as competências também estão distribuídas. Nesse 
+contexto, todos precisam unir forças. Somar analíti-
+co à criatividade. Somar mídias sociais ao conteúdo. 
+Somar inovação à performance.
+Essas tecnologias não vieram para substituir, mas 
+sim para agregar. Mais que para somar, vieram para 
+multiplicar. E isso muda tudo. Sucesso deixa de ser 
+medido por métricas de marketing e publicidade, e 
+passam a ser medido por métricas de negócios. 
+É o leão de Cannes se rendendo à gata rabugenta do 
+Arizona e à milhares de bichanos ao redor da rede.O FUTURO É COLABORAR 
+PARA CONQUISTAR 
+REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT24
+QUAIS STARTUPS 
+MAIS SE DESTACAM 
+NO SETOR?
+Entre centenas de startups de AdTech e 
+MarTech no Brasil, pode ser difícil ter uma 
+ideia de quais se destacam. Por isso, fizemos 
+esta lista dos maiores e mais relevantes 
+players do setor, levando em consideração 
+faturamento presumido, nº de funcionários, 
+visibilidade, funding e idade da empresa. 
+Segue a lista com as campeãs:DESTAQUES
+ADTECH
+In Loco Media
+Categoria: Advertising & Promotion
+inloco.com.br
+Printi
+Categoria: Advertising & Promotion
+printi.com.br
+BrasilCT
+Categoria: Commerce & Sales
+brasilct.com.brDotz
+Categoria: Commerce & Sales
+dotz.com.br
+Méliuz
+Categoria: Commerce & Sales
+meliuz.com.br
+Neoway
+Categoria: Commerce & Sales
+neoway.com.brOlist
+Categoria: Commerce & Sales
+olist.com
+Infracommerce
+Categoria: Content & Experience
+infracommerce.com.br
+Pipefy
+Categoria: Content & Experience
+pipefy.comResultados Digitais
+Categoria: Content & Experience
+resultadosdigitais.com.br
+Rockcontent
+Categoria: Content & Experience
+rockcontent.comZenvia
+Categoria: Content & Experience
+zenvia.com
+Semantix
+Categoria: Social & Relationships
+semantix.com.br
+REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT25
+AS PRINCIPAIS ADTECHS 
+& MARTECHS EM 
+NÚMEROSHá uma forte concentração dos maiores players nas 
+regiões sul e sudeste do país. Além disso, vale destacar 
+a dimensão desses players, visto que todos eles são 
+empresas de mais de 100 funcionários, sendo que a 
+Resultados Digitais com mais de 1000 funcionários.
+CIDADE NATAL PÚBLICO-ALVO FAIXA DE FUNCIONÁRIOS
+CATEGORIAS ANO DE FUNDAÇÃOEstado Nº startups
+SP 8
+MG 2
+SC 2
+PR 2
+RS 1
+Categoria Nº startups
+Commerce & Sales 5
+Advertising & 
+Promotion3
+Social & Relationships 1B2B
+77%B2B e B2C
+23 %3 5 2 2 1 1
+100 a 200 301 a 400 500 a 1000201 a 300 401 a 500 1001+
+As principais AdTechs&Martechs em números
+11 112 23
+1 1 1
+1999 2000 2001 2002 2003 2004 2005 2006 2007 2008 2009 2010 2011 2012 2013 2014 2015REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT26
+15% 8.7 % 4.4 %
+Computação T.I. Economia
+43.5 % 17.4 % 8.7 % 4.4 %
+Engenharia Administração Publicidade Design Gráfico
+35 45 55
+QUAIS CARACTERÍSTICAS QUE 
+MARCAM OS FUNDADORES POR 
+TRÁS DAS STARTUPS EM DESTAQUE?
+FAIXA DE IDADE TIPO DE UNIVERSIDADE
+FORMAÇÃO
+GENÊRO
+100 %
+MASCULINO52% 44 %4%Privada
+EstrangeiraPública
+29 40 ANOS ANOS
+Média de idade 
+na fundaçãoMédia de idade atual32%52%
+12%4%Até 35 anos36 a 45 anos
+46 a 55 anos 56+ anosREPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT27
+FOTO: DIVULGAÇÃO/REPRODUÇÃO
+Diego Gomes
+CEO @ Rock Content
+A empresa possui uma rede de escritores  
+e sistemas de otimização que fornecem  
+textos de alto engajamento para transformar  
+o blog em uma poderosa ferramenta  
+de Marketing de conteúdo. 
+Saiba mais em rockcontent.comComo está sendo a transformação digital  
+no setor mídia e marketing?
+Temos visto várias tendências acontecendo no setor. 
+A primeira grande transformação acontece porque 
+as empresas precisam, querem e estão investindo 
+para metrificar cada interação, seja o custo de aqui-
+sição detalhado por canal, modelos de atribuição, 
+metrificagens ou segmentação. Agora, as marcas 
+estão se tornando Publishers de conteúdo. Antiga-
+mente, utilizar o Google e Facebook eram diferen-
+ciais competitivos, quem tinha mais budget para 
+comprar mídia ficava em primeiro lugar. Isso não é 
+mais verdade, e marcas que criaram plataformas de 
+conteúdo têm boas chances de ganhar liderança 
+com aquisição orgânica e menos custo. Por fim, a 
+privacidade do usuário se tornou uma questão im-
+portante, com as leis de proteção de dados entran-
+do em vigor, e as marcas necessariamente precisam 
+adaptar sua estratégia.
+As novas tecnologias do setor estão  
+se adaptando a um consumidor  
+mais ou menos engajado?
+Essas tecnologias vêm para aumentar o engaja-
+mento do consumidor, a era do comercial de tele-
+visão massificado e do banner acabou. As marcas 
+que dependerem exclusivamente das estratégias 
+tradicionais terão dificuldade de obter sucesso, pelo menos no meio digital. Por isso, esse crescimento 
+de conteúdo multimídia e interativo, de novas ferra-
+mentas, calculadoras e materiais personalizáveis é 
+tão importante.
+Como está a relação entre marca  
+e consumidor hoje?
+Está cada vez mais metrificável e personalizável. Era 
+muito difícil personalizar o contato, mas isso mudou. 
+Já temos ferramentas que permitem uma visão 360° 
+do cliente, e assim podemos abordá-lo com conteú-
+dos, anúncios ou até mesmo ligações sob medida.
+Como está o mercado de adtechs e martechs 
+no brasil em comparação com o mundo?
+O mercado brasileiro de adtechs e martechs tem 
+amadurecimento rápido. Vemos o surgimento de 
+plataformas locais que têm crescido e estão apre-
+sentando bons resultados. No Brasil, boas tecno-
+logias estão surgindo, ainda mais porque o cliente 
+nacional é bastante sofisticado, e ele conhece os 
+produtos estrangeiros e tem base para compara-
+ção.  O potencial brasileiro do setor é muito grande, 
+tem muito espaço para crescer, tanto é que diversas 
+startups norte-americanas estão operando por aqui. 
+O mais legal é que o contrário tem ocorrido também, 
+como foi o caso da Inloco, que com modelo próprio 
+está exportando tecnologia de ponta.POSICIONAMENTO DIGITAL:  
+ENTENDA QUEM É O SEU CLIENTE
+REPORT - ADTECH & MARTECH
+DISTRITO ADTECH & MARTECH REPORT28
+QUAIS SÃO AS 
+STARTUPS MAIS 
+PROMISSORAS PARA 
+OS PRÓXIMOS ANOS?
+Selecionamos startups que 
+possuem soluções relevantes e 
+que já estejam com um estágio de 
+tração avançado dentro do setor 
+de publicidade, mídia e marketing. 
+Por isso, podem ser consideradas 
+como as principais apostas para 
+entrar no grupo de destaque.FIQUE DE
+OLHO
+ECOSSISTEMAEVENTOS
+Festival Path
+Criado pelo O Panda Criativo, o Festival Path tem 
+como objetivo conectar e inspirar a comunidade 
+criativa do Brasil e estimular o diálogo entre pessoas 
+que desejam inovar a forma de pensar e agir.
+festivalpath.com.br
+IAB Brasil
+Temas como transparência e experiência do 
+consumidor na publicidade digital fazem parte  
+da programação do evento, que reúne profissionais 
+de empresas, agências, veículos de mídia,  
+institutos de pesquisas, anunciantes e startups.
+iabbrasil.com.br/adtechdata-2/
+Vtex day
+Promovido pela Vtex, é o maior evento de vendas 
+multicanal da América Latina. Em 2019, reuniu  
+mais de 22.000 pessoas e 179 palestrantes - 
+incluindo grandes figuras, como o presidente  
+norte americano Barack Obama.
+vtexday.vtex.com/
+Expo Fórum Digitalks
+Organizado anualmente pela Digitalks, portal  
+de notícias de marketing digital. Em 2019, por  
+longo de 2 dias, 6.000 visitantes acompanharam  
+a 220 palestrantes em 11 auditórios.
+digitalks.com.br/expo/Social Media Week
+Com versões em 20 cidades ao redor do mundo, 
+a edição brasileira do evento é organizada pela 
+ABRADI-SP e pela Interney Consultoria. Em 2018, 
+foram 318 palestrantes em 260 atividades.
+smwsp.com.br/
+Mobile Marketing Brasil
+Promovido pelo RankMyApp, uma das maiores 
+empresas de ASO (SEO de app stores) do Brasil.  
+A edição de 2019 do evento contou com mais  
+de 17 palestrantes que debateram tendências  
+e o futuro do mobile marketing no Brasil.
+rankmyapp.com/mmb/
+Proxxima
+Organizado pelo Grupo Meio & Mensagem, o evento 
+é dedicado à disseminação de conteúdo sobre 
+inovação e tendências em marketing, comunicação, 
+publicidade, mercado e cultura digital.
+evento.proxxima.com.br/
+Gartner Data & Analytics
+Realizada pela Gartner, o evento apresenta  
+as principais tendências de analytics e dados  
+dos próximos anos. O foco é voltado para  
+marketing digital e suas inovações.
+gartner.com/pt-br/conferences/la/  
+data-analytics-brazil
+RD Summit
+Organizado desde 2013 por uma das 
+maiores martechs do Brasil, a Resultados 
+Digitais. Em 2019 o evento terá 3 dias 
+e contará com 12.000 visitantes, 120 
+palestrantes e 100 expositores em um 
+espaço de 22.000 m² em Florianópolis.
+rdsummit.com.br
+ECOSSISTEMA - ADTECH & MARTECH
+30
+DISTRITO ADTECH & MARTECH REPORT30
+FOTO: FELIPE MARIANO
+Felipe Spina
+Head of Growth @ Distrito  
+e autor de Facebook Marketing  
+e Technical Marketing
+Distrito é uma plataforma de inovação 
+para startups, corporações e investidores. 
+Ajudamos startups a terem sucesso, empresas 
+a se transformarem e investidores a gerarem 
+retornos exponenciais por meio de  
+nosso forte ecossistema de inovação.
+Saiba mais em distrito.meO festival texano South by Southwest, mais co-
+nhecido como SXSW, aborda temas como inovação 
+de mídia, interatividade, comportamento, música 
+e consumo. Nos 10 dias de evento, a audiência de 
+mais de 75 mil pessoas participa de diversas pales -
+tras, festas e shows.  Essa é uma das maiores feiras 
+de criatividade, inovação e interatividade do mundo, 
+com o objetivo de entender o futuro e compreender 
+tendências tecnológicas.
+O que mais me chamou atenção, apesar dos sur -
+preendentes robôs e automações, foi o quanto o 
+festival deu destaque ao lado humano da tecnolo-
+gia. A palavra empatia apareceu em diversas pales -
+tras, como na “Como construir confiança em tem-
+pos de desconfiança” de Neil Pasricha, que focou na 
+necessidade das marcas em gerar empatia de seus 
+consumidores. Também tive o prazer de assistir Ash 
+Maurya comentar sobre inovação contínua, numa 
+provocação de que diversas metodologias como 
+Agile, Scrum e Lean estão estagnadas.
+Em meio a tanta gente, a comunidade brasileira 
+marcou presença, com mais de 1300 participantes. 
+Eu tive o prazer de palestrar sobre o Ecossistema 
+de Inovação Brasileira, dividindo palco com grandes 
+nomes do setor.Esse festival abriu meus olhos e me fez questionar 
+qual deve ser o foco das instituições nos próximos 
+anos. Deixo para vocês diversos insights que ouvi 
+nesse espaço tão disruptivo.
+• Privacidade de dados;
+• Otimização por voz (VSO) é o novo SEO;
+• A BIG NINE (Soma do G-MAFIA = Google, Micro-
+soft, Amazon, Facebook, IBM e Apple com o BAT = 
+Baidu, Alibaba e Tencent) está cada vez mais cres -
+cendo e expandindo os negócios;
+• China continua crescendo, não somente com In-
+teligência Artificial, mas como pólo inovação de 
+qualidade em vários segmentos (principalmente 
+Smart Cities);
+• Legisladores em todo lugar do mundo não estão 
+preparados para fazer negócios com os novos de-
+safios da ciência e da tecnologia emergente;
+• Consolidação das grandes empresas de tecnolo-
+gia continua como principal tema para 2019.
+Para mais informações sobre o festival, 
+acesse o ebook:
+conteudo.distrito.me/ebook-sxswSXSW EXPERIENCE
+ECOSSISTEMA - ADTECH & MARTECH
+31
+31
+DISTRITO ADTECH & MARTECH REPORTASSOCIAÇÕES
+ABCOMM
+Associação Brasileira de Comércio Eletrônico surgiu 
+da necessidade do setor de ter uma voz ativa junto 
+às instituições governamentais. Empresas de varejo 
+e prestadores de serviços nas áreas de tecnologia 
+da informação, mídia e meios de pagamento são 
+bem vindas às discussões.
+abcomm.org
+ABAP
+Funciona desde 1949 e possui a missão de 
+defender e divulgar os interesses de agências 
+brasileiras associadas à indústria de comunicação.
+abap.com.brABMN
+Tem a missão de desenvolver e fortalecer as 
+atividades ligadas ao marketing, prestigiando 
+e compartilhando conhecimento entre os 
+profissionais e empresas que atuam no setor.
+abmn.com.br
+Digital Marketers
+Tem a missão de congregar, defender e apoiar os 
+profissionais e empresas de marketing digital, como 
+forma de assegurar um alto nível de qualidade e a 
+transparência do mercado.
+associacao.digitalMMA
+Fundada em 2000, tem presença mundial e visa 
+alavancar o desenvolvimento das empresas de 
+mobile marketing e tecnologias.
+mmaglobal.com
+ABA
+Representa os interesses comuns em âmbito global 
+de mais de 60 empresas anunciantes. Busca ser 
+um agente de geração de valor para tais empresas, 
+promovendo a excelência e as melhores práticas do 
+marketing e da comunicação.
+aba.com.br
+IAB Brasil
+Fundada em 1998, busca desenvolver o mercado de 
+mídia interativa no Brasil por meio de orientação ao 
+mercado, intercâmbio de experiências, divulgação 
+de pesquisas e identificação de oportunidades.
+iabbrasil.com.br
+ECOSSISTEMA - ADTECH & MARTECH
+32
+DISTRITO ADTECH & MARTECH REPORT32
+FOTO: DIVULGAÇÃO/REPRODUÇÃOAndré Sica
+Partner @ CSMV advogados
+André Muszkat
+Partner @ CSMV advogados
+CSMV Advogados é um escritório  
+de advocacia  multidisciplinar com  
+atuação em mais de 20 áreas do direito.
+Saiba mais em csmv.com.brA Internet transformou as relações humanas, a comuni-
+cação e a interação em escala global. O nível de adoção 
+e a personalização das redes fizeram com que os dados 
+pessoais de cada pessoa conectada se tornassem cada 
+vez mais valiosos. Tornou-se possível, de maneira ágil e 
+escalável, por meio da análise dos mais diversos dados, 
+entender e conhecer as vontades do mercado consumidor 
+e buscar a melhor forma suprir seus anseios.
+Esse valor percebido causou, no entanto, uma busca de-
+senfreada por tais dados, inclusive com a obtenção e ven-
+da dos mesmos sem a autorização de seus titulares, des -
+considerando um ponto essencial: o direito à privacidade 
+e ao sigilo dos dados pessoais. Com isso, tornou-se cada 
+vez mais evidente a necessidade de proteger o cidadão 
+com relação aos seus dados individuais.
+No Brasil, a evolução legislativa a respeito desse assunto 
+se deu gradativamente. De início, os tribunais e autori-
+dades, como as de proteção do consumidor, aplicavam 
+normas gerais de tutela em casos referentes à prote-
+ção e sigilo de dados, tendo sido vedadas práticas como 
+comércio de base de dados e envio de publicidades e 
+demais comunicações não autorizadas expressamente 
+pelo titular dos dados.
+Posteriormente, deu-se o advento do Marco Civil da Inter -
+net, em que são expressamente preconizados os princí-
+pios da proteção da privacidade e dos dados pessoais e a 
+inviolabilidade e o sigilo do fluxo de comunicações instan-
+tâneas e armazenadas.Mais recentemente, com inspiração na legislação Euro-
+peia, foi sancionada a Lei Geral de Proteção de dados (Lei 
+n.º 13.709/18), que, além de determinar de forma expressa 
+os institutos de proteção dos dados cadastrais, fixou tam-
+bém a responsabilidade pelo uso indevido e vazamento 
+destes, com a estipulação de penas que vão desde ad-
+vertências, que indicarão prazo para adoção de medidas 
+corretivas, até elevadas multas.
+Por meio de tais leis, não se busca brecar a evolução das 
+relações comercias e sim regulamentá-las para evitar ex -
+cessos e preservar a privacidade. Assim, com a evolução 
+legislativa, tornou-se necessário que a obtenção de dados 
+se dê de forma criteriosa e cuidadosa.
+Com os avanços na legislação, as empresas que lidam 
+com coleta de dados precisam rever seus processos in-
+ternos a fim de se adequarem à lei, analisando a real ne-
+cessidade de coleta desses dados, como se dará o trata-
+mento e a manutenção destes, os sistemas de segurança 
+a respeito da guarda dos dados, as comunicações entre 
+as diversas áreas da empresa a respeito de dados arma-
+zenados e principalmente sobre as informações e acessos 
+a tais dados, evitando o risco de lesarem seus clientes e 
+serem severamente apenadas em razão disso.O NECESSÁRIO CUIDADO NA 
+COLETA E UTILIZAÇÃO DE DADOS 
+NO MERCADO DE CONSUMO
+ECOSSISTEMA - ADTECH & MARTECH
+33
+33
+DISTRITO ADTECH & MARTECH REPORTINICIATIVAS
+AdTech Awards  
+(Distrito e Latam Founders Network)
+O Distrito e a Latam Founders Network se uniram 
+para lançar a primeira premiação de startups de 
+publicidade, marketing e social media do Brasil.
+conteudo.distrito.me/adtechawards
+Prêmio ABRADI Profissional Digital
+Premiação anual dos profissionais que fazem 
+a diferença no digital, para que os mesmos 
+tenham seus trabalhos e atividades em prol do 
+desenvolvimento do mercado digital reconhecidos 
+em sua área de atuação. Cada vez mais AdTechs 
+fazem parte dos homenageados.
+premioabradi.com.br
+FOTOS: DIVULGAÇÃO / REPRODUÇÃOAdTech Awards 2018
+3º Prêmio ABRADI
+Profissional Digital
+ECOSSISTEMA - ADTECH & MARTECH
+34
+DISTRITO ADTECH & MARTECH REPORT34
+DISTRITO ADTECH
+O Distrito AdTech tem como objetivo reunir startups, 
+corporações, investidores e universidades com 
+objetivo de criar, desenvolver e expor tecnologias  
+e soluções que transformem o mercado de 
+publicidade, mídia e marketing, gerando impacto  
+para a sociedade. Este hub tem como mantenedor 
+uma das maiores agências de publicidade  
+do mundo, a Young&Rubicam.
+O prédio, que está localizado no Jardim América, 
+conta com uma estrutura privilegiada que comporta 
+até 122 residentes, oferecendo estúdios privativos, 
+posições em espaços abertos e salas de reunião. 
+Além da estrutura, as startups residentes também têm acesso ao programa de parcerias, com acesso 
+gratuito ou com desconto a diversos programas e 
+serviços relevantes para o setor, de empresas como 
+Microsoft, Paypal, AWS, Asana e ASAAS, dentre outros. 
+No espaço, são realizados eventos semanalmente, 
+tanto dos residentes, quanto palestras externas.
+ 
+Estar no Distrito AdTech significa também fazer  
+parte da rede Distrito, que conecta investidores, 
+grandes empresas e startups para gerar 
+oportunidades de negócio e inovação aplicada. 
+Conheça mais em  
+conteudo.distrito.me/distrito-adtech.
+ECOSSISTEMA - ADTECH & MARTECH
+35
+DISTRITO ADTECH & MARTECH REPORT35
+ACELERADORAS
+Trabalham no 
+desenvolvimento da 
+ideia já projetada, 
+escalonando-a  
+ao atribuir valor  
+e investimentos.9startups
+2
+7startups
+3
+6startups
+ 4
+5startups
+ 5
+3startups
+ 610startups
+1
+ECOSSISTEMA - ADTECH & MARTECH
+36
+DISTRITO ADTECH & MARTECH REPORT36
+VC - SEED & PRE-SERIES A
+Entram com aporte 
+financeiro em 
+startups já validadas, 
+potencializando seu 
+crescimento no mercado. 3startups
+2
+3startups
+2
+3startups
+2
+2startups
+3
+2startups
+38startups
+1
+ECOSSISTEMA - ADTECH & MARTECH
+37
+DISTRITO ADTECH & MARTECH REPORT37
+VC - SERIES A, B, C+
+Entram com aporte 
+financeiro em 
+startups já validadas, 
+potencializando seu 
+crescimento no mercado. 4startups
+2
+3startups
+35startups
+1
+2startups
+ 4
+2startups
+ 4
+2startups
+ 4
+ECOSSISTEMA - ADTECH & MARTECH
+38
+DISTRITO ADTECH & MARTECH REPORT38
+A TunAd é a primeira plataforma de 
+Moment Marketing da America Latina e 
+foi criada há 2 anos para potencializar a 
+demanda que os eventos do cotidiano 
+geram no mundo online. Fazemos isso 
+através de Big Data gerado em tempo 
+real pelo monitoramento de TVs/Rádios, 
+eventos esportivos, condições de 
+trânsito, variações do mercado financeiro 
+e mudanças climáticas.
+Saiba mais em tunad.ioQual o grau de maturidade do ecossistema de adtechs  
+e martechs no Brasil?
+Cesar Sponchiado*: No Brasil há diversos ramos de AdTech. As de geo-
+localização estão bastante desenvolvidas. As que trabalham metodolo-
+gias apenas online, de programáticas a gerenciamento de aplicativos, 
+também estão bem desenvolvidas. Entretanto, adtechs que trabalham 
+o off-line ou a junção dos universos off-line e online estão em sua fase 
+inicial. As leis de proteção de dados impedem o uso não consentido de 
+IDs e dados de indivíduos, o que não ocorre nos EUA por exemplo. As -
+sim, a maior parte das adtechs americanas não consegue entrar no país 
+e as demais estão se adaptando às mudanças. 
+O que é o Moment Marketing? Como ele se diferencia  
+das práticas convencionais de Marketing?
+Cesar Sponchiado*: A influência dos eventos do cotidiano no online é 
+intensa, porém de curto prazo, durando alguns minutos. Por exemplo, 
+se você vê algo na TV que te interessa, você faz uma busca no online no 
+momento em que viu. Este tipo de evento momentâneo é descartado 
+por todas as ferramentas de otimização de mídia que utilizam tendên-
+cias de mercado de uma hora ou mais para ajustar as campanhas. O Mo-
+ment Marketing é a capacidade de detectar um evento de importância 
+em tempo real e ativar ou otimizar campanhas para responder a grande 
+demanda gerada pelo offline no online, complementando as ferramen-
+tas de otimização tradicionais. 
+*Cesar Sponchiado é co-founder e CEO da TunAd
+FOTO: DIVULGAÇÃO/REPRODUÇÃOTUNADCASE
+LINHA DO TEMPO
+2014
+2016
+2017
+2018
+2019
+Nasce a Audiomonitor, 
+empresa de monitoramento 
+de rádio
+Audiomonitor sincroniza 
+campanhas de rádio e TV 
+com as redes sociais
+A ideia é pivotada 
+e surge a Tunad, 
+que é capaz de 
+sicronizzar diversos 
+eventos offline.
+Expansão para a 
+América Latina
+Criação do modelo 
+de atribuição e 
+TV para online.
+Conquista dos casa 
+Nespresso, Kroton, 
+Webmotors
+Ampliação da 
+cobertura de  
+TV e Rádio
+Conquista Case 
+Santander
+39
+DISTRITO ADTECH & MARTECH REPORT39
+A Hariken permite o uso da inteligência 
+de dados para criar segmentos únicos 
+e otimizar investimentos em mídia. É 
+possível descobrir o comportamento 
+de cada pessoa na audiência e 
+exportar dados com precisão para 
+ferramentas de marketing.
+Saiba mais em hariken.coComo as adtechs e martechs estão moldando o comportamento 
+de consumo?
+Adonis Batista*: A mídia era muito massificada, o mesmo anúncio era 
+disparado para todos, diminuindo a assertividade da empresa, além de 
+incomodar o público com o que não lhe interessa. As adtechs persona-
+lizam esse processo e segmentam os grupos, impactando somente o 
+consumidor alvo do produto ou serviço.
+Como essas novas tecnologias estimulam a competitividade do 
+mercado?
+Adonis Batista*: As empresas estão buscando formas mais inteligen-
+tes de buscar contato com possíveis clientes, sem infringir sua privaci-
+dade. Cada vez mais, a tecnologia ajuda a entender qual é o comporta-
+mento individual, e a realizar uma interação da melhor maneira possível 
+para todos os agentes envolvidos. Assim, quem não sabe como fazer 
+isso está sofrendo perdas no mercado.
+A LGPD é um grande obstáculo para o sucesso desse setor?
+Adonis Batista*: Ela pode ser vista como um problema ou oportunida-
+de. Essas leis podem trazer equilíbrio ao jogo, onde empresas que infrin-
+girem a legislação serão penalizadas. Além de garantir uma interação 
+somente com o usuário disposto. 
+* Adonis Batista é co-founder e CEO da Hariken
+FOTO: DIVULGAÇÃO/REPRODUÇÃOHARIKENCASE
+LINHA DO TEMPO
+2015
+2016
+2017
+2018
+2019
+Abertura Hariken
+Investimento anjo
+MVP
+Primeiro grande cliente
+Seed
+Conceito de visão  
+unificada do cliente 
+Lançamento 
+audience market
+Series A
+Lançamento 
+Adopt
+40
+DISTRITO ADTECH & MARTECH REPORT40
+FOTO: DIVULGAÇÃO/REPRODUÇÃO
+Flaubi Farias
+Coordenador de conteúdo  
+@ Resultados Digitais
+Resultados Digitais é uma empresa 
+especializada em gerar resultado para  
+Médias e Pequenas empresas usando  
+Marketing Digital e Vendas. Oferece  
+dois softwares: RD Station Marketing  
+e RD Station CRM.
+Saiba mais em resultadosdigitais.com.brSe eu começasse esse texto trazendo previsões sobre o 
+futuro das startups de marketing e mídia de 10 anos atrás, 
+certamente muita coisa estaria errada. Provavelmente, 
+muitos assuntos dos quais estamos falando aqui hoje, 
+que estamos discutindo em eventos, meetups, livros e 
+artigos estarão também defasados na próxima década.
+Não é por acaso que um estudo da Dell Technologies mos -
+trou que 85% das profissões de 2030 ainda não existem.
+Então, como se preparar para esse futuro desconhecido? 
+Talvez olhando para o passado, e entendendo que a velo-
+cidade das transformações que vivemos nesses últimos 
+anos só vai ser maior daqui pra frente.
+Tivemos mudanças impressionantes em um passado su-
+per recente a respeito de como as empresas se comuni-
+cam com a audiência. E, com isso, chegaram tecnologias 
+e metodologias novas. Inbound Marketing? Convenha-
+mos, é um conceito super recente se comparado à histó-
+ria do marketing, mas aconteceu tanta coisa nesse meio 
+tempo que parece que foram séculos! Inteligência Artifi-
+cial, Machine Learning, Blockchain, Deep Learning? Isso é 
+só a ponta do iceberg!
+Então, se vamos falar de futuro, há um ponto muito im-
+portante em que acredito e que não envolve somente 
+tecnologias; envolve uma mudança nas estratégias de 
+marketing das empresas.
+Cada vez mais as empresas se tornarão veículos de mí-dia de si mesmas. Esse híbrido entre publisher e unidade 
+de negócio já existe, mas muitas empresas estão inten-
+sificando isso, o que deve trazer muitas oportunidades, 
+tanto para as startups já existentes como para as que 
+ainda irão surgir.
+Mas não só isso, porque, se vamos falar de futuro, há ou-
+tro ponto muito importante em que acredito e que não 
+envolve somente tecnologias e mudanças de mentalida-
+de. Envolve as novas gerações.
+A geração Z usa ou prefere muito mais o smartphone 
+ao laptop. O streaming à televisão. O podcast ao rádio. 
+O TikTok ao Instagram. O Kindle ao papel. A EAD às aulas 
+presenciais. O e-commerce às lojas físicas. Só para citar 
+alguns comparativos, porque a lista é longa.
+Além disso, não podemos esquecer de olhar com mui-
+to zelo para big data. Dados são fundamentais para as 
+empresas tomarem as decisões de marketing nos dias 
+de hoje. E são importantes, também, para as startups de 
+mídia e tecnologia, pois geram inteligência para o cres -
+cimento e para o desenvolvimento de produtos cada vez 
+melhores. Porém, há toda a questão de novas regras de 
+GPDR na União Europeia e LGPD no Brasil.
+Enfim, a mudanças nas estratégias de marketing, no com-
+portamento das novas gerações e a nossa relação com o 
+uso e compartilhamento de dados é que vai pautar o futuro 
+das startups de mídia e tecnologia. O que a gente sabe, até 
+então, é que o ecossistema que existe hoje é só o começo.O FUTURO DAS STARTUPS 
+DE MÍDIA E MARKETING
+ECOSSISTEMA - ADTECH & MARTECH
+41
+41
+DISTRITO ADTECH & MARTECH REPORTCENÁRIO
+INTERNACIONALEVOLUÇÃO DOS INVESTIMENTOS  
+EM MÍDIAS DIGITAIS
+O valor investido em mídias digitais no 
+Brasil foi de  R$ 16,1 bilhões em 2018  , 
+mantendo a tendência de crescimento  
+que existiu nos últimos anos.  
+Esta evolução é mais um fator que 
+demonstra a importância que o meio 
+digital tem recebido em uma sociedade  
+tão conectada. Não à toa, este setor 
+também tem sido crescido em 
+representatividade, sendo que hoje,  
+30% das verbas destinadas à  
+publicidade são direcionadas para  
+mídias digitais.  Embora corresponda  
+a um volume expressivo de recursos,  
+a publicidade digital no país ainda tem 
+uma participação percentualmente inferior 
+ao dos EUA (39%) e abaixo do Reino Unido, 
+onde é responsável por mais da metade 
+das verbas publicitárias (52%).Evolução dos investimentos em mídias digitais
+R$ 8,3 bi
+R$ 9,3 bi
+R$ 11,8 bi
+R$ 14,8 bi
+R$ 16,1 bi20182017201620152014VALOR INVESTIDO EM MÍDIAS DIGITAIS
+FONTE: DIGITAL ADSPEND
+CENÁRIO INTERNACIONAL - ADTECH & MARTECH
+43
+DISTRITO ADTECH & MARTECH REPORT43
+UNICÓRNIOS PELO MUNDO
+CHINA
+ÍNDIAÁSIA
+ AMÉRICA DO NORTEESTADOS UNIDOS
+FONTE: CRUNCHBASEO número de unicórnios 
+mapeados neste setor é 
+consideravelmente menor 
+do que em outros, como 
+o de Fintechs com 42  
+e o de Helthtechs com 
+36 startups mapeadas. 
+Assim, apesar de Adtech 
+& Martechs ser um setor 
+maduro, não é o que 
+produz o as maiores 
+empresas.
+CENÁRIO INTERNACIONAL - ADTECH & MARTECH
+44
+DISTRITO ADTECH & MARTECH REPORT44
+QUEM MAIS INVESTIU NESTES UNICÓRNIOS?
+1
+3
+3
+ 3
+3
+ 3
+2
+24
+2
+2 2
+2 23
+3unicórnios 
+investidos
+unicórnios 
+investidos
+unicórnios 
+investidosunicórnios 
+investidos
+unicórnios 
+investidosunicórnios 
+investidosunicórnios 
+investidos
+unicórnios 
+investidos
+FONTE: CRUNCHBASE
+CENÁRIO INTERNACIONAL - ADTECH & MARTECH45
+DISTRITO ADTECH & MARTECH REPORT45
+COMO GOOGLE E FACEBOOK 
+TRANSFORMARAM A 
+PUBLICIDADE
+Quando você pensa em publicidade, o que vem à mente é provavelmente a arte. Pro-
+pagandas memoráveis   são frequentemente criativas, inteligentes ou emocionais. Algo 
+como um grande anúncio de cerveja, ou da Copa do Mundo.
+Mas esse deixou de ser o jogo.
+Hoje, a criatividade tornou-se menos importante do que as informações colhidas na in-
+ternet. Com elas, os anúncios ganham direcionamento de precisão, o que melhora a efi-
+cácia do conteúdo, como nos  links patrocinados do Google ou do seu feed do Facebook. 
+Assim, com o terceiro e sétimo lugares no ranking das empresas mais valiosas do mun-
+do, Google e Facebook dominam a publicidade digital, juntas elas concentram 20% dos 
+investimentos globais em publicidade (Zenith Media). Todo esse sucesso é devido a ha-
+bilidade que elas têm de combinar informações pessoais e o conteúdo produzido por 
+seu usuário, aos seus anúncios. Essas companhias começaram a revolução das adte-
+chs e martechs, onde entretenimento deixa de ser a preocupação central, abrindo lugar 
+para uma boa análise de dados. 
+O público, que antes adorava a televisão, foi mudando seus costumes, passando cada 
+vez mais tempo na internet. Em média, um americano gasta 23,6 horas online por se-
+mana, com a maior parte do tempo em mídias sociais gerando um mercado enorme a 
+ser explorado.
+FONTE: 
+MDGADVERTISING.COM/MARKETING-INSIGHTS/INFOGRAPHICS/HOW-SOCIAL-MEDIA-CHANGED-THE-AD-GAME-INFOGRAPHIC/
+ZENITHMEDIA.COM/GOOGLE-FACEBOOK-NOW-CONTROL-20-GLOBAL-ADSPEND/Antes, as mídias sociais 
+eram utilizadas apenas 
+para se conectar com 
+a audiência, agora 
+esses canais atendem 
+diversas necessidades.Com as redes sociais:
+1. Reconhecimento de marca
+2. Aquisição de cliente
+3. Apresentação de novos produtos
+4. Retenção de clientes
+5. Comunicação simplificadaOS OBJETIVOS MUDARAM
+CENÁRIO INTERNACIONAL - ADTECH & MARTECH
+46
+DISTRITO ADTECH & MARTECH REPORT46
+TENDÊNCIAS DO SETOR 
+BLOCKCHAIN 
+FOR ADVERTISING
+Os profissionais de marketing coletam e analisam enormes 
+quantidades de dados para alimentar experiências rele-
+vantes e diferenciadas dos clientes, e eles costumam ser 
+de natureza pessoal. Reguladores e consumidores estão 
+examinando como esses dados são usados   e coletados em 
+maior detalhe. O uso indevido ou abuso dessas informa-
+ções corrói a confiança do cliente e convida a uma super -
+visão regulamentar adicional.
+As plataformas de gerenciamento de consentimento e os 
+aplicativos de blockchain para publicidade estão surgindo 
+como vias potenciais para oferecer marketing personaliza-
+do de maneira mais igualitária. Por meio de serviços des -
+centralizados de custódia de dados, um consumidor pode-
+ria receber uma espécie de royalty sempre que seus dados 
+fossem utilizados, tornando-se dono deles, na prática. As -
+sim, os publicitários exploram novas formas de fornecer re-
+levância e resultados sem usar dados pessoalmente identi-
+ficáveis, através de deduções de um segmento específico.
+O Blockchain for advertising abrange uma série de aplica-
+ções da tecnologia blockchain a elementos da cadeia de 
+suprimentos de publicidade que sofrem com fraudes, falta 
+de transparência e barreiras à concorrência aberta. INTELIGÊNCIA ARTIFICIAL 
+(IA) CONTINUA A ATRAIR
+IA continua a seduzir os profissionais de marketing. Porém, 
+o entusiasmo supera em muito a adoção real. Apenas 7% 
+das empresas citadas no “Gartner Magic Quadrant for Digi-
+tal Marketing Analytics” relataram o uso da tecnologia.
+Com a utilização de IA em marketing, sistemas se ajustam 
+de acordo com os comportamentos dos consumidores, 
+sem serem explicitamente programados Com insights e 
+escala sem precedentes impulsionadas por essa inovação, 
+é possível fornecer experiências relevantes para clientes 
+com eficácia e eficiência cada vez maiores.
+Outra aplicação é a de relacionamento com o cliente, com 
+tecnologias que imitam o diálogo humano em escala e agi-
+lizam o processo de comunicação.
+FONTE: GARTNER
+CENÁRIO INTERNACIONAL - ADTECH & MARTECH47
+DISTRITO ADTECH & MARTECH REPORT47
+TENDÊNCIAS DO SETOR
+VISÃO UNIFICADA 
+DO CLIENTE
+O desejo dos profissionais de marketing de unificar di-
+versas fontes de dados impulsiona a ascensão de duas 
+tecnologias: plataformas de dados de clientes e hubs 
+de marketing multicanal (combinação entre centros de 
+marketing digital e soluções de gerenciamento de cam-
+panha multicanal). 
+Essas plataformas permitem a combinação de uma série 
+de fontes de dados para analisar o consumidor através de 
+modelagens estatísticas, otimizando campanhas, além de 
+gerirem o ciclo de vida de seus programas em todos os 
+canais em apenas uma solução.PESQUISA POR VOZ
+ 
+É crescente a utilização do comando de voz para realizar 
+pesquisas no celular, e muitas empresas estão buscan-
+do criar e otimizar seus conteúdos para melhorar sua vi-
+sibilidade. Esses ajustes são necessários pois a semânti-
+ca muitas vezes muda entre a escrita e a fala. Aplicando 
+inteligência artificial a esse recurso, é possível compilar e 
+analisar uma enorme quantidade de dados, reconhecendo 
+como essas formas de busca diferem e criando estratégias 
+de SEO direcionadas especificamente às buscas ditadas.
+FONTE: GARTNER
+CENÁRIO INTERNACIONAL - ADTECH & MARTECH48
+DISTRITO ADTECH & MARTECH REPORT48
+O HootSuite é uma ferramenta de gerenciamento 
+de mídia social que permite o agendamento e 
+postagem de atualizações, em qualquer página 
+ou perfil do Facebook, Twitter, LinkedIn, Google+, 
+Instagram, WordPress e outras redes, em uma 
+plataforma unificada, organizando todos os perfis 
+sociais conectados à empresa.
+A plataforma, que funciona no modelo SAAS,  
+é utilizada por indivíduos, empreendedores, 
+equipes e até grandes corporações, contando  
+com 18 milhões de usuários pelo mundo.
+O HootSuite oferece ainda análises de dados e 
+ferramentas de impulsionamento de publicações, 
+em diversos modelos. Entre seus casos de sucesso 
+estão hotéis, universidades, museus, companhias 
+aéreas e empresas de bens de consumo.FUNDAÇÃO
+2008
+LOCALIZAÇÃO
+VANCOUVER, CANADÁ
+INVESTIMENTO TOTAL
+U$ 299.7 M
+PRINCIPAIS INVESTIDORES
+ACCEL, FIDELITY, 
+INSIGHT PARTNERSHOOTSUITECASE INTERNACIONAL
+Series A U$ 1,9 M Jan/2010
+Series B U$ 165 M Aug/2013
+Series C U$ 60 M Set/2014RODADAS DE INVESTIMENTO
+LINHA DO TEMPO
+20082009
+2011 2013
+2015 20192010Nasce a primeira 
+versão da empresa, 
+um aplicativo para 
+gerenciar contas 
+no TwitterHootsuite recebe endosso 
+da Casa Branca
+7.000.00 de usuários 
+em 156 países
+Valuation de U$1 bi 80% das empresas da 
+Fortune 1000 utilizam 
+o software1.000.000  
+de usuáriosIntegração do 
+Facebook e 
+Linkedin
+49
+DISTRITO ADTECH & MARTECH REPORT49
+Vamos chegando ao fim da era em que as empresas 
+tinham canais limitados de comunicação com seus 
+consumidores. Televisão, rádio, outdoors e mídia 
+impressa foram, por décadas, os veículos de conta-
+to dessa relação. Com propagandas massificadas, a 
+criatividade dos profissionais era central para gerar 
+empatia e uma conexão emocional com a marca. Por 
+isso, é comum lembrarmos com nostalgia de um co-
+mercial de nossa infância. Entretanto, esse processo 
+se mostrou pouco preciso, caro e lento: uma oportu-
+nidade perfeita para o surgimento de novas soluções. 
+Poucos setores foram tão afetados pela revolução 
+digital quanto às áreas de marketing, mídia e pu-
+blicidade. A internet rapidamente transformou os 
+comportamentos de consumo, gerando um público 
+mais engajado, informado e acessível.  As adtechs e 
+martechs surgem nesse cenário como protagonistas, 
+para que empresas consigam tirar proveitos das no-
+vas tecnologias e obtenham cada vez mais impacto 
+com menor custo.
+Nosso estudo segmentou essas soluções a fim de 
+mapear o processo completo pelo qual a marca in-
+terage com o cliente (direta ou indiretamente) e a 
+divisão das categorias entre as startups é uniforme, 
+indicando uma reinvenção completa do setor, onde múltiplos players podem sinergicamente atuar em 
+prol do desempenho da empresa contratante.  Um 
+dos aspectos mais interessantes disso é que muitas 
+dessas soluções têm propostas de viabilizar o acesso 
+de pequenos negócios a marketing e publicidade de 
+qualidade e que geram impacto, o que antes era limi-
+tado a corporações com grandes orçamentos.
+As adtechs e martechs ganharam atenção e desen-
+volveram um dos ecossistemas de inovação mais 
+consolidados do país. As soluções nacionais, mesmo 
+que menores, se assemelham muito em tecnologia e 
+complexidade com as dos grandes polos, como Es -
+tados Unidos e Inglaterra.  O que nos distancia dos 
+maiores players é o nível de imersão das corporações: 
+enquanto o Reino Unido aloca 52% das verbas publi-
+citárias em mídias digitais, o Brasil ainda se limita a 
+investir 30% no setor. Mesmo assim, com um merca-
+do pouco saturado, o Brasil tem altas expectativas de 
+crescimento na área. 
+Por fim, para obter sucesso, as startups devem  
+ser cuidadosas quanto às alterações regulamen-
+tares como nas Leis Gerais de Proteção de Dados, 
+buscando sempre maneiras inovadoras de intera-
+gir com o usuário, respeitando sua privacidade e 
+direito de escolha.
+CONCLUSÃO
+Julia Benavides  
+Data Miner @ Distrito
+DISTRITO ADTECH & MARTECH REPORT
+50
+Todas as informações e conteúdos presentes neste material são propriedade dos seus realizadores. 
+É vedada sua utilização para finalidades comerciais e publicitárias sem prévia autorização. Estão 
+igualmente proibidas a reprodução, distribuição e divulgação, total ou parcial, dos textos, figuras, 
+gráficos que compõem o presente report, sob qualquer adulteração e sem que a sua fonte seja citada.TERMOS DE USO E REPRODUÇÃO DESTE MATERIAL
+QUER ENTENDER COMO USAR OS DADOS DO ECOSSISTEMA 
+BRASILEIRO DE INOVAÇÃO PARA SAIR NA FRENTE EM SEU NEGÓCIO?
+DATAMINER@ DISTRITO.ME
+DISTRITO ADTECH & MARTECH REPORT
+51
+REALIZAÇÃO
+APOIO

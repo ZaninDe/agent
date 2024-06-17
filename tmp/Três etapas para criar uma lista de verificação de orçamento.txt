@@ -1,0 +1,59 @@
+Três etapas para criar uma lista de verificação de orçamento 
+Muitos de nós pensam duas vezes antes de comprar uma torneira feita de ouro. Controlar nossos gastos é 
+um hábito saudável e inteligente. O mesmo funciona quando se trata de gerenciamento de campanhas do 
+Google AdWords de um cliente. 
+O ideal é desenvolver um orçamento mais inteligente para que seus clientes alcancem o maior número 
+possível de consumidores lucrativos sem perder dinheiro. Para isso, siga as etapas a seguir. 
+1. Decida o quanto gastar 
+Com o Google AdWords, é possível definir orçamentos diários para 
+as campanhas de seus clientes com a flexibilidade de alterá-los a 
+qualquer momento. Assim, se algo não funcionar, você só precisa 
+testar outra estratégia. 
+Com lances mais altos, provavelmente sua campanha receberá 
+mais tráfego, ainda que você gaste mais. Com lances mais baixos, 
+as chances de sua campanha gerar cliques e  conversões  são menores. 
+Exemplo: Digamos que o custo por clique  seja de BRL 0,10 em média, e você espera 
+cerca de 100 cliques por dia. Seu orçamento pode ser de BRL 10 por dia. Usando esse 
+exemplo, veja como resolver seu orçamento diário: 
+BRL 0,10 x 100 = BRL 10 por dia (custo por clique x cliques por dia = orçamento diário) 
+● Para trabalhar com um orçamento de publicidade mensal, calcule o valor do 
+orçamento diário ao dividir o orçamento mensal por 30,4 (média do número 
+de dias em um mês). 
+● Crie também orçamentos compartilhados  para poder alocar seu orçamento 
+entre diversas campanhas. 
+Três etapas para criar uma lista de verificação de orçamento 1/2 É possível alterar o orçamento diário a qualquer momento e quantas 
+vezes for necessário. Veja como editar o orçamento diário de sua 
+campanha na guia Campanhas :
+1. Na tabela Campanhas , clique no orçamento que deseja editar. 
+2. Informe um novo orçamento para a campanha. 
+3. Clique em Salvar .
+Veja como editar o orçamento diário de sua campanha na guia 
+Configurações  da campanha: 
+1. Selecione a campanha que deseja editar. 
+2. Clique na guia Configurações .
+3. Na seção "Orçamento", clique no link Editar  ao lado do  
+orçamento diário de sua campanha. 
+4. Informe o novo orçamento. 
+5. Clique em Salvar .
+Saiba mais sobre como definir um orçamento do Google AdWords. 3. Altere seu orçamento diário 
+Três etapas para criar uma lista de verificação de orçamento 2/2 2. Defina seu orçamento diário 
+O orçamento diário é aplicado a uma única campanha, não a todas as campanhas 
+em sua conta. Veja como definir seu orçamento diário para uma campanha nova: 
+1. Faça login com sua conta do Google AdWords em http://adwords.google.
+com.br
+2. Clique na guia Campanha .
+3. Clique em + Campanha  e selecione o tipo de campanha  que deseja criar: 
+"Rede de Pesquisa com exibição em Display" 
+"Apenas na Rede de Pesquisa" 
+"Apenas na Rede de Display" 
+4. Na página "Selecionar configurações de campanha", vá até a seção 
+"Orçamento" e insira um orçamento diário individual ou utilize um 
+orçamento compartilhado. 
+5. Escolha outras configurações da campanha (ou ignore-as) e clique em 
+"Salvar e continuar". 
+Dica:  Não basta definir e esquecer.  Consulte sua conta com frequência 
+para verificar se existem campanhas limitadas pelo orçamento ou se 
+há dinheiro sobrando. Orçamento 
+por dia 50,00 
+O gasto diário real pode variar. 
+Salvar Cancelar BRL 

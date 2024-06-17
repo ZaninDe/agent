@@ -1,0 +1,574 @@
+PRODUTO(S)CLIENTE:
+PRINCIPAIS 
+FRAQUEZAS
+Quais as prinicipais fraquezas da sua solução?PRINCIPAIS 
+FORÇAS
+Quais as principais forças da sua solução? Quais as principais atividades para a produção 
+desta solução?Quais são os principais insumos para a 
+produção desta solução?PRINCIPAIS 
+FORNECEDORES
+De onde vem os insumos desta solução?
+Qual a origem?RECURSOS HUMANOS
+Quem é responsável pela produção desta solução?
+Quais as suas funções e cargos?
+ CRIADORES DE GANHO
+Como a solução gera ganhos para o consumidor?
+Como ela gera benefícios ao seu público?
+ALIVIAM AS DORES
+Como a solução alivia as dores dos consumidores?
+Como ela reduz ou elimina as emoções negativas?PRODUTOS
+& SERVIÇOS
+Liste todos os produtos e 
+serviços que inﬂuenciam na 
+sua proposta de valor
+RECURSOS TECNOLÓGICOS
+Quais são os equipamentos ou tecnologias que diferenciam a 
+produção desta solução?INDICADORES DE PERFORMANCE
+Quais os indicadores quantitativos utilizados para medir o 
+sucesso da solução?
+OPORTUNIDADE E MELHORIAS
+Quais as oportunidades que a solução ainda pode explorar?
+Existe alguma nova tecnologia?
+Alguma solução que potencialize a experiência do consumidor?
+PRINCIPAIS 
+INSUMOSPRINCIPAIS 
+ATIVIDADES
+Chatbot: faz 
+interface 
+inicial com o 
+usuário.
+Contratação 
+digital
+Prescrição 
+digital
+NPS 
+(transacional 
+e relacional), 
+CSAT e CES.
+Segurança, 
+conﬁança, 
+acolhimento
+Pesquisas 
+de 
+mercado
+Prospecção e 
+Aquisição  de 
+clientes direta 
+e digital
+Simplicidade
+Resistência 
+ao modelo 
+digital
+Área 
+clínica
+Burocracia 
+x ganho de 
+tempo
+Médicos e 
+todos os 
+outros 
+proﬁssionais 
+de sáude
+Hospitais
+ Laboratórios
+CLÍNICOS
+TEC.
+Cloud 
+(Google 
+Cloud 
+Platform)
+CRM (em 
+deﬁnição)
+Consultoria 
+Atuarial e 
+etc.
+Serviços
+ Seguradora 
+Externa
+Agência 
+de Digital 
+(Today)
+Ferramentas de 
+comunicação 
+(LivePerson, 
+SalesForce, 
+LiveChat...)
+FAQ -  
+Plataroma de 
+atendimento 
+(Ex.: ZenDesk. 
+Em deﬁnição)
+Ferramentas 
+de DEV 
+(GitHub, 
+Apiary, The 
+Checker)
+Agência 
+PR
+(NR- 7)
+Crunchbase 
+(dados de 
+mercado e 
+fundos)
+Ferramenta 
+de pesquisa 
+de satisfação 
+(Track)
+Dados
+Insumos 
+médicos
+NPS
+Tangíveis
+Rede 
+credenciada
+Care 
+Team
+Time 
+Sami
+Dados 
+clínicos
+ChatBot
+Processos 
+digitais
+Crunchbase
+Ferramentas 
+de DEV
+Plataformas 
+de 
+atendimento
+Ferramentas 
+de 
+comunicação
+Cuidado 
+coordenado, 
+global e 
+proativo
+Pré
+Pós
+Durante
+Atendimento 
+administrativo
+Credenciamento 
+de prestadores
+Interface 
+digital
+Medicina  e 
+pagamento 
+baseados 
+em valor
+Lançamento 
+e promoção 
+da marca
+Geração e 
+análise de 
+dados 
+clínicos
+Onboarding
+Avaliação 
+da 
+satisfação 
+do cliente
+Engajamento 
+de key players: 
+cliente, 
+paciente, 
+prestador...
+Manter a 
+Experiência 
+do cliente 
+ﬂuida
+Aplicação de 
+modelos de 
+remuneração 
+sustentáveis
+Transparência
+Proximidade 
+e acomp. 
+proativo 
+(humano)
+Custo 
+benefício
+Qualidade 
+Clínica
+Experiência 
+customizada
+Rede 
+prestadora
+Pacientes
+Operação
+Sem 
+reembolso
+Cobertura 
+regional
+Tecnologia
+Marketing
+Experiência / 
+Atendimento
+Marca 
+nova
+Sami Care 
+Team (MD, 
+Enf...)
+Incertezas 
+durante a 
+crise de 
+COVID- 19
+App 
+(cliente 
+ﬁnal)
+Cock Pit 
+(Painel de 
+controle)
+Prontuário 
+on- line
+Plataforma 
+de 
+atendimento 
+omnichannel
+EXT
+INT
+Integração 
+de APIs
+Indicadores 
+internos 
+(eNPS, 
+Attrition Rate)
+Métricas de 
+engajamento 
+médico
+Métricas de 
+desfecho 
+médico
+Métricas 
+digitais (CAC, 
+ROI, LTV, 
+Payback...)
+Sinistralidade
+NIPs 
+(executadas 
+e resolvidas)
+IGR
+Total, novas 
+aquisições e 
+churn de 
+clientes
+Resultados 
+de Exames 
+no APP
+Contratação 
+100% digital 
+de todos os 
+tipos de PME e 
+PF
+EBITDA
+Planos diferentes 
+para diferentes 
+areas de trabalho 
+(Advogados, 
+Padarias e etc)
+Criação de 
+processos 
+de close 
+the loop
+IA para conversas 
+com pacientes com 
+problemas 
+emocionais, solidão, 
+problemas sociais,  
+depressão e aﬁns
+Gamiﬁcação 
+da jornada 
+do paciente e 
+de terapias
+Programa de 
+Loyalty / e- Wallet 
+(recompensa por 
+metas de saúde)
+Programa 
+de 
+indicacao 
+de amigos
+Saúde
+CREDENCIADO 
+(MÉDICO)
+Rede 
+qualiﬁcada 
+com custo 
+mais acessível
+PACIENTE
+CREDENCIADO 
+(MÉDICO)
+Não é 
+impactado 
+pela inﬂação 
+médica
+Tempo 
+(tratamento 
+mais rápido)
+Relacionamento 
+(Não ser mais 
+um)
+PACIENTE
+Experiência 
+do paciente
+Assistência 
+médica
+Sustentabilidade 
+ﬁnanceira
+Experiência 
+do 
+prestador
+Sustentabilidade 
+ﬁnanceira
+Previsibilidade 
+de custo
+Tempo
+ (-  falta de 
+pacientes)
+Base de 
+clientes
+Benefícios 
+pelo seu 
+bom 
+trabalho
+Reconhecimento 
+do seu bom 
+trabalho
+CONTRATANTE 
+(EMPRESAS)
+CONTRATANTE 
+(EMPRESAS)
+Rede 
+qualiﬁcada 
+com custo 
+mais acessível
+Não é 
+impactado 
+pela inﬂação 
+médica
+Contratação 
+rápida e 
+direta (sem 
+corretor)
+Suporte 
+com ações 
+de saúde 
+preventiva
+Dados e 
+insights para 
+uso inteligente 
+do plano
+Redução de 
+faltas de 
+colaboradores 
+por saúde.
+Altos custos x 
+acessibilidade
+Demora de 
+atendimento x 
+atendimento 
+24h
+Atendimento 
+pontual x 
+acompanhamento 
+longitudinal
+Contratos sem 
+transparência 
+x Negociação 
+sem letras 
+pequenas
+Busca e contatos 
+complexos/demor
+ados
+ x praticidade e 
+acompanhamento
+Relacionamento 
+impessoal x 
+relacionamento 
+personalizado 
+em escala
+Ausência de 
+pós 
+atendimento x 
+desfecho 
+clínico guiado
+Usuário não tem 
+acesso ao 
+histórico x 
+Histórico 
+centralizado de 
+saúde
+Burocracia 
+x ganho de 
+tempo
+Consultas 
+canceladas x 
+Menos 
+consultas 
+canceladas
+(Recém formados)
+Poucos pacientes 
+x carteira de 
+clientes
+Ganho ﬁn. 
+demorado x 
+previsibildiade 
+ﬁnanceira
+Cred. não 
+tem histórico 
+x Histórico 
+centralizado
+Desemparo para 
+escolha de proﬁssional 
+x Direcionamento para 
+proﬁssional de acordo 
+com parâmetros 
+deﬁnidos pelo cliente
+Falta de feedback 
+do atendimento x 
+clareza da 
+qualidade do 
+atencimento
+Rede qualiﬁcada 
+tem alto custo x 
+acessibilidade e 
+rede qualiﬁcada
+Necessidade 
+do corretor 
+x Ausência 
+do corretor
+Falta de informação 
+x Acompanhamento 
+do uso do plano de 
+saúdeo por seus 
+colaboradores
+Abandono da 
+operadora x 
+suporte com 
+ações de saúde 
+preventiva
+Custos de 
+coparticipação 
+x não há 
+coparticipação
+Uso desenfreado do 
+plano de saúde x 
+serviço que 
+coordena as suas 
+interações com o 
+plano de saúde
+EXT
+INT
+Sem 
+diferenciação 
+por faixa 
+etária
+Customização 
+da rede pela 
+pessoa
+Wallet para o 
+cliente 
+manter o 
+dinheiro dela
+Wallet que 
+mantenha todos 
+os resultados de 
+exame em um 
+só lugar
+Ideias
+SAMI
+Kit boas 
+vindas
+Interações de 
+bem estar online
+Atendimento 
+disponível 24h 
+online
+Acompanhamento 
+de tratamento 
+online
+Indicação 
+de hospital
+Recepção 
+hospital
+Agendamento 
+consulta médica
+Prontuário 
+médico online
+Histórico 
+médico online
+Gestão do 
+paciente ao longo 
+de toda a sua vida
+Pesquisa de 
+satisfação
+Validação do 
+desfecho médico
+PACIENTE
+Indicação 
+médica
+App
+Contratação 
+online
+EMPRESA 
+CONTRATANTE
+Kit boas 
+vindas
+Interface 
+administrativa com 
+análise do uso do 
+plano de saúde
+Renovação 
+online
+Pagamento 
+online
+MÉDICO 
+CREDENCIADO
+Credenciamento 
+online
+kit boas 
+vindas
+Agendamento 
+online
+Método de 
+conﬁrmação 
+online
+Atendimento 
+disponível 24h 
+online
+Prontuário 
+online
+Validação do 
+desfecho clínico
+Programa de 
+engajamento
+Faturamento 
+online
+CARE TEAM
+Kit boas 
+vindas
+Atendimento 
+disponível 24h 
+online
+Prontuário 
+online
+Diagnóstico e 
+próximos passos 
+online
+Validação do 
+desfecho clínico
+Pagamento 
+online
+App
+App
+ App
+Integração entre 
+sistemas Sami e próprio* 
+(grandes hospitais, 
+clínicas e labs) (
+Perda de tempo 
+com exames 
+(coleta e 
+resultados) x 
+Médico Sami faz 
+isso

@@ -1,0 +1,343 @@
+Unbelievable Skills:
+is Changing the Role of the Modern MarketerHow AI“The Internet
+is becoming the town square for the 
+global village of tomorrow.”
+More than two decades later, in that same vein, artificial intelligence 
+is becoming the superhero sidekick of every individual. That 
+especially rings true for marketers of all industries, as they le ver age 
+artificial intelligence tools as a powerful, transformative force to drive customer engagement, optimize campaigns, and enable 
+personalized experiences like never before.Soon, every modern marketer will use AI as their everyday assistant 
+to make more informed decisions, enhance efficiency, and foster 
+meaningful customer relationships.
+2In 1999, Bill Gates said,Introduction
+is changing rapidly, and artificial intelligence (AI) drives this 
+transformation. Marketing teams, large and small, are coming to 
+understand that harnessing the power of AI is no longer optional - 
+it’s essential for maintaining a competitive edge.
+3In this report, we explore...
+ways marketers can work 
+artificial intelligence into 
+their everyday workflow, from 
+customer segmentation to 
+content creation. You’ll read real-world success stories of leading brands, insights from 
+marketing experts in Globant’s Create Studio, and tips from those achieving 
+significant results through AI.
+At Globant Create, we aim to empower you, the modern marketer, with the 
+knowledge and confidence to leverage AI’s transformative potential within 
+your unique marketing context. This is about driving your business into a new 
+era of efficiency, personalization, and engagement. It’s time to take the lead in 
+this AI-driven marketing revolution.
+4The impact of AI on
+marketing 
+professionals
+Artificial intelligence (AI) is not just influencing the marketer’s role; 
+it’s revolutionizing how the work gets done. Embracing AI means 
+stepping into a future where data-driven insights, personalized 
+marketing, and enhanced efficiency are the norm, not the exception.According to a Gartner® report, “by 2025, organizations 
+that use AI across the marketing function will shift
+75%of their staff’s operations from production to more strategic activities.”
+We think that this underscores the immense potential of AI and how it 
+is transforming the marketing landscape. A recent survey and report 
+from Qualtrics,  a leading survey software company, found that 90% of 
+market researchers say that AI will significantly impact their industry within 5 years, but only 30% say they know what that will look like.
+5AI empowers 
+leaders with
+data-driven insights,
+making connections faster and more accurately than ever, enabling a more 
+data-centric campaign approach. It allows for predicting consumer behavior and 
+personalizing marketing efforts at scale. Marketing strategists can delve deeper 
+into customer data, uncovering patterns and trends that lead to a more nuanced understanding of customer behavior, preferences, and needs.
+AI also automates repetitive tasks, freeing valuable time for marketing teams 
+to focus on strategic, creative initiatives. AI-driven automation can save an 
+estimated 3.5 hours a week, allowing for more focus on strategic tasks.
+Moreover, AI is helping measure and prove the ROI of their marketing efforts. 
+Advanced analytics can track campaign performance in real-time, providing actionable insights to tweak strategies and maximize results.
+6The power of AI has been evident for a long time and 
+has recently been reinvigorated with the joint adoption of 
+generative AI capabilities. Some cases of AI use among 
+big brands illustrate the power of AI in marketing, along with data, estimated ROI, and recommended tools.Use cases:
+Enhancing 
+marketing with AI
+1.Personalization at scale enables never-
+before-seen consumer touchpoints
+Delivering personalization at scale can be a silver bullet for marketers. 
+AI focuses on that capability, making it possible for millions of users 
+to have customized experiences without human intervention. One 
+of the most common examples of a company expertly leveraging personalization is Netflix. When an individual logs into their Netflix 
+account, AI provides personalized movie and show recommendations 
+based on numerous factors, including previously-watched content, increasing viewer engagement. Tools like Adobe Target and Optimizely 
+can help in delivering personalized experiences.
+72Augmented intelligence using 
+predictive analytics
+AI can analyze past consumer behavior to predict future actions. 
+Retailers like Amazon use predictive analytics to recommend 
+products based on past purchases, increasing sales. The opportunity 
+for optimization in this area is backed up by Forrester’s Q4 B2C Marketing CMO Pulse Survey 2022, where only 1 out of 4 B2C 
+marketing executives indicated that they use data and analytics t o 
+demonstrate the incremental value that marketing has on business 
+objectives. Tools like Alteryx and RapidMiner are well-known for their 
+ability to provide actionable predictive analytics. 3Customer segmentation makes product 
+marketing more effective
+Grouping customers efficiently and accurately helps inform a product 
+marketing approach. AI-powered tools like Hubspot and Marketo 
+enable marketers to group customers and prospects based on shared 
+characteristics. This segmentation example plays out at Spotify, where AI segments listeners for personalized playlist recommendations. 
+8Chatbots and virtual assistants build 
+relationships with customers 
+AI-powered chatbots and virtual assistants can provide 24/7 
+customer service, sales support, and opportunities to connect 
+with prospective customers. Companies like Zara use chatbots to 
+enhance customer experience, increasing customer loyalty and retention. B2B organizations like Globant use chatbots like Drift 
+to start essential business conversations with prospects, gaining 
+insights relevant to securing new accounts.Optimizing campaigns using real-
+time analytics 
+AI can analyze marketing campaign performance in real-time. 
+Social media platforms have built-in artificial intelligence to provide 
+real-time analytics, helping marketers adapt and optimize their ad 
+campaigns. Additionally, companies like Salesforce and Hubspot have doubled down on their artificial intelligence capabilities by launching 
+EinsteinGPT and Chatspot, respectively. These tools build on the 
+strength of existing tools like GPT -4 by overlaying them on the tool 
+through an application programming interface (API). These use cases illustrate the 
+transformative power of AI in marketing. As a marketer, leveraging 
+these AI capabilities can enhance your marketing outcomes, drive growth, and give your brand a competitive edge. With Globant as your technology partner, you can harness the power of AI to its fullest potential.4 5
+9What does the impact of
+AI in marketing 
+look like today?The transformative power of AI in marketing is not just theoretical; 
+it’s supported by compelling data and projected to have an even 
+more significant impact as development continues.
+1 | First adopters and high-performing teams  
+High-performing marketing teams  are twice as likely to use AI in 
+their campaigns, according to Adobe. This indicates that AI is not just a tool for the most innovative companies; it’s becoming a standard 
+part of the marketing toolkit. As the tools mature, more marketing organizations will implement or expand AI and machine learning. 
+This widespread adoption underscores the rapid success of AI in 
+the current marketing landscape and its acceptance as a critical component of effective marketing strategies.
+10AI-based tools
+“With AI-based tools, we will be able to analyze 
+vast amounts of data to gain valuable insights into customer behavior, preferences, and trends. 
+This will allow us to deliver highly targeted 
+and relevant content, recommendations, and offers to each customer, improving customer satisfaction and most likely success rates.”
+Pepe Chamorro
+Global Head of Globant Create
+112 | Personalization and customer experience
+AI’s ability to personalize customer experiences at scale is a key 
+driver of its impact. The effectiveness is backed by Hubspot, 
+one of the top CRM systems, in their annual State of Marketing 
+report, which states that ABM marketers’ top challenge is their 
+personalization ability. By enabling marketers to understand and 
+respond to individual customer needs, AI is helping to drive customer 
+satisfaction and loyalty, leading to increased revenue.3 | AI adoption challenges
+Despite the benefits; there are challenges to AI adoption. A 2022 
+Gartner survey reveals, “On average, 54% of AI projects make it from 
+pilot to production.”  As per the statistic, having the right technology 
+partner to guide you through the AI journey is important. With a global roster of AI experts, we help clients overcome the challenge of 
+identifying, implementing, and onboarding new tools, allowing them to 
+optimally harness the tools’ power.Overcoming cultural and ideological barriers 
+was necessary to adopt and mature the world 
+wide web. The journey to mass generative 
+AI adoption also demands this. For instance, these tools might only sometimes provide 
+the most accurate or current information due 
+to their predictive nature. This phenomenon 
+necessitates educating users about the 
+associated risks with these tools and how to identify inaccuracies.
+12AI tools
+“I’m approaching AI tools with cautious optimism, however, 
+it is not a party that can be held accountable for, and stand behind, important reputational factors like accurate primary 
+research or storytelling. It cannot give your organization 
+a point-of-view or leverage the unique experience of a thought leader. It doesn’t maintain the ethical integrity that your company and employees possess.”
+Head of Global Content 
+GlobantRebecca Reed
+13The future of
+AI and 
+marketing
+AI’s ongoing evolution promises to bring even more transformative 
+changes to the marketing landscape. Trends on the rise, like AI-
+powered voice search, image recognition, and predictive advertising, will reshape how marketers interact with customers.
+If you stay ahead of these trends and leverage AI’s power, you can 
+keep your brand at the forefront of marketing innovation. Gartner 
+2023 Hype Cycle
+TM for Artificial Intelligence indicates, “Generative 
+AI is dominating discussions on AI, having increased productivity 
+for developers and knowledge workers in very real ways. This has caused organizations and industries to rethink their business processes and the value of human resources, pushing GenAI to the 
+Peak of Inflated Expectations on the Hype Cycle.”
+The data clearly shows that AI is not just a passing trend but a powerful 
+tool that reshapes the marketing landscape. It’s been used for years, even without most people knowing it! As a marketer, embracing AI can 
+give your brand a competitive edge, now and in the future. 
+AI’s role in marketing is poised for even more expansion 
+in the future. Experts anticipate the market for AI in 
+marketing to surge from $6.5 billion in 2019 to $29.79 
+billion by 2025, marking a Compound Annual Growth 
+Rate (CAGR) of
+30%during the forecast period. Factors like 
+the escalating demand for personalized 
+marketing, AI’s predictive abilities, and 
+the rising availability of AI tools and 
+platforms drive this growth.
+14Success Stories:
+AI in Marketing
+The transformative power of AI in marketing is not just theoretical; 
+it’s already demonstrated in real-world scenarios. Here, we delve 
+deeper into a few success stories highlighting the remarkable 
+results achieved through successful AI implementation in marketing, specifically focusing on cases that interest marketers.American Express: Predictive 
+analytics for customer retention
+American Express  uses AI and machine learning to analyze 
+and predict customer behavior, helping them identify 
+customers likely to close their accounts. This capability 
+allows them to address customer concerns and improve 
+retention proactively. By leveraging AI this way, American 
+Express has significantly reduced customer churn.
+Adidas: AI for enhanced customer 
+engagement
+Adidas uses AI chatbots to enhance customer engagement. 
+Their chatbot for the London Marathon offered personalized 
+training advice to participants, leading to increased customer 
+engagement and brand loyalty. This demonstrates the 
+potential of AI chatbots to deliver personalized advice and 
+support, enhancing customer relationships.1.
+2.
+15Harley-Davidson: AI for sales 
+growth
+Harley-Davidson used AI to increase New York 
+sales leads by 2,930%. They used an AI-powered 
+marketing platform to analyze customer data and identify lifestyle and behavioral patterns. The AI 
+then used this data to identify and target potential 
+customers with personalized marketing messages. This 
+development led to a significant increase in sales leads, 
+demonstrating the power of AI in driving sales growth.L’Oreal: AI for product 
+development
+L’Oreal uses AI to analyze social media trends and 
+customer feedback  for product development. This 
+program has allowed them to stay ahead of beauty trends and develop products that resonate with their customers. 
+The ability to analyze vast sums of data and input is 
+possible with AI, making it a tool that drives innovation 
+and helps brands meet evolving customer needs.
+These success stories illustrate the transformative power of AI in marketing.  Leveraging AI can lead to remarkable results, 
+driving growth, enhancing customer experiences, and giving your brand a competitive edge. Globant’s Create Studio can help you 
+reach the next era of growth, elevating your media and creativity through the power of AI and cutting-edge marketing technology.Success Stories:
+AI in
+Marketing3. 4.
+16How to make a strategic 
+impact through
+AI adoption within 
+your marketing team
+Adopting AI in your marketing strategy can seem daunting, but it 
+doesn’t need to be. Our team at Globant provides the following tips 
+for using AI tools in your marketing team. 
+17Tip 1: Start with a clear goal
+Before implementing AI, it’s crucial to understand what you want 
+to achieve clearly. Whether improving customer segmentation, 
+enhancing personalization, or optimizing ad campaigns, having a clear 
+goal will guide your AI implementation process. The foundational understanding of the goal helps with the subsequent steps in the 
+journey to AI adoption. 
+Tip 2: Choose the right tools
+There are numerous AI tools available, each with strengths and 
+weaknesses. Choose the right tool that aligns with your marketing 
+goals and business needs. The tool that you pick to build your AI-
+enabled tech stack should be built from and contribute to the goal you have for the program. Some tools that can help your marketing efforts 
+include Adobe Sensei for personalization, Hootsuite for social media 
+analytics, and Drift for chatbots can be good starting points.
+Tip 3: Upskill your team
+AI is a brand new tool on a marketer’s workbench that requires the right skills to use effectively. Invest in training your team on AI basics, 
+how to use your chosen AI tools and the risks associated with using 
+the tools; this will ensure your team can leverage AI effectively and troubleshoot any issues. AI tools are now doing jobs once done by 
+entry-level or junior marketers, so how can one stay ahead in this new 
+environment? It turns out that the fundamentals largely remain the same despite technological advancements. 
+18Business Development, 
+Globant Create LATAMThe capability of AI has been an ally in identifying those 
+needs and enabled us to take advantage of our end-to-end capabilities within Globant Create to design, implement, 
+and scale with seamless technology-based processes on an 
+everyday basis.” “As marketers, we’ve always 
+focused on strategies driven by user interests and experiences.
+Dulce Contreras
+19Head of Digital Media, 
+Globant Create LATAM“AI enables us to comprehend customer behavior in ways 
+we never before could, enabling us to deliver personalized experiences that increase engagement and conversion. I am convinced that AI is the key to realizing new performance marketing efficiency, greater effectiveness, and unlocking innovation.
+AI is the future of marketing, 
+and those who embrace it 
+now will lead the marketing 
+revolution of tomorrow.”Jaime Lopez
+20Test and learn
+AI is a rapidly evolving field with new functionalities from various platforms 
+coming online daily. Adopting a test-and-learn approach is crucial, where you start 
+small, measure results, learn from mistakes, and gradually scale your efforts. This 
+approach reduces the risk associated with the tools and allows you to optimize your AI strategy over time. AI tools are imperfect and require human expertise 
+and cognition to ensure accuracy. We recommend using generative AI tools for 
+inspiration and creativity but not for tasks such as research. 
+214Tip5Tip
+Partner with experts
+Implementing AI can be complex, and having the right 
+partner can make all the difference. A technology strategy 
+and implementation partner like Globant can provide the 
+expertise and support you need to navigate the ever-evolving technology landscape and implement the best tool for your 
+business and marketing needs, allowing you to put your best 
+foot forward to meet your goals. Keep the customer in mind
+While AI can provide powerful insights and automation, keeping the customer at the center of your efforts is crucial. 
+Use AI to enhance the customer experience, not replace the 
+human touch. Remember, AI is a tool to help you serve your customers better. A comprehensive solution to a problem 
+often includes using several technologies and dedicated 
+human skillsets.
+Adopting AI in your marketing strategy can provide a significant competitive advantage. By following these 
+tips, you can ensure a smooth and successful AI adoption process, positioning your brand at the cutting edge of 
+marketing innovation.6
+22TipHead of Globant Create USunderstand customer preferences, adopt human-centric 
+strategies, and cater to transactional and ‘entangled’ relationships. Here at Globant Create, we refer to the complex weave that brands hold in people’s lives as ‘Share of Life’ and AI allows us to enhance that.”“For brands with strong 
+foundational values and identity, AI presents a powerful force for marketers, enabling them to…
+Sebastian Jespersen
+23Conclusion
+Artificial intelligence is a powerful, transformative force in the 
+marketing landscape, capable of driving customer engagement, 
+optimizing campaigns, and enabling personalized experiences like 
+never before. By embracing AI, marketers can make more informed 
+decisions, enhance efficiency, and foster meaningful customer 
+relationships. Globant is uniquely positioned to guide businesses 
+on this journey as a leader in technology services, providing tailored 
+AI solutions that align with their unique marketing needs and goals.
+AI offers unprecedented opportunities to enhance marketing 
+outcomes, from delivering personalized experiences at scale to predicting consumer behavior, optimizing marketing campaigns, and driving innovation. The success stories we’ve shared illustrate 
+the remarkable results that can be achieved through successful AI 
+implementation in marketing.
+However, harnessing the full potential of AI has its challenges. It 
+requires a clear understanding of your marketing goals, the right 
+tools, a skilled team, and a test-and-learn approach.
+24As a leading marketing partner, Globant’s Create Studio helps 
+brands leverage the best of AI and tech into creativity and 
+marketing. Our expert team has the experience, tools, and 
+support you need to navigate the AI landscape and implement 
+AI successfully in your marketing operations.
+We understand the unique challenges and opportunities that marketers 
+face, from associates to the CMO, and we’re committed to helping you 
+leverage AI to drive growth, enhance customer experiences, and give 
+your brand a competitive edge.
+AI is not just reshaping the role of marketers; it’s redefining the future 
+of marketing. By embracing AI and partnering with Globant for your digital transformation projects, you can position your brand at the 
+forefront of this revolution, turning today’s challenges into tomorrow’s 
+opportunities. Set up a session with our experts today and take the first 
+step towards securing your brand’s competitive advantage in the AI-
+driven future. The future is yours; we’re here to help you shape it.A strong technology partner must guide you through the AI journey.
+This is where
+comes in
+25About
+Globant
+We are a digitally native company that helps organizations 
+reinvent themselves. We are the place where innovation, design, and engineering meet at scale. 
+• We have more than 27,000 employees and we are present in 25 countries and 5 
+continents working for companies like Google, Electronic Arts and Santander, among 
+others.
+• We were named a Leader in the IDC MarketScape: Worldwide AI Services 2023 
+Vendor Assessment (doc #US49647023, May 2023) and Worldwide leader in 
+Customer Experience Improvement Services  2020 Vendor Assessment (doc # 
+US45658220 , September 2020).
+• We were also featured as a business case study at Harvard, MIT, and Stanford.  
+• We are active members of The Green Software Foundation (GSF) and the Cybersecurity Tech Accord.
+For more information, visit
+www.globant.com  DisclaimerGARTNER is a registered trademark and service mark of Gartner, 
+Inc. and/ or its affiliates in the U.S. and internationally, and HYPE 
+CYCLE is a registered trademark of Gartner, Inc. and/ or its 
+affiliates and are used herein with permission. All rights reserved.
+Attribution 
+Gartner Press Releases, “[Gartner Predictions for CMOs Show AI, Social Toxicity, and Data Privacy 
+Forge the Future of Marketing],” [December 13, 2022]. [https:/ /www.gartner.com/en/newsroom/press-releases/2022-12-13-gartner-predictions-for-cmos-show-ai-social-toxicity-and-data-privacy-forge-the-future-of-marketing]
+Gartner Press Releases, “[Gartner Survey Reveals 80% of Executives Think Automation Can Be 
+Applied to Any Business Decision],” [August 22, 2022]. [https:/ /www.gartner.com/en/newsroom/press-releases/2022-08-22-gartner-survey-reveals-80-percent-of-executives-think-automation-can-be-applied-to-any-business-decision] Gartner, [Hype Cycle for Artificial Intelligence, 2023], [Afraz Jaffri], [July 19, 2023]This report is intended for informational purposes only, based on information available in public domain. While the information provided has been obtained from sources believed to be reliable, neither Globant nor any of its affiliates, directors, neither officers nor agents attests to its accuracy or completeness.
+No representation or warranty, expressed or implied, is made regarding the completeness, 
+accuracy, timeliness or suitability of any and all information and data contained within any part of the report. Globant shall in no case be liable for any direct, indirect, incidental, special, consequential or exemplary damage or loss (including, without limitation, loss of profit), which may arise or derive directly or indirectly from use of or reliance on the information contained in this report. All information contained in this report is subject to change by Globant without notice. Prior written approval of Globant is necessary to reprint or reproduce in whole or in part this report. All contents, text, images, data, information and other materials displayed, including any Globant trademarks or copyrights, are the property of Globant or the designated owner and are protected by applicable laws.
+2728

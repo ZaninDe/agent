@@ -1,0 +1,294 @@
+Summary.   IT Management
+How to Design an AI Marketing Strategy
+by Thomas H. Davenport, Abhijit Guha, and Dhruv Grewal
+From the Magazine (July–August 2021)
+Giulio Bonasera
+In order to realize AI’s giant potential, CMOs need to have a good grasp
+of the various kinds of applications available and how they may evolve. This article
+guides marketing executives through the current state of AI and presents a
+framework that will help them...moreOf all a company’s functions, marketing has perhaps the most to
+gain from artificial intelligence. Marketing’s core activities are
+understanding customer needs, matching them to products and
+services, and persuading people to buy—capabilities that AI can
+dramatically enhance. No wonder a 2018 McKinsey analysis of
+more than 400 advanced use cases showed that marketing was
+the domain where AI would contribute the greatest value.
+00:00  /  18:08
+Listen to this article
+To hear more, download Noa app for iPhone or Android.
+Chief marketing officers are increasingly embracing the
+technology: An August 2019 survey by the American Marketing
+Association revealed that implementation of AI had jumped 27%
+in the previous year and a half. And a 2020 Deloitte global survey
+of early AI adopters showed that three of the top five AI objectives
+were marketing-oriented: enhancing existing products and
+services, creating new products and services, and enhancing
+relationships with customers.
+A I-Pow ered M arketing: Series reprint
+buy copies
+While AI has made inroads in marketing, we expect it to take on
+larger and larger roles across the function in the coming years.
+Given the technology’s enormous potential, it’s crucial for CMOs
+to understand the types of marketing AI applications available
+today and how they may evolve. Drawing on more than a decade
+of experience studying data analytics, AI, and marketing and
+advising companies across industries about them, we’vedeveloped a framework that can help CMOs classify existing AI
+projects and plan the rollout of future ones. But before we
+describe the framework, let’s look at the current state of play.
+Today’s AI
+Many firms now use AI to handle narrow tasks, such as digital ad
+placement (also known as “programmatic buying”); assist with
+broad tasks, like enhancing the accuracy of predictions (think
+sales forecasts); and augment human efforts in structured tasks,
+such as customer service. (See the sidebar “Well-Established AI
+Applications in Marketing” for a list of some common activities AI
+can support.)
+W ell-Established A I Applications in M arketing
+Chatbots for lead development, customer support, and
+cross-selling or upselling Inbound call analysis and
+routing, and ...
+Firms also employ AI at every stage of the customer journey.
+When potential customers are in the “consideration” phase and
+researching a product, AI will target ads at them and can help
+guide their search. We see this happening at the online furniture
+retailer Wayfair, which uses AI to determine which customers are
+most likely to be persuadable and, on the basis of their browsing
+histories, choose products to show them. And AI-enabled bots
+from companies such as Vee24 can help marketers understand
+customers’ needs, increase their engagement in a search, nudge
+them in a desired direction (say, to a specific web page), and if
+needed, connect them to a human sales agent by chat, phone,
+video, or even “cobrowsing”—allowing an agent to help the
+customer navigate a shared screen.AI can streamline the sales process by using extremely detailed
+data on individuals, including real-time geolocation data, to
+create highly personalized product or service offers. Later in the
+journey, AI assists in upselling and cross-selling and can reduce
+the likelihood that customers will abandon their digital shopping
+carts. For example, after a customer fills a cart, AI bots can
+provide a motivating testimonial to help close the sale—such as
+“Great purchase! James from Vermont bought the same mattress.”
+Such initiatives can increase conversion rates fivefold or more.
+After the sale, AI-enabled service agents from firms like Amelia
+(formerly IPsoft) and Interactions are available 24/7 to triage
+customers’ requests—and are able to deal with fluctuating
+volumes of service requests better than human agents are. They
+can handle simple queries about, say, delivery time or scheduling
+an appointment and can escalate more-complex issues to a
+human agent. In some cases AI assists human reps by analyzing
+customers’ tone and suggesting differential responses, coaching
+agents about how best to satisfy customers’ needs, or suggesting
+intervention by a supervisor.
+The Framework
+Marketing AI can be categorized according to two dimensions:
+intelligence level and whether it’s stand-alone or part of a broader
+platform. Some technologies, such as chatbots or
+recommendation engines, can fall into any of the categories; it’s
+how they’re implemented within a specific application that
+determines their classification.
+Let’s look at the two types of intelligence first.
+Task automation. These applications perform repetitive,
+structured tasks that require relatively low levels of intelligence.
+They’re designed to follow a set of rules or execute a
+predetermined sequence of operations based on a given input,
+but they can’t handle complex problems such as nuanced
+customer requests. An example would be a system that
+automatically sends a welcome email to each new customer.
+Simpler chatbots, such as those available through FacebookMessenger and other social media providers, also fall into this
+category. They can provide some help to customers during basic
+interactions, taking customers down a defined decision tree, but
+they can’t discern customers’ intent, offer customized responses,
+or learn from interactions over time.
+Machine learning. These algorithms are trained using large
+quantities of data to make relatively complex predictions and
+decisions. Such models can recognize images, decipher text,
+segment customers, and anticipate how customers will respond to
+various initiatives, such as promotions. Machine learning already
+drives programmatic buying in online advertising, e-commerce
+recommendation engines, and sales propensity models in
+customer relationship management (CRM) systems. It and its
+more sophisticated variant, deep learning, are the hottest
+technologies in AI and are rapidly becoming powerful tools in
+marketing. That said, it’s important to clarify that existing
+machine-learning applications still just perform narrow tasks and
+need to be trained using voluminous amounts of data.
+Now let’s consider stand-alone versus integrated AI.
+Stand-alone applications. These are best understood as clearly
+demarcated, or isolated, AI programs. They’re separate from the
+primary channels through which customers learn about, buy, or
+get support for using a company’s offerings, or the channels
+employees use to market, sell, or service those offerings. Put
+simply, customers or employees have to make a special trip
+beyond those channels to use the AI.
+Consider the color-discovery app created by Behr, the paint
+company. Using IBM Watson’s natural language processing and
+Tone Analyzer capabilities (which detect emotions in text), the
+application delivers several personalized Behr paint-color
+recommendations that are based on the mood consumers desire
+for their space. Customers use the app to short-list two or three
+colors for the room they intend to paint. The actual sale of paint is
+then executed outside the app, although it does allow a
+connection to order from Home Depot.Integrated applications. Embedded within existing systems,
+these AI applications are often less visible than stand-alone ones
+to the customers, marketers, and salespeople who use them. For
+example, machine learning that makes split-second decisions
+about which digital ads to offer users is built into platforms that
+handle the entire process of buying and placing ads. Netflix’s
+integrated machine learning has offered customers video
+recommendations for more than a decade; its selections simply
+appear in the menu of offerings viewers see when they go to the
+site. If the recommendation engine were stand-alone, they would
+need to go to a dedicated app and request suggestions.
+Makers of CRM systems increasingly build machine-learning
+capabilities into their products. At Salesforce, the Sales Cloud
+Einstein suite has several capabilities, including an AI-based
+lead-scoring system that automatically ranks B2B customer leads
+by the likelihood of purchase. Vendors like Cogito, which sells AI
+that coaches call center salespeople, also integrate their
+applications with Salesforce’s CRM system.Combining the two types of intelligence and two types of
+structure yields the four quadrants of our framework: stand-alone
+machine-learning apps, integrated machine-learning apps, stand-
+alone task-automation apps, and integrated task-automation
+apps.
+Understanding which quadrant applications fall into can help
+marketers plan and sequence the introduction of new uses.
+A Stepped Approach
+We believe that marketers will ultimately see the greatest value by
+pursuing integrated machine-learning applications, though
+simple rule-based and task-automation systems can enhance
+highly structured processes and offer reasonable potential for
+commercial returns. Note, however, that nowadays task
+automation is increasingly combined with machine learning—to
+extract key data from messages, make more-complex decisions,
+and personalize communications—a hybrid that straddles
+quadrants.
+Stand-alone applications continue to have their place where
+integration is difficult or impossible, though there are limits to
+their benefits. Therefore, we advise marketers to move over time
+toward integrating AI within current marketing systems rather
+than continue with stand-alone applications. And indeed, many
+companies are heading in that overall direction; in the 2020
+Deloitte survey, 74% of global AI executives agreed that “AI will be
+integrated into all enterprise applications within three years.”
+Getting Started
+For firms with limited AI experience, a good way to begin is by
+building or buying simple rule-based applications. Many firms
+pursue a “crawl-walk-run” approach, starting with a stand-alone
+non-customer-facing task-automation app, such as one that
+guides human service agents who engage with customers.
+Once companies acquire basic AI skills and an abundance of
+customer and market data, they can start moving from task
+automation to machine learning. A good example of the latter is
+Stitch Fix’s clothing-selection AI, which helps its stylists curate
+offers for customers and is based on their self-reported style
+preferences, the items they keep and return, and their feedback.
+These models became even more effective when the company
+began to ask customers to choose among Style Shuffle photos,
+creating a valuable source of new data.New sources of data—such as internal transactions, outside
+suppliers, and even potential acquisitions—are something
+marketers should look for constantly, since most AI applications,
+particularly machine learning, require vast amounts of high-
+quality data. Consider the machine-learning-based pricing model
+that the charter jet firm XO used to increase its EBITDA by 5%:
+The key was to tap external sources for data on the supply of
+private jets and on factors that affect demand, such as major
+events, the macroeconomy, seasonal activity, and the weather.
+The data XO uses is publicly available, but it’s a good idea to also
+seek proprietary sources whenever possible, because models
+using public data can be copied by competitors.
+As companies become more sophisticated in their use of
+marketing AI, many fully automate certain types of decisions,
+taking humans out of the loop entirely. With repetitive, high-
+speed decisions, such as those required for programmatic ad
+buying (where digital ads are served up almost instantaneously to
+users), this approach is essential. In other domains AI may only
+present recommendations to a person faced with a choice—for
+example, suggesting a movie to a consumer or a strategy to a
+marketing executive. Human decision-making is typically
+reserved for the most consequential questions, such as whether to
+continue a campaign or to approve an expensive TV ad.
+Firms should move to more-automated decisions whenever
+possible. We believe this is where the greatest returns from
+marketing AI will be found.
+Challenges and Risks
+Implementing even the simplest AI applications can present
+difficulties. Stand-alone task-automation AI, despite its lower
+technical sophistication, can still be hard to configure for specific
+workflows and requires companies to acquire suitable AI skills.
+Bringing any kind of AI into a workflow demands careful
+integration of human and machine tasks so that the AI augments
+people’s skills and isn’t deployed in ways that create problems.
+For instance, while many organizations use rule-based chatbots toautomate customer service, less-capable bots can irritate
+customers. It may be better to have such bots assist human agents
+or advisers rather than interact with customers.
+As companies adopt more-sophisticated and integrated
+applications, other considerations arise. Incorporating AI into
+third-party platforms, in particular, can be tricky. A case in point
+is offered by Procter & Gamble’s Olay Skin Advisor, which uses
+deep learning to analyze selfies that customers have taken, assess
+their age and skin type, and recommend appropriate products. It
+is integrated into an e-commerce and loyalty platform, Olay.com,
+and has improved conversion rates, bounce rates, and average
+basket sizes in some geographies. However, it has been harder to
+integrate it with retail stores and Amazon, third parties that
+account for a high percentage of Olay’s sales. The Skin Advisor is
+not available on Olay’s extensive store site on Amazon, hampering
+the brand’s ability to deliver a seamless, AI-assisted customer
+experience there.
+Finally, companies must keep customers’ interests top of mind.
+The smarter and more integrated AI applications are, the more
+worries customers may have about privacy, security, and data
+ownership. Customers may be skittish about apps that capture
+and share location data without their knowledge or about smart
+speakers that may be eavesdropping on them. In general,
+consumers have shown a willingness (even eagerness) to swap
+some personal data and privacy in exchange for the value that
+innovative apps can provide. Concerns about AI applications like
+Alexa seem to be dwarfed by appreciation of their benefits. Thus
+the key for marketers as they expand the intelligence and reach of
+their AI is to ensure that its privacy and security controls are
+transparent, that customers have some say over how their data is
+collected and used, and that they get fair value from the firm in
+exchange. To guarantee those protections and maintain
+customers’ trust, CMOs should establish ethics and privacy review
+boards—with both marketing and legal experts—to vet AI
+projects, particularly those that involve customer data or
+algorithms that may be prone to bias, such as credit scoring.. . .
+While marketing AI holds enormous promise, we urge CMOs to be
+realistic about its current capabilities. Despite the hype, AI can
+still accomplish only narrow tasks, not run an entire marketing
+function or process. Nevertheless, it’s already offering substantial
+benefits to marketers—and in fact is essential in some marketing
+activities—and its capabilities are rapidly growing. We believe
+that AI will ultimately transform marketing, but it’s a journey that
+will take decades. The marketing function and the organizations
+that support it, IT in particular, will need to pay long-term
+attention to building AI capabilities and addressing any potential
+risks. We urge marketers to start developing a strategy today to
+take advantage of AI’s current functionality and its likely future.
+A version of this article appeared in the July–August 2021 issue of Harvard
+Business Review.
+Thomas H. Davenport is the President’s
+Distinguished Professor of Information
+Technology and Management at Babson
+College, a visiting scholar at the MIT Initiative
+on the Digital Economy, and a senior adviser to
+Deloitte’s AI practice. He is a coauthor of All-in
+on AI: How Smart Companies Win Big with
+Artificial Intelligence (Harvard Business Review
+Press, 2023).
+Abhijit Guha is an associate professor of
+marketing at the Darla Moore School of
+Business, University of South Carolina.
+Dhruv Grewal holds the Toyota Chair in
+Commerce and Electronic Business and is a
+AG
+DGprofessor of marketing at Babson College. He is
+a coauthor of Marketing and Retailing
+Management and the author of Retail
+Marketing Management: The 5 Es of Retailing.
+Recommended For You
+Don't Buy the Wrong Marketing Tech
+PODCAST
+What We Still Need to Learn about AI in Marketing - and Beyond
+Why You Aren't Getting More from Your Marketing AI
+How Generative AI Could Disrupt Creative Work

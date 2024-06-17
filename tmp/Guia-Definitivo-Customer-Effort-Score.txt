@@ -1,0 +1,865 @@
+1Voltar ao sumárioEntenda c omo o esforço do 
+client e impacta seu negóci oAlgumas dicas 
+para leitura
+Todos os itens do Sumário são links: 
+ao clicar nos títulos, você irá direta-
+mente para aquela parte do conteú-
+do.
+Quando o texto estiver assim, signifi-
+ca que ele é um link e você poderá 
+ser direcionado para outra página ou 
+conteúdo externo.
+Estes são os botões para compar-
+tilhar o ebook nas principais mídias 
+sociais.
+Gostou? Aproveite para utilizá-los 
+sempre que desejar, compartilhando 
+partes específicas que você achar 
+mais interessantes!Sumário
+Introdução ..................................................................... 04
+O Customer Effort Score ............................................. 08
+Como (e por que) o CES surgiu?................................................... 10
+O que é CES? ..................................................................................... 11
+O antigo CES: como tudo começou ............................................ 12
+O CES 2.0: entenda a evolução dessa métrica ........................ 14
+Como calcular o CES no seu negócio? ....................................... 15
+Quando medir o esforço do cliente? ........................................... 17
+Mas eu já meço NPS, preciso medir  o CES também? ........... 19
+Por que utilizar o CES? .................................................................... 23
+Como implementar o CES ........................................... 24
+Primeiros passos ............................................................................... 25
+Passo 1: Identifique os pontos de contato ................................. 26
+Passo 2: Escolha os canais ............................................................ 26
+Passo 3: Envie sua pesquisa .......................................................... 27
+Passo 4: Mande a pergunta de acompanhamento .................. 29
+Passo 5: Otimize a pesquisa .......................................................... 31
+Análise de Resultados .................................................. 33
+O que é uma boa pontuação CES? .............................................. 34
+Caso seja menor que 5: .................................................................. 35
+Caso seja maior que 5: .................................................................... 36
+Como aumentar uma pontuação baixar? ................................... 37
+Qual a taxa de resposta ideal? ...................................................... 40
+Como aumentar minha taxa de resposta? ................................. 42
+Compartilhando os resultados com seu time ........................... 44
+Melhorando sua pontuação CES ................................ 46
+NPS e CES são medidas complementares ................................ 51
+ROI da experiência sem esforço ................................................... 52
+Conclusão ........................................................................................... 53IntroduçãoCapítulo 15Voltar ao sumárioSe você já trabalha com atendimento ao cliente há algum tempo, 
+provavelmente tem se familiarizado com duas siglas importantes: 
+CSAT  e NPS. Essas duas métricas de sucesso são as mais comumen-
+te usadas em empresas que procuram analisar seus serviços a clien -
+tes de forma mensurável. Apesar de ambas solicitarem que clientes 
+classifiquem o serviço recebido, vale lembrar que cada uma delas 
+tem seu propósito:
+Pontuação de Satisfação do 
+Cliente (CSAT)
+Solicita ao cliente que classifique 
+a qualidade de uma experiência 
+específica, como o uso de um 
+chat de serviço ou a visita a uma 
+loja.
+Net Promoter Score (NPS)
+Mensura o grau de lealdade dos 
+clientes em uma pergunta de 0 a 
+10, sobre o seu nível de recomen-
+dação para amigos e familiares.  6Voltar ao sumárioAmbas as métricas são populares por um motivo: elas dão às empre -
+sas insights vitais sobre o desempenho e a satisfação de cada um 
+de seus clientes. Com esses insights em mãos fica mais fácil tomar 
+decisões assertivas para a melhoria do serviço, produto ou até mes-
+mo de processos. Ou seja, a captação desses dados de satisfação 
+de clientes atuais, acaba norteando o negócio em questão para um 
+caminho mais benéfico tanto para clientes, quanto para a solução em 
+si.
+De qualquer forma, apesar de serem importantes, essas métricas não 
+são capazes de prover uma visão completa da relação entre clientes 
+e empresa. O ponto principal que acaba passando despercebido por 
+elas representa uma parte importante da equação da experiência do 
+cliente:
+Qual o esforço que 
+seus clientes fazem 
+para solucionar 
+seus problemas?“
+Voltar ao sumário7Voltar ao sumárioE ainda nesse assunto, surge a dúvida: no quesito cliente, é melhor 
+encantar ou tornar sua vida mais fácil?
+Foi esse o questionamento que originou o estudo da terceira métrica 
+que veio para completar essa tríade: a Customer Effort Score (Pon-
+tuação de Esforço do Cliente). Neste estudo, vamos nos aprofundar 
+nesse questionamento referente ao esforço despendido por parte 
+dos seus clientes e como isso impacta o seu relacionamento com 
+eles.
+Todas as informações deste 
+material têm como base o livro 
+The Effortless Experience de 
+Matthew Dixon, Nick Toman e 
+Rick Delisi, além dos materiais 
+complementares dispostos nas 
+referências.
+O livro em questão documen-
+ta a pesquisa feita com mais 
+de 97.000 consumidores com 
+o objetivo de comprovar que 
+você precisa reduzir o esforço 
+em sua experiência de serviço 
+agora mesmo. E é esse o as-
+sunto que iremos debater nas 
+próximas páginas.
+Vamos lá?8Voltar ao sumárioO Customer
+Effort Score (CES)Capítulo 29Voltar ao sumárioEm resumo, a Customer Effort Score, em português Pontuação do 
+Esforço do Cliente, é uma métrica de pesquisa utilizada para medir 
+o nível de esforço que um cliente precisou dedicar para resolver um 
+problema específico relacionado a sua empresa.
+Desde a sua introdução no mercado, a CES vem ganhando populari-
+dade.
+O motivo?
+Ela coloca o foco no desempenho da 
+empresa quando se trata de lidar com 
+os problemas de seus clientes.
+910Voltar ao sumárioO conceito de esforço do cliente ganhou atenção em 2010, quando 
+a Harvard Business Review publicou um artigo intitulado “Pare de 
+tentar agradar seus clientes ”. Nela, os criadores da métrica explicam 
+que as empresas devem se concentrar menos em “encantar os clien-
+tes” e mais em resolver problemas de maneira rápida e eficaz.
+Nesse estudo, a HBR descobriu que as experiências mais frustrantes 
+dos clientes eram aquelas que envolviam múltiplos canais e intera -
+ções, como:
+Esforço financeiro: “Eu tive que pagar os custos de envio para 
+receber o meu item.”
+Tempo de espera: “Eu tive que esperar na fila por 30 minutos”.
+Esforço físico: “Meu pacote foi entregue no andar térreo e eu 
+tive que carregá-lo para cima.”
+Esforço mental: “Demorei 15 minutos para encontrar o corredor 
+que eu estava procurando.”
+Esforço de comunicação: “O funcionário não foi nada agradá-
+vel”.
+Re-trabalho: “Eu tive que preencher meu endereço várias vezes 
+durante o pedido.”
+Em outras palavras, quanto mais esforço um cliente fizer, maior a 
+chance de ele desistir de comprar a sua solução e abandonar sua 
+marca.Como (e por que) o CES surgiu?11Voltar ao sumárioA CES é um tipo de pesquisa quantitativa que solicita que seu clien-
+te analise o nível de esforço que ele ou ela precisou dedicar para 
+solucionar alguma situação relacionada ao seu negócio. Nessa pes-
+quisa, é feita uma pergunta simples e clara ao cliente, como:O que é o CES?
+A essa questão, o cliente deve selecionar a alternativa que mais 
+combinar com sua experiência. Essas alternativas podem ser apre-
+sentadas em uma escala de 1 a 5, de acordo com a antiga CES; ou 
+em uma escala de 1 a 7, de acordo com seu novo formato, a CES 2.0.
+12Voltar ao sumárioQuando a CES foi criada, em 2010, ela operava em uma escala de 1 a 
+5. Seu foco era no tamanho do esforço dedicado para a resolução de 
+um problema. Veja um exemplo dela a seguir: 
+Note que nesse primeiro momento, a CES entendia que cada uma 
+das alternativas representava uma pontuação, sendo assim:
+Muito baixo = 1
+Baixo = 2
+Neutro = 3
+Alto = 4
+Muito alto = 5O antigo CES: como tudo começou!
+13Voltar ao sumárioEsse tipo de classificação pode parecer fazer sentido à
+primeira vista, mas ao analisar a métrica, você perceberia que a 
+pontuação mais alta (5), é também a mais negativa (nível de esforço 
+considerado “Muito alto”).
+Ou seja, quanto mais alta sua pontuação, pior para sua empresa. 
+Afinal, quanto mais esforço seu cliente fizer, menos satisfeito ele se 
+sente com a situação pela qual passou.
+Além desse problema com essa
+métrica inicial, houve mais um
+detalhe que rapidamente ficou
+defasado: a palavra esforço podia 
+significar algo muito relativo em 
+diferentes idiomas e culturas. Isso 
+dificultava a comparação dos 
+resultados e diminuia a
+assertividade da
+CES antiga.
+13Voltar ao sumário14Voltar ao sumárioEm 2013 a CES foi reformulada para uma versão nova que inclusive, 
+ganhou uma escala maior: de 1 a 7. Além disso, o que também mu-
+dou foi o tipo de pergunta feita. Agora, a pergunta é voltada ao modo 
+como a empresa agiu em determinado momento. Isso faz com que a 
+comparação entre respostas seja mais realista.
+A mudança principal ocasionada pela troca do formato da pergunta 
+foi em relação à pontuação de cada resposta. Na nova CES, a res -
+posta mais positiva (Concordo Totalmente) é a que recebe a pontua-
+ção mais alta (7).
+Por esses motivos, a nova versão da métrica se mostrou muito mais 
+confiável, menos propensa a erros de interpretação e mais fácil e 
+direta. Veja só o resultado:O CES 2.0: Entenda a evolução
+dessa métrica!
+15Voltar ao sumárioHá várias maneiras de calcular o esforço que seu cliente dedica para 
+resolver uma situação relacionada à sua empresa. Inclusive, você 
+pode adaptar este método para que ele faça mais sentido na sua 
+situação por meio de perguntas bem específicas do seu negócio.
+Partindo do princípio que estamos falando da versão 2.0, iremos falar 
+especificamente sobre a média da pontuação, que é a abordagem 
+mais simples.
+Tudo o que você precisa fazer é obter a média ponderada de todas 
+as pontuações e comparar quão perto (ou longe) você está da pon -
+tuação 7. Quanto mais perto do 7 você estiver, mais saudável está 
+a relação dos seus clientes com o seu negócio, pois isso quer dizer 
+que eles precisam dedicar menos esforço para solucionar seus
+problemas.Como calcular a CES
+no seu negócio?16Voltar ao sumárioComo estamos falando de média ponderada, você
+precisa calcular todas as ocorrências!Lembre-se17Voltar ao sumárioA pergunta do CES pode ajudar você a coletar dados significativos 
+em qualquer estágio da jornada do cliente - e ela se torna especial-
+mente útil após os seguintes pontos de contato com o cliente:
+Interações de atendimento ao cliente (telefone, chat ao vivo, 
+e-mail, mídia social);
+Compras ou interações de vendas;
+Inscrições em programas ou serviços;
+Visitas ao site;
+Treinamentos e onboarding;
+Checkouts on-line;
+Reuniões com clientes ou consultas;Quando medir o esforço do cliente?18Voltar ao sumárioComo mencionamos acima, o esforço do cliente é particularmente 
+relevante se você e seu time oferecem suporte a seus clientes em 
+diversos canais. Na verdade, o conceito moderno de serviço omni-
+-channel, é reduzir o atrito entre os canais de serviço e minimizar o 
+esforço do cliente.
+Essencialmente, isso quer dizer que você obtém uma nova camada 
+de feedback do cliente. Depois de começar a coletar feedback de 
+seus clientes, você terá resultados para comparar com outras métri -
+cas como CSAT  e NPS.
+Ou seja, você poderá cruzar esses resultados para entender melhor 
+sua situação como um todo. Com o passar do tempo (e o acúmulo 
+desses dados) você terá cada vez mais contexto para identificar os 
+processos e canais que estão performando menos e tomar decisões 
+certeiras em relação a eles.19Voltar ao sumárioUma das perguntas mais frequentes que recebemos é:
+“Qual é a métrica certa para o meu negócio?”
+A resposta provavelmente é: todas. Afinal, você precisa entender 
+a situação do seu negócio de diferentes formas e em diversas si -
+tuações. Mas talvez você queria começar por uma apenas, então é 
+melhor entender o que cada uma delas mede e quais seus objetivos 
+de análise.
+Na tabela abaixo, resumimos os principais elementos para cada tipo 
+de medição para esclarecer as diferenças entre as três medidas de 
+satisfação:Mas eu já meço NPS, preciso
+medir o CES também?
+20Voltar ao sumário
+21Voltar ao sumárioAo comparar as diferentes métricas de satisfação do cliente, po-
+demos concluir que cada uma delas tem sua própria aplicabilidade, 
+com pontos fortes e limitações. É por isso que elas se complemen -
+tam e dão mais insights quando aplicadas juntas.
+Por exemplo, poderíamos imaginar uma pesquisa para medir a satis-
+fação entre os participantes de um evento recente que você organi -
+zou.
+Ao criar uma pesquisa de feedback, você pode pedir ao entrevistado 
+que preencha algumas perguntas referentes a sua satisfação (CSAT), 
+divididas em diferentes áreas do evento (satisfação com relação ao 
+conteúdo, alimentação, qualidade dos palestrantes, localização, etc.). 
+21Além disso, você poderia fazer a 
+pergunta da CES para avaliar os 
+esforços que seus clientes precisa-
+vam para se inscrever nesse even-
+to. No final da pesquisa, você pode 
+perguntar qual é a probabilidade de 
+seus clientes recomendarem o even-
+to para amigos e colegas de traba-
+lho (NPS).
+Aí sim estamos falando em uma for-
+ma completa de medir e analisar a 
+satisfação de seus clientes.22Voltar ao sumárioSe você já aplica uma dessas métricas isoladamente, talvez já tenha 
+se deparado com a seguinte situação:
+A pontuação do NPS está alta, mas ainda 
+assim você está perdendo um número
+considerável de clientes em alguns
+estágios da jornada de compra.
+Então, você se pergunta: o que está
+acontecendo?
+Você está com um gap na captação de dados de seus clientes. Eles 
+claramente não estão satisfeitos com algo relacionado à sua empre -
+sa - você só precisa descobrir o que é. 
+Para isso, é recomendável que você utilize outra métrica de pesquisa 
+que complemente a que você já tem usado.
+Caso você já use o NPS ou CSAT , talvez tenha chegado o momento 
+de usar a CES!
+De acordo com uma pesquisa da CEB, as organizações estão mais 
+propensas a obter clientes fiéis ao reduzir o esforço do cliente. É só 
+olhar para você mesmo no dia a dia, como cliente de um banco, por 
+exemplo. O que você quer é resolver tudo que precisar com rapidez 
+e eficácia, não é? Seu cliente quer o mesmo!
+Empresas que sabem diminuir o esforço que um cliente precisa fazer 
+acabam saindo na frente das demais. E elas se mantêm na dianteira 
+com o auxílio dos dados obtidos com o CES!23Voltar ao sumário
+A Pontuação do Esforço do Cliente fornece informações úteis sobre 
+a dificuldade que os clientes têm em realizar uma ação no seu servi -
+ço ou produto.
+A CEB descobriu que o CES é 1.8x mais preditivo na
+medição da lealdade do cliente do que o CSAT ,
+e 2x mais preditivo do que o NPS.
+Isso mostra que a maioria das equipes de atendimento ao cliente 
+estão focadas em medir a qualidade de seu trabalho (normalmente 
+com pesquisas de satisfação do cliente).Por que utilizar o CES?
+No entanto, uma pesqui-
+sa de satisfação do clien-
+te nem sempre indica 
+com clareza os pontos 
+específicos que precisam 
+ser melhorados.
+Além disso, as pontua-
+ções de satisfação do 
+cliente possuem dificul-
+dade em prever ações 
+futuras, pois há pouca 
+relação entre satisfação 
+e lealdade.Como implementar
+o CES?Capítulo 325Voltar ao sumárioAntes de aplicar a métrica CES, é preciso entender que ela não é 
+utilizada para medir a experiência geral do serviço, para isso temos 
+outras métricas como CSAT  e NPS, de acordo com a tabela que já 
+apareceu por aqui.
+O ponto principal dessa métrica é medir o nível de esforço em inte-
+rações específicas para otimizar os pontos de contato da sua empre-
+sa com os seus clientes.
+Alinhando isso, vamos ao que interessa:Primeiros passos
+Voltar ao sumário2126Voltar ao sumárioPasso 1: Pontos de contato
+O primeiro passo para você implementar o CES é verificar 
+quais pontos de contato você deseja medir. A pergunta 
+pode ajudar você a coletar insights mais significativos em 
+qualquer estágio da jornada do cliente, como por exemp-
+lo:
+Interações de atendimento ao cliente (telefone, chat 
+ao vivo, e-mail, mídia social);
+Onboarding;
+Treinamentos;
+Compras ou interações de vendas;
+Inscrições em programas ou serviços;
+Visitas ao site;
+Check outs on-line; e
+Reuniões com clientes ou consultas.
+Então, em que momento da jornada de compra dos seus 
+clientes você quer medir o CES? Faça sua análise e anote 
+aí o momento escolhido antes de ir ao passo 2!
+Passo 2: Escolha os canais
+Após escolher os pontos de contato que você deseja 
+medir, é hora de pensar como você deseja coletar esses 
+feedbacks.27Voltar ao sumárioDependendo da plataforma que você utiliza, a pergunta 
+será enviada de uma forma. Caso você use mais de um 
+canal de contato com o cliente nesse momento da jorna-
+da de compra, teste! Testar é o único jeito de identificar o 
+canal que possui a maior taxa de resposta.
+Ou seja, teste solicitar uma resposta para sua pergunta 
+por e-mail, SMS, link web, script ou o que mais for possív-
+el! Lembre-se de que quando você dá mais opções para 
+seus usuários, você se torna mais acessível para cada um 
+deles.
+Passo 3: Envie sua pesquisa
+O CES é geralmente medido transacionalmente. Isso sig-
+nifica que o momento de pedir feedback ao cliente é após 
+o término de cada ciclo.
+Com isso em mente, você deve definir sua automação e 
+enviar a pesquisa após um evento específico que você 
+escolher. Consideremos que você tenha decidido por cap-
+tar dados logo após a resolução de um ticket de suporte 
+Nesse caso, você tem duas opções de momentos para 
+enviar sua pesquisa:
+1. Imediatamente após a resolução: Você pode 
+definir que sua pesquisa de pontuação de esforço do 
+cliente seja enviada assim que o ticket for marcado 
+como resolvido. Isso garante que os clientes não se 
+esqueçam da experiência e a resposta pode ser mais 
+sincera. 28Voltar ao sumárioUm ponto a cuidar nesse momento é que para envi-
+ar a pesquisa imediatamente após a resolução, seu 
+processo de abertura e resolução de tickets precisa 
+estar bem redondo. Ou seja, você precisa garantir 
+que todos os tickets marcados como resolvidos real-
+mente tenham sido 100% resolvidos. Do contrário, 
+o cliente em questão pode acabar recebendo a so-
+licitação para responder a sua CES antes de ter tido 
+uma experiência completa e satisfatória - e isso pode 
+prejudicar seus dados.
+2. 24 horas pós a resolução: Enviar a pesquisa um 
+dia após o fechamento do ticket significa que os 
+clientes têm mais tempo para reabrir o ticket ou con-
+firmar que tudo está funcionando antes de receber a 
+solicitação de resposta à pesquisa. Isso também im-
+pede que os clientes recebam muitos e-mails segui-
+dos e talvez ignorem a pesquisa. O ponto menos 
+positivo é que a emoção de ter sua solicitação re-
+spondida prontamente pode já ter passado após 24h 
+e o cliente em questão pode responder à pergunta 
+de forma mais branda. 
+Das duas opções acima, o ideal é testar para ver qual tem 
+as melhores taxas de resposta. Normalmente as empresas 
+costumam utilizar a segunda opção descrita, mas você 
+pode escolher a que faz mais sentido para sua empresa!29Voltar ao sumárioPasso 4: Pergunta de acompanhamento
+Seu cliente já respondeu a sua pergunta principal da CES 
+sobre o quanto sua empresa o ajudou a encontrar uma 
+solução para o seu problema - agora é a hora de solicitar 
+um feedback mais qualitativo para enriquecer ainda mais 
+sua pesquisa. A pergunta de acompanhamento oferece 
+ao seu cliente a oportunidade de se expressar melhor em 
+relação a como foi a experiência com sua solução; é por 
+isso que muitos times de sucesso do cliente consideram a 
+pergunta de acompanhamento a mais importante de toda 
+a pesquisa!
+Por si só, métrica CES vai lhe dar uma visão geral do 
+esforço que o seu cliente teve para conseguir executar 
+determinada ação. Já a recomendação para a pergunta 
+de acompanhamento é criar uma única questão que seja 
+aberta.
+Embora seja uma ótima oportunidade para coletar feed-
+back adicional, você também deve garantir que o cliente 
+saiba que a avaliação inicial já foi capturada, e que o feed-
+back é opcional. Por isso, sugere-se que antes da per-
+gunta de acompanhamento, você agradeça ao feedback 
+já enviado e, então, convide o cliente para um feedback 
+adicional. 
+30Voltar ao sumárioVocê vai encontrar muitas respostas em várias categorias. 
+Por isso, sugere-se classificar as respostas em tags, assim 
+você irá conseguir organizar boa parte dessas respostas 
+em forma de atributos - e isso facilitará a análise de dados. 
+Aqui vão alguns exemplos de tags que você pode utilizar 
+para categorizar seus feedbacks qualitativos:
+Tom geral da resposta:
+Amigável;
+Construtiva;
+Chateado; ou
+Com raiva.
+Sugestões para melhoria:
+Produto;
+Serviço; 
+Suporte ao cliente;
+Preços; ou
+Entrega.
+Problemas específicos levantados:
+Produto;
+Serviço;
+Suporte ao cliente;
+Preços; ou
+Entrega.
+Claro que suas categorias devem ser escolhidas de acor-
+do com a estrutura da sua solução e da sua pergunta. 
+Então, adapte as tags de acordo com o que fizer mais 
+sentido para a sua situação atual.31Voltar ao sumárioPasso 5: Otimize a pesquisa
+Você já conseguiu captar os dados da sua pergunta quan-
+titativa e também da sua pergunta de acompanhamento 
+- agora é hora de analisar os resultados! Você perceberá 
+que esse passo de análise deverá ser feito periodica-
+mente. Algumas empresas fazem o acompanhamento se-
+manal, outras mensalmente ou até trimestral. Você poderá 
+definir a cadência que mais faz sentido para você.
+Como você já deve imaginar, a análise é a etapa funda-
+mental para você identificar quais pontos de contato estão 
+debilitados e planejar melhorias sobre esses feedbacks. É 
+claro que captar esses dados possui um objetivo final: agir 
+para melhorar seu relacionamento com o seu cliente. Por 
+isso, essa etapa final exige três ações principais:
+Analise seus resultados: o que os números dizem 
+sobre sua situação?
+Aja com base nos resultados: o que podemos fazer 
+para melhorar a situação?
+Otimize da pesquisa: como podemos levantar dados 
+ainda mais assertivos?
+Um exemplo de ação com base nos resultados obtidos 
+seria:
+Digamos que você tenha identificado que seus clientes 
+estão dando uma nota de muito esforço para uma deter-
+minada ação. É hora de mobilizar a equipe que cuida des-
+sa etapa do processo para melhorar aquela interação.32Voltar ao sumárioDigamos que você tem um problema sério sobre esforço do 
+cliente, e eles não estão satisfeitos com a sua solução. 
+Após você realizar as melhorias naquele ponto de contato 
+em que seus clientes estavam com dificuldade, 
+você vai conseguir identificar em quais
+pontos o seu cliente está com dificuldades
+no NPS e CSAT.
+Desse modo, você consegue perceber como o 
+esforço do seu cliente, influenciou a lealdade e 
+a satisfação de seus clientes.Lembra que comentamos sobre a importância de usar 
+mais de uma métrica em seu negócio? Ter mais de uma 
+métrica ajudará você a realizar as análises com mais pro-
+priedade através do cruzamento de dados.
+Veja o exemplo a seguir:Análise de
+resultadosCapítulo 434Voltar ao sumárioComo você já pode imaginar, não há uma regra definida sobre uma 
+boa pontuação de esforço do cliente justamente por ter diferentes 
+formas e etapas para medir essa pontuação. Em geral, você deseja 
+mover todas as classificações de clientes para o mínimo de esforço 
+possível, então, quanto mais alta sua pontuação, melhor! Inclusive, 
+aconselhamos que você mantenha a sua pontuação acima de 5.
+Apesar do CES não ser uma métrica para você medir e estampar em 
+suas campanhas como o NPS, você vai conseguir identificar quais 
+pontos o seu cliente está com dificuldades, e a partir desse feedba -
+ck, sua equipe deve realizar as melhorias. Em seguida, vamos exem-
+plificar algumas ações que você pode tomar de acordo com seus 
+resultados.O que é uma boa pontuação CES?
+34
+ Voltar ao sumário35Voltar ao sumárioDê uma olhada a fundo em seus processos e veja o que você 
+pode fazer para diminuir o esforço do cliente. Dica: fazer a mes-
+ma jornada de seus usuários é um bom começo para identificar 
+possíveis melhorias. Analise cada um dos pontos de maior atrito 
+e faça um levantamento do que pode ser feito para melhorar 
+cada um deles.
+Se o resultado for baixo, mas o engajamento com a pesquisa 
+for baixo também, avalie se você está enviando a pesquisa pelo 
+canal ou momento certo.
+Caso você esteja medindo o NPS e CSAT , e as métricas também 
+apresentem baixa pontuação, reconsidere toda a jornada de 
+compra do seu cliente, identifique os gaps de interação e apon-
+te ações de melhorias para aplicar durante o próximo período.Caso o resultado seja
+menor que 5
+35Voltar ao sumário36Voltar ao sumárioPrimeiramente: parabéns! Se você está obtendo boas pontu-
+ações de esforço do cliente, é porque você e seu time estão 
+fazendo um ótimo trabalho para manter seus clientes fiéis.
+Agora, lembre-se de que manter os números altos é ainda mais 
+importante que conquistá-los em um primeiro momento. Por 
+isso, continue acompanhando seus resultados. Você deve se 
+preocupar em manter um processo de melhoria contínua da 
+experiência.
+Mais um ponto essencial é compartilhar com o seu time os re-
+sultados da pesquisa. Esse tipo de feedback é muito importante 
+para que seu time saiba que está fazendo um ótimo trabalho.
+No final, o que realmente importa é que os resultados dessas pontu -
+ações sejam transformados em pontos acionáveis   para a sua empre-
+sa trabalhar. Todas as três métricas citadas neste material ajudarão 
+você com isso desde que elas sejam consideradas como um meio 
+para medir e melhorar a experiência do cliente.Caso o resultado seja
+igual ou maior que 5
+36Voltar ao sumário37Voltar ao sumárioDigamos que você já esteja medindo sua CES há seis meses. Duran-
+te esse período, você identificou pontuações baixas e tem tentado 
+fazer alterações para melhorá-las. Porém, elas ainda não estão su-
+bindo da maneira como você gostaria. Não se preocupe, trouxemos 
+aqui algumas perguntas que você e seu time podem usar como norte 
+para tomar ações que irão ajudar a levantar essa pontuação!
+Para começar, tente responder a perguntas como:
+Há algum momento na jornada de compra em que meus clien-
+tes, em geral,  não conseguem realizar uma interação no meu 
+serviço? Por quê?
+Como está a interface/produto/serviço que eu estou oferecen -
+do? Meus clientes entendem o que devem fazer em cada etapa? 
+Caso não entendam, o acesso para solicitar ajuda está claro?
+Os clientes estão alegando dificuldade em um ou mais canais? 
+Quais canais são esses? Como faço para que sua jornada nesse 
+canal fique mais simples? O acesso à solicitação de ajuda está 
+claro nesse canal?
+Existe alguma barreira de idioma que faz com que trabalhem 
+mais para resolver o problema? Existe alguma barreira na inter-
+face que dificulta a interação?Como aumentar uma
+pontuação baixa?38Voltar ao sumárioÉ importante entender que o esforço do seu cliente em cada etapa 
+de interação pode ser diferente de outras empresas, por isso adapte 
+essas perguntas de acordo com a realidade do seu negócio. Pois seu 
+produto pode ser mais complexo ou seus processos são mais difíceis 
+de solucionar. 
+Se você está medindo o esforço do cliente e ainda não está atingin -
+do a média de 5, comece examinando as interações com as menores 
+notas.
+Analise o que seus clientes responderam 
+na pergunta de acompanhamento. Essas 
+respostas mais qualitativas irão ajudar 
+você a entender melhor o que está acon-
+tecendo.
+Caso as respostas ainda não sejam o 
+suficiente para entender a situação, 
+que tal perguntar diretamente 
+para alguns clientes por telefo-
+ne? Considere também alterar 
+a pergunta para otimizar as 
+respostas recebidas!
+Voltar ao sumário39Voltar ao sumárioCom mais informações na mesa, junte seu time para levantar ideias 
+de melhorias. Provavelmente neste estágio, você terá algumas hipó-
+teses para testar e medir. Agora o próximo passo é aplicar as ações 
+que foram definidas na reunião e continuar medindo os resultados, 
+claro.
+Lembre-se, o objetivo da pesquisa CES é dar um primeiro passo 
+para aumentar a fidelidade do cliente.
+Para isso, você precisa manter essa pesquisa consistente e entender 
+onde os clientes estão sentindo atrito durante suas interações com o 
+produto.
+Se você deixar de olhar para essas métricas, será difícil ter uma visão 
+completa de onde seus clientes estão se sentindo resistentes.
+39Voltar ao sumário40Voltar ao sumárioA taxa de resposta é baseada em quantas pesquisas foram enviadas 
+e quantos clientes responderam. Por exemplo, se você enviar 100 
+pesquisas e 10 clientes responderem, sua taxa de resposta será de 
+10/100 = 10%.
+Outro fator importante é analisar a taxa de resposta, que pode mudar 
+de acordo com o canal que você escolhe. Aqui estão algumas taxas 
+médias em que você pode se basear:
+Esses números não são uma regra, pois a taxa de resposta pode 
+variar muito de acordo com o seu público e como você melhor se 
+comunica com ele. Com o tempo e a análise das suas próprias taxas 
+de resposta, você poderá ter uma ideia melhor de quais são as suas 
+taxas de resposta reais - e poderá promover ações específicas para 
+buscar aumentá-las ativamente.Qual a taxa de resposta ideal?
+E-mail: 15% a 25% SMS: 10% a 15% Web: 35% a 55%41Voltar ao sumárioPor exemplo, dependendo do assunto do e-mail que você escolher, 
+a pesquisa pode ter uma taxa maior ou menor de abertura - o que 
+pode impactar diretamente na quantidade de respostas recebidas. 
+Portanto, esse é um elemento que você pode testar para encontrar 
+as palavras que geram os melhores resultados. É importante também 
+que sua pesquisa seja responsiva e se adapte em diferentes disposi -
+tivos como desktop, tablet e celulares - isso evita o bounce e faz com 
+que os respondentes que clicam para responder consigam enviar 
+sua resposta com maior facilidade.
+Voltar ao sumário42Voltar ao sumárioExistem dois motivos principais pelos quais você pode não estar re -
+cebendo as respostas da pesquisa: ou é difícil demais para os clien -
+tes enviarem seus comentários ou eles não se sentem motivados o 
+suficiente para querer dar feedback. Para evitar isso, você precisa 
+deixar a pesquisa mais fácil de ser respondida e manter seus clientes 
+engajados com ela.
+Um jeito de analisar quão fácil a pesquisa é de responder e a otimi -
+zar nesse sentido é você mesmo respondê-la e anotar pontos de difi -
+culdade. Ao responder, você pode se questionar de diversas formas, 
+como:
+O assunto do meu e-mail ou da solicitação está bom ou parece 
+algo demorado?
+O convite para responder à pesquisa é fácil de ler?
+A pergunta é clara e direta ao ponto?
+A formatação funciona em qualquer dispositivo?
+Além disso, você pode analisar outros dados referentes ao en-
+vio, como:
+A taxa de entrega está boa? Suas pesquisas estão chegando ao 
+destinatário?
+A taxa de abertura está satisfatória? Como posso aumentá-la?
+Estou enviando a pesquisa para o público correto?Como aumentar minha
+taxa de respostas?43Voltar ao sumárioVocê também pode analisar como melhorar o engajamento do seu 
+público e melhorá-lo. Algumas melhorias que você pode fazer nesse 
+sentido são:
+Faça a pesquisa não parecer uma pesquisa. Um jeito de fazer 
+isso é inserir algumas perguntas em seus fluxos de e-mail ou 
+solicitar o feedback do cliente após ele ou ela baixar algum
+material.
+Faça uma pergunta divertida! Se você tiver um tom de voz mais 
+informal, que tal incluir gifs como possíveis respostas à sua per -
+gunta? Quanto mais diferente sua pesquisa for, mais interessan-
+te será para o seu cliente!
+Ofereça um atendimento ainda mais humanizado. Crie um rela-
+cionamento com os clientes e pergunte como eles estão, chame 
+pelo nome, mande mensagem de aniversário. Desse modo eles 
+estarão mais dispostos a ajudar você de alguma forma, pois se 
+sentirão mais conectados à sua marca.44Voltar ao sumárioTem uma frase muito boa que fala:
+“Quem não comemora resultados,
+não aprende a ganhar”.
+Por isso, compartilhar os resultados com a sua equipe é uma etapa 
+fundamental neste processo.  Afinal, é analisando o que foi feito e o 
+que foi alcançado que irá ajudar você e seu time a traçar novos - e 
+ainda mais realizáveis - objetivos.
+Para garantir que todos estejam na mesma página, defina uma perio -
+dicidade para conversar sobre os resultados. Isso ajudará seu time a 
+ter um ritmo saudável de testes e aprendizados. Então, divulgue os 
+resultados semanalmente ou quinzenalmente e crie oportunidades 
+para a discussão de resultados e novas ideias.Compartilhando os resultados
+com seu time
+44Voltar ao sumário45Voltar ao sumárioAlém disso, destaque todas as vitórias que a equipe teve para
+melhorar os resultados e o que foi feito para atingir os objetivos.
+E para finalizar, continue diminuindo a distância entre seus clientes e 
+a empresa, compartilhando comentários de clientes diretamente com 
+a sua equipe.Um ponto importante nesse processo de análise é abrir os resulta -
+dos que possam ser comparáveis. Isso pode acontecer comparando 
+resultados entre diferentes períodos, por exemplo. Para isso, forneça 
+uma breve explicação de como isso mudou em relação ao mês ante-
+rior e quais foram as maiores ocorrências que a equipe recebeu nas 
+respostas deste mês.
+Ler o feedback nas palavras do 
+seu cliente é uma ótima maneira 
+de tornar a pesquisa mais atraente 
+e palpável aos olhos da equipe!
+45Voltar ao sumário46Voltar ao sumárioMelhorando sua
+pontuação CESCapítulo 547Voltar ao sumárioUma vez captados, seus dados da pontuação CES podem ser usados 
+como você preferir! E é claro que essa pontuação deve ser acom-
+panhada e melhorada com passar do tempo. Afinal, uma pontuação 
+mais alta será o resultado de uma relação mais saudável entre seu 
+time de suporte e o próprio cliente.
+Para aumentar a sua pontuação, a Harvard Business Review (HBR) 
+sugere a melhoria de 5 aspectos principais que impactarão as taxas 
+de esforço do cliente para solucionar alguma ação. Aqui estão eles:
+1. Preveja dúvidas frequentes após 
+certos tipos de atendimento e apre-
+sente soluções de maneira proativa.
+A reabertura de tickets representa uma etapa a mais no processo de 
+solução do problema de algum cliente. Por isso, deve ser reduzida 
+ao máximo! Uma sugestão para isso é fazer um levantamento das 
+dúvidas que normalmente procedem a solução de uma dúvida inicial 
+e já responder todas elas de maneira proativa. Fez sentido? Desse 
+modo, você pode analisar threads de perguntas e respostas dos 
+atendimentos já feitos e identificar as dúvidas mais comuns relacio-
+nadas a cada tipo de pergunta primária.48Voltar ao sumárioApós entender quais as possíveis dúvidas seguintes que seu cliente 
+terá, você pode montar uma forma de comunicação que já solucione 
+essas dúvidas antecipadamente. Caso o contato seja por e-mail, por 
+exemplo, você pode enviar um email com a resolução para a dúvida 
+inicial e já incluir logo após dessa resolução uma menção a outras 
+dúvidas que podem surgir em seguida. Por exemplo, se sua equipe 
+tiver muitas perguntas de redefinição de senha e os clientes tendem 
+a enviar um e-mail novamente solicitando o link para gerenciar sua 
+conta, seu time de atendimento ao cliente pode começar a incluir 
+esse link em sua resposta inicial. Essa adição simples pode reduzir 
+significativamente o tempo de espera, economizando tempo do seu 
+time e dos clientes também.
+2. Treine seu time para compreender 
+o lado emocional do serviço.
+Gerenciar as expectativas do cliente é talvez a parte mais difícil do 
+trabalho do seu time de atendimento ao cliente. É quase impossível 
+prever como os clientes irão reagir a uma resposta oferecida, espe -
+cialmente quando você está interagindo por e-mail.
+Com seus estudos em relação a este assunto, a HBR concluiu que 
+muitos clientes ligavam para a empresa diretamente porque não 
+confiavam na informação passada pelo atendente em meio online 
+ou não tinham certeza se o atendente tinha conhecimento acerca 
+daquela questão. Tendo isso em mente, você pode treinando repre-
+sentantes para identificar o “tipo emocional” de cada cliente e, então, 
+adaptar sua resposta de acordo, ou se preciso for, entrar em contato 
+com o cliente por telefone ativamente.49Voltar ao sumário3. Torne o autoatendimento fácil e 
+prático.
+Ninguém gosta de passar um longo tempo no telefone e ser redi -
+recionado 5 vezes para diferentes atendentes, não é? Esse tipo de 
+atendimento desestimula qualquer cliente, por mais engajado que 
+ela seja no início, afinal, repetir as informações já dadas exige esfor-
+ço (e paciência!).
+Se você deseja diminuir o esforço feito pelo seu cliente nos seus 
+processos de atendimento a ele, primeiro ofereça boas ferramentas 
+de autoatendimento. As pessoas estão cada vez mais dispostas a 
+buscar respostas por conta própria e solucionar seus problemas sozi -
+nhos. Então, ofereça meios para que elas possam fazer isso! Para re-
+duzir o esforço do cliente é fundamental empoderá-lo com os recur -
+sos necessários para resolver seus problemas de forma autônoma.
+4. Registre e avalie o feedback diário 
+recebido pelo seu time.
+Dados da pesquisa são importantes, mas não são a única fonte im-
+portante de informação em que você pode se basear para melhorar 
+a experiência do seu cliente. O feedback qualitativo que seu time 
+recebe dos clientes todos os dias também pode ser riquíssimo. Mais 
+do que qualquer outra pessoa em sua empresa, o time que trabalha 
+na linha de frente com o cliente sabe bem das dificuldades que seus 
+clientes enfrentam.50Voltar ao sumárioPergunte ao seu time o que os clientes insatisfeitos estão dizendo 
+e crie um sistema para registrar esse feedback ao lado dos resulta -
+dos da pesquisa. Uma boa ideia para incentivar seus colaboradores 
+a compartilharem essas informações com mais facilidade, é criar um 
+espaço no sistema de comunicação interno utilizado (como um canal 
+no Slack, por exemplo) para que seja prático enviar o feedback que 
+ouvirem em tempo real.
+5. Reduza o esforço dos funcionários.
+Se você deseja reduzir o esforço do cliente e melhorar sua experiên-
+cia, é frequentemente necessário conceder mais autonomia ao time 
+que trabalha no atendimento. 
+Quanto mais obstáculos você colocar no caminho, mais difícil será 
+para cada membro do seu time oferecer um serviço de qualidade e 
+se sentir realmente motivado. Esse é um problema comum para as 
+equipes de serviço, especialmente em grandes empresas com pro-
+cessos burocráticos que forçam os colaboradores a obter aprovação 
+em todas as decisões.
+Alto esforço de funcionários = Alto esforço do cliente.
+Resolva o primeiro e você vai capacitar sua equipe para resolver o 
+segundo.51Voltar ao sumárioComo você deve ter percebido, o NPS e a CES são complementares. 
+A pesquisa da HBR também notou que essas pontuações se corre-
+lacionam: os clientes que indicam que tiveram que fazer pequenos 
+esforços para resolver um problema também tendem a apresentar 
+um NPS alto.
+No entanto, ainda vale a pena usar as duas medições em uma pes-
+quisa. Enquanto o NPS fornece uma imagem da recomendação do 
+cliente (algo impactado por vários aspectos da sua solução), o CES 
+indica especificamente como você executa o tratamento dos proble-
+mas do cliente (mais diretamente relacionado ao atendimento).NPS e CES são medidas
+complementares52Voltar ao sumárioO CEB publicou algumas estatísticas para explicar o ROI de reduzir o 
+esforço do cliente. Aqui está um resumo de suas descobertas:
+Impacto positivo:
+94% dos clientes que passam por uma experiência sem esforço 
+tendem a recomprar, uma ação que apenas 4% dos que passa-
+ram por um alto nível de esforço realizam.
+88% dos clientes que passam por uma experiência sem esforço 
+tendem a gastar mais, enquanto apenas 4% dos que passaram 
+por um alto nível de esforço fazem o mesmo.
+Impacto negativo:
+Apenas 9% dos clientes que passam por uma experiência sem 
+esforço tendem a reclamar, já 96% dos clientes que passam por 
+um alto nível de esforço tendem a fazer o mesmo.
+Apenas 1% dos clientes que passam por uma experiência sem 
+esforço tendem a compartilhar uma experiência ruim com os 
+amigos, já 81% dos clientes que passam por um alto nível de es-
+forço tendem a fazer o mesmo.
+ 
+Além disso, os resultados do CEB mostram que o custo para atender 
+um cliente diminui em 37% ao passar de um nível alto para um nível 
+baixo de experiência de esforço na experiência.ROI da experiência
+sem esforço53Voltar ao sumárioO uso da CES como medida de sucesso do cliente é um alicerce mui-
+to poderoso para seu time de atendimento. Com essa métrica, você 
+poderá tomar decisões para fazer com que a experiência do seu 
+cliente seja ainda mais agradável - o que é essencial para seu cresci -
+mento e expansão de mercado.
+Construir uma experiência baseada no serviço ao cliente sem esfor-
+ço vai conquistar muitos fãs para a sua empresa. Quando você se 
+concentra na eliminação de problemas e na remoção de obstáculos, 
+você se torna um melhor parceiro e fornecedor.
+O que você precisa ter em mente é que nenhuma medição única 
+consegue abordar adequadamente todos os elementos que você 
+busca solucionar no quesito satisfação e experiência do cliente. Por 
+isso, é necessário que você combine diferentes métricas de satis -
+fação do cliente e descubra, através de testes, qual delas é a mais 
+eficaz para sua empresa. 
+Para finalizar, algo que não pode sair de sua mente é: você não deve 
+se preocupar em ter a maior nota CES, você deve focar em reduzir o 
+esforço do seu cliente.
+Continue melhorando mês a mês e você verá retornos sólidos no 
+crescimento da fidelidade do seu cliente - e no crescimento da sua 
+empresa!Conclusão54Voltar ao sumáriohttps://hbr.org/2010/07/stop-trying-to-delight-your-customers
+https://hbr.org/2012/07/there-is-no-one-best-measure-o
+https://www.getfeedback.com/blog/why-customer-effort-score-ces/
+https://www.customerthermometer.com/customer-surveys/customer-
+-effort-score-calculation/
+https://www.surveypal.com/blog/what-is-a-good-customer-effort-sco-
+re-ces-surveypal
+https://mindtouch.com/resources/what-is-customer-effort-score-and-
+-how-is-it-measured
+https://www.questionpro.com/blog/customer-effort-score/
+https://www.i-scoop.eu/customer-effort-score/
+https://www.wootric.com/customer-effort-score/customer-delight/
+https://www.checkmarket.com/customer-effort-score/
+https://www.wootric.com/customer-effort-score/
+https://blog.deskmanager.com.br/customer-effort-score/
+https://www.checkmarket.com/blog/csat-ces-nps-compared/
+https://npsbenchmarks.com/blog/nps-vs-ces-whats-the-difference
+https://www.retently.com/blog/customer-satisfaction-metrics/
+http://blog.loyalnow.com/pt/nps-csat-e-ces-metricas-mais-importan-
+tes-para-cx-customer-experience/
+https://www.quicktapsurvey.com/blog/csat-ces-or-nps-which-custo-
+mer-satisfaction-metric-is-right-for-you/
+https://blog.hubspot.com/service/customer-effort-score
+https://www.wootric.com/product/ces-customer-effort-score-survey/Referências:55Voltar ao sumáriohttps://www.userlike.com/en/blog/customer-effort-score-question
+https://www.dbkay.com/announcements/customer-effort-score-ces-
+-the-one-best-question-for-transactional-surveys
+https://www.callcentrehelper.com/ideas-for-lowering-customer-ef-
+fort-113780.html
+https://blog.emolytics.com/customer-experience/customer-effort-sco-
+re-ces-kpi/
+https://www.nicereply.com/blog/customer-effort-score/
+https://study.com/academy/lesson/customer-effort-score-definition-
+-calculation.html
+https://www.callcentrehelper.com/19-tips-for-reducing-customer-ef-
+fort-32629.htm
+https://www.callcentrehelper.com/how-to-calculate-customer-ef-
+fort-94671.htm
+https://business.critizr.com/en/blog/how-to-calculate-and-analyse-ces
+https://www.interactivenw.com/2014/3-ways-to-measure-customer-sa-
+tisfaction/
+https://www.starred.com/blog/the-ultimate-guide-customer-effort-sco-
+re/
+http://customerthink.com/make-it-easy-how-to-improve-your-custo-
+mer-effort-score/
+https://www.teamhgs.com/blog/4-steps-improving-customer-effort-s-
+cores-ces
+https://www.nicereply.com/blog/benchmarking-customer-effort-score/
+https://pt.slideshare.net/kayako/what-is-customer-effort-score-and-
+-how-do-you-measure-ces
+https://help.delighted.com/article/249-how-is-ces-calculated
+https://www.wootric.com/customer-effort-score/ces-question/56Voltar ao sumáriohttps://www.gartner.com/smarterwithgartner/unveiling-the-new-and-
+-improved-customer-effort-score/
+https://heartofthecustomer.com/delight-your-customers-but-only-if-
+-they-want-to-be-delighted/
+https://futurethinking.com/wp-content/uploads/2016/05/Measuring-
+-customer-experience-Beyond-the-acronyms.pdf
+https://blogs.sap.com/2014/11/20/limitations-of-measuring-customer-
+-satisfaction/
+https://www.getfeedback.com/blog/measure-customer-satisfaction-
+-with-csat/
+https://www.nicereply.com/blog/customer-effort-score/
+https://blogs.constantcontact.com/online-survey-tool-engage/
+https://www.wootric.com/blog/what-are-the-pros-cons-of-net-promo-
+ter-score/
+https://business.critizr.com/en/blog/5-nps-limitations-and-5-workarou-
+nd-tips
+https://www.getfeedback.com/blog/why-customer-effort-score-ces/
+https://www.freepik.com/pikisuperstar57Voltar ao sumário
+Espero que tenha
+gostado da leitura :)
+Conte sempre com o Gorila!58Voltar ao sumárioEsse estudo contou com o apoio das principais empresas 
+que estão elevando a satisfação e experiência de seus 
+clientes no Brasil. São elas:Apoiadores
+59Voltar ao sumário
+O Gorila App é uma plataforma para gestão de clientes e colaboradores em 
+tempo real, que está revolucionando a maneira com que as empresas coletam, 
+interpretam e utilizam os dados.
+Nos ajudamos as empresas a antecipar as necessidades dos clientes e a
+adaptar suas organizações para atendê-las.
+Quer saber mais? Conheça o Gorila e se alimente dos conteúdos do nosso blog.
+Conhecer o Gorila App Conhecer nosso BlogSobre o Gorila

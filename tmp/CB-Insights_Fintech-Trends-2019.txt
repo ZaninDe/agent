@@ -1,0 +1,1138 @@
+0
+1
+WHAT IS CB INSIGHTS?
+CB Insights is a tech market intelligence 
+platform that analyzes millions of data 
+points on venture capital, startups, patents, 
+partnerships and news mentions to help you see tomorrow’s opportunities, today.
+CLICK HERE TO LEARN MORE2
+TRUSTED BY THE WORLD’S LEADING COMPANIES
+“We use CB Insights to find emerging trends 
+and interesting companies that might signal a shift in 
+technology or require us to reallocate resources.”
+Beti Cung, Corporate Strategy, Microsoft
+3INDUSTRY -SCALE SUMMITS CLIENT -ONLY EVENTS PEER -TO -PEER
+NETWORK
+The CBI Community —Membership Has Benefits
+events.cbinsights.com
+DEMO DAY
+4
+ #FutureFintech
+s@
+s
+June 11 - 13, 2019
+New York, NY
+events.cbinsights.com/future-of- fintechFintech mega -rounds continued in Q 4’18, while I PO activity is likely t o 
+remain lackluster in 2019: 2018 saw a w hopping 52 $100M+ financing 
+deals t o VC-backed f intech companies – including 14 in Q 4’18 worth $3.8B.
+Asia made a r un at t he U S as the t op market fo r finte ch wi th a s urge in 
+early-st age and mega-ro und investments: Asia saw the biggest boost in 
+deals, growing 38% YOY and a record level of funding raising 
+$22.65B across 516 deals. Political and trade war tensions may have 
+caused some of the pull back in H2’18, but 2019 could see Asia overtake 
+the US.
+The US remained the  top market for deals with 659 investments worth 
+$11. 89B funding, both a new annual high: Europe saw a pull  back in deals 
+to 367 deals but funding topped $3.53B, an annual record.
+South America reached a turning point in the  eyes of investors in 2018, 
+despite political turmoil across the region: South America saw funding top 
+$540M across 55 deals, both a new annual record. In H2’18, investors 
+started to pull back in the region as social, political, and monetary conflicts 
+struck the region. Despite strai n, Bra zil-based NuBank, became South 
+America’s first unicorn and closed out 2018 with a $90M investment from 
+Tencent.
+Note: Report  focuses on all equity rounds t o VC-b acked fintech companies. This report  does not  cover 
+companies funded solely by angels, private equity firms, or any debt, secondary, or line of5 credit 
+transactions. All data is sourced from CB Insights.Summary of findings
+2018 VC- backed fi ntec h deals a nd funding s et an annual record: In 2018, 
+VC-ba cked fintech companies raised $39.57B across 1,707 deals globally. 
+Deals were up 15% year-ov er-year while funding surged 120% on the back of 
+52 mega -rounds ($100M+ ) worth $24.88B combined.
+Finte
+ch is happening on global scale with deals outside of core markets 
+(US, UK, and China) accounting for 39% of deals: Fintech deal hubs are 
+starting to e merge globally . The c o un t of unique f i ntech startups raising 
+fundin g topped an a nnua l high o f 1,463 companies, and the unique n umber 
+of investors reached 2, 745 boosted by an influx of cor p orate investors.
+Earl
+y-stage deals, as a percentage, fell to a 5 -year low as investors 
+concentrated b ets in perceived w inners: Globa l seed and Serie s A fintech 
+deals grew 5% on an annual basis in 2018, but fell as a percentage of total 
+deals to 57%. US early-stage deals were flat YOY as investors concentrated 
+their bets in established fintech unicorns.
+There are  39 VC-b acked fintech unicorns worth a combined $147.37B: 
+Q4'18 saw five new unicorns births (Plaid, Brex, Monzo, DevotedHealth, and 
+Toss) and two in the first month of Q1’19 (N26 and Confluent). The 
+coh
+ort’s total valuation in 2018 was boosted by a record year for mega-
+rounds to existing unicorns, including Gusto and Robinhood, among others.6Contents
+8 2018 Financing Trends
+Annual Deals & Dollars
+Regional Trends
+Fintech Unicorns90 Appendix: 
+2018 Top VC -Backed Fintech Deals
+2018 Most Active Fintech Investors
+21 2019 Trends To Watch
+How we did in 2018
+What to watch for in 2019
+Where investors are placing bets in fintech
+Which markets will see fintech emergenceHow incumbents will act7
+LENDINGBLOCKCHAIN/ 
+CRYPTOREGTECHPERSONAL 
+FINANCEPAYMENTS/ 
+BILLING
+MONEY 
+TRANSFER/ 
+REMITTANCESWEALTH 
+MANAGEMENTCAPITAL 
+MARKETS
+MORTGAGE/ 
+REAL ESTATEINSURANCE
+2019 FINTECH 
+TRENDS REPORT
+Marketplace lending & alternative 
+underwriting platformsPayments processing, card developers, 
+& subscription billing software tools 
+Tools to manage bills and track 
+personal and/or credit accounts
+Audit, risk, and regulatory 
+compliance software
+Companies leveraging blockchain 
+technologies for financial servicesCompanies selling insurance digitally or providing 
+data analytics and software for (re)insurers
+Sales & trading, analysis, and infrastructure tools for financial institutions
+Investment and wealth management platforms and analytics tools
+International money transfer and tracking software
+Mortgage lending, digitization, and financing platforms
+WHAT THIS REPORT COVERS
+8First, a look at what happened in 2018…
+1.Global fintech financing hit a new record
+2.Early -stage fintech deal activity slowed down
+3.16 new fintech unicorns were birthed9$8.34 $16.30 $19.29 $18.00 $39.57 885 1,153 1,254 1,480 1,707 
+2014 2015 2016 2017 2018Global fintech investment tops $39B in 2018
+Annual global fintech deals and financing, 2014 –2018 ($B) FINTECH DEALS AND FUNDING SOAR TO NEW RECORDS10$1,728 
+$1,979 
+$1,393 
+$3,236 
+$2,694 
+$4,977 
+$6,351 
+$2,280 
+$5,405 
+$8,455 
+$2,905 
+$2,525 
+$3,204 
+$5,737 $4,570 
+$4,501 $5,977 
+$20,526 
+$6,039 
+$7,033 
+Q1'14 Q2'14 Q3'14 Q4'14 Q1'15 Q2'15 Q3'15 Q4'15 Q1'16 Q2'16 Q3'16 Q4'16 Q1'17 Q2'17 Q3'17 Q4'17 Q1'18 Q2'18 Q3'18 Q4'18Ant Financial’s $14B investment accounted for 35% 
+of total funding in 2018
+$4,500
+$14,000
+11192210237246260292331
+270337315304 298365385
+366364426441 440
+400
+Q1'14 Q2'14 Q3'14 Q4'14 Q1'15 Q2'15 Q3'15 Q4'15 Q1'16 Q2'16 Q3'16 Q4'16 Q1'17 Q2'17 Q3'17 Q4'17 Q1'18 Q2'18 Q3'18 Q4'18VC-backed fintech deals declined in Q4’18 but 
+remain above 2017 levelsQ4’18 SAW A THREE -QUARTER LOW FOR GLOBAL VC- BACKED FINTECH DEALS12$5,923 $9,125 $6,267 $8,673 $12,415 $1,114 $5,028 
+$6,842 $6,203 $8,648 
+$1,198 $2,009 
+$1,377 $2,843 $3,525 
+$22 $103 
+$69 $343 
+$202 $540 
+2014 2015 2016 2017 2018North America is no longer powering global 
+fintech funding growth
+Global VC -backed fintech funding by continent, 2014 –2018, ($M) (*Ant Financial excluded)
+*Ant Financials' $14B round in Q2’18 was excluded from the chart represented on this slide for illustrative purposesAfrica
+376% YOYSouth America
+Europe
+24% YOY
+Asia
+265%* YOY
+North America
+43% YOY167% YOY
+Australia
+396% YOY13Deals grew in every market except Europe in 2018
+Global VC -backed fintech deals by continent, 2014 –2018
+Note: Charts not to scale553629 622643717
+156256318373516
+144234 262371367
+2014 2015 2016 2017 2018
+North America Asia Europe3671727
+16
+102123 25
+1318245355
+2014 2015 2016 2017 2018
+Africa Australia South America1467% 65% 64% 62% 57%17%19% 18%18%
+21%8% 7% 6%7%6%8% 9%12% 13%16%
+2014 2015 2016 2017 2018Early -stage fintech deal share falls for the 5thyear
+Annual deal share by stage to global VC -backed fintech companies, 2014 –2018
+Mid-Stage
+Early -StageLate- StageOther15
+1539 FINTECH UNICORNS
+$147.37 BILLIONGLOBALLY THERE ARE
+VALUED, IN AGGREGATE, AT
+16
+SWEDENEUROPE
+$5.3B$1.6B Valuation $2.0 -$2.5B
+$8B
+$1.24B $1B$1.2B
+SOUTH AMERICA
+$4B ValuationBRAZILNORTH AMERICA
+$20.3B Valuation
+$3.2B$3B
+$4B $1.8B
+$1.9B $10BCHINA
+INDIAASIA
+$1.4B$38B Valuation
+$1B
+$1.5B
+$1B
+$2B $2.1B (as of Q2’15)
+$1B
+ $1.2 -$1.6B
+$1.4B
+ $1B
+$3B39 fintech unicorns valued at $147.37B
+Global VC -backed fintech companies with a private market valuation of $1B+ (1/25/19)
+UNITED KINGDOM
+$1.7B
+$1.6B
+$1.1B
+$1.2B
+$1.1B
+ $1.8B
+$2.7B$1.27B
+SOUTH KOREAUNITED STATES GERMANY
+$2.7B (as of Q1’19)
+$1B $4.49B (as of Q1’17)
+$2.5B (as of Q1’19)17
+SWEDENEUROPE
+$5.3B$1.6B Valuation $2.0 -$2.5B
+$8B
+$1.24B $1B$1.2B
+SOUTH AMERICANORTH AMERICA
+$20.3B Valuation
+$3.2B$4B $1.8B
+$1.9B $10BASIA
+$1.4B$38B Valuation
+$1.5B
+$1B
+$2B $2.1B (as of Q2’15)
+16 fintech unicorn births in 2018
+Global VC -backed fintech companies with a private market valuation of $1B+ (1/25/19)
+GERMANY
+$2.7B (as of Q1’19)
+$1B $4.49B (as of Q1’17)
+$2.5B (as of Q1’19)UNITED STATES UNITED KINGDOM
+$1.7B
+ $1.27B
+CHINA
+$1.2B
+SOUTH KOREA
+$3B
+$1B
+ $1.2 -$1.6B
+$1.4B
+ $1B
+$3B
+$1.1B
+ $1.8B
+$2.7B
+INDIA
+$1B
+$1.6B
+$1.1B
+$4B ValuationBRAZIL18518
+82125
+311101218
+7
+1 1
+2014 2015 2016 2017 2018
+North America Asia Europe South America Australia2018: 52 fintech mega -rounds total $24.88B
+Global number of fintech mega -rounds ($100M+), 2014 –2018GROWTH INVESTING IN FINTECH HIT A PEAK IN 20181917% 21% 26% 28% 33%83%79%74%73%67%
+2014 2015 2016 2017 2018
+Corp / CVC Participation Other InvestorsA third of global fintech deals include a CVCNUMBER OF FINTECH INVESTORS DOUBLE SINCE 2014
+Number of investors in a fintech startup reached 
+a new high in 2018
+2014 –2018Corporate and CVC participation in fintech saw a new annual high
+2014 –2018 
+1,349 1,779 1,973 2,327 2,745 
+2014 2015 2016 2017 201820Traditional hubs no longer power fintech growthFINTECH DEALS SHIFT AWAY FROM CHINA AND THE US
+Count of fintech startups raising funding hit an 
+annual record in 2018
+2014 –2018 
+745 990 1,077 1,247 1,463 
+2014 2015 2016 2017 2018Deals are shifting away from core fintech hubs
+2014 –2018 
+73% 68% 61% 59% 61%27%32%
+39%41%39%
+2014 2015 2016 2017 2018
+Deals in China, UK, US Deals Outside Core Markets#AhaCBI
+2019 Fintech 
+Trends
+22BUT FIRST… HOW DID WE DO ON OUR 2018 FINTECH TRENDS TO WATCH?
+2018 TREND TO WATCH KEY DEVELOPMENTS HOW WE DID
+1. Fintech unbundling leads to rebundling •Rebundling had a false start in 2018, as start ups
+un
+derestimated the time to market and regulations•In 2019, the battle for millennial deposits will become more
+aggressive as fintech account products hit the market
+2. European fintechs will expand their
+global footprint•Digital- first banks flourished in Europe under tec h
+f
+avorable regulations and funding environment•Monzo, Revolut , and N26 became unicorns and, t hough
+n
+one went live, all established US operation plans for 2019
+3. Banks forgo partnering in favor offighting fintech with fintech•Goldman Sachs was the most active in investin
+g
+a
+nd building out fintech with retail bank Marcus•Many incumbents made valiant attempts to build andlaunch fintech competitors, but most missed on adoption
+4. Wealth management will become thehottest fintech sector in China•Asia cracked down on alternative lenders to tightencredit as defaults surged•Lufax and Ant Financial raised over $15B in funding a
+s
+Chi
+na’s broader fintech landscape consolidates
+5. Latin America and Southeast Asia willsee strong fintech growth•Both Latin America and South East Asia fintec
+h
+d
+eals and funding hit annual highs in 2018•Under pressure, Latin America may see funding cool offwhile Southeast Asia is likely to continue to grow in 2019
+6. More companies will look to sellpickaxes amid cryptoasset speculation•Cryptocurrencies were strained as regulator
+s
+gl
+obally ironed out regulation and guidance•ICO frauds created speculation and detoured retailinvestors however, equity investments rebounded
+7. Capital markets fintech infrastructurebecomes a focus area for investment•Plaid became the first infrastructure unicorn andstarted 2019 by acquiring competitor Quovo•2019 will see more consolidation in infrastructure focusedcompanies under fee -compression in the industry
+8. Banks deepen their partnerships wit
+h
+re
+gtech•Marquee regulations were implemented creatin g
+d
+emand for regtech but adoption trailed•Regulators promoted tech adoption and, in 2019, will lookto guide banks through integrating with core infrastructure
+9. Insurance tech investment moves t
+o
+th
+e back -end•Mega -round investments were spread out amon g
+f
+ull-stack insurers and intermediaries•Consolidation in insurtech make take form in 2019 as V C
+e
+arly-stage startups fail to show enough market traction
+10. Amazon is primed to get moreaggressive in fintech —outside of the US•Rumors swirled that Amazon was partnering wit
+h
+JP
+M or Capital One to launch bank accounts•Amazon picked up fintech investments in India, a keygrowth market for the e -commerce giant231. The battle for deposits
+2. Fintech firms up focus on regulatory compliance
+3. Southeast Asia sees hotbed of fintech activity
+4. The next Ant Financial & WeChat Pay
+5. Unbundling the paycheck
+6. New investment platforms and asset classes
+7. Fintech meets real estate
+8. Rise of impact fintech
+9. Lack of fintech M&A by banks continues
+10. No-go for fintech IPOs2019 TRENDS TO WATCH24
+24The battle for deposits#1 FINTECH REBUNDLING GETS MORE AGGRESSIVE
+25Fintech firms look for their second act
+Fintech firms are becoming more aggressive in expanding their lines of business beyond their initial use case
+BUYING BUILDING PARTNERING
++
++
+Affirm debating move into savings 
+accounts nextJanuary 9, 2019
+NuBank receives regulatory approval to 
+launch NuCanta bank accounts
+April 2018
+Revolut hires CTO to head up wealth 
+management and trading division 
+January 9, 2019
++
+26SAME GOAL, DIFFERENT ENTRY POINT
+Fintech moves from mono -line to multi -line
+FIRST 
+BEACHHEAD
+DIGITAL WALLET ROBO- ADVISOR MICRO -INVESTING BROKERAGE PERSONAL FINANCE
+ CRYPTO
+NEXT PILLAR
+BANK ACCOUNTS
+REAL ESTATE
+COLLEGE SAVINGS
+BROKERAGE
+LENDING
+INSTITUTIONAL 
+INVESTING
+CRYPTO
+ WEALTH 
+MANAGEMENT
+BANK ACCOUNTS
+CRYPTO
+ WEALTH 
+MANAGEMENT
+LENDING
+BANK ACCOUNTS
+INDEX INVESTING
+ MARGIN INVESTINGFintech startups are rebundling products and services ahead of their maturing customer base
+WEALTH 
+MANAGEMENT
+BANK ACCOUNTS
+27Banking -as-a-service platforms facilitate US 
+fintech companies to expand to bank accounts
+NOTABLE PARTNERS NOTABLE PARTNERSGreen Dot uses its own bank, Green Dot Bank, and what it calls its 
+banking -as-a-service platform to offer mobile banking capabilities to 
+third party providers.In April 2018, StoneCastle Partners and Q2 Holdings announced the 
+launch of Cambr , merging Q2’s digital platform CorePro and 
+StoneCastle’s digital deposit network of 800+ community banks and 
+relationships with banks of record.
+28Abroad, fintech firms are looking to build their 
+own chartered banks
+Fintech startups that want to replace the old guard of 
+banking are leveraging regulatory tailwinds and 
+applying for charters and licenses with respective 
+regulators. 
+Regulators globally have been lowering the barriers for 
+tech startups to enter the market as a way to break up 
+banking monopolies and stimulate competition. 
+The FCA was among the earliest to pilot limited 
+licenses like the “e -money license” that enabled tech 
+entrants like Revolut to launch a remittances business 
+through initially partnering with a chartered bank, that 
+decreased the company’s time to market. Revolut
+obtained a charter in 2018 and has been applying the same playbook to expand globally.29The battle for distribution will start with deposits
+By attaining a customer’s paycheck, 
+fintech challengers are able to make money on interest, and more importantly, 
+set themselves up for future product 
+innovation. If a customer’s money isalready being deposited in an app, 
+introducing new products — such as 
+savings and investment accounts —can 
+be seamless.
+Debit cards are often fintechs ’ first cross -
+over product because the service 
+adds another product and revenue stream. 
+Fintechs are also able to receive 
+significantly higher interchange fees than 
+traditional banks as a result of the Durbin Amendment, which limits the fees stores pay banks when customers make 
+purchases with debit cards.30
+30#2 REGULATORS BECOME MORE EMBOLDENED
+Fintech firms up focus on 
+regulatory compliance31Emboldened regulators globally are… 2019 REGULATORY DRIVERS
+CRACKING DOWN ON BAD
+ACTORS 
+As startups look to launch new products, it 
+will be essential for fintech challengers (and incumbents) to continue to build inroads with regulators to avoid roadblocks.COLLABORATING AND SPREADING INNOVATION
+Regulators globally have been actively 
+promoting innovation and embracing tech to break up local banking monopolies. 
+Regulatory support has lowered the barriers 
+for startups to enter markets. 1 2
+32Regulators are upping oversight on bad actors, 
+issuing massive “unicorn” level fines
+Fines include non -compliance with AML, KYC, and sanctions, and exclude crisis- related settlements, ($M)
+Final figure pending Reported final figure$15 $54 $135 $145 $205 $369 $534 $575 $613 $900 $1,000 $1,340 $1,600 $7,500 $8,000 
+UBSBNYJP MorganUBSDeutsche BankRabobankCBAWells FargoUS BankINGWells FargoSociété GénéraleStandard CharteredGoldman SachsDankse Bank33Regulators are increasing their scrutiny of high -
+profile consumer fintech challengers
+VS.12:21PM9:45AM
+Within 24 hours
+973,233 “Checking & Savings” 
+Now “Cash Management”
+1 DayDecember 13, 2018
+1 Week
+1 Month34
+34“I disagree with the statement that these funds are 
+protected by SIPC. Had they called us, I would have 
+told them what I just told you in that 
+I have serious concerns about this. This has 
+gigantic ramifications for the banking industry.”
+-Stephen Harbeck
+President & CEO, SIPC
+ALSO WITHIN 24 HOURS35Brazil cuts interest rates to new record low 
+of 6.5%
+March 21, 2018 | 
+But regulators have also lowered barriersREGULATORS OPEN THE DOOR FOR FINTECH
+36
+As tech startups take advantage of open banking 
+access, they will need in -house regulatory teams
+LATIN AMERICACANADA
+AFRICA•OCC explores a “fintech charter”
+•O
+CC issues conditional banking charterUNITED STATES•In Jan’19 the FCA reported 80 TPPs registered
+•As 
+of Sept’18 there were 17.5M monthly open API calls
+•Both the EU’s revised payment services directive (PSD2) and
+UK’s Open Banking went live
+•Brazil’s central bank issues new banking rules
+•C
+hile regulators follow Brazil’s lead•The Hong Kong Monetary Authorityd
+rafted open API frameworks
+•HKMA starts issuing virtual bankgui
+dance and licenses•The Department of Finance Canadal
+aunches Advisory Committee on Open
+Banking and open call for input
+•Australia Securities and Investmentc
+ommission (ASIC) openly endorsed
+open banking guidelines
+•Open Banking put on hold in Jan’18 byt
+he federal governmentMEXICO
+•Mexico passes “Fintech Law” and require s
+ba
+nks to establish open APIs
+•Nigeria set up an Open Technology Foundation, a not -
+f
+or-profit industry group developing open API standards
+•South Africa Reserve Bank (SARB) started researchingt
+he establishment of a a regulatory sandboxEUROPE
+ASIA
+AUSTRALIA & NEW ZEALAND37
+37Southeast Asia sees hotbed of 
+fintech activity#3 STARTUP INVESTMENT MOVES FROM COMMERCE TO FINTECH38Fintech in Southeast Asia is heating up with record 
+year for deals and funding, up 143% YOY
+$9.66 $173.39 $114.31 $199.42 $484.71 193857
+5468
+2014 2015 2016 2017 201839Southeast Asia fintech startups are attracting 
+bigger financings and foreign investors
+Last Round: $40M Series D in Q1’19
+Sector: E-commerce installment 
+lending 
+Investors: Ant Financial Last Round: $24M Series B in Q3’18
+Sector: OS services for SMBs
+Investors: Sequoia Capital, East Ventures, 
+Convergence Ventures
+Last Round: $28M Series C in Q3’18 
+Sector: Financial services comparison
+Investors: Experian Ventures, Telstra 
+Ventures, Korea Investment Partners
+Last Round: $100M Series C in Q1’19 
+Sectors: Digital wallet and payments
+Investors: Warburg Pincus
+Last Round: $2.4M Series A in Q1’18
+Sector: Financial services comparison
+Investors: B. Grimm, European Venture 
+Partners
+Last Round: $40M Corporate Minority in Q4’18
+Sectors: Digital wallet and remittances 
+Investors: KKR, Tencent, IFC40Ant Financial is becoming more aggressive in 
+expanding its reach in Southeast Asia 
+THAILAND
+PHILIPPINES
+ MALAYSIA
+INDONESIA
+PARTNERING LOCALLY TO EXPAND MOBILE PAYMENTS
+ LOOKING FOR STRATEGIC INVESTMENTS IN OTHER 
+FINANCIAL CATEGORIES
+CAMBODIA
+VIETNAM
+41Ride -hailing platforms may end up as biggest 
+fintech winners in Southeast Asia
+BUILD
+BUYPARTNER
+42
+42The next Ant Financial & WeChat 
+Pay#4 INTERNET PLATFORMS GLOBALLY EXPAND INTO PAYMENTS43
+QR codes are the entry point to digital payments44Alipay and WeChat Pay are leading China’s 
+transition to a cashless economy
+45Fintech is powering the growth of MercadoLibre in 
+Latin America
+Leading Latin American e -Commerce player MercadoLibre is expanding into QR code payments as more 
+payments take place off -platform. It also operates a loan business to sellers and recently announced plans 
+to launch an investment fund for Argentinians to invest in high -yielding, short- term -securities. 
+MercadoLibre’s mobile wallet business has been estimated to be valued at $2 billion.46Line is looking to build an ecosystem resembling 
+Alipay/WeChat Pay in Japan
+Leading messaging app Line is making a big push into fintech by pushing mobile payments into cash -heavy Japan. 
+Line has ambitious goals for the number of stores that accept Line Pay and has started to expand into other 
+financial businesses including wealth management (through a partnership with Nomura to launch an online stock 
+brokerage) and insurance (through an investment in startup JustInCase and a partnership with Sompo).47Grab and Go -Jekhave emerged as leading mobile 
+payments players in Southeast Asia
+Go-Jekand Grab have emerged as the leading “super -apps” of Southeast Asia (the equivalent of aiming to provide a platform 
+that combines Didi, Meituan , Weiying , and Alipay among other services). In 2017, Go- Jekacquired three fintech startups and 
+60% of the 100M monthly transactions in Go- Jek’s ecosystem are processed through Go- Pay. In September, Go- Jekpartnered 
+with three P2P lending startups to expand into credit. Grab has also announced several partnerships (Chubb, Credit Saison) 
+through its Grab Financial arm to offer financial services to its driver, agent, and merchant community.48
+48Unbundling the paycheck#5 DISRUPTING THE PAYDAY LOAN
+49Household debt balances have accelerated and 
+total over $13 trillion
+Source: FRBNY$1.25T $1.4T
+$850B
+$440B
+Home Equity 
+Revolving
+Other50First, startups went direct to consumer to head 
+off debt 
+AUTOHOME EQUITY & 
+RENOVATION CREDIT CARD STUDENT
+Last Round: $500M Series F Feb’17
+Total Funding: $2.2B
+Select Investors: G Squared, Silver 
+Lake Partners, Institutional Venture 
+Partners, SoftBank GroupLast Round: $32.5M Series D Mar’17
+Total Funding: $584.7M
+Select Investors: First Round Capital, 
+Khosla Ventures, Correlation VenturesIPO: $4.27B May’18
+Total Funding: $610M
+Select Investors: QED, TPG, 
+DST, Fifth Third BankIPO: $5.46B Dec’14
+Total Funding: $263.3M
+Select Investors: DST Global, Coatue
+Management, capitalG , Canaan 
+Ventures, Kleiner Perkins
+51Fintech firms are unbundling the paycheck to 
+alleviate and prevent predatory debt
+DIRECT DEPOSITS
+DEBT PAYOFFPAYROLL FLEXIBILITY
+PAYDAY ADVANCEPRE-TAX SPENDING
+STUDENT LOAN PAYOFF
+EMERGENCY FUND
+FINANCIAL LITERACY
+EARNED -INCOME ADVANCE
+52Startups are partnering with employers to offer 
+salary linked benefitsDISRUPTING PAYROLL, STARTING WITH PAYDAY
+Last Funding : $125M S eries C in Dec’18
+Select Investor s: DST Global, Andreessen H orowitz, S park Capital, 
+Matrix P artners, Coatue Management, Ribbit Capital
+Earnin is an app t hat allows employees t o access earned income 
+ahead of a scheduled payday. Earnin partners with Starbucks, 
+Pizza Hut, Walmart, and other employers. 
+Earnin reported they work with employees across 50K companies 
+and that the app has been downloaded 1M times.Last Funding : $20M Series B-I I in A ug’18
+Select Investor s: Blenheim Chalcot , Legal & General
+UK-based Salary Finance offers installment loans that deducts loan 
+repayments directly from an employee's salary. In December 2018 
+they launched a payday advance service allowing employees to 
+access earned income. 
+In Q4’18 they announced a partnership with the United Way as a 
+preferred solution for their network of 10K employers.
+53DI
+SRUPTING PAYROLL, STARTING WITH PAYDAY
+Last F unding 
+$140M Series C / / Jul’18 
+Valuation $2B
+Gusto is an HRIS platform that provides H R, 
+benefits admi nistration, and payroll  automation 
+softwa re. 
+Since February of 2015 the company has added 
+over 60K+ small businesse s (~1% US SMB 
+population). 
+In June 2018, at the CB Insights’ Future of 
+Fintech conference, Gusto CEO a nd co-founder  
+Josh Reeves announced Flexible Pay, the 
+company’s digi tal paycheck advancement 
+service that allows employers to offer earned 
+income to employees in adva nce of a 
+traditional  bi-weekly pay cycle.2018 PARTNERSHIPS
+Accounting 401(k)
+Workers’ Compensation 529 College Savings54
+54New investment platforms and 
+asset classes#6 OPENING THE MARKET FOR INVESTORS & DIVERSIFICATION
+55Fintech is democratizing investing
+ALTERNATIVE ACCESS TO
+INVESTING
+The first wave of investing apps lowered 
+the barriers for investors to access existing markets with tech. ACCESS TO NEW ASSETS
+Startups are now looking to lower 
+barriers to enter alternative asset classes and creating new commercially available assets. NEW INVESTING MODELS TO TAP EXISTING ASSETS
+In tandem, startups are creating next-gen 
+investment platforms that are focused on creating new methodologies to access alternative asset classes.1 2 3
+56Alternative investment apps will continue to 
+rise in prominence among next -gen investors
+BROKERAGES MARKETPLACES1
+PLATFORMS
+57New investment models will be created to open 
+up markets and create asset classes
+CARS MUSIC MUNICIPALITIES ART
+2
+MARINE
+Last Round: 
+$7M Series A Sep’18Investors: Social Leverage, Anthemis
+Group, Upfront VenturesLast Round: $12.8M Series A Jan’18Investors: Greycroft , FJ Labs, Saturn 
+Partners, The Raine GroupLast Rounds: UndisclosedLast Round: $3.37M Series B-II Nov’18Investors: Grotech Ventures, 
+TechstartsLast Round: $25M Series B May’17Investors: 8VC, Abstract Ventures, Sound Ventures, Fintech 
+Collective, Village Capital58
+Startups borrowing existing biz models to open up 
+real estate investing to retail investors FOR RETAIL INVESTORS
+Crowdstreet is a US -based marketplace that connects 
+accredited investors, family offices, and institutions 
+with sponsored commercial real estate projects. Crowdstreet leverages a crowdfunding model to connect investors to co-invest with developers.
+Crowdstreet’s investors have deployed $350M across 
+250+ properties.Last Funding 
+$8M Series B (Jul’18) // US
+Lendinvest is a marketplace property lender 
+that uses a P2P model to connect borrowers with bridge and rent -to-let financing. Retail and 
+institutional investors are then able to invest in LSE listed bonds securitized from the loans.
+Lendinvest has lent $2B and helped borrowers 
+buy, build, and renovate 5,000+ properties.Last Funding 
+Series C // LondonPEER -TO-PEER CROWDFUNDING
+Alphaflow automates real estate investing 
+by leveraging a robo -advising model to 
+generate passive income -producing 
+portfolios.
+The company launched in January 2016 
+and has $17.32M of assets under managementLast Funding 
+$1M Convertible Note// USROBO- INVESTING
+359
+59Fintech meets real estate#7 FINTECH DEEPENS ROOTS IN THE REAL ESTATE ECOSYSTEM60
+Real estate tech is expanding rapidly
+*Note: Real estate tech is a broad vertical and includes companies outside of fintech2018 saw the tech 
+landscape in real estate expand
+Deals flowed across the 
+commercial and residential 
+real estate markets. Broad 
+investment themes included 
+platform -ification , digitization, 
+and portfolio optimization.
+2019 will see these companies 
+look to take advantage of 
+consumer demand and supply 
+of residential properties, and 
+investor demand for portfolio 
+exposure and diversification. 
+61Mortgage debt dwarfs all others categories
+$1.25T $1.4T
+$850B
+$9T
+Source: FRBNY62First, fintech startups digitize the mortgage 
+lifecycle and created alternative lending platforms
+As home values rise, fintech is moving into home 
+equity
+HELOC
+Equity sharing /
+reverse mortgage
+Rent-to -own
+Last funding round
+Total disclosed
+equity funding
+Select Investors
+$40M Series B
+(6/27/18)
+F-Prime Capital and 
+Citi Ventures$92.84M
+waitlist
+$50M Series A 
+(4/30/18)
+$50M
+Ribbit Capital, DCM Ventures, 
+and CreditEase Fintech Fund
+$12M Series A
+(5/23/18)
+$12M
+American Family Ventures 
+and General Catalyst
+Unattributed
+(4/18/18)
+$8.65M
+Andreessen Horowitz and
+Ribbit Capital
+$3.5M Seed VC
+(9/19/18)
+$4.7M
+Blumberg Capital and 
+Montage Ventures
+$1.3M Seed VC
+(10/23/17)
+$1.3M
+IA Ventures and 
+MetaProp NYC
+$1M Seed VC
+(4/26/18)
+$1.12M
+Kima Ventures and 
+Techstars Ventures
+64And abstracting away the mortgage as startups 
+look to make cash offers for home buyers
+FLYHOMES RIBBON
+Seattle-based Flyhomes launched as a brokerage and provides a 
+program to make cash offers on behalf clients. FlyHomes is expanding 
+into new lines of business to deal with mortgages, title and escrow, 
+repairs and renovations and more.New York-based Ribbon, which operates in the Carolinas, works with homebuyers and their real estate agents to provide home sellers with a 
+guaranteed sale, and all -cash offer regardless of where buyers are in 
+the mortgage process.65Rent -to-buy: Startups look to enable gradual home 
+equity ownership
+DIVVY HOMES VERBHOUSE
+San Francisco -based Divvy allows renters to put down 2% of the price 
+of a desired property, which Divvy buys and leases back. 25% of the 
+monthly price goes toward home equity, with 70% going toward rent, and 5% toward a maintenance fee.San Francisco -based startup Verbhouse operates a lease-with -an-
+option -to-purchase program in the Bay Area that lets program 
+participants move into homes now with the option to buy later.66Fintech is integrating home insurance deeper into 
+the home buying process
+Lenders using Blend Labs represent more than 25% of the total US mortgage market with $60B in mortgage applications flowing 
+through its software in 2017. Blend launched a home insurance agency in August 2018.
+Source: Andreessen Horowitz, “Making Sense of Mortgages,” Blend Labs, CB Insights analysis67Startups look to disrupt the $15B title insurance 
+marketREAL ESTATE MEETS FINTECH
+In December 2018, States Title acquired 
+North American Title, the eighth largest 
+title writer in the United States by market 
+share. States Title hopes to use data and technology to predict and risk and severity of a title defect on particular properties.New York -based startup Spruce is a 
+digital title insurance and escrow 
+agency. Spruce has worked with lenders 
+and real estate companies in 36 states and plans to be in 48 states by the end 
+of 2018. Qualia provides cloud workflow 
+technology to the title, escrow, and closing process. Clients include Stewart, First American, and Fidelity National. As 
+of March 2018, 5% of the national real 
+estate market was transacted through Qualia.
+68
+68Rise of impact fintech#8 THE “GREEN” STANDARD OF INVESTING
+69“Going green” is not new, but there is renewed 
+demand driving how ESG scales
+SUSTAINABILITY IS A
+GLOBAL PRIORITY
+Tech companies are jumping to head off 
+concerns over the health of the environment, sustainability, and corporate governance (ESG). Upcoming initiatives will turn up the heat on companies to prove countries are progressing positively. MARKETS & ECONOMY
+Tech companies are tapping into the ESG 
+and impact investing space which have seen an uptick in inflows and are gaining traction among economists and investors. Market volatility could drive more inflows into impact investments and position impact fintech firms to bring standardization to investment criteria.DEMOGRAPHIC SHIFTS
+Startups are creating next-gen wealth 
+management platforms for the next generation of investors who increasingly want investment portfolios that align with their values. To grow distribution and increase engagement, fintechs with scale could look to tap 
+into ESG and impact investing. 1 2 3
+70Impact investing and ESG are on the rise 
+News mentions of “impact investing” and “ESG” (environmental, social, and governance), 2014 –2019 YTD
+71Global sustainability goals will be top of mind for 
+policy makers, but measuring progress is subjective
+Moderate 
+movement to goal
+Moderate movement 
+away from goalPeople killed in road accident
+Recycling rate of 
+municipal wasteSustainable Transport
+Adverse environmental impactsMeasured against:United Nations 2030 Agenda For Sustainable 
+Development Goals (SDGs)
+In 2015, the UN committed to implementing 
+Sustainable Development Goals (SDGs) that outline 17 global goals each nation has pledged to work towards by 2030.
+However, each goal and underlying initiatives 
+are open to interpretation and carry different 
+weights of importance across regions. 
+Measuring progress towards goals is 
+complex, lacks accountability, and is an area global leaders will demand transparency from officials tasked with implementation 
+and governance.72Quantifying progress and impact is subjective 
+because there is no “gold standard” of green data
+VS.73
+ Source: 2016 GSIR Despite subjective 
+nature, investing in impact funds is growing
+2018 saw ESG and impact 
+portfolios gain academic 
+recognition for their ability to 
+generate alpha.  
+Strategies that intentionally 
+exclude certain sectors, 
+companies, or practices are 
+gaining traction with younger 
+demographics.  
+As of 2016, global sustainable investment assets reached $22.9T
+2014 & 2016 ($T)74With $30T from the ‘great wealth transfer,’ millennials 
+will expect choices that have a positive ROI & impact
+Millennials are 2X more likely to make sustainable 
+investments than the average investor.
+Source: Survey conducted by Morgan Stanley released in August 2017 86%
+Are "very Interested" or "interested" 
+in sustainable investing
+75%
+Think their investments can 
+influence climate change
+61%
+Have made at least 1 sustainable 
+investment action in the last year
+75The first layer of impact fintechs are establishing 
+green data credibility for financial services firmsDATA > OPINION
+DATA INTEGRITY ADVISORY
+ CREDIT RISK
+ REAL ESTATE 
+ INVESTING
+Allows advisors to 
+conduct negative and exclusionary screeningAuto rebalances portfolios to align with social impact goalsProvides scoring and reporting for for non -
+quantifiable risk eventsPlatform for scoring and 
+monitoring environmental 
+outputs of RE assets AI database that tracks, quantifies, and reports intangible risk for equities76The next layer of impact fintech will establish credibility 
+with next -gen investors, ahead of wealth transfer
+BANKING INVESTING
+ LENDING
+Digital-first banks that use impact 
+investments to generate interest on deposits and savingsAutomated wealth management software that allocates assets across thematic investment funds and ETFsInvestment account that allocates assets to community development financial institutions (CDFIs) 77
+77Lack of fintech M&A by banks 
+continues#9 DESPITE NEW CHALLENGERS, BANKS LOOK TO BUILD RATHER THAN BUY78
+European banks are 
+challenging back
+In H1’18, competition between 
+high street banks and well -funded 
+challengers continued to heat up. 
+While incumbents look to boost 
+their digital capabilities, 
+challenger banks are growing 
+market share and their global 
+footprint.
+As predicted, fresh off mega -
+round ($100M+) investments and 
+unicorn designations, N26, Monzo, 
+and Revolut all announced plans 
+build out their US operations. VS.
+2.3M CLIENTS3M CLIENTS
+1M CLIENTSSantander latest traditional player
+to open digital bank
+May 15, 2018 |
+79RBS hatches plan to create digital challenger bank 
+to face off the threats from startups like Monzo
+and Starling Bank
+March 19, 2018 | 2018 saw banks launch a wave of digital products
+80But while banks continue to embrace mobile 
+banking…
+81..incumbents still miss on mobile UX/UI, a key to 
+acquiring and engaging next -gen customers
+US IOS App Store ratings (out of 5)
+VS.
+2018 Peak: #1 overall 
+82•Regulatory barriers, legacy tech
+i
+nfrastructure, cultural barriers
+and reluctance to carry inflate d
+g
+oodwill (intangible asset s)
+v
+alues on balance sheets po se
+ch
+allenges for incumbent s
+l
+ooking for fintech startups
+•20 f intechs have been acquired
+by banks
+•Goldman has been the mosta
+ctive with their biggest
+announced acquisition being of
+P
+FM app Clarity Money in April
+2018Banks will remain trigger shy on acquisitions
+2013 –2019 (01/12/2019) 
+83
+83No-go for fintech IPOs#10 FINTECH IPOS FAIL TO MATERIALIZE IN 201984
+CHINAUNITED KINGDOM
+UNITED STATES
+INDIASWEDEN NETHERLANDSNORTH AMERICAEUROPE
+ASIA
+2018 started the year with 25 unicorns valued at $75.9B
+Global VC -backed fintech companies with a private market valuation of $1B+ (01/01/2019)
+$1.79B Valuation $1.3B
+$1B Valuation$1.46B
+$1B
+$18.5B
+$7B$1.1B Valuation $2.3B $2.5B
+ $1B
+$1.56B
+$1.4B$1B
+$1.2B
+$9.2B
+$1B
+$1.9B$2B (as of Q2’15)$2.7B
+$4.5B
+$2.4B (as of Q4’14)$3.6B$3.5B$1B
+85
+CHINA
+INDIASWEDENNORTH AMERICAEUROPE
+ASIA
+Despite hype, only three fintech unicorns went public
+Global VC -backed fintech companies with a private market valuation of $1B+ (01/01/2019)
+$1.79B Valuation $1.3B
+$1B Valuation$1.46B
+$1B
+$18.5B
+$7B$1.1B Valuation $2.5B
+$1.56B
+$1.4B$1B
+$1.2B
+$9.2B
+$1B
+$1.9B$2B (as of Q2’15)$2.7B
+$4.5B
+$2.4B (as of Q4’14)$3.5B$1B
+GreenSky stock rises after several analysts 
+initiate coverage with bullish ratings
+June 18, 2018 |
+UNITED KINGDOM NETHERLANDS
+$2.3B
+ $1B
+$3.6BUNITED STATES
+86Adyen makes record public debut in Europe
+Netherlands- based payments processor Adyen saw shares jumped 98% on 1stday of trading
+Mkt Cap Euro 13.44B87Alternative lenders ‘bear’ market volatility
+Mkt Cap $2B (1/18/19)
+Mkt Cap $1.2B (1/21/19)
+88
+Record fintech mega -rounds will likely delay IPOs2018 SEES RECORD GLOBAL FINTECH MEGA -ROUNDS ($100M+)
+$1B+ (2)
+$500M+ (1)
+$300M+ (8)
+China
+US
+India
+UK
+GermanyBrazil
+Hong Kong 
+AustraliaLegend:
+$200M+ (10)
+$100M+ (31)
+89Stripe, the global payments provider, 
+has been aggressively expanding its tech stack. The company plans to use the latest funding to expand into Southeast Asia and India. 
+According to Bloomberg, Stripe sales 
+are roughly $1.5B annually. Stripe supports businesses in 120 countries, payments in 130 currencies, and provides services ranging from fraud prevention to accounting. Stripe reports that 65% of UK internet users and 80% of US users have bought something from a Stripe -powered 
+business. DEMOCRATIZING GLOBAL PAYMENTS AND ENABLING THE DIGITAL ECONOMY > IPO
+Last Funding 
+$245M Series E // Sep’18 
+Valuation $20.3B
+ENABLING DEVELOPERS
+Stripe’s growing integrated technology stack 
+for global money movement
+GLOBAL PAYMENTS & 
+TREASSURY NETWORK
+SHIIPPING PRODUCT2019 GOALS:
+CFO transitions to chief product 
+officer, leaving the role vacant
+December 5, 2018 |
+90
+2018 global fintech 
+year-in-reviewAPPENDIX:
+91
+91$11.89 BILLION
+659 DEALSUS FINTECH VC -BACKED EQUITY FUNDING IN 2018:
+ACROSS
+92US fintech funding hits 5- year high as $100M 
+mega -rounds tops record
+North America VC -backed fintech financing trends, 2014 -2018, ($M) 
+$5.71 $8.81 $5.92 $8.18 $11.89 518588 570594659
+2014 2015 2016 2017 2018
+Amount ($B) Deals93
+US fintech deals cross 5 -quarter low, despite annual high
+US VC -backed fintech financing trends, Q4’17 –Q4’18, ($B)US deals a nd 
+fundin g top a 5- year 
+high
+Funding surged in 2018 on the 
+back of 25 mega -rounds worth 
+$5B. 
+Q4’18 saw 10 mega-r ounds, 3  
+of which minted new unicorns, 
+Brex, Devoted Health, and 
+Plaid. 
+Other mega -rounds in the year 
+boosted the valuations of 
+established unicorn s like 
+Stripe, Robinhood, an d 
+Coinbase.$2.4 $2.4 $3.3 $3.0 $3.3 146191
+169
+157
+142
+ $- $0.5 $1.0 $1.5 $2.0 $2.5 $3.0 $3.5
+Q4'17 Q1'18 Q2'18 Q3'18 Q4'18
+Amount ($B) Deals94
+94$22.65 BILLION
+516 DEALSASIA FINTECH VC -BACKED EQUITY FUNDING IN 2018:
+ACROSS
+95Fintech funding in Asia spikes to $22.7B on the 
+back of $14B An t Financial investment
+Asia VC -backe d fintech financing t rends, 2014 - 2018, ($B ) 
+$1.11 $5.03 $11.34 $6.20 $22.65 156256318373516
+2014 2015 2016 2017 2018
+Amount ($B) Deals96
+96$3.53 Billion
+367 DEALSEUROPE FINTECH VC -BACKED EQUITY FUNDING IN 2018:
+ACROSS
+97$1.20 $2.01 $1.38 $2.84 $3.53 144234262371367
+2014 2015 2016 2017 2018
+Amount ($B) DealsFintech deals in Europe level off, as funding hits 
+$3.5B in 2018
+Europe VC -backed fintech financing trends, 2014 -2018, ($B) 98
+$375.01 $1,047.85 $558.27 $1,457.57 $1,514.68 61110
+88139
+114
+2014 2015 2016 2017 2018
+Amount ($M) DealsUK-based fintech rebounded despite pull -back in Europe
+UK VC -backed fintech financing trends, 2014 –2018, ($M)UK fintech deals fall 
+18% in 2018
+Brexit concerns may have 
+contributed to a year- over-
+year decline in UK fintech financing rounds in 2018. 
+Funding to UK -based fintech 
+companies grew slightly on 
+the back on significant 
+investments to digital- first 
+“challenger banks” Monzo
+and Revolut . Both became 
+unicorns in 2018.#AhaCBI
+Top deals & 
+investors
+100CompanyDeal Date // 
+AmountTotal Disclosed 
+Funding (M) Select Investors Description
+May’18 // $14,000M $19,145M
+($150B Valuation)Silver Lake Partners, General Atlantic, T. 
+Rowe Price, Temasek Holdings, Sequoia 
+Capital China, Warburg Pincus, & othersChina -based internet giant that provides a suite of 
+financial services spanning payments, insurance, credit, wealth management, and others, through various subsidiaries including Alipay & Yu’e Bao
+Dec’18 // $1,350M $3,031M
+($3.8B Valuation)Goldman Sachs, JP Morgan, UBS An internet lending and wealth management 
+platform for SMB and retail consumers
+Jan’18 // $650M $650M 
+($1B Valuation)IDG Capital and SBI Group A spin -out from Ping An providing a platform for 
+financial account management for SMBs.
+Jun’18 // $392M $569M
+($1.2- $1.6B Valuation)Venrock, Goldman Sachs, GSV B2B data analytics suite of modular desktop and 
+API applications that leverage social media to detect events, consumer signals, and alerts
+Dec’18 // $385M $1,451M CreditEase , Munich Re/HSB Ventures, 
+SoftBank GroupAuto lending and finance management platformTop 11 global fintech deals in 2018
+The top 3 deals to VC -backed fintech companies were all mega -rounds ($100M+) in China
+101CompanyDeal Date // 
+AmountTotal Disclosed 
+Funding (M) Select Investors Description
+Aug’18 // $375M $1.27B
+($3.2B Valuation)Alphabet Tech -enabled health insurance carrier
+May’18 // $363M $539M
+($5.6B Valuation)capitalG, DST Global, ICONIQ Capital, Kleiner Perkins Caufield & Byers, Sequoia 
+CapitalB2C digital brokerage and financial services 
+platform that lets users invest in U.S. stocks, ETFs, options, and cryptocurrencies 
+Jun’18 // $359M $536M Geo-Jade Petroleum Corporation, 
+Shunwei Capital PartnersWeb -based investment portal that provides 
+various debt -backed investments products for 
+individual and SMB investors
+Aug’18 // $300M $3.07B
+($10B Valuation) Berkshire Hathaway Mobile payments and commerce platform
+Oct’18 // $300M $368.95M
+($1.8B Valuation)Andreessen Horowitz, F -Prime Capital, 
+Premji Invest, Uprising, VenrockDigital health care company serving seniors, aiming to launch Medicare Advantage plans
+Oct’18 // $300M $538.67M
+($8B Valuation)Andreessen Horowitz, Polychain Capital, 
+Tiger Global Management, Wellington 
+ManagementCrypto currency exchange, wallet, and platform for 
+retail and institutional investing and transactions in digital currenciesTop 11 global fintech deals in 2018
+6 of the top 11 deals to VC -backed fintech companies were to US -based startups
+102The most active fintech VCs in 2018
+By unique fintech company investments (new or follow -on) 
+Rank Investor Select Fintech Investments
+1
+2
+3
+4
+5
+103The most active fintech VCs in 2018 (continued)
+By unique fintech company investments (new or follow -on) 
+Rank Investor Select Fintech Investments
+6
+7
+8
+9
+104Methodology
+CB Insights encourages you to review the methodology and definitions employed to better understand the numbers presented in t his
+report. If you have any questions about the definitions or methodological principles used, we encourage you to reach out to C B Insights 
+directly. Additionally, if you feel your firm has been under-represented, please send an email to info@cbinsights.com and we can work 
+together to ensure your firm’s investment data is up to date.
+Wha tisincluded: Wha tisexcluded:
+―Equity financings into emerging fintech companies. Fundings must be put into VC -backed 
+companies, which are defined as companies who have received funding at any point from 
+venture capital firms, corporate venture groups, or super angel investors.
+―Fundings of only private companies. Funding rounds raised by public companies of any kind on any exchange (including Pink Sheets) are excluded from our numbers, even if they received investment by a venture firm(s). 
+―Only includes the investment made in the quarter for tranched investments. If a company does a second closing of its Series B round for $5M and previously had closed $2M in a prior quarter, only the $5M is reflected in our results.
+―Round numbers reflect what has closed —not what is intended. If a company indicates 
+the closing of $5M out of a desired raise of $15M, our numbers reflect only the amount which has closed.
+―Only verifiable fundings are included. Fundings are verified via various federal and state regulatory filings, direct confirmation with firm or investor, or press release.
+―Previous quarterly VC reports issued by CBI have exclusively included VC -backed rounds. 
+In this report, any rounds raised by VC -backed companies are included, with the 
+exceptions listed.—No contingent funding. If a company receives a commitment for $20M subject to hitting certain milestones but first gets $8M, only the $8M is included in our data.
+—No business development / R&D arrangements, whether transferable into equity now, later, or never. If a company signs a $300M R&D partnership with a larger corporation, this is not equity financing, nor is it from a venture capital firm. As a result, it is not included.
+—No buyouts, consolidations, and/or recapitalizations. All three of these transaction types are commonly employed by private equity firms and are tracked by CB Insights. However, they are excluded for the purposes of this report.
+—No private placements. These investments, also known as PIPEs (Private Investment in Public Equities), are excluded even if made by a venture capital firm(s).
+—No debt / loans of any kind (except convertible notes). Venture debt or any kind of debt / loan issued to emerging startup companies, even if included as an additional part of an equity financing, is not included. If a company receives $3M with $2M from venture investors and 
+$1M in debt, only the $2M is included.
+—No government funding. Grants, loans, or equity financings by the federal government, state 
+agencies, or public -private partnerships to emerging startup companies are not included.105
+WHERE IS ALL THIS DATA FROM?
+The CB Insights platform 
+has the underlying data 
+included in this report
+CLICK HERE TO SIGN UP FOR FREE

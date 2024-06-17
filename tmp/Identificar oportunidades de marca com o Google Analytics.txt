@@ -1,0 +1,100 @@
+Google Analytics 
+Identificar oportunidades de marca com o Google Analytics 
+Como este painel pode ser útil? 
+Você já pensou em alcançar um público-alvo mais amplo para ajudar a divulgar sua marca no mercado? Este painel ajuda 
+você a ter uma ideia melhor de quem são seus clientes atuais e de como alcançar novos clientes. Com essas informações, 
+você tem a oportunidade de aumentar o reconhecimento da sua marca, conquistar mais clientes e expandir seus negócios. 
+Para fazer o download deste relatório: 
+1. Faça login no Google Analytics 
+2. Clique aqui
+3. Selecione a vista da propriedade que preferir1
+Observação:   Quando você não está acompanhando as metas, o status de alguns relatórios aparece 
+como "Não há dados para esta vista da propriedade". Clique aqui  para ver mais informações sobre 
+como configurar metas. 
+1 Para a maioria das pessoas, esta é uma vista da propriedade sem filtro 
+Examine períodos específicos ou use o recurso 
+de comparação para identificar tendências 
+2
+131 Jan 2015 a 24 Set 2015 
+Afinidade dos usuários Sessões e taxa de conversões de meta por palavra-chave 
+Categorias de afinidade (alcance) Taxa de conversões de meta 
+Sessões Sessões 
+Taxa de conversões de meta Idade Idade dos usuários 
+Sessões e taxa de rejeição por mídia 
+Mídia Sessões Taxa de rejeição Taxa de conversões de meta Sessões 
+Gênero dos usuários 
+Sessões e taxa de rejeição por página de destino 
+Taxa de rejeição Sessões Página de destino 
+SessõesPalavra-chave Google Analytics 
+Identificar oportunidades de marca com o Google Analytics 
+Afinidade dos usuários 1
+Idade, gênero 
+e informações 
+geográficas dos usuários Veja quais são os interesses de seus visitantes 
+Exibe partes da sessão e as respectivas taxas de conversões de meta por 
+categorias de afinidade dos visitantes 
+Veja quem são seus visitantes 
+Exibe informações demográficas dos visitantes Urgência / informações demográficas do usuário 
+O que fazer com isso? 
+Com a Afinidade dos usuários, você tem insights sobre seu público-alvo online. Também é possível conferir se esses 
+insights são semelhantes à maneira como você vê seu público-alvo, além de entender o motivo da visita e aprender 
+a alcançar esses visitantes. Veja como criar a próxima segmentação para as campanhas da sua marca .
+As informações geográficas, o gênero e a idade ajudam você a saber quem sua marca precisa segmentar. 
+Além disso, você também pode confirmar se os visitantes de seus sites estão alinhados aos públicos-alvo 
+segmentados em suas campanhas. 
+Sessões e taxas de 
+conversões de meta 
+por palavras-chave 2
+Veja o desempenho das palavras-chave que contêm sua marca (consultas 
+de marca) 
+Mostra se os visitantes reconhecem seus termos de marca e se eles realmente 
+agregam valor Volume e engajamento 
+O que fazer com isso? 
+Uma empresa precisa monitorar suas iniciativas de marketing para saber se elas atendem às metas conforme 
+planejado. As partes do website com tráfego de cada iniciativa de marketing e as respectivas taxas de conversões 
+de meta são bons indicadores para iniciar esse monitoramento. 
+O número de consultas de marca representa a forma como seus clientes veem e se lembram da sua marca. 
+Quando você está segmentando consultas de marca e elas aparecem no relatório de consultas principais, significa 
+que já há demanda por sua marca. Nesse caso, o ideal seria elaborar uma estratégia de marca para aumentar 
+a demanda antes de lançar a publicidade da mesma. 
+Quando as consultas de marca não aparecem, significa que o reconhecimento de marca está baixo e que você está 
+perdendo oportunidades. Recomendamos considerar a publicidade de sua marca para aumentar a demanda por ela. 
+Para ver mais detalhes sobre as consultas de marca, confira a pesquisa . 
+Caso o volume das consultas de marca esteja alto em comparação com o de seus concorrentes (use o Google Trends  
+para comparar), mas a taxa de conversões de meta esteja mais baixa, talvez seja necessário analisar os fluxos de 
+usuários em seu website e identificar por que não estamos atendendo às expectativas dos usuários. 
+Google Analytics 
+Identificar oportunidades de marca com o Google Analytics 
+Sessões e taxas de 
+rejeição por mídia 3
+Sessões e taxas de 
+rejeição por página 
+de destino Veja se suas sessões são provenientes de anúncios ou se são orgânicas 
+Exibe as sessões de pesquisas paga e orgânica, além de suas taxas de rejeição 
+Veja como seu website está se saindo 
+Exibe quais páginas de destino têm mais sessões e as taxas  
+de rejeição correspondentes Otimização da conta 
+O que fazer com isso? 
+Nesta sessão, você pode ver lado a lado a contagem de suas sessões pagas e orgânicas. Caso haja menos sessões 
+pagas do que orgânicas, recomendamos investir mais na publicidade de marca. 
+Garanta uma experiência de marca positiva para todos os usuários: analise as páginas de destino que têm uma 
+quantidade maior de sessões com alta taxa de rejeição e avalie o posicionamento de sua marca. Confira as páginas 
+de destino com baixas taxas de rejeição para saber o que está indo bem e confirme se elas são adequadas para 
+a publicidade de marca. 
+Brand Lift Ferramentas e recursos adicionais 
+O que fazer com isso? 
+Com o Brand Lift , você pode verificar o impacto de sua publicidade sobre a percepção da marca. Com base no 
+resultado, você pode fazer ajustes (i) em sua segmentação e (ii) nas mensagens do anúncio (use-as em combinação 
+com o YT Analytics). 
+Com o YouTube Analytics , verifique qual tipo de público-alvo está interagindo com seus vídeos, se o conteúdo é atrativo 
+o bastante e se é possível aumentar o engajamento da marca usando o YouTube. YouTube Analytics Veja como o público-alvo interage com seu conteúdo criativo 
+O Brand Lift avalia o impacto direto de seus anúncios do YouTube sobre 
+os comportamentos e percepções durante toda a jornada do consumidor. 
+Veja algumas perguntas que você pode avaliar: 
+- O público-alvo se lembra de meu anúncio? 
+- O público-alvo reconhece minha marca? 
+- O público-alvo considera minha marca? 
+- O público-alvo pretende comprar produtos ou serviços de minha marca? 
+- O público-alvo prefere minha marca a outras? 
+- É provável que o público-alvo pesquise minha marca após visualizar 
+os anúncios? 

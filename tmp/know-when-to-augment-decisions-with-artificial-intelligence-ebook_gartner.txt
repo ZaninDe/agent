@@ -1,0 +1,203 @@
+Guide 3 of 5
+When to Augment 
+Decisions With 
+Artificial Intelligence
+Guides for Effective Business Decision Making
+© 2022 Gartner, Inc. and/or its affiliates. All rights reserved. CM_GTS_1800395Guides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence3 Follow Us on LinkedIn                    Become a Client  95% of decisions that currently use data will 
+be at least partially automated.
+Source: GartnerBy 2025, Guides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence4 Follow Us on LinkedIn                    Become a Client  In the Gartner 2021 Reengineering the Decision Survey of executives, 47% of 
+respondents said they expected decisions to become increasingly complex 
+over the ensuing 18 months. This is driving interest in the application of data and 
+analytics (D&A) to improve the quality of those decisions. However, organizations 
+are also interested in improving the speed and accuracy of decisions, and that 
+often requires automation.
+Decisions that use data can be automated in a variety of ways but fall 
+somewhere between being mostly human-based and entirely automated. 
+Organizations that embrace some degree of decision automation are likely to 
+achieve competitive advantage through more rapid decision making (algorithmic 
+trading outpacing human-based trading in response to market volatility), more 
+sophisticated decisions (inventory levels based on a wide variety of market 
+signals) and more granular decision making (microsegmentation of customer 
+segments).
+The key for D&A and business leaders is to understand where to expand decision 
+automation for better outcomes.
+Gareth Herschel  
+VP Analyst, CDO Leadership
+The decisions I make are more complex (stakeholders, 
+choices) than 2 years ago
+There is a higher expectation for me to be able to explain 
+or justify my decisions
+Source: Gartner65%
+Agree
+53%
+Agree5%
+Disagree
+5%
+Disagree30%
+Neutral
+42%
+NeutralGuides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence5 Follow Us on LinkedIn                    Become a Client  Prepare
+Understand the role of 
+automation in decision making.Establish
+Know how, in practice, to blend 
+human and artificial intelligence 
+(AI) in hybrid decision making.Engage
+Use a decision intelligence 
+framework to assess when to 
+augment/automate decision 
+making.Tips for Delivery
+Act intentionally to create an 
+organizational competency in 
+decision intelligence.How to Use This Guide
+1 2 3 4Guides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence6 Follow Us on LinkedIn                    Become a Client  Prepare
+Understand the Role of Automation in Decision Making1
+Human Machine
+Risks must be managed by, for example, 
+guardrails or a human-in-the-loop for 
+exceptional cases.
+Autonomous decision making by machines, 
+using predictions, forecasts, simulations, rules, 
+optimization or other AI. There are multiple forms of augmentation. 
+Machine suggests; human decides. Human 
+suggests; machine decides. Human and 
+machine decide together. Each has a 
+different dynamic.
+Machines use AI to generate recommendations 
+and may provide diagnostic analytics for human 
+validation and exploration.Decision is made by a human, based on 
+principles and ethics, experience and bias, 
+logic and reasoning, emotion, skills and style 
+(solo, delegated, collaborative).
+Data and analytics support human decision 
+makers with information, data or visualizations.Augment decisions by presenting 
+recommendations to human decision makers. 
+Hybrid decisions are the realm of robotic 
+process automation systems, where the 
+decision model includes both attended and 
+unattended automation tasks. Machines/devices make decisions 
+independently, but humans review automated 
+decisions after they have been made to 
+maintain control of complex systems.Machines provide visualizations, exploration, 
+alerts and other support for human decision 
+makers.  Decision Support  
+(Human-Based Decisions)  
+Example: Medical diagnosisDecision Augmentation  
+(Hybrid Decisions)  
+Example: Financial investmentDecision Automation  
+(Machine-Based Decisions)  
+Example: Next best action for digital orderLevel of Involvement
+Role of D&AGuides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence7 Follow Us on LinkedIn                    Become a Client  Establish
+3 Key Steps to Hybrid Decision Making in Practice
+In practice, the role of automation in decision 
+making is nuanced, with a series of categories 
+defining a transition from decision support to 
+augmentation to automation. Use the framework 
+to the right to clarify where humans can and 
+should be involved in decision making and the 
+types of investment required.2
+3 Keys to Implementation
+   Move from one level to the next on the 
+basis of organizational need, not technical 
+ability. 
+   Blend different levels, even within one 
+decision, to balance risk and opportunity. 
+   Do not view Level 7 as an automatic best 
+practice or objective; the optimal level will 
+vary for different decisions and depend on 
+your culture.Decision Support Decision Augmentation Decision Automation
+Recommendation Approval Audit Autonomous3 6 4 7 5
+Veto Human Advisory1 2
+Data or Analysis 
+UsedLevel
+Who Proposes  
+the Decision
+Role of Human in 
+Decision Approval
+Decision OversightHuman (potentially using data and analytics)
+Human and decision system both create
+Decision systemPre-identified in the context of the decisionDetermined by need and preference of human decision maker
+Routine review of previous decisions
+Exception-based review of previous decisionsReview of decision process and choiceRejection of decision is an explicit actionApproval of decision is an explicit actionThe 7 Levels of Hybrid Decision Making
+Source: GartnerGuides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence8 Follow Us on LinkedIn                    Become a Client  Engage
+Leverage a Decision Intelligence Framework3
+The Gartner Decision Intelligence framework helps you model decisions while ensuring you detail the (re)design 
+and application of components needed to support, augment or automate each phase in the decision flow.
+Source: GartnerDecision Intelligence
+       Human: Actor with bias and goals 
+making and supporting decisions
+     AI: Actor with goals and bias 
+making and supporting decisions
+Feedback and Exceptions
+Decision CompositionHuman/Machine(s)
+OutcomeInterpret
+(Investigate)Capture
+(Observe)
+Act
+(Execute)
+Resolve
+(Contextualize)Model
+(Design)LearnGartner Decision Intelligence Loop
+(Every decision goes through the same 5 phases)Gartner Decision Intelligence Components
+Shared Information and 
+Data ArchitectureAnalytics: Supports, augments 
+and automates decisions
+Data: Informs decisions
+Applications: Sequences 
+decision steps
+Data FabricGuides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence9 Follow Us on LinkedIn                    Become a Client  Tips for Delivery
+Act to Build Decision Intelligence Capabilities4
+The ability to identify, prioritize and then to model and (re)engineer decisions 
+for improvement (i.e., decision intelligence) will be a critical competency for a 
+disruption-ready and resilient organization.
+Recommended actions:
+Start with decision intelligence where business-critical decision making 
+must be improved — requiring more data-driven support or AI-powered 
+augmentation — or where decisions can be scaled and accelerated 
+through automation. (Alternatively, start where there is the greatest 
+dissatisfaction with current decision making as this could drive some 
+quick wins.)Improve decision making by first explicitly understanding and 
+modeling how decisions are currently made and how they could be 
+reengineered, and then by incorporating human and/or AI decision-
+making capabilities and a feedback loop for measuring results.
+Build organizational competency in decision intelligence with a reusable, 
+composable decision framework. This enables data-driven organizations 
+to get the most out of their data. It turns the data into insights that target 
+improvements in business performance and achievement of mission-
+critical priorities.Consider creating a role for decision engineers by hiring or 
+upskilling experts who can work with decision makers to identify 
+critical decisions, which can be improved through engineering 
+decision intelligence.Guides for Effective Business Decision Making — When to Augment Decisions With Artificial Intelligence10 Follow Us on LinkedIn                    Become a Client  Explore these additional complimentary resources and tools 
+to make better business decisions.This guide is part of the Effective Decision 
+Making Series. You can access other guides 
+in this series to continue improving how your 
+business makes decisions and learn: 
+Roadmap
+Enhance Your Roadmap for Data and 
+Analytics Governance
+Set the right governance foundation.
+Webinar
+Data & Analytics Series: Modernize Your Data 
+Strategy to Achieve Digital Success
+Connect the strategy to your operating model.Resource Hub
+Chief Data Officer to Build Data & Analytics 
+Leadership Traits
+Create competitive advantage through D&A.
+Roadmap
+The IT Roadmap for Data and Analytics
+Follow D&A best practices to create a strategy.• Which decisions to reengineer and why
+• How to prioritize analytics and data 
+• What role data fabric will play in your data 
+management
+• Incorporating the right skills and capabilities 
+in your D&A organizationActionable, objective insight
+Already a client?  
+Get access to even more resources in your client portal. Log In© 2022 Gartner, Inc. and/or its affiliates. All rights reserved. CM_GTS_1800395Connect With Us
+Get actionable, objective insight to deliver on your mission-critical 
+priorities. Our expert guidance and tools enable faster, smarter 
+decisions and stronger performance. Contact us to become a client:
+U.S.:  1 855 811 7593  
+International: +44 (0) 3330 607 044
+Become a Client
+Learn more about Gartner for IT Leaders  
+gartner.com/en/information-technology
+Stay connected to the latest insights

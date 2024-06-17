@@ -1,0 +1,818 @@
+AI for CMOs:  
+The Real-World Blueprint 
+for AI-Powered Digital 
+Transformation  
+(2nd Edition)
+Sponsored By
+© 2023, Marketing AI Institute, All Rights Reserved.
+2  |  AI for CMOs3  A Letter from Tracy Sestili, CMO at Intellimize
+4   The AI Opportunity for CMOs 
+6  Intro to AI for CMOs 
+ What Is AI?  6
+ Machine Learning and Deep Learning 7
+ Large Language Models and Generative AI 8
+9  AI Use Cases for CMOs 
+ Advertising 9 
+ Analytics  10 
+ Content Marketing 10 
+ Customer Experience 10
+ Ecommerce  11
+ Email Marketing  11
+ Social Media Marketing  12
+ SEO  12 
+13  How Real-World CMOs Are Using AI
+ How Are CMOs Using AI Today? 13
+ What Challenges and Concerns Do CMOs Have Regarding AI? 14
+  How Will Hiring and Strategy Change in the Age of AI? 14
+16  Scaling AI for CMOs
+ The Need for Scale 16
+ The 10-Step Framework 16
+21  It’s Time to Become a Next-Gen Marketing Leader 
+ Table of Contents3  |  AI for CMOsThe world has changed entirely since the first edition of this 
+AI for CMOs guide was published in the middle of 2022.
+Today, we’re witnessing the dawn of the AI revolution—at 
+least the dawn that is now more apparent to the majority 
+of the world. 
+With the explosion of powerful generative AI tools, 
+including ChatGPT, the promise—and risk—of artificial 
+intelligence has become viable to every leader, 
+professional, and citizen on the planet.
+Now, anyone has access to incredibly powerful—and 
+rapidly advancing—AI. Generative AI alone is now 
+reshaping how we write, create, and code. It is changing 
+how we search for information. And it carries the promise 
+that, one day soon, we’ll have access to AI assistants that 
+can follow our commands autonomously.
+But, in reality, AI has been quietly growing in power, scale, 
+and affordability behind the scenes, and largely out of the 
+public eye, for the last decade. (A trend both Intellimize 
+and Marketing AI Institute saw early and acted on when 
+our respective companies were formed back in 2016.)
+ChatGPT is just the tip of the iceberg. AI as a whole, 
+of which generative AI is a single piece, has far greater 
+implications across every major area of business and 
+marketing, from strategy to content to personalization to 
+analytics to SEO and beyond. 
+That’s because the real AI revolution isn’t simply about the 
+development of generative AI that can create at will. It’s 
+about the development of intelligent machines that can do 
+what humans do best: think and reason. In the process, the 
+entire landscape of work as we know it will change.
+In marketing alone, most of the tasks we do to create value 
+for our customers, our brands, and our companies are 
+types of personalization and knowledge work. We use our 
+abilities to think and reason through problems to create 
+business value—and we leverage our creativity to produce 
+communications that resonate with other human beings.
+On one hand, the power of AI to think and reason 
+promises a bright future. AI has the potential to 
+supercharge what we already do best, giving every 
+professional on the planet the ability to scale up the 
+knowledge work that they do and to make those 
+communications more human. It gives you a strategic 
+competitive advantage over the competition as well.On the other hand, rapid innovation of machines that 
+can think and reason has the potential to go wrong very 
+fast. There is already growing concern that powerful AI 
+technology can be used to cause harm, either intentionally 
+or accidentally, by promoting misinformation and 
+disinformation, furthering harmful bias and toxic behavior, 
+and replacing millions of knowledge work jobs. (Some 
+even worry we could lose control of future super-smart AI 
+systems entirely.)
+The result, for marketers in general and CMOs in particular, 
+is that the present moment is filled with hope and fear in 
+equal measure. And, as a result, CMOs are charged with 
+an unenviable balancing act:
+They are facing enormous pressure from the market and 
+leadership teams to understand the actual short-term and 
+long-term implications and applications of AI for their 
+business—and to do so fast. With so many solutions on 
+the market promising this and that, the pressure lies in 
+CMOs quickly selecting the right combination of tools to 
+stay ahead, while simultaneously rolling out the technology 
+responsibly and safely.
+The potential of AI far outweighs any pitfalls in tool selection 
+and it’s important to take a holistic approach with your 
+marketing channels. In this guide, you’ll read use cases 
+for various individual channels, but the bigger picture is 
+delivering a personalized, cohesive experience across all 
+of your marketing channels, campaigns, and programs, 
+accelerating conversions and driving revenue. This is where 
+AI can make the greatest difference. Done right, the CMOs 
+who win at AI stand to win big in their markets and careers. 
+This guide is here to help you do just that.
+It’s designed to help CMOs understand and seize the AI 
+opportunity as quickly as possible, by providing a highly 
+practical playbook to understand and adopt AI across 
+marketing use cases. 
+This is the second edition of the AI for CMOs guide. 
+It’s been fully updated for 2023, with largely brand-new 
+content, as well as commentary from real-world CMOs. 
+Even if you read 2022’s guide, this one has plenty of fresh 
+insights that have not been published elsewhere.
+Once you read it, you’ll be prepared to begin your AI journey. 
+A Letter from Tracy Sestili,  
+CMO at Intellimize4  |  AI for CMOsThe world of CMOs today can be summed up in four simple words:
+Do more with less.
+Inflation is hitting businesses hard. Budgets are facing serious scrutiny. And layoffs are gutting teams. 
+In fact, nearly 41% of CMOs were less optimistic about the economy in Q1 2023 than they 
+were the previous quarter, according to the CMO Survey from Deloitte, Duke University, 
+and the American Marketing Association (AMA). And 71% of CMOs think they lack 
+sufficient budget to execute their marketing strategies in 2023, says Gartner.
+Gartner says 75% of CMOs are facing pressure to get more results with fewer resources in 
+order to deliver profitable growth in 2023. Of this group, a whopping 86% say they need 
+to make “significant changes to how the marketing function works” to do that.
+In this climate, keeping the status quo is simply not an option.
+No wonder so many CMOs are paying attention to artificial intelligence.
+AI offers the promise of productivity and performance at scale, allowing even smaller teams 
+to dramatically increase the quality and volume of their output, as well as open up levels of 
+prediction and personalization that were previously impossible with standard software. 
+In the last 12 months, the AI landscape has changed dramatically. The dawn of generative 
+AI tools, including ChatGPT, has changed everything. Anyone who can type a text prompt 
+now has access to incredibly powerful—and rapidly advancing—AI that is transforming 
+marketing as we know it.
+Today, marketing teams are achieving breathtaking results using generative AI tools—results 
+that are forcing marketers to fundamentally rethink how the discipline works. (Exhibit A: 
+Business professor Ethan Mollick used AI to build an entire campaign from scratch in 30 
+minutes on his own.)
+And generative AI is just the beginning. ChatGPT and similar tools are getting all the 
+attention right now. But AI technology has been quietly growing in power, scale, and 
+affordability for the last decade, largely behind the scenes. For the most part, CMOs are 
+just now seeing the tip of the iceberg of what’s coming.
+In reality, generative AI alone has the potential to change how CMOs plan, produce, 
+and perform. But AI as a whole has far bigger implications across every major area of 
+marketing, from strategy to content and personalization, to analytics to SEO and beyond. 
+CMOs that embrace AI technology now stand to develop a potentially insurmountable 
+competitive advantage in their markets, their companies, and their careers.
+There’s just one problem…
+AI moves so fast—and there’s so much hype and misinformation in the market—that actually figuring 
+out what AI is, how you can actually use it, and where to focus your efforts is a major challenge.
+This guide is here to help…The AI Opportunity for CMOs
+AI offers the 
+promise of 
+productivity and 
+performance at 
+scale, allowing 
+even smaller 
+teams to 
+dramatically 
+increase the 
+quality and 
+volume of their 
+output, as well as 
+open up levels 
+of prediction and 
+personalization 
+that were 
+previously 
+impossible 
+with standard 
+software. 5  |  AI for CMOs
+The AI Opportunity for CMOs
+At Marketing AI Institute, we’ve been educating marketers on how to understand, pilot, and scale 
+AI since 2016, half a decade before today’s current generative AI craze and the rise of overnight 
+AI “experts” on social media.
+Since then, we’ve grown into a leading source of industry education as we teach other marketing 
+leaders how to apply AI to their work and businesses—just like we’ve done in our own.
+In this guide, we’ve partnered with the experts at Intellimize, a leading AI tool for website 
+experience optimization and personalization, to cut through the noise and help you make sense 
+of AI—and your AI strategy—starting today.
+This blueprint will provide you with:
+•  Clear, actionable definitions of AI, machine learning, deep learning, and generative AI…  
+•  Specific AI use cases across eight major areas of marketing, from advertising to ecommerce 
+to social media…  
+•  Real-world examples of how CMOs are using AI, in their own words, over interviews with 
+14 leaders…  
+• And a practical playbook to start adopting and scaling AI in your organization.
+By the time you’re finished with this guide, you’ll have a clear picture of exactly how AI can start 
+benefitting you.
+6  |  AI for CMOsHere’s the good news…
+You don’t have to have a computer science or machine learning background to take advantage of 
+the opportunities that AI provides. You just need to have a solid understanding of how AI works 
+and what it can do.
+What Is AI?
+ 
+You might be forgiven for thinking that AI means “ChatGPT.”
+After all, ChatGPT has become the fastest-growing consumer app in history, reaching 100 
+million users just two months after launch. It dominates the headlines. And it has everyone 
+paying attention to AI.
+But, in reality, AI is much more—and has far bigger implications than—ChatGPT.
+So, what is AI exactly?
+One of our favorite definitions of artificial intelligence comes from Demis Hassabis, co-
+founder and CEO of DeepMind, a major AI company that now forms the backbone of 
+Google’s AI efforts. He says:
+“AI is the science of making machines smart.” 
+We would add to that definition: 
+By “being smart,” these machines enhance human knowledge and capabilities.
+But what does “being smart” actually mean?
+The traditional (non-AI) software that your team uses every day is quite dumb. It only follows strict 
+rules and instructions that you provide it. At every step of the way, you must tell it precisely what 
+to do—then the machine executes your instructions to the letter. And this entire process requires 
+lots of manual labor from you.
+In any given marketing campaign, you still create all the marketing assets, specify lists, workflows, 
+and logic, and determine the strategies used to achieve marketing objectives. Once that’s all 
+done, the machine performs its given tasks (sends an email, executes a workflow, displays a 
+popup, etc.). Then you repeat the process every time you launch a campaign or marketing activity.
+At no point does your traditional software make dynamic changes based on campaign 
+performance. At no point does it automatically adjust direction in response to data. And it doesn’t 
+make any real strategic recommendations on how to improve your results.
+AI is fundamentally different from traditional software. With AI, you work in tandem with a smart 
+machine that can both do things you can’t and enhance your capabilities:Intro to AI for CMOs
+ChatGPT has 
+become the 
+fastest-growing 
+consumer app in 
+history.7  |  AI for CMOs
+Intro to AI for CMOs
+ 1.  AI can determine its own rules and instructions without human oversight in order to achieve 
+your goals.
+ 2.  AI can plot its own pathways to achieve the goals that you give it—pathways that humans 
+may not be capable of seeing.
+ 3.  And AI can learn and improve on its own, improving performance without a human explicitly 
+telling it how to do so.
+A very basic example can illustrate the difference between traditional software and AI.
+Let’s say you are sending an email to 10,000 subscribers and you want to make sure it has the 
+highest open rate possible by optimizing the send time. To do that with traditional software, you 
+might do the following:
+ •  Evaluate past emails in your system to determine which send times performed best when 
+sending similar emails.
+ •  Research best practices on the best times to send emails based on available research and 
+commentary online.
+ •  Look at your audience breakdown to determine how different time zones might impact send 
+time—or use a feature in your email software to send your email at the same time in different 
+time zones.
+ •  When all that’s done, you make an educated guess on the best time to send, then schedule 
+the email. 
+This approach takes a fair amount of work. And it’s not very scientific. 
+With AI, things look a little bit different. With AI, your process might look something like this:
+ •   Use an AI tool that automatically analyzes subscriber email open behavior and sends your 
+emails to each of your 10,000 subscribers at the time they’re most likely to open.
+In this example—and many others—AI not only automates part or all of a marketing process, it 
+actually works more autonomously to achieve goals more efficiently and effectively at scale in ways 
+that humans can’t.
+Because AI can determine its own rules, chart its own paths, and learn and improve on its own, it 
+provides a smarter way of doing, well, almost anything.
+This is what it means to make machines—the software you use every day—truly smart.
+So, when we talk about “artificial intelligence,” we’re using that term as an umbrella term—an 
+umbrella term for all the different tools, techniques, and technologies that make machines smart.
+Machine Learning and Deep Learning
+The core subset of artificial intelligence is machine learning. This involves literally teaching 
+machines how to learn to achieve goals. Once we teach a machine how to achieve a goal using 
+training data, it can then go accomplish that goal on new data. What’s more, it can learn to 
+improve its performance over time.
+Within machine learning, there’s a highly advanced subset called deep learning. Deep learning 
+is concerned with not only machines that can learn and improve but machines that can do so at 
+human-like tasks. 
+These aren’t just machines making predictions (though they do that). They’re machines that can 
+read, write, speak, reason, and understand.
+8  |  AI for CMOs
+Intro to AI for CMOs
+Large Language Models and Generative AI
+Two types of deep learning, in particular, are currently taking the world by storm:
+Large language models (LLMs) and generative AI.
+Large language models are deep learning models trained to understand language. You may have 
+heard about prominent large language models like GPT-4 from OpenAI, PaLM from Google, or 
+LLaMA from Meta.
+Large language models start off as general-purpose models. But they can be fine-tuned to specific 
+use cases for different industries. 
+Take GPT-3, for instance, the predecessor of GPT-4. It is a general-purpose model that uses 
+language in a lot of useful but generic ways. But you can also train GPT-3 on different types of 
+industry-specific data to make it more useful for a particular type of business. In fact, that’s exactly 
+what Bloomberg did when they fine-tuned GPT-3 to create BloombergGPT , a large language 
+model that has been “specifically trained on a wide range of financial data.”
+Once trained, large language models can be used in many generative AI applications. 
+Generative AI is any type of AI that can produce content on its own, including text, images, audio, 
+code, 3D images, and more. LLMs are used in generative AI tools that deal with language. Other 
+models are used to power generative AI that creates non-language outputs like images.
+Examples of generative AI tools include Writer and Jasper for text generation, Midjourney for 
+image generation, and Gen-2 from Runway for video generation.
+Generative AI isn’t the only type of artificial intelligence, but it is one of the fastest-growing and 
+attention-getting categories in AI today, so it’s worth paying attention to. 
+But don’t put blinders on. There are hundreds of use cases for artificial intelligence for CMOs, 
+including, but not limited to, generative AI. 
+Let’s look at some of the top ones.
+9  |  AI for CMOs
+AI’s value goes far beyond generative AI. AI can transform every major aspect of your marketing 
+organization by making it more intelligent. Marketing AI Institute’s 5Ps of Marketing AI framework  
+can help you understand how:  
+• Planning: AI can help you build intelligent strategies.
+• Production: AI can generate intelligent content.
+• Personalization: It can power intelligent consumer experiences. 
+• Promotion: It can help you manage intelligent cross-channel promotions. 
+• Performance: And it can turn data into intelligence.
+Across the 5Ps, AI can also help you capture significant benefits like better optimization through lowering 
+CAC and promoting revenue growth and smarter predictions that drive tangible business value.
+In fact, today, the world’s most successful brands are using AI to achieve a range of business 
+outcomes that lead directly to the results that executives care most about, including:
+• Accelerate revenue growth.
+• Create personalized consumer experiences at scale.
+• Drive costs down. 
+• Generate greater return on investment (ROI).
+• Get more actionable insights from marketing data.
+• Predict consumer needs and behaviors with greater accuracy. 
+• Reduce time spent on repetitive, data-driven tasks.
+• Shorten the sales cycle.
+• Unlock greater value from marketing technologies.
+In marketing, there are literally hundreds of ways to use AI. However, there are a handful of core 
+marketing use cases where AI can start making the biggest impact for any CMO—areas where AI is 
+widely commercially available and able to improve performance quickly.
+Advertising
+Predict ad performance and efficiently manage campaigns.
+AI can analyze your advertising performance, ad spend, and audience data from your ad 
+platforms—and it can do it at scale. It can then use that information to tell you what’s working, 
+what might work next, and what to do about it. Language and visual AI tools can even write ad 
+copy for you or build hundreds of ad creative variations in seconds.
+Today, you can use AI advertising tools to:
+• Allocate budget to the right audiences and channels. 
+• Find new audiences interested in your ads.
+• Manage and adjust budget automatically.
+• Predict which ads work before you launch.
+• Scale one piece of creative across platforms and regions. 
+• Write ad copy and copy variations.AI Use Cases for CMOs10  |  AI for CMOs
+AI Use Cases for CMOs
+Analytics
+Get priceless insights from your data.
+Pattern recognition and prediction are at the heart of what AI can do. Currently available AI tools 
+use pattern recognition to process massive amounts of your website and customer data, then 
+extract valuable information that humans often miss. AI can also use this data to make predictions 
+about which actions, pages, or users drive the most performance.
+AI-powered analytics tools empower marketers to:
+• Analyze competitors’ websites and marketing activities.
+• Automatically answer common questions about data.
+• Create comprehensive profiles of valuable users and customers. 
+• Identify changes in data that humans should pay attention to.
+• Predict what users want to see, do, read, or buy next.
+• Understand and segment target audiences.
+With AI-powered analytics, marketing leaders finally have the ability to extract maximum value 
+from the data at their fingertips.
+Content Marketing
+Create and personalize content at scale.
+No matter what types of content you create or promote, there’s a good chance AI can help you do 
+it better. Today, AI can not only understand natural language in written, video, and audio form, it 
+can also write, create images, generate video, and create audio.
+This opens up powerful AI use cases for content marketers, empowering them to:
+• Align content with user intent.
+• Create and edit images, audio, and video.
+• Optimize content for search and voice.
+• Personalize content recommendations for each and every website user.
+• Personalize the right language to the right users in every marketing message.
+• Research and create content calendars and strategies.
+• Suggest content topics and brainstorm content angles.
+• Write and edit blog posts, landing pages, pages, and content.
+Thanks to AI, it’s never been easier to create, personalize, and scale a content marketing program.
+Customer Experience
+Personalize exceptional digital experiences across channels.
+Designing an exceptional customer experience today without smarter technology is impossible. 
+Consumers demand always-on, frictionless experiences with brands. It’s impossible to keep up, 
+regardless of your headcount, without technology that can deliver personalization at scale.
+With the power of AI-driven personalization, brands now have the ability to tailor messaging, services, 
+and offers to each and every person that engages with them. Using AI, you can do things like:
+11  |  AI for CMOs
+AI Use Cases for CMOs
+• Analyze data to improve experience quality.
+• Answer questions, solicit feedback, and offer intelligent searches for customers. 
+• Direct customers to relevant resources, content, and products.
+• Field customer questions and comments.
+• Personalize messaging and offers to individual customers.
+• Predict customer churn.
+• Unify customer data for richer behavioral profiles.
+An always-on, high-quality customer experience is no longer optional in a fully online world. AI 
+makes it possible to provide these types of experiences in effective—and cost-effective—ways.
+Ecommerce
+Sell more of what consumers want more often.
+The predictive power of AI has massive implications for ecommerce, as demonstrated by
+how Amazon has transformed the online shopping experience through prediction and 
+personalization. Today, brands that sell online can use AI to make predictions big and small, from 
+making macro decisions around inventory to micro-targeting a single user’s product preferences.
+In ecommerce, AI can:
+• Enable virtual try-on and testing.
+• Forecast product demand.
+• Intelligently manage inventory and fulfillment.
+• Make product search and discovery more intelligent.
+• Predict which products, features, and prices will succeed in the market. 
+• Personalize product features and qualities to individual preferences.
+• Personalize product recommendations to individual consumers.
+The beauty of ecommerce AI solutions is that many existing platforms offer them or integrate with 
+them. Amazon’s personalization AI is available for purchase, and Shopify’s integration ecosystem 
+has plenty of AI apps to plug into a current store.
+Email Marketing
+Intelligently segment and send more successful email messages.
+Every brand sends emails, and every brand that sends emails should be using AI. That’s because 
+most email marketing that’s done without AI functions on educated guesswork. What subject lines 
+work best? What content will perform? Who should we send to, and when?
+AI removes the head-scratching and creates high-impact email campaigns. With it, you can:
+• De-duplicate and clean up email list data.
+• Personalize email content for individual prospects or customers. 
+• Personalize email send times to individual prospects or customers. 
+• Write email newsletters automatically.
+• Write email subject lines that improve open rates.
+• Write portions of emails or entire emails automatically.
+There’s no longer any need to hit send and pray. AI has changed the level of performance and 
+predictability possible in email marketing.
+12  |  AI for CMOs
+AI Use Cases for CMOs
+Social Media Marketing
+Drive more social engagement and reach at scale.
+Social media platforms rely on AI to populate your feeds with content you’ll engage with. But AI is 
+also used by brands to create that content and get consumers to engage with it more. By using AI 
+social media tools, you can:
+• Automatically create social posts and ads.
+• Determine which posts and types of content work best.
+• Develop the right messaging and creative for each platform and user. 
+• Find the right influencers for the right audience.
+• Identify your brand logos and visuals in consumer posts.
+• Manage mentions, comments, and engagement.
+• Measure brand sentiment, consumer sentiment, and market trends.
+• Scale up social posts and ad creation.
+Don’t worry: AI doesn’t remove humans from the loop. Social success depends more than ever on 
+authentic human engagement from individuals and brands. AI just makes the process easier and 
+more intelligent.
+SEO
+Improve search rankings and appear in more relevant results.
+Search engines use AI to determine exactly which search results to show you for any given query at 
+any given time. It only stands to reason you’d use AI to make sure you show up in the right place. 
+Today, AI for SEO can:
+• Automatically identify and address technical SEO factors.
+• Create and optimize content for voice search.
+• Identify core topics and keywords to cover in new content to rank.
+• Identify key ranking factors needed to own search results across topics. 
+• Optimize existing content to rank better.
+• Quickly update and optimize local search results across locations.
+• Perform keyword research and construct keyword databases.
+Human marketers understand best what consumers are looking for in comprehensive, compelling 
+content and give them what they want. AI understands best what search algorithms are looking for 
+when ranking search results and gives them what they want. 
+It’s the perfect marriage of human and machine.
+13  |  AI for CMOs
+Now that you have a solid understanding of AI and its potential for CMOs, let’s take a look at how 
+real-world CMOs are actually using it. 
+We spoke to 14 CMOs or executives on CMO career tracks (marketing VPs and higher) to get the 
+inside scoop on how they’re approaching AI today.
+How Are CMOs Using AI Today?
+Every CMO or executive we spoke with is using AI today or rolling out pilots in the next several 
+months. Unsurprisingly, ChatGPT was a popular AI tool being used by these leaders. But they also 
+report using a range of other AI tools, including:
+• 6sense
+• Adobe’s native AI features
+• Beautiful.ai
+• BrandMuscle.ai
+• Canva’s native AI features
+• Content at Scale
+• DALL-E
+• Engage AI
+• Grammarly
+• Jasper
+• Intellimize
+• Midjourney
+• Topaz AI
+• Proprietary tools and algorithms trained on customer data.
+These executives use these tools and others across a diverse range of use cases. Many of their 
+initial use cases, though not all, are generative. These include:
+• Creating internal communications and reports.
+• Creating buyer personas.
+• Drafting sales and marketing emails.
+• Gap analysis.
+• Generating social media posts.
+• Generating visual creative assets.
+• Personalizing the customer journey.
+• Predicting which accounts are in-market.
+• Research assistance.
+• Summarizing content.
+• Writing and editing content.How Real-World CMOs Are Using AI14  |  AI for CMOs
+How Real-World CMOs Are Using AI
+Not to mention, most CMOs and executives we talked to are seeing tangible benefits from the 
+technology. These benefits typically fall into one of two categories:
+•  Reducing costs. CMOs are using AI to increase efficiency and boost team productivity 
+across common marketing tasks. 
+•  Increasing revenue. CMOs report that AI usage has led to higher conversion rates and 
+revenue uplift.
+When asked how AI was benefitting his company, Dariusz Paczuski, CMO at Confiant, said:  
+ 
+“It’s augmented intelligence. It makes us smarter, faster, and more productive.”
+What Challenges and Concerns Do CMOs Have Regarding AI?
+But AI adoption, despite its benefits, isn’t always easy. Leaders we spoke to cited a common set of 
+challenges and concerns related to AI as they go about understanding and using the technology.
+These include:
+•  Keeping up with AI. AI is moving forward at lightspeed. Several leaders said they struggle 
+to stay on top of all the AI tools available and their capabilities. (Not to mention, the noise 
+online around AI makes it even harder to know who and what to trust.)
+•  Ethical and legal considerations. More than one leader referred to AI today as the “Wild 
+Wild West.” Leaders struggle with the lack of current regulations around the technology, as 
+well as how to use the technology responsibly. They also struggle to create policies to govern 
+the internal use of AI and worry about using AI in a way that doesn’t violate copyright.
+•  Data and privacy concerns. Leaders are treading carefully when it comes to giving AI tools 
+access to sensitive data—and using AI in a way that respects customer privacy.
+•  Fear. At least one leader said their team was afraid AI could negatively impact their 
+jobs and roles. Some leaders cited how difficult change management could be, noting 
+challenges in getting teams onboarded with AI effectively and quickly.
+•  Impact on buyers. Some leaders find it difficult to gauge how AI will impact buyer behavior and 
+how content consumption patterns (like in organic search) will change as a result of AI tools.
+•  Accuracy. AI still makes plenty of mistakes. Several leaders worried that those mistakes can 
+be difficult or time-consuming to spot.
+How Will Hiring and Strategy Change in the Age of AI?
+AI is already changing how CMOs and leaders think about hiring and strategy.
+Even when CMOs told us that AI wouldn’t change their strategy, it is changing their expectations.
+“We still need the same people but should expect more productivity from them in certain cases,” 
+Paczuski at Confiant told us.
+However, others are already changing their hiring practices in response to AI.
+Wendy White, CMO at Daxko, said she’s now on the hunt for “AI whisperers.” Finding them is 
+critical to her hiring strategy moving forward.
+Jeff Staats, CMO at Haley Marketing, couldn’t agree more.
+“I think you will see more marketers looking to find prompt engineers and those people who can 
+really leverage AI from an ideation standpoint to create great posts, headlines, ad messaging, 
+etc.,” he said.
+15  |  AI for CMOs
+How Real-World CMOs Are Using AI
+It’s clear that CMOs expect experienced marketing hires to now have AI skills. But it doesn’t stop 
+there. Expectations around new hires have changed, too.
+“New graduates need to be skilled in AI,” says Jon Russo, founder and CMO at B2B Fusion.
+Regardless of seniority level, certain existing skills will still be highly valuable—or even increase in 
+value—in the age of AI.
+“Strategy, measurement, sales, consulting, training, and making people feel special: these are the 
+jobs that are still in demand,” says Andy Crestodina, CMO and co-founder at Orbit Media Studios.
+Along with hiring, strategy is evolving in response to AI as well.
+“Strategy will still be driven by the CMO, but AI will allow for faster testing and learning, speed 
+to failure, and course correction,” says Helen Baptist, Chief Strategy and Marketing Officer at 
+BrandMuscle.
+Many leaders agree that the pace of strategy creation and execution is going to accelerate 
+dramatically thanks to AI.
+“The insights you can pull and the way you can communicate strategy will be improved 
+exponentially with AI,” says Staats at Haley Marketing.
+Several leaders said they’re paying very close attention to how AI is changing content  
+marketing strategies.
+“Now that anyone can spin up an ebook or 1,500-word blog post in minutes, I believe it’s 
+imperative that our content be more human, opinionated, and interactive,” says Kathie Kinde 
+Clark, VP of Marketing at Elastio. “SEO and content marketing will be forever changed.”
+16  |  AI for CMOsThe market for generative AI alone is projected to grow to $1.3 trillion by 2032 from just $40 
+billion in 2022, according to Bloomberg. Non-generative AI will have up to a $6 trillion annual 
+business impact on marketing and sales alone, estimates McKinsey Global Institute.
+The size and speed of AI’s impact will vary across different industries and marketing functions. But 
+the sheer size of these numbers should open your eyes to the fact that AI is going to have a very 
+big impact on business as usual—very, very quickly.
+While the financial rewards for adopting and scaling AI are significant, the reality is that most 
+businesses are still in the infancy of AI adoption.
+The Need for Scale
+The learning curve and costs associated with deploying AI are major barriers to entry for many 
+marketing leaders and businesses. However, the early movers who crack the code of how to 
+profitably adopt and scale AI can build nearly insurmountable competitive advantages.
+Even if you’re just getting started, it’s not too early to plan your AI strategy with scaling in 
+mind. With hundreds of AI tools launching every week—and billions in funding flooding into AI 
+innovation—you can expect even nascent AI markets and use cases to mature quickly.
+That means marketing will get much smarter sooner than you think.
+Now is the time to start preparing your organization for the coming changes.
+   
+AI will reshape how all organizations work. It won’t just augment your team members—it will 
+literally be one of your team members.
+     
+Very soon, humans will work fully hand-in-hand with intelligent systems to play to each other’s 
+strengths. Humans will increasingly offload repetitive tasks and data-driven predictions to 
+machines. Machines will, in turn, provide guidance that humans will follow to successfully 
+complete the high-value strategic and creative tasks they’re best at.
+     
+Roles and organizations will change as a result of this division of labor. The marketer of tomorrow 
+will need to understand how to adopt and scale AI in order to build the hybrid human/machine 
+teams required to compete.
+     
+Our framework for adopting and scaling AI shows you how.
+The 10-Step Framework     
+This framework is excerpted, adapted, and updated from Marketing Artificial Intelligence: AI, 
+Marketing, and the Future of Business by Paul Roetzer and Mike Kaput.
+     
+The book draws on years of research and dozens of interviews with AI marketers, executives, 
+engineers, and entrepreneurs. Roetzer and Kaput present the current potential of AI, as well as a 
+glimpse into a near future in which marketers and machines work seamlessly to run personalized 
+campaigns of unprecedented complexity with unimaginable simplicity. 
+You can order the book here.Scaling AI for CMOs17  |  AI for CMOs
+Scaling AI for CMOs
+1. Create an Internal AI Council
+You cannot solve for scaling AI alone, no matter how smart you are or how much time and money 
+you have. You need to involve invested stakeholders across every business function in your 
+company when formulating near- and long-term AI strategy, developing policies and practices, 
+identifying use cases, and deploying technology.
+Ideally, this council brings together leaders and champions from every part of the organization to 
+drive every step of the AI-powered digital transformation process.
+2. Develop Responsible AI Principles for Your Organization
+In the process of making software more intelligent, AI has the potential to make brands more 
+human by enabling organizations to focus increased time and energy on communications, 
+creativity, culture, community, and the human condition.
+AI should make all of us better people, professionals, and organizations. However, this will not 
+happen without a continuous focus on the responsible application of AI across all business 
+functions. Before you embark on AI-powered digital transformation, your organization’s leaders 
+must clearly define responsible AI principles, policies, and procedures. This includes both general 
+AI policies as well as policies specific to how generative AI will and won’t be used by your 
+company. You can see examples of these types of policies from WIRED and the City of Boston.
+Every organization will have different policies to address different needs and perspectives. But, 
+for a starting point, you can use Marketing AI Institute’s responsible AI manifesto under a Creative 
+Commons license to build on.
+3. Develop an AI Roadmap with an Impact/Exposure Assessment
+AI needs to solve real business problems.
+There’s no magic to AI, despite its powerful capabilities. Your marketing doesn’t just become smarter 
+by buying an AI tool. And there’s no single AI platform to replace all of your existing martech.
+     
+Instead, AI performs narrow, specific tasks at superhuman levels, so in all likelihood, you’ll be 
+adopting a number of different tools for different use cases.
+     
+That means you have to map out a strategic vision first, one that includes real business cases for 
+AI that directly impact costs and revenue. Then, you must begin patiently experimenting with tools 
+that have the potential to realize that strategic vision, with the understanding your martech stack 
+will likely expand, not contract.
+This can take the form of an AI roadmap, a dynamic 3-5 year plan that prioritizes AI use cases and 
+projects and defines how to infuse AI across key areas of your marketing and business.
+Ideally, an AI roadmap should include:
+•  Discovery — An audit of your organization’s existing understanding and use of AI, as 
+well as its marketing strategy and goals. Discovery work may also include a wider analysis 
+of your industry as a whole and opportunities to build a fundamentally smarter business 
+powered by AI within it.
+•  Use Cases Priorities — AI pilot projects for narrow use cases build a foundation for 
+success. Your AI roadmap should include ideation and prioritization of near-term use cases 
+that you can start piloting AI for in order to secure quick wins.
+•  Problem-Based Priorities — In tandem with short-term pilots, your roadmap should also 
+include long-term initiatives to solve high-value business problems on multi-year timelines.
+18  |  AI for CMOs
+Scaling AI for CMOs
+•  Timelines — You’ll want to map out parallel timelines for all use case priorities and 
+problem-based priorities.
+•  Budgets — Budgets may change over time, but it helps to begin anticipating the costs of 
+both short- and long-term initiatives.
+•  Action Plans — Action plans bring together all previous steps into projects with teams and 
+owners who can turn ideas into actions on established timelines.
+As part of your roadmap or as a complement to it, you’ll also want to conduct an impact and 
+exposure assessment. 
+These assessments look at how AI technology might impact or disrupt current roles and career 
+paths within your organization. It is a key element of any AI-powered digital transformation, allowing 
+leaders to anticipate AI’s impact on human capital and take steps to mitigate that impact, provide 
+new opportunities to employees, and appropriately message around changes to internal roles.
+ 
+4. View Data as Essential to Success
+  
+As you build and follow your AI roadmap, it helps to remember that data is at the heart of all AI 
+adoption and scaling.
+    
+All AI adoption and scaling efforts start and end with assessing opportunities to get more out of 
+your data.
+     
+You’ll want to look at every aspect of your marketing program that uses data—or should be. 
+You’ll want to look at how data is acquired, cleansed, labeled, and structured. You’ll also want to 
+consider where it is stored and how it might be used to make your marketing smarter. Your data 
+strategy must also consider privacy concerns, data security, and issues around biased datasets.
+     
+In short, once you have a strategic vision, your next step is to get your hands dirty by documenting 
+where all of your data lives and what it looks like.  
+     
+5. Become an Informed Buyer of AI-Powered Technology
+     
+Marketers who lack confidence in evaluating AI will struggle to adopt and scale it.
+At the end of the day, AI is just smarter marketing technology. But you need to understand how AI 
+is smarter in order to confidently evaluate it for your adoption and scaling needs.
+     
+Just because marketing technology companies claim they use AI, machine learning, or deep 
+learning doesn’t necessarily mean their solutions are more intelligent than what you’re already 
+using. Not to mention, some companies have overhyped branding that exaggerates what their AI 
+is capable of doing.
+     
+As you search out technology to run pilots and longer-term problem-based initiatives, you’ll want 
+to ask vendors several (or all) of the following questions to start understanding if what they offer 
+does what they say it does.
+•  How does the vendor use AI (i.e. machine learning, NLG, NLP , deep learning, LLMs, 
+generative AI, etc.) in its products?
+• What are the primary marketing use cases for the company’s AI-powered solutions?
+• What makes the vendor’s solutions smarter than traditional approaches and products?
+•  Are there any minimum requirements (e.g. for data or list size) to get value out of the technology?
+• What data does the technology use and/or need?
+• How does the technology improve over time?
+• What training is needed for our team? Does the vendor provide it?
+19  |  AI for CMOs
+Scaling AI for CMOs
+• Will we need additional outside support to use the technology?
+• Do you integrate with other technologies in my current tech stack?
+• How does this technology solve for my current problem/need?    
+     
+6. Educate and Engaged Leadership
+  
+Early setbacks are normal at every stage of the process and cannot be allowed to stall long-term 
+AI plans.
+        
+There is a reasonable probability that one or more early pilot projects won’t meet the goals your 
+team sets. This cannot stop you from adopting AI. To make sure it doesn’t, you’ll want to get your 
+leadership team involved in the process from the start.
+     
+They must understand the potential short-term challenges, embrace the value of learning through 
+experimentation, and provide the necessary resources to succeed. This support becomes easier to 
+secure when you have clear plans, communicate with consistency and clarity, and always connect 
+AI projects to business goals that matter to your peers on the leadership team.
+    
+7. Reimagine Your Marketing Team 
+    
+Your marketing team five years from now may look nothing like it does today.
+     
+In coming years, AI-focused roles—like marketing AI specialist, AI ops leader, AI trainer, machine 
+manager, recommendation engine director, director of deep learning, VP of augmented 
+intelligence, and chief algorithms officer—could all find their way into your organizational 
+structure. In the process, they will redefine the knowledge and skills needed to drive growth.
+     
+Every business in every industry is susceptible to being obsoleted by someone who uses AI to 
+build a smarter business model and the talent organizations they build along the way. The time 
+is now to start taking the steps needed to reimagine roles and career paths. It’s also time to start 
+identifying AI-driven marketing agencies and consulting firms that can help you level up your 
+capabilities while you invest in upskilling your team.
+As you hire new talent, consider the job description and role for each hire: 
+• What tasks could AI take over?
+• What taks won’t be necessary? 
+• How can we reskill our team members to protect their roles in the coming years?
+    
+8. Train Your Team and Explore AI Together  
+     
+Team education is key to unlocking AI’s value for your company.
+Most organizations lack formal training programs to get existing employees up to speed on AI. 
+Yet, AI will be integrated into every aspect of marketing, impacting the roles and responsibilities 
+of every professional. If you are going to unlock the value AI can create, you will need education 
+programs designed to advance your entire marketing team.
+     
+AI education in the enterprise needs to be a top priority and a constantly evolving initiative as 
+technology advances at such a rapid pace. The knowledge and skills your team needs will be a moving 
+target, and marketers will have to constantly evolve to stay ahead of the curve and remain relevant.
+     
+And that education must look a lot different than the marketing education of the past. The new 
+age of marketers won’t just need to understand marketing. They’ll also need to be proficient in 
+data analysis and be able to work with AI to run marketing experiments.
+     
+20  |  AI for CMOs
+Scaling AI for CMOs
+9. Focus on Mutual Learning Between Humans and Machines    
+     
+Companies that win with AI are the ones that learn alongside machines.
+        
+Companies that outpace their peers with AI focus on continuous organizational learning, 
+specifically creating, retaining, and transferring knowledge between humans and machines, 
+according to research from MIT Sloan Management Review . These organizations are learning how 
+to systematically change processes based on learning with the outputs provided by machines.
+     
+According to the research, these organizations share three essential characteristics:
+     
+• They facilitate systematic and continuous learning between humans and machines.
+• They develop multiple ways for humans and machines to interact.
+• They change to learn and learn to change.
+     
+In fact, the organizations that invest in these activities are 73% more likely to achieve a significant 
+impact with AI.          
+       
+10. Consider How AI Can Make Your Brand More Human
+ 
+AI can be used for good or for evil, and the outcome is up to you.
+      
+In the process of making marketing more intelligent, AI has the potential to make brands more 
+human by enabling marketers to focus increased time and energy on listening, relationship 
+building, creativity, empathy, culture, and community. At the end of the day, AI should make us 
+better people, professionals, and brands.
+     
+However, this won’t happen without a focus on privacy, ethics, and morals.
+     
+Used in the right way, AI can actually preserve consumer privacy, allowing brands to speak to 
+customers without collecting intrusive data about them. It has the potential to help uncover 
+what consumers respond to without invading their personal lives. AI can even be the perfect 
+bridge between the consumer who wants to be protected and wants brands to speak to them in 
+personalized ways.
+     
+In fact, we believe AI will have a disproportionately net positive impact on industry and society. 
+But it will alter career paths, shift jobs, and chip away at consumer privacy. We must be willing to 
+have the hard conversations as an industry now, to make sure we do not ruin what will be the most 
+transformative technological shift we will experience in our lifetimes.
+     
+Those conversations start at the top, with you leading them. 
+21  |  AI for CMOsYou have a chance to be a pioneer in one of the most profound technological shifts in human history.
+CMOs are in a rare position to create change, to reinvent what it means to be a marketer. You 
+don’t have to become a machine learning or data science expert to take advantage of what AI 
+enables. You simply need to understand what’s possible with smarter technologies—and apply that 
+knowledge to your business and career.
+The reality is that tomorrow your career, campaign strategies, daily tasks, budgets, and tech stack 
+will look a lot like today. And next week will be similar to the week before. But month by month, 
+year by year, the marketing industry and profession will slowly, and then suddenly, look nothing 
+like it does today.
+As AI advances what’s possible with technology, a next generation of marketing leaders is emerging.
+These leaders aren’t defined as next-gen marketing leaders because of age but rather because of 
+their approach to embracing change and applying smarter technologies.
+Next-gen marketing leaders use AI to deliver the personalization and experiences modern 
+consumers expect, unlock previously unimaginable creative possibilities, and drive efficiency, 
+revenue growth, profits, and societal impact that the rest of the C-suite demands. The marketing 
+leaders who take action have the opportunity to create a significant and sustained competitive 
+advantage for their businesses and themselves.
+The choice is yours.
+Will you embrace change?
+Will you commit to unlocking your true potential in your company and career? Will you become a 
+next-gen marketing leader?It’s Time to Become a 
+Next-Gen Marketing Leader22  |  AI for CMOsLearn more at intellimize.com23  |  AI for CMOs
+About Marketing AI Institute
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders. The Institute owns and operates 
+the Marketing Artificial Intelligence Conference (MAICON), AI for Writers Summit and AI for Agencies 
+Summit, hosts The Marketing AI Show podcast, runs the AI Academy for Marketers featuring dozens of 
+on-demand courses, and published Marketing Artificial Intelligence: AI, Marketing, and the Future of 
+Business (Matt Holt Books, 2022). Learn more at www.marketingaiinstitute.com.
+About Intellimize
+Intellimize is an experience optimization and personalization SaaS platform that uses AI to 
+dynamically personalize website experiences across the entire buyer’s journey. Marketing teams 
+gain a competitive edge when using Intellimize to drive efficient pipeline and revenue growth in 
+a cookieless world. Leading marketing teams at Gong, Mercari, Okta, Dermalogica, Drift, Tubby 
+Todd and more trust Intellimize to inspire, test and learn faster, drive revenue, and be more efficient. 
+Intellimize is backed by Cobalt Capital, Addition, Amplify Partners, Homebrew, and Precursor 
+Ventures. Learn more at www.intellimize.com.

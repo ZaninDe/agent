@@ -1,0 +1,528 @@
+MARCH 2010 ISSUECommunity eBook
+Practical Social Media 
+Measurement & Analysis
+MARCH 2010 ISSUE
+www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com Copyright © 2010 - Radian6Community eBook
+Practical Social Media Measurement & Analysis
+Index   [ all chapter titles are hyperlinked ]
+Chapter 1 Getting Started
+Chapter 2 Measuring Awareness, Attention, and Reach
+Chapter 3 Measuring Leads, Conversions, and Sales
+Chapter 4 Measuring Cost Savings
+Chapter 5 Wrapping UpMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comChapter 1 
+Getting Started
+The idea of measuring social media is becoming 
+widely accepted as a necessary business 
+practice, but many are finding it tough to land 
+on the exact metrics they need to measure their specific social media initiatives. Indeed, there 
+is no one way to measure, and the metrics 
+your organization might need to measure the success of a social media campaign could be drastically different from those, even, of your 
+competitors.
+Still, the practical application of social media 
+measurement must start somewhere, and 
+we’ve tackled some of what we feel are the most telling starting points for measurement in this ebook, including defining metrics for capturing brand reach, tracking sales through social media, 
+and assessing cost savings.
+Context and Caveats
+Before diving in, though, we should make clear some context and caveats for how we approach 
+social media measurement.
+Context
+•  For measurement to be effective, it has to align directly with the measurable objectives 
+you’ve set. Those measurable objectives should be specific, measurable, actionable, realistic, and timed (following the SMART methodology), and directly correlate to 
+your organization’s big-picture goals for this program (i.e., we want to increase brand 
+awareness).
+•  Effective measurement rarely sits within the confines of a single metric, but rather in a combination of metrics that helps illustrate progress toward a goal. For example, follower counts or click-throughs on their own don’t tell you anything of value. Metrics gain 
+meaning when they’re weaved together to help you glean insights, not just data.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 1 Getting Started
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•  Having a hypothesis to start from is important. For instance, “We think that an increase in 
+blog subscribers over six months will correlate with an increase in sales,” or, “Post activity 
+on our help forum will decrease call center costs,” are strong hypotheses to get started 
+measuring and benchmarking. Build your goals based on these hypotheses, and measure against them to see if you’re on the right track.
+•  Measurement is a discipline and has to be wired into your organization. If you don’t measure anything else, you’re going to struggle to measure social media.
+•  It’s important to establish both qualitative and quantitative measurements for your goals, 
+because both matter in providing a holistic view of the progress of your social media 
+program.
+Caveats
+•  The approach taken in this ebook will help you establish a thought process for measuring 
+your social media activities rather than an exact methodology to be copied and pasted. 
+The thought process we demonstrate here is one that will help you see beyond fixed data points.
+•   Measurement at a granular level can limit perspective. Big-picture results – like annual sales – are influenced and impacted by several factors, so crediting small, segmented efforts directly and solely with reaching a larger goal is inaccurate. Measurement must 
+be looked at from a macro level to understand how the more detailed aspects of 
+measurement tie into the larger picture.
+•   There is no global set of standards that applies universally to measurement (and that’s true 
+for our more traditional metrics, as well). Measurement needs to be thought about and 
+addressed in the context of your organization’s needs and goals. Given enough time, there might emerge collections of useful metrics in specific contexts like lead generation or cost 
+savings, or verticals like pharma or consumer goods. That will require many organizations 
+to test consistent data over time and share results, and we’re just starting in that realm.
+•  To keep this ebook reasonably digestible, we’ve covered the metrics we feel are the most 
+straightforward and broadly applicable. If you’d like some more information on social 
+media metrics and measurement, take a look at Amber Naslund’s (Radian6’s Director of Community) del.icio.us bookmarks on the subject.
+Remember, measurement takes hard work, so if you understand that and are ready to dig in, let’s get started.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 1 Getting StartedMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comChapter 2 
+Measuring Awareness, Attention, and Reach
+When folks initially start to measure social 
+media, they tend toward more traditional 
+ideas of media metrics, or “eyeballs”. 
+The hitch with those ideas is that, today, just gathering lots of eyeballs isn’t what 
+actually matters, but rather gathering the 
+right eyeballs and then driving them to 
+some sort of action.
+Still, there’s value in awareness and 
+broadening the reach of your brand if you’re doing it with the right intent, so 
+let’s assume you’re ready to approach 
+measuring that reach from this angle, and let’s look at some of the kinds of 
+awareness, attention, and reach metrics 
+you might track.
+Fans, Followers, Subscribers, and Potential Reach
+When you talk in these terms, be aware that you’re looking at potential reach, not actual reach, 
+unless you can ensure that all of your friends or followers are logged in and viewing your content 
+on a given day. There are some loose ideas about peak usage times and percentages for varying 
+social networks, but getting actual reach numbers is going to be tough.
+For example, 50% of active users log on to Facebook on any given day , meaning only half your fans 
+are even likely to see your status updates, and that among the rest of the posts they view. So, you 
+might only be able to account for a 20%-30% view rate from your total following.
+For some practical measurement:
+•   Tap the networks/providers to get raw numbers of attention for your account(s). Look at 
+your potential reach by channel/site, and also across all channels in aggregate.
+•   If you have daily or monthly peak time and volume statistics for various sites (like your Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 2 Measuring Awareness, Attention, and Reach
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comwebsite), estimate what percentage of your friends/fans/followers you can reach with a 
+single post, then a week’s worth, and a month’s worth, etc.
+•  Look at the resonance of a single post by keeping track of retweets and shares. You may have to do several searches to get an accurate number, taking into account those that tag/cite you as a source, and those that simply put in the title of the post, your blog name, or a 
+few keywords without giving direct attribution. This is how you look at secondary reach, 
+or the friends of your friends that might see your posts.
+•  Add up the follower/friend counts of those that share your content for a ballpark estimate 
+of total potential reach for a particular piece of content.
+In this scenario, the hypothesis is that greater reach means a greater likelihood that for every X number of people, one of them will eventually take action, whether that means buy your product, 
+sign up for your service, or whatever else you’ve determined as “success”. The goal isn’t to gain the follower, but to propel them to action of some kind. To prove that, you have to:
+•  Look at your average monthly reach across all of your online networks.
+•  Count the number of transactions/conversions that you can determine as originating in one 
+of those channels during that same month.
+•   Establish the ratio: For every 10 people of potential reach, we can count two conversions, 
+or five new blog subscribers, or whatever your goal is.
+•   If you’re looking for a dollar value per fan or follower, you need to look at the total value of transactions referred from those online channels, and then divide that into the total number of people you reach in a given period to average the revenue out across your following.
+Share of Conversation
+Share of Conversation is a combination of a few metrics that we happen to think give you some strong insight into how your online activities are directly impacting your goals and objectives. 
+This metric helps you understand not just the volume of buzz about you, but how present and 
+recognized you are among the conversations you want to be associated with. In other 
+words, the right eyeballs.
+In this case, the hypothesis is that if you’re mentioned in relevant conversations, you’ll gain 
+mindshare and therefore increase the likelihood of someone choosing you over a competitor in the 
+same market.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 2 Measuring Awareness, Attention, and ReachMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comRadian6’s CEO, Marcel Lebrun, blogged in heavy detail the methodology for establishing the Share 
+of Conversation metric, but the high-level process looks like this:
+•  Set up a monitoring post for a topic, subject, or market within which you want to be talked 
+about. For example, if you’re a non-profit working in diabetes research, you might want to 
+look at conversations around “diabetes research”, “diabetes Support”, or any number of 
+subjects you’d like to be known/found for.
+•   Within that topic, track and count the posts that mention the topic(s) you’re interested 
+in during a specific time period. 30 days is generally a good window. (Metric 1: Total 
+Conversation Posts per 30 days.)
+•  Then, track the posts that mention that topic and mention you together during that same 
+timeframe. (Metric 2: Total Brand/Conversation Posts per 30 days.)
+•   Divide Metric 1 by Metric 2. The resulting percentage is your Share of Conversation.
+Take a look at Marcel’s post for more information about why this measurement really matters and 
+has deeper value than just “how many people are talking about us”.
+Strength of Referrals/Recommendations
+Another way of measuring some of the value of the attention your company receives in social networks is the number of recommendations or referrals you receive. You won’t be able to accurately 
+capture the ones that originate offline (i.e., Betty told her friend about you at the party, so her friend 
+visited your website today), but you can get a pretty good bead on the paths of recommendations and referrals that are actively articulated online.
+To start:
+•  Set up a monitoring post for mentions of your brand name, and any related variations.
+•  Among your results each month, classify or tag the ones that appear to be in 
+response to a request for information or referrals from the larger community as a direct 
+recommendation.
+•  Also classify or tag posts that have a positive sentiment, like, “Bob’s Towing is great and 
+I’d use them anytime!” You could classify that as an implied recommendation.
+•   Take a percentage snapshot over a week or a month period to see the percentage of posts that hit on your brand profile and that are classified under either referral category.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 2 Measuring Awareness, Attention, and ReachMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•   For a deeper look, map as many names/profiles as you can that are recipients of the direct 
+recommendations. Overlay those with your prospect/contact database and see how many 
+of them have actually entered your pipeline.
+•   Watch all these numbers over specific chunks of time (monthly, quarterly, annually) to see 
+how they move. Do they increase? Decrease? Can you correlate increased online outreach 
+(how much time you spend interacting and how much content you share/generate) with 
+increased referral percentages over corresponding periods of time.
+Inbound Links
+Link love is still alive and well on the web, and it still matters. It’s online currency, contributing to things like your visibility on Google. Measuring inbound links is pretty straightforward these days, 
+but again, it’s all about how you use that information to map other behaviors and insights.
+•   Track the inbound links to your site and resident content by using a service like Google Webmaster Tools, or a comprehensive monitoring tool like Radian6.
+•   Look at Google Analytics or your other web analytics tools to see the top referring sites to 
+your website.
+•  Take the top 10 or 20 and view the Compete.com data for each, looking at unique monthly visitors to get a sense of their potential reach (remembering the points in the first part of this chapter about potential reach and probability of eyeballs at any given time for a single 
+piece of content).
+•   Download the inbound external links table in Webmaster Tools, and group the links by time 
+period to graph their increase/trending over time.
+•  Observe how the ebb and flow of link volume ties to actions on your website or in your database during a corresponding period: search volume, conversions, signups, etc.
+•  Bonus: Look at the anchor text people are using in the Webmaster Tool to get some 
+insights about keywords or effectiveness of identifying terms.
+Social Bookmarks
+One way of looking at the extended attention you and/or your content are getting in the social realm 
+is to look at how many times people are bookmarking your content on a site like Delcious.com (the 
+example used here). This is another way of establishing the resonance of the content you produce, 
+or in which you’re mentioned. There are a few things you can do to manually track at least the potential reach of this kind of attention:Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 2 Measuring Awareness, Attention, and ReachMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•  Use your web analytics program to build unique parameters/URLs for the landing pages 
+that link from Delicious icons on your site and pages. Count how many people click on/
+through to them. WordPress plug-ins like ShareThis have analytics that will tell you who 
+shares content via Delicious.
+•  Do a search on Delicious.com for your company or blog name to see hits for bookmarks 
+that contain that name in the post/article title, in the content, or in the tags that users apply 
+to the post.
+•   For each bookmark, note the number in the blue box to the right that indicates how many 
+people have bookmarked that particular link.
+•   If you click on that number, you’ll see all the occurrences of that bookmark, as well as a 
+quick dropdown chart that shows bookmark volume over time for that article, so you can 
+see how much residual traction that content has.
+•   Under individual user profiles in Delicious, click on “Network” to see how many fans 
+someone has on their Delicious account, which can again look at their potential reach. 
+If you’re determined enough, you can count up the total secondary network for each 
+bookmarker. That’s going to take time, and whether that step is useful or not is up to you to decide based on your goals.
+•   Look at your referral analytics to see where Delicious.com sits on the list. You can likely correlate traffic volume per month with the number of bookmarks in the same time period.
+•  Also interesting to note: The percentage of new visits to your site as a result of Delicious.com 
+traffic. Is it a good source of fresh attention for you?
+•   Bonus: Look at the notes people are adding to the bookmarks to get an idea of the 
+terminology and words people are associating with you.
+This is a pretty meaty step that may or may not make sense for a lot of organizations. It takes a good deal of manual work to run these numbers. But if reach is something that’s really important to 
+you because it supports your goals and objectives, it might be worth looking at.
+Traffic from Shared Shortened Links
+Sites like Twitter have really ramped up the need and use of shortened links like TinyURL or Bit.ly 
+to accommodate character limits. But you can still track this information in your overall website 
+analytics to see how it drives people to your website and through conversion paths.
+Here, you’re analyzing which social networks generate active attention, and you can compare them 
+to one another.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 2 Measuring Awareness, Attention, and ReachMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•  Build a unique URL or parameter for your website destination using Google’s URL 
+generator or parameter tools in your analytics program.
+•   You can even build a unique one for each piece of content/URL specific to the social network you plan to post that destination to. In other words, you’d have several unique parameters for the same destination URL and would be able to track which came from 
+what site.
+•  Use a URL shortener with stats like Bit.ly to then shorten the unique URL and use that 
+shortened link to share on your social networks, keeping track of which you share where.
+•   Track the click-throughs and referrals from each unique URL and the conversion rate for each (i.e., what percentage of people signed up or bought or visited the pages you wanted them to).
+Note, if you’re using a tool like Google Analytics to do your tracking, you’ll have to set up appropriate tracking codes and events on the pages you’re directing people to. This step does take some 
+additional learning, but it’s worthwhile if measurement of traffic matters to you. If possible, enlist the help of some analytics pros to set up your paths and tracking to align with your site goals.
+Some More Context to Consider
+Note that in each of these examples, we point out the need to map these individual measurements 
+to the goals or actions you want to achieve. That’s the only way to know if more eyeballs means 
+something in the world of quantitative results.
+We believe that there are soft, intrinsic benefits to getting more people to know about you and your 
+work, from reputation building to ambient awareness and brand preference – all of which are harder 
+to measure with certainty, and all of which are ultimately about how those factors drive business.
+But, if you need to tie traffic and visibility to hard numbers for subscriptions, signups, sales, or leads, 
+you’ve got some work ahead of you, but it can be done. And if you do this, the qualitative part is the gravy.
+Most importantly of all, remember that you should only choose the metrics that help you 
+illustrate progress toward your goals. Without goals to start with and point to, your metrics will 
+only exist in a vacuum, and in a vacuum they’re meaningless because they tell you nothing.
+ Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 2 Measuring Awareness, Attention, and ReachMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comChapter 3
+Measuring Leads, Conversions, and Sales
+One of the chief things managers seem to want to be able to 
+do is draw lines and connect dots between their social media 
+participation and sales (or other conversion metrics). There are 
+two ways to do that, and one is much more difficult than the other.
+Cause and Correlation
+First is attribution or direct cause, which would indicate that 
+the social media initiative is the sales channel itself. Much like 
+Dell claiming that it has reaped millions in sales via their Twitter channel, in this instance you’re saying that your endeavors in one channel or another are the primary drivers for a particular revenue stream. The tricky bit here 
+is that a) there will always be external factors that influence sales transactions, and b) you have to 
+track and control how you put information in these specific channels to accurately attribute the revenue.
+Moreover, Dell was successful here because they’d built up a platform of trust and familiarity over 
+a long time, across several other channels: their blogs, IdeaStorm, their more support-focused 
+Twitter presence(s), and their longstanding e-commerce. They had an entire ecosystem of social media presence working in their favor here, and many businesses don’t yet have the track record, the deployment, or the commitment to replicate that. That’s why direct sales through social media 
+is such a sticky wicket.
+The second and more realistic way to track the impact of social media on revenue is by correlation. 
+In other words, you track your sales in aggregate, or perhaps in the more global online environment 
+(inclusive of your website and how leads funnel into your pipeline through the web overall).
+Then, you overlay trends in your online activity – say, the establishment of your community or the 
+building of your blog – and look at them alongside your sales activity. If both go up, you can indicate 
+a positive correlation, or the likelihood that your social media initiatives are helping to drive sales. 
+If social media activity goes up but the sales stay flat or go down, something isn’t working, or the social media piece of the sales puzzle isn’t effective.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 3 Measuring Leads, Conversions, and Sales
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comLikewise, correlation can also be in ratios. So, for example, a $50,000 investment in social media 
+(including time, money, or both) correlates with a $25,000 increase in sales over the same time 
+period. Note that this is not precise ROI, because this is measuring an investment in a single 
+channel against total sales. But you can look at the proportion in sales or lead traffic increase over 
+the time period in which you track your social media activities, and extract a relationship between 
+the two.
+Now that we’ve clarified the nuances of cause and correlation, let’s look at a few of the things you 
+might measure, in detail.
+Value Per Fan/Follower
+Before we get started with specifics, take into consideration 
+this quick distinction: if you want to track the value of a fan/
+follower in monetary terms, you have to attribute that value 
+to revenue in the same channel. So, if you want to establish the dollar value of a Facebook fan, you need to be tracking 
+the revenue generated via leads and traffic originating from 
+your Facebook efforts. (If you’re trying to establish the more intrinsic value of a fan in brand value or other qualitative 
+terms, that’s different and more complex.) That means, in a 
+simplistic fashion:
+•  Build in landing pages for your website that are only accessible via a specific URL not accessible from anywhere else on your site.
+•   Use that URL to generate unique parameters through your analytics software (Google URL 
+Builder or parameter tools in your paid platform), and use shortened links based on those 
+URLs that are unique to the landing pages you’ve designed for Facebook, Twitter, etc. Keep them separate when sharing them, and track which ones you use when and where. 
+You can use a spreadsheet for that.
+•  Use your analytics software to track referral traffic that originates on the specific social 
+network you want to track, either by generic URL (like Twitter.com) or through the unique 
+links/landing pages you’ve set up, or the aggregate of both.
+•   Look at the percentage of either conversions to leads from that referral traffic (i.e., they 
+filled out your contact form or emailed you for more information), and then through your 
+sales/CRM database, track which ones become customers.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 3 Measuring Leads, Conversions, and Sales
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•  Or, if you have e-commerce on your site, track the completed transactions that originate 
+from those referral sites.
+•  Take the total revenue generated in a 30-day period from these traffic paths, and divide it by the number of fans you have at the end of that same 30-day period to arrive at an approximate dollar value per fan or follower. Remember that this number will change as the 
+ratio of revenue to potential reach changes.
+Note, this is attempting to say that the value of a fan or follower is directly tied to the revenue 
+produced by that social network. It doesn’t take into account factors like business those fans 
+may do with you offline (therefore influencing the larger sales picture), those that have combined online experiences with you through several channels (because in this case their revenue would be 
+attributed to single behaviors), or things like brand lift, reputation, awareness, or reach.
+You may wish to take a more holistic approach to this, if you have the means and the (significant) 
+time, by cross referencing your fan and follower lists with your sales database, and looking at their 
+sales volume/value over a quarter or a year. Then, if you compare the annual value of a customer who overlaps with your social media efforts against customers who are not part of those followings, 
+you can compare and see if there’s a difference. In this case, you’d be saying that a customer 
+who is also connected with you on social networks is worth X amount more in a given time to your 
+business. This is a bigger picture metric, but perhaps more valuable since you’re looking at the 
+social media picture more strategically.
+Lead Generation
+For this metric, you need to do a lot of path mapping and tracking from the contacts that originate 
+on social networks and somehow make it into your pipeline. Whether you’re using a spreadsheet or 
+a sophisticated CRM system to keep track of your database, you’ll want a way to designate a lead 
+source, and tag it in a way that you can reference later. You can even split that source into specific social channels: blog subscribers, Twitter, LinkedIn contacts, etc. For example:
+•  For email leads that come in, if the source is obvious (i.e., I found you on Twitter), tag it as such. If not, consider asking in your reply.
+•  Include a field on your contact/website form that asks people how they found you and include your social presences.
+•  Tag leads that come in from offline events that tie to your social networking efforts, like 
+Tweet-Ups or conferences.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 3 Measuring Leads, Conversions, and SalesMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•  Path referral traffic to your site from social network URLs and map a contact form 
+submission or a click on a “Contact Us” email link as a conversion to a lead, and track 
+accordingly.
+•  Track direct leads from unique URLs and lead capture landing pages with the social 
+networks they were shared on.
+•  Track requests for content downloads behind email signups that are shared on social networks. Do the unique URL trick we talked about earlier for the links on separate networks, too, to get a better idea of where the downloads are coming from.
+•  Overlay names on your fan list with your lead pipeline. (Tip: If you do this from the start and do it on a regular basis, it’s much easier to handle just the new stuff as it comes in and cross reference accordingly.)
+•  Cross reference names in your community membership database with those in your lead pipeline.
+The first thing to do after you’ve gathered all this information is look at these stats in total. How many 
+leads do you generate each month 
+that are somehow tagged with a social media-related source? What 
+percentage are they of your overall 
+lead pipeline?
+For the last two or similar efforts 
+with other social networks, or, say, your blog email subscriber list, you can look at how many leads per month you generate that are unique to those channels and give a percentage (i.e., for every 25 
+LinkedIn Group members we have, we get an average of three leads per month). To truly maximize 
+this information, look at leads that have languished or aged in your database and are inactive, and which might be reactivated via a social media touchpoint.
+Something else to consider is lead stages. Many CRM platforms allow you to track the lead stages 
+themselves, whether the lead is brand new, or whether they’re in deeper consideration and talks 
+with your sales folks (this is big for B2B). You can also look at the leads that originate in social 
+networks and see how they’re distributed across those stages over time.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 3 Measuring Leads, Conversions, and Sales
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comConversion Rates
+The real value of this metric is not in looking at each channel (blog, Twitter, Facebook, etc.), but 
+in looking at the aggregate of all your social media efforts. Remember, conversion doesn’t have 
+to mean sales here; it can mean anything you would qualify as a successful interaction according 
+to your goals, be it an email newsletter signup, a blog subscription, a contact form submission, a content download, a contest entry, or, of course, a purchase.
+The hypothesis here is that your social media approach should be strategic overall, so that you 
+aren’t looking at one specific tactic (i.e., your community platform) but the aggregate of all of them.
+•  Track website traffic from social networks using some of the methods we’ve mentioned, like unique URLs shared on social networks and web analytics. This is the key step, because 
+you want to isolate as much as possible the traffic that comes from your social networks.
+•  In your analytics platform, learn how to set up conversion criteria. For example, in Google 
+Analytics, you can set up Goals, which are essentially specific landing pages on your site 
+that indicate to you that someone has done what you want them to do. That could be 
+a purchase receipt, submission confirmation, or a “thanks for signing up” page for your newsletter signup process.
+•  Look at the percentage of conversions that originate from social network URL referrals versus other sources (like search or direct traffic).
+Another way to look at this metric is by identifying conversions of leads to sales that have a social network affiliation or touchpoint with you but that didn’t necessarily originate there.
+•  When a lead comes in through any channel, cross reference it with your email subscribers for your blog, Twitter list, or Facebook fans. (Don’t have a database specific to people in your social media audiences? This might be a good reason to start building one.)
+•  Indicate the association(s) in your database.
+•  Look at the conversion percentage of those that have social network associations versus those that do not.
+•  The overall percentage/value difference can be positively correlated to social network activity.
+•  Bonus: Do leads associated with your social networks convert to sales more quickly or more 
+slowly than those that aren’t? That would be the time from the date the lead is opened in 
+your database to the date of the sale.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 3 Measuring Leads, Conversions, and SalesMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comLike we discussed earlier, this is really looking at the potential influence of social media participation 
+on a prospect’s buying likelihood and overall transaction value.
+Direct Response Sales
+The key here is very simple: you have to provide a unique mechanism for people to buy from you that is exclusive to either all of your social media channels, or 
+specific ones if you’re targeting individual communities. This is what Dell did, 
+with specific deals that were only available to Twitter.
+That can be a promotional code you distribute only inside your online community, 
+a specific and unique landing page you create only for your Twitter followers, or a coupon only available to your Facebook fans (and that they can share with their friends, perhaps). Then, you 
+have to deliberately and carefully track the sales that are generated through those initiatives.
+This is the one place you can calculate true rOI, or the monetary return on your investment in 
+something. You’d have to:
+•  Account for the time and expenses you put into a specific social media effort, such as your 
+Facebook fan page. That means people hours, costs for infrastructure, and a percentage 
+of overhead that’s relative to the time and human capital investment.
+•  Account for the direct sales that come from that effort, by tracking them as specifically as 
+possible.
+•  Take the sales, subtract the cost, divide the resulting number – the net profit – by the cost 
+figure again, and get a decimal figure. Multiply it by 100 to get a percentage. A positive 
+percentage means that you made more than you spent, or a positive ROI.
+Keep something in mind, though: information on the Internet is rarely without bleed into other avenues. You can get a code on Facebook, email it to 10 of your friends, and they can use it, too. 
+You can share a specific Twitter link with your friends and colleagues on different microblogging networks, like Yammer. Or you can retweet it, and therefore it’s not just sales via your Twitter 
+followers, but the Twitter community overall.
+The point here is to evaluate the sales not as only initiating from (or caused by) the specific social 
+network, but as a result of your presence on that network (because people will see it there first, and 
+if they share, you have extended reach).Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 3 Measuring Leads, Conversions, and Sales
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comWeb Analytics and Social Media Measurement
+You’ve no doubt noted the heavy burden we’re putting on web analytics as part of the measurement 
+equation, and there are several valid reasons for that.
+First, web analytics have had a longer time to mature, and are a very solid indicator of active 
+behaviors on a critical element of your online strategy (or, at least, it should be): your website. 
+Second, your website is home base for your organization, and since social media is online, a large 
+portion of your results and actions are also likely to occur online.
+Are there offline indicators of social media success? Yes, and you can track them if you’re diligent 
+enough to connect the dots (i.e., find out how many of your event attendees also follow you on Twitter, even if they bought their ticket elsewhere). But remember, measuring is not the goal; track 
+what helps you realize if you’re edging toward your goals, which, in this case, align with lead 
+generation, online activities, or sales through online channels.
+ 
+Chapter 4 
+Measuring Cost Savings
+Sometimes, the value in a business endeavor isn’t about 
+what goes up – like revenue – but what goes down, like 
+costs. Social media can have some very clear efficiencies, 
+most heavily on the customer service side, but also in areas like training or communications. Let’s have a look.
+Cost Per Issue Resolution
+In customer service arenas, most companies have a pretty distinct idea of what it costs them to attend to and 
+resolve issues through typical channels, like a call center. To 
+determine what it costs in both hard and soft measures to resolve a single customer service issue (in a simple fashion), 
+you need to:
+•  Determine the hard cost of hardware, TelCo service, 
+and software you use.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 4 Measuring Cost Savings
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.com•  Include the overall cost of human resources, including salary and benefits, dedicated to 
+issue resolution.
+•  Allocate a proper proportion of total business overhead to that department.
+•  Total the investment, and divide that by the average number of issues that are handled on a daily basis.
+If you’re tracking this through channels like phone or email and web support, you can also track it through social media. You’ll need to have a mechanism in hand to track the issues that you address 
+and resolve either exclusively through social channels (a stronger direct parallel to a customer 
+service call or email), or ones that originate there and move to other channels.
+If you have the resources and an established social media presence, you can start by doing A/B 
+testing by allocating some resources to only handle issues through social media channels, while 
+others continue to man traditional channels. Keep in mind that if you do that, your volume for social 
+media issues may be lower simply because of the newness of the medium, so you’ll want to look 
+at the costs proportional to the time spent doing issue resolution overall.
+Another thing to consider is peer-resolved issues. If you’re keeping track of the issues that are 
+resolved via channels like peer support forums, you can easily attach an approximate dollar value to those, assuming that at least a proportion of them would have come through mainstream support 
+channels otherwise (recognizing that some people would never try and navigate traditional channels 
+if the forum or online support weren’t available to them).
+Issue Resolution Time
+Another key area to monitor is the speed of issue resolution, or how much time it takes 
+from the moment an issue is captured in your 
+workflow to the time it’s closed and archived in your CRM or other customer service 
+tracking system. Most CRM or robust contact 
+management and customer service systems can generate reports on this for you if you’re 
+disciplined enough to route your issues through 
+the system.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 4 Measuring Cost Savings
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comYou’ll need to have some kind of tracking mechanism in place, at least at a high level, to evaluate 
+this properly. Track your offline issue resolution time as you normally would. To add social media 
+efforts to the mix:
+•  Tag or otherwise capture issues that originate in social media channels, like a complaint or question arising on Twitter first, or via a blog comment.
+•  Also tag or classify issues that resolve in social media channels, and how long they take 
+from the initial post to delivery of an answer or resolution.
+•  Track the hybrid ones, too, like those that start on the forum, but require carryover resolution through phone or email.
+•  Compare these three categories: traditional channel resolution time (email or phone 
+support), resolution time for issues that start in social media but resolve via phone/email, 
+and those that are handled via social media exclusively.
+If you’re evaluating your cost per issue, or if you have an idea of your overall department spend, you can do some breakdowns about your cost per minute or hour of issue resolution. Look at your total issue handling time in a given day as a proportion of overall business. Say that, on average, 
+75% of your business hours are spent with active issue handling. Take 75% of the total cost of your 
+department spend, and then break that into a cost per hour/minute mark.
+Once you have that estimate in hand, you can apply it to the three categories you’ve broken out 
+and look at the efficiency of issue resolution in each of those scenarios. It’s a rough figure and you can certainly calculate it with more detail, but keeping this general approach in mind can help you 
+at least get started.
+CPM/Cost Per Dollar Raised
+The CPM (cost per thousand) metric is a mainstay 
+of advertising, and the idea is that you break out the 
+total cost of an advertising campaign against the 
+total potential reach, and then calculate how much it cost you to reach every thousand people. While 
+there are some holes within that metric, it’s one many 
+executives still turn to, so it can be one weapon in your arsenal if you’re trying to prove the value or 
+efficiency of outreach in a social media aspect.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 4 Measuring Cost Savings
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comNon-profits also look at the cost per dollar raised, or the total investment in an initiative like a direct 
+mail campaign against the total funds raised through that effort. You can also do a similar thing 
+through social media, or track something like a cost per acquisition/lead, if you have some tracking 
+mechanisms in place. You’ll need to:
+•  Track the approximate/potential reach of a particular effort you deploy in social media, or the incremental reach of an offline campaign carried over into social media channels.
+•  Track the time and effort put into maintaining and managing that online presence from the 
+organization’s perspective, including staff hours. Do the same for the offline components if 
+you can, functions like managing a print/design process, or executing a mailing or media campaign. These soft costs matter.
+•  Account for any hard dollars spent, either for supporting work for the online effort (like development of a specific landing page), or for the offline efforts like print media that also support your online endeavor. You want an idea of how much hard cash you’re committed 
+to spending.
+ 
+Here, you can do two things. You can look at the total potential reach for all elements of the 
+campaign – offline and on – and break down the CPM or the cost per dollar raised in aggregate. 
+Compare that to past efforts you’ve deployed without social media, and look at the difference.
+You can also look at the online components exclusively, and compare the CPM/CPDR for the offline 
+versus the online components, and look at which delivers more proverbial bang for the buck.
+Training, Idea Generation, and Employee Education
+There’s no doubt that there are costs associated with training employees, 
+from getting them on board and up 
+to speed to continuing education for professional skills. Ask any HR 
+professional and they’ll tell you that 
+these costs can be significant, most especially on the soft side, or in the time 
+and energy costs for both the trainers 
+and trainees.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 4 Measuring Cost Savings
+MARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comSocial media capabilities and tools can impact this line item in several ways. Consider:
+•  Building a knowledge base, like a wiki or other collaborative resource center, to avoid 
+having to reinvent and redeploy training materials, and to spread the effort and costs of development across all of the contributors.
+•  Creating a video library of employee-generated tutorials, tips, and ideas based on common training needs for new employees.
+•  Building an internal social network or communication platform so that employees can 
+share their best practices and learning on an ongoing basis.
+•  Looking into attending seminars and events virtually, or creating materials, links, and 
+information from backchannel discussions, like on Twitter.
+•  Hosting organized peer-sharing sessions on Skype to do remote meetings or training sessions.
+•  Deploying an internal UserVoice or other idea capture/voting mechanism to curate ideas 
+for improving business processes, like a virtual suggestion box.
+To measure and demonstrate the value in these endeavors, you need to be benchmarking the costs of your training and ongoing education, including things like conferences, as they are now. 
+And once you deploy ideas like this, you’ve got to put in place some feedback mechanisms to see how well the alternatives fare.
+For example, if you deploy a UserVoice system, track the ideas that you actually elect to implement, 
+and measure their impact on your processes and budgets over the first six months. Compare the 
+cost savings or increased revenue or awareness you generate from those ideas against the costs 
+for deploying and maintaining the UserVoice platform, and approximate the return.
+Ask for feedback from your employees, too. If they’re using a wiki to find information they need for 
+their job, ask them to approximate how much time they would have to spend tracking down that information through other means. Conduct informational, quick surveys of your team members to 
+see if they’re taking advantage of these tools, and how they’re impacting their job performance.
+You might be able to correlate savings or efficiencies in ways you didn’t think of, like the reduced 
+costs for meeting space and travel by conducting training virtually. Or time saved by viewing a 
+10-minute video tutorial for a process instead of having employees burn an hour in a less efficient live session.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 4 Measuring Cost SavingsMARCH 2010 ISSUE
+Copyright © 2010 - Radian6 www.radian6.com  |  1-888-6RADIAN (1-888-672-3426)  |  community@radian6.comChapter 5 
+Wrapping Up
+You’ve likely noticed how much of what we’ve talked about has to do with tracking. That’s really the 
+essence of measurement – you have to capture the data before you can do anything with it.
+That fact is also why there is never a single, concrete process for how you measure something. 
+There are equations – like ROI or ROE – that are more or less fixed, but how you derive the elements 
+of that measurement (in these cases, the I or the E) is dependent on your processes and what you 
+choose to track.
+And, if you want to know the ROI of a particular campaign or initiative, you have to be tracking the 
+“I”, or the investment, That means you have to at least approximate both the hard and soft costs 
+relative to the efforts you undertake. That is time consuming work, but it’s impossible to be serious about measurement and bypass the work involved. Measurement is a discipline and it takes a 
+consistent investment in time and effort.
+Ready to Get Started?
+Take this as a primer for getting started measuring your efforts in social media. As we said at 
+the beginning, we view the metrics tackled here as the most straightforward and broad reaching 
+metrics out there, but there are loads more metrics available that are applicable to your goals and 
+objectives than just these.
+This is what we do, and the Radian6 platform is a robust listening, monitoring, and measurement 
+tool that can help you capture the data you need to assess the progress and success of your social media programs. If you’ve got any questions, comments, or feedback, or you’re ready to give us a 
+try, just let us know.
+Find us on the web: http://www.radian6.com
+Follow us on Twitter: http://www.twitter.com/radian6
+Read the Blog: http://www.radian6.com/blog
+Click here to request a live web demo of Radian6.Community eBook  | Practical Social Media Measurement & Analysis
+Chapter 5 Wrapping Up

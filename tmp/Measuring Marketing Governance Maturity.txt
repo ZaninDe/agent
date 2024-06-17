@@ -1,0 +1,337 @@
+ 
+www.demandmetric.com     Call a Principal Analyst:   
+  (866) 947 -7744 
+ 
+ 
+ 
+How To Guide  
+Measuring Marketing Governance Maturity  
+ 
+ 
+ 
+ 
+ 
+Executive Summary:  
+ 
+ 
+Governance refers to formal management processes engaging cross -
+functional steering committees for strategic planning, project 
+prioritization, and performance measurement initiatives.  
+ 
+For many large enterprises, Sarbanes -Oxley has been the catalyst for 
+implementing and refining these business processes.  
+ 
+Advanced Marketing professionals are capitalizin g on the Governance 
+function by adopting their own formal processes to plan, select projects, 
+and monitor performance. By adopting Best Practice Marketing 
+Governance processes, you can better:  
+ 
+ 
+ Align your strategy and project selection with the business’ 
+goals and objectives;  
+ Gain C -Level buy -in; and  
+ Measure project success using standardized tools and 
+methodologies.  
+ 
+Most North American mid -sized companies do not have a mature 
+marketing governance process in place. Use this report to learn the Best 
+Practi ces for Marketing Governance and follow the step -by-step action 
+plan to set up and maintain this function in your organization . 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 2 
+Table of Contents                                Page  
+ 
+ 
+Introduction         3 
+ 
+Benefits of Marketing Governance      3 
+ 
+The Capability Maturity Model       4 
+ 
+The COBIT Standard        5 
+ 
+Establishing a Governance Benchmark      6 
+ 
+Developing Marketing Governance      6 
+ 
+Maintaining Best Practice Governance      7 
+ 
+Conclusion           7  
+ 
+ 
+ 
+      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 3 
+Introduction   
+ 
+ 
+ 
+ 
+Marketing has the unenviable reputation as the line of business that is 
+not held accountable for achieving specific, measurable, bottom -line 
+results. Finding a bean counter that does not view Marketing as a cost 
+center - producing intangible results - is a daunting task.  
+ 
+One of the primary reasons for this is the notable absence of a 
+Marketing Governance function in most organizations.   This lack of 
+structure has led to decreased confidence among senior level peers, 
+reduced budgets, and a feeling around t he boardroom table that 
+marketing should not be involved in “strategic” decisions. Establishing a 
+culture for Marketing Performance Management (MPM) requires that 
+sound infrastructure is in place for evaluating decisions and results.  
+ 
+ 
+ 
+What is Marketing G overnance?  
+ 
+Marketing Governance is a structure of processes, procedures, and 
+policies used to optimize the management of Marketing functions.   
+ 
+ 
+ 
+What are the benefits?  
+ 
+ 
+ Aligned business & marketing strategy  
+ Goals & Objectives map to quantifiable metrics  
+ Increased accountability & support from senior management  
+ Ability to execute integrated multi -channel campaigns  
+ Established decision -making & prioritization processes  
+ Ability to measure marketing performance  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 4 
+The Capability Maturity Model   
+ 
+   
+ 
+ 
+In order to improve an organization’s marketing function it is important 
+to understand the maturity of its current processes and procedures. The 
+Capability Maturity Model (CMM), originally designed by Carnegie Mellon 
+University as a method for improving Software Engineering Process 
+Management, can be used to assess the maturity of other business 
+processes including Marketing Governance.  
+ 
+ 
+CMM (see diagram below) helps organizations understand and deploy 
+Best Practices related to process management. Since governance is a 
+business process, it can be plugged into the CMM model to provide a 
+benchmarking tool for companies wishing to systematically improve 
+organizational maturity in this area.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 5 
+The COBIT Standard   
+ 
+ 
+ 
+ 
+Another management tool that can be used to develop and refine 
+Marketing Governance is the COBIT standard. Developed by the IT 
+Governance Institute to help IT organizations address Sarbanes -Oxley 
+regulations, COBIT is a Best Practice framework for process 
+manageme nt that can be easily adapted for Marketing Governance.  
+ 
+Use the summarized & adapted COBIT framework below to understand 
+the Marketing Governance process management maturity levels.   
+ 
+For more information on COBIT, please consult: www.isaca.org/cobit/   
+ 
+ Level 0 – Non-Existent: No senior management oversight of 
+Marketing activities.   
+ 
+ Level 1 – Initial/Ad Hoc: Regular governance practices such as 
+review meetings, creation of performance reports, and 
+investigation in to problems take place, but rely mostly on the 
+initiative of the Marketing management team.  
+ 
+ Level 2 – Repeatable/Intuitive: Senior management is involved 
+only when there are major problems or successes. The 
+measurement of Marketing performance is typically limited to 
+technical measures and only within the Marketing function.   
+ 
+ Level 3 – Defined Process: Specific procedures for management 
+covering key governance activities have been developed. These 
+include regular target -setting, reviews of perform ance, and 
+project planning and funding for any necessary Marketing 
+improvements.  
+ 
+ Level 4 – Managed & Measurable: Target -setting has developed 
+to a fairly sophisticated stage with relationships between 
+outcome goals in business terms and Marketing process 
+improvement measures now well understood.    
+ 
+ Level 5 – Optimized: The Marketing governance practices have 
+developed into a sophisticated approach using effective and 
+efficient techniques. There is true transparency of Marketing 
+activities, and the board fe els in control of the Marketing 
+strategy.  
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 6 
+Establishing a Governance Benchmark  
+Developing a Governance Benchmark   
+ 
+   
+ 
+ 
+Developing Marketing Governance Review the Capability Maturity Model 
+in conjunction with the summarized COBIT Standard to identify what 
+level of maturity best describes your current state of Marketing 
+Governance.  
+ 
+Once you understand your current state, look at what processes and 
+procedures are required to move your organization to the next maturity 
+level. These points can be used as goals & objectives that guid e your 
+steering committee.  
+ 
+   
+ 
+ 
+ 
+ 
+ 
+ 
+Follow this step -by-step action plan to adopt Marketing Governance:  
+ 
+ 
+ Understand the value of Marketing Governance  
+ Determine your organization’s current maturity level  
+ Establish sponsorship from the senior management team  
+ Build cross -functional steering committee of key executives  
+ Hold kick -off meeting & schedule quarterly conferences  
+ Set goals & objectives for improving Marketing Governance  
+ Determine how marketing results will be  measured (ROI etc)  
+ Assign action items to the appropriate attendees  
+ Manage allocated responsibilities on a proactive basis  
+ Conduct next meeting to track achievement of objectives  
+ 
+Use Demand Metric's Steering Committee Charter Template  to set 
+the direction and ground rules for your committee.     
+ 
+ 
+ 
+ 
+  
+ 
+ 
+www.demandmetric.com   Call a Principal Analyst:   
+  (866) 947 -7744 
+ 7 
+Maintaining Best Practice Governance  
+Conclusion   
+ 
+ 
+ 
+ 
+Marketing professionals at mid -sized enterprises need to be disciplined 
+and keep their colleagues committed to governance. Holding quarterly 
+meetings to measure results on Marketing initiatives is a great way to 
+engage C -level executives and improve the profile of t he marketing 
+function in the organization.   
+ 
+Use Demand Metric ’s Meeting Agenda Templa te and Meeting 
+Minutes Template  at each meeting . Make sure to distribute the agenda  
+to attendees before the  meeting to facilitate the discussion. Periodic e -
+mail updates on progress keeps the steering committee  in-the-loop 
+with rega rd to their agreed priorities.  
+ 
+Demonstrate leadership by introducing standardized corporate  
+performance measurement systems like the Balanced Scorecard, which 
+is much more effective than ROI to illustrate how Marketing adds value, 
+and ensures Customer -Centricity is at the top of every executive’s 
+mind.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Governance is critical for improving marketing performance and 
+increasing the strategic role of the marketing function to the 
+organization. It establishes a framework for aligned decision -making  and 
+results -driven action. Do not delay adopting these Best Practices in your 
+Marketing department.   
+ 
+ 

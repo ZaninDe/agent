@@ -1,0 +1,513 @@
+Guia de aperfeiçoamento do Exame 
+de Fundamentos do AdWords Guia de aperfeiçoamento do Exame de Fundamentos do AdWords 
+Bem-vindo(a) ao Guia de aperfeiçoamento do Exame de Fundamentos do 
+AdWords: a maneira perfeita de se preparar para o Exame de 
+Fundamentos do AdWords. Este guia fornece informações sobre os 
+aspectos básicos e intermediários da publicidade on-line e sobre o Google 
+AdWords, incluindo os benefícios da publicidade on-line, como configurar 
+e gerenciar uma campanha do Google AdWords e como avaliar e otimizar 
+o desempenho de sua campanha. 
+Este recurso útil é uma versão resumida do guia de estudo dos 
+Fundamentos do AdWords , que está disponível na Central de Ajuda 
+do Google Partners. 
+Lembre-se de que o Exame de Fundamentos do AdWords abrange o valor da publicidade 
+on-line, como configurar uma campanha do Google AdWords, como avaliar e otimizar 
+o desempenho e muito mais. O exame terá 100 perguntas  e um limite de tempo de 
+120 minutos . A pontuação mínima para aprovação é de 80% . Para conseguir o certificado 
+em Google AdWords, é preciso passar no Exame de Fundamentos do AdWords e em um 
+dos Exames de publicidade no AdWords. Guia de aperfeiçoamento do Exame de Fundamentos do AdWords 
+1.1 Vantagens da publicidade on-line e do Google AdWords 
+1.2 Redes de publicidade do Google 
+1.3 Onde seus anúncios podem ser exibidos 
+1.4 A qualidade de seus anúncios 
+1.5 O que você paga 
+2.1 Como escolher um tipo de campanha 
+2.2 Como estruturar sua campanha  
+2.3 Como segmentar seu público-alvo 
+2.4 Como definir lances e orçamentos 
+2.5 Como criar grupos de anúncios 
+2.6 Ferramentas para planejar uma campanha 3.1 Avalie seus resultados 
+3.2 Ferramentas para avaliar seu desempenho 
+3.3 Avalie as métricas relevantes para suas metas 
+3.4 Otimize sua campanha 
+Módulo 1: Como entender o valor da publicidade on-line Módulo 3:  Como avaliar e otimizar o desempenho Neste guia de aperfeiçoamento, serão abordados os seguintes temas: 
+Módulo 2:  Como configurar uma campanha do Google AdWords   Módulo 1:  Como entender o valor da publicidade on-line Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 1  
+1.1 Vantagens da publicidade on-line e do Google AdWords 
+O Google AdWords permite que você aproveite ao máximo a publicidade 
+on-line ao mostrar seus anúncios para as pessoas certas, no lugar certo 
+e na hora certa. O Google AdWords oferece várias vantagens, mas estas 
+são as principais: 
+1. Segmente seus anúncios: a segmentação permite que você 
+exiba seus anúncios para alcançar as pessoas com interesses 
+específicos, ou seja, as pessoas que estão interessadas 
+em seus produtos e serviços, e exiba anúncios relevantes. 
+Suas campanhas do Google AdWords podem ser ainda mais 
+segmentadas com o uso de parâmetros, como palavras-chave, 
+local do anúncio, idade, local, idioma, dias, horários, frequência 
+e dispositivos. 
+2. Controle seus custos:  com o Google AdWords, você pagará 
+somente quando alguém clicar em seu anúncio. 
+3. Avalie seu sucesso : com o Google AdWords, você sabe se 
+alguém clicou em seu anúncio. Se a pessoa clicar em seu 
+anúncio e, depois, realizar alguma ação valiosa para sua 
+empresa (comprar seu produto, fazer o download de seu 
+aplicativo ou ligar para fazer um pedido), também será 
+possível acompanhá-la. 
+4. Gerencie suas campanhas:  se você gerencia várias contas 
+do Google AdWords, uma conta de administrador do Google 
+AdWords é uma ferramenta poderosa que pode economizar 
+seu tempo. Você também pode gerenciar sua conta do 
+Google AdWords off-line com o AdWords Editor. 
+Saiba mais sobre a  publicidade no Google AdWords» 
+1.2 Redes de publicidade do Google 
+Com o Google AdWords, seus anúncios podem ser exibidos em 
+uma ou em ambas as redes de publicidade do Google: a Rede de 
+Pesquisa e a Rede de Display do Google. 
+A Rede de Pesquisa  inclui a Pesquisa Google, outros sites 
+do Google (como Maps e Shopping) e centenas de websites 
+parceiros de pesquisa que não são do Google (como AOL) que 
+exibem anúncios do Google AdWords de acordo com os 
+resultados de pesquisa. 
+Essa rede pode ajudar os anunciantes a exibir seus anúncios 
+de texto ao lado dos resultados de pesquisa do Google e a 
+alcançar clientes que procuram ativamente seu produto ou 
+serviço específico. 
+A Rede de Display  inclui um conjunto de websites do Google 
+(como o Google Finance, o Gmail, o Blogger e o YouTube), sites 
+parceiros e sites e aplicativos para dispositivos móveis que 
+exibem anúncios do Google AdWords de acordo com o conteúdo 
+de uma determinada página. 
+Essa rede pode ajudar os anunciantes a utilizarem formatos 
+de anúncio atraentes para alcançar uma ampla gama de clientes 
+com interesses abrangentes. Também pode promover o 
+reconhecimento da marca, a lealdade e o engajamento com 
+os clientes, e permite escolher mais especificamente onde 
+os anúncios deles podem ser exibidos e para que tipo 
+de público-alvo. 
+Saiba mais sobre as  redes de publicidade do Google» 
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 1  
+1.3 Onde seus anúncios podem ser exibidos 
+Para entender como funciona o Google AdWords, você precisa se 
+familiarizar com alguns dos principais blocos de construção: onde seus 
+anúncios podem ser exibidos, a qualidade de seus anúncios e quanto 
+você paga por eles. 
+Como exibir seus anúncios nos resultados de pesquisa 
+Você usa  palavras-chave (palavras ou frases que descrevem seu 
+produto ou serviço) para segmentar seus anúncios. Quando alguém 
+procura termos que são semelhantes às suas palavras-chave, seus 
+anúncios podem ser exibidos ao lado ou acima dos resultados de 
+pesquisa em sites que fazem parte da Rede de Pesquisa. 
+As palavras-chave também ajudam a determinar quanto você paga.  
+Cada uma de suas palavras-chave tem um valor de lance de  custo por 
+clique máximo   (ou "CPC máx."). 
+Formatos de anúncio da rede de pesquisa 
+Também é importante pensar nos anúncios de texto e anúncios com 
+extensões, que são diferentes tipos de anúncio que podem ser exibidos 
+em sites da Rede de Pesquisa. 
+● Anúncios de texto  são compostos por um título, um URL 
+de visualização que mostra o endereço de seu website 
+e uma descrição. 
+● Extensões de anúncio  são aprimoramentos visuais dos 
+anúncios da Rede de Pesquisa que exibem com mais 
+destaque informações sobre sua empresa, como número de 
+telefone, localização ou links para outros itens de conteúdo 
+relevante em camadas mais profundas em seu sitemap. 
+Como exibir seus anúncios em websites na Internet 
+Você também pode optar por exibir seus anúncios para as pessoas enquanto 
+elas navegam na Web, na Rede de Display. Seus anúncios podem ser exibidos 
+em websites, canais específicos que você escolhe ou em websites com base 
+nos métodos de segmentação de sua preferência, como palavras-chave, 
+canais, públicos-alvo e tópicos. 
+Assista este vídeo para saber mais sobre a  Rede de Display . 
+Formatos de anúncio gráfico 
+Esta é uma lista dos formatos de anúncio que você pode usar na Rede 
+de Display: 
+● Anúncios responsivos 
+● Anúncios gráficos 
+● Anúncios rich media 
+● Anúncios em vídeo 
+Como exibir seus anúncios em celulares 
+Alcance clientes em potencial enquanto eles pesquisam ou visitam websites 
+em qualquer lugar, por exemplo, ao pesquisar ou fazer compras pelo celular. 
+Saiba mais sobre os diferentes  lugares em que seus anúncios podem 
+ser exibidos» 
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 1  
+Como exibir seus anúncios para públicos-alvo específicos 
+Se você tem anúncios de texto, pode optar por exibi-los para clientes 
+de todo o país, de um determinado local geográfico e até mesmo para 
+clientes que usam nomes de locais nas pesquisas deles. Você 
+também pode segmentar suas campanhas para os idiomas de seus 
+clientes em potencial. 
+Saiba mais sobre  onde seus anúncios podem ser exibidos» 
+1.4 A qualidade de seus anúncios 
+Como entender o Índice de qualidade e a classificação do anúncio 
+Anúncios de maior qualidade podem levar a posições melhores com 
+preços mais baixos. 
+O Índice de qualidade  registrado em sua conta é uma estimativa 
+da qualidade de seus anúncios e das páginas de destino acionadas 
+por essa palavra-chave nos leilões ao longo do dia. A  classificação 
+do anúncio  determina a ordem em que seu anúncio é exibido na 
+página (também conhecido como posição do anúncio). 
+Os componentes do Índice de qualidade são taxa de cliques (CTR, 
+na sigla em inglês) esperada, relevância do anúncio e experiência 
+na página de destino. A cada palavra-chave é atribuído um Índice 
+de qualidade em uma escala de 1 a 10, onde 1 é a pontuação 
+mais baixa e 10 é a mais alta. 
+Quanto mais relevantes forem seus anúncios e páginas de destino para o 
+usuário, maior será a probabilidade de você ter um Índice de qualidade maior e 
+aproveitar as vantagens de ter componentes de melhor qualidade na 
+classificação de seu anúncio, como uma posição mais alta ou um custo por 
+clique (CPC) menor. 
+Saiba mais sobre  a qualidade de seus anúncios»  
+1.5 O que você paga 
+O Google AdWords permite que você controle seus custos 
+de publicidade e não estipula um valor mínimo para gastar. 
+Em vez disso, você define um orçamento diário e escolhe 
+como gastar seu dinheiro. 
+Como escolher uma estratégia de lances 
+Escolher como gastar seu dinheiro significa escolher como você deseja definir 
+lances. Tente escolher uma estratégia de lances com base em suas metas, por 
+exemplo, se você quer se concentrar em receber cliques, impressões ou 
+conversões. As estratégias de lances são custo por clique (CPC), custo por mil 
+impressões (CPM) e custo por aquisição (CPA) .
+Como definir um orçamento diário 
+O orçamento diário é o valor que você pretende pagar por dia, em média, para 
+cada campanha de anúncios em sua conta. 
+Mas, embora seus custos reais possam variar, seu orçamento diário coloca um 
+limite de quanto você pode acumular nos custos sobre o número médio de dias 
+em um mês. 
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 1  
+Para mais diretrizes sobre como configurar os orçamentos e lances 
+certos, confira  este vídeo .
+Quanto você paga 
+Se você utilizar lances de CPC ou CPM, pagará somente o necessário 
+para que seu anúncio seja exibido em uma posição mais elevada do 
+que o anunciante imediatamente abaixo de você. 
+Se você utilizar lances de CPA, o valor real cobrado pode exceder seu 
+lance específico. Isso ocorre porque o valor real depende de fatores 
+que estão fora do controle do Google, como alterações em seu 
+website ou em seus anúncios ou o aumento da concorrência em 
+leilões de anúncios. No entanto, nosso sistema foi projetado para 
+ajustes no decorrer do tempo. Sendo assim, quanto mais tempo você 
+usa os lances de CPA, menor a probabilidade do CPA real exceder o 
+lance especificado. 
+Saiba mais sobre o que você paga»   Módulo 2: Como configurar uma campanha 
+   do Google AdWords 
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 2  
+Subtipos de campanha 
+Quando você cria um dos tipos de campanha acima, também precisa  
+escolher um subtipo de campanha mais específico. Os subtipos mais  
+comuns são: “Padrão” ou “Todos os recursos”. 
+Você pode escolher um subtipo de campanha especializada para 
+poder fazer o remarketing de seus anúncios ou exibi-los em 
+aplicativos para dispositivos móveis. 
+Remarketing 
+Exiba anúncios de texto, gráficos ou em vídeo para pessoas que já  
+acessaram seu website quando acessam outros sites na Rede de  
+Display. 
+Anúncios em aplicativos para dispositivos móveis 
+Alcance o público-alvo em crescimento de pessoas que usam  
+celulares e tablets exibindo seus anúncios em aplicativos. Seus  
+anúncios serão correspondidos a aplicativos em toda a Rede de  
+Display. 
+Saiba mais sobre como escolher um tipo de campanha »
+Quando você começa a configurar sua campanha do Google AdWords,  
+precisa escolher um tipo e um subtipo de campanha. 
+Os tipos de campanha mais comumente usados são:  
+Apenas na Rede de Pesquisa   
+Os anúncios podem ser exibidos em websites da Rede de Pesquisa  
+do Google.  Suas palavras-chave do Google AdWords são vinculadas  
+a palavras ou frases que alguém usa para pesquisar no Google.  
+Em seguida, anúncios de texto relevantes são exibidos nas páginas  
+de resultados de pesquisa. 
+Apenas na Rede de Display   
+Os anúncios podem ser exibidos em toda a Rede de Display do Google.  
+Nesse tipo de campanha, seus anúncios (incluindo anúncios de texto,  
+gráficos, rich media e em vídeo) são correspondidos a websites e outros  
+canais, como YouTube e aplicativos para dispositivos móveis, com  
+conteúdo relacionado a sua segmentação. 
+Rede de Pesquisa com exibição em Display 
+Você pode exibir seus anúncios (incluindo de texto, gráficos, rich media  
+e em vídeo) com resultados de pesquisa na Rede de Pesquisa do  
+Google e em canais relevantes na Rede de Display. Com essa opção,  
+seu orçamento é compartilhado nas duas redes. 
+Confira este vídeo sobre tipos diferentes de campanhas»  
+2.1 Como escolher um tipo de campanha Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 2  
+2.2 Como estruturar sua campanha 
+O Google AdWords é organizado em três camadas: conta,  
+campanhas e  grupos de anúncios. 
+● Conta:  sua conta é associada a um endereço de e-mail,  
+uma senha e informações de faturamento exclusivos. 
+● Campanhas:  cada campanha em sua conta tem  
+orçamento e configurações próprios que determinam  
+onde seus anúncios serão exibidos. 
+● Grupos de anúncios: cada grupo de anúncios em uma  
+campanha contém um conjunto de anúncios e  
+palavras-chave semelhantes que você deseja para acionar  
+a exibição de seus anúncios. 
+Como estruturar sua campanha 
+Com o Google AdWords, você organiza sua conta em campanhas 
+diferentes. Cada campanha se concentra em uma única meta de 
+negócios. Uma abordagem eficaz é organizar suas campanhas por 
+temas ou produtos específicos. No nível da campanha, você pode 
+controlar os itens a seguir: 
+● Quanto deseja gastar com cliques, impressões ou 
+conversões de seus anúncios 
+● Redes e locais geográficos onde deseja que seus 
+anúncios sejam exibidos 
+● Outras configurações de nível superior que afetam seus 
+grupos de anúncios 
+Como organizar seus grupos de anúncios 
+Cada campanha contém um ou mais grupos de anúncios. Com um  
+grupo de anúncios, você pode organizar sua campanha em conjuntos  
+de anúncios e palavras-chave diretamente relacionados entre si. Assim,  
+você pode melhorar seu Índice de qualidade e ajudar a impulsionar seu  
+retorno do investimento. Nas campanhas da Rede de Pesquisa, isso  
+ajuda a exibir anúncios relevantes às pesquisas das pessoas que você  
+deseja alcançar. Para campanhas que segmentam a Rede de Display,  
+crie anúncios relevantes para exibir a clientes que navegam em  
+websites sobre assuntos semelhantes. 
+Saiba mais sobre como estruturar sua campanha » 
+2.3 Como segmentar seu público-alvo 
+Exibir os anúncios para os clientes certos é parte fundamental de uma 
+campanha publicitária de sucesso que ajuda você a alcançar suas 
+metas. Estas são as diferentes formas de usar o Google AdWords para 
+exibir seus anúncios: 
+Segmentação por palavras-chave 
+Use tipos de correspondência de palavras-chave, como 
+correspondência ampla, modificador de correspondência ampla, 
+correspondência de frase, correspondência exata e correspondência 
+negativa, para controlar quais pesquisas acionam seu anúncio. Você 
+também pode adicionar palavras-chave negativas para campanhas que 
+exibem anúncios na Rede de Pesquisa ou exclusões de palavra-chave 
+para campanhas que exibem anúncios na Rede de Display. 
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 2  
+Saiba mais sobre os  tipos de correspondência de palavras-chave» 
+Segmentação na Rede de Display 
+Além das palavras-chave, você pode usar métodos de segmentação 
+diferentes para corresponder seu anúncio a lugares ou públicos-alvo 
+na Rede de Display. São eles: 
+● Segmentação contextual:  faça a correspondência com 
+conteúdo relevante do website usando palavras-chave 
+ou tópicos 
+● Públicos-alvo:  alcance grupos específicos de pessoas 
+usando públicos-alvo de afinidade, públicos-alvo no 
+mercado, remarketing e/ou informações demográficas 
+● Segmentação por canal gerenciado: selecione websites 
+e aplicativos específicos 
+Segmentação por local e idioma de destino  
+Com as configurações de local, você pode segmentar as áreas 
+geográficas onde seus anúncios podem ser exibidos. 
+A segmentação por idioma de destino ajuda a garantir que seus 
+anúncios sejam exibidos em websites escritos no idioma dos 
+clientes que você deseja alcançar. 
+Segmentação por dispositivo 
+Você também pode alcançar seus clientes onde quer que estejam 
+ao mostrar seus anúncios quando as pessoas estão pesquisando ou 
+acessando sites da Rede de Display em celulares com navegadores 
+completos, como iPhones e dispositivos Android. 
+Saiba mais sobre a  segmentação de seus anúncios» 
+2.4 Como definir lances e orçamentos 
+Depois de decidir em quais redes e para qual público-alvo deseja exibir 
+seus anúncios, você estará pronto para pensar em seu orçamento. Há 
+dois itens a se considerar: 
+Seu orçamento: seu orçamento diário é o valor que você define para 
+cada campanha. Ele indica quanto, em média, você deseja gastar por 
+dia.
+Sua estratégia de lances:  dependendo das redes que sua campanha 
+segmenta e de suas metas de publicidade, é possível definir a melhor 
+estratégia para você. 
+Para refrescar sua memória, estas são as estratégias de lances que 
+você pode escolher: 
+● Lances de custo por clique (CPC):  utilize se você quiser 
+direcionar clientes para seu website. 
+● Lances de custo por mil impressões (CPM):  utilize se você 
+quiser garantir que os clientes vejam sua mensagem. 
+● Lances de custo por aquisição (CPA):  utilize se você quiser 
+maximizar conversões em seu website. 
+Saiba mais sobre como definir lances e orçamentos»  
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 2  
+2.5 Como criar grupos de anúncios 
+Cada grupo de anúncios contém um conjunto de palavras-chave, 
+anúncios e lances que você gerencia. Para as campanhas da Rede 
+de Display, os grupos de anúncios podem incluir outros métodos 
+de segmentação, como informações demográficas ou listas 
+de remarketing. 
+Estes são alguns dos principais componentes dos grupos de 
+anúncios de campanhas que você exibirá na Rede de Pesquisa 
+ou de Display: 
+Palavras-chave 
+Dicas para criar sua lista de palavras-chave: 
+Como escolher e organizar suas palavras-chave 
+● Pense como um cliente 
+● Alinhe as palavras-chave às metas 
+● Agrupe palavras-chave semelhantes em temas 
+Como pesquisar novas palavras-chave 
+● Use o Planejador de palavras-chave ou o Planejador 
+da Rede de Display 
+● Revise seu Relatório de termos de pesquisa 
+Como otimizar suas palavras-chave 
+● Use os tipos de correspondência de palavra-chave 
+● Inclua palavras-chave negativas Anúncios 
+Dependendo do tipo de campanha que você cria, diferentes tipos de 
+formatos de anúncio e de extensões de anúncio estarão disponíveis. 
+Lembre-se de que todos os anúncios passam por um processo de 
+aprovação. Queremos que os anúncios sejam úteis, variados, relevantes e 
+seguros para os usuários ao serem veiculados em toda a Rede do Google. 
+Revisamos seus anúncios ativos e pausados, palavras-chave e websites 
+de acordo com nossas políticas de publicidade .
+Os tipos de formato de anúncio são: 
+Textos, Extensões de anúncio, Gráficos, Celular WAP, Anúncios 
+de promoção de aplicativo, Vídeo in-stream, Anúncios do Shopping, 
+Anúncios só para chamadas. 
+Os tipos de extensões de anúncio são: 
+1. Extensões manuais: Extensões de aplicativo, Extensões de 
+chamada, Extensões de local, Extensões de comentários, 
+Extensões de sitelinks, Extensões de frase de destaque 
+2. Extensões automáticas:  Avaliações de consumidores, Visitas 
+anteriores, Extensões sociais, Classificação do vendedor 
+Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 2  
+Práticas recomendadas para criar anúncios eficazes 
+● Conecte seus anúncios e palavras-chave 
+● Destaque o que diferencia você 
+● Inclua uma call-to-action 
+● Corresponda seu anúncio à página de destino 
+● Adapte seus anúncios para dispositivos móveis 
+● Use extensões de anúncio 
+● Faça testes 
+Saiba mais sobre  como criar grupos de anúncios» 
+2.6 Ferramentas para planejar uma campanha 
+O Google AdWords oferece diversas ferramentas, como o Planejador 
+de palavras-chave e Planejador da Rede de Display, para ajudar você 
+a criar suas campanhas e alcançar suas metas de publicidade. 
+Você pode usar o Planejador de palavras-chave para criar suas 
+campanhas da Rede de Pesquisa e ter ideias de palavras-chave 
+e de grupos de anúncios com as estimativas de tráfego de pesquisa. 
+Você também pode usar o Planejador da Rede de Display para planejar 
+suas campanhas da Rede de Display e ter ideias de segmentação com 
+as estimativas de impressões. As duas ferramentas ajudam você 
+a aplicar seu plano a campanhas novas ou existentes, ou fazer 
+o download de seu plano para compartilhar com clientes e colegas. 
+Saiba mais sobre as ferramentas para planejar uma campanha » 
+  Módulo 3: Como avaliar e otimizar o desempenho 
+ Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 3  
+3.1 Avalie seus resultados 
+Você pode analisar informações básicas sobre contas, campanhas e grupos 
+de anúncios usando diferentes dados e relatórios disponíveis no Google 
+AdWords. Há também relatórios avançados que vão além do número de 
+cliques ou impressões que você está recebendo. Assim, é possível ver o 
+impacto do Google AdWords nos seus negócios. 
+Confira este vídeo para compreender relatórios e estatísticas do 
+Google AdWords» 
+Como compreender relatórios e estatísticas do Google AdWords 
+Personalize seus dados 
+Pense nas metas do Google AdWords e defina quais estatísticas são mais 
+importantes para avaliar o progresso com relação a essas metas. Então, você 
+pode personalizar os dados na tabela de estatísticas para ver o desempenho 
+de seus grupos de anúncios, campanhas, anúncios e palavras-chave. 
+Guia "Dimensões" 
+Você pode usar a guia "Dimensões" para observar os dados de sua conta 
+inteira, de uma campanha individual ou de um grupo de anúncios. 
+Relatório de termos de pesquisa 
+O Relatório de termos de pesquisa permite que você veja os termos que as 
+pessoas estavam procurando quando seu anúncio foi exibido. Você também 
+pode ver as métricas de desempenho dessas pesquisas. 
+Relatório dos principais impulsionadores 
+O relatório dos principais impulsionadores permite ver quais campanhas 
+sofreram as maiores alterações (aumento ou diminuição) em cliques, custos 
+e conversões, além de mostrar algumas possíveis causas 
+dessas alterações. 
+Relatório de pesquisa paga e orgânica 
+Com o Relatório de pesquisa paga e orgânica, você pode ver quantas vezes 
+as páginas de seu website estão sendo exibidas nos resultados de pesquisa 
+do Google e quais consultas acionaram a exibição desses resultados na 
+página de resultados de pesquisa. 
+Informações do leilão 
+Use o Relatório de informações do leilão para comparar seu desempenho 
+com o dos outros anunciantes que estão participando dos mesmos leilões 
+que você. 
+Saiba mais sobre como avaliar seus resultados» 
+3.2 Ferramentas para avaliar seu desempenho 
+Ao começar a veicular sua campanha, é preciso considerar várias 
+ferramentas diferentes que podem ajudar você a avaliar e otimizar 
+o desempenho de seu anúncio. Essas ferramentas são:  
+ Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 3  
+Acompanhamento de conversões 
+O acompanhamento de conversões é uma ferramenta gratuita que pode 
+avaliar o que acontece depois que um cliente clica em seus anúncios, 
+como, por exemplo, se ele comprou seu produto, se inscreveu para receber 
+seu boletim informativo ou preencheu um formulário de contato. 
+Google Analytics 
+Google Analytics é um produto gratuito do Google que mostra como 
+as pessoas encontraram seu site e como o exploraram, dando sugestões 
+para otimizar seu website. 
+Você também pode vincular o Google Analytics e sua conta do Google 
+AdWords para ter uma visão geral do comportamento dos seus clientes. 
+Experiências de campanha 
+As experiências de campanha do Google AdWords permitem que você 
+teste alterações em sua conta, como palavras-chave, lances, grupos de 
+anúncios 
+ou canais, em uma parte dos leilões em que seus anúncios participam. 
+Saiba mais sobre as ferramentas para avaliar seu desempenho» 
+3.3 Avalie as métricas relevantes para suas metas 
+Para usar o Google AdWords de forma mais eficaz, é importante entender 
+as metas de negócios que você está tentando alcançar e os dados que 
+são mais relevantes para essas metas. 
+Como avaliar o tráfego do website 
+Se sua principal meta de publicidade for direcionar o tráfego para seu 
+website, tente se concentrar em aumentar seus cliques e a taxa de cliques 
+(CTR, na sigla em inglês). Para começar, crie um texto de anúncio excelente 
+e escolha palavras-chave fortes para que seus anúncios sejam relevantes 
+e atraentes para seus clientes. 
+Como medir conversões 
+Para avaliar seus resultados, você precisa medir as conversões. 
+Como medir o retorno do investimento 
+Se você estiver usando o Google AdWords para aumentar as conversões, 
+como vendas, leads e downloads, convém medir o retorno do investimento 
+(ROI, na sigla em inglês), que é a razão entre seu lucro líquido e seus custos. 
+Como medir o retorno do investimento em publicidade 
+Meça o retorno do investimento em publicidade (ROAS, na sigla em 
+inglês) para ver o quanto de receita você está gerando para cada centavo 
+gasto em suas campanhas. Com a medida do retorno do investimento 
+em publicidade, você pode ter uma ideia do desempenho de suas 
+campanhas e otimizá-las com base em sua receita. 
+ Guia de aperfeiçoamento do Exame de Fundamentos do AdWords | Módulo 3  
+Como avaliar o reconhecimento da marca 
+Sua meta principal é aumentar o reconhecimento e a visibilidade de seu 
+produto, serviço ou causa. Primeiro você precisa decidir se quer aumentar 
+o tráfego  para seu website ou incentivar os clientes a interagir com 
+sua marca. 
+Saiba mais sobre como avaliar as métricas relevantes para suas metas »
+3.4 Otimize sua campanha 
+Como melhorar seu retorno do investimento 
+Maneiras básicas de melhorar seu ROI 
+● Use uma página de destino que seja mais relevante para 
+seu anúncio 
+● Use palavras-chave e texto do anúncio extremamente relevantes 
+● Ajuste seus lances 
+Dicas de palavras-chave 
+● Use palavras-chave negativas para eliminar cliques indesejados 
+● Remova palavras-chave duplicadas 
+● Otimize palavras-chave de baixo desempenho 
+● Faça um diagnóstico de palavras-chave 
+● Verifique os lances estimados para ficar na primeira página 
+de suas palavras-chave 
+Dicas para o texto do anúncio 
+● Entenda o ciclo de compra 
+● Melhore seu anúncio com extensões 
+Dicas de lance e orçamento 
+● Faça experiências com lances e orçamentos para ver o que 
+funciona 
+● Aloque seu orçamento de acordo com o desempenho 
+● Ajuste seus lances de palavra-chave 
+● Use a programação de anúncios para alterar automaticamente seus 
+lances  ao longo do dia 
+Como aumentar o reconhecimento de sua marca na Rede de Display 
+Com uma campanha de engajamento da marca, você pode gerar 
+reconhecimento e associações positivas com sua empresa e seus 
+produtos e serviços. Você pode fazer isso usando: 
+● Opções de segmentação 
+● Formatos de anúncio 
+● Estratégia de lances 
+Saiba mais sobre  como otimizar sua campanha »
+Você gostou do que aprendeu?  Faça o Exame de Fundamentos do AdWords »

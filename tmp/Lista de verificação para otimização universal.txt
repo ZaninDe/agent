@@ -1,0 +1,2016 @@
+Lista Universal de 
+otimizações
+Veja abaixo as práticas recomendadas para otimizar contas do Google AdWords de modo a atingir cada objetivo de marketing. 
+Também foram incluídos textos com links para artigos da Central de Ajuda do Google AdWords. Não é garantido que essas 
+práticas recomendadas melhorem o desempenho da conta. Por isso, use-as a seu critério .
+Você encontra a versão mais recente e suas traduções em www.google.com.br/partners . Última atualização: agosto de 2016.Lista de otimizações Universal
+VENDAS ON-LINE, LEADS 
+E VISITAS DA WEB
+Rede de Pesquisa
+Rede de Display
+TrueView do YouTubesobre o alcance
+sobre as visualizações
+sobre a entrega do 
+orçamentoRECONHECIMENTO
+TrueView
+LightBox  
+(comprado com base no CPE)CONSIDERAÇÃO VENDAS POR TELEFONE
+VENDAS NA LOJA INSTALAÇÕES DO 
+APLICATIVO
+Campanhas universais para apps
+Rede de Display
+Rede de Pesquisa
+TrueView do YouTubeENGAJAMENTO NO 
+APLICATIVOVENDAS ON-LINE, LEADS 
+E VISITAS DA WEB
+Rede de 
+PesquisaRede de Display TrueView do 
+YouTubeConfiguração de exibição
+Use a entrega padrão se a campanha estiver limitada pelo 
+orçamento.
+Os anunciantes que têm os melhores resultados geralmente 
+veiculam anúncios em todos os horários e usam os 
+multiplicadores de lance para horários do dia e dias da 
+semana que apresentam melhor performance.
+Considere a possibilidade de usar os Experimentos de 
+campanha para entender melhor o impacto dos testes 
+de anúncios em potencial.Orçamento
+Realoque o orçamento em campanhas diferentes com 
+base no desempenho, na utilização do orçamento e na 
+parcela de impressões perdidas devido ao orçamento 
+(ou use os orçamentos compartilhados).
+Considere a possibilidade de dividir as campanhas 
+limitadas pelo orçamento se as palavras-chave tiverem 
+desempenho diferente.
+Teste quais vantagens exclusivas funcionam melhor para os 
+seus anúncios e priorize o foco nos títulos. Testes que podem 
+ser feitos: sistema de preços, ofertas especiais, proposta de 
+valor clara, nome da marca e call to action.
+Inclua calls-to-action atraentes no seu anúncio e verifique 
+se ele direciona os usuários para uma página de destino 
+coerente com esse call to action (por exemplo, seo call 
+to action é “faça sua reserva”  a landing page tem que 
+oferecer essa possibilidade ao usário).
+Os anúncios devem ser relevantes para as táticas de 
+segmentação (por exemplo, o que o usuário pensa quando 
+vê esse anúncio e como o texto do anúncio pode refletir 
+isso? Como isso pode ser diferente para a segmentação 
+no funil superior? Quais são as regiões geográficas e os 
+grupos demográficos segmentados?).
+Basicamente, os usuários têm comportamentos diferentes 
+em consultas genéricas ou sobre marcas. Sua estratégia 
+de publicidade deve levar isso em consideração. Lembre-
+se de testar pelo menos de três ea cinco criativos de ETA. 
+Adicione o nome, o slogan ou o site oficial da marca (por 
+exemplo, <Nome da marca> – site oficial) para tornar os 
+anúncios mais atraentes.
+Se a personalização do texto do anúncio para cada região 
+geográfica for uma grande prioridade, faça testes com os 
+personalizadores de anúncios.Crie a mesma quantidade de ETAs e OTAs no grupo 
+existente. Depois disso, recomendamos a criação de três 
+ou quatro variações de textos de anúncio em grupos de 
+anúncios de grande volume e duas variações em grupos 
+de menor volume. Atualize com novos textos de anúncio 
+regularmente.
+A inserção de palavra-chave dinâmica em grupos de 
+anúncios pequenos aumenta a probabilidade de uso 
+correto da gramática.
+Anúncios do Shopping
+Separe os itens sazonais e as promoções temporárias 
+em campanhas diferentes para otimizar os lances. Além 
+disso, use a configuração de prioridade de campanha 
+para garantir a aplicação do lance certo. 
+Crie campanhas em prioridade alta para os produtos com 
+melhor performance . 
+Os feeds de produtos são como o texto do anúncio para as 
+Campanhas do Shopping: Otimize os títulos, as descrições 
+e as imagens para melhorar a CTR. Não se esqueça de 
+criar títulos para os produtos.
+Configure lances mais arrojados para os locais mais 
+próximos às lojas do cliente.Configurações 
+da campanha
+Continua ...Rede de Pesquisa
+AnúnciosCategoria Prática recomendadaVendas on-line, leads e visitas da WebUse a guia "Dimensão do produto" para entender melhor 
+o desempenho em qualquer nível de granularidade e por 
+qualquer dimensão, incluindo: categoria, tipo de produto, 
+código do item etc.
+É comum o uso de métricas de otimização como a CTR 
+e o CPC comparativos de mercado.Rede de Pesquisa
+Extensões 
+de anúncioPara todas as extensões de anúncio
+Os anúncios com várias extensões têm melhor 
+desempenho do que aqueles com apenas uma extensão. 
+Identifique quais extensões são relevantes para seu 
+negócio e implemente-as.
+Use a guia "Extensões de anúncio" para ver as estatísticas 
+de todas as extensões de anúncio nas suas campanhas 
+e entender o desempenho de cada uma delas.
+Configure as extensões de anúncio no nível da conta 
+quando possível. Use o nível do grupo de anúncios/da 
+campanha quando você precisar ser mais específico com 
+sua mensagem.
+Analise suas extensões automáticas (Guia "Extensões de 
+anúncio"> Relatório "Extensões de anúncio") para entender 
+a cobertura das suas extensões.
+Utilize rascunhos e experimentos para executar testes 
+A/B nas suas extensões e visualizar a melhoria do 
+desempenho a partir do ponto de vista do cliente. 
+Sitelinks 
+É mais eficiente usar frases de destaque/sitelinks breves 
+e objetivos.
+Monitore os sitelinks aprovados e reprovados em todas 
+as contas com o Relatório de detalhes da campanha.Frases de destaque
+As frases de destaque são acionadas com sitelinks. Por 
+isso, é recomendável ter pelo menos seis sitelinks ativos 
+para computador e quatro para dispositivos móveis.
+Snippets estruturados
+Cada valor tem um limite de 25 caracteres. Para celulares, 
+é melhor limitar o texto do valor a menos de 12 caracteres. Anúncios  
+(continuação)Categoria Prática recomendadaVendas on-line, leads e visitas da WebRede de Pesquisa
+LancesManual
+Considere a possibilidade de usar lances manuais para ter 
+mais controle sobre seus lances. Os lances automáticos 
+(também chamados de estratégias de lances flexíveis) são 
+usados para gerenciar campanhas em grande escala por meio 
+do algoritmo de lances durante o leilão do Google AdWords.
+Ao otimizar os lances, além de analisar as métricas de 
+desempenho, lembre-se de considerar insights competitivos 
+da parcela de impressões e das informações do leilão (por 
+exemplo, se você reduzir os lances, seu concorrente poderá 
+ser beneficiado e ocupar uma posição acima da sua). Além 
+disso, considere os dados da guia "Atribuição". Por exemplo, 
+palavras-chave com "Conversões assistidas por cliques" ou 
+"Conversões assistidas por impressões" podem ser mais 
+valiosas que o CPA real do último clique.
+Ao tomar decisões sobre lances, leve em consideração as 
+conversões em dispositivos diferentes. Leia as instruções aqui.
+Considere fazer lances com o objetivo de maximizar os 
+lucros em vez de otimizar o CPA. Leia as instruções aqui .
+Lances por dispositivos
+Ao separar os lances para computador e tablet, lembre-se 
+de que você também deve revisar o lance para computador. 
+Por exemplo, a redução do lance para tablet com o objetivo 
+de aumentar o CPA permite que você aumente o lance para 
+computador porque ele já está abaixo do CPA médio.
+Para um gerenciamento eficiente de palavras-chave, 
+extensões, anúncios etc., veicule campanhas consolidadas 
+que segmentem todos os dispositivos. Use os lances no nível da palavra-chave para alcançar o 
+CPA desejado em um nível geral e os lances por dispositivo 
+para equilibrar o CPA em diferentes dispositivos.
+Automatizados (lances inteligentes)
+Ao usar lances automáticos, evite fazer alterações 
+frequentes. Tente esperar pelo menos duas semanas. No 
+entanto, se seu tempo médio até a conversão for maior que 
+cinco dias, talvez você tenha que esperar mais. Mantenha 
+as metas de CPA desejado, os anúncios e os orçamentos 
+diários de campanha estáveis na medida do possível.
+Para diminuir o tempo necessário de adaptação do 
+algoritmo de lances do Google AdWords, faça todas as 
+alterações de uma vez.
+Organize as palavras-chave com desempenho semelhante 
+em portfólios de lances e use a estratégia mais adequada 
+para cada portfólio (por exemplo, palavras-chave de marca 
+em "Definir posição na página de pesquisa" ou "Parcela de 
+superação desejada").
+É possível usar o eCPC (custo por clique otimizado) com 
+plataformas de lances de terceiros. O e CPC pode varia seu 
+lance em até mais 30% ou até menos 100%. É necessário 
+ter o acompanhamento de conversões configurado para 
+utilizar o eCPC.
+Ative os relatórios de conversão em dispositivos diferentes 
+no AWFE. Para fazer isso, acesse a guia "Ferramentas" > 
+“Conversões” > “Configurações”.
+RLSA
+Recomende a adição de listas de usuários como 
+Continua ...Categoria Prática recomendadaVendas on-line, leads e visitas da WebSomente lances, a menos que o cliente tenha textos de 
+anúncio personalizados por listas de usuários , neste 
+caso é possível criar campanhas separadas em Lance e 
+Segmentação.
+Comece com listas de usuários amplas, como página inicial 
+ou todos os visitantes. Em seguida, crie gradualmente listas 
+mais detalhadas, por exemplo, listas com base em funis 
+de website: todos os visitantes, visitantes por categoria, 
+usuários que abandonaram o formulário de lead (comércio 
+eletrônico e leads em geral) e visitantes que realizaram 
+conversões (para manter a lealdade e gerar leads).
+Use a guia "Público-alvo" para ver as estatísticas de 
+todos os públicos-alvo nas suas campanhas e entender 
+o desempenho de cada público-alvo aplicado.
+Defina o ajuste de lance de público-alvo na proporção 
+da CVR (taxa de conversão):
+Para referência: As listas de remarketing têm, em média, 
+o dobro da taxa de conversão do que o tráfego fora da 
+lista, e os produtos com lances automáticos não são 
+considerados nas listas de remarketing.
+Segmentação por lista de clientes
+Configure lances em camadas para diferentes segmentos 
+do funil (quanto menor for o funil, maior será o lance). 
+Configure sua lista de Segmentação por lista de clientes 
+como "Somente lance – 0%" para todos os grupos de 
+anúncios da Rede de Pesquisa. Em seguida, analise os 
+resultados e otimize os lances. Os usuários da parte inferior 
+do funil devem custar menos que usuários antigos ou novos 
+clientes. Não espere que os CPAs sejam iguais em todo o 
+funil e leve isso em consideração ao fazer o lance.
+Normalmente, as ideias de segmentação incluem usuários 
+que fizeram compras em um período de vendas anterior, 
+upsell e vendas cruzadas e clientes premium mais 
+propensos a se manterem leais.Tenha cuidado ao suprimir os clientes que realizaram 
+ações recentemente ou todos os seus e-mails, pois talvez 
+existam clientes antigos que possam realizar ações no site 
+novamente.
+Por local
+Defina uma segmentação ampla e, em seguida, faça 
+lances com base no desempenho e nas vendas.
+Analise o desempenho por local e defina o ajuste de lance 
+por local com base na seguinte fórmula: 100 * (meta de 
+CPA/CPA real do local) – 1).
+Analise o Relatório de locais do usuário no AWFE (na guia 
+"Dimensões") e identifique outros locais que podem ser 
+segmentados.
+Crie campanhas diferentes com base no local somente 
+se houver um motivo para isso (por exemplo, devido à 
+alocação do orçamento, ao idioma de destino, a diferenças 
+nas mensagens dos anúncios, a sites diferentes etc.).
+Use o Relatório de detalhes de campanha para analisar 
+seus ajustes de lance por local em campanhas diferentes.
+Horário
+Analise o desempenho por horário e defina o ajuste de 
+lance por horário com base na seguinte fórmula: 100 * ( 
+(meta de CPA/CPA real do horário) – 1).
+Analise os relatórios "Dia da semana" e "Horário do 
+dia" para aplicar os ajustes adequados com base no 
+desempenho.Rede de Pesquisa
+Continua ...Lances  
+(continuação)Categoria Prática recomendadaVendas on-line, leads e visitas da WebSe houver horários/dias não lucrativos para veicular 
+anúncios, é importante considerar a importância da 
+parcela de impressões nesses horários.
+Agende determinadas extensões de acordo com o horário 
+de funcionamento. Por exemplo, exiba sitelinks sobre 
+um recurso de bate-papo on-line somente quando os 
+representantes estiverem disponíveis para atender o cliente.
+Específicos para celular
+Analise as campanhas que não estão ativadas para celular 
+(isso é um erro comum). Para fazer isso, gere um relatório 
+com as configurações da campanha e/ou do grupo de 
+anúncios no nível da MCC (Minha central de clientes).
+Defina o lance inicial: Calcule o fator multiplicador inicial 
+de lance para celular com a seguinte fórmula: 100 * (Valor 
+por clique em celular / valor por clique em computador 
+e tablet). A decisão sobre o valor do clique em celular 
+geralmente é tomada com base na CVR e é ligeiramente 
+influenciada pelo momento no celular.
+Avalie o impacto do comportamento em dispositivos diferentes. Para fazer isso, primeiro ative as colunas 
+"Conversões estimadas em dispositivos diferentes", 
+"Conversões de chamadas telefônicas", "Conversões na 
+loja" (EUA) e "Total de conversões". Em seguida, segmente 
+o desempenho por dispositivo e aplique os ajustes 
+adequados de lance para celular. Também é possível criar 
+colunas especificamente para uma métrica segmentada, 
+como conversões em mobile.
+Determine o impacto da posição: Analise o desempenho e a 
+lucratividade nas posições superior x inferior. A grande maioria 
+dos cliques em celulares ocorre na parte superior da página.
+Considere as métricas competitivas: Analise como 
+suas campanhas afetam os concorrentes por meio de 
+informações do leilão (por exemplo, talvez você esteja 
+impedindo a exibição dos concorrentes nos espaços 
+limitados para celular).
+É possível fazer uma validação para que suas contas não 
+percam tráfego de celulares.Rede de Pesquisa
+Lances  
+(continuação)
+Palavra-chave – seleção
+Os tipos de correspondência mais ampla são usados para 
+capturar mais buscas. Para ter mais controle sobre o lance 
+de cada leilão, use os tipos de correspondência Exata.
+Verifique se os grupos de anúncios possuem palavras-chave 
+com temas bem definidos (com base nas categorias de 
+produtos, de marca x sem marca, principais x complexas 
+etc.). Além disso, confira se eles estão relacionados aos 
+textos de anúncio e às páginas de destino correspondentes. 
+Consulte o Relatório de termos de pesquisa para verificar se 
+as consultas estão incluídas no grupo de anúncios desejado.
+Use o Planejador de palavras-chave, o Relatório de termos de pesquisa, a guia "Oportunidade" e os DSA (anúncios 
+dinâmicos da Rede de Pesquisa) para encontrar novas 
+palavras-chave. Lembre-se das palavras-chave somente 
+para celular, já que as consultas em celulares são 
+propensas a incluir termos de local e erros de digitação.
+Palavra-chave – otimização
+Amplie a cobertura de palavra-chave (por meio da 
+adição de novas palavras-chave e/ou do uso de tipos de 
+correspondência mais amplos) para as palavras-chave 
+de alto desempenho.Segmentação
+Continua ...Categoria Prática recomendadaVendas on-line, leads e visitas da WebRede de PesquisaVendas on-line, leads e visitas da WebSite para celularAvalie o site atual: Faça o Teste de otimização para 
+celular para saber se seu site é otimizado para celular. 
+Em caso negativo, é hora de entrar no mercado de 
+dispositivos móveis . Se você tiver problemas com a 
+ferramenta, verifique se o Google está rastreando  seu 
+site corretamente.
+Otimize a experiência do usuário no site para celular: 
+Considere os 25 princípios do design de sites para celular 
+encontrados em Princípios do design de sites para celular . 
+Consulte o Fórum de webmasters  para ajuda adicional 
+com o desenvolvimento. Se preferir, use um fornecedor 
+de sites para celular do Google nesta  lista de fornecedores 
+certificados nos EUA.Otimize o site para celular: 74% dos usuários abandonam 
+o carrinho após uma espera de cinco segundos pelo 
+carregamento de um site para celular. 
+Use o PageSpeed Insights  para diagnosticar o 
+desempenho de uma página para celular. 
+Use o Relatório de usabilidade em celular  para monitorar 
+problemas de usabilidade em páginas específicas.Categoria Prática recomendadaVerifique as metas da Rede de Display na interface do 
+usuário antes de otimizar.
+Aguarde duas semanas ou mais para aplicar alterações 
+de otimização em novas campanhas. As conversões são 
+atribuídas à data do clique no anúncio. Algumas vezes, 
+leva tempo para que esses cliques sejam convertidos 
+depois.
+Mantenha a entrega acelerada desativada, a não ser 
+que haja motivos específicos para ativá-la (por exemplo, 
+dificuldade para gastar o orçamento).
+Crie campanhas da GDN somente para celular apenas 
+depois de aplicar as práticas recomendadas para a GDN e as 
+otimizações de lances individuais para celular.
+Mantenha as campanhas da Rede de Display e de 
+Pesquisa separadas para ter um maior controle sobre elas.Limite de frequência
+Para campanhas sensíveis à marca, considere a 
+possibilidade de usar um limite de frequência e lances de 
+CPM (custo por mil impressões) (analise o Relatório de 
+alcance e frequência para determinar o limite). Evite o uso 
+de uma DSP (plataforma do lado da demanda) ou lances 
+automáticos, que já determinam a frequência ideal por 
+usuário. 
+OBSERVAÇÃO
+• O Índice de qualidade da Rede de Display não é afetado 
+pela CTR de modo significativo.
+Evite usar limites de frequência se as campanhas 
+usarem lances automáticos, pois isso pode prejudicar o 
+desempenho. 
+Práticas recomendadas incluem o uso de:
+Mensagem e estilo do anúncio alinhados com o conteúdo 
+da página de destino (incluindo calls-to-action, cores do 
+plano de fundo etc.); 
+Calls-to-action breves e (diretas relacionadas ao objetivo 
+do site, como, por exemplo, "Compre já" ou “Faça sua 
+Reserva”, em todos os frames;
+Um logotipo da empresa/marca em todos os frames ou 
+pelo menos no último frame;
+Preços (que podem ajudar a pré-qualificar cliques) 
+e descontos (com a inclusão de códigos de desconto);Proposições de valor claras em todos os frames 
+(os usuários devem ter a sensação de que perderão 
+algo se não clicarem);
+um Senso de urgência mencionando prazos/limites de 
+quantidade;
+Cores e imagens coordenadas. É recomendável usar cores 
+do anúncio que combinem com a imagem ou o logotipo 
+(use imagens no formato PNG transparente) e cores fáceis 
+de visualizar para o plano de fundo. Evite cores muito 
+claras, que podem dificultar a leitura;
+Combinação de texto e imagens;
+Encaminhamento dos usuários para a página de destino 
+mais relevante.
+Continua ...Configurações 
+da campanhaCategoria Prática recomendadaIncorpore todos os tipos de anúncio para maximizar o 
+acesso a inventários de baixo custo: anúncios de texto, 
+imagens estáticas (que geralmente têm uma CTR maior 
+que GIFs), GIFs, tamanhos de anúncio (300 x 250, 728 x 
+90, 160 x 600, 468 x 60 para o YouTube e 320 x 50 para 
+celular) e anúncios dinâmicos.
+Use criativos preferenciais para celular, vincule-os a 
+páginas de destino para celular, se aplicável, e indique se 
+a página de destino é otimizada para celular no URL de 
+visualização (por exemplo, m.example.com) para alcançar 
+uma CTR maior.Considere a possibilidade de dividir grupos de anúncios 
+que usam somente anúncios gráficos e de texto se eles 
+apresentarem métricas de desempenho muito diferentes.
+Ao atualizar os criativos, evite a substituição de todos 
+os anúncios de uma vez, pois isso pode causar uma 
+instabilidade de desempenho.
+Faça upload dos seus anúncios gráficos em tamanhos 
+de alta definição (HD). Normalmente, isso exige o dobro 
+do tamanho. Por exemplo, a versão em HD de um anúncio 
+300 x 250 deve ser um anúncio de 600 x 500. 
+Estratégia de lances
+Se você usar CPA desejado, inicie as campanhas com 
+o CPA desejado desde o primeiro dia fazendo um lance 
+ligeiramente maior do que o desejado (aproximadamente 
+20% maior). Use um período entre duas e quatro semanas 
+como aprendizado. Para o ROAS (retorno do investimento 
+em publicidade) desejado, use o eCPC no início e, quando 
+você se qualificar, mude para os lances de ROAS. Durante 
+a fase de transição, defina o ROAS desejado até 10% 
+acima do atual ou CPA desejado até 10% abaixo do atual, 
+para manter um volume e desempenho semelhantes. 
+Tenha um orçamento diário 10 vezes maior que o CPA 
+ou ROAS desejado para fornecer flexibilidade para o 
+aprendizado do algoritmo.
+Os lances automáticos são mais precisos e consistentes 
+se o grupo de anúncios tiver mais tráfego e conversões. 
+Assim, considere a possibilidade de consolidar os grupos 
+de anúncios para que as campanhas tenham pelo menos 
+30 conversões por grupo de anúncios/mês. Use uma conversão que resulte em um grande volume de 
+conversões e que também seja uma métrica indicativa de 
+sucesso do anunciante. O excesso de grupos de anúncios 
+aumenta o tempo de aprendizado quando as alterações 
+são feitas, o que pode resultar em mais volatilidade do 
+CPA/ROAS.
+Limite as alterações no ROAS ou CPA desejado a cerca 
+de 20% e no máximo uma vez a cada duas semanas para 
+evitar a volatilidade do desempenho.
+Ao usar uma estratégia de lances flexível, você pode 
+adicionar as colunas "Estratégia de lances" e "Tipo de 
+estratégia de lances" à visualização da sua campanha 
+para verificar o progresso.
+Continua ...Rede de Display
+LancesAnúncios  
+(continuação)Categoria Prática recomendadaVendas on-line, leads e visitas da WebVendas on-line, leads e visitas da WebCelular
+Crie campanhas da GDN somente para celular apenas 
+depois de aplicar as práticas recomendadas da GDN e 
+as otimizações de lances individuais para celular. Ter um 
+site otimizado para celular é até mais importante para as 
+campanhas da Rede de Display.As soluções de lances automáticos da GDN usam 
+dados de dispositivo, local, horário do dia e outros sinais 
+específicos de celulares. Assim, a forma mais comum de 
+ativação da GDN para celular é usar lances automáticos. 
+Se você não usar os lances automáticos, comece na GDN 
+para celular com seus lances para computador.
+Geral
+Os produtos de segmentação abaixo estão listados em ordem 
+crescente, a partir da parte inferior do funil do cliente. A 
+Segmentação automática conservadora e arrojada testa esses 
+tipos de segmentação automaticamente para identificar a 
+alocação ideal.
+Se o desempenho continuar insatisfatório, considere a 
+possibilidade de combinar as opções de segmentação (em 
+camadas), mas leve em consideração que essa abordagem reduz 
+o volume significativamente.
+Exclua determinadas categorias em que você não deseja exibir 
+seus anúncios. As categorias mais comumente excluídas são: 
+sexualmente sugestivo, domínio reservado, páginas de erro, 
+conteúdo juvenil, rude e bizarro, difamação e linguagem grosseira, 
+de jogos e morte e tragédia. Exclua os canais e as palavras-
+chave que consomem o orçamento, mas não geram leads ou 
+conversões ao longo do tempo.Segmentação automática
+Se você estiver satisfeito com o desempenho da sua campanha 
+e quiser receber mais tráfego, recomendamos a ativação da 
+segmentação automática conservadora.
+Se, após uma ou duas semanas com a segmentação 
+automática conservadora em execução você estiver satisfeito 
+com o desempenho e quiser receber um tráfego ainda maior, 
+recomendamos a ativação da segmentação automática arrojada. 
+Se você preferir um maior controle sobre o lance e orçamento 
+desse tráfego adicional, recomendamos que você crie uma nova 
+campanha e ative somente a segmentação automática arrojada 
+em conjunto com o CPA ou ROAS desejado. Assim, você terá uma 
+campanha mais automatizada. Essa prática é também conhecida 
+como Otimizador de campanhas da Rede de Display.
+Todas as práticas recomendadas de lances automáticos também 
+se aplicam à Rede de Display.
+Continua ...Lances  
+(continuação)
+SegmentaçãoPrática recomendadaVendas on-line, leads e visitas da WebRemarketing
+Para alcançar todos os visitantes do site, codificar todas as 
+páginas (para computador e celular).
+Faça a segmentação dos visitantes do site em cinco segmentos 
+(usuários que acessaram a página inicial, usuários que acessaram 
+a categoria/resultados de pesquisa, usuários que acessaram um 
+produto/item, usuários que abandonaram o carrinho de contas e 
+usuários que converteram ou o equivalente para a sua indústria). 
+Se preferir, alinhe a segmentação com os segmentos dos RLSA.
+Ative o ROAS ou CPA desejado para fazer lances maiores 
+automaticamente para os usuários que acessaram o website do seu 
+anunciante há menos tempo e com maior frequência.
+Remova as restrições da campanha: Exclua os limites 
+de frequência manual (pois o sistema automatiza o limite), 
+segmente todos os idiomas e locais em que você recebe 
+conversões e remova a programação de anúncios.
+Adicione todos os formatos e tamanhos de anúncio (incluindo 
+para celular) e criativos de remarketing dinâmico para os usuários 
+que acessaram um produto/oferta, os usuários que acessaram o 
+carrinho de compras e os usuários que converteram.
+Crie listas de remarketing com base nos seus espectadores do 
+YouTube e em ações específicas que eles realizaram no seu site. 
+É possível usar essas listas de remarketing em toda a GDN.
+Use o AdWords Editor para aplicar as listas de públicos-alvo em 
+massa aos seus grupos de anúncios.Remarketing dinâmico  
+(incluindo anúncios dinâmicos responsivos)
+Práticas recomendadas comuns entre anunciantes que usam o 
+remarketing dinâmico:
+Anúncios dinâmicos responsivos 
+Para uma melhor aparência, forneça um logotipo com proporção 
+1:1. Se não for possível, use a proporção 4:1.
+É possível deixar que o Google otimize a seleção de cores. Em 
+"Cores e fonte", escolha a opção "Permitir que o Google AdWords 
+selecione estilos automaticamente" para permitir que o sistema 
+otimize as cores e fontes em impressões gráficas dinâmicas e 
+estáticas com base no seu logotipo.
+Forneça uma imagem de marketing em 1.91:1. Ela será usada em 
+anúncios nativos e gráficos estáticos. Os anúncios com imagens 
+de marketing normalmente têm uma aparência muito melhor. 
+Assim, é possível que você reduza seu alcance caso não os use.
+Se você estiver em dúvidas sobre o título e a descrição, copie de 
+outros anúncios de texto das Redes de Pesquisa e Display que 
+tenham um bom desempenho.
+Evite usar promoções ou exonerações de responsabilidade, a 
+menos que sejam necessárias (o excesso de informações dificulta 
+a leitura).
+Selecione o formato de anúncio "Todos os formatos de anúncio" 
+para maximizar seu alcance em anúncios nativos, gráficos e de 
+texto.
+Coloque o novo criativo no mesmo grupo de anúncios de outros 
+anúncios dinâmicos e use os lances automáticos.
+Continua ...Segmentação  
+(continuação)Prática recomendadaVendas on-line, leads e visitas da WebFormatos de anúncio
+Use anúncios dinâmicos responsivos. Se não for possível, inclua 
+anúncios gráficos (todos os 10 tamanhos de anúncio) e anúncios 
+de texto dinâmicos em todos os grupos de anúncios dinâmicos.
+Lances automáticos
+Dedique pelo menos 80% do gasto com remarketing dinâmico ao 
+uso de ROAS ou CPA desejado.
+Estratégia de listas
+Codifique e segmente pelo menos as páginas de produtos/itens, 
+de carrinho de compras e de conversão para computador e 
+celular. Crie uma campanha de remarketing dinâmico com todas 
+as listas no mesmo grupo de anúncios (ou em grupos de anúncios 
+diferentes se você tiver mensagens diferentes dependendo da 
+etapa do funil). Use listas mutuamente exclusivas não utilize 
+segmentação com base no tempo para retorno.
+Codificação e feed
+Para maximizar o número de impressões qualificadas e a 
+probabilidade de exibir produtos relevantes nelas, adote uma 
+taxa de preenchimento de 85% e uma taxa de preenchimento 
+de remarketing de pelo menos 85%. Para fazer isso, codifique 
+as páginas de produtos/itens, de carrinho de compras e de 
+agradecimento para computador e celular. Além disso, otimize 
+o feed para conseguir as melhores taxas de preenchimento 
+possíveis.
+Otimizada para celular
+Codifique todo o website para celular com a finalidade de garantir 
+a qualificação da campanha dinâmica para exibição no celular e 
+em aplicativos. Além disso, inclua todos os usuários de celular na 
+sua stratégia de listas  
+e use todos os tamanhos de anúncios para celular. Faça lances 
+para celular maiores que -100%, segmente todos os dispositivos e 
+inclua inventário de aplicativos.
+Palavras-chave da Rede de Display – conteúdoPriorize as palavras-chave das suas campanhas da Rede de 
+Pesquisa existentes/equivalentes que sejam de marca, gerem 
+muitas conversões, estejam relacionadas a um produto ou 
+categoria e tenham muito tráfego.
+Agrupe as palavras-chave nos grupos de anúncios por tema 
+semelhante e, se aplicável, personalize um criativo que expressa 
+esse tema.
+Se a campanha usava a segmentação contextual de palavra-
+chave (KCT, na sigla em inglês) ou foi copiada de uma campanha 
+de KCT, remova as sobreposições de tópicos restritivos ou 
+exclusões excessivas de canais.
+Classifique as palavras-chave por gasto, amplie o uso das 
+palavras-chave com grandes volumes de cliques/conversões 
+e pause as palavras-chave com gasto elevado e nenhuma 
+conversão.
+Use a Ferramenta de diagnóstico de palavras-chave para 
+determinar se os lances baixos estão limitando o tráfego. 
+Palavras-chave da Rede de Display – público-alvo
+Crie grupos de anúncios de acordo com um tema e teste vários 
+temas (por exemplo, com relação ao produto, à indústria, à marca 
+e/ou ao cliente).
+É bastante recomendável o uso de lances automáticos se você 
+usar esse tipo de segmentação e estiver tentando alcançar metas 
+de CPA.
+Se não usar lances automáticos, otimize no nível do grupo de 
+anúncios. Para fazer isso, leve em consideração o desempenho 
+do grupo de anúncios em vez de palavras-chave e aumente ou 
+reduza os lances no nível do grupo de anúncios em vez de fazer 
+lances individuais no nível da palavra-chave.
+Como isso depende basicamente do público-alvo segmentado, 
+não espere que todos os canais tenham a mesma relevância 
+de quando são usados com palavras-chave da Rede de Display. Rede de Display
+Continua ...Segmentação  
+(continuação)Categoria Prática recomendada Categoria Prática recomendadaVendas on-line, leads e visitas da WebRede de Display
+Assim, as pessoas que fazem a otimização manualmente devem 
+optar por exclusões de categoria e sobreposições ou exclusões 
+de tópicos. As exclusões de canais normalmente são muito 
+específicas para ter algum efeito no tráfego ou desempenho.
+Se o desempenho permanecer insatisfatório, sugira a criação de 
+uma campanha complementar de palavras-chave da Rede de 
+Display para equilibrar a eficiência.
+Públicos-alvo semelhantes
+Seleção da lista
+Selecione listas com uma ação, uma indústria ou um produto 
+específico em mente. Por exemplo, os usuários que abandonaram 
+o carrinho de compras são diferentes daqueles que converteram, 
+e as pessoas que procuram hotéis são diferentes daquelas 
+que procuram um cruzeiro. Selecione as listas com os maiores 
+volumes para maximizar o desempenho (classifique por 
+tamanho).
+Lances
+Não use o mesmo lance do remarketing, pois esses usuários 
+são novos e devem ser valorizados como tal. Comece a usar o 
+eCPC até acumular um volume de conversões suficiente. Em 
+seguida, mude para o CO (Otimizador de conversões) ou o ROAS. 
+Muitos anunciantes têm bons resultados ao usar públicos-alvo 
+semelhantes e lances automáticos.Criativos
+Use criativos estáticos voltados para a aquisição de novos 
+usuários e alinhe a página de destino aos criativos com uma 
+call-to-action clara. Para os clientes de varejo, faça testes com 
+criativos dinâmicos, que correspondem à página de modo 
+contextual.
+Públicos-alvo de afinidade e no mercado
+Os segmentos de afinidade geralmente são usados para atingir 
+metas de marca, e os públicos-alvo no mercado, para metas de 
+desempenho.
+Priorize os segmentos com base na relevância para o público-alvo.
+Faça lances de CPC ou use os lances automáticos para públicos-
+alvo no mercado. Use os lances de CPM para os públicos-alvo de 
+afinidade.
+Não faça segmentação de afinidade ou no mercado no mesmo 
+grupo de anúncios.
+Tente usar os públicos-alvo de afinidade personalizados se os 
+segmentos de afinidade existentes não corresponderem ao 
+público-alvo específico do seu anunciante. Use os temas das suas 
+palavras-chave de melhor desempenho (na Rede de Pesquisa ou 
+na Rede de Display).
+Segmentação por canal
+Analise quais websites, vídeos e aplicativos veicularam seu 
+anúncio no Relatório de canais na guia "Canais".
+Continua ...Segmentação  
+(continuação)Categoria Prática recomendadaVendas on-line, leads e visitas da WebVendas on-line, leads e visitas da WebRede de Display
+Adicione canais eficientes como "Somente lance" e faça lances 
+mais arrojados Para usar “Somente Lance” é necessário ter no 
+mínimo uma segunda segmentação se seja “segmentar e dar 
+lance”, caso contrário, a campanha não entregará resultado.
+Analise esses canais para definir outros temas de segmentação 
+na Rede de Display (por exemplo, novos públicos-alvo no mercado, 
+mais canais etc.).
+Configurações
+Embora os anúncios do Gmail sejam criados em uma 
+campanha da GDN, separe seus anúncios do Gmail 
+usando uma campanha somente para anúncios do 
+Gmail. Isso facilita a geração de relatórios e a otimização. 
+Selecione o canal “mail.google.com” ao criar grupos de 
+anúncios, para que eles sejam veiculados no inventário 
+do Gmail.
+Depois do lançamento da campanha, aguarde duas 
+semanas antes de fazer alterações nela. 
+Ative a opção “Colunas personalizadas para anúncios 
+do Gmail” no Google AdWords para ver outras métricas 
+de desempenho exclusivas do Gmail, como Salvamentos, 
+Encaminhamentos e Cliques para o website.
+Segmentação
+Os anunciantes costumam começar com as palavras-
+chave que tiveram um bom desempenho na GDN para 
+depois ampliar as opções usadas.Os anúncios do Gmail permitem que você segmente 
+domínios de e-mail como palavras-chave. Com base 
+no público-alvo que você tenta alcançar, segmente 
+os domínios dos quais seu público-alvo recebe 
+e-mails. A formatação correta é "google.com", e não 
+"www google com" ou "news@google.com").
+Faça testes com tipos de segmentação diferentes (por 
+palavras-chave, domínios e segmentos de afinidade – a 
+segmentação por mercado ainda não está disponível em 
+muitas regiões) para determinar a segmentação de melhor 
+desempenho para as suas metas.
+É prática recomendável ativar o CPA desejado/a 
+segmentação arrojada (quando disponíveis) para alcançar 
+os usuários desejados com os algoritmos.
+Ao usar a Segmentação por lista de clientes, segmente 
+suas listas de usuários existentes com ofertas especiais 
+para os clientes atuais. Você também pode segmentar 
+clientes antigos ou aqueles que se inscreveram na lista 
+de e-mail, mas não fizeram conversões. Se você usar 
+públicos-alvo semelhantes da segmentação por lista de 
+clientes para segmentar os usuários mais valiosos, sua 
+lista deve ter mais de 5.000 usuários correspondentes 
+para ter mais qualidade.Anúncios 
+do Gmail
+Continua ...Segmentação  
+(continuação)Categoria Prática recomendadaVendas on-line, leads e visitas da WebRede de Display
+Criativo
+Otimize os dois tipos de criativo do Gmail. Primeiro, 
+considere o anúncio recolhido. Os tamanhos de tela 
+menores exibem menos caracteres nessa etapa. 
+Mantenha o call-to-action nos primeiros caracteres 
+para atrair o interesse dos usuários para clicar e saber 
+mais. Considere também o anúncio expandido. Use-o 
+como uma minipágina de destino que pode encurtar o 
+acompanhamento de conversão. Use deeplinks para 
+atrair o usuário diretamente para a página de destino de 
+compra/conversão. Crie calls-to-action claros e enfáticos 
+para que o usuário saiba onde deve clicar.Use pelo menos dois modelos diferentes de testes A/B 
+simples, determinando quais criativos geram um melhor 
+desempenho. Por exemplo: Se seu cliente faz publicidade 
+de três ou seis produtos, faça testes com o Modelo de 
+vários produtos e com o Modelo de catálogo. 
+Para os criativos personalizados, teste-os antes de fazer 
+upload para o Google AdWords na ferramenta Validador 
+de criativo https://h5validator.appspot.com/gmail.
+Atualize os criativos a cada quatro ou seis semanas.
+Aplique os aprendizados dos criativos adquiridos com 
+campanhas de marketing por e-mail anteriores. Entenda 
+quais tipos de linha de assunto ou mensagens em cópia 
+tiveram um bom desempenho.
+Avaliação
+Adicione as conversões de exibição aos relatórios de 
+canais. É possível usar essa métrica para otimizar o 
+desempenho dos seus anúncios da Rede de Display 
+ou identificar os canais com melhor desempenho. Não 
+se esqueça de que as conversões de exibição têm um 
+controle automático contra duplicações nas campanhas 
+da Pesquisa Google, do YouTube e da Rede de Display do 
+Google na mesma conta. 
+Analise o Relatório de conversões assistidas  no Google 
+Analytics para visualizar as conversões iniciadas, 
+assistidas e concluídas por canal. Suas descobertas 
+podem ter um papel importante para orientar as decisões 
+de orçamento. Faça testes A/B para entender o aumento em visitas ou 
+conversões geradas pelos seus anúncios. Você pode 
+dividir seu público-alvo em dois grupos: As pessoas que 
+viram seus anúncios e aquelas que não viram. Essas 
+descobertas podem ter um papel importante para orientar 
+as decisões de orçamento e lances.Sugestões 
+adicionaisAnúncios 
+do Gmail  
+(continuação)Prática recomendadaVendas on-line, leads e visitas da WebRedes
+Ative a Pesquisa e a Rede de vídeos do YouTube para fazer 
+otimizações por visitas ao site. Isso permite que você 
+impulsione a CTR com os formatos de anúncio Discovery.
+In-stream
+Use call-to-action overlays e cartões para atrair 
+espectadores de vídeo para os websites aprovados e, 
+assim, maximizar as visitas ao site.
+OBSERVAÇÕES
+• Normalmente os call-to-action overlays são mais efetivos 
+que os cartões quando falamos em maximizar as visitas 
+ao site. Isso ocorre porque eles redirecionam o tráfego 
+com um único clique, Porém, os cartões tem outras 
+funções como geração de tráfego ao canal do Youtube /ou 
+referenciar outros vídeos.• Não é possível usar cartões e call-to-action overlays 
+simultaneamente no mesmo vídeo.
+Para maximizar as visitas ao site, é possível usar 
+um banner complementar de 300 x 60 (somente para 
+computador) com uma call-to-action explícita com o 
+objetivo de atrair cliques.
+OBSERVAÇÃO
+• Outra vantagem do banner complementar é que ele 
+permanece à direita da tela depois que o vídeo termina, 
+o que aumenta a exposição ao usuário.
+Públicos-alvo no mercado
+Use a segmentação por público-alvo no mercado para 
+maximizar as visitas ao site, pois ela normalmente gera 
+a maior CTR.
+OBSERVAÇÕES
+• Se você usar as segmentações de afinidade e no mercado 
+no mesmo grupo de anúncios, o inventário será limitado de 
+maneira significativa. Assim, se houver a necessidade de 
+usar os dois tipos de segmentação, você deve fazer isso 
+em grupos de anúncios separados.• Se quiser testar a efetividade de vários tipos de 
+segmentação (o que, aliás, é recomendável), você deve 
+criar vários grupos de anúncios, cada um com uma opção 
+de segmentação diferente. Use a função "Segmentar" para 
+identificar qual opção atraiu o maior número de cliques 
+para o site.
+Continua ...Configurações 
+da campanha
+Segmentação Formatos 
+do produtoPrática recomendadaRemarketing
+Use as listas de remarketing para segmentar as pessoas 
+que acessaram o site do cliente, mas não realizaram as 
+ações desejadas.
+Você pode usar as listas de remarketing criadas em 
+campanhas anteriores para se reconectar com as pessoas 
+que já viram os anúncios do cliente/conhecem a marca 
+e estão mais propensos a acessar o site (pois podem ter 
+mais reconhecimento ou interesse na marca).
+OBSERVAÇÕES
+• Idealmente, você poderia criar grupos de anúncios 
+específicos e personalizar o criativo do vídeo de acordo 
+com o público-alvo específico das listas de remarketing 
+(o restante da campanha, nesse caso, teria um criativo 
+mais geral).Faça testes com conteúdos curtos e crie uma call-to-
+action explícita com o objetivo de atrair cliques para 
+esses conteúdos.
+Também é possível usar a lista de remarketing para 
+excluir as pessoas nos níveis da campanha ou do grupo 
+de anúncios e impedir a veiculação de anúncios para os 
+usuários que já fizeram uma compra ou realizaram uma 
+ação no site.
+Segmentação por lista de clientes
+A segmentação por lista de clientes é muito efetiva no 
+aumento das visitas ao site, pois ela identifica os usuários 
+mais valiosos usando os dados de Gerenciamento de 
+Relacionamento com Clientes (CRM, na sigla em inglês) 
+do próprio cliente. Combinado com a segmentação por 
+público-alvo semelhante, esse recurso amplia o alcance 
+da campanha e ajuda a atrair usuários com características 
+semelhantes e uma grande propensão ao engajamento.
+Conteúdo e criativos
+Use uma call-to-action clara que peça para o usuário clicar 
+no criativo (isso é fundamental para maximizar as visitas 
+ao site).
+OBSERVAÇÕES 
+• Aguarde tempo suficiente para o usuário clicar (é 
+recomendável um mínimo de cinco segundos). Para fazer 
+isso de modo efetivo, crie um frame estático no final do 
+vídeo com uma call-to-action clara para atrair cliques.• Use o criativo para mostrar ao usuário onde ele deve clicar, 
+pois isso aumenta a eficiência. Por exemplo, você pode 
+direcionar para uma call-to-action overlay que contenha 
+o link do site do cliente.
+Testes A/B para criativos
+Faça testes A/B com criativos diferentes comparando 
+as CTRs para identificar aqueles mais propensos a 
+aumentar as visitas ao site. Coloque cada criativo em uma 
+campanha diferente. Assim, você poderá isolar a CTR para 
+fazer análises subsequentes.
+Continua ...Segmentação  
+(continuação)
+Sugestões 
+adicionaisPrática recomendadaVendas on-line, leads e visitas da WebAvaliação
+Use as Pesquisas Brand Lift (interesse por marcas) 
+para avaliar o impacto das campanhas do YouTube 
+nos volumes de pesquisas por marcas.
+OBSERVAÇÃO
+• Você também pode usar o Google Trends para identificar 
+um aumento no volume de pesquisas por marcas por 
+causa da campanha.
+Inclua a CTR e as conversões de exibição para avaliar o 
+número total de visitas ao site geradas pela campanha.OBSERVAÇÕES
+• É comum que as conversões de exibição não recebam 
+a devida importância, mas elas têm relação com a 
+campanha porque mostram os usuários que ignoraram 
+alguns anúncios, mas algum tempo depois realizaram uma 
+ação no site. Isso é importante para avaliar a eficiência e o 
+impacto da campanha além da geração direta de cliques.
+• Use o acompanhamento de conversões da MCC para evitar 
+duplicações nas atividades da Rede de Pesquisa.Sugestões 
+adicionais  
+(continuação)Prática recomendadaVendas on-line, leads e visitas da WebRECONHECIMENTO
+sobre o alcance sobre as 
+visualizaçõessobre a entrega 
+do orçamentoPrática recomendadaReconhecimentoReconhecimentoReconhecimento
+Limite de frequência
+Use um limite de frequência no nível da campanha de seis 
+impressões por semana ou um mínimo de uma ou duas 
+impressões por dia.
+Para gerar o impacto ideal para a marca, alcance as 
+pessoas regularmente ao longo do curso da campanha.
+OBSERVAÇÕES 
+• Os limites de frequência são o teto. Assim, se uma campanha 
+tiver um limite de seis impressões, ela geralmente conseguirá 
+um valor mais baixo (normalmente duas ou três). 
+• Estabeleça limites por períodos curtos para ter um controle 
+melhor da distribuição das impressões ao longo do tempo. 
+Por exemplo, um limite diário ou semanal fornece mais 
+controle do que estabelecer um limite de seis impressões 
+por mês (o que pode significar a veiculação das seis 
+impressões na mesma semana ou no mesmo dia).
+• Não limite as Visualizações e as Impressões ao mesmo 
+tempo, a menos que você tenha um objetivo específico. 
+Por exemplo, você pode estabelecer um limite de uma 
+visualização durante toda a campanha para conseguir o 
+número máximo de espectadores, e de três impressões 
+por dia para criar uma frequência efetiva. 
+Ajuste o limite de frequência para baixo se a campanha 
+não estiver conseguindo alcançar o objetivo. Ajuste o limite 
+de frequência para cima com o objetivo de impulsionar 
+a repetição de anúncios e aumentar o GRP (pontos de 
+audiência bruta, na sigla em inglês).
+Uma média de frequência de 2+ gerou métricas de aumento 
+da marca muito maiores que uma média de 1+ (segundo 
+avaliações das Pesquisas Brand Lift). Método de exibição
+Recorra à entrega acelerada somente depois de explorar 
+todas as outras alavancas de otimização.
+OBSERVAÇÃO
+• A entrega acelerada pode ter impactos negativos, incluindo 
+a redução da VTR (taxa de visualização) ou o aumento do 
+CPV (custo por classificação). Use-a com cautela.
+Orçamento
+Comece a campanha com um orçamento diário maior 
+(cerca de 10%) para evitar que sua taxa de gasto seja 
+insuficiente. Por exemplo, se o orçamento da campanha 
+for US$ 100 mil em 10 dias, considere US$ 11 mil em vez 
+de US$ 10 mil por dia. 
+Aumente os orçamentos diários para os horários mais 
+nobres (por exemplo, antes das 18h, antes dos fins de 
+semana e por aí em diante). Assim, você usa um orçamento 
+suficiente para alcançar seu público-alvo nos períodos de 
+maior movimento.
+Redes
+Ative os Parceiros de vídeo do Google para aumentar seu 
+alcance de público-alvo em 20 a 30% e atrair mais exibições 
+de vídeo em sites e aplicativos de parceiros que são 
+seguros para a sua marca.
+Idioma
+Amplie uma campanha com a inclusão de outros idiomas 
+relevantes para ajudar a alcançar mais usuários únicos.Sobre o Alcance – anúncios TrueView
+Continua ...Configurações 
+da campanhaDiscovery
+Inclua os anúncios discovery TrueView como grupos 
+de anúncios separados para aumentar o alcance em 
+inventários com anúncios de outros tipos (e não In-stream) 
+e receber visualizações a um CPV mais competitivo.
+CPV
+Se você gasta o orçamento diário, comece a otimizar o 
+CPV para maximizar o alcance (um CPV menor gera mais 
+visualizações e impressões pelo mesmo orçamento).
+OBSERVAÇÕES
+• Ao reduzir o CPV, altere o CPV máximo gradualmente (em 
+incrementos de 1 centavo) e aguarde entre 24 e 48 horas 
+para que a campanha se adapte ao novo lance antes de 
+realizar mais alterações.
+• O CPV desejado está diretamente ligado ao Índice de 
+qualidade (ou seja, a VTR) da sua campanha. Quanto maior 
+for a VTR, menor deverá ser a redução do CPV.
+Faça um lance um ou dois por cento maior do que o CPV 
+desejado ou o comparativo de mercado desde o começo 
+da sua campanha. OBSERVAÇÃO
+• Use a coluna "Métricas competitivas" no Google 
+AdWords para avaliar o número de impressões 
+(e, consequentemente, visualizações) perdidas devido 
+à classificação do anúncio. Use essa informação para 
+fazer lances adequados. Quando a parcela de impressões 
+perdidas devido à classificação do anúncio estiver alta, 
+aumente seu CPV máximo . Quando ela estiver baixa, 
+diminua seu CPV máximo .
+Ajuste de lance para celular
+Não reduza os lances para celular. Sempre ative os 
+sites para celular com um lance similar ao lance para 
+computador. A ativação de celulares é essencial para 
+otimizar o alcance. LancesFormatos 
+do produtoPrática recomendadaReconhecimento
+Horário
+Para as campanhas com um orçamento maior disponível, 
+estenda a data de término da campanha para ajudar a 
+conseguir um alcance maior.Programação de anúncios
+Remova a programação de anúncios (se ela estiver ativada) 
+e veicule anúncios todos os dias e em todos os horários 
+para ampliar o alcance. Sobre o Alcance – anúncios TrueView
+Configurações 
+da campanha 
+(continuação)Categoria Prática recomendadaReconhecimento
+Limite de frequência 
+Aplique o limite de frequência às visualizações para 
+maximizar as visualizações únicas. Para campanhas 
+pequenas e médias, comece estabelecendo o limite de 
+uma visualização. Para campanhas maiores, comece 
+com um limite de visualização maior, de duas ou três 
+visualizações por mês.
+OBSERVAÇÃO
+• As decisões sobre os limites de frequência devem ser 
+feitas com base no tamanho do orçamento, nas metas 
+de visualização por cliente e na receptividade à exposição 
+repetida. 
+Método de exibição
+Use a entrega acelerada para aumentar a contagem de 
+visualizações em um curto período.
+OBSERVAÇÃO
+• A entrega acelerada pode ter impactos negativos, incluindo 
+a redução da VTR ou o aumento do CPV. Use-a com cautela, 
+especialmente durante a otimização para receber mais 
+visualizações.Orçamento
+Ao veicular várias campanhas, use a coluna "Métricas 
+competitivas" no Google AdWords para avaliar o número 
+de impressões (e, consequentemente, visualizações) 
+perdidas devido ao orçamento. Realoque mais recursos 
+do orçamento às campanhas que têm uma porcentagem 
+maior de parcela de impressões devido ao orçamento 
+e que tenham o CPV mais competitivo.
+Redes
+Ative os Parceiros de vídeo do Google para aumentar seu 
+alcance de público-alvo em 20 a 30% e atrair mais exibições 
+de vídeo em sites e aplicativos de parceiros que são 
+seguros para a sua marca.
+Programação de anúncios
+Remova a programação de anúncios (se ela estiver ativada) 
+e veicule anúncios todos os dias e em todos os horários 
+para maximizar o número de visualizações. 
+OBSERVAÇÃO
+• Como o gasto do orçamento geralmente é maior nos fins 
+de semana, defina um orçamento diário maior para a sexta-
+feira para garantir que suas campanhas não sejam limitadas 
+durante o fim de semana.sobre as visualizações – anúncios TrueView
+Configurações 
+da campanhaIn-stream
+Otimize os cinco primeiros segundos (:05) do criativo do 
+anúncio para maximizar a retenção do público-alvo. Vídeos 
+de humor, com celebridades e de animação geralmente 
+apresentam maior retenção e número de visualizações. Discovery
+Crie um grupo de anúncios separado com anúncios 
+discovery TrueView para impulsionar a retenção  
+(e, portanto, as visualizações), especialmente em 
+conteúdos de vídeo com maior duração. Todas as 
+visualizações de anúncios discovery TrueView são 
+provenientes de usuários que interagiram ativamente 
+por meio de um clique no anúncio em miniatura.
+CPV
+Se o orçamento diário for entregue, faça testes reduzindo 
+o CPV máximo , pois isso pode resultar em mais 
+visualizações (a um custo menor). Se o orçamento diário 
+não for entregue, consulte a seção "Otimizar para entrega 
+do orçamento".OBSERVAÇÃO
+• Use a coluna "Métricas competitivas" no Google 
+AdWords para avaliar o número de impressões (e, 
+consequentemente, visualizações) perdidas devido à 
+classificação do anúncio. Se a parcela de impressões 
+perdidas por causa da classificação do anúncio for alta 
+(maior do que 50%), não reduza seu CPV máximo .
+Continua ...Geral
+Maximize a contagem de impressões  
+(e, consequentemente, de visualizações) com o uso 
+de todas as soluções de público-alvo disponíveis (por 
+afinidade, no mercado, demográfica, por tópico etc.). 
+Assim, é possível manter os tipos de segmentação que 
+apresentam a melhor VTR e pausar aqueles menos 
+satisfatórios. 
+OBSERVAÇÃO
+• Uma VTR alta resulta em um maior Índice de qualidade, 
+o que reduz o CPV e permite mais visualizações.
+Para usar uma estratégia "em todo o site", não selecione 
+nenhuma segmentação no seu grupo de anúncios. OBSERVAÇÃO
+• Talvez você queira usar uma estratégia de segmentação 
+ampla ("em todo o site") e, ao mesmo tempo, analisar dois 
+fatores: O desempenho de vários tipos de segmentação em 
+comparação um com o outro (por exemplo, por afinidade, 
+tópicos, no mercado etc.) e o desempenho deles em relação 
+a todas opções de segmentação em um tipo (por exemplo, 
+especialistas em beleza em comparação com entusiastas de 
+culinária). Se este for o caso, crie grupos de anúncios individuais 
+por tipo de segmentação e, em seguida, selecione todas as 
+opções Desse modo, cada grupo de anúncios registra todos os 
+dados detalhados das opções de segmentação, que podem ser 
+usados para identificar insights e fazer a otimização adequada.
+Não combine várias segmentações em um único grupo 
+de anúncio, pois isso pode limitar significativamente a 
+veiculação de anúncios e o alcance.Segmentação LancesFormatos 
+do produtoCategoria Prática recomendadaReconhecimento
+sobre as visualizações – anúncios TrueViewRemarketing
+Use as listas de remarketing criadas em campanhas 
+anteriores para alcançar uma VTR maior, o que tem um 
+efeito positivo no Índice de qualidade e resulta em um CPV 
+menor e mais visualizações.
+Crie uma lista de remarketing das pessoas que visualizaram 
+o anúncio em vídeo e defina-a como remarketing negativo 
+para atrair espectadores únicos. Isso é especialmente efetivo 
+quando você veicula várias campanhas simultaneamente e 
+deseja controlar as visualizações únicas nessas campanhas.Públicos-alvo semelhantes
+A segmentação por público-alvo semelhante 
+também é efetiva para a geração de maiores VTRs 
+e, consequentemente, mais visualizações.
+Conteúdo e criativos
+A qualidade dos criativos é um dos principais fatores 
+que geram um aumento da contagem de exibições de 
+um vídeo. Os criativos de alta qualidade incentivam os 
+usuários a clicar nas miniaturas dos anúncios discovery 
+TrueView e assistir a anúncios In-stream além do limite 
+de 30 segundos ou até mesmo até o fim. Faça testes A/B 
+com os criativos comparando as VTRs para identificar 
+aqueles mais propensos a aumentar as visualizações. 
+Coloque cada criativo em uma campanha diferente. 
+Assim, você poderá isolar a VTR para fazer análises 
+subsequentes.Identifique os criativos com o maior número de 
+visualizações e as VTRs mais altas e inclua-os em 
+todos os grupos de anúncios.Sugestões 
+adicionaisCategoria Prática recomendadaReconhecimento
+sobre as visualizações – anúncios TrueView
+Segmentação  
+(continuação)Estados do convite personalizados
+Os convites personalizados nos formatos 728 x 90 e 
+300 x 250 maximizam a veiculação de anúncios em um 
+inventário mais disponível.Formatos 
+do produtoCategoria Prática recomendadaReconhecimento
+Tipo de campanha
+Crie uma campanha "Apenas na Rede de Display – todos os 
+recursos" para veicular uma campanha de reconhecimento 
+com anúncios lightbox usando o vCPM. 
+Limite de frequência
+Estabeleça um limite de frequência entre três e cinco 
+impressões por dia para maximizar a exposição das 
+impressões na parte inicial da campanha.
+Use a coluna "Frequência média de impressões por cookie" 
+no Google AdWords para avaliar o alcance das impressões 
+únicas e aumente ou reduza os limites de frequência 
+adequadamente.Entrega
+Use a entrega acelerada para campanhas de curta duração 
+ou se você quiser assegurar a entrega do orçamento.
+OBSERVAÇÃO
+• A entrega acelerada pode aumentar os CPMs médios. 
+É preferível ampliar a segmentação do anúncios para 
+aumentar as impressões.
+Orçamento
+Quando possível, comece as campanhas com orçamentos 
+limitados com cinco horas de antecedência em relação 
+ao horário de início planejado. Assim, os sistemas de 
+veiculação de anúncios terão tempo para assimilar os 
+anúncios dessa campanha.
+Use a coluna "Parcela de impressões perdidas devido 
+ao orçamento" no Google AdWords para analisar a atual 
+parcela perdida por causa de restrições no orçamento de 
+campanha.sobre as visualizações – anúncios lightbox comprados com base no 
+CPM
+Configurações 
+da campanhavCPM
+Faça lances arrojados no lançamento de campanhas, 
+mas saiba que um lance de CPM maior que US$ 6 (ou o 
+equivalente na moeda local) não tem impacto material 
+no desempenho das campanhas.
+Use a coluna "Parcela de impressões perdidas devido à 
+classificação" para analisar a parcela perdida por causa 
+de restrições nos lances. Se a parcela de impressões 
+perdidas por causa da classificação for alta, considere 
+a possibilidade de aumentar seu lance.Ajuste de lance para celular
+A visibilidade veicula cerca de 50% do conteúdo no 
+inventário para celular. Assim, a menos que a meta da 
+campanha esteja 100% no celular, geralmente não é 
+necessário usar um modificador de lance para celular 
+para as campanhas de vCPM.
+Geral
+Para maximizar o inventário disponível, use uma estratégia 
+"em todo o site". Para fazer isso, não selecione uma 
+segmentação ou crie grupos de anúncios diferentes 
+para selecionar todas a segmentações em cada tipo 
+(demográfica, segmentos de afinidade e tópicos).
+OBSERVAÇÃO
+• Amplie a segmentação o suficiente para alcançar seu 
+objetivo. Evite combinar diferentes opções de segmentação 
+em um único grupo de anúncios, pois isso pode reduzir a 
+veiculação de anúncios e o alcance de modo significativo. 
+Para maximizar o alcance, crie vários grupos de anúncios, 
+cada um com uma opção de segmentação diferente, e 
+ajuste os lances de CPE (custo por engajamento) pelo 
+desempenho.Tenha cuidado ao usar segmentação por palavra-chave, 
+canal ou remarketing, pois esses tipos de segmentação 
+limitam o inventário disponível e reduzem o alcance.
+A segmentação demográfica (incluindo segmentos 
+desconhecidos) e os segmentos de afinidade normalmente 
+geram o alcance de campanha mais amplo possível.
+Depois de um período de mais de 72 horas de exibição 
+da campanha, exclua os canais com CTRs baixos  (alto 
+número de impressões/baixo número de cliques) e 
+aumente os lances nos canais que apresentam um bom 
+engajamento.
+Continua ...Segmentação LancesCategoria Prática recomendadaReconhecimento
+sobre as visualizações – anúncios lightbox comprados com base no 
+vCPMRemarketing
+Se você usar listas de remarketing na sua campanha 
+e quiser ampliar o alcance, use a segmentação por 
+público-alvo semelhante para criar uma grande lista de 
+pessoas com características e interesses semelhantes 
+e usá-la como sua lista de remarketing. Essa é uma ótima 
+maneira de ampliar o alcance da sua campanha de modo 
+rápido e efetivo.Se você usa listas de remarketing na sua campanha, 
+exclua a lista de remarketing da lista original do cliente. 
+Assim, a campanha terá o foco na segmentação de 
+novos clientes.
+Avaliação
+Inclua um estudo de interesse na marca para as 
+campanhas que acumulam 100.000 impressões 
+por dia em um período de 14 dias.Segmentação  
+(continuação)
+Sugestões 
+adicionaisReconhecimento
+sobre as visualizações – anúncios lightbox comprados com base no 
+vCPMReconhecimento
+Sobre as visualizações – anúncios da Rede de Display comprados 
+com base no vCPMGeral
+Segmente os critérios por grupo de anúncios. A criação de 
+critérios distintos de segmentação por grupo de anúncios 
+simplifica a geração de relatórios e as oportunidades 
+de otimização. Não combine critérios de segmentações 
+diferentes em um único grupo de anúncios, pois isso pode 
+reduzir o alcance da campanha de modo significativo.
+Segmentação demográfica e por público-alvo
+Use a segmentação com base em público-alvo 
+(segmentos demográficos e de afinidade) para gerar 
+o alcance mais relevante. Evite usar a segmentação no 
+mercado, a segmentação contextual, e os critérios de 
+remarketing quando possível.Exclusão de canais
+Use o Relatório de desempenho em canais para avaliar 
+e excluir os sites que apresentam proporções de vCPM/
+CPCs maiores que a média.Segmentação Categoria Prática recomendadaCategoria Prática recomendada
+Limite de frequência
+Alivie o limite de frequência para maximizar o cumprimento 
+do orçamento.
+OBSERVAÇÕES
+• É considerado uma prática recomendável estabelecer 
+o limite de frequência no nível da campanha de seis 
+impressões por semana.
+• Os limites de frequência são o teto. Assim, se uma 
+campanha tiver um limite de seis impressões, ela 
+geralmente servirá um valor mais baixo (normalmente duas 
+ou três).
+Método de entrega
+A entrega acelerada aumenta o cumprimento do orçamento 
+durante uma campanha programada.
+OBSERVAÇÃO
+• Use essa otimização com cautela, já que ela pode ter 
+impactos negativos, incluindo a redução da VTR ou o 
+aumento do CPV.
+Orçamento
+Comece a campanha com um orçamento diário maior 
+(cerca de 10%) para evitar que sua taxa de gasto seja 
+insuficiente. Por exemplo, se o orçamento da campanha 
+for US$ 100 mil em 10 dias, não considere US$ 11 mil 
+em vez de US$ 10 mil por dia. OBSERVAÇÃO
+• Ao veicular várias campanhas, use a coluna "Métricas 
+competitivas" no Google AdWords para avaliar o número 
+de impressões (e, consequentemente, visualizações) 
+perdidas por falta de orçamento. Além disso, realoque uma 
+parte maior do orçamento para campanhas com uma alta 
+porcentagem de perda de impressões devido ao orçamento.
+Redes
+Ative os Parceiros de vídeo do Google para aumentar seu 
+alcance de público-alvo em 20 a 30% e atrair mais exibições 
+de vídeo em sites e aplicativos de parceiros que são 
+seguros para a sua marca.
+Idioma
+Amplie uma campanha com a inclusão de outros idiomas 
+relevantes para ajudar a alcançar mais usuários únicos e 
+maximizar o cumprimento do orçamento. 
+Horário
+Se a campanha não estiver gastando todo o orçamento, 
+adie a data de término dela.
+Programação de anúncios
+Remova a programação de anúncios (se ela estiver ativada) 
+e veicule anúncios todos os dias e em todos os horários 
+para ampliar o alcance e maximizar o cumprimento do 
+orçamento.
+OBSERVAÇÃO
+• Como o gasto do orçamento geralmente é maior nos fins de 
+semana, defina um orçamento diário maior para a sexta-
+feira para garantir que suas campanhas não sejam limitadas 
+durante o fim de semana.Sobre a entrega do orçamento
+Configurações 
+da campanhaIn-stream
+Para campanhas com grandes orçamentos, sempre use 
+anúncios TrueView In-stream (além de outros formatos 
+adequados), pois esse formato é muito efetivo no 
+cumprimento do orçamento.Discovery
+Se você estiver usando somente anúncios TrueView  
+In-stream na sua campanha, adicione também 
+os anúncios Discovery TrueView para gerar mais 
+visualizações e aumentar o gasto do orçamento.
+CPV
+É possível acelerar o gasto da campanha com aumentos 
+médios ou grandes de lance.
+OBSERVAÇÕES
+• Avalie a coluna "Parcela de impressões perdidas devido 
+à classificação" no Google AdWords para avaliar as 
+impressões em potencial que podem ser conquistadas 
+com um aumento de lance. Use essa informação para 
+fazer lances adequados.• Considere fazer um aumento de lance depois de explorar 
+as outras opções de otimização do cumprimento do 
+orçamento.
+Ajuste de lance para celular
+Não reduza os lances para celular. Sempre ative os sites 
+para celular com um lance em paridade com o lance para 
+computador. A ativação de celulares é essencial para 
+otimizar o alcance. 
+Geral
+Se suas campanhas não estiverem gastando todo o 
+orçamento, verifique se suas escolhas de segmentação 
+estão muito restritivas ou em sobreposição. Explore todas 
+os tipos de segmentação diferentes, pois há vários modos 
+de alcançar o público-alvo desejado.
+Amplie a segmentação da campanha com a criação de 
+novos grupos de anúncios com opções de segmentação 
+que simulam as diferentes "camadas" da estratégia de 
+segmentação de uma marca (públicos-alvo principal, 
+secundário etc.). Para gerar mais eficiência, defina estratégias de lances específicas para cada grupo de 
+anúncios. Para fazer isso, use um CPV máximo maior para 
+os grupos de anúncios mais específicos ou a segmentação 
+de nichos e um CPV máximo menor para a segmentação 
+mais ampla. 
+Remarketing
+Use as listas de remarketing criadas em campanhas 
+anteriores para alcançar um VTR maior, o que tem um 
+efeito positivo no Índice de qualidade e resulta em um 
+gasto de campanha mais rápido.Segmentação LancesFormatos 
+do produtoPrática recomendadaSobre a entrega do orçamentoCONSIDERAÇÃO
+TrueView LightBox 
+(comprado com 
+base no CPE)ConsideraçãoCategoria Prática recomendadaTrueView
+In-stream
+Defina o URL do canal do YouTube como o URL de destino 
+do anúncio TrueView In-stream. Assim, você gera tráfego 
+para a página inicial e maximiza o engajamento no canal.
+Use cartões TrueView In-stream, call-to-action overlays 
+ou notas com comandos explícitos como "acesse" ou 
+"inscreva-se" para incentivar os espectadores a interagir 
+com mais conteúdos ou inscreverem-se no canal.
+OBSERVAÇÃO
+• Não é possível usar cartões e call-to-action overlays 
+simultaneamente. 
+Use o mural de vídeos do TrueView, que vem com um 
+botão de inscrição embutido , para atrair inscritos.
+OBSERVAÇÕES
+• O mural de vídeos não criará e exibirá anúncios 
+automaticamente se houver uma configuração de banner 
+complementar de 300 x 60. Os vídeos exibidos no mural 
+são importados da sua playlist pública mais recente. Para 
+personalizar os vídeos exibidos, crie uma nova playlist 
+pública no seu canal com sua seleção de vídeos.• Em vez do mural de vídeos, outra alternativa é o uso de um 
+banner complementar de 300 x 60 com uma call-to-action 
+explícita (como "Veja mais conteúdo sobre XYZ no canal 
+oficial de XYZ no YouTube") para atrair as pessoas para o 
+canal depois que elas assistirem a um vídeo.
+Discovery
+Os anúncios Discovery TrueView podem gerar métricas de 
+engajamento mais robustas do que os anúncios TrueView 
+In-stream. Se seu objetivo é gerar engajamento no canal, 
+faça testes com a alocação de aproximadamente 50% do 
+gasto de campanha para os anúncios Discovery TrueView.
+Inclua uma call-to-action "inscrever-se" no seu anúncio de 
+texto Discovery TrueView para gerar mais engajamento no 
+canal.Horário
+Atrair inscritos para o canal e gerar engajamento leva 
+tempo. Faça um planejamento para que as campanhas 
+mais longas (ou campanhas permanentes) tenham tempo 
+suficiente para o crescimento e a otimização.OBSERVAÇÃO
+• Um período de quatro a oito semanas é uma ótima 
+estimativa do tempo (mínimo) necessário para maximizar 
+a campanha de modo efetivo e gerar mais engajamento no 
+canal.Configurações 
+da campanha
+Formatos 
+do produtoConsideraçãoRemarketing
+Use as listas de remarketing para excluir os usuários que 
+já se inscreveram no canal do YouTube.
+Veicule uma campanha Discovery TrueView segmentando 
+a mesma lista de remarketing da sua campanha TrueView 
+In-stream para atrair espectadores para o canal da marca 
+e incentivá-los a interagir de outras formas (por exemplo, 
+inscrever-se, compartilhar etc.).
+Conteúdo e criativos
+Use um criativo com uma call-to-action "inscrever-se" no 
+canal (isso é fundamental para maximizar o engajamento 
+no canal).
+Faça um criativo como um "teaser", usando vários criativos 
+com a mesma aparência como uma série da Web para 
+divulgar o conteúdo do canal do YouTube. Essa é uma 
+forma efetiva de convencer as pessoas a se inscreverem 
+e de gerar engajamento no canal.Faça upload de novos conteúdos regularmente (pelo 
+menos semanalmente, segundo a prática recomendada). 
+Os novos conteúdos são essenciais para maximizar o 
+engajamento no canal. 
+Crie um trailer reproduzido automaticamente no canal 
+para segmentar os não inscritos quando eles acessarem 
+o canal pela primeira vez. O vídeo deve ter uma call-to-
+action "inscreva-se" explícita.
+Inclua marcas d'água de branding em todas as promoções 
+de vídeo, computador e canal. Assim, os espectadores 
+poderão passar o cursor do mouse nessas marcas d'águas 
+e inscreverem-se no canal de modo prático.Segmentação 
+Sugestões 
+adicionaisCategoria Prática recomendada
+CPV
+Calcule uma métrica "custo por inscrito" e use-a de acordo 
+com as metas de custos por inscrito da campanha para 
+ajustar o CPV máximo adequadamente.OBSERVAÇÃO
+• Use o YouTube Analytics para avaliar o aumento 
+de inscritos ganhos.TrueView
+LancesConsideraçãoCategoria Prática recomendadaLightBox (comprado com base no CPE)
+Estados de convite personalizados
+Se quiser trabalhar com criativos personalizados, use 
+os banners de convite personalizados (disponíveis 
+em três tamanhos: 300 x 250, 160 x 600 e 728 x 90) 
+para maximizar a consideração. Os banners de convite 
+personalizados fornecem total controle sobre a aparência 
+do seu estado de convite em vários canais.Tipo de campanha
+Para para consideração uma campanha Lightbox usando 
+CPE (custo por engajamento), crie uma nova campanha 
+"Apenas na Rede de Display – engajamento" ao programar 
+um Lightbox (não é possível fazer upload de criativos de 
+CPE Lightbox para outros tipos de campanhas da Rede 
+de Display).
+Limite de frequência
+Estabeleça um limite de frequência entre três e cinco 
+impressões por dia, pois as taxas de engajamento 
+normalmente diminuem com a exposição repetida.Entrega
+Evite a entrega acelerada sempre que possível, pois ela tem 
+a probabilidade de levar a CPEs maiores. Amplie os critérios 
+de segmentação ou adie as datas de término da campanha 
+caso o gasto do orçamento esteja lento.
+Orçamento
+Para as campanhas "Limitadas pelo orçamento", considere 
+fazer uma pequena redução (10%–15%) nos CPEs e 
+aguarde 24–48 horas para o ajuste da campanha antes 
+de fazer mais alterações.
+OBSERVAÇÃO
+• Use a métrica de coluna "Parcela de impressões perdidas" 
+para avaliar o impacto dos aumentos e das reduções do 
+CPE.Configurações 
+da campanha
+Formatos 
+do produtoConsideraçãoGeral
+Use um único tipo de segmentação por grupo de anúncios 
+para ter o máximo controle dos lances de CPE. Pause 
+os grupos de anúncios com desempenho insatisfatório 
+para dedicar uma parte maior do orçamento aos tipos de 
+segmentação de melhor desempenho.
+Use a segmentação por público-alvo no mercado ou de 
+afinidade para gerar as maiores taxas de engajamento.
+OBSERVAÇÃO
+• Não são recomendáveis as segmentações por canal e 
+palavra-chave devido a limitações de inventário.Use o Relatório de desempenho em canais para identificar 
+e excluir os sites com desempenho insatisfatório e baixas 
+taxas médias de engajamento.
+Remarketing
+Use as listas de remarketing existentes para atrair de volta 
+os usuários que já visitaram seu site. Use as listas de 
+remarketing de vídeo para atrair de volta os usuários do 
+YouTube com anúncios Lightbox nos Parceiros de vídeo do 
+Google.Segmentação Categoria Prática recomendada
+CPE
+Dê lances mais agressivos no lançamento da campanha 
+e realize pequenas alterações no CPE ao longo do tempo 
+(aumentos ou reduções de 5%–15% de cada vez). De 
+modo geral, é recomendável um CPE máx. de US$ 1 
+(ou equivalente na moeda local) para as campanhas 
+recém-criadas.Ajuste de lance para celular
+É necessário um modificador de lances para celular de 
++200% para a execução em vários dispositivos. 
+OBSERVAÇÃO
+• Normalmente, os celulares apresentam CPEs maiores 
+do que os computadores, mas conseguem um tempo de 
+engajamento maior. Leve isso em consideração ao definir 
+os objetivos de campanha e os modificadores de lance 
+para celular.LightBox (comprado com base no CPE)
+LancesConsideraçãoConteúdo e criativos
+Use um logotipo de marca transparente quando possível e 
+remova o espaçamento para que o logotipo ganhe espaço.
+Use uma proporção de imagem de 16:9 ao fazer o upload 
+de imagens de capa e evite texto quando possível.
+Para o texto do anúncio, use um máximo de 30 caracteres 
+ou menos, com pelo menos duas linhas de texto 
+diferentes. Além disso, visualize o texto em todos os 
+tamanhos de canais.
+Avaliação
+Use a coluna "Cliques gratuitos" no relatório "Dimensões" 
+pra avaliar as várias interações com os elementos do 
+anúncio Lightbox.OBSERVAÇÃO
+• Considerando que o critério para cobrança é o custo por 
+engajamento , outros tipos de interação (métricas de vídeo, 
+taxa de cliques etc.) são como um bônus.
+Use as conversões e as conversões de exibição para 
+avaliar as atividades pós-clique e pós-impressão ocorridas 
+no site. Também é possível usar a codificação manual 
+para fins de análise. Para fazer isso, use as informações 
+padrão sobre acompanhamento na Galeria de anúncios 
+prontos.
+Inclua um estudo de interesse na marca para as 
+campanhas que acumulam 100.000 impressões por dia 
+em um período de 14 dias.Sugestões 
+adicionaisCategoria Prática recomendadaLightBox (comprado com base no CPE)VENDAS POR TELEFONEVendas por telefone
+Programação
+Programe extensões de chamadas de modo que elas 
+sejam exibidas somente quando a central de atendimento 
+estiver disponível. Configuração da duração da conversão de chamada
+Para definir a duração da conversão de chamada, 
+determine um tempo mínimo para uma conversão de 
+chamada telefônica com base no tipo de empresa. Se 
+preferir, avalie a porcentagem de chamadas do Google 
+AdWords que resultaram em conversões e analise a 
+duração total. Em seguida, analise as durações para 
+escolher um momento de conversão que abrange essa 
+porcentagem geral das conversões de chamada.
+Anúncios só para chamadas
+Considere a possibilidade de usar campanhas só para 
+chamadas quando o anunciante não quiser ativar os 
+celulares (por não ter um site otimizado para celular) ou 
+se ele quiser ter controle total sobre os anúncios só para 
+chamadas. Extensões de chamada
+Considere a possibilidade de centralizar as chamadas 
+em um único número com as extensões de chamada 
+em campanhas nacionais. Também é possível usar as 
+extensões de local se você tiver números de telefone 
+diferentes para cada loja. 
+Considere a possibilidade de configurar números de 
+telefone diferentes para ofertas de produto distintas 
+(para fins de acompanhamento, além de outras 
+finalidades).
+De acordo com a análise de desempenho das chamadas, 
+talvez seja útil ajustar o tamanho da equipe da central de 
+atendimento com base no volume das chamadas para 
+garantir que o tempo de espera seja curto etc.Configurações 
+da campanha
+Anúncios
+Sugestões 
+adicionaisCategoria Prática recomendada
+Visualize o desempenho segmentado por tipo de 
+conversão/clique para saber quais tipos de palavras-chave/
+campanhas promovem chamadas com mais frequência que 
+outros. Use essa informação para fazer lances adequados. 
+Se você usar o Editor de relatórios para criar esse relatório, 
+poderá salvá-lo novamente para uso futuro. 
+Se você promove chamadas no seu website, inclua as 
+conversões de chamada do website.O ROAS e o CPA desejados consideram as conversões de 
+chamada.
+Use o código de área da chamada no Relatório de detalhes 
+da chamada para ver se você recebe mais chamadas de 
+determinados locais. Use essa informação para fazer 
+lances adequados (ou use personalizadores de anúncios).LancesVENDAS NA LOJAVendas na loja
+Anúncios de inventário local – estrutura da conta
+Para um gerenciamento simples do Google AdWords 
+(recomendado): Ative todas as Campanhas do 
+Shopping para LIA (anúncios de inventário local) na 
+guia "Configurações". Marque a caixa de seleção "Ativar 
+anúncios de inventário local" na guia "Configurações". 
+Para fazer isso, é necessário fazer a configuraçãção de 
+feeds locais.
+Configure um destino amplo "Todos os produtos" com 
+um lance adequado (recomendação mínima: R$ 0,15).Para ativar o lance por distância, aumente os lances para 
+a região de 8 km a 16 km ao redor de todas as suas lojas. 
+Para fazer isso, é necessário fazer a configuração da conta 
+do Google Meu Negócio e das extensões de local.
+Para gerenciamento avançado do Google AdWords: Crie 
+Campanhas do Shopping separadas somente locais para LIA.
+Texto do anúncio
+Use uma call-to-action para incentivar os clientes a visitar 
+a loja ou ver como chegar a ela (usando um localizador de 
+lojas).
+Extensões de local
+Ative as extensões de local no nível da conta para uma 
+configuração mais fácil. Assim, você também poderá 
+configurar filtros com a finalidade de evitar que elas 
+sejam exibidas em campanhas para as quais não sejam 
+adequadas.Use o Relatório de distância para analisar suas extensões 
+de local e ajudar a encontrar o melhor raio a ser 
+segmentado.
+Talvez seja necessário usar um raio maior para um local 
+em uma área mais rural.
+Verifique suas extensões de local e mantenha-as ativas 
+para que elas se qualifiquem para a inclusão nos relatórios 
+sobre visita à loja.
+Faça com que sua estratégia de lances e a estrutura da 
+conta exibam o valor dos produtos em cada uma das suas 
+lojas. Por exemplo, adapte os lances para promoções 
+nacionais/sazonais/em uma loja específica.
+Programe anúncios locais para a exibição durante o 
+horário de funcionamento da loja.
+Analise o Relatório de distância para determinar o melhor 
+raio a ser segmentado. Comece com um raio amplo e 
+depois ajuste-o.
+Defina os níveis dos lances com base no horário de 
+funcionamento da loja (usando o horário do dia/semana), 
+no local (usando a região geográfica/extensões de local)  
+e nas conversões de chamada.Use a guia "Dimensão do produto" para entender melhor 
+o desempenho em qualquer nível de granularidade e por 
+qualquer dimensão, incluindo: categoria, tipo de produto, 
+código do item etc.
+Faça lances arrojados para aparecer no Google Maps 
+(parte dos parceiros de pesquisa). Somente o anúncio 
+mais bem classificado é exibido porque há apenas um 
+espaço de anúncio no Google Maps.Extensões 
+de anúncioAnúncios
+LancesCategoria Prática recomendadaVendas na loja
+Palavras-chave
+Adicione palavras-chave de marca da loja como "loja 
+adidas" ou "endereço da adidas " e "encontrar loja mais 
+próxima".
+Escolha palavras-chave (por exemplo, "café" ou "cafeteria") 
+que correspondam às pesquisas locais (por exemplo, 
+"cafeteria perto de mim" ou "café em São Paulo"). Para 
+fazer isso, inclua a frase e variações de correspondência 
+ampla. Assim, você economiza o tempo gasto para 
+adicionar e gerenciar todas as combinações possíveis 
+de palavras-chave e nomes de local.Segmentação Categoria Prática recomendadaINSTALAÇÕES DO 
+APLICATIVO
+Rede de Display TrueView do 
+YouTubeRede de 
+PesquisaCampanhas 
+universais para 
+appsInstalações do aplicativo
+A Campanha Universal para Apps (UAC) é uma forma 
+totalmente automatizada de receber o máximo de 
+instalações com seu CPI (custo por instalação) desejado 
+em todos os produtos do Google: Pesquisa Google, Google 
+Play, YouTube e a Rede de Display do Google de aplicativos 
+e websites para celular.
+Se você estiver promovendo um aplicativo para iOS, as 
+Campanhas Universais para Apps exibirão seus anúncios 
+somente na Rede de Display do Google, no YouTube e no 
+aplicativo da Pesquisa Google. A campanha também será 
+otimizada para registrar as "primeiras inicializações" do 
+seu aplicativo em vez dos downloads.
+Se preferir segmentar a entrega, use os tipos de campanha 
+"Rede de Display – instalações de aplicativos para 
+celular", "Rede de Pesquisa – instalações de aplicativos 
+para celular" ou “Vídeo – instalações de aplicativos para 
+celular".
+Anúncios
+Escreva cada linha do texto como uma frase independente 
+e que tenha sentido por si só. O Google AdWords otimiza e 
+pode fazer combinações dessas linhas automaticamente 
+para criar o melhor anúncio.Se você tem um vídeo, insira a URL do YouTube para exibir 
+anúncios em vídeo no YouTube e na Rede de Display do 
+Google Se você optar por fazer o upload das suas próprias 
+imagens usando o modelo de promoção de aplicativo 
+gráfico, inclua os tamanhos de anúncio mais comuns da 
+rede: 320x50, 300x250, 320x480 e 1200x628.
+Crie uma Campanha Universal para Apps separada 
+para cada idioma. Como o Google AdWords não traduz 
+anúncios, você deve segmentar somente os idiomas 
+compatíveis com seus anúncios e seu aplicativo 
+localizado.
+Orçamento
+Depois que você definir seu orçamento ou CPA desejado, 
+aguarde pelo menos sete dias para avaliar o efeito 
+completo da alteração antes de atualizar esses dados.
+Lances
+Se sua Campanha Universal para Apps não receber tráfego 
+por vários dias, faça testes com lances maiores de CPI 
+e veja se ocorre alguma alteração. Ao aumentar seus 
+lances de CPI, você passa a explorar uma outra camada 
+de tráfego em potencial que não estava acessível aos 
+anúncios antes. Isso pode gerar instalações no seu novo 
+CPI desejado. Configurações 
+da campanhaCategoria Prática recomendadaCampanhas universais para appsInstalações do aplicativo
+Tipo de campanha
+Se você anuncia um aplicativo Android e não avalia os 
+eventos no aplicativo, use as Campanhas Universais 
+para Apps como uma forma totalmente automatizada de 
+receber o máximo de instalações com seu CPI desejado. 
+Caso contrário, use o tipo de campanha "Rede de Display – 
+instalações de aplicativos para celular".
+Para a Rede de Display, você precisa escolher "Objetivo 
+de marketing" e "Instalar seu aplicativo para celulares" 
+na seção de objetivo de marketing ao abrir uma nova 
+campanha. 
+Se quiser uma solução de acompanhamento mais 
+abrangente, use o SDK do Firebase , que permite o 
+acompanhamento, em várias redes, de eventos como 
+a primeira inicialização do seu aplicativo, além de outras 
+conversões no aplicativo em iOS e Android.
+Dispositivo/SO
+Para aplicativos com mais de 100 MB, segmente somente 
+dispositivos com Wi-Fi porque as lojas de aplicativos 
+restringem o download de aplicativos grandes ao uso de 
+Wi-Fi.
+Segmente iOS 6.0 ou mais recente para avaliar os 
+downloads.Orçamento
+É recomendado que o orçamento diário seja de, no 
+mínimo, 50 vezes o valor do CPA desejado.
+Se uma campanha estiver atingindo o orçamento 
+precocemente todos os dias, tente reduzir o CPA desejado 
+para aumentar as conversões. O ideal é que as campanhas 
+não estejam limitadas por orçamento.
+Se seu aplicativo tiver compras no aplicativo (IAP , na 
+sigla em inglês), que são processadas pelo Google 
+Play, recomendamos usar a função CO+IAP para atrair 
+usuários que costumam gerar IAP . Informação relevante 
+para empresas de jogos: Um grande volume de IAP é 
+proveniente de jogos.
+Anúncios
+Use o modelo de anúncio de texto de promoção de 
+aplicativos para criar um anúncio que tem o tamanho 
+ajustado automaticamente com base no local em que 
+ele está qualificado para exibição. Esses anúncios usam 
+informações diretamente das lojas de aplicativo, incluindo 
+o ícone do aplicativo, classificações e muito mais. 
+Se você optar por fazer o upload das suas próprias imagens 
+usando o modelo de promoção de aplicativo gráfico, inclua 
+os tamanhos de anúncio mais comuns da rede: 320 x 50, 
+320 x 480, 480 x 320, 768 x 1024 e 1024 x 768.
+ 
+ 
+ 
+ 
+Continua ...Configurações 
+avançadasCategoria Prática recomendadaRede de Display (mGDN e AdMob)Instalações do aplicativo
+Se você tem um vídeo sobre seu aplicativo, use o modelo 
+de anúncios em vídeo de promoção de aplicativo. 
+Lances
+É prática recomendada usar o Otimizador de conversões 
+(CO, na sigla em inglês) em campanhas de instalação do 
+aplicativo para gerar o máximo de instalações disponíveis 
+com seu custo por instalação desejado. 
+O CO funciona melhor quando você tem uma segmentação 
+mais ampla no nível do grupo de anúncios.
+Ao usar o CO, escolha somente um tipo de conversão para 
+a otimização do algoritmo. Assim, você evita a contagem 
+dupla de vários tipos de conversão. Depois que você ativar o Otimizador de conversões, evite 
+alterar seus lances ou orçamentos nos primeiros três a 
+cinco dias.
+Depois desse período, evite alterar seus lances ou 
+orçamento com uma frequência maior do que três a cinco 
+dias, e nunca com valores menores do que 20%. 
+Se tiver que fazer alterações drásticas na sua campanha 
+(por exemplo, otimizar um novo tipo de conversão), você 
+deve começar uma nova campanha (e pausar a existente). 
+Desse modo, a estratégia de lances assimila as novas 
+condições mais rapidamente.
+Rede de Display
+Uma prática recomendada é ativar a "Segmentação em toda 
+a rede". Para fazer isso, segmente "Todos os aplicativos 
+Android" ou "Todos os aplicativos iOS". Se preferir, adicione 
+todas as categorias individualmente para ver o desempenho 
+por categoria. Assim, você continua a atrair os usuários que 
+fazem instalações em grande escala.
+Para explorar um inventário adicional, marque a caixa de 
+seleção "Estender automaticamente para a mGDN" (Rede de 
+Display do Google para celular) em campanhas para Android.
+A segmentação "em toda a rede" é uma prática recomendada 
+para atingir em grande escala em vez de segmentar 
+instalações de alto valor. Se optar por usá-la, não segmente 
+ou faça lances para todas as categorias individuais de 
+aplicativo instalado ao mesmo tempo e no mesmo grupo de 
+anúncios. Isso pode limitar o alcance, pois alguns usuários 
+desativam a publicidade com base em interesses .Para otimizar e atrair usuários de maior qualidade, 
+divida campanhas individuais com base no valor do 
+cliente em segmentos com melhor desempenho (por 
+exemplo, determinadas categorias de aplicativo instalado, 
+usuários pagos, novos dispositivos etc.) e faça lances 
+mais arrojados. Por exemplo, você pode fazer um lance 
+de US$ 5 para uma campanha com segmentação em 
+toda a rede, ter uma segunda campanha para segmentar 
+"Novos dispositivos" com o lance de US$ 7 e uma terceira 
+campanha para segmentar "Sexo feminino de 18 a 25 
+anos" com o lance de US$ 10. 
+Se você tiver um site para celular, poderá criar uma lista de 
+usuários de visitantes do site para celular e segmentá-los.Configurações 
+avançadas  
+(continuação)
+Segmentação Categoria Prática recomendadaRede de Display (mGDN e AdMob)Instalações do aplicativo
+Tipo de campanha
+Se você anuncia um aplicativo Android e não se preocupa 
+em definir cada palavra da campanha use as Campanhas 
+Universais para Apps como uma forma totalmente 
+automatizada de receber o máximo de instalações com 
+seu CPI desejado. 
+Se preferir, use o tipo de campanha "Rede de Pesquisa – 
+instalações de aplicativos para celular", inclua a tag de 
+conversão no aplicativo com o Google e use CPA desejado.
+Se quiser uma solução de acompanhamento mais 
+abrangente, use o SDK do Firebase , que permite o 
+acompanhamento, em várias redes, de eventos como a 
+primeira inicialização do seu aplicativo, além de outras 
+conversões no aplicativo em IOS e Android.
+Dispositivo/SO
+A instalação do aplicativo na Rede de Pesquisa é 
+compatível com Android e iOS. 
+Orçamento
+Quando uma campanha atinge o orçamento precocemente 
+todos os dias, isso é um indicador claro de mais 
+oportunidades para você. Verifique a guia "Oportunidade" 
+para o aumento de downloads em potencial se você 
+aumentar os orçamentos. Se seu aplicativo tiver compras no aplicativo (IAP , na 
+sigla em inglês), que são processadas pelo Google 
+Play, recomendamos usar a função CO+IAP para atrair 
+usuários que costumam gerar IAP . Informação relevante 
+para empresas de jogos: Um grande volume de IAP é 
+proveniente de jogos.
+Anúncios
+Crie um grupo de anúncios para termos da marca e outro 
+grupo de anúncios para termos mais amplos.
+Teste três ou quatro variações do anúncio em cada grupo 
+de anúncios. Cada anúncio deve se restringir a uma única 
+mensagem atraente que explique o valor do seu aplicativo. 
+Inclua uma call-to-action.
+Lances
+Defina sua estratégia de lances como CPA desejado. 
+Isso permite que o Google AdWords ajuste seus lances 
+automaticamente para conseguir o maior número possível 
+de instalações no seu custo por instalação desejado.
+Se você usar o lance de CPA desejado (que é uma prática 
+recomendada), aguarde duas ou três semanas para que 
+os modelos de lances apresentem uma melhora antes de 
+fazer alterações drásticas.Configurações 
+avançadasCategoria Prática recomendadaRede de PesquisaInstalações do aplicativo
+Palavra-chave (somente Rede de Pesquisa)
+É possível pesquisar mais sugestões de palavras-chave 
+que possam ser usadas como "palavras-chave sementes" 
+na ferramenta Planejador de palavras-chave. Para fazer 
+isso, use a ferramenta Sugestão de palavras-chave, que 
+usa dados do Google Play para mostrar as consultas 
+menos competitivas da loja por indústria.
+Também é possível as compilar palavras-chave sementes 
+de ferramentas externas como AppAnnie Keyword 
+Suggestions e SimilarWeb  para pesquisar ainda mais 
+opções de palavra-chave. Quanto mais cobertura de 
+palavras-chave você tiver, melhor. Outra boa dica de 
+otimização é usar os metadados do seu aplicativo 
+(palavras-chave, títulos, descrições) no console do 
+desenvolvedor do aplicativo ou as palavras-chave de 
+campanhas padrão da Rede de Pesquisa. Você também 
+pode usar palavras-chave dos comentários dos usuários. Verifique se suas palavras-chave abrangem consultas 
+genéricas (sem marca) e com marca e segmentam 
+palavras-chave com e sem a palavra "aplicativo" incluída. 
+Assim, você pode expandir seu tráfego para maximizar o 
+desempenho (considerando que também esteja usando 
+o lance de CPA desejado). Também é uma prática 
+recomendada usar a correspondência ampla e o lance de 
+CPA desejado.
+Analise a ferramenta Planejador de palavra-chave 
+novamente (para fazer isso, você terá que passar pelo 
+fluxo de criação de campanha) em intervalos de algumas 
+semanas, pois ela pode sugerir novas ideias com base em 
+mais dados coletados da Pesquisa Google e do Google 
+Play.
+Juntamente com seu grupo original de palavras-chave 
+sementes, avalie sua campanha de instalação de 
+aplicativos para encontrar as palavras-chave de melhor 
+desempenho e insira-as na ferramenta para receber ainda 
+mais sugestões.Segmentação Categoria Prática recomendadaRede de PesquisaInstalações do aplicativo
+Dispositivo 
+Segmente as campanhas por sistema operacional 
+(Android e iOS) para maximizar os downloads de 
+aplicativos. O desempenho de download do aplicativo 
+pode variar de modo significativo dependendo do sistema 
+operacional.
+Se quiser uma solução de acompanhamento mais 
+abrangente, use o SDK do Firebase , que permite: 1) fazer 
+o acompanhamento em várias redes; 2) acompanhar 
+eventos como a primeira inicialização do seu aplicativo; 
+e 3) acompanhar outras conversões no aplicativo em IOS 
+e Android.Orçamento
+Se você usar CPA desejado (tCPA), o orçamento da 
+campanha deve ser pelo menos 200 vezes o lance de 
+tCPA. Assim, haverá tempo suficiente para conseguir 
+resultados e fazer alterações no orçamento disponível.
+Horário
+O Otimizador de conversões (CO) normalmente leva entre 
+7 e 30 dias para normalizar o lance de tCPA.Configurações 
+da campanhaCategoria Prática recomendadaTrueView do YouTube
+In-stream
+Se seu objetivo principal for incentivar os downloads 
+de aplicativo e a geração de engajamento do usuário for 
+uma prioridade secundária, use os anúncios TrueView 
+In-stream, pois eles incentivam volumes maiores de 
+instalação de aplicativos.
+Discovery
+Se seu objetivo for incentivar downloads de aplicativos 
+entre os usuários que têm maiores taxas de engajamento 
+com o aplicativo em geral, use os anúncios discovery 
+TrueView.Eles geram um número enorme de impressões e são 
+qualificados para veiculação na página inicial do YouTube 
+nos dias em que não são vendidos mastheads. Se um 
+dia estiver disponível e sua campanha tiver orçamento 
+disponível, convém ajustar seu lance para que ele fique 
+30 a 50 vezes maior que seu lance padrão para discovery 
+TrueView. Assim, você aumenta as chances de vencer 
+esse leilão de alto volume.Formatos 
+do produtoInstalações do aplicativo
+CPA desejado
+Comece uma campanha de promoção de aplicativos 
+TrueView com lances de CPA desejado para maximizar as 
+instalações em relação ao CPI desejado. Comece definindo 
+o CPA desejado no mesmo valor do custo por instalação 
+(CPI) atual e faça ajustes em pequenas porcentagens 
+conforme necessário.OBSERVAÇÕES
+• Aguarde de 7 a 30 dias para a normalização dos CPAs.
+• Crie uma nova campanha para migrar dos lances de CPV 
+para os lances de CPA desejados.
+Geral
+Comece uma campanha de promoção de aplicativo 
+TrueView com uma estratégia "em todo o site" (ou seja, 
+sem segmentação) e, em seguida, faça os ajustes 
+necessários. Essas campanhas normalmente geram mais 
+instalações de aplicativos ao menor custo por instalação 
+se elas tiverem uma segmentação mais restrita, pois isso 
+permite que o otimizador de conversões identifique os 
+melhores usuários para a segmentação. 
+OBSERVAÇÃO
+• Se a estratégia "em todo o site" não for viável, use o tipo 
+de segmentação mais amplo possível para maximizar o 
+volume de instalação do aplicativo.
+A combinação da segmentação de público-alvo no 
+mercado ou por tópico com a segmentação por palavra-
+chave pode ser efetiva para a promoção do aplicativo para 
+usuários de alta qualidade.
+OBSERVAÇÃO
+• A segmentação por palavra-chave é muito restritiva e deve 
+ser uma das várias opções de segmentação. Teste-a com 
+diferentes tipos de segmentação.Remarketing
+Use as listas de remarketing de usuários que "visualizaram 
+algum vídeo em um canal" ou que "inscreveram-se em 
+um canal" para maximizar a promoção do aplicativo. 
+Para fazer isso, segmente os usuários que estão mais 
+propensos a fazer uma instalação porque conhecem ou já 
+interagiram com o conteúdo do cliente no YouTube.
+OBSERVAÇÃO
+• Os usuários que já têm um aplicativo instalado em 
+celulares Android/iOS são excluídos automaticamente da 
+campanha de promoção daquele aplicativo TrueView.
+Para buscar usuários em potencial propensos a fazer o 
+download do aplicativo, crie uma lista de remarketing da 
+sua campanha TrueView In-stream e, em seguida, veicule 
+uma campanha discovery TrueView segmentando os 
+usuários propensos a conhecer e interagir com a marca.
+OBSERVAÇÃO
+• Crie a lista de remarketing usando os tipos de lista 
+"visualizaram alguns vídeos" ou "visualizaram alguns vídeos 
+como anúncios".Segmentação LancesCategoria Prática recomendadaTrueView do YouTubeInstalações do aplicativo
+Conteúdo e criativos
+A qualidade do criativo é um fator decisivo para os 
+downloads de aplicativo. O criativo precisa fornecer 
+uma call-to-action claro para as pessoas solicitando 
+o download do aplicativo e fornecendo uma razão clara 
+para fazê-lo. É crucial demonstrar o que o aplicativo faz 
+e a proposta de valor dele para o usuário. 
+Use uma variedade de criativos em vídeo que repitam 
+uma mensagem e um tema parecidos para maximizar 
+os downloads de aplicativo.
+Aguarde tempo suficiente para que o usuário realize a 
+ação (é recomendável um mínimo de cinco segundos). 
+Para fazer isso de modo efetivo, crie um frame final 
+estático com um call-to-action e os ícones oficiais da 
+loja de aplicativos para celular.
+Se você não tiver um criativo para uma campanha de 
+promoção de aplicativos, solicite ajuda ao seu gerente da 
+conta, pois ele pode fazer um criativo automaticamente 
+com base nos recursos disponíveis no Google Play/loja 
+de aplicativos).
+Forneça uma call-to-action na tela final automática de um 
+anúncio de promoção In-stream para aplicativo TrueView 
+para melhorar o desempenho no momento em que os 
+usuários estão mais engajados.Testes A/B para criativos
+Para identificar o criativo mais efetivo nos downloads de 
+aplicativos, faça testes A/B para criativos e compare os 
+desempenhos deles. Como em outros testes A/B para 
+criativos, é recomendável que cada criativo esteja em uma 
+campanha diferente para que você possa isolar o impacto 
+e fazer análises subsequentes.
+Avaliação
+OBSERVAÇÃO
+• Use soluções de acompanhamento de terceiros para 
+avaliar as primeiras inicializações e outros eventos no 
+aplicativo em iOS e Android.Sugestões 
+adicionaisCategoria Prática recomendadaTrueView do YouTubeENGAJAMENTO NO 
+APLICATIVOEngajamento no aplicativo
+Tipo de campanha
+Escolha "Rede de Display – engajamento com aplicativos 
+para celular" ou "Rede de Pesquisa – engajamento com 
+aplicativos para celular".Dispositivo/SO
+Rede de Pesquisa: No momento, compatível apenas com 
+Android.
+Lembre-se de definir lances com base no valor de uma 
+conversão no aplicativo em comparação com uma 
+instalação dele.
+É possível gerar relatórios por segmento com separação 
+por tipo de clique, o que permite ver quantos cliques 
+obtidos pelos anunciantes levaram os usuários para o 
+link direto em comparação com a página de instalação 
+(somente para Android).Para a Rede de Pesquisa, comece com a estratégia 
+de lances "Maximizar cliques" e altere para "Foco 
+em conversões" quando você tiver pelo menos 100 
+conversões/eventos no aplicativo.Ofereça algo atraente nos seus anúncios que estimule 
+os usuários a interagir com seu aplicativo. Se eles 
+abandonaram ou esqueceram seu aplicativo, talvez 
+precisem de um lembrete simples, um bônus especial 
+ou uma oferta interessante para atraí-los de volta.
+Se você optar por fazer o upload das suas próprias 
+imagens usando o modelo de engajamento com o 
+aplicativo gráfico, inclua os tamanhos de anúncio mais 
+comuns da rede: 320 x 50, 320 x 480, 480 x 320, 768 x 
+1024 e 1024 x 768.
+Trabalhe com sua equipe de desenvolvimento com o 
+objetivo de configurar links diretos personalizados para as 
+partes importantes do seu aplicativo. Desse modo, seus 
+anúncios podem levar os usuários diretamente para o local 
+que atende às necessidades deles.Guia de implementação de links diretos: O Google 
+recomenda usar os padrões de links do aplicativo  
+(para Android) e links universais  (para iOS) ao ativar links 
+diretos no aplicativo. Esses padrões são compatíveis com 
+todos os produtos orgânicos e pagos, incluindo: pesquisa 
+orgânica, anúncios da Rede de Pesquisa, mecanismo 
+de conhecimento, ações por voz, Android, anúncios 
+do YouTube (em breve), Goo.gl (links reduzidos), links 
+profundos duráveis, Google Now, anúncios da Rede de 
+Display e .app (domínio exclusivo para aplicativos).AnúnciosConfigurações 
+avançadas
+LancesCategoria Prática recomendadaEngajamento no aplicativo
+Rede de Display
+Crie listas de usuários com as pessoas que fizeram o 
+download do seu aplicativo. 
+Ao criar listas de remarketing para a Rede de Display do 
+Google, você tem as seguintes opções:  
+1. Vincular o Google AdWords à sua conta do Google Play ,  
+2.  Criar uma lista de códigos de celulares enviados por 
+upload , 
+3.  Codificar os eventos  no seu aplicativo para fins de 
+remarketing
+Depois da coleta, comece a dividir as listas em 
+categorias mais segmentadas com base nos marcos de 
+comportamento dos usuários (AdMob).
+Não limite sua campanha com muitas outras restrições de 
+segmentação (região geográfica, categorias de aplicativos 
+específicas), pois isso pode limitar o alcance de modo 
+significativo.Rede de Pesquisa
+Comece a fazer testes com os anúncios de engajamento 
+no app para celular e os anúncios de texto com o intuito 
+de avaliar o desempenho em sites para celular em 
+comparação com aplicativos.
+É possível usar o Planejador de palavras-chave para gerar 
+palavras-chave adicionais e estimar a quantidade de 
+tráfego esperada de determinadas palavras-chave.
+Você também pode veicular palavras-chave de alto volume 
+simultaneamente nas suas campanhas de instalação de 
+aplicativos para celular. Esse anúncio de instalação do 
+app não é exibido para os usuários que já têm o aplicativo 
+instalado no celular.
+Use a correspondência ampla para criar anúncios de 
+reengajamento, pois você está segmentando uma pessoa 
+que já instalou seu aplicativo, mas não conhece um 
+recurso ou esqueceu a utilidade dele.
+Dimensione o alcance para os usuários que ainda não 
+instalaram seu aplicativo com "instalar e continuar" (não é 
+necessário realizar nenhuma ação).Segmentação Categoria Prática recomendada

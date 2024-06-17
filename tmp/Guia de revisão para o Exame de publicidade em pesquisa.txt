@@ -1,0 +1,1943 @@
+Guia de aperfeiçoamento do Exame de 
+publicidade em pesquisa Guia de aperfeiçoamento do Exame de publicidade em pesquisa 
+Bem-vindo ao guia de aperfeiçoamento do Exame de publicidade em pesquisa: 
+a maneira perfeita de se preparar para seu exame. Faremos uma abordagem 
+completa, incluindo a forma como a pesquisa funciona, como organizar 
+campanhas, formatos de anúncios e como monitorar e otimizar o 
+desempenho. Este recurso útil é uma versão resumida do guia de estudo de 
+Publicidade em pesquisa , que está disponível na Central de Ajuda do Google 
+Partners. Você também encontrará informações adicionais e uma variedade de 
+links úteis. 
+Lembre-se de que o Exame de publicidade em pesquisa abrange conceitos básicos e avançados, 
+incluindo noções básicas de pesquisa, estratégias de segmentação e de lance, geração de 
+relatórios de desempenho e de monitoramento e muito mais. Prepare-se para responder a 100 
+perguntas em um tempo limite de 120 minutos.  A pontuação mínima para aprovação é de 80%. 
+Você precisará passar nos exames Fundamentos de AdWords  e Publicidade em pesquisa (ou 
+em um dos outros exames do Google AdWords, como Publicidade em vídeo, em Display, no 
+Shopping ou em dispositivos móveis) para se tornar certificado em Google AdWords. Guia de aperfeiçoamento do Exame de publicidade em pesquisa 
+Módulo 1  Revisão dos princípios básicos da Rede de pesquisa 
+1.1 Organização de campanhas e anúncios em sua conta 
+1.2 Utilização das opções de correspondência de palavra-chave 
+1.3 Utilização da correspondência ampla 
+1.4 Utilização do modificador de correspondência ampla 
+1.5 Desempenho da conta, da campanha e do grupo de anúncios 
+1.6 Compreensão da posição do anúncio e da classificação do anúncio 
+1.7 Custo real por clique (CPC) 
+2.1 Formatos do anúncio 
+2.1.1 Anúncio de texto 
+2.1.2 O que compõe um anúncio de texto 
+2.1.3  Dicas para criar anúncios de texto bem-sucedidos 
+2.1.4  Sobre Campanhas e anúncios do Shopping 
+2.1.5  Utilização de anúncios dinâmicos da Rede de Pesquisa  
+2.2 Extensões de anúncio 
+2.2.1  Aprimoramento de anúncios por meio de extensões 
+2.2.2 Visualização de informações dos negócios locais usando 
+              extensões de local 
+2.2.3 Informações sobre o Google Meu Negócio 
+2.2.4 Adição de números de telefone a seus anúncios 
+2.2.5  Compreensão de suas classificações de vendedor  
+2.2.6  Exibição de sitelinks adicionais abaixo de seu texto do anúncio 
+Módulo 2  Formatos do anúncio 3.1 Verificação e compreensão do Índice de qualidade 
+3.2 Compreensão da experiência na página de destino 
+3.3 Criação de um site eficaz para dispositivos móveis 
+3.4 Informações sobre tráfego inválido 
+Módulo 3  Qualidade do anúncio e do site Neste guia de aperfeiçoamento, serão abordados os seguintes temas: 
+Módulo 4  Ferramentas do Google AdWords 
+4.1 Visão geral das ferramentas do Google AdWords 
+4.2 Visualização do histórico de sua conta  
+4.3 Ferramentas de palavra-chave 
+4.3.1 Adição de palavras-chave negativas a sua campanha 
+4.4 Ferramentas de segmentação 
+4.4.1  Segmentação de anúncios para localizações geográficas 
+4.4.2  Como os anúncios são combinados com as localizações 
+          geográficas 
+4.4.3  Exclusão de endereços IP 
+4.5 Ferramentas de orçamento e de lance 
+4.5.1  Custo por clique otimizado (ECPC) 
+4.5.2  Sobre o lance de CPA desejado 
+4.5.3  Configuração do lance de CPA desejado 
+4.5.4  Solução de problemas do lance de CPA desejado 
+4.5.5  Utilização de lances automáticos 
+4.5.6  Lance de custo por aquisição (CPA) 
+4.5.7  Como encontrar seus primeiros anúncios 
+4.6 Informações sobre o AdWords Editor Guia de aperfeiçoamento do Exame de publicidade em pesquisa 
+6.2.2 Configuração de experiências 
+6.2.3 Monitoramento de suas experiências 
+6.3 Utilização do agendamento de anúncios personalizado 
+6.4 Utilização da inserção de palavra-chave 
+6.5 Aquisição de ideias para aprimorar sua conta 
+Módulo 7 Desempenho, rentabilidade e crescimento 
+6.1 Guia “Oportunidades” 
+6.2 Experiências de campanha 
+6.2.1  Informações sobre experiências de campanha Módulo 6 Otimização de desempenho Módulo 5 Monitoramento e geração de relatórios de desempenho 
+5.1 Introdução à geração de relatórios do Google AdWords 
+5.1.1 Introdução aos relatórios do Google AdWords 
+5.1.2  Análise de dados utilizando a guia "Campanhas" 
+5.1.3  Personalização de seus dados de desempenho 
+5.1.4  Utilização de colunas para localizar dados específicos de 
+          desempenho 
+5.1.5 Como criar, salvar e programar relatórios 
+5.1.6 Como encontrar, editar ou remover relatórios 
+5.2 Interpretação dos relatórios do Google AdWords 
+5.2.1  Avaliação do desempenho do anúncio na Rede de Pesquisa 
+5.2.2  Relatórios de atribuição e dados de conversão 
+5.2.3 Medição do desempenho da palavra-chave na Rede de Pesquisa 
+5.2.4  Medição de alcance e frequência 
+5.2.5  Medição de desempenho geográfico 
+5.2.6  Medição e comparação de desempenho de acordo com períodos 
+          de tempo 
+5.3 Materiais de referência adicionais sobre desempenho 
+5.3.1  Utilização de informações do leilão para comparar desempenho 
+5.3.2 Utilização da guia “Página inicial” para controlar seu desempenho 
+5.3.3  Utilização de rótulos no Google AdWords 
+5.3.4 Utilização de segmentos para visualização de dados de desempenho 
+5.3.5 Compreensão do Relatório de termos de pesquisa 
+5.3.6 Medição de desempenho das extensões de anúncio 
+8.1 Interface de programação do aplicativo (API) do Google AdWords 
+8.2 Vantagens e linguagens Módulo 8 Google AdWords API 7.1 Aumento do orçamento 
+7.1.1 Compreensão do impacto do orçamento nos lucros 
+7.1.2 Aumento de orçamento de acordo com o desempenho 
+7.1.3 Desenvolvimento de campanhas lucrativas 
+7.1.4  Crescimento na prática 
+7.1.5  Aprimoramento de desempenho quando o orçamento diário 
+          está esgotado 
+7.2 Definição de lance para desempenho 
+7.2.1 Noções básicas sobre lance baseado em desempenho 
+7.2.2 Seleção de métricas para maximizar os lucros 
+7.3 Rentabilidade e valor da vida útil 
+7.3.1 Como obter rentabilidade 
+7.3.2 Estimativa de valores de conversão 
+  Módulo 1  Revisão dos princípios básicos da Rede 
+                    de pesquisa Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 1  
+1.1 Organização de campanhas e anúncios em sua conta 
+Compreender a relação entre as camadas de sua conta ajudará você a organizar seus 
+anúncios, palavras-chave e grupos de anúncio em campanhas eficazes para atingir o 
+público-alvo correto. 
+Como o Google AdWords é organizado 
+O Google AdWords é organizado em três camadas: 
+1. Conta 
+2. Campanhas 
+3. Grupo de anúncios 
+Por que você deve organizar seus anúncios em grupos de anúncio e campanhas 
+Para exibir anúncios que sejam relevantes a pesquisas de pessoas que você deseja 
+alcançar, agrupe anúncios e palavras-chave relacionados em um grupo de anúncios . Dessa 
+forma, todos os anúncios relacionados poderão ser exibidos a clientes que estejam 
+pesquisando algo semelhante. Uma coleção de grupos de anúncio constitui uma 
+campanha , que é o controle principal para seus grupos de anúncio, onde você pode 
+escolher: 
+● Quanto deseja gastar com cliques ou conversões 
+● Redes e localizações geográficas 
+● Outras configurações de nível superior que afetam seus grupos de anúncios 
+Saiba mais sobre a organização de campanhas e anúncios em sua conta »
+1.2 Utilização das opções de correspondência de palavra–chave 
+Os tipos de correspondência de palavra-chave ajudam a controlar quais pesquisas podem 
+acionar seu anúncio. Por exemplo, você pode usar a correspondência ampla para exibir seu 
+anúncio a um público-alvo abrangente ou a correspondência exata para focar em grupos 
+específicos de clientes. 
+Informações sobre os tipos de correspondência de palavra-chave 
+Clique neste vídeo para saber mais sobre os diferentes tipos de correspondência de 
+palavra-chave (ampla, de frase, exata e negativa) e entender como a seleção dos tipos 
+corretos para suas palavras-chave pode ajudar você a alcançar suas metas do Google 
+AdWords. 
+Como funcionam os tipos de correspondência de palavra-chave 
+● Correspondência ampla: os anúncios podem ser exibidos se houver um termo 
+de sua palavra-chave  em algum termo de pesquisa em qualquer ordem e, 
+possivelmente, junto a  outros termos. 
+● Modificador de correspondência ampla:  seus anúncios só poderão ser exibidos 
+quando a pesquisa feita por alguém contiver esses termos modificados, ou 
+quando houver pequenas variações dos termos modificados, em qualquer 
+ordem. 
+● Correspondência de frase:  seu anúncio pode ser exibido quando alguém faz 
+uma pesquisa  por sua palavra-chave exata, ou sua palavra-chave exata com 
+outras palavras adicionadas antes ou depois dela. 
+● Correspondência exata:  seus anúncios só podem ser exibidos quando alguém 
+faz uma pesquisa por sua palavra-chave exata, sem quaisquer outros termos  
+contidos na pesquisa. 
+● Correspondência negativa:  seu anúncio não será exibido se um termo de 
+pesquisa contiver um termo de sua palavra-chave cujo prefixo você tenha 
+definido com um sinal de menos (-). Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 1  
+Pequenas variações de palavra-chave 
+Exibiremos seus anúncios quando houver pequenas variações de suas frases e palavras-
+chave de correspondência exata  a fim de maximizarmos o potencial de exibição de seus 
+anúncios em pesquisas relevantes. 
+Como escolher os tipos de correspondência de palavra-chave corretos 
+Ao escolher o tipo de correspondência apropriado para uma palavra-chave, 
+recomendamos que você utilize uma estratégia “ampla a restrita”. Monitore continuamente 
+o desempenho de suas palavras-chave e especifique mais seus tipos de correspondência 
+se achar que seu anúncio está sendo exibido para muitas variações irrelevantes de suas 
+palavras-chave. 
+Assim que suas correspondências amplas alcançarem impressões e cliques, analise o 
+relatório de termos de pesquisa  para monitorar as variações de palavra-chave que 
+acionaram seus anúncios. 
+Saiba mais sobre a utilização das opções de correspondência de palavra–chave »
+1.3 Utilização da correspondência ampla 
+A correspondência ampla é o tipo de correspondência padrão ao qual todas as suas 
+palavras-chave são atribuídas quando você não especifica outro tipo de correspondência 
+(correspondência exata, correspondência de frase ou correspondência negativa). 
+Como a correspondência ampla pode ajudar você 
+É possível definir qualquer uma de suas palavras-chave segmentadas de pesquisa, ou 
+todas elas, como correspondência ampla; isso ajuda você a economizar tempo com a 
+criação de listas de palavras-chave e a aplicar seu dinheiro em palavras-chave que tragam 
+resultados. 
+Quando outras opções podem ser mais úteis 
+● Seu Índice de qualidade ajuda a identificar onde seu anúncio é exibido; além 
+disso, as palavras-chave de correspondência ampla podem contribuir para um 
+baixo Índice de qualidade se suas palavras-chave forem consideradas 
+relevantes para muitos termos de pesquisa. 
+● De modo geral, é possível atingir uma taxa de cliques  (CTR) maior por meio da 
+correspondência de frase e da correspondência exata. 
+Se você definir muitas palavras-chave como correspondência ampla e quiser saber quais 
+consultas de pesquisa reais acionaram seus anúncios, basta acessar o menu suspenso 
+“Detalhes” na guia “Palavras-chave”. 
+Use o modificador de correspondência ampla para adquirir mais controle sobre esse tipo 
+de correspondência 
+Adicionar palavras-chave de correspondência ampla modificada pode aumentar os cliques 
+e as conversões da campanha, além de oferecer controle mais preciso em comparação 
+com a correspondência ampla. A correspondência ampla modificada permite especificar 
+que determinados termos de palavra-chave de correspondência ampla, ou pequenas 
+variações deles, devem aparecer para acionar seu anúncio. Pequenas variações incluem: 
+erros ortográficos, formatos no plural/singular, abreviações, acrônimos e derivações (tais 
+como “jardim” e “jardinagem”). 
+Saiba mais sobre a utilização da correspondência ampla »
+1.4 Utilização do modificador de correspondência ampla 
+Você pode adicionar um modificador a suas palavras-chave de correspondência ampla 
+para especificar que determinadas palavras devem estar incluídas no termo de pesquisa 
+de alguma pessoa para acionar seus anúncios. Como o modificador de correspondência 
+ampla permite segmentar pesquisas que incluam, pelo menos, uma de suas palavras-
+chave, ele pode ajudar a aumentar a relevância de seu tráfego para seus anúncios e 
+aprimorar suas taxas de cliques (CTR) e de conversão. 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 1  
+Como os modificadores de correspondência ampla afetam o tráfego e os cliques 
+Os modificadores tornam suas palavras-chave de correspondência ampla mais específicas 
+e, dessa forma, limitam o alcance. Por isso, embora utilizar um modificador de 
+correspondência ampla possa aumentar a relevância de suas palavras-chave, isso também 
+pode diminuir seu tráfego esperado. 
+Práticas recomendadas para aumentar a quantidade de cliques relevantes: 
+● Mantenha as palavras-chave de correspondência ampla ativas. 
+● Compare palavras-chave novas e existentes com base no desempenho, 
+adicionando a campanhas existentes novas palavras-chave de 
+correspondência ampla modificada. 
+Se você utilizou principalmente: 
+● Palavras-chave de correspondência ampla  - considere ajustar seus lances 
+conforme adiciona palavras-chave de correspondência ampla modificada mais 
+relevantes. Um lance de custo por clique (CPC) mais alto pode aumentar seu 
+volume de cliques e conversões. 
+● Correspondências de frase e exata  - adicionar palavras-chave de 
+correspondência  modificada pode ajudar você a alcançar mais clientes, 
+enquanto controla quais termos de pesquisa correspondem a suas palavras-
+chave. 
+Saiba mais sobre a utilização do modificador de correspondência ampla» 
+1.5 Desempenho da conta, da campanha e do grupo de anúncios 
+O Google AdWords é organizado em três camadas (níveis): conta , campanhas  e grupos de 
+anúncios . Personalize sua visualização de dados de desempenho para torná-la mais ampla 
+ou específica, conforme desejado. 
+Sua conta  é associada a um endereço de e-mail, uma senha e informações de faturamento 
+exclusivos. Para geração de relatórios, no entanto, é útil pensar em sua conta como uma 
+coleção de campanhas. Se quiser visualizar os dados de desempenho de sua conta 
+completa, basta clicar em “ Todas as campanhas ” no painel lateral de sua conta do Google 
+AdWords. 
+Dados de sua campanha 
+Uma campanha tem orçamento e configurações próprios que determinam onde seus 
+anúncios serão exibidos; além disso, ela é composta por uma coleção de 
+grupos de anúncios. Todas as suas campanhas ficam listadas no painel lateral de sua 
+conta do Google AdWords, e elas também são exibidas quando você clica na guia 
+“Campanhas ” na parte central de sua tela. 
+Dados do seu grupo de anúncios 
+Seu grupo de anúncios contém um conjunto de anúncios semelhantes e palavras e frases, 
+conhecidas como palavras-chav e, que você deseja utilizar como acionadores de exibição 
+de seus anúncios. Quando você clica em uma campanha, o Google AdWords exibe uma 
+visualização detalhada do desempenho da campanha por grupos de anúncios individuais. 
+Você também pode visualizar dados do grupo de anúncios clicando na guia “ Grupo de 
+anúncios ” na parte central de sua tela. 
+Saiba mais sobre o desempenho da conta, da campanha e do grupo de anúncios »
+1.6 Compreensão da posição do anúncio e da classificação do     
+       anúncio 
+A posição do anúncio é a ordem em que seu anúncio é exibido em uma página. Os 
+anúncios podem ser exibidos na parte superior, na lateral ou na parte inferior de uma 
+página de resultados de pesquisa. 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 1  
+Como a posição do anúncio é determinada 
+A posição do anúncio  é determinada por sua classificação do anúncio  no leilão. Sua 
+classificação do anúncio é uma pontuação baseada em seu lance e nos componentes do 
+Índice de qualidade . Os componentes de qualidade da classificação do anúncio são um 
+mecanismo de medição da qualidade de seu texto de anúncio e sua página de destino no 
+contexto do que um usuário está pesquisando. 
+Também incorporamos o impacto esperado de suas extensões e outros formatos do 
+anúncio ao calcular sua classificação do anúncio. Ao fazer isso, consideramos fatores 
+semelhantes, como relevância, taxa de cliques e proeminência das extensões ou dos 
+formatos na página de resultados de pesquisa. Assim, mesmo que a concorrência 
+apresente lances maiores do que os seus, você ainda poderá ocupar um posicionamento 
+superior por um custo mais baixo, utilizando palavras-chave, anúncios e extensões 
+altamente relevantes. 
+Assista a um vídeo sobre otimização de sua posição do anúncio do Google AdWords »
+Como os anúncios circulam pelas páginas do resultado da pesquisa 
+O anúncio com classificação do anúncio mais alta é exibido na primeira posição 
+qualificada na página de resultados de pesquisa. O anúncio com a segunda maior 
+classificação do anúncio é exibido abaixo do primeiro, e assim por diante. 
+Todos os anúncios com alta classificação estão qualificados para exibição nas primeiras  
+posições,  desde que ultrapassem um determinado limite de classificação do anúncio. 
+Esses são considerados anúncios de canal "superior". Anúncios de "outros” canais 
+permanecem nas laterais e nas partes inferiores da página. 
+Saiba mais sobre a compreensão da posição do anúncio e da classificação do anúncio »
+1.7 Custo real por clique (CPC) 
+Geralmente, o custo real por clique (CPC) é mais baixo do que seu custo por clique (CPC) 
+máximo, pois com o leilão do Google AdWords, o máximo que você pagará será o valor 
+mínimo exigido para manter sua posição do anúncio e quaisquer formatos do anúncio 
+exibidos com seu anúncio, tais como sitelinks. 
+Como funciona 
+Para definirmos a classificação do anúncio, nós combinamos os componentes do Índice 
+de qualidade (taxa de cliques esperada, relevância do anúncio e experiência na página de 
+destino), o lance máx. de CPC, e o impacto esperado de extensões e outros formatos do 
+anúncio. Em seguida, a classificação do anúncio é usada para determinar o local em que o 
+anúncio será exibido, bem como quais tipos de extensão e outros formatos do anúncio 
+serão exibidos com ele (ou se o anúncio ou o formato do anúncio será, de fato, exibido). 
+Na Rede de Pesquisa, a classificação do anúncio mínima necessária para anúncios acima 
+dos resultados de pesquisa  é, geralmente, maior do que a classificação do anúncio 
+mínima necessária para anúncios exibidos ao lado dos resultados de pesquisa. Dessa 
+forma, o CPC real pode ser maior quando seu anúncio é exibido acima dos resultados da 
+pesquisa do que quando ele é exibido ao lado dos resultados da pesquisa, mesmo que 
+nenhum outro anunciante esteja abaixo de você. Embora você possa pagar mais por 
+clique, os anúncios das primeiras posições geralmente apresentam taxas de cliques mais 
+altas e possibilitam a exibição de determinadas extensões de anúncio e de outros recursos 
+disponíveis somente para as posições de anúncio superiores. Como sempre, nunca será 
+cobrado de você um valor maior do que seu lance máx. de CPC. 
+Saiba mais sobre o  custo real por clique »
+  Módulo 2 Formatos do anúncio 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 2  
+2.1 Formatos do anúncio 
+2.1.1  Anúncio de texto 
+Um anúncio de texto inclui um link para seu website e uma descrição ou promoção de seu 
+produto ou serviço. 
+● Os anúncios de texto incluem um título que também é um link para seu 
+website, uma ou duas linhas de texto e o endereço de seu website exibido em 
+verde. 
+● Esses anúncios podem ser exibidos nas páginas de resultados de pesquisa do 
+Google e em toda a Rede do Google. 
+● Geralmente, os anúncios de texto são exibidos com uma linguagem que os 
+rotula como publicidade para que os visualizadores compreendam que os links 
+se tratam de promoções pagas. 
+Saiba mais sobre os anúncios de texto» 
+2.1.2  O que compõe um anúncio de texto 
+Os anúncios de texto, versão mais simples das ofertas de anúncios on-line do Google 
+AdWords, são divididos em três partes: 
+1. Título 
+2. URL de visualização 
+3. Descrição 
+Saiba mais sobre o que compõe um anúncio de texto» 
+2.1.3  Dicas para criar anúncios de texto bem-sucedidos 
+Anúncios de texto bem-sucedidos são específicos, relevantes, atraentes e eficazes. Eles 
+devem: 
+● Destacar o que diferencia você 
+● Incluir preços, promoções e itens exclusivos 
+● Permitir que os clientes realizem ações 
+● Incluir pelo menos uma de suas palavras-chave 
+● Corresponder seu anúncio à sua página de destino 
+● Atrair clientes que usam dispositivos móveis 
+● Fazer experiências 
+Veja mais dicas para criar anúncios de texto bem-sucedidos» 
+2.1.4  Sobre Campanhas e anúncios do Shopping 
+Se você é um varejista, utilize as campanhas do Shopping para promover seu inventário 
+local e on-line, aumentar o tráfego do seu website ou sua loja local e encontrar leads 
+mais qualificados. Com as campanhas do Shopping, nós criamos anúncios no Google 
+e na Web onde os clientes em potencial podem visualizar o que você está vendendo. 
+Chamamos esses canais de anúncios do Shopping, pois são mais do que um anúncio 
+de texto. Eles mostram aos usuários uma foto do seu produto, o título, o preço, o nome 
+da loja e muito mais. 
+Benefícios dos anúncios do Shopping 
+● Tráfego maior 
+● Lead de qualidade superior 
+● Fácil gerenciamento de campanhas centradas no varejo 
+● Presença mais ampla 
+● Geração eficaz de relatórios e dados competitivos 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 2  
+Como funcionam as Campanhas e os anúncios do Shopping 
+Os anúncios do Shopping usam seu feed de produtos  do Merchant Center existente 
+(não palavras-chave) para determinar onde e quando mostrar seus anúncios. 
+Saiba mais sobre feeds de produtos do Google Merchant Center» 
+Você gerencia seus anúncios do Shopping no Google AdWords com as Campanhas 
+do Shopping , uma maneira simples e flexível de organizar e promover seu inventário 
+de produtos do Google Merchant Center no Google AdWords. 
+Onde seus anúncios são exibidos 
+Estes são os locais onde você poderá ver seus anúncios do Shopping na Web: 
+● Google Shopping (em determinados países) 
+● Pesquisa Google, ao lado dos resultados da pesquisa e separados  dos 
+anúncios de texto 
+● Websites de parceiros de pesquisa do Google (caso sua campanha esteja 
+configurada  para incluir parceiros de pesquisa) 
+Seus anúncios do Shopping podem ser exibidos ao mesmo tempo que anúncios 
+de texto, para que os compradores tenham acesso a uma variedade completa de 
+produtos correspondentes à pesquisa deles. Isso significa que os compradores 
+podem encontrar a melhor correspondência antes de clicarem para realizar uma 
+compra, o que pode ajudar você a finalizar uma venda. 
+Custo 
+Cobramos os cliques nos seus anúncios do Shopping com base no custo por clique  (CPC). 
+Assim, cobramos somente pelos cliques que levam diretamente ao website de um 
+comerciante. Isso inclui cliques nos anúncios do Shopping locais que direcionam o usuário 
+a websites de comerciantes hospedados pelo Google. Você não será cobrado por cliques 
+em anúncios do Shopping que levam a páginas no website do Google Shopping. 
+Saiba mais sobre Campanhas e anúncios do Shopping» 
+2.1.5  Utilização de anúncios dinâmicos da Rede de Pesquisa 
+Diferentemente da maioria dos anúncios de texto, que são segmentados para consultas 
+diretamente por palavras-chave, os anúncios dinâmicos da Rede de Pesquisa são exibidos 
+com base no conteúdo de seu website. Isso significa que você não precisa manter listas de 
+palavras-chave ou páginas de destino. 
+Quando os anúncios dinâmicos da Rede de Pesquisa podem não ser a opção ideal para 
+seus negócios 
+Os anúncios dinâmicos da Rede de Pesquisa podem não ser o melhor tipo de campanha 
+para websites cujo conteúdo é constantemente alterado, já que as atualizações de 
+conteúdo não são detectadas imediatamente. 
+Por que utilizar os anúncios dinâmicos da Rede de Pesquisa 
+A seguir, algumas das vantagens em utilizar os anúncios dinâmicos da Rede de Pesquisa: 
+● Economia de tempo 
+● Atualizações automáticas frequentes em seus anúncios 
+● Exibição de títulos dinamicamente gerados e relevantes junto com seus 
+anúncios 
+● Controle de sua campanha 
+● Captura de tráfego adicional Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 2  
+Como funcionam os anúncios dinâmicos da Rede de Pesquisa 
+Em vez de palavras-chave, nós utilizamos o conteúdo do domínio de seu website para 
+segmentarmos seus anúncios de acordo com as pesquisas. Para isso, utilizamos o índice 
+de pesquisa orgânica do Google  presente em seu website para identificarmos quais 
+pesquisas podem ser relevantes para os serviços e produtos lá oferecidos. 
+Escolha quais páginas de destino verificar 
+Você pode optar por utilizar seu website completo ou apenas algumas páginas para 
+segmentar seus anúncios. A forma padrão de configurar os anúncios dinâmicos da Rede 
+de Pesquisa  é utilizar segmentações de classificação geradas em seu website. 
+As opções mais avançadas para destinos de pesquisa dinâmica incluem: 
+● Páginas com títulos que contenham determinadas palavras 
+● Páginas com URLs que contenham determinadas strings de texto 
+● Páginas que contenham determinadas palavras 
+Exibiremos seu anúncio para pesquisas relevantes com texto gerado de forma dinâmica 
+Quando o Google encontra pesquisas correspondentes a seus destinos de anúncio 
+dinâmico, ele gera o URL da página de destino e o título de seu anúncio. Esse URL 
+direcionará o usuário à página mais adequada em seu website. 
+Anúncios dinâmicos da Rede de Pesquisa e classificação do anúncio 
+Embora os anúncios dinâmicos da Rede de Pesquisa alterem a forma como os anúncios 
+são segmentados para as pesquisas, eles não afetam a classificação dos anúncios, o 
+desempenho dos anúncios baseados em palavras-chave e nem o nível de controle que 
+você tem sobre sua conta. 
+Saiba mais sobre a  utilização de anúncios dinâmicos da Rede de Pesquisa» 
+2.2 Extensões de anúncio 
+2.2.1 Aprimoramento de anúncios por meio de extensões 
+As extensões de anúncio oferecem mais motivos para os usuários clicarem em seu 
+anúncio 
+As extensões de anúncio podem ajudar você a alcançar visibilidade aprimorada para seus 
+anúncios e melhor retorno do investimento (ROI). Elas representam um formato do 
+anúncio  que exibe informações adicionais (“extensões” de seus anúncios de texto) sobre 
+sua empresa. Algumas dessas extensões podem ser adicionadas manualmente e outras 
+são automáticas. As extensões de anúncio são exibidas junto com anúncios da Rede de 
+Pesquisa e, dependendo da extensão, ela também poderá ser exibida junto com outros 
+anúncios na Rede de Display. 
+Vídeo com exemplos de extensões de anúncio do Google AdWords» 
+Como as extensões de anúncio funcionam 
+O Google AdWords exibe uma ou mais extensões junto com seu anúncio ao identificar que 
+a extensão melhorará o desempenho de sua campanha e quando sua classificação do 
+anúncio  é alta o suficiente para que a extensão seja exibida. 
+Extensões automáticas:  o Google AdWords cria e exibe os formatos de extensão 
+automática (classificação de vendedor, classificação de consumidor, extensões sociais e 
+visitas anteriores) quando assume que esses formatos melhorarão o desempenho de seu 
+anúncio. 
+Quanto custam as extensões de anúncio 
+Não há custos para adicionar extensões de anúncio a suas campanhas, mas será cobrado 
+de você  o valor normal por cliques em seu anúncio  e algumas interações que as extensões 
+oferecem. 
+Saiba mais sobre o aprimoramento de anúncios por meio de extensões» 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 2  
+2.2.2  Visualização de informações dos negócios locais usando 
+           extensões de local 
+O que as extensões de local fazem 
+● As extensões de local exibem o endereço e  o número de telefone de sua 
+empresa, além de um marcador de mapa com seu texto do anúncio. 
+● Em dispositivos móveis, elas incluem um link com direções para  sua empresa. 
+● Os cliques em anúncios extensões de local apresentam custo por clique 
+padrão. 
+Como você se beneficia 
+● As extensões de local incentivam as pessoas a visitarem você pessoalmente. 
+● Você pode adicionar vários endereços vinculando sua conta ao Google Meu 
+Negócio. 
+● Em média, os anúncios com extensão de local apresentam aumento de 10% na 
+taxa de cliques. 
+● Você pode segmentar seus anúncios nas proximidades do endereço de sua 
+empresa. 
+Onde e como as informações de sua empresa local podem ser exibidas 
+As extensões de local podem exibir as informações de sua empresa local em diversos 
+formatos na Rede de Pesquisa do Google, em sites de parceiros da Rede de Pesquisa do 
+Google, no Google Maps e em dispositivos móveis. 
+Como configurar as extensões de local 
+O Google AdWords utiliza o Google Meu Negócio  para gerenciar os endereços de sua 
+empresa. 
+● O Google Meu Negócio é um serviço gratuito que ajuda os clientes a 
+encontrarem você on-line. 
+● Ele disponibiliza todos os endereços de sua empresa para qualquer  campanha 
+ou grupo de anúncios na Rede de Pesquisa, Rede de Display ou  Rede de 
+Pesquisa com exibição em Display. 
+● Você pode utilizar filtros para controlar quais endereços exibir com seus  
+anúncios no nível de conta, campanha e grupo de anúncios. 
+● Adicionar ou atualizar endereços no Google Meu Negócio atualiza 
+automaticamente os endereços validados utilizados para anúncios. 
+● As opções de filtro também permitem que você escolha se uma determinada 
+campanha  ou um determinado grupo de anúncios exibirá extensões de local 
+em todos os dispositivos, computadores e tablets ou somente em dispositivos 
+móveis. 
+Correção de um problema com extensões de local 
+Suas extensões de local não estão em exibição? Pode ser que você tenha configurado os 
+filtros incorretamente  ou que seus endereços não estejam sendo sincronizados com o 
+Google Meu Negócio. 
+Saiba mais sobre a visualização de informações dos negócios locais usando extensões de 
+local» 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 2  
+2.2.3  Informações sobre o Google Meu Negócio 
+Ao utilizar o painel do Google Meu Negócio, você pode: 
+● Manter as informações da empresa atualizadas no Google 
+● Criar um relacionamento de lealdade com clientes por meio da página do 
+Google+ 
+● Acompanhar o engajamento com insights das páginas e postagens do 
+Google+ 
+● Visualizar informações em sua conta do Google Analytics relacionada e nos 
+canais do YouTube 
+● Criar e acompanhar o desempenho das campanhas do AdWords Express 
+Empresas com locais físicos ou que prestam serviços a regiões geográficas têm 
+benefícios adicionais 
+Após confirmar sua empresa no Google Meu Negócio,  você poderá: 
+● Ajudar sua empresa a ser encontrada no Google 
+● Ler e responder às avaliações 
+● Saber a opinião dos clientes 
+Comece a adicionar informações de sua empresa no Google» 
+Saiba mais sobre o Google Meu Negócio» 
+2.2.4  Adição de números de telefone a seus anúncios 
+Como os números de telefone afetam seu anúncio 
+● Incentivam as pessoas a ligarem para sua empresa quando são exibidos  em 
+seu anúncio. 
+● Exibem um botão de chamada clicável em seu anúncio (em dispositivo móvel 
+de última geração). 
+● Custam o mesmo valor de um clique em título (custo por clique CPC padrão). 
+● Nas campanhas só para chamadas, os anúncios são exibidos somente em 
+dispositivos compatíveis com recursos de  chamadas. 
+Como você se beneficia 
+● Quando você adiciona números de telefone aos seus anúncios, as pessoas 
+podem ligar para você mais facilmente  enquanto se locomovem. 
+● Você pode compartilhar esses números em todos os anúncios de um grupo de 
+anúncios  de uma campanha inteira. 
+● Os cliques em anúncios só de chamadas apenas direcionam chamadas para 
+sua empresa. 
+● Você pode definir números para serem exibidos apenas nos horários em que 
+sua empresa  pode receber chamadas. 
+● Você pode contar chamadas como conversões. Saiba mais sobre  conversões 
+de chamadas. 
+● Geralmente, as extensões de chamada podem aumentar a taxa de cliques de 6 
+a 8%. 
+Criação de campanhas só para chamadas 
+As campanhas só para chamadas permitem que você se concentre em fazer com que as 
+pessoas cliquem para chamar  sua empresa diretamente de seus anúncios. Com essas 
+campanhas, você poderá utilizar lances de CPC  baseados no valor de uma chamada para 
+sua empresa. Você também poderá adicionar a seus novos anúncios  informações 
+existentes de seu telefone. 
+Importante:  atualmente, as campanhas só para chamadas estão disponíveis para anúncios 
+que segmentam a  Rede de Pesquisa. 
+Como funcionam os anúncios só para chamadas 
+Os anúncios criados em campanhas só para chamadas são ajustados para serem exibidos 
+somente em dispositivos móveis compatíveis com recursos de chamada. Os cliques 
+nesses anúncios geram apenas chamadas, eles não direcionam os usuários a qualquer 
+website. 
+Saiba mais sobre a adição de números de telefone a seus anúncios» 
+Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 2  
+2.2.5  Compreensão de suas classificações de vendedor 
+Classificações de vendedor são uma extensão automática que permite que as pessoas 
+saibam quais anunciantes são altamente classificados pela qualidade de seus serviços. 
+Como a classificação de vendedor funciona 
+Elas exibem uma combinação de informações e avaliações ao lado de seus anúncios do 
+Google AdWords. Essas avaliações e classificações refletem, principalmente, a experiência 
+geral do consumidor com as empresas e não sua resposta a produtos específicos. 
+Fazemos a correspondência entre essas avaliações e seu anúncio combinando o domínio 
+do URL de visualização com o domínio do anunciante, a partir da origem da avaliação no 
+Google. Não há custos para adicionar classificações de vendedor a suas campanhas, mas 
+será cobrado de você o valor normal de acordo com os cliques em seu anúncio . 
+Saiba mais sobre a compreensão de suas classificações de vendedor» 
+2.2.6  Exibição de sitelinks adicionais abaixo de seu texto do anúncio 
+A extensão de anúncio de sitelinks exibe links para páginas específicas em seu website, 
+abaixo do texto de seus anúncios (além da página de destino ), ajudando os clientes a 
+encontrarem o que estão procurando em seu website com apenas um clique. Os sitelinks 
+são exibidos em anúncios nas partes superior e inferior dos resultados de pesquisa do 
+Google. 
+Por que utilizar sitelinks 
+A seguir, alguns motivos para você considerar a adição de sitelinks a seus anúncios: 
+● Exibição de atalhos 
+● Redução de trabalho 
+● Atualização simplificada 
+● Flexibilidade 
+● Relatórios detalhados 
+● Retenção de dados 
+● Sitelinks personalizados para dispositivos móveis 
+● Programação com datas de início e de término 
+Quanto custam os sitelinks 
+O custo por clique em um sitelink equivale ao custo por clique em um URL de visualização  
+no mesmo anúncio. 
+Desempenho e relatórios 
+É possível utilizar seus dados de desempenho de sitelink para visualizar quais sitelinks 
+apresentam  melhor desempenho e otimizá-los para ajudar você a alcançar suas metas de 
+anúncio. 
+Saiba mais sobre a exibição de sitelinks adicionais abaixo de seu texto do anúncio» 
+  Módulo 3 Qualidade do anúncio e do site 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 3  
+3.1 Verificação e compreensão do Índice de qualidade 
+O Índice de qualidade 1-10 registrado para cada palavra-chave em sua conta é uma 
+estimativa da qualidade de seus anúncios e das páginas de destino acionadas por essa 
+palavra-chave. Ter um alto Índice de qualidade significa que nossos sistemas reconhecem 
+seu anúncio e sua página de destino como relevantes e úteis para pessoas que estejam 
+visualizando seu anúncio, e isso pode aprimorar a posição do anúncio. Você pode 
+descobrir o Índice de qualidade de cada uma de suas palavras-chave. 
+Verificação de seu Índice de qualidade 
+É possível verificar seu Índice de qualidade olhando a guia “Palavras-chave”. Há algumas 
+formas de verificar seu Índice de qualidade, : 
+● Execução do diagnóstico de palavras-chave 
+● Habilitação da coluna “Índ. de qual.” 
+Sempre que um de seus anúncios concorre no leilão, o Google AdWords avalia em tempo 
+real as medições da taxa de cliques (CTR) esperada, a relevância do anúncio e a 
+experiência na página de destino que, em conjunto com seu lance e outros fatores, 
+produzem uma pontuação chamada classificação do anúncio . É a classificação do anúncio 
+no momento do leilão (e não as estimativas do Índice de qualidade visualizadas em sua 
+conta) que determina onde seu anúncio será exibido na página ou se ele será, de fato, 
+exibido. 
+Como os componentes do Índice de qualidade afetam a classificação do anúncio 
+Sempre que alguém faz uma pesquisa que aciona um anúncio concorrendo em  um leilão, 
+nós calculamos uma classificação do anúncio. Esse cálculo associa seu lance, as 
+medições da taxa de cliques (CTR) esperada no momento do leilão, a relevância do 
+anúncio, a experiência na página de destino e outros fatores. Para determinarmos os 
+componentes de qualidade no momento do leilão, observamos diversos fatores diferentes. 
+Ao aprimorar os fatores a seguir, você pode ajudar a melhorar os componentes de 
+qualidade de sua classificação do anúncio: 
+● Taxa de cliques (CTR) esperada de seu anúncio 
+● Taxa de cliques (CTR) anterior de seu URL de visualização 
+● Qualidade de sua página de destino 
+● Relevância de sua pesquisa/seu anúncio 
+● Desempenho geográfico 
+● Seus dispositivos segmentados 
+Como a qualidade do anúncio afeta você 
+Os componentes de qualidade da classificação do anúncio são usados de diversas formas 
+e podem afetar os seguintes itens em sua conta: 
+● Qualificação do leilão de anúncios 
+● Custo real por clique (CPC) 
+● Estimativa de lance de primeira página de sua palavra-chave 
+● Estimativa de lance na parte superior da página de sua palavra-chave 
+● Posição do anúncio 
+● Qualificação para extensões de anúncio e outros formatos do anúncio 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 3  
+Como o Índice de qualidade funciona com novas palavras-chave 
+As palavras-chave novas recebem automaticamente um Índice de qualidade igual a 6 e 
+um valor “médio” para CTR esperada, relevância do anúncio e experiência na página de 
+destino. A CTR de uma palavra-chave é determinada pela quantidade de cliques dividida 
+pela quantidade de impressões. 
+Como o Índice de qualidade é baseado no histórico de desempenho de uma palavra-
+chave, geralmente demora um dia para que o sistema do Índice de qualidade colete dados 
+de desempenho suficientes para começar a definir um Índice de qualidade e valores 
+diferentes para CTR esperada, relevância do anúncio e experiência na página de destino. 
+Lembre-se de que a qualidade real de seu anúncio e a classificação do anúncio não são 
+calculadas da mesma forma que o Índice de qualidade de 1 a 10. Isso acontece porque, 
+diferentemente do Índice de qualidade, a qualidade do anúncio e a classificação do 
+anúncio levam em consideração fatores no momento do leilão, tais como termos de 
+pesquisa de uma pessoa, local e o anúncio que está sendo exibido. 
+Saiba mais sobre a verificação e compreensão do Índice de qualidade» 
+3.2 Compreensão da experiência na página de destino 
+Experiência na página de destino se refere a nossa opinião sobre o nível de qualidade da 
+experiência do usuário ao acessar sua página de destino. Você pode aprimorar a 
+experiência na página de destino ao: 
+● Oferecer conteúdo original, útil e relevante 
+● Promover a transparência e a confiabilidade 
+● Oferecer navegação simplificada em seu site 
+● Incentivar os clientes a passar tempo no site 
+Sua experiência na página de destino afeta não só seu  Índice de qualidade , mas também 
+sua classificação do anúncio  e os custos de publicidade. 
+Aprimoramento de sua experiência na página de destino 
+Seus anúncios podem ser exibidos com menos frequência (ou nem ser exibidos) se 
+direcionarem os usuários para websites que oferecem uma experiência do usuário 
+insatisfatória. Verifique as áreas abaixo para pensar em maneiras de melhorar a 
+experiência na página de destino e o desempenho de suas páginas de destino no futuro. 
+1. Conteúdo  - é relevante, útil e original? 
+2. Transparência e confiabilidade  - os visitantes conseguem visualizar seus 
+dados de contato com facilidade? Você compartilha abertamente as 
+informações de sua empresa e informa suas atividades de maneira clara? 
+3. Navegação simples  - as pessoas podem adquirir o produto mencionado em 
+seu anúncio de forma rápida e fácil? 
+O sistema do AdWords visita e avalia as páginas de destino regularmente. Alterações 
+significativas feitas para aprimorar a experiência na página de destino podem resultar no 
+aumento da qualidade do anúncio (e da classificação do anúncio) dentro de alguns dias ou 
+algumas semanas. 
+Crie um website que gere resultados. Assista a este vídeo»  
+Tempo de carregamento de sua página de destino 
+Quando um usuário clica em seu anúncio e o tempo de carregamento de seu website é 
+muito longo, há grandes chances de ele desistir e sair do website. 
+Visitas de usuários de dispositivos móveis a sua página de destino 
+O sistema do AdWords também acessará sua página de destino para avaliar a exibição de 
+seu site em iPhones e outros tipos de dispositivos móveis com navegadores completos. 
+Saiba mais sobre a compreensão da experiência na página de destino» 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 3  
+3.3 Criação de um site eficaz para dispositivos móveis 
+Para alcançar a maioria dos clientes que utiliza dispositivos móveis, é útil criar um website 
+para dispositivos móveis, que é ajustado para telas menores e facilita a compra ou outras 
+ações realizadas pelas pessoas em seu site. 
+Ao projetar seu site, lembre-se das práticas recomendadas para dispositivos móveis, tais 
+como navegação simples e destaque das opções de local de sua empresa. Se desejar 
+alcançar clientes que utilizam telefones WAP, você também precisará usar o código 
+otimizado para celular para criar seu site. 
+Alcançar usuários de dispositivos móveis usando um website HTML 
+Independentemente de ter ou não um website para dispositivos móveis, o Google AdWords 
+permite que você exiba anúncios de texto a clientes que utilizam a Pesquisa Google em 
+dispositivos móveis de última geração, como iPhone e Android. 
+Práticas recomendadas para projetar um site para dispositivos móveis 
+Ao criar um website para dispositivos móveis, lembre-se de algumas estratégias que 
+aproveitam ao máximo as pequenas telas e o comportamento dos usuários de dispositivos 
+móveis: 
+● Mantenha o website rápido. 
+● Simplifique a forma como os clientes compram produtos ou entram em contato 
+com você. 
+● Simplifique a navegação. 
+● Ajude as pessoas a localizar e acessar seus sites locais. 
+● Utilize uma página de destino otimizada para dispositivos móveis ao criar um 
+anúncio preferencial para dispositivos móveis. 
+Saiba mais sobre a criação de um site eficaz para dispositivos móveis» 
+3.4 Informações sobre o tráfego inválido 
+Tráfego inválido se refere a cliques e impressões em anúncios do Google AdWords que 
+suspeitamos não  ser resultado de interesse genuíno do cliente. Não cobramos você por 
+impressões  e clique inválidos, pois acreditamos que eles tenham pouco ou nenhum valor. 
+Tipos de tráfego inválido 
+● Cliques acidentais que não apresentam valor, tais como o segundo clique em 
+uma ação de clicar duas vezes 
+● Cliques manuais intencionais para aumentar os custos de publicidade de 
+alguém 
+● Cliques manuais intencionais para aumentar a receita dos proprietários de 
+websites que hospedam seus anúncios 
+● Cliques e impressões realizados por ferramentas automatizadas, robôs e 
+outros softwares fraudulentos 
+● Impressões intencionais para diminuir artificialmente a taxa de cliques (CTR) 
+de um anunciante 
+Saiba mais sobre a filtragem de cliques inválidos assistindo a este vídeo» 
+Como o Google protege você contra o tráfego inválido 
+O Google observa diversos pontos de dados para cada clique, incluindo endereço IP, hora 
+do clique, quaisquer cliques duplicados e muitos outros padrões de clique. Em seguida, 
+nosso sistema analisa esses fatores para tentar isolar e filtrar possíveis cliques inválidos 
+antes mesmo de eles serem exibidos em sua conta. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 3  
+Como o Google lida com o tráfego inválido 
+Quando nosso sistema detecta cliques inválidos em seus anúncios, automaticamente os 
+retiramos de seus relatórios para que você não seja cobrado por eles. No entanto, você 
+tem a opção de visualizar dados de cliques inválidos, se desejar. 
+Se o sistema automático de filtragem do Google não remover com sucesso todos os 
+cliques inválidos, a próxima etapa de detecção em uma conta do Google AdWords é a 
+análise proativa off-line realizada pela Equipe de qualidade de tráfego do anúncio do 
+Google. 
+Visualização de dados de cliques inválidos 
+Você pode ver a quantidade de cliques inválidos que seu anúncio recebeu; para isso, basta 
+adicionar as colunas "Cliques inválidos" e "Taxa de cliques inválidos" ao visualizar as 
+estatísticas de sua campanha. Lembre-se de que você não será cobrado por esses cliques, 
+dessa forma, eles não afetam as estatísticas de sua conta. 
+Você também pode ver os créditos de cliques inválidos em suas contas do Google 
+AdWords, na guia "Faturamento". 
+Taxas de conversão baixas 
+Taxas de conversão baixas nem sempre significam que seu anúncio está recebendo 
+cliques inválidos.  Veja a seguir algumas causas e soluções para taxas de conversão 
+baixas: 
+● Mudanças na condição do mercado, no comportamento do usuário e no 
+conteúdo da Web  - seu texto do anúncio e suas palavras-chave podem não ser 
+específicos o suficiente 
+● Sites cuja navegação é muito complexa 
+● Suas palavras-chave e seu texto do anúncio  podem não ser específicos o 
+suficiente 
+● Sua campanha pode não ser otimizada para a Rede de Display 
+Vários cliques provenientes do mesmo endereço IP 
+Vários cliques provenientes do mesmo endereço IP não sugerem, necessariamente, uma 
+atividade inválida. Há diversos motivos possíveis para isso acontecer: 
+● Acessos repetidos 
+● Endereço IP compartilhado 
+● Logs de servidor da Web 
+● Software de terceiros 
+Motivos comuns para o aumento de tráfego 
+Picos em cliques e impressões nem sempre significam que seus anúncios foram afetados  
+por tráfego inválido. Na maioria dos casos, esses picos de tráfego são ocasionados por 
+outros  fatores. Por exemplo: 
+● Mudanças no orçamento diário 
+● Mudanças no custo por clique (CPC) máximo de palavras-chave 
+● Adição de novas palavras-chave 
+● Anúncios exibidos em novos sites da Rede de Display 
+● Tendências sazonais ou novos eventos 
+Saiba mais sobre tráfego inválido» 
+  Módulo 4 Ferramentas do Google AdWords 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+4.1 Visão geral das ferramentas do Google AdWords 
+As ferramentas do Google AdWords podem ser usadas para diversas funções: 
+● Ferramentas de gerenciamento de contas  ajudam você a visualizar, editar e 
+atualizar sua conta de forma eficaz. 
+● Ferramentas de palavras-chave  oferecem recursos para uma escolha eficaz 
+de palavras-chave. 
+● Ferramentas de refinamento de canal  permitem que você otimize o local onde 
+seu anúncio será exibido. 
+● Ferramentas de gerenciamento de lance e orçamento  ajudam você a 
+aproveitar ao máximo seu orçamento de publicidade, seja economizando 
+tempo ou fornecendo insights sobre qual deve ser seu lance. 
+● Ferramentas de criação de anúncios  permitem que você crie anúncios 
+personalizados para promover sua empresa. 
+● Ferramentas de solução de problemas  ajudam você a descobrir como 
+solucionar problemas em sua conta. 
+Utilizar as ferramentas corretas do Google AdWords pode ajudar a aprimorar seu ROI e a 
+economizar seu tempo de gerenciamento da conta. 
+Saiba mais sobre a visão geral das ferramentas do Google AdWords» 
+4.2 Visualização do histórico de sua conta 
+Sua conta do Google AdWords contém um histórico de alterações que exibe ações 
+realizadas por você. É possível filtrar  essas alterações para visualizar somente aquelas 
+que lhe interessam. Você pode filtrá-las, por exemplo, por  período , campanha , grupo de 
+anúncios ou usuário .
+A seguir, algumas categorias de alterações que são rastreadas em seu histórico: 
+● Anúncio 
+● Orçamento 
+● Lance 
+● Conversões 
+● Rede 
+● Palavra-chave 
+● Status 
+● Segmentação 
+Filtragem de seu histórico de alterações 
+Para filtrar seu histórico de alterações, basta clicar no menu suspenso "Filtrar". Você pode 
+selecionar algum dos filtros predefinidos ou criar um filtro personalizado. Ao aplicar um 
+filtro, uma barra de notificação amarela será exibida acima da tabela. 
+Adição de colunas do histórico de alterações a sua tabela de estatísticas 
+Adicionar colunas a sua  tabela de estatísticas  é uma maneira fácil de manter o controle 
+sobre o tipo e a quantidade de alterações realizadas em seus grupos de anúncios e 
+campanhas. 
+Saiba mais sobre a visualização do histórico de sua conta» 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+4.3 Ferramentas de palavra-chave 
+4.3.1  Adição de palavras-chave negativas a sua campanha 
+As palavras-chave negativas podem ajudar você a alcançar clientes mais interessados, 
+reduzir seus custos e aumentar seu retorno do investimento (ROI). Ao adicionar termos 
+como palavras-chave negativas (disponíveis para campanhas "Apenas na Rede de Pesquisa", 
+"Rede de Pesquisa com exibição em Display" e "Redes de Pesquisa e Display") ou como 
+exclusões de palavra-chave (para campanhas "Apenas na Rede de Display"), seu anúncio não 
+será exibido para pessoas que pesquisarem por esses termos ou que visitarem sites que 
+contenham esses termos. 
+Com as palavras-chave negativas, você pode: 
+● Evitar que seu anúncio seja exibido para pessoas que pesquisam termos ou 
+visitam websites relacionados a produtos/serviços que você não oferece 
+● Exibir seus anúncios a pessoas mais propensas a clicar nele 
+● Reduzir custos excluindo palavras-chave nas quais esteja investindo sem ter um 
+retorno 
+Ao selecionar palavras-chave negativas, você deve escolher termos de pesquisa  que sejam 
+semelhantes a suas palavras-chave, mas indiquem que as pessoas estão procurando por um 
+produto diferente. 
+Exemplo 
+Suponhamos que você tenha uma loja de equipamentos de mergulho e venda “óculos de 
+mergulho”. É interessante evitar que seus anúncios sejam exibidos para alguém que esteja 
+pesquisando por ou acessando páginas da Web que contenham termos como “óculos de 
+grau” e “óculos de sol”, pois a probabilidade dessa pessoa adquirir “óculos de mergulho” é 
+muito baixa. 
+Saiba mais sobre a adição de campanhas negativas a sua campanha» 
+4.4 Ferramentas de segmentação 
+4.4.1  Segmentação de anúncios para localizações geográficas 
+A segmentação por local do Google AdWords permite que seus anúncios sejam exibidos 
+nas localizações geográficas que você desejar, incluindo países, áreas dentro de um país, 
+um raio em torno de um local ou grupos por locais. A segmentação por local ajuda a 
+concentrar sua publicidade nas áreas onde você encontrará os clientes adequados. 
+Segmentação dos locais corretos para sua empresa 
+Compare os tipos de segmentação por local:  países, áreas dentro de um país ou raios. 
+Segmentação por local - país:  segmentar anúncios para um país ou diversos países pode 
+beneficiar empresas nacionais que atendem em todo o país, varejistas on-line que fazem 
+entregas em todo o mundo e/ou empresas internacionais que vendem para diversos 
+países.  
+Segmentação por local - áreas dentro de um país:  utilizar uma segmentação mais precisa 
+pode beneficiar empresas que atendem bairros, empresas com ofertas especiais em 
+localidades específicas e/ou empresas que vendem produtos em determinadas regiões ou 
+cidades. 
+Segmentação por local - raio em torno de um local:  a segmentação por raio (também 
+conhecida como segmentação por proximidade ou “Segmentar um raio”) pode ser útil para 
+empresas que fazem entregas dentro de um determinado raio e/ou empresas locais cuja 
+base de clientes esteja a um raio de distância. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+Grupos por locais 
+Os grupos por locais permitem que você alcance clientes de acordo com os tipos de 
+locais que eles visitam, informações demográficas baseadas nas localizações deles ou 
+quando estão em locais próximos de sua empresa (o que pode ser identificado com base 
+em suas extensões de local ). Para localizar a guia “Grupos por locais”, acesse a guia 
+“Configurações”, clique em “Editar” próximo a “Locais" e, em seguida, clique em “Pesquisa 
+avançada”. 
+Segmentação de locais por informações demográficas ou locais de interesse 
+Para garantir que seus anúncios alcancem o maior número de clientes, seja segmentando 
+locais por informações demográficas ou por locais de interesse, também recomendamos 
+segmentar uma área mais ampla e abrangente. Em seguida, você pode configurar os 
+ajustes de lance por local  para as localidades de acordo com informações demográficas 
+ou locais de interesse. 
+Avançado: Segmentação por vários locais em massa 
+O Google AdWords permite que você adicione em massa uma lista de até 1.000 
+segmentações por local de uma só vez, em vez de adicionar cada local individualmente. 
+Além disso, oferecemos ferramentas para edição em massa. 
+Outras opções de edição em massa 
+AdWords Editor:  nosso aplicativo gratuito e disponível para download, desenvolvido para 
+você gerenciar suas campanhas de publicidade do Google AdWords off-line. 
+Google AdWords API: Google AdWords API permite que os desenvolvedores criem 
+aplicativos que interagem diretamente com a plataforma do Google AdWords. 
+ Saiba mais sobre segmentação de anúncios para localizações geográficas»  
+4.4.2  Como os anúncios são combinados com as localizações geográficas 
+Você pode utilizar suas opções de local avançadas  para indicar se deseja que seu anúncio 
+seja exibido para o local físico ou os locais de interesse de alguém, ou ambos. 
+Onde seus usuários estão localizados (local físico) 
+Quando possível, nós identificamos o local físico geral com base na localização do 
+dispositivo móvel ou do computador de alguém. Isso é feito por meio de: 
+● Endereço IP 
+● Local do dispositivo 
+○ GPS 
+○ Wi-Fi 
+○ Banco de dados de local do ID de dispositivo móvel do Google (torre 
+de telefone celular) 
+Locais pelos quais seus usuários demonstraram interesse (local de interesse) 
+Se o sistema do AdWords detectar áreas geográficas do interesse de alguém, poderemos 
+exibir anúncios apropriados segmentados para aquela área ou as áreas nas proximidades 
+(conhecidas como local de interesse), mesmo que a pessoa não esteja fisicamente lá. 
+Locais recentes 
+Podemos estimar um local físico aproximado ou locais de interesse e exibir anúncios 
+relevantes com base no local físico de uma pessoa ou nas pesquisas anteriores realizadas 
+por ela, se esses recursos tiverem sido habilitados. 
+Opções de local avançadas 
+As opções de local avançadas padrão no Google AdWords utilizam tanto o local físico 
+quanto o local de interesse para determinar onde os anúncios podem ser exibidos.  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+Cidades relacionadas 
+Quando você segmenta uma cidade, podemos exibir seu anúncio também para clientes 
+das cidades próximas e relacionadas que normalmente não podem ser segmentadas 
+devido a sua pequena população, dados insuficientes sobre a área geográfica ou 
+indisponibilidade de segmentação de acordo com o nível da cidade. 
+Saiba mais sobre como os anúncios são combinados com as localizações geográficas» 
+4.4.3  Exclusão de endereços IP 
+Para evitar cliques não desejados, que lhe custam dinheiro, você pode excluir seus 
+anúncios de determinados bairros do mapa da Internet, ou seja, pode excluir endereços IP 
+de computadores ou redes usando a guia “Configurações”. 
+Por que excluir endereços IP 
+Você pode excluir endereços IP específicos para que seu anúncio não seja exibido  em 
+determinadas redes se acreditar que elas não são utilizadas por possíveis clientes. Por 
+exemplo, você pode excluir endereços IP da rede de sua própria empresa. 
+Saiba mais sobre a exclusão de endereços IP» 4.5 Ferramentas de orçamento e de lance 
+4.5.1  Custo por clique otimizado (ECPC) 
+O custo por clique otimizado (ECPC) é um recurso de lance que busca por leilões de 
+anúncios que apresentem maior possibilidade de vendas para você e aumenta seu lance 
+máx. de CPC  para que você possa concorrer a esses cliques com maior competitividade. 
+O ECPC para anúncios de texto está disponível na Rede de Pesquisa e na Rede de Display, 
+mas não está disponível para o tipo de campanha  “Apenas na Rede de Display - aplicativo 
+para dispositivos móveis”. Para anúncios do Shopping, o ECPC funciona apenas na 
+Pesquisa Google. 
+Como o ECPC difere do lance de custo por aquisição (CPA) desejado? 
+ECPC 
+● Funciona com todas as configurações de campanha e lances máx. de CPC. 
+● Pode aumentar os lances em até 30%. 
+● Funciona com sistemas de lance de terceiros. 
+Lance de CPA desejado 
+● Permite que você defina um CPA desejado ou um CPA máximo. 
+● Apresenta total liberdade de definir seu lance de CPC para cada leilão. 
+● Pode não funcionar com algumas soluções de gerenciamento de lance 
+baseadas em API. 
+Lances de ECPC e de CPA desejado 
+● Utilizam acompanhamento de conversões ou dados do  Google Analytics  de sua 
+conta. 
+● Preveem uma taxa de conversão para cada leilão. 
+● Ajustam seus lances para ajudar você a receber os cliques de maior potencial. 
+  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+Utilização de ajustes de lance para dispositivos móveis com o ECPC 
+Você pode definir para cima ou para baixo um ajuste de lance para dispositivos móveis em 
+relação a seus outros dispositivos, e o ECPC incorporará isso junto com os próprios 
+ajustes de lance dele. 
+Saiba mais sobre o custo por clique otimizado (ECPC)» 
+4.5.2  Sobre o lance de CPA desejado 
+O objetivo do lance de CPA desejado é oferecer a você a maior quantidade de conversões 
+com base em suas metas de custo por aquisição (CPA). Em vez de focar os cliques (CPC) 
+ou as impressões (CPM), o lance de CPA desejado concentra-se em maximizar as 
+conversões. 
+Como o lance de CPA desejado funciona 
+Utilizando informações do histórico de sua campanha, o lance de CPA desejado encontra 
+automaticamente o melhor lance de CPC equivalente para seu anúncio sempre que ele 
+estiver qualificado para exibição. Você continua pagando por clique, mas não precisa mais 
+ajustar seus lances manualmente a fim de alcançar suas metas de conversão. 
+Sobre CPAs desejados recomendados 
+O lance de CPA desejado oferece um CPA desejado recomendado  para ajudar você a 
+começar. É  utilizar esse CPA desejado recomendado durante seus primeiros passos, pois 
+ele é calculado para ajudar a garantir uma transição suave para sua nova estratégia de 
+lances. A partir daí, você pode observar seu desempenho e ajustar o CPA desejado 
+conforme necessário. Requisitos para o lance de CPA desejado 
+● Sua campanha utiliza o acompanhamento de conversões do Google AdWords  
+ou o acompanhamento de conversões de várias contas , ou ela importa os 
+dados do Google Analytics .
+● De modo geral, a campanha deve ter recebido pelo menos 15 conversões nos 
+últimos 30 dias para que o sistema possa fazer estimativas precisas sobre sua 
+taxa de conversão futura. 
+Aumente as conversões de sua campanha 
+A seguir, algumas ideias para aumentar a quantidade de conversões em sua campanha: 
+● Aumente seu orçamento se estiver atingindo-o e se estiver disposto a investir 
+mais. 
+● Aumente seus lances de CPC se estiver disposto a investir mais e puder  
+ultrapassar o orçamento. 
+● Mova o código de acompanhamento de conversões em seu website se desejar  
+manter os mesmos custos. 
+● O código de acompanhamento de conversões deve permanecer na página de 
+confirmação  após uma compra. 
+● Combine sua campanha com outras campanhas para um produto relacionado 
+com taxa de conversão semelhante. 
+● Ative a Rede de Display do Google. 
+● Adicione palavras-chave mais relevantes a seus grupos de anúncios e utilize 
+opções de correspondência de palavra-chave para ajudar a remover pesquisas 
+irrelevantes. 
+● Faça mudanças em seus anúncios ou suas páginas de destino para tentar 
+aumentar sua taxa de cliques (CTR) ou taxa de conversão. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+Dicas para um lance de CPA desejado bem-sucedido 
+● Inicie com o CPA desejado recomendado. 
+● Eleve seu CPA desejado para aumentar o tráfego e as conversões. 
+● Utilize o simulador de CPA desejado 
+● Use o lance de CPA desejado com campanhas existentes. 
+● Não faça mudanças muito drásticas a uma campanha enquanto o lance 
+de CPA desejado estiver em exibição. 
+● Compare seu CPA e sua taxa de conversão antes e após utilizar o lance 
+de CPA desejado. 
+● Se estiver atingindo seu orçamento constantemente, aumente-o para 
+proporcionar  mais visibilidade a seus anúncios. 
+Mudanças no tráfego ou na taxa de conversão 
+Mudanças no tráfego 
+Se observar uma queda no tráfego após ativar o lance de CPA desejado, isso pode ser 
+devido a alguns fatores: 
+● Seu CPA desejado pode estar muito baixo. 
+● Em vez das conversões, você pode estar observando cliques ou impressões. 
+● O acompanhamento de conversões está desativado. 
+● Não há um CPA desejado para seu grupo de anúncios. 
+Mudanças na taxa de conversão 
+É possível que haja uma queda na taxa de conversão quando você começa a utilizar o 
+lance de CPA desejado. Essa mudança pode ocorrer porque você está observando uma 
+taxa de conversão média para todos os cliques. 
+Saiba mais sobre o lance de CPA desejado» 
+4.5.3  Configuração do lance de CPA desejado 
+O lance de CPA desejado usa o Acompanhamento de conversões, o Acompanhamento de 
+conversões de várias contas ou os dados do Google Analytics para fornecer maiores 
+conversões a um custo menor. 
+Ao otimizar seu canal em cada leilão de anúncios, o lance de CPA desejado ajuda a evitar 
+cliques não rentáveis, enquanto capta para você a maior quantidade possível de cliques 
+rentáveis. 
+Além disso, o lance de CPA desejado facilita muito o gerenciamento de lances do Google 
+AdWords, ao mesmo tempo que maximiza os resultados. 
+Primeiros passos com o lance de CPA desejado 
+Antes de configurar o lance de CPA desejado, verifique se seus dados de conversão já 
+estão sendo importados para sua conta do Google AdWords; para fazer isso, basta 
+habilitar o acompanhamento de conversões  ou o  acompanhamento de conversões de 
+várias conta s (conta de administrador do Google AdWords), ou importar seus dados de 
+metas e transações do Google Analytics .
+De modo geral, sua campanha deve ter recebido pelo menos 15 conversões nos últimos 30 
+dias, e conversões a uma taxa semelhante por alguns dias. Para melhores resultados, 
+recomendamos que você execute o acompanhamento de conversões por pelo menos 
+duas semanas antes de testar o lance de CPA desejado. Faça isso por um período maior 
+caso não tenha um grande volume de conversões. 
+Saiba mais sobre a configuração do lance de CPA desejado» 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+4.5.4  Solução de problemas do lance de CPA desejado 
+Você poderá se deparar com alguns destes problemas ou empecilhos ao utilizar 
+o lance de CPA desejado: 
+● Impossibilidade de ativar o lance de CPA desejado 
+● Custo por aquisição (CPA) real acima do  custo por aquisição máximo 
+● Média do custo por aquisição elevada 
+● Reduções na taxa de tráfego após a ativação do lance de CPA desejado 
+● Reduções na taxa de conversão após a ativação do lance de CPA desejado 
+Os seguintes recursos do Google AdWords não são compatíveis com o lance 
+de CPA desejado: 
+● Lances separados da Rede de Display (o lance de CPA desejado otimizará 
+automaticamente seus lances na Rede de Pesquisa e na Rede de Display). 
+● Agendamento de anúncios avançado (o agendamento de anúncios básico é 
+suportado). 
+O lance de CPA desejado funciona com a Rede de Pesquisa, a Rede de Display e com 
+anúncios de terceiros. 
+Saiba mais sobre a solução de problemas do lance de CPA desejado» 
+4.5.5  Utilização de lances automáticos 
+O recurso de lances automáticos permite que você mantenha seus lances no modo 
+automático com o intuito de receber a maior quantidade possível de cliques dentro de seu 
+orçamento. Você também pode definir um limite para o lance de custo por clique (CPC) se 
+não quiser ultrapassar um determinado valor para cada clique. Você pode, a qualquer 
+momento, alternar para a estratégia de lance manual, que permite a escolha de seus 
+próprios valores de lance. Configuração de lances automáticos 
+Você pode alterar para lances automáticos a qualquer momento. No entanto, os lances 
+automáticos não funcionam com o tipo de campanha “Apenas na Rede de Display - 
+aplicativo para dispositivos móveis”. Observe também que, ao alternar uma campanha 
+usando ajustes de lance baseados em dia e hora para o modelo de lances automáticos, 
+esses ajustes de lance de dia e hora não são aplicados a seus lances. 
+Limites de lance de CPC para sua campanha 
+Não é possível definir lances de CPC individuais com lances automáticos, mas você pode 
+definir um lance máximo de CPC para toda a campanha. Esse lance máximo de CPC, 
+conhecido como limite de lance de CPC, permite que você controle o valor máximo que está 
+disposto a pagar para cada clique. 
+Especificar um limite de lance de CPC pode ser uma boa ideia se o controle de custo por 
+cliques individuais em seu anúncio for importante para sua empresa; dessa forma, você 
+terá mais controle sobre o custo de cada clique. No entanto, lembre-se de que um limite de 
+lance de CPC pode restringir a posição do anúncio ou a quantidade de cliques recebida em 
+seus anúncios. 
+Saiba mais sobre a utilização de lances automáticos» 
+4.5.6  Lance de custo por aquisição (CPA) 
+O lance de custo por aquisição (CPA) é um método de lances que permite a você informar 
+ao Google AdWords o valor que deseja pagar para uma conversão. O lance de CPA pode 
+ajudar você a alcançar clientes que apresentam maior probabilidade de realizar ações em 
+seu website. Isso é parte do lance de CPA desejado.  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+Como funciona 
+Você pode usar o lance de CPA configurando o acompanhamento de conversões  e 
+ativando o lance de CPA desejado  em sua campanha. Ao definir o lance de CPA desejado, 
+você deve indicar um CPA desejado. Esse é o valor médio que deseja pagar para cada 
+conversão. 
+Definição de seu CPA desejado 
+Oferecemos um CPA desejado recomendado, que é calculado para ajudar a garantir uma 
+transição suave para sua nova estratégia de lances. Ele se baseia em seu histórico de 
+desempenho, por isso, sugerimos iniciar com o CPA desejado recomendado, observar seu 
+desempenho e fazer ajustes, se necessário. 
+O valor total cobrado de você 
+O CPA real pode ser maior ou menor do que seu CPA desejado. Isso acontece porque: 
+● Seu CPA real depende de fatores que estão fora do controle do Google, tais 
+como alterações em seu website ou em seus anúncios, ou aumento da 
+concorrência em leilões de anúncios. 
+● Sua taxa de conversão real pode ser menor do que sua taxa de conversão 
+estimada. 
+Como editar seu CPA desejado 
+Embora você estipule seu primeiro CPA desejado ao ativar o lance de CPA desejado para 
+sua campanha, há a possibilidade de retornar e alterar o CPA desejado a qualquer 
+momento. 
+Saiba mais sobre o lance de custo por aquisição (CPA)» 
+4.5.7  Como encontrar seus primeiros anúncios 
+Após criar seus anúncios, é importante verificar se eles estão de fato sendo exibidos para 
+os clientes. Você pode usar a ferramenta de diagnóstico e visualização de anúncios e 
+também verificar as estatísticas de sua conta para saber se seus anúncios estão 
+funcionando corretamente. 
+Outras considerações ao tentar encontrar seu anúncio 
+Há diversos fatores que determinam quando e onde seu anúncio será exibido.  A seguir 
+estão alguns dos principais: 
+● Segmentação:  geralmente, seu anúncio é exibido apenas para pessoas 
+segmentadas por você, ou seja, pessoas que estejam pesquisando por suas 
+palavras-chave no idioma e no local selecionados por você. 
+● Análise para aprovação do anúncio:  embora alguns anúncios sejam exibidos 
+nas páginas da Rede de Pesquisa do Google antes de serem analisados para 
+garantir a conformidade com nossas políticas de publicidade , outros poderão 
+ser exibidos somente após essa análise. 
+● Posição do anúncio:  caso sua classificação do anúncio não seja alta o 
+bastante, seu anúncio poderá não ser exibido na primeira página de resultados 
+da Pesquisa Google. Sua classificação do anúncio é determinada pela 
+qualidade de seu anúncio (seu  Índice de qualidade ) e pelo lance máximo de 
+custo por clique definido por você. O Google não exibe os mesmos anúncios 
+em uma página, dessa forma, seu anúncio poderá ser exibido na segunda ou 
+terceira página, ou nas páginas subsequentes. 
+Saiba mais sobre como encontrar seus primeiros anúncios»   Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 4
+4.6 Informações sobre o AdWords Editor  
+O AdWords Editor é um aplicativo gratuito e disponível para download, desenvolvido para 
+você gerenciar suas campanhas de publicidade do Google AdWords off-line. 
+O processo é simples: faça o download de uma ou mais contas, faça as alterações off-line 
+e, em seguida, faça upload das alterações no Google AdWords. 
+O AdWords Editor ajuda você a economizar tempo e facilita as alterações em massa. Ele 
+também permite que diversos usuários compartilhem arquivos e propostas para uma 
+conta. 
+O que você pode fazer com o AdWords Editor 
+Qualquer anunciante com conta de qualquer tamanho pode utilizar o AdWords Editor, mas 
+essa ferramenta é útil, principalmente, para contas com várias campanhas e grandes listas 
+de palavras-chave ou anúncios. Por exemplo, você pode: 
+● Usar ferramentas de edição em massa para várias alterações, de forma rápida 
+● Exportar e importar arquivos para compartilhar propostas ou fazer alterações a 
+uma conta 
+● Visualizar estatísticas de todas as campanhas ou um subconjunto de 
+campanhas 
+● Gerenciar, editar e visualizar várias contas ao mesmo tempo 
+● Pesquisar e substituir textos em grupos de anúncios ou campanhas 
+● Copiar ou mover itens entre grupos de anúncios e campanhas 
+● Desfazer e refazer várias alterações ao editar suas campanhas 
+● Alterar um rascunho antes de fazer upload em sua conta 
+● Continuar trabalhando, mesmo off-line 
+Saiba mais sobre o AdWords Editor»  
+  Módulo 5 Monitoramento e geração de relatórios 
+                    de desempenho 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+5.1 Introdução à geração de relatórios do Google AdWords 
+5.1.1  Introdução aos relatórios do Google AdWords 
+Gere relatórios totalmente personalizáveis para tópicos específicos, como campanhas, 
+palavras-chave e texto do anúncio. Esses relatórios permitem que os usuários 
+identifiquem tendências importantes com o passar das semanas, dos meses ou dos anos. 
+Além disso, como todos os relatórios podem ser personalizados com colunas 
+configuráveis e filtros de desempenho, eles oferecem exatamente as informações de que 
+você precisa para ajudar na identificação de seus pontos fortes e suas áreas que 
+apresentam baixo desempenho. 
+Tipos de relatório 
+Você pode fazer o download de qualquer tabela de dados de cada guia em sua conta para 
+gerar relatórios. Estes são alguns dos relatórios mais frequentemente usados: 
+● Desempenho de palavra-chave 
+● Desempenho de anúncio 
+● Desempenho do URL da página de destino 
+● Desempenho do grupo de anúncios 
+● Desempenho da campanha 
+● Desempenho da conta 
+● Desempenho geográfico 
+● Desempenho do termo de pesquisa 
+● Desempenho dos anúncios do Shopping 
+● Desempenho dos anúncios dinâmicos da Rede de Pesquisa 
+● Desempenho por rótulo 
+● Segmentação por tempo 
+● Informações do leilão 
+Saiba mais sobre a Introdução aos relatórios do Google AdWords» 
+5.1.2  Análise de dados utilizando a guia "Campanhas" 
+A guia “Campanhas” é o ponto inicial para a compreensão do desempenho de seus 
+anúncios. Você pode acompanhar estatísticas da campanha ou visualizar dados 
+específicos de palavras-chave, grupos de anúncios ou anúncios. Você pode personalizar a 
+forma de exibição de seus dados. 
+A seguir, uma visão geral do que você encontrará em cada subguia: 
+1. “Campanhas” 
+A subguia “Campanhas” é um ótimo ponto de partida para análises de desempenho de 
+suas campanhas. É possível adicionar colunas à tabela para que os dados mais úteis 
+sejam exibidos para você. Você poderá iniciar com os cliques, as impressões e a CTR para 
+comparar o sucesso de cada uma de suas campanhas. 
+2. “Grupos de anúncios” 
+Use a subguia “Grupos de anúncios” para visualizar o desempenho individual de seus 
+grupos de anúncios. 
+3. “Configurações” 
+Aqui estão disponíveis todas as configurações, tais como opções de lance, orçamento e 
+rede; idioma; segmentação por local ; segmentação por dispositivo ; data de término da 
+campanha e agendamento de anúncios .
+4. “Anúncios” 
+Compare anúncios, veja quais são os mais bem-sucedidos e utilize essas informações 
+para criar anúncios ainda melhores. 
+5. “Palavras-chave” 
+Você pode visualizar aqui as palavras-chave que selecionou para todas as suas 
+campanhas, ou apenas aquelas para um único grupo de anúncios. Você também pode ver 
+informações de desempenho e qualidade das palavras-chave. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+6. "Extensões de anúncio" 
+As extensões de anúncio ajudam as pessoas a conhecerem melhor sua empresa e suas 
+ofertas ao fornecer informações adicionais, tais como endereço e número de telefone, 
+links para mais páginas e imagens de produtos. 
+7. "Dimensões" 
+A subguia "Dimensões" permite que você analise detalhadamente seus dados pela 
+dimensão de sua escolha, em um grupo de anúncios, uma campanha ou na conta toda. 
+Você pode utilizar a guia "Dimensões" para visualizar estatísticas de outras guias do 
+Google AdWords. 
+8. "Rede de Display" 
+Gerencie suas campanhas da Rede de Display adicionando ou editando métodos de 
+segmentação , como palavras-chave, canais , tópicos, lista de remarketing e interesses, 
+sexo e idade. Veja informações detalhadas sobre como seus grupos de anúncios 
+funcionam, utilizam dados para otimização, gerenciam lances e removem métodos de 
+segmentação de baixo desempenho. 
+Saiba mais sobre a análise de seus dados utilizando a guia "Campanhas"» 
+5.1.3  Personalização de seus dados de desempenho 
+Ao ajustar períodos, colunas, segmentos, filtros e gráficos, você pode personalizar os 
+dados de desempenho em sua tabela de estatísticas  para visualizar apenas o que for de 
+seu interesse; isso agiliza e facilita a manutenção da campanha. 
+Para iniciar, defina suas metas para o Google AdWords. Em seguida, pense em quais 
+estatísticas são mais importantes para mensurar o progresso feito em direção a essas 
+metas. Utilizando as informações abaixo, ajuste sua tabela para destacar os detalhes mais 
+importantes. Quando sua tabela estiver do jeito que você quer, salve-a ou faça o download 
+dela como um relatório. Adicione ou remova colunas que exibem as estatísticas 
+Você pode definir quais colunas deseja visualizar, reorganizá-las e, em seguida, salvá-las na 
+ordem desejada. 
+Armazene e nomeie suas colunas 
+Você pode salvar e nomear seus conjuntos de colunas para usá-los quando retornar à 
+mesma guia posteriormente. 
+Use conjuntos predefinidos de colunas em suas campanhas 
+Agora é possível usar conjuntos predefinidos de colunas para simplificar e agilizar a análise 
+de desempenho dessas campanhas. 
+Aplique segmentos para detalhar seus dados 
+Os segmentos dividem a visualização de seus dados em partes diferentes. Há diversos 
+segmentos diferentes que você pode aplicar a seus dados, tais como dispositivo, tipo de 
+clique, rede e período. 
+Use filtros para pesquisar seus dados 
+Use filtros para pesquisar informações específicas em sua tabela, tais como texto de 
+palavra-chave, lances e taxas de cliques. 
+Visualize ou oculte itens removidos 
+Em sua tabela de estatísticas, você pode incluir ou ocultar campanhas, anúncios, grupos de 
+anúncios, palavras-chave e redes que foram removidos. 
+Saiba mais sobre a personalização de seus dados de desempenho» 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+5.1.4  Utilização de colunas para localizar dados específicos de desempenho 
+As colunas em suas tabelas de estatísticas fornecem uma variedade de informações 
+sobre sua conta. É possível reorganizar suas colunas e salvá-las na ordem que desejar, 
+dessa forma, os dados mais importantes para você poderão ser rapidamente identificados. 
+Saiba mais sobre a utilização de colunas para localizar dados específicos de 
+desempenho»  
+5.1.5  Como criar, salvar e programar relatórios 
+Você pode usar colunas, segmentos e filtros para personalizar as tabelas de estatísticas e 
+localizar dados de desempenho específicos. Em seguida, é possível fazer o download 
+dessas tabelas personalizadas de estatísticas como relatórios e salvá-los. Você também 
+pode definir intervalos específicos para geração de relatórios e programar o envio deles 
+por e-mail para você ou para outras pessoas com acesso a sua conta. 
+Saiba mais sobre como criar, salvar e programar relatórios» 
+5.1.6  Como encontrar, editar ou remover relatórios 
+Ao criar e fazer o download dos relatórios, você pode salvá-los e visualizá-los em uma lista. 
+Nessa lista, é possível gerar os mesmos relatórios sempre que desejar ou usá-los para 
+criar relatórios semelhantes. 
+Você também pode alterar as configurações de seu relatório diretamente na lista. É 
+possível alterar nome, formato, destinatários de e-mail e frequência. Caso não precise 
+mais dos dados, você poderá remover o relatório completo. 
+Saiba mais sobre como encontrar, editar ou remover relatórios» 
+5.2 Interpretação dos relatórios do Google AdWords 
+5.2.1  Avaliação do desempenho do anúncio na Rede de Pesquisa 
+Se você está começando agora a acompanhar seu desempenho, clique na guia 
+"Campanhas" em sua conta do Google AdWords. As tabelas de estatísticas das guias 
+“Anúncios” e “Palavras-chave”, que ficam na guia "Campanhas", oferecem uma 
+visualização completa de todos os seus dados e podem ser personalizadas. Você pode 
+manter uma geração de relatórios simples ou aprofundá-la para receber insights mais 
+detalhados sobre o sucesso de suas campanhas. 
+Cliques, impressões e taxa de cliques 
+Para ajudar você a se familiarizar com o acompanhamento dos dados de seus anúncios 
+em exibição na Rede de Pesquisa , sugerimos monitorar os cliques, as impressões e, 
+principalmente, a taxa de cliques  (CTR) de seus anúncios e suas palavras-chave. 
+Também pode ser interessante observar as seguintes informações sobre seus  anúncios e 
+palavras-chave: 
+Desempenho de anúncio 
+● Status 
+● Posição média 
+● Variação do anúncio 
+Desempenho de palavra-chave 
+● Status da palavra-chave 
+● Índice de qualidade 
+● Termos de pesquisa  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+Acompanhamento de estatísticas com base nas metas de sua campanha 
+Dependendo do que você desejar alcançar, determinadas estatísticas serão relevantes e 
+úteis para você, enquanto outras não. Escolha uma meta na lista a seguir para ver mais 
+sugestões sobre o que acompanhar: 
+● Retorno do investimento 
+● Reconhecimento da marca 
+● Tráfego para seu website 
+● Vendas e conversões 
+Acompanhamento de estatísticas de anúncios para dispositivos móveis em dispositivos 
+de última geração 
+Permite que você compare estatísticas, como cliques, impressões, CTRs ou taxas de 
+conversão para computadores e dispositivos móveis de última geração. 
+Saiba mais sobre a avaliação do desempenho do anúncio na Rede de Pesquisa»  
+5.2.2  Relatórios de atribuição e dados de conversão 
+Após configurar o acompanhamento de conversões, você terá acesso a um conjunto útil 
+de relatórios sobre suas conversões (ações importantes que os clientes realizam em seu 
+website, como compra ou inscrição de e-mail). 
+Os relatórios de atribuição podem oferecer a você informações detalhadas sobre os 
+caminhos que levam as pessoas a realizarem conversões em sua empresa. Você pode ver 
+se determinadas conversões assistidas por palavras-chave ocorreram por meio de outras 
+palavras-chave. Isso dá a você uma noção melhor sobre os caminhos de conversão de 
+seus clientes em potencial em vez de analisar apenas a última palavra-chave clicada. Relatórios e dados 
+Além dos relatórios "Visão geral" e "Principais conversões" na seção "Atribuição", você 
+também poderá encontrar diversos tipos de relatórios detalhados, incluindo: 
+● Relatórios sobre padrões de pesquisa do cliente 
+● Relatórios baseados em diferentes modelos de atribuição 
+● Relatórios sobre conversões assistidas por impressão e assistidas por clique 
+● Relatórios sobre primeiro e último clique 
+● Relatórios sobre tempo 
+Tamanho do caminho 
+Este relatório oferece a você informações de alto nível sobre as ações realizadas por seus 
+clientes  ou as páginas que eles visitam antes de concluírem uma conversão. 
+Tempo até a conversão 
+Este relatório se trata de quanto tempo um cliente leva para concluir uma conversão após: 
+● A primeira impressão de um anúncio gráfico 
+● O primeiro clique em seu website 
+● O último clique em seu website 
+Resumo da terminologia de conversão 
+● Cliques de anúncios por conversão:  quantidade total de cliques de anúncios 
+em caminhos de conversão dividida pela quantidade de conversões. 
+● Impressões de anúncios por conversão:  quantidade total de impressões de 
+anúncios em caminhos de conversão dividida pela quantidade de conversões. 
+● Conversões assistidas:  quantidade de conversões que foram assistidas por 
+uma campanha, um grupo de anúncios ou uma palavra-chave em particular. As 
+conversões assistidas não incluem conversões de último clique.  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+● Atribuição:  valor de atribuição para diferentes interações no caminho de 
+conversão de um cliente. 
+● Últimos cliques:  qualquer clique em anúncio da rede de pesquisa que tenha 
+ocorrido pouco antes da conversão. 
+● Conversões de último clique:  a quantidade de conversões que apresentaram 
+uma campanha, um grupo de anúncios ou uma palavra-chave em particular 
+imediatamente antes do clique no anúncio da 
+Rede de Pesquisa. 
+● Tamanho do caminho (impressões):  a quantidade total de impressões de 
+anúncios da rede de pesquisa antes de uma conversão. Elas podem ter 
+recebido cliques ou não. 
+● Tamanho do caminho (cliques):  a quantidade total de cliques em anúncio da 
+rede de pesquisa, incluindo "último clique", antes de uma conversão. 
+● Tempo até a conversão (a partir da primeira impressão):  o tempo total desde a 
+primeira visualização de um de seus anúncios da rede de pesquisa (com ou 
+sem clique) até a conversão. 
+● Tempo até a conversão (a partir do primeiro clique):  o tempo total desde o 
+primeiro clique em um de seus anúncios da rede de pesquisa até a conversão. 
+● Tempo até a conversão (a partir do último clique):  o tempo total desde quando 
+o "último clique" ocorreu até a conversão. Pode haver um atraso significativo 
+desde o último clique, pois o Google AdWords contará uma conversão que 
+ocorrer após o último clique em sua janela de conversão. 
+● Caminhos mais comuns (cliques):  descreve a sequência de cliques em anúncio 
+da rede de pesquisa que levam à conversão. Pode estar no nível de palavra-
+chave, grupo de anúncios e campanha. 
+● Caminhos mais comuns (impressões):  descreve a sequência de impressões de 
+anúncios da rede de pesquisa que levam à conversão. Pode estar no nível  de 
+palavra-chave, grupo de anúncios e campanha. 
+● Caminhos mais comuns (cliques, somente transição):  recolhe “cliques 
+repetidos”  consecutivos em um caminho de conversão. 
+● Caminhos mais comuns (impressões, somente transição):  recolhe 
+“impressões repetidas” consecutivas em um caminho de conversão. 
+Dados de conversão de visualização 
+Uma conversão de visualização ocorre quando um cliente visualiza um anúncio ou rich 
+media e, em seguida, realiza uma conversão em seu site. As conversões de visualização 
+são uma maneira útil de acompanhar o valor de suas campanhas de anúncio gráfico, pois 
+elas mensuram as conversões em que o cliente visualizou um anúncio gráfico na Rede de 
+Display do Google antes de concluir uma conversão, mas não clicou nele. Uma a uma, elas 
+podem ajudar a determinar os melhores locais para anunciar. 
+Dados de baixo volume de conversões 
+Às vezes, a quantidade de conversões é mais baixa do que você espera  em seus relatórios. 
+Isso pode acontecer por alguns motivos. Aqui estão  alguns dos principais: 
+● As conversões são contabilizadas dentro de sua  janela de conversão escolhida. 
+● O cliente desativou o cookie. 
+● O cliente não encontrou seu site por meio do Google. 
+Saiba mais sobre os relatórios de atribuição e dados de conversão» 
+5.2.3  Medição do desempenho da palavra-chave na Rede de Pesquisa 
+Você deve analisar o desempenho de suas palavras-chave para identificar quais estão 
+ajudando você a alcançar as metas de publicidade de suas campanhas segmentadas para 
+a Rede de Pesquisa do Google. Para isso, você pode visualizar e fazer o download do 
+desempenho de suas palavras-chave de um período específico ou personalizar sua tabela 
+de estatísticas do Google AdWords para acompanhar o desempenho das palavras-chave 
+por tipo de correspondência. Você também pode executar um diagnóstico de palavras-
+chave para visualizar o Índice de qualidade de suas palavras-chave. 
+Saiba mais sobre a medição do desempenho da palavra-chave na Rede de Pesquisa» 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+5.2.4  Medição de alcance e frequência 
+Ao analisar dados de alcance e frequência, você pode estimar quantas  pessoas 
+visualizaram seus anúncios e quantas vezes visualizaram dentro de um determinado 
+período de tempo. 
+Como base para estimar o alcance, nós iniciamos com os cookies. Os cookies nos 
+permitem estimar o alcance, pois podem ser usados para distinguir navegadores 
+individuais. 
+Visualização de dados de alcance e frequência 
+Você pode visualizar dados de alcance e frequência adicionando as colunas “Cookie 
+exclusivo” e “Freq. méd. de impr. por cookie” a sua tabela de estatísticas. 
+Como o Google calcula alcance e frequência 
+● Ajustes para a exclusão de cookies:  queremos garantir que cada cookie 
+contabilizado represente um navegador único. 
+● Prevenção contra contagem duplicada:  queremos garantir que cada navegador 
+contabilizado seja único, contando apenas cookies antigos. 
+● Correção de dados:  para evitar contagem duplicada, todos os novos cookies 
+são descartados; no entanto, alguns deles são legítimos. Para estimar o 
+alcance de forma mais precisa, precisamos saber quantos cookies novos são, 
+de fato, legítimos. 
+Saiba mais sobre a medição de alcance e frequência» 
+5.2.5  Medição de desempenho geográfico 
+Você pode descobrir que sua empresa está se tornando conhecida em alguns lugares do 
+mundo. Os dados de desempenho em sua conta do Google AdWords podem ajudar você a 
+identificar essas  áreas geográficas, assim, você pode decidir onde investir mais em termos 
+de orçamento e esforços de publicidade. 
+Relatórios de locais de usuário e regiões geográficas 
+Caso já tenha aplicado suas configurações de segmentação por local e suas campanhas já 
+estejam em exibição por algum tempo, você pode acompanhar o desempenho por local 
+utilizando a guia “Configurações” em “Locais”. 
+Você pode visualizar dados de dois tipos diferentes de relatório de locais: 
+● O que acionou seu anúncio (geográfico):  exibe o local físico de seus clientes 
+ou os locais pelos quais eles demonstraram interesse por meio de pesquisas  
+ou de conteúdos visualizados. 
+● Onde os usuários estavam (local do usuário):  exibe somente os locais físicos 
+dos clientes, independentemente de quaisquer locais pelos quais eles possam 
+ter demonstrado interesse. 
+Relatórios de distância 
+Caso já tenha adicionado extensões de local, você pode visualizar dados de desempenho 
+para seus anúncios  com extensões de local. Seus dados serão organizados de acordo 
+com a distância de um cliente em relação a sua empresa quando ele visualizou seu 
+anúncio. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+Valores e colunas de desempenho geográfico 
+Ao visualizar dados geográficos em sua tabela de estatísticas, você também poderá ver as 
+colunas e os detalhes a seguir: 
+Local mais específico:  a coluna “Local mais específico” exibe as informações mais 
+detalhadas que nós temos sobre o local que foi usado para exibir seus anúncios. 
+Áreas não especificadas: há diversos motivos pelos quais uma área onde seu anúncio foi 
+exibido seja considerada como não especificada: 
+● Domínios específicos de um país : se alguém realizar uma pesquisa em um 
+domínio específico de um país (por exemplo: google.fr, google.co.uk), mas o 
+endereço IP indicar que essa pessoa está em um país diferente, registraremos 
+o local dela com base no domínio específico do país, mas não conseguimos 
+identificar a cidade ou a região. 
+● Endereço IP ou consulta de pesquisa:  não conseguimos determinar o local 
+com base no endereço IP, e a consulta de pesquisa não indicou interesse em 
+um local reconhecido. 
+● Diversas cidades/regiões no Google Maps:  a pesquisa foi realizada no Google 
+Maps dentro de uma ampla área geográfica incluindo diversas cidades ou 
+regiões. 
+Variação nos números de relatório geográfico: os dados geográficos em sua tabela de 
+estatísticas do Google AdWords podem variar um pouco de outros dados em sua conta ou 
+suas fontes, tais como acompanhamento de terceiros ou logs da Web. 
+Saiba mais sobre a medição de desempenho geográfico»  
+5.2.6  Medição e comparação de desempenho de acordo com períodos de   
+          tempo 
+Você pode visualizar o desempenho do Google AdWords com o passar do tempo das 
+seguintes maneiras: 
+● Comparação de desempenho de dois períodos de tempo. 
+● Segmentação de seus dados por períodos de tempo. 
+● Utilização da visualização “Período” na guia “Dimensões”. 
+Comparação de desempenho de dois períodos de tempo 
+Use a opção “Comparar dados” no menu suspenso “Período” para visualizar o 
+desempenho de suas campanhas na semana passada em comparação com a semana 
+anterior ou para comparar os dados do mês atual com os dados do mesmo mês do ano 
+anterior. 
+Segmentação de seus dados por períodos de tempo 
+Os segmentos podem oferecer uma visualização mais detalhada de seus dados. Por 
+exemplo, digamos que você  utilizou a caixa de período e selecionou “Semana passada” 
+para observar o desempenho geral. No entanto, decidiu que gostaria de analisar aquela 
+semana detalhadamente, dia por dia. Para isso, você teria que usar os segmentos. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+Utilização da visualização “Período” na guia “Dimensões” 
+A subguia "Dimensões" permite que você analise detalhadamente seus dados de acordo 
+com o período de tempo, em  um grupo de anúncios, uma campanha ou na conta toda. Por 
+exemplo, você pode querer rastrear o desempenho de um grupo de anúncios de hora em 
+hora para ver seu desempenho em diferentes horários durante o dia. Em seguida, você 
+pode utilizar esses  para programar seus anúncios  para serem exibidos nos horários em 
+que haja maior probabilidade de receberem a maior quantidade de impressões e cliques. 
+Saiba mais sobre a medição e comparação de desempenho de acordo com períodos de 
+tempo» 
+5.3 Insights adicionais sobre desempenho 
+5.3.1  Utilização de informações do leilão para comparar desempenho 
+O relatório de informações do leilão permite comparar seu desempenho com o dos outros 
+anunciantes que estão participando dos mesmos leilões que você. Essas informações 
+podem ajudar você a tomar decisões estratégicas sobre escolhas de lance e orçamento, 
+pois mostram onde você apresenta um bom desempenho e onde está perdendo 
+oportunidades de ter um melhor desempenho. O relatório de informações do leilão está 
+disponível para as campanhas do Shopping e da Rede de Pesquisa. 
+Fundamentos do Google AdWords 
+Leilão de anúncios:  como o Google decide quais anúncios serão exibidos e em qual ordem. 
+Estatísticas de informações do leilão 
+Os relatórios de informações do leilão são diferentes para as campanhas do Shopping e as 
+campanhas da Rede de Pesquisa. O relatório de informações do leilão para campanhas da 
+Rede de Pesquisa oferece  seis estatísticas diferentes: 
+1. Parcela de impressões 
+2. Posição média 
+3. Taxa de sobreposição 
+4. Taxa de exibição em posição superior 
+5. Taxa de exibição na parte superior da página 
+6. Parcela de superação 
+O relatório de informações do leilão para campanhas do Shopping oferece  três estatísticas 
+diferentes: 
+1. Parcela de impressões 
+2. Taxa de sobreposição 
+3. Parcela de superação 
+Com o relatório de informações do leilão para as campanhas do Shopping, você pode 
+gerar um relatório para um ou mais grupos de anúncios ou campanhas, além de 
+segmentar resultados por tempo e dispositivo. 
+Descrições das estatísticas de informações do leilão 
+Posição média (somente para campanhas da Rede de Pesquisa) 
+A posição média é uma forma rápida de mensurar a classificação de seus anúncios em 
+comparação com as classificações de anúncios de outros anunciantes concorrendo nos 
+mesmo leilões. 
+Parcela de impressões 
+A parcela de impressões é a quantidade de impressões que você recebeu dividida pela 
+quantidade estimada de impressões que você estava qualificado para receber. As 
+métricas de parcela de impressões de correspondência exata calculam a parcela de 
+impressões como se todas as palavras-chave fossem definidas como correspondência 
+exata. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+Taxa de sobreposição 
+A taxa de sobreposição representa a frequência com que os anúncios de outros 
+participantes recebem uma impressão quando seu anúncio também recebe uma 
+impressão. 
+Taxa de exibição em posição superior (somente para campanhas da Rede de Pesquisa) 
+A taxa de exibição em posição superior representa a frequência com que o anúncio de 
+outro participante foi exibido em um posicionamento superior ao seu, quando ambos os 
+anúncios foram exibidos ao mesmo tempo. 
+Taxa de exibição na parte superior da página (somente para campanhas da Rede de 
+Pesquisa) 
+A taxa de exibição na parte superior da página indica com que frequência seu anúncio foi 
+exibido na parte superior da página, sobre os resultados de pesquisa não pagos. 
+Parcela de superação 
+A parcela de superação é uma porcentagem definida como o número de vezes que sua 
+classificação do anúncio foi superior à de outro participante em um leilão, mais o número 
+de vezes que seu anúncio foi exibido quando o do outro participante não foi, dividido pelo 
+total de leilões de anúncios de que você participou. 
+Criação de filtro de informações do leilão 
+O filtro de informações do leilão permite que você veja rapidamente quais de suas 
+palavras-chave, seus grupos de anúncios ou suas campanhas têm relatórios disponíveis 
+para  visualização. 
+Saiba mais sobre a utilização de informações do leilão para comparar desempenho» 
+5.3.2  Utilização da guia “Página inicial” para controlar seu desempenho 
+Como você deve saber, é possível encontrar muitas informações sobre sua conta na guia 
+“Página inicial” do Google AdWords. Você pode personalizar alguns dos módulos nesta 
+página para monitorar seu desempenho de forma mais eficaz. Essas personalizações 
+permitem: 
+● Escolher ou remover seus módulos  para visualizar a quantidade  que desejar. 
+● Personalizar módulos predefinidos  para visualizar o que for mais interessante 
+para você. 
+● Criar um módulo personalizado  que exiba informações específicas sempre que 
+você fizer login. 
+Saiba mais sobre a utilização da guia “Página inicial” para controlar seu desempenho» 
+5.3.3  Utilização de rótulos no Google AdWords 
+Com os rótulos, você pode organizar os elementos em sua conta em grupos significantes 
+para filtrar e criar relatórios dos dados que mais lhe interessam, de forma rápida e fácil. É 
+possível aplicar rótulos a palavras-chave, campanhas, anúncios e grupos de anúncios; isso 
+permite visualizar o desempenho das categorias personalizadas, criadas por você, em 
+relação umas às outras e às entidades sem rótulo em sua conta. 
+Saiba mais sobre a utilização de rótulos no Google AdWords» 
+5.3.4  Utilização de segmentos para visualização de dados de desempenho 
+Utilize segmentos para dividir seus dados em linhas com base nas opções mais 
+importantes você, tais como períodos de tempo, tipo de clique ou dispositivo. Isso facilita a 
+visualização de dados, isolando exatamente aquilo que você desejar ver. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 5
+Segmentos disponíveis 
+Alguns segmentos podem ser encontrados em quase todas as guias de sua conta do 
+Google AdWords, enquanto outros estão disponíveis apenas em guias específicas. Em 
+alguns casos, poderá ser necessário fazer o download de um relatório para aplicar um 
+segmento específico a seus dados. 
+Saiba mais sobre a utilização de segmentos para visualização de dados de desempenho» 
+5.3.5  Compreensão do Relatório de termos de pesquisa 
+● Use o relatório de termos de pesquisa para visualizar o desempenho de seus 
+anúncios quando acionados por pesquisas reais na Rede de Pesquisa. 
+● Identifique novos termos de pesquisa com alto potencial e adicione-os a sua 
+lista de palavras-chave. 
+● Procure por termos de pesquisa que não sejam tão relevantes para sua 
+empresa e adicione-os como palavras-chave negativas. Isso pode ajudar você 
+a não desperdiçar dinheiro exibindo seu anúncio a pessoas que não estejam 
+interessadas nele. 
+Gerenciamento de suas palavras-chave com base nos dados dos termos de pesquisa 
+Utilize os dados de seus termos de pesquisa para fazer alterações a suas palavras-chave 
+que possam ter impacto positivo em seu desempenho. 
+Aqui estão algumas ideias: 
+● Adicione a seu grupo de anúncios termos de pesquisa de alto desempenho 
+como palavras-chave. 
+● Se um termo de pesquisa não for relevante o bastante para os produtos ou 
+serviços que você oferece, adicione-o como uma palavra-chave negativa . 
+● Selecione o tipo de correspondência correto (por exemplo: ampla, por frase, 
+exata ou negativa) para as palavras-chave existentes. 
+Saiba mais sobre a compreensão do Relatório de termos de pesquisa» 
+5.3.6  Medição de desempenho das extensões de anúncio 
+Acesse sua conta do Google AdWords para ver quantos cliques e impressões sua 
+extensão de anúncio recebeu, seus custos relacionados e outras estatísticas. Esses dados 
+podem ajudar você a decidir quais tipos de extensões de anúncio funcionam melhor com 
+seu anúncio e o momento de adicionar ou remover uma extensão de anúncio. 
+Estatísticas de extensão de anúncio disponíveis 
+As estatísticas de extensão de anúncio estão disponíveis para anúncios exibidos na 
+Pesquisa Google, nos parceiros de pesquisa do Google para dispositivos móveis (incluindo 
+o Google Maps para celular) e, em alguns casos, na Rede de Display do Google. 
+Relatório de extensão automática 
+Você pode utilizar o relatório de extensão automática para ver dados mais específicos de 
+anúncios com extensões automáticas, como a quantidade de cliques ou impressões que 
+seu anúncio recebeu quando essas extensões foram exibidas junto com ele. 
+Saiba mais sobre a medição de desempenho das extensões de anúncio» 
+  Módulo 6 Otimização de desempenho 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 6 
+6.1 Guia “Oportunidades” 
+A guia “Oportunidades” verifica o histórico de desempenho de sua conta, as configurações 
+de sua campanha e as tendências e o volume da pesquisa do Google, e gera 
+automaticamente oportunidades para que você melhore seu desempenho. 
+O que você pode fazer na guia “Oportunidades” 
+Se tiver um histórico de conta para analisar, a guia pode lhe ajudar a: 
+● Visualizar estimativas de desempenho com base em dados do histórico 
+● Fazer melhorias sem consumo excessivo de tempo 
+● Manter suas campanhas atualizadas 
+Saiba mais sobre a guia “Oportunidades”» 
+6.2 Experiências de campanha 
+6.2.1  Informações sobre experiências de campanha 
+As Experiências de campanha do Google AdWords permitem testar as alterações de  sua 
+conta em uma parte dos leilões dos quais seus anúncios participam. Com as experiências 
+de campanha você pode testar alterações de suas palavras-chave, lances, canais e grupos 
+de anúncios. 
+Como as experiências de campanha funcionam 
+Ao criar uma experiência, você decide quais tipos de alterações deseja testar. Por exemplo, 
+é possível testar adicionando novas palavras-chave, aumentando o lance, testando novos 
+anúncios ou usando diferentes canais. Em seguida, você decide qual porcentagem de seus 
+leilões deve receber essa alteração experimental. 
+Custos das experiências de campanha 
+Embora as experiências de campanha não tenham um custo para ativação, as experiências 
+são tratadas como alterações em sua conta e serão cobradas, como qualquer outra 
+campanha. 
+Experiências de campanha e Índice de qualidade 
+As experiências de campanha influenciam seu Índice de qualidade para quaisquer 
+palavras-chave envolvidas  em suas experiências. Executar uma experiência pode impactar 
+de forma negativa seu Índice de qualidade a curto prazo, pois você pode testar anúncios ou 
+lances que apresentem desempenho mais baixo do que seus anúncios ou lances atuais. 
+No entanto, em longo prazo, realizar uma experiência e identificar anúncios de alta 
+qualidade ou lances melhores pode aumentar seu Índice de qualidade, compensando a 
+queda de desempenho em curto prazo. 
+Objetivos comuns e elementos das experiências de campanha 
+Embora sua meta de experiência varie de acordo com o ramo de sua empresa, estas são 
+algumas das metas comuns dos anunciantes: 
+● Aumento de conversões 
+● Aumento de cliques ou impressões 
+● Aprimoramento de retorno do investimento 
+● Aprimoramento da qualidade da campanha 
+● Aprimoramento do texto do anúncio 
+Saiba mais sobre as  experiências de campanhas»  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 6 
+6.2.2  Configuração de experiências 
+Você pode realizar uma experiência de cada vez por campanha para testar o desempenho 
+de diferentes palavras-chave, anúncios e grupos de anúncios. Sua experiência pode incluir 
+palavras-chave, anúncios e grupos de anúncios existentes, palavras-chave novas ou ambas 
+as opções. Ao configurar uma experiência, você pode escolher a duração que ela terá e a 
+porcentagem de pesquisas à qual as alterações experimentais serão aplicadas. 
+Escolha de suas alterações experimentais 
+Você pode fazer até 1.000 alterações experimentais em lances e palavras-chave de sua 
+campanha. Você pode também definir grupos de anúncios inteiros como parte da 
+experiência e definir um lance de experiência para o grupo de anúncios. 
+Acompanhamento do tráfego de sua experiência 
+Se utiliza o Google Analytics ou outra ferramenta de acompanhamento de tráfego, você 
+pode adicionar uma  tag do ValueTrack  ao seu modelo de acompanhamento de palavras-
+chave ou anúncios, ou ao  URL de destino, para ver se um clique é proveniente da 
+experiência ou da divisão de controle. 
+Saiba mais sobre a configuração de experiências» 
+6.2.3  Monitoramento de suas experiências 
+Quando sua experiência estiver sendo realizada, você poderá começar a visualizar os 
+respectivos dados em sua campanha e compará-los a seus dados de controle. Ícones de 
+seta nos dados de desempenho de sua conta lhe ajudarão a identificar se as alterações 
+nos dados são resultado das alterações feitas por você. Você também pode fazer o 
+download de seus dados ou configurar sua conta para que as pessoas selecionadas por 
+você recebam e-mails regulares com o relatório de experiência. 
+Saiba mais sobre o monitoramento de suas experiências» 6.3 Utilização do agendamento de anúncios personalizado 
+Você pode optar por exibir seu anúncio sempre que um cliente fizer uma pesquisa on-line. 
+Ou talvez queira exibi-lo apenas em dias determinados ou durante o horário comercial, 
+quando você está disponível para atender os clientes. Para as campanhas com a opção 
+"Todos os recursos" ativada, você pode usar o agendamento de anúncios personalizado 
+para: 
+● Especificar determinados horários e/ou dias da semana em que você deseja  
+exibir seus anúncios. 
+● Definir ajustes de lance para aumentar ou diminuir os lances em  dias e horários 
+específicos. 
+Ajustes de diferenças no fuso horário 
+Os agendamentos de anúncios definidos por você são baseados no fuso horário que 
+selecionou ao  criar sua conta do Google AdWords. Portanto, é importante ajustar seu 
+agendamento de anúncios de acordo com qualquer diferença no fuso horário dos clientes-
+alvo. 
+Definição de ajuste de lance para um agendamento de anúncios 
+Você pode definir ajustes de lances para dias e horários específicos usando a subguia 
+"Agendamento de anúncios" nas configurações de sua campanha. Se você também optar 
+por definir ajustes de lance  para dispositivos móveis e locais, todos os seus ajustes serão 
+multiplicados para determinar o ajuste de lance resultante. Ao definir ajustes de lance, 
+seus gastos com cliques individuais podem variar, mas seu orçamento diário geral  não 
+será alterado. 
+Saiba mais sobre a utilização do agendamento de anúncios personalizado»  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 6 
+6.4 Utilização da inserção de palavra-chave 
+Use a inserção de palavra-chave para atualizar seus anúncios com as palavras-chave que 
+acionaram sua exibição. 
+Como a inserção de palavra-chave funciona 
+Suponhamos que você esteja fazendo a publicidade de uma loja de chocolates. Você pode 
+utilizar um código de inserção de palavra-chave no título de seu anúncio: 
+Título: Compre {KeyWord:Chocolate} 
+O Google AdWords tentará substituir esse código por uma de suas palavras-chave em seu 
+grupo de anúncios ("chocolate amargo", "chocolate sem adição de açúcar", "trufas de 
+chocolate gourmet"), mas quando não for possível, utilizaremos a palavra "chocolate". 
+Observe que o termo de pesquisa de uma pessoa nem sempre é igual à palavra-chave. 
+Configuração da inserção de palavra-chave 
+Você pode adicionar o código de inserção de palavra-chave ao título, às linhas de 
+descrição ou aos campos de URL. Há duas formas de inserir uma palavra-chave: 
+1. Método guiado 
+2. Método manual 
+Saiba mais sobre a utilização da inserção de palavra-chave» 
+6.5  Para aprimorar sua conta 
+Oportunidades relacionadas a palavras-chave 
+As oportunidades de palavra-chave podem ajudar você a alcançar clientes em potencial ao 
+exibir seus anúncios a pessoas que possam ter mais interesse nos serviços/produtos 
+oferecidos por você. Você poderá ver as seguintes oportunidades relacionadas às palavras-
+chave. 
+● Adição de novas palavras-chave 
+● Adição de palavras-chave negativas 
+● Uso de tipos de correspondência ampla e correspondência por frase 
+Oportunidades relacionadas a lances e orçamentos 
+As oportunidades de lances e orçamentos podem ajudar você a gerar mais tráfego (como 
+cliques e impressões) e melhorar sua classificação do anúncio  ou seu desempenho. Você 
+poderá  ver as seguintes oportunidades relacionadas aos lances e orçamentos. 
+● Uso de lance estimado para topo da página 
+● Uso de lance estimado para ficar na primeira página 
+● Lances mais baixos para campanhas com orçamento limitado 
+● Lances maiores para exibir seus anúncios com mais frequência do que os 
+anúncios de anunciantes com perfis equivalentes ao seu 
+● Definição de ajuste de lance por local 
+● Aumento de seu orçamento 
+Oportunidades relacionadas a extensões de anúncio 
+As oportunidades de extensões de anúncio podem ajudar você a melhorar o desempenho 
+de seu anúncio ou alcançar suas metas de publicidade, por exemplo, gerando chamadas 
+diretamente a partir de seu anúncio. Você poderá ver as seguintes oportunidades 
+relacionadas às extensões de anúncio. 
+● Adição de extensões de sitelinks. 
+● Adição de extensões de chamada. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 6 
+Oportunidades relacionadas à estrutura da conta 
+A oportunidade de estrutura da conta pode ajudar você a melhorar o desempenho dela. 
+Você poderá ver a oportunidade de criar novos grupos de anúncios a partir de palavras-
+chave existentes. 
+● Criação de novos grupos a partir de palavras-chave existentes. 
+Oportunidades relacionadas a configurações 
+Estas oportunidades podem ajudar você a exibir seus melhores anúncios e receber mais 
+cliques  ou conversões por meio da otimização das configurações de rotação de anúncios. 
+● Otimização de sua rotação de anúncios para exibir seus melhores anúncios e 
+receber  mais cliques. 
+● Otimização de sua rotação de anúncios para exibir seus melhores anúncios e 
+receber  mais conversões. 
+● Exibição de seus anúncios em parceiros de pesquisa do Google para receber 
+mais cliques  por um custo mais baixo. 
+Saiba mais sobre ideias para aprimorar sua conta» 
+  Módulo 7 Desempenho, rentabilidade e crescimento 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 7 
+7.1 Aumento do orçamento 
+7.1.1  Compreensão do impacto do orçamento nos lucros 
+O gráfico abaixo ilustra o impacto das limitações de orçamento em uma  campanha 
+rentável e o motivo pelo qual quase sempre faz sentido otimizar os orçamentos antes dos 
+lances de custo por clique (CPC). 
+ 
+● Ponto (a): um ponto inicial de amostra; os lucros estão ausentes devido ao  
+orçamento limitado. 
+● Ponto (b): lucro possível ao otimizar os lances de CPC dentro de um  orçamento 
+limitado. 
+● Ponto (c): lucro atingido ao otimizar primeiro os orçamentos 
+● Ponto (d): lucro máximo atingido ao otimizar os lances de CPC  após o 
+orçamento 
+Esta é a maneira de interpretar o gráfico: 
+● O eixo Y vertical representa o lucro após as despesas de publicidade. 
+● O eixo X horizontal representa os lances de CPC mais baixos à esquerda e 
+mais altos à direita. 
+● As curvas de lucro real variam de acordo com palavra-chave, texto do anúncio, 
+página de destino e seu lucro por conversão. 
+Dessa forma, para maximizar seu lucro,  primeiro seu orçamento (em outras palavras, 
+alcance o ponto c), em seguida, teste diferentes lances de CPC para otimizar o lucro 
+(ponto d). 
+Saiba mais sobre compreensão do impacto do orçamento nos lucros» 
+7.1.2  Aumento de orçamento de acordo com o desempenho 
+Com esta combinação de mensurabilidade e controle, muitas empresas podem optar  por 
+um orçamento de marketing flexível que aumente junto com o bom desempenho. 
+Recomendamos que você defina seu orçamento diário do Google AdWords a um nível que 
+seja baixo o suficiente para  limitar seus gastos caso algo inesperado aconteça, por 
+exemplo, uma mudança repentina na qualidade de tráfego de uma de suas palavras-chave 
+devido a  notícia. 
+R$ 800,00
+R$ 600,00
+R$ 400,00
+R$ 200,00
+R$ 0,00Lucro diário (com orçamento) Lucro diário (sem orçamento) Lucro
+Lance de CPC b 
+a c d  Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 7 
+Campanhas que aumentam de acordo com o desempenho podem funcionar para diversas 
+metas de  publicidade, incluindo: 
+● Vendas de mercadorias ou serviços diretamente de um site de comércio 
+eletrônico 
+● Geração de leads para uma equipe de vendas 
+● Direcionamento de inscrições para um serviço de assinatura mensal 
+Saiba mais sobre o  aumento de orçamento de acordo com o desempenho» 
+7.1.3  Desenvolvimento de campanhas lucrativas 
+Para ter sucesso com o Google AdWords, é importante saber quando uma campanha é 
+rentável e como fazê-la crescer. Geralmente, as campanhas orientadas por ROI seguem 
+três etapas de desenvolvimento: 
+Etapa 1:  teste 
+Etapa 2:  crescimento 
+Etapa 3:  maturidade 
+Saiba mais sobre desenvolvimento de campanhas lucrativas» 
+7.1.4  Crescimento na prática 
+Em muitos casos, é possível aumentar rapidamente os lucros identificando partes 
+menores de uma campanha que sejam rentáveis e, então, direcionar a elas um orçamento 
+separado antes de  confirmar o sucesso de toda a campanha. 
+Ao criar outra campanha para os grupos de anúncios rentáveis, você pode definir  um 
+orçamento separado para a campanha do Google AdWords e começar a se concentrar no 
+crescimento. Com  duas campanhas, você pode manter o orçamento original e limitar os 
+riscos dos  grupos de anúncios que ainda não apresentam certeza quanto à rentabilidade, 
+enquanto possibilita o crescimento constante de partes da campanha  que estejam 
+trazendo resultados. 
+Com o passar do tempo, você pode continuar movendo grupos de anúncios rentáveis da  
+campanha original para a campanha em crescimento até que tenha concluído o teste de 
+rentabilidade. 
+7.1.5  Aprimoramento de desempenho quando o orçamento diário está    
+          esgotado 
+Quando seu orçamento diário do Google AdWords está esgotado, é um sinal de que você 
+pode melhorar seu desempenho. Seus objetivos de negócios determinarão a melhor  
+abordagem a ser tomada. 
+Campanhas com foco nos lucros 
+● Caso sua campanha não seja rentável, seu orçamento do Google AdWords 
+limitará suas perdas. Você pode aprimorar o desempenho otimizando seus 
+lances, suas palavras-chave e seus anúncios até que a campanha se torne 
+rentável. 
+● Se sua campanha já for rentável, esgotar seu orçamento diário do Google 
+AdWords faz com que você não receba conversões rentáveis adicionais. Você 
+pode aprimorar o desempenho aumentando gradualmente seu orçamento, 
+enquanto garante a rentabilidade de sua campanha. 
+Campanhas com foco em exposição 
+● Alguns de seus lances de custo por clique (CPC) podem ser muito altos. Testar 
+lances de CPC mais baixos pode aumentar os cliques e permitir que você 
+permaneça dentro de seu orçamento. 
+● Se você priorizar o aprimoramento da posição do anúncio em vez do 
+recebimento de mais cliques, esgotar o orçamento será normal. 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 7 
+Definição estratégica de orçamento com base na meta da empresa 
+Se os objetivos de sua empresa incluírem a maximização de lucros e exposição, você 
+pode definir um orçamento estratégico desenvolvendo diferentes campanhas para cada 
+meta. 
+Saiba mais sobre o aprimoramento de desempenho quando o orçamento diário está 
+esgotado» 
+7.2 Definição de lance para desempenho 
+7.2.1  Noções básicas sobre lance baseado em desempenho 
+Quando sua campanha se concentra no desempenho, é importante compreender como o 
+ajuste de seus lances afeta cada métrica de desempenho. 
+Lances para equilibrar o volume de vendas e a rentabilidade 
+Como as taxas de conversão não variam muito de acordo com a posição do anúncio, é 
+importante lembrar-se das seguintes tendências: 
+● Geralmente, o aumento de lances resulta em mais conversões com uma média 
+mais elevada de custo por aquisição (CPA). 
+● Geralmente, a redução de lances resulta em menos conversões com uma 
+média mais baixa de custo por aquisição (CPA). 
+● Geralmente, o aumento de lances, embora limitado pelo orçamento diário, 
+resulta em menos conversões com uma média mais elevada de custo por 
+aquisição (CPA). 
+Saiba mais sobre as noções básicas de lance baseado em desempenho» 
+7.2.2  Seleção de métricas para maximizar os lucros 
+Abordaremos aqui duas métricas importantes a serem consideradas caso você tenha 
+interesse em maximizar os lucros: 
+1. Valor por conversão 
+O valor por aquisição é o total de lucro esperado ou o valor que você  ganha em cada 
+conversão. Se puder, faça uma estimativa do valor por conversão para um determinado 
+produto ou serviço, pois esse é um comparativo de mercado útil pra definir o limite máximo 
+que você pode investir em publicidade por conversão antes de se tornar não rentável. 
+2. Metas de CPA 
+As metas de CPA podem ser úteis para estabelecer ou manter a rentabilidade e são, 
+geralmente, definidas com valor abaixo de seu valor por conversão. 
+Metas de ROI comuns com menor probabilidade de maximizar seu lucro 
+● Metas decididas no progresso de uma campanha 
+● Metas com base em  convencionais 
+● Metas com base em outros canais de marketing 
+Saiba mais sobre a seleção de métricas para maximizar os lucros» 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 7 
+7.3 Rentabilidade e valor da vida útil 
+7.3.1  Como obter rentabilidade 
+Saber como avaliar de forma precisa se sua campanha está gerando ou perdendo  dinheiro 
+é a chave para o sucesso e, normalmente, um pré-requisito para o crescimento. Se 
+identificar que sua campanha não é rentável, você poderá alcançar a rentabilidade 
+comparando seu custo por aquisição (CPA) com seu lucro por conversão  esperado e 
+ajustando as palavras-chave ou os lances de CPC para um ponto rentável. 
+Identificar seu CPA é fácil usando o acompanhamento de conversões do Google AdWords. 
+Você pode facilmente identificar os custos para ações específicas, tais como compras, 
+inscrições, leads de vendas, assinaturas e uma variedade de outras ações. 
+Saiba mais sobre como obter rentabilidade» 
+7.3.2  Estimativa de valores de conversão 
+Ao estimar o valor por conversão, é uma boa estratégia incluir como fatores, por exemplo, 
+valores de futuros negócios, boca a boca e da vida útil. Isso pode lhe dar flexibilidade de 
+fazer um lance maior, enquanto o mantém abaixo de seu valor por clique. 
+Vamos observar uma empresa fictícia de venda de maquinário entre empresas, chamada 
+Exemplo Máquinas, para ver como isso funciona. Em vez de vender diretamente on-line, a 
+Exemplo Máquinas usa o Google AdWords para gerar leads para sua equipe de vendas. 
+Incluiremos isso como um fator também. 
+Valor de conversão de curto prazo da Exemplo Máquinas 
+● Receita média de negócios: R$ 3.000 
+● Margem de lucro: 45% 
+● Leads convertidos em negócios: 20% 
+● Valor por conversão (curto prazo): R$ 270 (R$ 3.000 * 45% * 20%) 
+Inclusão do boca a boca como um fator 
+A Exemplo Máquinas tem dados que mostram que, para cada cliente, a empresa 
+geralmente ganha 15% em negócios adicionais por meio do boca a boca. Incluímos isso 
+como fator da seguinte forma: 
+● Valor por lead (curto prazo): R$ 270 
+● Ganho no boca a boca: 15% 
+● Valor por conversão (+ boca a boca): R$ 310,50 (R$ 270 * 115%) 
+Nota:  Multiplicamos por 115% em vez de 15%. Isso porque estamos ampliando um ganho 
+ao invés de uma perda. 
+Inclusão de valor da vida útil de cliente como fator 
+Por último, a Exemplo Máquinas sabe que cada cliente novo realiza outras compras com 
+receita de aproximadamente R$ 5.000 durante a vida útil. É mais fácil incluir isso como 
+fator em um valor de oferta inicial. 
+● Receita média de negócios: R$ 3.000 
+● Futuros negócios durante a vida útil: R$ 5.000 
+● Margem de lucro: 45% 
+● Lucro por cliente durante a vida útil: R$ 3.600 (R$ 3.000 + R$ 5.000)*(45%) 
+Saiba mais sobre estimativa de valores de conversão» 
+  Módulo 8 Google AdWords API 
+ Guia de aperfeiçoamento do Exame de publicidade em pesquisa | Módulo 8
+8.1 Interface de programação do aplicativo (API) do Google  AdWords 
+A interface de programação do aplicativo (API) do Google AdWords foi criada para 
+desenvolvedores que representam terceiros e anunciantes grandes, com experiência em 
+tecnologia. Isso inclui agências, profissionais de marketing de mecanismos de pesquisa 
+(SEMs) e outros profissionais de marketing on-line que gerenciam várias contas de 
+clientes ou grandes campanhas. 
+Com a Google AdWords API, os desenvolvedores podem criar aplicativos que interagem 
+diretamente com o servidor do Google AdWords. Com esses aplicativos, anunciantes e 
+terceiros podem gerenciar contas e campanhas grandes ou complexas do Google 
+AdWords com mais eficiência e criatividade. 
+Saiba mais sobre a Interface de programação do aplicativo (API) do Google AdWords» 
+8.2 Vantagens e linguagens 
+Benefícios da Google AdWords API 
+Com a Google AdWords API, você pode implantar programas que lhe ajudam a interagir 
+com sua conta do Google AdWords de forma mais eficiente. Você tem diversas 
+oportunidades de desenvolvimento e integração, desde a geração automática de relatórios 
+até a criação de aplicativos complexos que se integram com seus bancos de dados 
+existentes e sistemas empresariais. 
+Saiba mais sobre vantagens e linguagens» 
+Você gostou do que aprendeu? Faça o Exame de publicidade em pesquisa» 

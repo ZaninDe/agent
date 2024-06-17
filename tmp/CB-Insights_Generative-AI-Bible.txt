@@ -1,0 +1,301 @@
+Generative AI BibleThe ultimate guide to genAIdisruption
+Pablo Xavier via BuzzFeed News2Unleash the generative AI revolutionDive into a treasure trove of generative AI companies, investors, and market insights. Elevate your decisions with exclusive software buyer interviews to understand product pricing, CSAT, and post-deployment experience.CB Insights –Your Gateway to Generative AI
+Sign up for access
+3Generative adversarial networksCommercial deepfakes, AI voice spoofingSynthetic data, self-supervised learningTransformers, multilingual modelsCode generation, deepfake detection, multimodal AICB Insights2019 Trends ReportCB Insights2020 Trends ReportCB Insights2020 Trends ReportCB Insights2021 Trends ReportCB Insights2022 Trends Report12345Generative AI is a theme CB Insights covered before the hype.We've consistently been ahead of the curve201920202020202120224CB Insights helps the world’s leading companies understand everything they need to know about disruptivetechnologies —find out more about why our customers love us here.And we're staying ahead today –so you can tooUnderstand 25+ generative AI marketsLarge language model developersCustomer support operationsText generationProtein & drug designVoice synthesis & cloning+ moreDiscover 400+ genAIvendorsTrackedin our analyst-curated ExpertCollectionStay on top of the landscape with research & transcripts
+20235ContentsGenerative AI BibleThe generative AI boomAnd now suddenly is accelerating63
+1196376488GraduallyThen suddenly1. Race to dominate genAIinfrastructure2. Cross-industry applications face pressure from large players3. Opportunity in vertical genAISo where is generative AI headed?
+Promising companies to watchHealthcare & life sciencesFinancial services & insuranceRetail919Hundreds of startups pile into genAIFunding soars as investors flockBig tech is all in and ready to fight384150936The generative AI boom
+7“How did you go bankrupt?”ERNEST HEMINGWAY, THE SUN ALSO RISES8“Two ways… Graduallyand then suddenly”ERNEST HEMINGWAY, THE SUN ALSO RISES9GraduallyGenerative AI has been in the works for years201410How did we get here? A recent timeline of select events in the development of generative AI1Generative adversarial networks (GANs) introduced by Ian Goodfellow20142WaveNetand audio generation introduced by DeepMind20164Google AI releases BERT, a leap in the ability of machines to understand context in language20185OpenAI releases GPT-2, gaining attention for text generation capabilities2019
+8OpenAIreleases text-to-image model DALL-E202110OpenAIlaunches GPT-3.5-based chatbot ChatGPT,unleashing genAIboom2022Text-to-image models from Google, Midjourney, Stability AI, and OpenAI proliferate202293New neural network architecture called the “Transformer” introduced by Google researchers2017
+OpenAIreleases GPT-3,accelerating interest in language models62020
+*Generative AI is artificial intelligence that can generate new content (text, code, images, audio, etc.).“Deepfakes” become widely known7202011Image source: Large Scale GAN Training for High Fidelity Natural Image Synthesis*”AI versus AI”: A breakthrough where two neural networks try to outsmart each other, creating and refining synthetic outputs. GANs tap into the idea of “AI versus AI” —advancing image generation dramatically
+Images from 2018 paper where DeepMind researchers trained GANs on a large-scale dataset to create “BigGANs”20141201820202022201612Image source: Google DeepMindWaveNetproduces synthetic audio, showcasing the potential of generative models beyond images 
+201420182020202220162
+13The Transformer architecture can better understand and generate human language, paving the way for further R&D 6 authors of the seminal research paper have gone on to raise $1.7B across 5AI companies*
+175 
++661%
+Source: CB Insights —6 authors of a seminal research paper by Google*As of 10/12/202320142018202020222016314Google AI releases BERT, a leap in the ability of machines to understand context in language
+Image source: Google201420182020202220164The AI language model predicts a word based on not only the preceding words, but also the succeeding ones (bidirectional understanding of context). 
+BERT is deeply bidirectional, OpenAI GPT is unidirectional, and ELMois shallowly bidirectional.15OpenAIincorporates the Transformer architecture into its language models
+Image source: OpenAI
+GPT-1 –June 2018GPT-2 –February 201920142018202020222016516OpenAI’sGPT-3 is a major leap forward, showcasing ability to generate code, jokes, and more
+Image source: NYT, MIT Technology Review201420182020202220166
+November 2020July 202017Deepfakes go mainstream, highlighting power and pitfalls of video generation  
+Image source: YouTube, TikTok via ABC*Deepfakes refer to synthetic media where a person in an existing image or video is replaced with someone else’s likeness using neural networks. 201420182020202220167
+18GPT-3 is the foundation for DALL-E, which can generate images from text descriptions
+Image source: OpenAI
+201420182020202220168192022Then suddenlyGenAIgoes from experiment to everywhere20Models get bigger…
+Image source: The Economist
+21…and better, beating human performance benchmarks
+Image source: Science
+22
+Text-to-image generators take the internet by storm
+Image source: Imagen (Google), Midjourney, DALL-E 1 vs. DALL-E 2 (OpenAI), Stable Diffusion 
+23Generative AI startups raise major funding to fuel growthDeals worth $100M+ to generative AI startups in 2022
+Source: CB Insights –Advanced Search -Deals
+24AI coding assistant GitHub Copilot becomes widely available
+Image source: GitHub
+25ChatGPTgoes viral, getting to 1M users in 5 days and 100M in 2 months —unleashing genAIboomTime to 1M users for select platforms/apps from launch
+Source: Media mentions*App downloads2 years10months7months5months2.5months*5days
+051015202530TwitterFacebookDropboxSpotifyInstagramChatGPT
+26Source: CB Insights —Advanced Search -Earnings transcripts
+1
+0
+1
+0
+0
+0
+0
+28
+446
+1,5462,081
+050 01,0 001,5 002,0 002,5 00
+Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3202120222023Almost overnight, exec interest in generative AI skyrockets and companies feel pressured to reactEarnings call mentions of “generative AI” (as of 9/30/2023)
+27Microsoft invests $10B into ChatGPT-maker OpenAIin Q1’23, propelling genAIfunding to new heightsDisclosed equity funding & deals to generative AI companies (as of 9/30/2023)
+$1.7B$0.7B$5.3B$3.2BFunding$17.4B
+64
+103
+154
+168
+050100150200250
+$0 .0 B$2 .0 B$4 .0 B$6 .0 B$8 .0 B$1 0. 0B$1 2. 0B$1 4. 0B$1 6. 0B
+20192020202120222023 YTD$10.0B$2.0B$1.0BFunding
+Dealsfunding
+64
+103
+154
+168
+Deals
+170
+050100150200250
+020 0040 0060 0080 0010 00 012 00 014 00 016 00 0
+20192020202120222023 YTDSource: CB Insights —What are customers saying about generative AI startups?
+28Microsoft debuts AI-powered Bing, running on a new OpenAI large language model (LLM)
+Image source: Microsoft *A large language model is a deep learning algorithm that analyzes and produces text by learning from extensive language data.  
+29Meta introduces Llama, an open-source language model
+Image source: Meta
+30Google sounds alarm bells and releases Bard chatbot
+Source: CB Insights –Advanced Search -Earnings transcripts; Google*Reflects quarter call occurredAlphabet CEO Sundar PichaiQ1’23 earnings call On the AI side, it is a really exciting time. I think we've been investing for a while, and it's clear that the market is ready…Obviously, we need to make sure we're iterating in public, these models will keep getting better, so the field is fast changing.The serving costs will need to be improved.So I view it as very, very early days, but we are committed to…actually bringing direct LLM experiences in Search,making APIs available for developers and enterprises and learn from there and iterate like we've always done.
+31GPT-4 becomes OpenAI’s most powerful model yet, crushing human exams
+Image source: OpenAI
+32Reddit, after providing years of free training data for AI systems, plans to charge for access to its content
+Image source: Reddit
+33
+Chegg blames ChatGPTfor declining revenue, sees its share price tank, and, in response, pivots to build LLMs
+Source: CB Insights –Chegg company profile, Chegg
+Chegg attributes declining growth to ChatGPT34Nvidia enters the $1T market cap club as demand 
+for GPUs used in genAI sends its revenue soaring
+US companies to reach $1T+ market cap (as of 10/30/2023)
+$1.2T$1.1T$1.2T$1.9T$2.0T$2.7T$3.1T
+$0.6T$0.8T$1.0T$1.4T$1.6T$2.5T$2.7T
+$0 .0 T $0 .5 T $1 .0 T $1 .5 T $2 .0 T $2 .5 T $3 .0 T $3 .5 TAll-time highCurrent market cap
+*GPUs = graphics processing units, which are used to run intensive AI applications.
+35Stack Overflow sees declining traffic and lays off employees amid AI coding boom
+Image source: SimilarWeb, The Verge
+36Apple CEO Tim CookQ3’23 earnings callEven Apple scrambles as it works on its own LLM called Ajax and is on course to spend $1B a year on genAIpush
+Source: Bloomberg; CB Insights –Advanced Search -Earnings transcripts*Reflects quarter call occurred
+If you take a step back, we view AI and machine learning as core fundamental technologies that are integral to virtually every product that we build…And of course, we've been doing research across a wide range of AI technologies, including generative AI, for years. We're going to continue investing and innovating and responsibly advancing our products with these technologies with the goal of enriching people's lives…And as you know, we tend to announce things as they come to market, and that's our MO, and I'd like to stick to that.
+37And now suddenly is accelerating
+Ambitious & flush with cash, young companies and big tech playersare all rushing into this next platform shift38Hundreds of startups pile into genAI
+39Source: CB Insights —Generative AI Market MapCommercial genAIapplications are proliferatingGenerative AI Market Map
+Explore the full map
+40
+Source: CB Insights —Generative AI Market Map300+ vendors have emerged across: 
+GENAI LANDSCAPE LAYERS
+•Cross-industry generative applications (visual media, text generation, code generation, etc.)•Industry-specific generative applications (healthcare, finance, etc.)•GenerativeAI infrastructure (foundationalmodels, vectordatabases, etc.)41
+Funding soars as investors flock
+42Source: CB Insights —The state of generative AI in 7 charts; Deals StoryAs investors look to ride the generative AI wave, funding soars in 2023Disclosed equity funding & deals (as of 9/30/2023)
+$1.7B$0.7B$5.3B$3.2BFunding$17.4B
+64
+103
+154
+168
+Deals
+170
+020406080100120140160180
+$0 .0 B$2 .0 B$4 .0 B$6 .0 B$8 .0 B$1 0. 0B$1 2. 0B$1 4. 0B$1 6. 0B$1 8. 0B$2 0. 0B
+20192020202120222023 YTD43Source: CB Insights —The state of generative AI in 7 chartsGenerative AI infrastructure attracts the bulk of funding, due to the capital-intensive nature of developing LLMsDisclosed equity funding & deals to generative AI categories, from Q4’22 to Q3’23
+$0.8B$5.5B$11.6B
+48 deals129 deals30 dealsGenerative AI infrastructure
+Industry-specific generative applicationsCross-industry generative applicationsFundingDeals44Source: CB Insights —Advanced Search -DealsA record number of $100M+ mega-rounds drive funding surge, with money primarily going to infrastructure layerDisclosed $100M+ genAIequity deals (as of 9/30/2023)
+4
+1
+9
+8
+Mega
+-
+rounds
+20
+0510152025
+00. 10. 20. 30. 40. 50. 60. 70. 80. 91
+20192020202120222023 YTD45Source: CB Insights  Alongside big deals, generative AI is minting unicornsleft and rightNew unicorns ($1B+ valuation), Q1’23 —Q3’23
+CompanyValuationCountry1$4.4BUnited States2$2.2BCanada3$1.5BUnited States4$1.4BIsrael5$1.2BUnited States6$1.0BUnited States6$1.0BUnited States6$1.0BUnited Kingdom6$1.0BUnited States6$1.0BUnited States6$1.0BChina
+46Source: CB Insights —State of AI Q3'23 ReportOut of the 16 new AI unicorns in 2023 so far, 11 are genAIcompaniesNew AI unicorns ($1B+ valuation)
+333421241614141426574051015202530
+Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q32020202120222023AI unicorns2023 genAIunicorns
+35347Source: CB Insights —Advanced Search -Deals Biggest M&A deal of 2023 lands in infrastructure, but the rest of M&A reflects push at the industry/application levelGenerative AI M&A exits, Q1’23 —Q3’23
+CompanyRound ValuationAcquirerGenAIFocus AreaCountry1MosaicML$1.3BDatabricksInfrastructureUnited States2InstaDeep$125MBioNTechHealthcare & life sciencesUnited Kingdom3Casetext$650MThomson ReutersLegalUnited States4Light Year AI$234MMeituanInfrastructureChina5Valence$47MRecursionHealthcare & life sciencesCanadaNeevaN/ASnowflakeEnterprise techUnited StatesThankfulN/AGladlyEnterprise techUnited StatesFigN/AAmazon Web ServicesEnterprise techUnited StatesCodigaN/ADatadogEnterprise techUnited States48Source: CB Insights —Advanced Search -DealsThe US is poised to own the genAIboom: 2x more deals in the USthan the rest of the world combinedDisclosed generative AI equity deals to startups by company HQ, Q4’22 —Q3’23
+64143
+02040608010 012 014 016 0Rest of worldUnited States4939%13%12%1%19%16%Seed, pre-seed, angel, &convertible noteSeries ASeries B & CSeries D+Not raised outside fundingOtherSource: CB Insights —The state of generative AI in 7 charts*Other includes non-equity funding rounds and equity rounds not tied to specific stage of investment.But it's still early days for genAIstartups —71% are early-stage or haven't raised any fundingPercent of companies by latest disclosed round (as of 9/30/2023)
+17 
++66%
+50
+Big tech is all in and ready to fight51Source: CB Insights *Includes investments from M12 and Google Ventures**AWSGenerative AI is a new battleground for big tech, with overlapping alliances and commitments into the billionsGenerative AI companies with two or more big tech investors (as of 9/30/2023)
+1,646+370%
+Hugging FaceAdeptAI21 LabsAnthropicInflection AIInworld AIOpenAIRunwaySynthesiaTypefaceBig tech investors
+**Company
+Indicates where big tech invested52Source: CB Insights —Advanced Search -Deals*Big tech includes Amazon, Apple, Microsoft, Meta, Google, and NvidiaBig tech backs every top deal in 2023 so far, with other CVCs & corporates joining the action Top generative AI equity deals, Q1’23 —Q3’23
+1,646+370%175 
++661%
+CompanyRound AmountRoundDateRound ValuationBig Tech InvestorsOther SelectInvestorsCountry1OpenAI$10.0BCorporate Minority -III2023-01-23N/AMicrosoftUnited States2Inflection AI$1.3BSeries B2023-06-29$4.0BMicrosoft, Nvidia Gates FrontierUnited States3Anthropic$1.25BCorporate Minority -V2023-09-25N/AAmazonUnited States4Anthropic$450MSeries C2023-05-23$4.1BGoogleMenloVentures, SK telecomventures, Salesforce Ventures, Zoom VenturesUnited States5Anthropic$400MCorporate Minority2023-02-03$4.1BGoogleUnited States6Adept$350MSeries B2023-03-14$1.0BMicrosoft, NvidiaGeneral Catalyst, Spark Capital, Atlassian Ventures, Workday Ventures, Greylock PartnersUnited States7Generate Biomedicines$273MSeries C2023-09-14N/ANVenturesAbu Dhabi Investment Authority, Amgen, Fidelity Investments, Flagship Pioneering, MAPS CapitalUnited States8Cohere$270MSeries B2023-05-02$2.2BNvidiaInoviaCapital, Index Ventures, Oracle, Salesforce Ventures, SentinelOneCanada9Hugging Face$235MSeries D2023-08-23$4.5BAmazon, Google Ventures, NVenturesSalesforce Ventures, AMD, IBM Ventures, Intel Capital, Qualcomm VenturesFrance10Imbue$200MSeries B2023-09-07$1.0BNvidiaAsteraInstituteUnited States53Source: CB Insights —Nvidia company profile –investmentsNvidia increases its investment activity dramatically... Equity deals backed by Nvidia (as of 10/25/2023)
+2
+3
+9
+7
+Deals
+17
+024681012141618
+00. 10. 20. 30. 40. 50. 60. 70. 80. 91
+20192020202120222023 YTD54Source: CB Insights —Advanced Search -Deals …becoming the most active investor in generative AITop generative AI investors by company count, Q1’23 —Q3’23
+InvestorCompany CountInvestor GroupCountry1Nvidia9CorpUnited States2SV Angel7AngelUnited States3Salesforce Ventures6CVCUnited States3IndexVentures6VCUnited States3Andreessen Horowitz6VCUnited States6GV (Google Ventures)5CVCUnited States7Microsoft4CorpUnited States7Sequoia Capital4VCUnited States7Lightspeed Venture Partners4VCUnited States55Source: Inflection AI; CB Insights —Advanced Search -DealsThe dominant chipmaker is cashing in on the genAIcomputing boom, backing startups using its chips…Nvidia-backed equity deals to generative AI companies (as of 9/30/2023)
+56Source: CB Insights —Advanced Search –Earnings transcripts*Reflects quarter call occurred…as demand for Nvidia GPUs far exceeds supplyIf you're trying to do the training of the models, then having the absolute latest, greatest GPU, the H100 from Nvidia right now, there's a lot of constraint in getting those chips.CEO Matthew Prince, Q3’23 earnings callThere is [a] significant bottleneck in terms of Nvidia’s GPU chips…in short, the demand far exceeds the supply in the market.And that is not the situation for us as one company, it is a general situation for the industry…We had originally expected the revenue from AIto be shown in our financials in the third quarter and that is likely to be delayed due to the shortage of supply of GPU serversthrough the fourth quarter or even the first quarter of 2024.CEO Tao ZouQ3’23 earnings call 
+57Source: CB Insights —Advanced Search -Deals*Includes deals backed by Microsoft’s venture arm M12 Microsoft steps up its genAIinvestment activity beyond its $13B invested in OpenAI…Microsoft-backed equity deals to generative AI companies (as of 9/30/2023)
+1,646+370%
+58
+...betting thatgenerative AIcould tip the competitive scales in its favor for decades to come
+Source: CB Insights —Analyzing Microsoft’s generative AI strategy: How Microsoft is expanding past OpenAI to transform the way we work
+Microsoft Investment Thesis Map –Generative AI59Source: MicrosoftMicrosoft’s investments in genAIhelp reverse slowing Azure growth and contribute to 3 percentage point bumpAzure and other cloud services revenue growth (year-over-year) by quarter
+59%62%59%47%48%50%50%51%50%46%46%40%35%31%27%26%29%
+0%10 %20 %30 %40 %50 %60 %70 %
+Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1FY 2020FY 2021FY 2022FY 2023FY 202460Source: CB Insights —Advanced Search -Deals*Includes investments by Google, Google Ventures, and Gradient VenturesAlongside its Bard chatbot, Google puts billions toward internal AI research & a range of AI startupsGoogle-backed equity deals to generative AI startups (as of 10/27/2023)
+1,646+370%
+61Source: CB Insights —Anthropic company profile -fundingAmazon and Google commit billions to LLM developer Anthropic in battle with OpenAI-backer Microsoft   
+1,646+370%175 
++661%
+62Amazon launches $100M generative AI accelerator, looking to feed its cloud computing businessAWS Generative AI Accelerator Investment Thesis Map
+Share of genAIaccelerator cohort
+Source: CB Insights —Where the AWS Generative AI accelerator is placing its bets across 7 industries63So where is genAIheaded?
+1.Race to dominate genAIinfrastructure2.Cross-industry applications face pressure from large players3.Opportunity in vertical genAIGenerative AI will soon be impossible to ignore as disruptive applications spread64No clear winner yet in foundational models
+1. Race to dominate genAIinfrastructure65Source: CB Insights —The state of generative AI in 7 chartsHighest-valued genAIunicorns compete primarily at the infrastructure layerMost highly valued private generative AI companies (as of 09/30/2023)
+$1.4B$1.5B$1.5B$1.8B$2.1B$4.0B$4.1B$4.5B$7.3B$29.0B
+$0 M$5 ,00 0M$1 0,0 00 M$1 5,0 00 M$2 0,0 00 M$2 5,0 00 M$3 0,0 00 MCompany 10Company 9Company 8Company 7Company 6Company  5Company 4Company 3Company 2Company 1
+66
+Source: CB Insights —Generative AI —large language model developers market report
+4 LLM developers –Anthropic, Cohere, AI21 Labs, and Adept –join the unicorn club in 2023Leading LLM developers by valuation (as of 09/30/2023)67Source: CB Insights —Generative AI —large language model developers market report -scorecardWhile OpenAIhas clear lead, vendors are competing on multiple fronts to become the go-to model developer
+1,646+370%
+Key KPIs for evaluationSafety & complianceAccuracy & qualityCustomizationPricing & deploymentToken limits
+68Source: CB Insights —Advanced Search -Earnings transcripts*Reflects quarter call occurredExecutive interest in AI has surged
+Enterprise demand for AI and accelerated computing is strong.We are seeing momentum in verticals such as automotive, financial services, healthcare, and telecom, where AI and accelerated computing are quickly becoming integral to customers' innovation roadmaps andcompetitive positioning.CFO Colette KressQ2’23 earnings call69Source: CB Insights —Software buyer interview transcripts and Analyst Briefing dataEnterprises are spending millions with LLM developers…Annual spend ranges displayed
+$100K -$500K$20K -$2M$25K -$300K$50K -$100K$15K -$800K$40K -$5M70Source:CB Insights —MosaicML software buyer interview transcripts  
+…but reducing costs & time to train are key prioritiesMosaic ML offers what's called programmatic optimization, which is not so much on the hardware side of things, but rather on the algorithmic side. Can you find ways of optimizing the time it takes to get to a certain performance bar?I think that's really what drove us to evaluate MosaicML. In fact, it was pretty much the main tool out there right now that offers this. I don't think there's any other tool that really has this programmatic optimization layer. Senior Manager, Data Science,$1B+ valuation technology companyOne of the things that we're really trying to do is reduce the cost for a lot of our large language models and training…What we liked about Mosaic was it is a lot less expensive in terms of the training models…Right now, I would project, just based on our usage, I think the initial spend was $15,000 per annum. I would expect next year to probably be $200,000, $250,000. We're a very large organization and there's been a lot of interest in MosaicML.Vice President, Innovation,Fortune Global 500 company
+71Source: CB Insights —Cohere software buyer interview transcript; Anthropic software buyer interview transcriptSafety & compliance will be in focus for enterprise customers
+72Source: CB Insights —The responsible AI market mapConcern around AI risks puts responsible AI solutions in the spotlightThese tools help enterprises build and deploy AI in an ethical and legal manner175 
++661%
+73Source: CB Insights —Figures represent the latest disclosed revenue (based on company discussion or media sources). All revenues are full-year 2023 ARR projections, expect for MosaicML(reported ARR at time of acquisition in June 2023).As LLM developers burn through cash, focus will shift to customer adoption —and revenueLatest disclosed or whisper revenue (as of 10/18/2023)$1,300M
+$200M$50M$40M$20M$10MCompany ACompany BCompany CCompany DCompany ECompany F
+74Source: CB Insights —Figures represent the latest disclosed valuation divided by revenue (based on company discussion or media sources). All revenues are full-year 2023 ARR projections, except for MosaicML(reported ARR at time of acquisition in June 2023).Companies need to grow into big valuations and will come under pressure to build real business modelsRevenue multiples (as of 10/18/2023)113x100x65x28x22x21xCompany ACompany BCompany CCompany DCompany ECompany F
+75Source: CB Insights —Anthropic, AI21 Labs, OpenAIsoftware buyer transcripts   There’s no winner yet in foundational models
+Strengths, I would say, the ethical considerations of privacy and bias, fairness…their model outperformed the other models, including GPT-3 and ChatGPT…In terms of weaknesses, the specificity of the model output and the interestingness of the model output… I think that other weakness also was in terms of speed and efficiency, like latency, and once you ask a question, how long does it take to fully respond.Senior Manager of Data Science,Model-as-a-service platformWe were considering obviously OpenAI, Cohere, Anthropic, and deepset…To be honest, the reason that we actually chose AI21 is because the interface is super easy to use for non-tech people…I actually tested Cohere pretty extensively…I think that their models are really strong and also for some of the creative work, I thought they were doing slightly even better than even OpenAI when it comes to creative stuff, like ad copy and marketing related tasks. Head of AI,$100M+ funded technology startupThe first two things that came to my mind is, of course, OpenAI is still the market leader. That gives us the sense of comfort and we are confident on this market-leading product…On the flip side of the open-source platforms that I just mentioned, theHugging Face and the Llama 2, we don't have much faith and information about how they are going to deal with our data. That's the key to the enterprise world. If we are not certain, then I would rather pass my roles to OpenAI.Cloud, Data & AI Lead,Fortune 500 company
+76
+Open-source AI movement gains steam1. Race to dominate genAIinfrastructure77Source: CB Insights —Advanced Search -News mentions*The open-source approach to AI development is focused on making source code available for public use and allowing a community of developers to contribute to improving software. Need for AI model transparency and rapid innovation is fueling the open-source AI movementNews mentions of open-source AI and related terms (as of 9/30/2023)
+1,646+370%175 
++661%
+78Source: CB Insights —Advanced Search -Earnings transcripts*Reflects quarter call occurredMeta is leveling the playing field with its open-source LLM, Llama 2
+175 
++661%
+Notably, we recently announced a collaboration with Meta on Llama 2-based AI implementationson flagship smartphones and PCs that will enable developers to create new and exciting genAIapplications using the AI capabilities of Snapdragon platforms beginning in 2024. 
+Qualcomm CEO Cristiano AmonQ3’23 earnings callAzure AI is ushering in newborn-in-the-cloud, AI-first workloads with the best selection of frontier and open models, including Meta's recent announcements supporting Llama on Azure and Windows, as well as OpenAI.Microsoft CEO Satya NadellaQ3’23 earnings callAI is the flavor of the day. And thanks to ChatGPT’sgreat launch, everyone has discovered this potential. We can expect new changes by the day in the tech world. Just take yesterday, Meta’s launch of Llama 2, which will be available on Azure free of charge, including for commercial purposes.Publicis CEO Arthur SadounQ3’23 earnings call
+79
+Source: CB Insights —Generative AI –Large language model developers market reportThe private market is split into open vs. closedDisclosed equity funding to LLM developers (as of 10/27/2023)
+Closed-source LLMsOpen-source LLMs
+*Some developers may offer open-source versions of their models but keep their core models proprietary*Excludes open-source developers that have not raised equity funding
+80Source: CB Insights —OpenAI software buyer interview transcriptsOpenAIcustomers highlight potential cost-savings, customizability benefits of open-source models –though OpenAIhas the edge on performance & supportOpenAI’sdeveloper API and the developer experience is definitely the best. It's really managed, super clean APIs, well-documented, and has the most integrations. There was a big push toward using open-source models and then fine-tuning them with your own data. That's still a big thing. We're actually evaluating that for some of the public data set stuff because it's a lot cheaper, especially if you add in more huge amounts of data versus a giant OpenAImodel.Partner, Early-stage VC firm
+Meta's invention… it may be cheaper than the OpenAI[model] because it's open-source. Then we believe the performance of the Hugging Face and also the Llama 2 is also comparable to the OpenAI[model]. Maybe just a little bit weaker than that, but maybe the overall…ROI is quite a good deal.VP, Machine Learning, Fortune 500 company
+81Databricks pays $1.3B for MosaicML, which makes AI development tools and has its own open-source model, in June 2023
+Source: CB Insights —Databricks acquired Mosaic ML for $1.3B. How do the valuations of other generative AI companies compare?$20M in FY’22 revenue (65x multiple)
+82Source: CB Insights —The open-source AI development market map Growing number of vendors are developing open-source tools to help enterprises build and deploy AI projectsOpen-source AI development market map175 
++661%
+83
+LLM infrastructure market grows rapidly
+1. Race to dominate genAIinfrastructure84Source: CB Insights —The large language model operations (LLMOps) market map*LLMOpsrefers to the end-to-end workflow that organizations employ to build, fine-tune, and deploy LLMs into production.Tech vendors supporting LLM operations are gaining traction with enterprisesLLMOpsmarket map175 
++661%
+85Source: CB Insights —Snorkel AI software buyer interview transcript, Fiddler AI software buyer interview transcriptExecs are buying infrastructure tools for better training data, observing performance of models, and moreWe had, basically, messy data and we needed a better way of providing, of doing better training data for generative content... We have a lot of machine learning models that are fueling us here. In both cases, it was the desire to have, basically, a higher level of data hygiene in our training data.Chief Product Officer, IT companyI led a small data science team that created a lot of models in production. As we scaled, our observability of our machine learning models in production was limited, and we felt blind to issues or ways to improve the model once in production. We tried to build a solution in-house, which showed the difficulty of the challenge.Senior Manager, $10M+ funded data analytics platform
+86Source: CB Insights –LLM application development market reportNew vendors are emerging for LLM fine-tuning & customizationLeading LLM application development vendors by disclosed equity funding (as of 10/30/2023) 
+87Source: CB Insights –Vector database market report*Vector databases provide enterprises with an easy way to store, search, and index unstructured data.Vector database startups, which make data more accessible for AI systems, raise record funding amid LLM boomDisclosed equity funding and deals (as of 9/30/2023)
+$44M$10M$109MFunding$176M
+0
+2
+1
+7
+Deals
+5
+01234567
+$0 M$2 0M$4 0M$6 0M$8 0M$1 00 M$1 20 M$1 40 M$1 60 M$1 80 M$2 00 M
+20192020202120222023 YTD882. Cross-industry applications face pressure from large players89Source: CB Insights —Sourcegraph software buyer interview transcript; SlashNext software buyer interview transcriptExecs are demanding their tech vendors keep up with genAIadvances and opportunities  
+From a technical perspective, I think this wave of ChatGPTand OpenAIlarge language models is going to open up a lot of opportunities for Sourcegraphbecause they already have a lot of the code and can say, "We'll take a customized model, throw in your code, and give you super good suggestions for your developers." So I think that's an area that is super interesting. And again, they have to compete with GitHub, which already has Copilot.VP, Technologyat Publicly traded e-commerce companySlashNextis working on a generative AI-based solution, which means it will generate its own kind of phishing and malware and it will train the software to automatically be aware of any new kind of threats arriving in the market. So even if tomorrow some human is creating a new kind of malware or any other software is creating some new kind of phishing or ransomware, because SlashNextis based on AI, it is already aware of these kinds of changes and it will be able to detect them before any other software can do so. That is a differentiator from the technology perspective.Senior Design Engineer at Fortune 500 company
+90Source: CB Insights —The state of generative AI in 7 chartsGenerative interfaces, like Anthropic’sAI assistant Claude, lead in funding among cross-industry toolsDistribution of generative AI funding, Q3’22 —Q2’23
+1,646+370%175 
++661%
+*Based on an analysis of 210+ generative AI companies building cross-industry solutions; excludes deals to industry-specific companies and model developers such as OpenAI. 91Source: CB Insights —Mutiny company profile -headcount; Jasper software buyer interview transcriptGrowing competition is a threat to vendors in some cross-industry markets, like text generation & editing
+So in this newly emerging world of generative AI it's hard to keep up with all the changes that are going on. It's probably not fair to ask this, but I'll say it: Jasper needs to stay up to date faster to make me a definite yes to renew.We need to look at their pricing model to make sure, as I'm beginning to use it more and more at a higher and higher scale, that it keeps working and the price remains right for me. I'm seeing other lower cost options; the price of calls to GPT-3, for example, has gone down to really minimal numbers. It might be harder to say yes to a renewal when we're due next year, so I'll have to really see that our people have picked this up and are finding great value.C-level executive at $10M+ funded research platform
+Mutiny and Jasper announce layoffs92Source: CB Insights —Generative AI —legal case search & summarization;Virtual medical scribes & summarization toolsWatch for vendors to scramble to build defensible moats in specialized areas
+93Drive growthImprove customer experienceReduce costs & riskHealthcare & life sciences•Copilots for doctors automate tedious tasks & improve EHR documentation•De-noise radiology scans•AI companions address well-being & mental health•Synthetic patient data protects patient privacy•GenAI drug discovery & design reduces time-to-market•Biomedical NLP supports clinical decision-makingFinancial services & insurance•GenAI assistants analyze & synthesize financial data at scale•Automated underwriting decisions•GenAI chatbots simplify day-to-day financial tasks•Personalized interactions in insurance sales process•Synthetic training data improves financial models & ensures compliance•Pattern identification in unstructured claims filings to minimize lossesRetail•LLM-powered search improves conversion•Smarter, more relevant search•Personalized avatars•GenAI automates product catalogs•Synthetic humans save on model costsHow generative AI is going to be used to… Industry3. Opportunity in vertical genAI943. Opportunity in vertical genAIHealthcare & life sciences
+95Health systems and pharma players are using genAIto scale everything from drug design to EHR documentation
+Source: CB Insights —7 applications of generative AI in healthcareHEALTHCARE & LIFE SCIENCES96CB Insights —Understanding generative AI’s potential in healthcare -webinarAI expertise is a necessity in sectors like pharma to reduce time-to-marketSelect generative AI drug discovery & design exits in 2023
+HEALTHCARE & LIFE SCIENCES
+Acquired by Recursion Pharma in May 2023
+Acquired by BioNTech in January 2023
+Filed for Hong Kong IPO in June 202397Source: CB Insights —Virtual scribes & summarization tools market report –ESP,Generative AI copilots for doctors have raised more than $240MGenAIcopilots for doctors automate tedious tasks like note-taking
+HEALTHCARE & LIFE SCIENCES98Source: CB Insights —Corti Analyst Briefing; Virtual scribes & summarization tools market report Up-and-comerCorti raises $60M Series B in September 2023, taking on Microsoft’s Nuance 
+HEALTHCARE & LIFE SCIENCES
+99Source: CB Insights –AI companions market reportApplications to enhance well-being and mental health emerge, including AI-generated music, VR landscapes, and companionsTop-funded companies developing AI companions (as of 10/30/2023)
+1,646+370%175 
++661%
+HEALTHCARE & LIFE SCIENCES
+100Source: CB Insights —OpenAI software buyer interview transcript, Cohere software buyer interview transcriptEHR workflows are ripe for LLM disruption, from document search to summarization to suggested diagnosesI can potentially ask ChatGPT, hey,does this person have out of network coverage and is this person eligible for spine surgery or something like that? Then, we are having to look at multiple documents and you don't know where to look, essentially, and you're essentially just giving the combination of all these documents as an input to ChatGPT.VP, Machine Learning, Fortune 500 company
+HEALTHCARE & LIFE SCIENCES
+We have tens of thousands, if not hundreds of thousands, of patients on our devices. We have device populations in the millions... For service and operations, there's a high demand in terms of the support that they can give to a patient if they're in a trial or if they're just going about their day-to-day life on therapy, on one of these devices…So, why we were investigating these chatbots was to lower their cognitive burden so that 10:1, 5:1 ratio could be equalized.Sr. Research Engineer, Fortune 500 company
+101Source: CB Insights —OpenAI software buyer interview transcriptBundling genAItools with existing cloud subscriptions is giving big tech companies an advantage with market reachAdvantage is with, for example, John Snow Labs, it's a very sort of clinically trained model... It's not just trained on wiki pages or like general text. In that sense, I think it's much better…in terms of entity recognition and things like that.But the limitations, I would think, are these models are not getting trained on the volume of data anywhere as close to what ChatGPTis trained on… It [OpenAIdeployment] was pretty minimal overhead… the goal… is to essentially enable the use of ML tools that are available from the Azure subscription at the Enterprise level…VP, Machine Learning, Fortune 500 company
+HEALTHCARE & LIFE SCIENCES
+102Source: Company research & announcementsVendors will compete to license real-world datasets to build genAImodels tailored for the healthcare industryHEALTHCARE & LIFE SCIENCES
+GenAI for imaging trained on X-rays and radiology reportsLLM trained on 2M patients’ clinical notesLLM trained on 10 years of health records and 400K patients’ clinical notes
+103Source: CB Insights —Cohere software buyer interview transcriptPrivacy and data handling practices will be major issues as the market matures
+1,646+370%175 
++661%
+HEALTHCARE & LIFE SCIENCES104Source: CB Insights —Generative AI Expert CollectionExpect healthcare-focused genAIvendors to lean into data security as a point of differentiation
+1,646+370%
+HEALTHCARE & LIFE SCIENCES1053. Opportunity in vertical genAI
+Financial services & insurance
+106In financial services, generative AI will automate tasks and transform how organizations use financial data
+Source: CB Insights —3 applications of generative AI in financial services FINANCIAL SERVICES & INSURANCE107Insurers are using genAIto drive more personalized customer experiences and internal automation efforts 
+Source: CB Insights —3 applications of generative AI in insuranceFINANCIAL SERVICES & INSURANCE108Source: CB Insights —business relationships and news mentions; company websites and press releasesFinservincumbents are experimenting with generative AI; prime use cases indocument summarization & extraction 
+1,646+370%175 
++661%
+FINANCIAL SERVICES & INSURANCE109Source: CB Insights —Advanced Search -Earnings transcripts*Reflects quarter call occurredGenerative AI will automate & enhance underwritingWe are on the large language models and the potential benefit that that will ultimately bring beyond algorithmic, particularly in underwriting and claimsand the ability to work —either replace work that is done or make it more accurate, or work alongside underwriters.Chubb CEO Evan GreenbergQ2’23 earnings callFINANCIAL SERVICES & INSURANCE
+110Source: CB Insights news mentions —Bloomberg, JP Morgan Chase, IntuitIncumbents with access to vast financial data & resources will develop LLMs purpose-built for financial services
+FINANCIAL SERVICES & INSURANCE
+Bloomberg is developing BloombergGPT–an LLM built for financial tasks like sentiment analysis and news classification.Intuit partnered with OpenAI to develop GenOS–a genAIoperating system that will power customer experiences across its product suite. JP Morgan Chase is developing IndexGPT, an AI chatbot for investment advice and selection.
+111Source: CB Insights —Kasisto Analyst Briefing; Cognaize software buyer interview transcriptB2B fintechsdeveloping genAItools across compliance, document processing, and chatbots land big-name customers
+FINANCIAL SERVICES & INSURANCE
+Cognaize'ssolution had better accuracy, evolution, AI and machine learning capabilities, and user interface than the other vendors we considered… Cognaizeis integral to our workflow as they provide a tool that our team uses to extract relevant data from public documents and map it to our templates.Senior Vice President, Publicly traded financial management company
+1123. Opportunity in vertical genAI
+Retail113GenAIuse cases in retail will cut costs and create more engaging content
+Source: CB Insights —6 applications of generative AI in retail RETAIL114Source: Company announcementsE-commerce search is getting smarter, with retailers developing search powered by ChatGPT
+RETAIL
+Recommendations, product attributes, dietary considerationsHelp choosing items based on budget, food constraints, menu ideas
+115Source: Company announcements; CB Insights —AX Semantics software buyer interview transcriptPlatforms will move quickly to revamp text on product pages & automate product catalogs with genAI
+RETAIL
+Shopify Magic generates, revises, and expands product descriptionsScans customer reviews and generates a summary We have a custom contract with AX Semantics that contains the usage of the platform itself, as well as extended customer support. Our contract allows us to create automated texts in nine languages for different channels, such as the product description on the web shop or the catalog, search engine optimized texts for our category sites, and also content for social media.Manager, Manufacturing company
+116Source: CB Insights —Generative AI –e-commerce search market report; Algoliasoftware buyer interview transcriptSpecialized search vendors are moving fast to catch up, with a focus on relevance to drive conversionLeading e-commerce search vendors by equity funding (as of 9/30/2023)
+RETAIL
+We ended up rebuilding our entire catalog infrastructure using Algolia…Visual merchandising and all the rules that come with it was a big important feature that we really wanted. …Until I met Algoliafor the first time, I have never seen a search engine of that scale that was not Google or Bing or Yahoo operate that quickly.Head of Digital Product, E-commerce company
+117Source: CB Insights —Generative AI –synthetic humans & fashion design market reportLeading brands are working with genAIvendors to create personalized avatars and diverse models at scale
+RETAIL118Source: CB Insights —The generative AI in retail market mapRetail-specific genAIsolutions improve digital shopping operations, engagement, and conversion
+1,646+370%175 
++661%
+RETAIL
+119Promising companies to watch
+120Source: CB Insights —Generative AI 50Explore the full list
+We identified the 50 most promising genAIstartupsGenerative AI 50
+121CB Insights helps the world’s leading companies understand everything they need to know about disruptive technologies —find out more about why our customers love us here.
+Explore the CollectionCB Insights customers can find and track every generative AI company mentionedin this report using our analyst-curated Expert Collection

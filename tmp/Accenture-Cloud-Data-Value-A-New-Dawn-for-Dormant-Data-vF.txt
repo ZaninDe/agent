@@ -1,0 +1,364 @@
+A new dawn for dormant data
+Unleash the intrinsic value of enterprise data
+with a strong digital core on cloudSix key practices to 
+extract data’s valueContents
+03 05 09
+12How to get started 
+25 27AppendixMore data means more value…  but more problemsUnlocking next-level  data valueAwaken the dormant data in your organization 
+ 2
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataMore data means more value…
+but more problems 
+Total Enterprise Reinvention is a deliberate strategy that aims to set a new performance frontier for organizations 
+and in most cases, the industries in which they operate. Centered around a strong digital core, it helps drive growth and optimized operations.
+The digital core becomes a primary source of competitive advantage. It leverages the power of cloud, data and AI 
+through an interoperable set of systems across the enterprise that allows for rapid development of new capabilities.Every enterprise knows how important data is—and always has been—to managing day-to-day enterprise operations, making critical decisions, forecasting the future, and reporting on the health of the business. 
+But today’s enterprise data operates on a completely 
+different scale. Over the past decade, data volumes have grown exponentially, while cloud has continued to open up an ever-greater array of advanced data capabilities—especially artificial intelligence (AI) and machine learning (ML)—to ever more organizations. And AI cannot reach its full potential until companies figure out data.The result? Data has become a critical driver of Total Enterprise Reinvention. But it comes with a catch. The data landscape has become far more complex to manage. Unlocking the potential value of data—what we refer to as data's intrinsic value—has become that much harder for most enterprises.
+In fact, Accenture’s research shows that only 25% of 
+organizations are realizing the potential of their data and analytics projects today. For companies that want 
+to harness the power of data for reinvention, the chasm between data aspiration and reality remains wide. Why? 
+ 3
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataData is bigger.  
+The enterprise data landscape 
+is expanding at a speed and scale that can be hard to fathom. Google, for example, processes over 100,000,000 gigabytes of internet data to index and serve web search results.
+1 By 2025, 
+the world is set to produce over 180 zettabytes of data annually (equivalent to about 6.5 billion years of high-definition video). By 2025 the world is expected to be generating 7.0 Petabytes per second (an increase from 2.7 Petabytes of data per second  in 2021).
+2 Data is more complex.  
+Much of the new data being generated is unlike that traditionally handled by enterprise systems. Increasingly, for example, data is created and used at the edge. This data comprises everything from IoT sensor data to user-created data, to unstructured interaction data in virtual metaverse environments, to synthetic data (or artificially created data) created to enable machine learning models, to metadata created specifically to catalog and manage other enterprise data. 30% of data in corporations will be synthetic data which is generated as an alternative to real-life data.
+3 
+Enterprises must manage today’s complexity effectively or run the risk of underutilizing data.Data velocity is faster.  
+For traditional reporting and analysis, periodic and aggregated data (analytical data) is often sufficient, if not preferable. But for AI and ML applications, faster access to operational data is required. As data’s use expands from analyzing the past and predicting the future to making decisions in the here and now, enterprises need to be able to augment analytical data sets with more real-time granular operational data – for training AI models, enabling AI-led decisioning in real-time workflows, and so on. 
+According to Accenture 
+research, however, nearly a third (31%) of executives think their organizations are “not at all” effective at using real-time data, such as that generated from sensors, online activity, and other systems like Point of Sale. Data sharing is now critical. 
+As companies increasingly seek operational and competitive advantage beyond the limits of their first-party data, there is a growing need to share data quickly, safely, and in multiple forms. That includes third-party licensing, consortia, or direct sharing with up/downstream value chain partners. It increases the need to rapidly import, export, and integrate high-quality data in a way that fully accounts for ownership, lineage, quality, and usage rights and policies. However, only 12%—little over one in ten—of executives surveyed by Accenture say their organizations are “highly mature” in data connectivity and interoperability.Data remains siloed. 
+Companies often find themselves unable to control and manage data at scale, meaning they can’t operationalize it and leverage data for strategic purposes. Data is trapped in functional silos and systems—both commercial-off-the shelf and custom systems. These silos hamper their ability to capture, process, and extract value from today’s variety of data types and deliver insights with high agility.
+In fact, Accenture research shows 
+over half (55%) of respondents admit they can’t always trace data from its source to its point of consumption. There’s also a widespread lack of trust in data governance. Only 9% said they 
+“completely” provide multiple secure interface options for users to consume data. And just 18% said they “always” validate data at the point of entry to ensure bad data does not spread downstream.Why the chasm between data aspiration and realization remains wide
+ 4
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataA new dawn for dormant data
+Unlocking next-level data valueUnlocking next-level data value
+These challenges aren’t going away.  
+And until enterprises can manage today’s complexity effectively, much of the data will remain dormant and/or underutilized. Today, transactional data is trapped inside functional silos in the form of both commercial-off-the-shelf and custom systems. As a result, in the past, analytics was functional or departmental (e.g., marketing spend optimization, supply chain efficiency, financial risk analytics). All the while, nimbler market entrants are finding new ways to capture more value from today’s data landscape. Enterprises urgently need a response. 
+Our recommendation? Treating data as a 
+form of enterprise capital is key to the production of wealth and value in the digital age.
+4 
+Businesses have relied on human, intellectual, and financial capital to grow and compete and continue to invest to generate value. Now there is a new form of capital—data—which is essential for businesses to survive and thrive in the digital age. It's why every enterprise needs to take a more strategic and disciplined approach to acquiring, growing, refining, safeguarding, and deploying data. This new world enabled by cloud is about cross-functional, enterprise-grade analytics, relying on data housed in cloud-based warehouses or data lakes. Cross-functional integration brings relevant data to the cloud from different silos, so companies can integrate them in a single, orchestrated view and take advantage of advanced analytics for trending and correlation. 
+Unlocking value is only possible when 
+data breaks free from silos, so all data can be analyzed together in one place or through a distributed computing strategy like data mesh—a prerequisite for enterprises to activate advanced  
+AI/ML.
+"Extracting the full potential 
+of data's intrinsic value 
+begins by rousing enterprise data from its state of dormancy—and releasing the huge volume of latent value waiting to be tapped."
+ 6
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataNow enterprises need to go further.  
+To build a strong digital core on cloud, with data & AI at the center, they should consider three new strategic objectives: 
+Each of these objectives builds on the one before, boosting the attainable value at each step. But everything rests on having the right data foundation in place.  
+And that means focusing on the first objective: extracting data’s intrinsic value. In the rest of this paper, we explain 
+“the how” of achieving this first objective.
+02.
+AI foundation:
+Accelerate the value
+The next step is to expand the value of data by 
+tapping into the growing catalog of pre-built cloud-based AI services, including foundational models. Foundational models, which includes  Large Language Models (LLM), are pre-trained powerful models built from massive amounts of data and are ready to be fine tuned for a myriad of downstream tasks. 
+These applications can solve specific industry 
+problems and enable more rapid value activation.03.
+Embedding AI:
+Create exponentialvalue
+The ultimate goal is to create exponential 
+impact and to embed data intelligence into the digital core of the business and across the enterprise—with rapid AI/ML experimentation, faster paths to production, and a fully mature approach to acquiring, growing, refining, safeguarding, and deploying data. For example, Generative AI, a new class of AI, has the ability to generate new content in human-like ways that will fundamentally transform how information is accessed, work gets done, customer needs are served, and businesses are run.01.
+Data platform: 
+Extract intrinsic value
+Much of today’s data contains untapped intrinsic 
+value. To extract it, enterprises need a thoughtful data migration strategy, a modern enterprise data platform built on cloud, and a trusted, democratized, and reusable set of data products that improve efficiency and speed to insight. In fact, our recommended architectural choice, a low-hanging fruit so to speak, is moving all data from siloed transactional systems to integrated warehouses so that all data can be analyzed efficiently in one place. 
+Focus of this report
+ 7
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.A strong digital core amplifies 
+the role of data & AI in enterprise reinvention 
+1. 
+An infrastructure and security layer:  
+A modern, cloud-based IT foundation that is automated, agile and secure by design.
+2. 
+A data and AI layer:  Where enterprise data becomes accessible at scale, with domain-specific, AI-enabled applications and platforms generating insights for decision-making. This connects and elevates trapped data, helping enterprises to ask new questions and find new answers that drive decision-making and the development of new products.3. 
+An applications and platforms layer: Where new experiences and ways of operating come alive—through modernized and new, custom applications and platforms or replatforming on SaaS.
+5A strong digital core is fundamental to all other strategic needs of an enterprise.  It consists of three layers, intentionally integrated and leveraging the cloud:
+ 8
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataAwaken the dormant data 
+in your organization A new dawn for dormant dataWhen we surveyed C-suite executives at 
+700 of the world's largest organizations, we found an elite group of companies - the top 19% of performers - who excel at capturing value from data.
+These organizations are relatively rare, 
+representing less than one in five (19%) of those surveyed. But the practices they adopt show how tapping into data’s intrinsic value can be used as a competitive differentiator . So, what do 
+they do differently?Data platform: 
+Extract intrinsic value
+1 in 5 (19%)
+companies excel at 
+maximizing value from dataData leaders—those companies that are 
+the most mature practitioners of deriving value from their data (stage 4 maturity, see appendix)—typically coordinate a strong data strategy with their broader data ecosystem. They also democratize their data, creating a portfolio of user-centric data products tailored to how the business is actually structured and operates.
+This helps ensure employees can easily 
+leverage trusted data and analytical tools to create meaningful insights in close to real-time, enabling them to better leverage data’s intrinsic value to open new revenue streams, improve organizational decision-making, and boost operational efficiency.
+As such, they’re able to derive more value, 
+faster, than the competition and have a higher probability of achieving better financial performance, than their peers.
+ 10
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataAccenture made a strategic commitment to build a 
+modern data platform on cloud—a critical part of the strong digital core we needed to make our own business more intelligence-driven.
+By treating data as a product, we’re making information 
+more accessible to our people, giving them the autonomy to quickly explore data and create analytical insights to answer business questions. This reduces their dependency on IT teams to deliver analytics products, providing more ownership and visibility to every team that produces data, ensuring the data is in the hands of the people who know it best. The result? More than 400 TBs of business data is now available to Accenture end users, and we created more than 60 data science projects and 75 predictive analytic models. Users executed high-volume queries 6 times faster than before, and reduced 90% of operational incidents in production environments. 
+Today, through due diligence and careful planning, the 
+global IT organization has completely transformed its analytics platform—reducing overheads, decreasing costs in server storage and providing our people with cutting-edge, advanced analytics.
+Going forward, we continue to transform and strengthen 
+the big data insight capabilities we offer, explore the full value of the cloud ecosystem and open the door to more innovative solutions.Maximizing the intrinsic value of enterprise data
+ 11
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataA new dawn for dormant data
+Six key practices to extract
+data's intrinsic valueSix key practices to extract
+data's intrinsic value 
+Our research reveals six key practices that leading companies use to maximize data's 
+intrinsic value—building a strong digital core with data & AI at the center. 
+1. E xtricate: Free data from silos 
+2. E
+xtend: Expand data mindsets across the Cloud Continuum 
+3. Pr
+oductize: Treat data as a product 
+4. A
+utomate: Adopt data-as-code  
+5.  Democr
+atize: Make high-quality data products available  
+to people 
+6. Publish: Shar
+e data—the new norm 
+ 13
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataBefore using any of these practices, the first step 
+to realizing the best ROI is to break data free from silos. This allows all data to be analyzed together in one place, enabling enterprises to be ready for activating more advanced AI/ML. In the age of anticipating more advanced AI that is capable of generating content and human-like experiences, the importance of this is even higher, because the company's proprietary integrated data will be essential to making the AI work.
+It has become conventional wisdom that it is 
+cloud’s ability to make this low-hanging fruit.  In fact, our survey found: The highest performing 
+companies in our research are 2.4 times more likely to store their data in a specialized modern data platform in the cloud. For the rest, there’s a gap between where 
+companies want to be and where they are today. A significant majority (69%) told us they expect to excel at using the cloud to create value from data platforms by 2024. But just 14% believe they do  so today.
+A major challenge in the past was that analytics 
+were specific to functions with data siloed within fragmented, disjointed ERP, CRM, SCM systems, etc., whereas a data-driven enterprise needs the ability to correlate data across functions.
+Another challenge was that in the past, analytics 
+focused more on looking into the rearview mirror, when the real power of data is looking into the future with certainty and confidence.Extricate: Free data from silosPractice 01
+ 14
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Practice 01
+That's why bringing data to the enterprise level 
+and making it seamless across all functions is a universal need. Having a single, cross-functional, integrated data platform to collect, cleanse, correlate, contextualize, and synthesize heterogeneous forms of data on a real-time  or near real-time basis has not been required  to date.
+Consider how one global pharmaceutical leader 
+was able to accomplish a significant business transformation by unifying data on the cloud. It started with a monumental effort to move all applications and computing infrastructure to AWS. Then the company consolidated and rearchitected its data footprint across multiple databases (including Oracle, Netezza, PostgreSQL server and Databricks), rearchitected its data pipelines, and revamped its reporting landscape with modern business intelligence in the cloud. In total, over 100 TB of data was moved to the cloud, and eight data centers shut down, saving the business millions of dollars. The company’s new data and analytics platform is now helping it rethink patient experiences, how R&D is conducted, and how the workforce innovates. 
+Then there’s Siam Bank. When it became the first 
+bank in its region to adopt the cloud at scale, it was able to use compression techniques to reduce its data storage needs by 60%. Not only that, but it also used automation to reduce manual processes by 40%, improving accuracy and accelerating loan approvals and processing. This helped the bank deliver higher customer satisfaction while simultaneously managing risk. 
+ 15
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Going beyond the foundational power of the 
+cloud, the Cloud Continuum is further enabling organizations to capture new data and forge data-driven solutions that were simply not possible even a few years ago. A paradigm shift is required.
+Companies need newer mechanisms to stretch 
+the boundaries of the organization across the full span of public cloud, private clouds, and, importantly, the edge to capture, manage and process data. This minimizes replication or aggregation and increasingly enables them to activate data “in place” in real time thanks to high bandwidth, low latency network connectivity, and advances like software-defined networks and 5G .   In addition, multi-modal data (including external sources, edge, images, audio) is an imperative for generative AI's foundation models.
+Other key benefits include: 
+•  Cloud power.  An organization's ability 
+to process data, and make inferences and 
+predictions from it, has drastically improved thanks to the advanced algorithms, infinite capacity, and demand elasticity of the cloud.
+•  The right place f or the right data.  With 
+hybrid environments, organizations now enjoy far more choice in which data resides where, and how much, including at the edge. This allows them to optimize data placement to unlock value, reduce cost, and meet sovereignty, privacy, and even sustainability needs. 
+•
+  Federated learning. Organizations can 
+exploit new techniques like federated learning, which allows algorithms to be trained across multiple local data pools without having to move data. This can be used to help AI learn from use cases while protecting the privacy  of users.
+4Extend: Expand data mindsets across the Cloud ContinuumPractice 02
+ 16
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.To fully tap the power of the Cloud Continuum, 
+Accenture is working with Mars, the global leader in confectionary, food, and pet care products and services, to transform and modernize its global manufacturing operations with artificial intelligence (AI), cloud, edge technology and digital twins.
+Accenture and Mars have been trialing digital twins 
+for Mars’ manufacturing operations since late 2020. Applied to its manufacturing plants, digital twins will enable Mars to simulate and validate the results of product and factory adjustments before allocating time and resources in the physical space. The companies tested a digital twin to reduce instances of over-filling packages, a common problem in the food industry. The digital twin gave Mars a bird’s-eye view of the production lines at one of its factories. The twin fed sensor data from manufacturing machinery into a predictive analytics model, which allowed factory line operators to monitor events in real-time and adjust the filling process. Accenture and Mars will work together to apply digital twin technology and models to the company’s manufacturing facilities globally. This will give Mars factory line operators real-time insights into current and predictive performance.Practice 02
+ 17
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Productize: Treat data as a product Practice 03
+What's well understood is strong data management 
+and governance practices help organizations manage and use data on an industrial scale. But organizations can transform their ability to capture data’s intrinsic value by bringing leading-edge practices, processes, and tools together in unison and treating data as a product.
+A data-as-product mindset takes an agile 
+approach to release data products with a rigorous commitment to value, usability, and future releases. Just as for a physical product, it means defining overall standards of product quality, with product requirements around data consolidation, governance, risks, domain expertise, scalability, and performance.But that’s not all. By treating data as a product, a company can also package its data into bundles that are easier to find, use, derive insights from, and build new solutions with. This doesn’t just maximize reusability; it also creates new value through greater adoption and network effects. It means the best data is readily available to improve decision-making right across the business. 
+Relevance is key to making this work in practice. 
+As with any product, data products need to be relevant for their target users—whether data scientists, software engineers, business analysts, plant operators, operations engineers, or senior executives. To do so, companies at stage 4 of data maturity (see appendix) look to provide the right level of “explainability”, while offering an intuitive user experience and delivering appropriate service-level guarantees. What is data as a 
+product?
+It is data packaged with everything 
+someone needs to understand that data such that people across an organization can easily access and apply it to different business challenges. Simply put, it works like a consumer product that facilitates an end business goal through the comprehensive and flexible use of data with the rigor of product development. 
+ 18
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Practice 03
+The wide availability of data products has required 
+companies to go beyond data level governance, and further into product level governance to be more relevant. 
+For example, data product ownership is an 
+example where product governance is relevant. In addition, update interval, business rules and description are equally important. This also refers to the enterprise level, consumption-based governance needs to be put into place before publishing data products in the marketplace. 
+We found that mature data companies are 3.2 
+times more likely to adopt sound enterprise-wide data governance measures, such as data veracity, master data management, treating metadata as an asset, and intelligent data governance. As a result, they’re four times more likely to be confident that their data is of strong quality. For the rest, this is often more aspiration than reality—less than a third of our survey respondents 
+ (29%) said they have “high” 
+trust in their organization’s data. 
+Consider how one UK- based telecom company 
+used enterprise-wide data governance to cement its already strong position in the highly competitive telecoms industry. The company’s data governance initiative covered everything it needed to manage its data well—including data quality, governance, standards, metadata management, security, privacy, access management, and a consistent data operating model across the organization. It empowered employees to work more effectively and consistently with trusted data to optimize business operations, boost efficiency, and help launch new products and services. This includes a propensity use-case that accurately scores sales leads and has helped the company increase conversion rates by 200%.Practice 03
+ 19
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved. 20
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Data-as-code practices
+•  a c ombination of digitalized and 
+automated information management 
+policies
+•
+  s
+upport for streaming/ real-time data
+•
+ da
+ta validation
+•
+ s
+ecure interfaces
+•
+  a s
+elf documenting supply chain
+•
+  a da
+ta protection plan to define, label 
+and control dataAutomate: Adopt data-as-code 
+Agile data-as-code practices allow organizations 
+to achieve DataOps by learning from DevOps. Essentially, apply the same rigorous approach to data that is already widely used for software development, including, in particular, autonomous data management. 
+Rather than simply shuttling data around through 
+traditional data pipelines, data-as-code focuses on ensuring data components are interoperable and reusable, minimizing the movement of data to reduce costs and align with security and sovereignty needs. These kinds of industrialized virtual data pipelines are critical for producing data products efficiently. They also help enhance data quality, lineage, and access, as well as enabling the faster integration of new data sources.This interoperability and reusability enabled by data-as-code are key to unlocking data’s intrinsic value. And, again, it’s an area where mature data companies excel. These organizations are 
+2.9 times more likely on 
+average, to implement data pipeline best practices
+as well as 1.4 times more likely to analyze and 
+connect data across different data systems  (see Figure 1). Practice 04Practice 04
+Consider how one global retailer accelerated 
+and scaled its creation of data products as part of a finance transformation initiative. By taking a data-as-code approach leveraging pre-built modules and templates, the company has seen a 1.5x boost in speed. Configuring new products can now be done programmatically via a metadata-based configuration file for scale and democratized for use via a low-code/no-code interface. Once created, new modules for data quality, technology systems and transformation logic can be productionized into an integrated data supply chain whose health and performance are automatically monitored and tracked via metadata and an audit balance control engine. Using data-as-code, this company can now create data products faster, and users across the business can access the finance data they need via self-service—all through a programmatically auditable and managed approach. Figure 1: Companies at stage 4 of data maturity are more likely to adopt data-as-code best practices
+% of companies within each profile that have adopted each practice completely
+Source: Accenture Research68%
+26%
+41%
+9%
+41%
+13%
+34%
+7%
+21%
+17%
+20%
+6%Data Protection Plan
+Data supply
+chain documented
+Validated data
+Real-time data needs
+Information
+Management policies
+Secure interface
+Data Value Maximizer            Others
+Companies at stage 4 of data maturity Others
+ 21
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved. 22
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Our survey found that 
+mature data companies are 1.4 times more likely 
+than others to create measurable business value from these kinds of insights.Democratize: Make high-quality data products available to people
+Getting the maximum value out of data means 
+putting it in the hands of the people who need it, when they need it, in the way they need it. That entails “democratizing” access to high-quality data products, while efficiently balancing ethical, security, and regulatory requirements—and avoiding data bottlenecks.
+When companies democratize their data by 
+design, they’re better able to uncover new and actionable insights because they’re harnessing the domain experience within the workforce. Democratized data is also a key part of the foundation for using more advanced technologies like AI and ML. For example, a data product that offers insight into a firm’s talent supply can help improve staffing decisions. The same is true of a data product that offers visibility on real-time sales demand. But the ability to feed both these and other data products into an algorithm—one that can, say, pinpoint a worker shortage in a specific area several quarters into the future—can provide a significant edge over competitors.Practice 05 23
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Practice 05
+Within Accenture, we’ve developed our own 
+analytics platform called Navigator, which gives our people access to insights from data products, as well as predictive and prescriptive output from modular analytical products, and scenario planning capabilities. All these metrics are organized visually according to Accenture’s 360° Value framework, so our users understand the context of any insights they’re interacting with. 
+As our portfolio of data products expands, 
+Navigator surfaces ever richer information. And as our library of prescriptive analytical products deepens, we increasingly nudge decision-makers towards insights-driven action. Navigator enables our people to understand where we are, why we’re there, where we’re headed, and what we can do to comprehensively maximize value for the organization. Publish: Share data—the new normPractice 06
+Increasingly, capturing value from data rests on 
+the organization’s ability to ingest and share data with vendors, customers, and other stakeholders in their ecosystems. This allows them to more easily access and integrate first-party, second-party, third-party, and, in some cases, zero-party data.
+6  
+At the same time, new technologies like multi-party computing help reduce the risks associated with sharing confidential data. And industry standards make it easier to design data for interoperability and exchange with outside partners.
+Our survey shows that, while just 20% of 
+companies currently have a data strategy that allows them to collaborate seamlessly across the ecosystem, 48% expect to be able to do so by 2024. As companies develop their data maturity, they will increasingly compete on how well they source, collaborate, and share data products across their ecosystems.
+An example? Look at the Open Subsurface Data 
+Universe (OSDU). This industry-led movement is bringing energy partners together to overcome legacy data challenges, and Accenture is assisting with the industry adoption and scaling up. 
+The OSDU is unlocking data from subsurface wells 
+and surface to power the new business models and workflows needed to pivot the industry to more affordable and cleaner energy. The open-source, cloud-based and technology-agnostic data platform solves for the upstream energy industry's data structure, and Accenture has contributed a knowledge graph that connects OSDU trusted data across the ecosystem.This connects wells and seismic data to a digital twin, overlaying historical and real-time views, all serving as a foundation for ML and AI. The OSDU is an ecosystem approach to defining a common journey to cloud, providing data models that reduce friction, remove silos and accelerate collaboration and innovation.
+ 24
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.How to get started A new dawn for dormant dataEvery organization aspires to capture 
+more value from data. But doing so in practice is still a major challenge for many. In fact, less than one in five organizations are maximizing value from data. What’s more, these organizations tend to be clustered in key industries, such as communications/media, utilities, finance, and digital technology. 
+This means the vast majority of companies 
+— more than four in every five — are likely to have significant pools of untapped value in their data, with many still relying on siloed teams to create customized data pipelines that cannot easily be repurposed.
+The journey to extracting data’s intrinsic 
+value starts with mastering the six data practices described above. But that isn’t the end destination by any means. Companies then need to move on to more advanced strategic data capabilities— accelerating data value through the Cloud Continuum and creating exponential business value by embedding advanced AI. 
+This includes building decentralized data 
+meshes tailored to the age of the Cloud Continuum, where enterprise data resides everywhere and anywhere. It includes deploying workflows that empower teams to experiment more quickly with AI, with a faster path to production. And it means extending AI’s remit from ‘do existing things better’ to ‘do entirely new things’ and create new business value – including building new AI models itself. These capabilities will be explored in subsequent papers. 
+All these steps will help companies 
+amplify the role of data & AI in enterprise reinvention, with a strong digital core that maximizes data's full, intrinsic value.
+That begins by rousing enterprise 
+data from its state of dormancy—and releasing the huge volume of latent value waiting to be tapped. 
+Set enterprise data 
+free, build a strong digital core on cloud and unleash data's intrinsic value for enterprise reinvention.How to get started 
+ 26
+Copyright © 2023 Accenture. All rights reserved.
+A new dawn for dormant dataSurvey
+From September to November 2021, 
+Accenture surveyed 700 C-suite executives (including Chief Data Officers, Chief Digital Officers, Chief Analytics Officers, Chief Artificial Intelligence Officers, Chief Information Officers, Chief Technology Officers and Chief Strategy Officers) at 700 of the world’s largest companies. Collectively, these companies operate in 12 different industries and are headquartered in 11 different countries. Cloud Data Maturity Index 
+We used these survey responses to build a Data Maturity Index which mapped 135 questions to four principal data maturity dimensions and 12 sub-dimensions. Then, we built an index for each question, in which the most mature answer receives an index of 100, and the least mature an index of 0. Having aggregated these into one total index, with all dimensions and questions weighted equally, we then clustered all surveyed companies into four stages. This was done by making three cuts in the distribution of the total index, one on the average (which is around 46), one on one standard deviation (17) above average, and one on one standard deviation below average. Based on its index level, we then classified each company into one of the four stages (in ascending order of maturity).Appendix
+Figure 2: Index distribution of Data & Analytics Capabilities (0-100)
+30
+25
+20
+15
+10
+5
+0Stage 1
+17%Stage 2 
+38%Stage 3
+26%Stage 4
+19%Number of companies
+Distribution of data index0 25 50 75 100
+Stage 4 companies' financial premium
+To assess a stage 4 companies' financial performance, we performed the following regression model: Revenue growth i = ββ0 + ββ1 Xi + ββ2 Stage 4 companies + ei (i = company, Xi including controls for industry, firm size, and company location). The results are 
+statistically significant, meaning that data driven companies have a higher probability of achieving better financial performance.Four stages of data maturity
+ 27
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Stage 1 
+17% of surveyed companies
+These organizations do not have a 
+formalized data strategy. Instead, their approach to data management and governance is largely manual and occurs in silos. They have inconsistent data definitions, execution, and measurement, as well as high variability of data quality within and across their business areas. These organizations demonstrate a lower degree of overall data maturity.Stage 2 
+38% of surveyed companies
+These organizations have a basic data strategy in place. They show some signs of attempting to establish consistency for their data definitions, execution, and measurement, but their data initiatives tend to be restricted to specific teams. And while they’ve implemented some data management and governance best-practices for storing, accessing, and sharing data, they nevertheless lack a consistent enterprise-wide approach to managing their data.Stage 3 
+26% of surveyed companies
+These organizations have a defined data strategy supporting their business objectives. They have a consistent data-management and governance framework across the enterprise. And they have data standards that are aligned with their business goals, with data users across the organization empowered with data-driven insights that offer measurable value. These organizations have laid much of the groundwork to advance to a stage 4 company. But they are yet to operationalize at scale across the business and automate. Stage 4 
+19% of surveyed companies
+These organizations have a data strategy that informs their overall business and ecosystem strategy. They have standards and metrics that are consistently implemented and automated where appropriate. They have industry-leading data management and governance practices for working across the value chain (internal and external). They have an operating model that scales widespread adoption of data and insights. Their data and analytics are embedded into processes and applications that translate highly actionable insights and recommendations into measurable business value. And they share data with partners responsibly, directly monetizing it to generate revenue and indirectly to improve collaboration and support new business models with partners. Defining the four stages of data maturity
+ 28
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.Karthik Narain
+Lead – Cloud First
+Lan Guan
+Lead – Cloud First, Data & AIMeet the authors
+Research Leads: 
+Praveen Tanguturi, Ph.D., Rahul Raichura, and Yuhui Xiong 
+Contributors: 
+Teresa Tung, Matt Fanno, Andrew Cardegna,  Mark Klinge, Linda King, Matthew Arellano, Scott Lee, Art Gencarelli, Yashodeep Sengupta, Yingchuan Zhu, and Jakub Wiatrak 
+ 29
+A new dawn for dormant data
+Copyright © 2023 Accenture. All rights reserved.About Accenture
+Accenture is a leading global professional services company that helps the world’s leading businesses, 
+governments and other organizations build their digital core, optimize their operations, accelerate revenue growth and enhance citizen services—creating tangible value at speed and scale. We are a talent and innovation led company with 738,000 people serving clients in more than 120 countries. Technology is at the core of change today, and we are one of the world’s leaders in helping drive that change, with strong ecosystem relationships. We combine our strength in technology with unmatched industry experience, functional expertise and global delivery capability. We are uniquely able to deliver tangible outcomes because of our broad range of services, solutions and assets across Strategy & Consulting, Technology, Operations, Industry X and Accenture Song. These capabilities, together with our culture of shared success and commitment to creating 360° value, enable us to help our clients succeed and build trusted, lasting relationships. We measure our success by the 360° value we create for our clients, each other, our shareholders, partners and communities. Visit us at www.accenture.com. 
+Disclaimer
+This content is provided for general information purposes and is not intended to be used in place of consultation with our professional advisors. Copyright © 2023 Accenture. All rights reserved. Accenture and its logo are registered trademarks of Accenture.About Accenture Research
+Accenture Research creates thought leadership about the most pressing business issues organizations face. Combining innovative research techniques, such as data science led analysis, with a deep understanding of industry and technology, our team of 300 researchers in 20 countries publish hundreds of reports, articles and points of view every year. Our thought-provoking research developed with world leading organizations helps our clients embrace change, create value, and deliver on the power of technology and human ingenuity.References
+1    ht tps://www.google.com/search/howsearchworks/
+how-search-works/organizing-information/
+2    W orldwide IDC Global DataSphere Forecast, 2022–
+2026: Enterprise Organizations Driving Most of the Data Growth, May 2022)
+3   From Tech trends 2022
+4   accenture.com/CloudContinuum
+5    accenture.com/us-en/insights/consulting/total-enterprise-reinvention
+6    “Dat a that a customer intentionally and proactively 
+shares with a brand, which can include preference center data, purchase intentions, personal context, and how the individual wants the brand to recognize [them].”  https://www.appier.com/blog/appier-explains-what-is-zero-party-data

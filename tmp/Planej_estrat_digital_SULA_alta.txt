@@ -1,0 +1,1732 @@
+1 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+ > XXXXXXXXXPlanejamento estratégico digital
+2
+Planejamento estratégico digitalObjetivo
+O objetivo deste documento é apresentar um planejamento estratégico  
+completo da presença digital de SulAmérica. Ele será composto por:
+1. DIAGNÓSTICO
+2. ESTRATÉGIA
+3. RECOMENDAÇÕESSumário
+DIAGNÓSTICO
+Avaliação Heurística  
+do portal SulAmérica  
+Navegação 
+Feedback 
+Conteúdo
+Controle
+Consistência
+Resumo
+Análise da concorrência  
+no ambiente digital 
+Comunicação
+Desempenho
+Inovações
+Diagnóstico
+Resumo
+Perfil do consumidor
+ResumoESTRATÉGIA
+Análise de SWOT  
+Proposta de posicionamento  
+A missão da marca  
+A visão da marca  
+Seus valores corporativos
+Posicionamento -  
+Plano Tático  
+O momento zero da verdade  
+A SulAmérica na jornada  
+do consumidorRECOMENDAÇÕES
+Canais no ambiente digital  
+Canais pagos  
+Cenário Atual  
+Definição dos Canais
+Site
+Chat
+Fórum
+SulAmérica.com você
+Redes Sociais06 84
+9055
+62
+71
+14
+3607
+09
+10
+11 
+12
+1391
+96
+97
+98 
+9986
+88
+63
+65 
+70
+74
+81
+15
+19
+20
+30 
+35
+4904 53 83 p. p. p.DIAGNÓSTICO5 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICONeste capítulo, faremos uma avaliação focada em produto ,  
+isto é, em como são apresentados os produtos da marca  
+e de seus concorrentes, tanto no site quanto nos canais oficiais.  
+Em seguida, faremos um overview do perfil do consumidor  
+e seus hábitos baseado nos últimos estudos de mercado.
+• Avaliação heurística do portal SulAmérica
+• Análise da concorrência no ambiente digital
+• Perfil do consumidor6 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA
+Nesta avaliação separada por itens, levamos em consideração os 
+diversos públicos que SulAmérica atende. O resultado está abaixo, 
+categorizado dentro dos pontos de avaliação heurística:
+• Navegação 
+• Feedback 
+• Conteúdo
+• Controle
+• Consistência7 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > NAVEGAÇÃO
+Facilidade que o usuário tem de encontrar o que está buscando.
+PROBLEMA RECOMENDAÇÃO
+Home com destaque excessivo  
+para o conteúdo institucional.Dar mais destaque para produtos e vantagens,  
+que são mais relevantes para os usuários.
+Todas as áreas do site parecem iguais,  
+pois as imagens utilizadas são genéricas  
+e não auxiliam na identificação das páginas.Utilizar imagens e ícones que contextualizem  
+as áreas de forma correta.
+Algumas landing pages de Seguros  
+não informam como adquiri-los,  
+deixando o usuário em um beco sem saída.Todas as landings de Seguros devem ter um call to 
+action (para a contratação/ cotação dos produtos  
+ou para entrar em contato com um corretor).
+Site impõe etapas desnecessárias até chegar  
+à informação desejada, prejudicando  
+a experiência da navegação do usuário.A navegação deve ser simples e direta,  
+para que o usuário não tenha problemas para  
+encontrar as informações que está buscando.8 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > NAVEGAÇÃO
+Facilidade que o usuário tem de encontrar o que está buscando.
+PROBLEMA RECOMENDAÇÃO
+Chamadas para áreas internas com imagem  
+e texto possuem links apenas no texto.Texto e imagem devem ter links.
+Busca traz resultados genéricos, mesmo buscando  
+por itens específicos. Resultado não diferencia  
+notícias de produtos. Alguns links estão quebrados.O resultado tem que ser relevante para  
+a busca feita pelo usuário. Diferenciar  
+os itens do resultado dos itens da busca.
+O usuário pode não perceber que existe um 
+submenu, pois este está espremido abaixo  
+do menu principal, dificultando visualização.O submenu precisa de mais espaço visual  
+para que os usuários consigam percebê-lo.
+A forma como o conteúdo está distribuído  
+dificulta e desestimula a navegação.Organizar o conteúdo com uma hierarquia clara,  
+menus contextualizados para cada área  
+e mais espaço entre os elementos.9 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > FEEDBACK
+Indicações que auxiliam na navegação.
+PROBLEMA RECOMENDAÇÃO
+Os “Canais de atendimento”  
+não parecem ser clicáveis.Precisa receber o mesmo tratamento  
+dos outros links existentes no site.
+No formulário de cotação, o usuário descobre que 
+preencheu algo errado apenas ao tentar enviá-lo.Validar os campos obrigatórios “em linha”  
+facilita o preenchimento do formulário.10 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > CONTEÚDO
+Textos e tipo de linguagem utilizados.
+PROBLEMA RECOMENDAÇÃO
+O formulário de cotação é longo e os labels de 
+alguns campos não estão claros para os usuários.Trocar os labels para que o usuário entenda  
+como preencher o formulário corretamente.
+Os textos são longos e usam termos que  
+não são próximos da realidade dos usuários.Os textos devem ser mais diretos e com  
+uma linguagem que os usuários entendam.
+A falta de conteúdo na área “Prestadores”  
+dificulta seu entendimento.Deveria existir uma página introdutória  
+(como existe para as outras áreas).11 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > CONTROLE
+Usuários devem controlar as interações.
+PROBLEMA RECOMENDAÇÃO
+Durante o preenchimento do formulário  
+de cotação, o sistema altera a data de  
+nascimento do usuário, invertendo o mês  
+pelo dia, resultando sempre em um erro.Este erro deve ser eliminado.12 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > CONSISTÊNCIA
+Os elementos devem ter o mesmo comportamento.
+PROBLEMA RECOMENDAÇÃO
+“Prestadores” possui apenas o submenu, e não uma 
+landing page, como os outros itens do menu. Esta 
+falta de consistência e a forma como o submenu  
+é apresentado podem fazer com que o usuário não 
+perceba que o item “Prestadores” está selecionado.Criar uma landing page para esta área  
+e melhorar a forma de exibir o submenu.13 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > AVALIAÇÃO HEURÍSTICA DO PORTAL SULAMÉRICA > RESUMO
+O problema do site da SulAmérica diz respeito à concepção   
+do site em si. A página está distante das necessidades   
+dos usuários, clientes ou prestadores, o que se agrava  
+no caso de prospects.
+O site pensa SulAmérica e não “cliente” e esse desalinhamento  
+em relação aos usuários ocorre não só em termos de linguagem,  
+mas, principalmente, em termos de mind set,  ou seja,  
+da forma como o usuário final pensa e age em relação  
+à busca de informações e compra da categoria Seguros.14 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL
+Fizemos uma análise  
+de todos os concorrentes 
+de SulAmérica em relação 
+aos canais no ambiente 
+digital, que está resumida 
+ao lado.Concorrentes analisados:
+• Porto Seguro  
+• Itaú-Unibanco  
+• Bradesco  
+• BB Seguros-Mapfre  
+• Zurich-Santander  
+• Caixa Seguros  
+• Allianz
+• Liberty  
+• Tokio Marine  
+• OdontoPrev  
+• Unimed  
+• AmilAspectos levantados  
+para avaliação:
+• Comunicação  
+• Desempenho  
+• Inovações
+• DiagnósticosPremissas15 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > COMUNICAÇÃO
+Seguradoras usam Portais generalistas e pouco empáticos.
+Ao avaliar as marcas concorrentes de SulAmérica, percebemos uma tendência  
+muito clara nos sites: com raras exceções, todos seguem a mesma linha  
+tanto na linguagem quanto no formato e estrutura das informações.  
+Os portais são generalistas e recebem todos os segmentos de usuários  
+com o mesmo ambiente, tom e discurso, expondo todos os públicos  
+ao mesmo conteúdo, para depois segmentarem por produto.
+A navegação é redundante e pouco produtiva. Os menus se repetem,  
+e os “vários caminhos” que levam ao mesmo produto apresentam apenas 
+informações pré-formatadas em uma linguagem que confunde o usuário.
+Na concepção, todos os sites impõem leitura de textos/  
+título + desenhos/ diagramas/ ícones, também numa redundância vazia.
+A linguagem usada é o “segurês” - termos do setor.  
+Exemplo: seguro de auto ou veículo, residencial.16 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > COMUNICAÇÃO
+Canais de atendimento  
+Não são pensados para clientes novos, quanto a vendas.
+Dado o regulatory, o canal corretor é mandatório. Há alguns ensaios 
+de canal online para usuário e canal (corretores), mas que é apenas 
+informativo, não é gerador de lead e não é transacional.
+Porém, nada além das informações básicas, frias e pré-formatadas 
+que já constam nos sites da categoria são oferecidas nos pontos  
+de contato. Dessa forma, esses pontos acabam sendo mais dirigidos 
+a SAC, solução de problemas e atendimento a quem já é cliente 
+(gestão de cliente).17 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > COMUNICAÇÃO
+Tom do conteúdo  
+Estilo de vida, bem estar, alto astral
+As marcas, aparentemente, perderam um pouco seu ar austero  
+e sóbrio, dadas as comunicações das seguradoras que, hoje,  
+usam de humor, quando falam de Seguros de vida, saúde  
+ou automóvel. Ainda assim, o tom é bastante formal  
+e genérico e não fala diretamente com o cotidiano  
+real do público, mesmo de seu cliente atual.
+Na construção do conteúdo dos canais, incluindo os 
+desdobramentos em redes sociais e blogs, as seguradoras adotam 
+uma postura que visa primar pela imagem. Fazem referência  
+a um astral de bem-estar e estilo de vida, buscando um tom  
+mais leve para a categoria Seguros em geral, algo próximo  
+da linguagem usual da categoria do Seguro Saúde.18 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > COMUNICAÇÃO
+Redes Sociais  
+Para a seguradora, são o canal de “mood”  
+e até relacionamento; para o cliente, é o SAC.
+Dentre os canais, as redes sociais, das concorrentes analisadas e  
+da própria SulAmérica, ainda estão aquém das suas possibilidades.
+As redes sociais estão funcionando para todas as seguradoras  
+mais para inspirar um “estilo de vida” do que como ferramenta  
+de relacionamento com o usuário e o target da marca. Já na 
+visão dos usuários, é canal de queixas e solução de problemas. 
+Até corretores usam o canal indevidamente, respondendo a 
+comentários de usuários dentro das postagens das seguradoras.19 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > DESEMPENHO
+No mercado de Seguros,  
+a concorrência se dá por modalidade.
+Dos concorrentes analisados, pode-se dizer que a Amil e a Odontoprev 
+são concorrentes específicos; no universo de saúde e odontologia  
+não competem no mesmo nível com a SulAmérica (grupo).
+Entre os bancos, Itaú Seguros é o único que não conta com url 
+independente. Caixa, Bradesco e Banco Brasil tem url específicas, com 
+identidade própria (embora seguindo a marca mãe) e não inovam muito.
+Embora todos os sites estejam muito próximos na questão  
+de não inovarem, o que mais se destaca entre eles é a Porto Seguro.   
+O site é focado em vendas e benefícios. O visual do site,  
+com pouco texto e imagens que ilustram a informação  
+(inclusive nos menus) facilitam encontrar o que se precisa.
+O site é prático e não tem tanta redundância de caminhos  
+quanto nos outros. Tem uma linguagem de humor e cartoon,  
+que dá um tom de comunicação leve e envolvente.20 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES
+A expectativa por transparência e simplicidade do contato  
+nas redes sociais irão demandar inovações na oferta de produtos, 
+principalmente no que diz respeito à personalização,  
+atendimento e necessidades específicas do consumidor.
+Com acesso às informações das redes sociais, as empresas  
+tem rapidamente acesso a perfis mais apurados e individualizados. 
+E mais, como esses estão conectados a outros de mesmo perfil  
+(isso, por afinidade social), conglomeram focos, ou nichos,  
+para ofertas específicas.
+Essa tendência se estende para o mobile. Por ser um dispositivo de 
+registro no cotidiano do usuário, o uso dos aplicativos mobile gera 
+mudanças no desenho dos serviços do setor de Seguros. Mobile é um 
+ambiente comum entre operadora e seus clientes/ prospects, onde 
+é possível manter um canal direto e registros a respeito da saúde, de 
+reparos de automóvel, de manutenção de imóvel, ou de informações 
+de viagem e aplicações de investimentos, entre outras aplicações.Mobilidade e redesenho do serviço21 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOCom isso, as seguradoras que antes se relacionavam reativamente, 
+passam a poder atuar diretamente com o cliente, gerando mais 
+personalização, entendimento desse cliente e novas oportunidades 
+de ofertas, tornando a relação cada vez mais preventiva  
+(e proativa da parte da Seguradora).
+Mobilidade e velocidade de serviço para transações em 
+multiplataformas serão cada vez mais úteis para gestão de cliente.
+Dentre as seguradoras analisadas, a Bradesco Seguros  é a que  
+mais investiu em aplicativos. Tem um aplicativo para quase todos 
+os seus produtos. Esses são alguns exemplos desses aplicativos:
+• Bradesco Seguros 1.1 (para iPad)
+Acesso a todos os Seguros - Automóvel, Residencial, Saúde,  
+Vida e Acidentes Pessoais e até Previdência Privada  
+e Títulos de Capitalização - em um lugar só.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES22 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPermite consulta a lista de oficinas credenciadas, farmácias 
+mais próximas, telefones úteis, clínicas e médicos especializados, 
+dicas de saúde e bem-estar, além de um guia completo para 
+manutenção do carro.
+• Seu Futuro (para iPhone)
+Ajuda a decidir e a entender como funciona esse tipo de 
+plano. Contém: Filmes com dicas para descomplicar o assunto 
+previdência privada - cliente diz qual sonho deseja realizar  
+e ele diz quanto você precisa investir. “Conheça, compare  
+e escolha o Plano de Previdência Privada Bradesco ideal”
+O perfil indica qual Plano de Previdência Privada Bradesco é ideal 
+para cada usuário; Simuladores passo a passo, de acordo com seu 
+perfil de investidor. “Gráfico evolutivo dos seus investimentos”
+Possibilidade de enviar resultados por e-mail
+Localizador de Agências e Corretores Bradesco.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES23 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO• Seguro Bradesco Saúde (para iPhone)
+Com infos personalizadas, esse app localiza clínicas e médicos 
+especializados da rede credenciada do Bradesco, encontra 
+farmácias mais próximas, consulta a sua solicitação  
+de reembolso e até traça rotas para hospitais.
+• Bradesco Seguros Bilhete Residencial (para iPhone)
+Voltado para uso dos corretores, com as funcionalidades  
+de digitação, acompanhamento e consulta de bilhetes. ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES24 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPRODUTO SEGURO AUTO
+PARÂMETROS SulAméricaPorto  
+SeguroBradesco ItaúBB 
+SegurosZurich Caixa Allianz LibertyTokio 
+Marine
+URL exclusivas  
+do produtoNão Não Sim Não Sim Não Não Não Não Não
+Se não, há destaque 
+para produto na  
+home do portal? Não Não Sim Não N/A Sim Sim Sim Não Sim
+Steps para definição 
+do produto a partir  
+do portal4 2 1 3 1 2 2 2 4 2
+Oferece cotação 
+online?Não Sim Não Não Sim Não Não Não Não Sim
+Possível contratar? Não Sim Não Não Sim Não Sim Não Não Não
+Canal de contato  
+com o corretorTelGeoloca-  
+lizaçãoTel TelChat/  
+TelChat/  
+TelChatChat/  
+TelTel
+Aplicativos  
+para o produtoNão Sim Sim Não Não Não Não Não Sim Não
+Dinâmica de  
+Venda no Social?Não Não Não Não Não Não Não Não fb NãoNo quadro comparativo abaixo, temos uma visão do todo resultante da comparação dos 
+caminhos dos sites de diversas seguradores para os produtos Seguro Auto e Odontológico.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES25 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPRODUTO SEGURO SAÚDE SEGURO ODONTOLÓGICO
+PARÂMETROS SulAmérica OdontoPrev SulAmérica Unimed Amil
+URL exclusivas  
+do produtoNão Sim Não Sim Não
+Se não, há destaque  
+para produto na  
+home do portal? Não N/A Não N/A Sim
+Steps para definição  
+do produto a partir  
+do portal4 2 4Exige 
+contato  
+via tel2
+Oferece cotação online? Não Não Não Não Não
+Possível contratar? Não Não Não Não Não
+Canal de contato  
+com o corretorTel Tel Tel Cadastro
+Aplicativos  
+para o produtoNão Não Sim Sim Sim
+Dinâmica de  
+Venda no Social?Não Não Não Não fbANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES26 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICONo Brasil, as corretoras já estão avançando em  
+operacionalizar Seguros online, como a Sossego :
+• Funciona como um corretor online. Inclui cotação,  
+comparação entre as parceiras e emissão de apólice online  
+(só para autos; vida e residência ainda não)
+• Disponibiliza FAQ com descrição de produtos, como usar e 
+dúvidas em área exclusiva, com canais online, e-mail e telefone
+• No Facebook, a fanpage com 52k fãs tem pegada de estilo de vida, 
+no geral. Mas já tem tab para cotação e contratação de seguro.Olhando fora da categoria e do mercado nacional 
+Algumas lições de benchmark.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES27 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOOutro exemplo nacional é Segurar :
+• Aposta no humor, com cartoons, informação bem diagramada  
+e até certo ponto, é de fácil entendimento - ainda mantém  
+a linguagem da categoria
+• Com um portfólio imenso de modalidades,  
+cota e gera apólice online
+• É o único canal que permite a venda de ponta a ponta  
+no ambiente digital. Há simulador e tabelas comparativas  
+para consulta.
+• À parte de tanta novidade, o único canal de contato é e-mail.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES28 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICONos EUA, o site de Seguros premiado pela Web 
+Marketing Association em 2012, a Progressive Insurance, 
+não revoluciona, mas ensina algumas coisas:
+• Focado na necessidade do usuário, com a chamada: 
+“what do you need?”
+• Benefício – economia – como destaque central  
+• Tudo: cotação online, apólice, corretor, log in e Informação,  
+    à vista e a um clique na linguagem do usuário.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES29 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOOutro exemplo, ganhador de 2011, a American Family:
+• Destaque gigantesco para cotação ao lado da mensagem 
+emocional de proteção da família, do negócio e da lavoura,  
+além de promoção. O mote é proteger o sonho.  
+“Your dream is out there. Go get it. We’ll protect it.
+• Tab de produtos tem menu com todas as alternativas/ 
+modalidades, suas definições e página  
+com descontos e engine de cotação;
+Em Learning Center, há informação sobre Seguros para cada 
+finalidade numa linguagem familiar, com vídeos e cotação,  
+além de localizador de corretor
+• Tem uma área de relacionamento chama Let’s connect   
+com várias redes sociais, um blog sobre “Sonhos”  
+e “Defensores de Sonhos”, uma comunidade de Dream Bank
+• Fanpage tem engine de cotação.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > INOVAÇÕES30 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > DIAGNÓSTICO
+• Performance 
+• Monitoramento 
+• Presença nas redes sociais
+Na primeira comparamos a visita mensal aos sites da marca  
+e de concorrentes. 
+Embora haja investimento de links patrocinados para SulAmérica, 
+ele é feito em cima de palavras de marca, o que limita  
+o desempenho em performance. Um novo conjunto   
+de palavras precisa ser feito, incluindo prospects,  
+usando palavras que remetam a serviços.Durante o estudo da marca SulAmérica e dos 
+concorrentes, adotamos 3 frentes de análise31 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > DIAGNÓSTICO
+Hoje as visitas provenientes 
+do google são com palavras 
+de marca.
+Exemplos:
+• “sulamerica”
+• “sul america”
+Com o novo site SEO + 
+LP , serão palavras mais 
+direcionadas para quem 
+ainda não escolheu qual 
+seguradora comprar  
+o serviço.
+Exemplos:
+• “seguro de auto”
+• “seguro saúde”
+etc}Gasto em 2012
+R$ 280  mil  
+(41% da verba do ano)Sulamérica e concorrentes
+305
+253
+249
+140
+133
+65
+45
+44
+37
+19
+14Média de visitantes/mês (2012) segundo a comScore
+Visitantes G.A.
+357 | SulAmérica
+32 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > DIAGNÓSTICO
+Em questão de presença 
+em canais, nenhuma das 
+empresas analisadas possui 
+uma cobertura completa.  
+Este é um quesito da 
+presença digital pouco 
+explorado e que ainda gera 
+baixíssimo engajamento 
+entre as marcas analisadas.
+Isso indica uma mudança 
+necessária, tanto em 
+estratégia de canais,  
+em relação ao papel  
+que cada um desempenha  
+na jornada do consumidor, 
+quanto em escolha  
+de conteúdos relevantes  
+que cada marca produz.
+desnecessário
+Resultados 
+naturais33 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOEMPRESAMENÇÕES TWITTER FB G+ YOUTUBE INSTAGRAM PINTEREST BLOG
+SulAmérica 1.005 5.462 297.446 -- 490.952 -- -- 86.000
+Porto Seguro 4.186 15.462 496.000 -- 1.624.780 967 0 --
+Bradesco 812 6.339 9.300 316.221 1.344.393 -- -- --
+Itaú-Unibanco 37 -- -- -- -- -- -- --
+BB Seguros / Mapfre 1.325 4.864 58.331 -- -- -- -- 300
+Zurich / Santander 238 -- -- -- 1.021.723 -- -- --
+Caixa Seguros 240 3.806 319.000 -- 4.884.034 -- -- --
+Unimed 25.178 1.068 20.541 -- -- -- -- 334
+Allianz 1.531 1653 80.390 1.199 1.350.210 -- -- --
+OdontoPrev 571 179 2.141 -- 12.499 -- -- --
+Liberty 429 1.816 227.294 -- 1.465.675 -- -- 2.166
+Tokio Marine 396 -- 1.508 -- -- -- -- --
+Amil 154 1.052 4.433 -- -- -- -- --ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > DIAGNÓSTICO34 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+Estes são os termos mais 
+falados quando monitoramos 
+as menções geradas para  
+a SulAmérica e concorrentes.
+O destaque de termos 
+relacionados a Saúde se  
+dá porque a empresa com 
+mais menções é a Unimed.  
+Os outros termos são  
+muito variados, devido a 
+generalidade de assuntos 
+produzida pelas marcas.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > DIAGNÓSTICO
+Cloud Conversation35 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOO ambiente digital ainda está sendo explorado pelas Seguradoras. 
+Embora estejam presentes nos canais, o desempenho dessas 
+empresas no ambiente online ainda é primário e heterogêneo, 
+voltado a “dizer” mais do que a ouvir e muito longe de “conversar”  
+e se relacionar.
+O desalinhamento do discurso entre emissor – a Seguradora –  
+e o receptor – o cliente – é tal que os canais não conseguem 
+alavancar outros conteúdos que não um institucional pouco 
+relevante (imagem da seguradora ou estilo de vida proposto  
+ao usuário) e, da parte do usuário, a ausência de entendimento  
+das seguradoras permitem apenas a emissão de reclamações.
+Dessa forma, cabe um esforço junto à SulAmérica para renovar 
+seu vocabulário, repertório e narrativa, de forma a abrir uma 
+comunicação real com o público fora da empresa, os clientes, 
+prospects e parceiros.ANÁLISE DA CONCORRÊNCIA NO AMBIENTE DIGITAL > RESUMO36 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOCom isso, a compra de produtos financeiros começa a ganhar espaço. > PERFIL DO CONSUMIDOR
+Consumidor está evoluído rapidamente  
+O brasileiro está vivendo mais, ganhando mais,  
+bancarizando-se mais e estudando mais.
+idade
+80 ou +
+75 a 79
+70 a 74
+65 a 69
+60 a 64
+55 a 59
+50 a 54
+45 a 49
+40 a 44
+35 a 39
+30 a 34
+25 a 29
+20 a 24
+15 a 19
+10 a 14
+5 a 9
+0 a 4idade
+80 ou +
+75 a 79
+70 a 74
+65 a 69
+60 a 64
+55 a 59
+50 a 54
+45 a 49
+40 a 44
+35 a 39
+30 a 34
+25 a 29
+20 a 24
+15 a 19
+10 a 14
+5 a 9
+0 a 4idade
+80 ou +
+75 a 79
+70 a 74
+65 a 69
+60 a 64
+55 a 59
+50 a 54
+45 a 49
+40 a 44
+35 a 39
+30 a 34
+25 a 29
+20 a 24
+15 a 19
+10 a 14
+5 a 9
+0 a 4
+0 0 0 9 9 9 1 1 1 8 8 8 2 2 2 7 7 7 3 3 3 6 6 6 4 4 4 5 5 5 5 5 5 4 4 4 6 6 6 3 3 3 7 7 7 2 2 2 8 8 8 1 1 1 9 9 9 0 0 0
+milhões de pessoas milhões de pessoas milhões de pessoas
+FONTE: Research Deloitte  
+(a partir de dados do IBGE)PIRÂMIDE ETÁRIA NO BRASIL     MULHERES   HOMENS
+1980 2010 203037 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOSegundo a Revista Exame (Nov. 2011), experiência, conveniência 
+e curadoria são algumas das principais reivindicações a serem 
+atendidas pelas empresas, de acordo com pesquisa Retail Trend 
+2012, do Future Laboratory.
+Esses requisitos são mais tangíveis no Varejo tradicional,  
+mas começam a chegar em serviços. E logo, chegarão em Seguros.
+A FunaSeg e outros órgãos do setor estimam crescimento em 
+torno de 10% ao ano, fazendo evoluir o mercado de Seguros de 
+Pessoas Físicas para acima dos 22% atuais de penetração (números 
+provisórios), fortemente impulsionados por Automóvel e Saúde.
+Uma base tão grande de clientes exige um tratamento segmentado 
+por produto e, principalmente, por variáveis do cliente, como ciclo 
+de vida, histórico e atitude (essa segmentação ainda não está 
+implementada totalmente).No futuro próximo, esse consumidor 
+vai exigir mais ainda das empresas > PERFIL DO CONSUMIDOR38 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODentro desse universo, há segmentos que são mais permeáveis a seguros. 
+De acordo com o estudo da Serasa Experian, (2006 vs 2011, 2012 no prelo) 
+temos 2 segmentos que mais crescem na adesão a seguros de automóveis.O Seguro de automóveis como exemplo de segmentação > PERFIL DO CONSUMIDOR
+Brasil Rural9
+7
+5,9
+4
+Periferia 
+Jovem4,157,49,8
+Aspirantes 
+sociais22,5 22,422
+21
+Assalariados 
+Urbanos13,112,311,5
+10,3
+Prósperos 
+Moradores 
+Urbanos15,118,120,522,8
+Ricos, 
+sofisticados  
+e influentes7,510,512,315,1
+Envelhecendo 
+na periferia3,73,84,55,1
+Aposentadoria 
+Tranquila2 22,21,8
+Envelhecendo 
+no interior0,8 0,9 1,2 1,3
+14,214,915,8 16,2
+Empreendedores 
+e comerciantesEVOLUÇÃO DA DISTRIBUIÇÃO DE PROCURA DE SEGUROS POR PERFIL MOSAIC (EM %)  2008  
+ 2009
+ 2010  
+ 201139 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODos 10 segmentos latitudinais, três, pertencentes as  
+classes mais altas, decresceram  seu interesse em seguros:
+• Os Ricos, Sofisticados e Influentes (1,86%) tiveram  
+sua participação relativa no consumo de seguros  
+de auto reduzida de 15,1% para 7,9% entre 2008 e 2011. 
+• Prósperos Moradores Urbanos (5,26%)  
+tiveram queda de 22,8% para 15,1%
+• Empreendedores e Comerciantes (5,01%) de 16,2% para 14,1%.  
+Estes segmentos de renda mais elevada da sociedade,  
+que historicamente tiveram foco quase que exclusivo  
+das seguradoras, passaram a disputar a atenção  
+das empresas com o novo mercado consumidor.
+Apesar da alta histórica no consumo de seguros de automóveis  
+por esses grupos em ascensão, o levantamento mostra  
+que a participação dos grupos Periferia Jovem  
+e Brasil Rural ainda é menor que o potencial  
+e pode crescer (a nova classe média). > PERFIL DO CONSUMIDOR
+Prósperos 
+Moradores 
+Urbanos15,118,120,522,8
+Ricos, 
+sofisticados  
+e influentes7,510,512,315,1
+14,214,915,8 16,2
+Empreendedores 
+e comerciantes40 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOVeja os grupos a seguir.
+• O grupo Aspirantes Sociais (9,74%)   
+é responsável pelo consumo de 21,0% dos seguros auto em 2008, 
+tendo crescido para 22,5% em 2011. É composto pelas categorias 
+Profissionais em Ascenção Social, Boa Vida no Interior, Jovens  
+em Busca de Oportunidades e Consumidores Indisciplinados.  
+A idade média dos componentes do grupo é 41 anos  
+e a renda média mensal é de R$ 1.800,00.
+• O grupo Periferia Jovem (20,92%)  passou de 4,1% para 9,8%, 
+mais do que dobrou. É composto por Jovens Trabalhadores de 
+Baixa Renda, Jovens na Informalidade, Trabalhadores de Baixa 
+Qualificação, Excluídos do Sistema, Estudantes da Periferia  
+e Famílias Assistidas da Periferia. A idade média do grupo  
+é de 32 anos, com renda média mensal de R$ 950,00.
+• O perfil Brasil Rural (16,05%)  do total da população brasileira;  
+têm idade média de 42 anos e renda média mensal de R$ 960,00.  
+O grupo, que consumia 4,0% dos seguros auto no país em 2008, 
+teve  crescimento de 125% no período.Não são target   
+Com o menor 
+percentual do 
+consumo de seguros 
+auto no ano estão 
+os grupos sociais 
+Envelhecendo  
+no Interior (1,3%) 
+e Aposentadoria 
+Tranquila (2,2%)  
+(mais velhos,  
+saindo do mercado 
+de trabalho). > PERFIL DO CONSUMIDOR41 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOC. PERFIL DO CONSUMIDOR 
+ > PERFIL DO CONSUMIDOR
+Segmentos42 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOO processo de decisão de compra  
+de seguros varia de acordo com:
+• Ciclo de vida do cliente: se é iniciante ou veterano 
+• Histórico do cliente: suas experiências anteriores  
+com o tipo de seguro e sinistros com a seguradora
+• Estilo de vida e momento de vida do cliente: estágios  
+da vida alteram a visão de seguros; estilos de vida que “expõem” 
+mais ou menos o usuário, o nível de valoração do bem segurado, 
+referências culturais também influenciam a decisão > PERFIL DO CONSUMIDOR43 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOResumidamente, podemos ver o processo de decisão da compra de 
+seguros, usando como exemplo a compra de seguro de automóveis > PERFIL DO CONSUMIDOR
+Cobertura básicaPreço total
+Valor parcela
+Confiança no corretor
+Imagem e experiência 
+anterior com a SeguradoraCompra
+Secudário:
+Valor de Franquia
+Coberturas adicionais
+Responsabilidade civilSEGURO AUTO
+FLOW DE 
+DECISÃODETECÇÃO DA NECESSIDADE
+PASSOS PARA COMPRA Novo carro Renovação
+Agente de buscaUsuário (veterano)
+Usuário + pessoa de referência: 1ª compraUsuário
+InfluenciadoresPais/Amigos/Marido/Esposa
+Corretores
+InternetCorretores
+Internet
+CanalPessoal - 1ª compra
+Telefone/e-mail (veterano)Telefone/e-mail
+CompradorUsuário (veterano)
+Usuário + pessoa de referência: 1ª compraUsuário
+Usuário/Pós compra O próprio usuário O próprio usuário44 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPara cada seguro, o processo terá a participação de 
+diferentes variáveis, características de cada modalidade.
+• No caso da compra de Previdência ou VGBL,  
+a questão da forma de resgate é importante;  
+• No seguro saúde, pesam a rede de médicos  
+que atendem, carências e hospitais credenciados. 
+Portanto, se e quando forem especificadas as modalidades, 
+essas variáveis serão aprofundadas.  > PERFIL DO CONSUMIDOR45 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOO consumidor brasileiro já subiu 
+para outra escada de necessidades.
+Segundo o relatório  
+Delloite sobre Seguros (2011)  
+o consumidor evoluiu.  
+Não basta mais atender suas 
+necessidades mais básicas. 
+Hoje esse consumidor  
+já demanda mais. 
+Entre suas novas necessidades 
+estão a de preservar o que 
+já conquistou (num nível 
+racional), obter paz de espírito 
+(no nível emocional), manter-
+se no nível desejado (no nível 
+social) e poder conquistar 
+mais (no nível egóico  
+e de auto-estima). > PERFIL DO CONSUMIDOR
+Hierarquia das  
+necessidades de Maslow
+Fisiológicas
+Fome, sede, sono, etcDe segurança
+Proteção, abrigo, defesa, empregoSociais
+Relacionamento, senso de 
+pertencimento a um grupoDe estima
+Autoestima,  
+reconhecimento,  
+statusDe autorrealização
+Desenvolvimento pessoal, 
+conquistas46 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO• Os novos consumidores têm famílias numerosas,  
+com domicílio predominantemente urbano.
+• Possuem, em média, poucos anos de estudo  
+e altas taxas de analfabetismo funcional.  
+A família é o centro da vida e a fonte de apoio.
+• A convivência familiar e a estabilidade financeira  
+estão entre seus valores básicos , e a casa própria,  
+o automóvel e as viagens são os objetos de desejo maior.
+• O acesso aos bens e serviços financeiros – entre os quais,  
+estão incluídos os seguros – é visto como conquista de cidadania, 
+sobretudo, quando possuem crédito em seu nome (“nome limpo”).
+• Ainda assim, olham os bancos com desconfiança  
+e sentem-se mais próximos das redes de varejo ,  
+que não os exclui, mas os convida.A nova classe média  
+Quem são esses novos potenciais 
+compradores de seguros? > PERFIL DO CONSUMIDOR47 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOEsse consumidor já tem smartphone, é internauta  
+e está se familiarizando, cada vez mais,  
+com aplicativos móveis.
+O mercado de seguros começa a oferecer  
+produtos para a nova classe média:
+• Os microsseguros seguro prestamista
+• Seguro de vida e acidentes pessoais  
+com inclusão de sorteios entre os segurados
+• Ênfase no auxílio-funeral como assistência
+• Seguros de proteção financeira e pacote de assistências 
+voltadas à família, lazer, reparos residenciais e veiculares,  
+além de descontos em medicamentos
+• Seguros residenciais e habitacionais acessíveis  
+e de mais fácil entendimento para fazer  
+frente à expansão do mercado imobiliário.  > PERFIL DO CONSUMIDOR48 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOAinda segundo o relatório Delloite,  
+para atender essa nova classe social, é preciso:
+• Diversificar os canais: lojas, empresas concessionárias e 
+provedoras de serviços públicos e redes varejistas são alternativas.
+• Comunicar de forma inovadora. A linguagem a adotar,  
+com tom menos formal e fugindo do complicado “segurês”,  
+deverá fortalecer a credibilidade da marca, desmistificar  
+o produto e apresentá-lo de forma clara e transparente. > PERFIL DO CONSUMIDOR49 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOO consumidor de Seguros evoluiu:
+• Saindo da classe mais abastada para a classe média e abaixo.
+• Está bancarizando, tem acesso a produtos financeiros,  
+meios de crédito e de pagamento, além de poder de compra.
+• Já consome mais de uma modalidade de Seguros  
+e começa a se interessar por outras, passando  
+a ter repertório próprio para lidar com elas.
+• Tem acesso a tecnologia que lhe dá informação e mobilidade.
+• Já adotou as redes sociais e frequenta vários ambientes digitais. 
+Todavia, as Seguradoras não mudaram sua perspectiva,  
+não evoluíram em linguagem, canais  
+e até em comunicação como um todo.PERFIL DO CONSUMIDOR > RESUMO50 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+Enzo  tem 34 anos,  
+é administrador de empresas 
+pela FGV e trabalha numa 
+multinacional farmacêutica 
+como alto executivo. Viaja 
+muito, trabalha muito. 
+Casado, ainda comemora 
+a chegada do sua primeira 
+filha, Luíza. Como efeito da 
+chegada, Enzo se mudou do 
+apartamento do Itaim para 
+uma casa em condomínio 
+fechado no Jardim Bonfiglioli. 
+A compra da casa já foi feita 
+com seguro residencial e 
+habitacional pela própria 
+incorporadora e Enzo aprovou 
+muito a idéia; como é bastante racional,  
+na ponta do lápis,  
+o seguro faz todo sentido. 
+A chegada da bebê fez com 
+que Enzo começasse para 
+a filha uma previdência 
+privada e, no embalo, 
+começou uma para si mesmo, 
+mas com formato de VGBL, 
+por conta da sua idade. Ele e 
+a esposa decidem tudo juntos 
+e a idéia de Enzo é convencer 
+a esposa a fazer um VGBL 
+para si. Enzo viaja muito e 
+a tecnologia permite ver a 
+filha todas as noites, mesmo 
+ela dormindo, tarde da noite, 
+onde quer que esteja.PERFIL DO CONSUMIDOR > RESUMO51 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+Maria Júlia  está divorciada 
+há 6 anos, tem um casal 
+de filhos em idade escolar 
+e é dona de duas lojas de 
+calçados femininos na 
+Alameda das Rosas em 
+Curitiba. Administra o 
+negócio com uma amiga 
+e corre o dia todo para 
+dar conta da família e do 
+trabalho. Maria Júlia se diz 
+viciada em notícia e ouve 
+rádio no carro, lê jornal 
+em casa, vê tv onde der, 
+lê notícias no iPhone e no 
+iPad todo o tempo. Foi ela 
+quem sugeriu contratar seguros contra roubo nas 
+lojas e até instalar câmeras 
+de segurança. Na ocasião, 
+o corretor até sugeriu 
+outros seguros, mas Maria 
+Júlia resolveu se informar 
+primeiro. Foi nos sites 
+das seguradoras e, nas 
+redes sociais considerou 
+vários depoimentos sobre 
+diferentes marcas. Acabou 
+decidindo fazer o seguro do 
+carro, de vida e residência 
+em diferentes seguradoras 
+por conta de preço. Mas no 
+Seguro Saúde, não abriu mão 
+dos hospitais em que confia. PERFIL DO CONSUMIDOR > RESUMO52 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+Josiane  tem 28 anos, 
+terminou Fisioterapia na 
+Unifieo de Osasco em 2012 
+e trabalha como assistente 
+administrativo numa 
+transportadora na Lapa. 
+Pretende se casar em 2014  
+e ela e o noivo já compraram 
+o apartamento na planta. 
+Josiane trabalha desde os 
+16 anos e sonha com um 
+apartamento caprichado, 
+como nas revistas de 
+decoração. Como o orçamento 
+é restrito, todas as compras 
+são muito pensadas e 
+discutidas. Como foi o caso da 
+compra do carro, que comprou junto com o noivo: ele foi 
+contra comprar o seguro para 
+um carro seminovo, preferia 
+guardar um valor por mês  
+e investir em Car System.  
+Ela foi contra, pesquisou  
+no Google sobre as melhores 
+opções de proteger um carro  
+e convenceu o futuro marido a 
+fazer um seguro de automóvel 
+– que ela ajuda a pagar.  
+A compra dos móveis será nas 
+casas Bahia, principalmente 
+armários. E Josiane sabe que, 
+se algo der errado, ela terá 
+cobertura do seguro das 
+prestações que contratou.  
+É um valor baixo, vale a pena. PERFIL DO CONSUMIDOR > RESUMOESTRATÉGIA54 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOEssa etapa vai compreender três análises específicas:
+• Análise de SWOT (forças, fraquezas, oportunidades  
+e tendências) de SulAmérica vs seus concorrentes
+• A proposta de um posicionamento  
+para a marca SulAmérica
+• Uma nova proposta de entendimento  
+do Consumer Journey para a presença digital55 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > ANÁLISE DE SWOT
+Considerando todos os ambientes e frentes de trabalho das 
+marcas, foi feita uma análise das forças e fraquezas  de SulAmérica, 
+Bradesco Seguros, Banco do Brasil/Mapfre, Porto Seguros e Itaú 
+Seguros, além das oportunidades e ameaças  para cada  
+uma dessas marcas.
+Há ameças que são comuns a todos  os players,  
+como crises econômicas, crescimento da inadimplência  
+e mudanças nos regulatories.56 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DE SWOT  > PORTO SEGURO
+Forças 
+• Imagem de marca
+• Líder em auto e riscos financeiros
+• Portfólio diversificado
+• 4ª. Maior seguradora
+• Melhor desempenho no ComScore e nas redes sociais
+• Investimento em propaganda/ tv
+• Estrutura própria de atendimento
+Oportunidades 
+• Crescimento da categoria Seguro Auto e Saúde 
+• Maus serviços públicos de saúde e segurança
+• Envelhecimento da população
+• Aumento do poder aquisitivo da nova classe média
+• Aumento da oferta de crédito
+• Presença nas redes sociaisFraquezas 
+• Pagamento de prêmios/liquidez
+• Não atua em todos os setores
+• Imagem de ser mais cara
+• Não está associada a banco
+Ameaças 
+• Competição acirrada
+• Concentração em auto
+• Inadimplência dos clientes
+• Regulatory/ regras do Governo ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO57Forças 
+• Banco múltiplo, público e social
+• Marca forte
+• Solidez e liquidez 
+• Força no Varejo – rede
+• Líder em comércio exterior
+• Tecnologia de ponta
+• Portfolio completo de seguros 
+Oportunidades 
+• Crescimento de  Auto e Saúde 
+• Maus serviços públicos de saúde e segurança
+• Envelhecimento da população
+• Aumento do poder aquisitivo da nova classe média
+• Aumento da oferta de crédito
+• Sinergia com Banco Votorantim (financiamento veículos)
+• Acesso a base gigantesca de correntistas
+• Potencial para crescimento em SegurosFraquezas 
+• Ingerência governamental
+• Regulatory mais intenso
+• Imagem de marca (banco)
+• Custo alto
+• Imagem de ineficiência  
+ por ter filas em agências
+• Imagem + frágil para público geral
+Ameaças 
+• Competição acirrada
+• Concentração em auto
+• Inadimplência dos clientes
+• Regulatory/ regras do Governo ANÁLISE DE SWOT  > MAPFRE (BANCO DO BRASIL)58 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DE SWOT  > ITAÚ SEGUROS
+Forças • Primeiro banco privado em ativos• Presente na América Latina • Solidez e liquidez• Completo portfolio de produtos• Rede de distribuição própria e associados• Valor de marca• Reconhecimento de marca• Investimento da marca mãe em TV• Tecnologia de ponta/Online
+Oportunidades • Crescimento de  Auto e Saúde • Maus serviços públicos de saúde e segurança• Envelhecimento da população• Aumento do poder aquisitivo da nova classe média• Aumento da oferta de crédito• Acesso a base gigantesca de correntistas• Potencial para crescimento em SegurosFraquezas 
+• Redução de funcionários/filas
+• Taxas altas
+• Imagem de ineficiência  
+ por ter filas em agências
+• Fraco desempenho  
+ em redes sociais
+Ameaças 
+• Competição acirrada
+• Regulatory/regras do Governo
+• Inadimplência  59 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DE SWOT  > BRADESCO SEGUROS
+Forças • Pioneirismo em TI• Presença em redes sociais• Marca forte – Maior banco privado da América Latina• Solidez e liquidez • Força no Varejo – rede• Líder em  Previdência Privada• Portfolio completo de seguros• Rede de agencias/ postos• Investimento em propaganda/TV 
+Oportunidades • Crescimento de  Auto e Saúde • Maus serviços públicos de saúde e segurança• Envelhecimento da população• Aumento do poder aquisitivo da nova classe média• Aumento da oferta de crédito• Acesso a base gigantesca de correntistas• Potencial para crescimento em Seguros• Operação como Banco Postal • Expansão InternacionalFraquezas 
+• Redução de funcionários/filas
+• Taxas altas
+• Imagem de ineficiência  
+ por ter filas em agências
+Ameaças 
+• Competição acirrada
+• Regulatory/regras do Governo
+• Inadimplência  60 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOANÁLISE DE SWOT  > SULAMÉRICA
+Ameaças 
+• Competição acirrada
+• Regulatory/regras do Governo
+• Inadimplência
+• Aumento de sinistralidadeOportunidades • Crescimento de  Auto e Saúde • Maus serviços públicos  
+ de saúde e segurança• Envelhecimento da população• Aumento do poder aquisitivo  
+ da nova classe média• Aumento da oferta de crédito• Potencial para crescimento em Seguros• Parcerias estratégicas com bancos  
+ (Caixa para Saúde)Fraquezas • Não está associada a banco• Alta taxa de reclamações/  
+ sem excelência operacional• Fraco desempenho em redes sociais• Concentração em Saúde e Odonto (70%)• Fraco desempenho em ramos elementares• Pagamento de prêmios/ liquidezForças • Tradição• Radio SulAmérica Trânsito• Preço nos planos corporativos• Portfolio diversificado em produtos e serviços• Presença no país• Estrutura própria de atendimento• Sites informação sobre previdenciaESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+61 > ANÁLISE DE SWOT
+Quando comparamos todos esses cenários, vemos que, para SulAmérica, a trajetória  
+mais produtiva é a de se afastar da arena dos bancos e se diferenciar de Porto Seguro:
++ redes sociais+ tecnologia
+- redes sociais- tecnologia- imagem - portfolio+ portfolio
+- solidez- liquidez+ solidez+ liquidez+ imagem
+arena 
+dos 
+bancos
+arena  
+Porto Seguro
+arena 
+SulAmérica62 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > PROPOSTA DE POSICIONAMENTO
+Para essa análise, consideramos diversas variáveis que permitiram 
+criar um mapa das marcas e, dessa forma, buscar possíveis brechas 
+de novos posicionamentos.
+Baseado nos sites das marcas, consideramos como variáveis:
+• A missão da marca
+• A visão da marca
+• Seus valores corporativos63 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPROPOSTA DE POSICIONAMENTO  > A MISSÃO DA MARCA
+Através da compilação das palavras que as Seguradoras usam para se descreverem e  
+para indicar o que almejam ser, temos um mapa que aponta 4 quadrantes bem distintos:
+O quadrante “Tirar Pedido” , regido por foco 
+no produto e por ênfase em captação, geração 
+de lead e vendas (estas, em casos específicos). 
+Esse quadrante é o mais corriqueiro, praticado 
+pelas corretoras, corretores e pelos esforços 
+das seguradoras, em suas comunicações. 
+Os sites atuais das Seguradoras navegam 
+tranquilamente por esse quadrante. O quadrante Lealdade , regido por foco no 
+produto e busca de relacionamento. Ainda 
+embrionário, as Seguradoras começam a pensar 
+nesse quadrante sob a forma de programa de 
+vantagens e benefícios agregados aos produtos, 
+incentivos e descontos na renovação, numa 
+tentativa de retenção de clientes já conquistados. 
+Os não-clientes não fazem parte desse universo.
+O quadrante Consultoria , formado pelo foco 
+em Pessoas e ênfase em captação e Vendas. 
+Esse quadrante hoje é exercitado pelas 
+seguradoras que valorizam o investimento 
+em capacitação de canal e trabalho de equipeO quadrante Humanização  formado pelo foco  
+em Pessoas e pelo investimento em educação  
+e relacionamento com o usuário. Esse quadrante já  
+é uma realidade em andamento nos USA e começa 
+a despontar como uma ambição das Seguradoras 
+para o futuro meio distante. Nesse quadrante,  
+a seguradora deixa de vender produtos  
+para ser uma parceira de vida do usuário. 64 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPROPOSTA DE POSICIONAMENTO  > A MISSÃO DA MARCA
+Graficamente, teríamos:
+Lealdade “Tirar Pedido”
+Humanização Consultoria
+gráfico 01se tornar líder
+ser referência
+se tornar a preferida
+relações duradourassuper expectativasser dinâmico
+ser acessível
+cumprir o prometido
+segurança
+seriedade
+credibilidade
+transparênciaconfiança
+atendimento envolvido
+proximidade
+qualidade de vidaintegridade/justiça
+foco no clientetranquilidaderealizar sonhosalta tecnologia
+competência
+maior rentabilidade
+excelência
+ampla gama de soluções
+proteção financeira
+prestação de serviços
+aconselhamento/orientaçãocooperação
+responsabilidade socialdesenvolvimento sustentadoresponsabilidade ambientalvalorização dos profissionaisética
+simplicidadetrabalho em equipeagilidadefoco em resultado
+qualidade
+inovação
+melhores soluções 
+e benefíciosPENSAR  
+PRODUTO
+PENSAR  
+PESSOASEDUCAR E SE 
+REALACIONARCAPTAR  
+E VENDER65 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOQuando plotamos as marcas nesse framework,  
+temos um quadro revelador. 
+Pelo visto, as marcas estão investindo em esforços de comunicação 
+e estratégias para migrar para o quadrante Consultoria (gráfico 03). 
+Nesse quadrante, focado nas necessidades objetivas dos clientes 
+para preservação de bens, o atendimento ao cliente, suporte  
+ao corretor e o desenvolvimento de novos serviços agregáveis  
+aos seguros constituem os principais drivers.
+A comunicação das Seguradoras reflete esse movimento,  
+quando fala menos de produto para falar mais de atitude,  
+mas ainda focando produto e não totalmente pessoas. 
+Os grandes mobilizadores desse movimento são as operadoras 
+de Seguro de Saúde, uma categoria mais tangível e facilmente 
+associável a pessoas, cujo benefício de produto é, igualmente,  
+de fácil entendimento.PROPOSTA DE POSICIONAMENTO  > A VISÃO DA MARCA66 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOO mercado de Seguros no Brasil (gráfico 02), apesar de antigo,  
+ainda caminha para a maturidade em termos de entendimento  
+do produto e experiência com este. 
+Dessa forma, pode ser prematuro sugerir que a SulAmérica seja 
+pioneira no quadrante Humanização , dado que ainda sequer 
+experimentou o quadrante Consultoria .
+Uma rota alternativa seria a de SulAmérica migrar  
+para o quadrante Lealdade (gráfico 04)PROPOSTA DE POSICIONAMENTO  > A VISÃO DA MARCA67 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPROPOSTA DE POSICIONAMENTO  > A VISÃO DA MARCA
+gráfico 02Lealdade “Tirar Pedido”
+Humanização ConsultoriaPENSAR  
+PRODUTO
+PENSAR  
+PESSOASEDUCAR E SE 
+REALACIONARCAPTAR  
+E VENDER
+68 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPROPOSTA DE POSICIONAMENTO  > A VISÃO DA MARCA
+gráfico 03Lealdade “Tirar Pedido”
+Humanização ConsultoriaPENSAR  
+PRODUTO
+PENSAR  
+PESSOASEDUCAR E SE 
+REALACIONARCAPTAR  
+E VENDER
+69 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOgráfico 04Lealdade “Tirar Pedido”
+Humanização ConsultoriaPENSAR  
+PRODUTO
+PENSAR  
+PESSOASEDUCAR E SE 
+REALACIONARCAPTAR  
+E VENDER
+PROPOSTA DE POSICIONAMENTO  > A VISÃO DA MARCA70 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPROPOSTA DE POSICIONAMENTO  > SEUS VALORES CORPORATIVOS
+Para operacionalizar essa migração, SulAmérica deverá atrair alguns atributos para si, atributos 
+que estão limítrofes ao quadrante Humanização para construir e reforçar seus novos pilares.
+Esquematicamente, seria:
+gráfico 05Lealdade “Tirar Pedido”
+Humanização Consultoriase tornar líder
+ser referência
+se tornar a preferida
+relações duradouras
+super expectativasser dinâmico
+ser acessível
+cumprir o prometido
+segurança
+seriedade
+credibilidade
+transparência
+confiançaconfiança
+atendimento envolvidoatendimento envolvido
+proximidade proximidade
+qualidade de vidaintegridade/justiça
+foco no clientetranquilidaderealizar sonhosalta tecnologia
+competência
+maior rentabilidade
+excelênciaexcelência
+ampla gama de soluções
+proteção financeira
+prestação de serviços
+aconselhamento/orientaçãoaconselhamento/orientação
+cooperação
+responsabilidade socialdesenvolvimento sustentadoresponsabilidade ambiental
+valorização dos profissionaisvalorização dos profissionais
+ética
+ética
+simplicidadetrabalho em equipeagilidadefoco em resultado
+qualidade
+inovação
+melhores soluções 
+e benefíciosPENSAR  
+PRODUTO
+PENSAR  
+PESSOASEDUCAR E SE 
+REALACIONARCAPTAR  
+E VENDERtransparência
+71 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > POSICIONAMENTO - PLANO TÁTICO
+O processo de compra de um seguro  
+Uma maneira inovadora de pensar
+O consumidor gosta de pesquisar e, 
+hoje, não faltam recursos para isso.
+O estudo da IAB Brasil sobre 
+consumo de internet em 2012 
+mostra que a Internet é a mídia 
+mais consumida por brasileiros 
+e que 8 entre cada 10 brasileiros 
+pesquisa sobre produtos e serviços 
+antes de comprar/contratar. 
+O potencial disso é possibilitar  
+um relacionamento próximo  
+com os consumidores, levando  
+ao momento máximo em  
+que o consumidor compra  
+seu produto novamente.Consumo Semanal de Mídia
+Internet é a mídia mais consumida
+Internet (navegando, 
+vendo vídeos, em 
+redes sociais, etc)
+Internet (lendo/
+enviando e-mails ou 
+msg instantâneas)
+Vendo TV
+Ouvindo rádio
+Lendo revistas
+Lendo jornalDispositivo móvel ou tablet 
+(lendo/enviando e-mails  
+ou msg instantâneas)
+Dispositivo móvel ou tablet 
+(navegando, vendo vídeos, 
+em redes sociais, etc)
+ ZERO    MENOS DE 3 H    3 A 6 H    7 A 13 H    14 A 20 H    MAIS DE 20 H21%
+19%
+13%
+13%
+11%
+9%
+6%
+5%5%15%
+14%
+12%
+11%
+11%
+7%
+5%19%
+21%
+17%
+14%
+14%
+12%
+9%
+9%21%
+22%
+24%
+19%
+18%
+17%
+15%
+14%22%
+22%
+27%
+27%2%
+2%
+7%
+16%
+21%
+19%
+20%
+22% 45%45%36%25%72 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPara ilustrar isso, colocando-
+se no lugar do usuário, fez-se 
+um exercício de pesquisa 
+com o principal serviço que 
+SulAmérica oferece: seguros.  
+Podemos observar que  
+o site da marca está entre  
+os principais resultados: > POSICIONAMENTO - PLANO TÁTICO
+73 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+ > POSICIONAMENTO - PLANO TÁTICO
+Agora, em uma nova 
+pesquisa, agregamos a 
+palavra “melhor” ao produto: 
+melhor seguro.  O que se 
+observa é que aparecem 
+opiniões, classificações  
+e cotações online.
+Esse resultado se reforça  
+mais ainda se falamos  
+de redes sociais. 74 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+POSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+Hoje, essas são as principais informações que o consumidor usa para tomar decisões.
+Os consumidores chegam a elas prontos para interagir.  
+Vamos chamar esse momento antes da decisão de compra de momento zero da verdade.
+As pessoas antes de comprar um produto, querem saber como ele pode melhorar  
+e facilitar suas vidas. 
+Para descobrir isso, elas podem encontrar essas informações em milhares de fontes diferentes. 
+O processo de entender essas informações começa no ZMOT  - o momento zero da verdade.
+O processo no qual estamos 
+acostumados a ver, o tradicional,  
+envolve resumidamente  
+3 momentos: O estímulo 
+(awareness) feito pela marca 
+através de anúncios,  
+a compra do produto e a 
+experiência com o produto:75 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+POSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+Hoje, o momento zero da verdade acontece depois de  
+um estímulo da marca e antes da compra de um produto
+Este caminho percorrido pelo usuário em sua 
+jornada de compra se torna o meio pelo qual 
+as empresas podem contar suas histórias 
+e passar uma mensagem coerente para o 
+consumidor, acompanhando essa jornada.76 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOCATEGORIA  
+COMPRADANúmero de fontes 
+usadas pelo 
+comprador típicoUso médio  
+de todas  
+as fontes% de compradores 
+influenciados  
+no ZMOT
+Automotivo 18.2 34% 97%
+Tecnologia  
+(produtos eletrônicos)14.8 30% 92%
+Eleitores 14.7 35% 95%
+Viagem 10.2 22% 99%
+Produtos de saúde  
+sem receita médica9.8 18% 78%
+Bens embalados voltados 
+ao consumidor final: 
+produtos alimentícios7.3 15% 61%
+Bens embalados voltados 
+ao consumidor final: 
+saúde/beleza/cuidados 
+pessoais7 14% 63%
+Restaurantes self-service 5.8 12% 72%
+Bancos 10.8 25% 91%
+Seguros 11.7 26% 94%
+Cartão de crédito 8.6 19% 81%
+Investimentos 8.9 20% 89%POSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+O momento zero da verdade para o mercado de seguros
+Vários estudos foram 
+feitos para refletir 
+no momento zero da 
+verdade em vários 
+segmentos de mercado.  
+Este, feito nos Estados 
+Unidos, embora seja 
+em um lugar onde 
+os segmentos estão 
+mais maduros no 
+ambiente digital, 
+aponta a categoria 
+de seguros com 
+etapas importantes 
+envolvendo a decisão 
+de compra de seguros 
+no ambiente digital.
+Fonte: Google/Shopper Sciences, Macro estudos do Momento 
+zero da verdade e estudos industriais, EUA, Abril 201177 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPOSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+Essa mesma  pesquisa entrevistou 250 consumidores  
+que compraram carro novo ou casa e estavam  
+em vias de fazer um seguro para seus bens.
+Os resultados mostram que:
+• A decisão é ponderada  e não um ato por impulso
+• Em média 11.7 fontes de busca são usadas
+• O processo de decisão demora no mínimo um mês
+• O ZMOT  é fator dominante na decisão de compra
+• As experiências  com canais oficiais/representantes da marca 
+exercem muita influência no processo de decisão. Em segundo 
+lugar, comparações com outras marcas (cotações de preço)78 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPOSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+Caminho do usuário
+Carta
+Anúncios de TV
+E-mail marketing
+Mídia onlineGoogle (buscador)
+Cotação comparativa
+Amigos/família
+Site da marca
+Redes sociais
+Chat onlineTelefone
+Contato com corretor 
+presencial79 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPOSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+Para que usam a Internet?
+No momento pré-compra:
+• Salvar informações para referência futura
+• Ler reviews e opiniões de outros
+• Requisitar informações adicionais (formulário/e-mail)
+• Para encontrar o telefone ou endereço da empresa/corretor
+• Buscar informações específicas de funcionamento do escritório
+• Encontrar mapas e caminhos para chegar ao escritório80 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPOSICIONAMENTO - PLANO TÁTICO > O MOMENTO ZERO DA VERDADE
+No momento pós compra (Experiência)
+É o momento de compartilhar:
+• Falar para amigos ou família
+• Compartilhar informações com colegas de trabalho
+• Responder a uma pesquisa de satisfação
+• Postar no facebook sobre o assunto
+• Escrever um depoimento no site
+• Twittar sobre o assunto
+• Publicar algo em um blog sobre o assunto
+O momento inicial do processo (o estímulo)  
+é mais efetivo para aumentar a reputação da marca  
+e falar de benefícios enquanto o ZMOT é mais efetivo 
+na comunicação de venda (cotações e simulações  
+de preço e como contratar).81 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPOSICIONAMENTO - PLANO TÁTICO > A SULAMÉRICA NA JORNADA DO CONSUMIDOR
+A SulAmérica precisa se 
+adaptar neste novo momento 
+em que as vidas dos usuários 
+estão mudando, quer 
+esse usuário final seja um 
+consumidor, uma empresa  
+ou um parceiro. Para a marca 
+se manter interessante para 
+essas pessoas, ela precisa  
+ser parte deste ecossistema. 
+A SulAmérica, portanto, 
+precisa estar em todas as 
+etapas de decisão de compra 
+do consumidor e acompanhar  
+a experiência de compra  
+com o cliente:
+Canais oficiais
+Performance
+SiteCanais oficiais
+Performance
+SiteCanais oficiais
+Performance
+Site
+Ele se torna o prospect 
+em outro produtoCanais oficiais
+Performance
+Site
+Telefone  
+PDV
+Corretora82 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPOSICIONAMENTO - PLANO TÁTICO > A SULAMÉRICA NA JORNADA DO CONSUMIDOR
+Neste contexto, isso significa que a SulAmérica precisa se fazer 
+presente  e estar pronta para contar o que tem a oferecer quando  
+o usuário pensar em seguro . Esse posicionamento será crucial  
+para ganhar espaço entre a concorrência. 
+Um vídeo de produto  precisa passar a mesma história que um 
+vídeo institucional , convencendo o usuário da entrega da empresa 
+antes de formar sua opção de compra. Essa coerência entre a 
+mensagem e a realidade  irá levar a SulAmérica a ter uma presença 
+digital completa e funcional.RECOMENDAÇÕES84 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOEnxergamos que os principais desafios 
+dos canais de SulAmérica são:
+• Atuar em linha com a estratégia de negócio da empresa, 
+divulgando a marca e seus produtos
+• Promover gradativamente a reputação e expertise da marca  
+em seguros (além de saúde e auto que já são fortes)  
+junto aos pilares de SulAmérica
+• Levar tráfego para o site, gerando intenção de compra
+• Ser um canal de interação com os usuários interessados  
+e clientes que tiverem dúvidas e precisarem de esclarecimentos > CANAIS NO AMBIENTE DIGITAL85 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICONeste contexto, temos algumas categorias de canais,  
+algumas com mais outras com menos controle,  
+porém todas importantes para o negócio de SulAmérica:
+• Pagos  
+ É a mídia que você conduz e paga.
+• Próprios  
+ São os ativos que sua empresa controla e que  
+ você pode usar para promover e reforçar sua marca.
+• Compartilhados  
+ São as áreas que você pode não controlar diretamente,  
+ mas em que sua marca pode ser apresentada e promovida,  
+ como no pdv por exemplo. 
+• Ganhos  
+ São as menções espontâneas de pessoas  
+ motivadas a falar do produto. > CANAIS NO AMBIENTE DIGITAL86 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO
+Respondendo as perguntas dos consumidores
+Hoje em performance  
+a SulAmérica investe em 
+palavras que remetem a 
+termos da marca SulAmérica. 
+Com isso, as seguradoras que 
+tem um investimento maior 
+em palavras de marca ou 
+que possuam “seguro” como 
+extensão da marca acabam 
+despontando nos resultados, 
+deixando uma brecha  
+em termos que remetem  
+a serviços.  CANAIS NO AMBIENTE DIGITAL  > CANAIS PAGOS87 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOPara desenvolver um trabalho estratégico dentro dos canais 
+próprios de SulAmérica, é necessária uma inteligência digital  
+que passa pelos seguintes passos:
+• Imersão de marca (com o cotidiano de SulAmérica)
+• Familiarização com a linguagem de comunicação
+• Entendimento das necessidades do negócio
+• Mapeamento de produtos e serviços estratégicos para a marca
+Nos canais de atuação: CANAIS NO AMBIENTE DIGITAL  > CANAIS PAGOS88 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOHoje a SulAmérica atua com vários canais:  
+sites, canais sociais e o agregador  
+“SulAmérica.com você”. Porém nenhum deles  
+tem um papel definido e são pouco divulgados. 
+Os canais sociais replicam as informações  
+e conteúdos entre si. Quando há reclamações,  
+o atendimento é default, encaminhando para  
+um formulário, fazendo com que o atendimento 
+telefônico seja uma melhor opção de interação,  
+e não a rede social. CANAIS NO AMBIENTE DIGITAL  > CENÁRIO ATUAL
+89 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO CANAIS NO AMBIENTE DIGITAL  > CENÁRIO ATUAL
+As pessoas precisam se sentir ouvidas. Quanto mais impessoal for o atendimento,  
+mais reclamação haverá o que acabará por sobrecarregar o atendimento telefônico.
+Os conteúdos geram baixo engajamento, comparado ao número de pessoas  
+que curtem a fanpage (14% de usuários engajados).
+Há muitos spams de corretoras fazendo intervenção nos comentários dos usuários,  
+sem moderação. 
+O previdenciasemblablabla  é ótimo condutor de pessoas para o site, gerador de pauta  
+nas redes sociais e diferencial entre as seguradoras, mas não é divulgado ou atualizado. 
+O agregador colaborativo tem vários apps sociais, mas não conversa com as redes sociais,  
+nem é divulgado. 
+O fórum da saúde tem postagens sem respostas, spams de corretoras e não há moderação. 
+O blog possui posts muito compridos  com fontes pequenas (cansando a leitura), não tem  
+a identidade visual da SulAmérica e não é divulgado nem integrado aos outros canais.90 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO > DEFINIÇÃO DOS CANAIS
+A missão dos canais próprios é cobrir todas as fases da jornada do consumidor. A seguir, temos 
+o mapeamento da presença de cada canal na jornada de seguros e como cada canal atua no cumprimento dessa missão:
+PROCESSO SITEREDES 
+SOCIAISCHAT FÓRUMSULAMERICA.
+COM VOCÊ
+StimulusOfertas/Campanhas/
+Apresentação de produtos√√ --√√
+ZmotPresença em recomendações/
+Storytelling/Contato/Cadastro/
+Pesquisa√√√√√
+First Moment  
+of TruthDirecionamento para  
+o corretor ideal√√ -- -- --
+Second Moment  
+of TruthServiços/Apoio/Atendimento √√√√√JORNADA
+√ Essencial no momento da jornada do consumidor
+√ Pode contribuir em parte com o momento da jornada do consumidor91 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > SITE
+SulAmérica deve possuir sites e não um portal
+• Nossa recomendação é segmentar a venda por públicos,  
+num cenário no qual o consumidor seleciona sua área de 
+pertinência/ identidade e o site lhe provê os conteúdos relevantes.
+• Um portal dificultaria  o acesso, a navegação do usuário  
+e sua espontaneidade da compra, comprometendo a experiência. 
+• Seguramente, não poderemos tratar todos os públicos  
+de maneira igual, mesmo no público leigo:
+• O consumidor iniciante precisa conhecer o processo de 
+compra e pós-compra, numa linguagem mais didática, por 
+meio de vídeos, imagens, tira dúvidas e etc. Sugerimos até criar 
+um domínio diferente pra ele: www.primeiroseguro.com.br
+• Simplificar a linguagem não significa subestimar o 
+entendimento do usuário: uma abordagem didática numa 
+linguagem inteligente, mas simples, atenderia aos iniciantes  
+na categoria, como os menos habituados a seguros  
+como um todo, especificamente a nova classe C92 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICO• Importante lembrar que o cliente de uma modalidade  
+de seguros é prospect para outra modalidade,  
+na qual se comporta como iniciante!
+• O prospect mais experiente precisa que a compra  
+seja facilitada. Os passos de compra (até o momento  
+em que a SulAmérica indica a corretora para fechar o seguro) 
+precisam ser simples e intuitivos. 
+• Nesse sentido, outros sites acessórios, como site dirigido  
+a programa de benefícios e vantagens, site educacional  
+(como Previdência sem bla, bla, bla, que poderá ser expandido 
+para outros temas no YouTube, como falaremos adiante)  
+ou inspiracionais (SulAmérica e você) podem ser sugeridos 
+desde que cumpram seu papel dentro dos dois momentos 
+específicos do ZmoT (stimuls e Zero Moment).DEFINIÇÃO DOS CANAIS > SITE
+A princípio, o mind set do consumidor seria:
+Sou PJ ou PF  O que desejo   Atributos   Canal de contato
+Sou corretor/parceiro   O que desejo   Canal de contato93 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > SITE
+• Reforçamos a importância de que o último passo do prospect  
+seja “um botão” Contratar. Ele pode levar a um corretor online,  
+a um mapa geolocalizado que mostra o corretor mais perto  
+e um campo de contato no qual ele deseja ser acionado  
+(O primeiro call to action é dele, o segundo precisa vir da empresa).
+• O site precisa ter todos os recursos que se lembrem de quem  
+está acessando: assim, necessita ser behaviour driven e ter  
+suporte de links patrocinados com estratégia de remarketing.94 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > SITE
+A missão do site SulAmérica é a de levar o consumidor  
+ao Zero Moment of Truth em sua jornada de consumidor
+Através do reconhecimento do usuário (quando permite que o 
+usuário acesse a área que lhe é relevante) e da oferta de conteúdos 
+relevantes e de simples entendimento, numa navegação intuitiva,  
+o site expõe o usuário a estímulos e input fundamentais para  
+entender o produto e tomar a decisão de  buscar o corretor  
+da SulAmérica e só SulAmérica.95 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > SITE
+Para os corretores e parceiros
+Para os demais públicos – parceiros e corretores – a missão do site 
+vai além de  informar: sua missão é relacional, abrançando todas 
+as variáveis da relação comercial (gestão de apólices e sinistros, 
+passando por novos produtos e notícias indo até programa  
+de incentivos e treinamentos).96 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > CHAT
+O chat online  tem papel preponderante na Jornada do Consumidor. 
+Sua função é elucidativa: tira dúvidas, encaminha solicitações  
+para os canais devidos para providências, traz mais informações 
+para a decisão do consumidor, seja cliente ou prospect, corretor  
+ou parceiro. 
+O chat online é o lado humano do site, provê um contato interpessoal 
+remoto. Aprendemos que, numa categoria ainda em maturação, 
+como seguros, o contato humano é reassegurador, gera confiança  
+e contribui para a decisão favorável para SulAmérica.
+Portanto, o chat online não poderá ser um simples replicador  
+de informações que já estão no site. Ao contrário, deverá  
+ser acolhedor, interessado e preparado para não só entender  
+a questão do cliente/ prospects, mas ir além se necessário,  
+de forma ágil e amigável, de fácil navegação,  
+sem demoras para atendimento/ sem filas de espera.97 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > FÓRUM
+Fórum Saúde
+Nossa recomendação é que ele tenha moderação,  
+evitando spams e agradecendo as contribuições de usuários. 
+Também, junto a um especialista responder as perguntas postadas.
+Caso isso não seja possível, nossa recomendação  
+é que ele seja tirado do ar.98 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > SULAMÉRICA.COM VOCÊ
+Espaço colaborativo com aplicativos e links para jogos e canais 
+sociais. A proposta é que ele seja um canal próximo e interativo  
+do usuário. É uma ideia coerente que todos os apps sociais  
+fiquem no mesmo espaço.
+Recomendamos que haja widgets que incluam os últimos  
+posts em facebook e twitter. Neste espaço, podem ter também 
+promoções, privilegiando este acesso. Este espaço também  
+precisa ser divulgado, através de links patrocinados.99 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > REDES SOCIAIS
+As redes sociais  abraçam todos os públicos, ajudam os iniciantes 
+através de interações e conteúdos e possibilitam relacionamento,  
+que compreende: apresentação de produtos, atendimento,  
+gera o lead de venda e núcleo de qualidade.
+Cada canal oficial de SulAmérica nas redes sociais tem um papel 
+específico, uma missão. Abaixo, as recomendações para cada canal.100 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICOFacebook
+Como carro chefe nas redes sociais, a missão do Facebook será a de 
+ser o “amigo leal” dos usuários. Conforme a jornada do consumidor 
+exemplificada acima, através da interação e conteúdos relevantes, vai 
+orientar os usuários na trajetória do processo de compra, comunicando:
+• Produtos:  Ele precisa ser didático como o  
+www.previdenciasemblablabla.com.br e ter imagens  
+e vídeos ilustrativos que facilitem a assimilação  
+do que é o produto para o usuário.
+• Benefícios de ser um cliente:  Divulgar descontos  
+e benefícios que diferencie a SulAmérica dos concorrentes.
+• Conteúdos de Apoio:  É importante que os conteúdos  
+produzidos reforcem a expertise da SulAmérica no assunto  
+Seguros, passe credibilidade e tenham um tom amigável.  
+Um dos conteúdos de apoio será um fórum de perguntas sobre 
+seguros, feitos uma vez por mês, onde as respostas são dadas  
+em tempo real, e futuramente podem virar vídeos-respostas  
+e expandir o site www.previdenciasemblablabla.com.br.DEFINIÇÃO DOS CANAIS > REDES SOCIAIS101 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > REDES SOCIAIS
+• Concursos e ativações:  Estas são ações que dão bastante 
+resultado no mercado brasileiro. Através do Facebook,  
+podemos criar nas abas aplicativos e concursos culturais  
+que incentivem o engajamento dos usuários neste ambiente. 
+• Atendimento:  Recomendamos um atendimento pessoal.  
+Quando precisar de dados e informações, pedir por inbox.  
+Já existe um formulário no site, é impessoal usar o mesmo  
+método em uma rede social que tem em sua essência  
+a interação e a proximidade maior com o usuário.
+Para aumentar o alcance da mensagem, também recomendamos 
+que sejam usados seus fortes recursos de mídia. Através de 
+anúncios e “histórias patrocinadas” é possível gerar recomendação 
+da própria base de clientes-fãs da marca e alcançar mais pessoas.102 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > REDES SOCIAIS
+Twitter
+O Twitter fará principalmente a fase da experiência na jornada  
+do consumidor. Terá como missão o apoio e atendimento,  
+fazendo assim relacionamento com os já clientes da marca.
+É importante que as dúvidas sejam respondidas de forma  
+rápida e coerente de uma maneira que deixe o usuário satisfeito  
+com o atendimento. Para isso, haverá uma equipe dedicada  
+que possa ter um speech preparado para a maioria dos casos.
+Ele será listado como um dos canais de atendimento.103 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > REDES SOCIAIS
+Blog
+O blog, com uma missão inspiracional e de dar um tom mais  
+leve ao assunto de seguros, ajudará na jornada do consumidor  
+e a impactar um público que pode ainda não estar pensando  
+em seguros, mas se preocupa com seus bens. Focado 
+principalmente no produto específico de seguro residencial,  
+ele pode levar tráfego ao site e às redes sociais com  
+seus conteúdos de decoração, reforma e construção. 
+Ele precisa ter a identidade de SulAmérica em seu layout,  
+e chamar tráfego através das redes sociais e links patrocinados.
+Ao invés de muitos textos e imagens mescladas, ele pode ter albúns 
+de fotos em separado, como uma seção de inspiração, com o link 
+para o texto; este que precisa ser objetivo e ter leitura agradável. 
+Haverá um carrossel de destaques na home, e a cada post,  
+botões para compartilhamento.104 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > REDES SOCIAIS
+Youtube
+Ele tem dois papéis fundamentais. Cada vez mais o Youtube  
+está virando uma TV que é assistida por milhões de pessoas  
+e, assim, virando um canal extremamente eficaz  
+para fazer propaganda online. 
+Para propaganda a compra de mídia dentro do Youtube (YT)  
+é uma solução muito eficaz no momento  
+e uma das mais indicadas para SulAmérica.
+Porém, o YT pode ter uma outra função, que é como canal 
+proprietário no formato de branded channel. Neste caso,  
+a recomendação é que ele tenha o propósito claro de ser  
+um ambiente para apresentar diversos vídeos de produtos  
+(bem feitos e com um bom roteiro) que sirvam para ilustrar  
+de forma lúdica e educativa as características de cada seguro.  
+A exemplo do www.previdenciasemblablabla.com.br,  
+podemos ter vídeos interativos que podem ser linkados  
+e compartilhados com mais facilidade. 105 Planejamento estratégico digital
+ESTRATÉGIA RECOMENDAÇÕES DIAGNÓSTICODEFINIÇÃO DOS CANAIS > REDES SOCIAIS
+Linkedin
+O Linkedin terá como missão, o relacionamento com funcionários  
+e novos talentos, sendo uma plataforma de recrutamento  
+e podendo ter grupos para unir colaboradores e funcionários.  
+Ela tem se mostrado eficaz neste assunto, já que grandes  
+empresas como a Vale, por exemplo, fazem um bom uso do canal.

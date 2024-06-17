@@ -1,0 +1,590 @@
+AI for Advertising  
+Blueprint
+Sponsored By
+© 2023, Marketing AI Institute, All Rights Reserved.
+Published October 2023
+2  |  AI for Advertising  Blueprint3  Why Artificial Intelligence Is a Must for Advertisers
+4   A Quick Introduction to AI for Advertising 
+What Is AI?  4 
+Machine Learning and the Core Types of AI  5 
+7   How to Find AI Use Cases in Advertising 
+8  Top AI Use Cases in Advertising   
+11   Top Companies Using AI for Advertising 
+Construction Leader Achieves More Than 10x ROAS  11 
+Educational Group Bolsters Public Perception With AI-Powered Ad Campaign  11 
+Cause-Based Organization Saves 78% on Ad Spend with AiAdvertising  12 
+13   Top Marketing AI Tools for Advertisers 
+AiAdvertising  13 
+Attention Insight  14 
+Celtra  14 
+GumGum  14 
+Intellimize  14 
+Midjourney  15 
+Pathmatics from SensorTower  15 
+QuantPlus  15 
+Runway  15
+16   Why the Future of Advertising Depends on AI 
+About Marketing AI Institute  17 
+About AiAdvertising  17 Table of Contents3  |  AI for Advertising  Blueprint
+Advertisers are often the tip of the spear: A brand’s first, best chance to make an impression and reach new audiences. 
+Today, advertising takes up the largest slice of global marketing spend as organizations strive to increase awareness 
+when customers have more choices than ever (Salesforce 2023 State of Marketing Report). But even with a budget, it’s no 
+easy feat. 
+Consumers are walking around with multiple devices strapped to them. Plus, they’re savvy — they expect high relevance 
+and heightened privacy. Cookies are crumbling; companies understand that they need to implement a zero-party data 
+strategy for CRM optimization and audience targeting. Creative quickly grows stale. Ad fraud — which already costs 
+advertisers billions — is on the rise.
+The truth is, it’s never been harder — or more complex — to be an advertiser. 
+Between programmatic advertising and an ever-expanding list of digital channels, advertisers have the ability to reach 
+consumers across dozens of platforms, and millions of sites. They can target audiences with pinpoint accuracy, overlaying 
+hundreds and thousands of demographic and behavioral data points. 
+On top of this, they can test an infinite number of variations of different ads to see what performs best, all while 
+maintaining brand consistency, managing vast data sets, and reporting in detail on return on ad spend (ROAS) — for 
+budgets sometimes running into the millions of dollars.  
+It’s incredible, and impossible. No advertising team has the bandwidth or brainpower to test, evaluate, analyze, and 
+optimize every element of every ad across every channel for every. single. campaign. 
+That’s where AI comes in. Simply put, AI is essential if you want to win in the new landscape of modern 
+programmatic advertising.
+AI can do all of these things and more. That’s why forward-thinking companies are using AI to:
+• Leverage customer data to uncover behavioral insights
+• Develop rich behavioral-driven persona profiles to predict what resonates 
+• Engineer prompts based on segmented persuasion tactics and triggers 
+• Personalize and scale messaging, creative, and media mix for campaigns
+• Measure and prove performance of key performance indicators (KPIs)
+• Optimize full-funnel attribution and continually improve ROI
+• Allocate and adjust advertising budgets across channels and audiences automatically
+• Find new audiences and revenue-generating opportunities
+• Gain insight into competitors’ ad spend, messaging, creative, and advertising strategies 
+• Predict ad performance before launching campaigns
+• And much more.
+We’re here to cover what you need to know: What AI is, how to identify use cases for your advertising strategy, and 
+which tools to shortlist. 
+Why Artificial Intelligence  
+Is a Must for Advertisers4  |  AI for Advertising  Blueprint
+A Quick Introduction to  
+AI for Advertising
+Ready to explore AI in your business and career? The first step is to understand how the technology works. But don’t 
+worry; no knowledge of code, data science, or training models is required here. Instead, we’ll stick with the fundamentals 
+of what AI is and how it works. 
+What Is AI? 
+AI is, in short, the science of making machines smart. It’s software, but unlike software you’ve used before — which is coded 
+to perform specific functions, based on set rules — AI is software with the ability and flexibility to create its own paths to 
+achieve a goal.
+What’s even more incredible is that AI learns from past attempts, successes, and failures, and 
+improves its ability to complete a task. 
+So, what does this all mean? Let’s get away from the abstract, and ground it in a real-world 
+example: Advertisers pulling together a campaign for a new product launch. 
+To get started, they conduct market research: reviewing similar projects and campaigns, maybe 
+analyzing sales and marketing data, or gathering feedback from surveys or focus groups.
+Then, they build the campaign: selecting the channels, ad network, targeting, and budget. 
+They might select these based on past performance, guesswork, gut instinct, creative 
+inspiration, and available resources. Meanwhile, they pull in the creative team, where they 
+go back and forth on revision rounds over the visuals and ad copy. Then, the finalized ad is 
+formatted to each platform’s specifications.  
+Once launched, the advertiser reviews and optimizes the campaign based on incoming 
+data. Even with dynamic tools, the analysis may be lagging and the changes reactive. The campaign’s success is often 
+determined months afterward, once all reporting is in, customer records are reconciled, and data is analyzed. 
+Sound familiar? 
+Now what if the advertiser could run this same campaign, but better, faster, and cheaper? Sound impossible? 
+Not anymore! It might look something like this: 
+•  AI analyzes massive amounts of data — interactions, transactions, sales, online behavior, social sentiment, and 
+engagement — to predict consumer interests, motivations, demand, and forecast trends. 
+•  The creative team works with AI tools to create assets with a single prompt that’s driven by customer motivations, 
+then generates dozens of messages and creative variations to test elements and meet each ad spec.  
+•  The advertiser uses AI to build sophisticated ad targeting based on first- and third-party data, layering in user 
+behavior, past purchases, and other contextual factors. 
+•  AI-powered tools run complex and dynamic campaigns, delivering personalized ad creative and placement to 
+increase each buyer’s chances of converting. The campaigns are responsive and adaptive, continuously running 
+multivariate tests, optimizing based on real-time performance, and delivering instant insights. 
+•  Campaign conversion rates and efficiencies are at all-time highs, while smarter ad fraud detection prevents inflated 
+clicks. As a result, the team delivers unprecedented ROI on the campaign and a wealth of insights for future campaigns. AI is the science of 
+making machines 
+smart. It’s software, 
+but it’s software 
+with the ability and 
+flexibility to create 
+its own paths to 
+achieve a goal. 5  |  AI for Advertising  Blueprint
+High fives all around!
+Now, that’s impressive on its own, but it gets better: AI learns each time to achieve your advertising goals. Whether your 
+goal is to:
+• Find and convert new customers
+• Increase return on ad spend (ROAS) and reduce customer acquisition costs (CAC)
+• Optimize funnel conversions with no interaction history
+• Boost brand position and quality score
+• Increase time on site and overall engagement 
+• Decrease sales cycle length 
+• Increase average order values and cross-sell / upsell revenue 
+• Build loyalty, frequency, and wallet share
+• Develop deeper relationships to build zero-party data 
+In fact, each time you use AI in advertising, it learns more about what your customers like best and how they are 
+motivated to take action.
+Also, notice how the advertiser and creative team aren’t removed from the equation. They’re asking the right questions, 
+guiding, gut-checking, and making decisions all along the way. They’re far from absent — they’re empowered to do far 
+more when assisted by AI tools. 
+And we’re talking tools with the ability to unlock exponential performance gains the more you use them. That’s what 
+makes AI so powerful.
+Machine Learning and the Core Types of AI
+Let’s dive a bit deeper into how AI works before bringing it back to advertising. 
+AI isn’t a single tool or technique. It’s a category of technology and a broad suite of techniques that leverage smart 
+machines in different ways.
+For most, though, the magic is in “machine learning.” This is the primary subset of AI technology, and how AI tools learn 
+from past attempts to achieve a (human-defined) goal. 
+In your research, you’ll also probably read or hear people using terms like:
+• Deep learning
+• Reinforcement learning
+• Neural networks
+• Topic modeling
+• Robotics
+You’ll quickly notice there’s a lot of AI jargon out there, but to understand how AI works, you only really need to pay 
+attention to three main applications: Language, Vision, and Prediction.
+Language 
+The ability for machines to analyze, understand, and generate language. This includes the written and spoken word. 
+Common terms that fall under Language AI include: 
+• Natural language generation (NLG)
+• Voice recognition
+• Natural language processing (NLP)
+• Text analysis and summarization
+• Sentiment analysisA Quick Introduction to AI for Advertising6  |  AI for Advertising  Blueprint
+For example, Language AI can analyze user-generated content around a brand’s product line: comments, reviews, and 
+discussions across blogs, forums, and social media sites. By categorizing sentiments and identifying specific themes or 
+topics of discussion, advertisers can create ad campaigns that align with the most positive words, themes, and ideas.
+Vision 
+The ability for machines to analyze and understand data in images and videos.  
+Common terms that fall under Vision AI include: 
+• Object recognition
+• Emotion generation
+• Image generation
+• Optical character recognition (OCR) 
+• Video generation
+For example, an advertising team might use Vision AI to evaluate brand exposure from a sports sponsorship. AI could 
+scan hours of a televised event to detect and count every instance a brand’s logo is visible — on banners, jerseys, 
+merchandise, etc. — and how long it was on screen. This data could help a brand quantify their exposure and ROI of the 
+sponsorship deal. 
+Prediction
+The ability for machines to predict future outcomes based on data. 
+Common terms that fall under Prediction AI include: 
+• Personalization
+• Pattern recognition
+• Forecasting
+• Recommendation
+An example of Prediction AI is ad campaign forecasting. Before launching a campaign, AI could evaluate and 
+forecast how the advertisement will perform across channels. By analyzing competitor performance, past campaigns, 
+current market trends, and more, AI may predict the format (short videos), platform (trending social media sites), and 
+demographic (U.S. adults aged 35-45) that would yield the greatest ROI.  A Quick Introduction to AI for Advertising7  |  AI for Advertising  Blueprint
+How to Find AI Use  
+Cases in Advertising 
+Let’s recap: AI can help advertisers better understand and target their audiences, then turn around and better report on 
+the results. But there are lots — and we mean lots… like hundreds — of ways to insert AI into your organization. 
+If you’re overwhelmed by where to begin, we recommend looking at your advertising program and asking these 
+four questions: 
+1. Is it data-driven? Are you already using data to do this task — or could you? AI excels at crunching 
+incomprehensible data sets at lightning speeds.  
+ 
+This means that any task reliant on data (customer demographics, transaction history, browsing behavior, etc.) should 
+rise to the top of your list of possible use cases. Also, consider your most robust and reliable sources of marketing 
+and customer data. The more data you have, and the more essential the task, the better.  
+2. Is it repetitive?  Is the task clearly defined, highly structured, and repeatable? For example, when pulling a weekly 
+ad spend report, you can leave the one-off assignments and open-ended tasks to your creative team members, and 
+offload the mundane, repetitive tasks to AI.  
+3. Is it making a prediction?  Looking to improve the performance of an ad, channel, or campaign? Have historical 
+data to learn from?  
+ 
+In AI, prediction is always the name of the game. Machine learning works by learning what’s worked in the past, 
+breaking down the patterns or shared characteristics, and predicting an approach that will repeat or beat that 
+historical performance.  
+ 
+It follows then, that AI is great at making predictions. AI can help you uncover patterns, unearth new insights, and 
+better predict which elements of your marketing will perform best.    
+4. Is it generative?  AI has shown remarkable proficiency in generating content across various domains, including text, 
+images, audio, video and code. 
+If you can answer “yes” to any one of these questions, you’ve identified an opportunity to boost your organization’s 
+productivity and performance with AI. And if you’ve answered “yes” to all four, nice work — you’ve just found your first 
+AI pilot project. 8  |  AI for Advertising  Blueprint
+Top AI Use Cases in Advertising 
+You probably already have a list of use cases for your advertising program. Here are other common ways advertisers can use AI.
+Segmentation and Strategy  
+• Run predictive analysis to determine which ad content and creative will work before you launch.
+• Complete sophisticated customer journey mapping to serve up the right ads at the right time. 
+•  Set up and more precisely target different audience segments based on firmographic, technographic, first-party, or 
+third-party data to dynamically serve the right content to each audience.
+• Unify customer data for richer behavioral profiles, better segmentation, and more targeted ads.
+• Analyze competitors’ ad campaigns to uncover winning strategies.
+• Intelligently segment prospects to personalize ad messaging to a user’s specific needs or goals. 
+• Create comprehensive profiles of valuable users and customers to compile valuable lookalike audiences.
+•  Automatically identify cross-sell and upsell opportunities that make sense for each individual buyer based on 
+purchase history.
+• Uncover less obvious channels and platforms to find new audiences interested in your ads.
+Ad Creative 
+•  Automatically generate different variations of product listings and images at scale to fit the standards of different 
+channels and ad networks.
+• Scale one piece of creative across platforms, languages, and regions.
+•  Run cross-channel marketing. Dynamically update ad creative and copy to be consistent for users across channels 
+and devices. 
+• Generate video advertisements using AI-assisted scriptwriting, graphics, voiceover, and even AI actors. 
+•  Mine user-generated content like search queries, customer reviews, and social media posts to better understand 
+buyer intent, challenges, and preferences, and craft more effective ad copy.
+•  Maximize the value of your data by unlocking information trapped in product descriptions, reviews, or other 
+unstructured text to generate more relevant ads.
+• Create more relevant ads based on contextual variables, such as device type, location, or time of day.
+Targeting and Personalization
+•  Match products to a user’s needs, desires, motivations, and interests to identify cross-sell and upsell opportunities, 
+then run personalized ad delivery campaigns.
+• Improve retargeting and remarketing campaigns by better predicting what users want to see, do, read, or buy next.
+•  Create a product recommendation engine that intelligently recommends content and products based on consumer 
+preferences and behaviors.
+• Personalize product descriptions and reviews based on demographic or contextual data, like search queries.
+• Use AI to analyze product metadata and provide smarter product recommendations to users from your catalog.
+• Recommend trending products — those gaining popularity among users at the fastest pace.9  |  AI for Advertising  Blueprint
+Conversion Rate Optimization and Eliminating Guesswork in A/B Testing
+•  Use A/B or multivariate testing to identify ad copy that resonates with your target audience, and test even more 
+variations more quickly using AI.
+•  Automatically serve different site versions to each visitor, aligning the experience with the ad to maintain brand 
+consistency and optimize conversions. 
+•  Execute A/B tests of ad campaign landing pages, headlines, images, offers, calls to action and more, learn from the 
+results, and automatically apply the learnings to future campaigns.
+• Allocate budget to the right audiences and channels. 
+• Automatically and proactively manage, adjust, and optimize ad budget.
+•  Run dynamic pricing campaigns, and provide personalized pricing based on customer behavior, competitor prices, 
+and market demand to incentivize conversions.
+• Put ad placement optimization on autopilot.  
+• Save money with more sophisticated and accurate ad fraud detection.
+Analytics and Reporting 
+• Use visual AI to identify the colors, copy, and visual elements that perform best. 
+•  Run sentiment analysis on ad creative to optimize future messaging and campaigns based on your audience’s 
+reactions.  
+• Get real-time analytics and instant reporting insights to augment your own analysis.
+•  Continuously pull relevant metrics and illustrate performance in dashboards and interactive reports, calculating ROI 
+for each campaign.
+• Synthesize massive data sets for patterns and emerging trends that can inform future ad campaign strategies.Top AI Use Cases for Advertising10  |  AI for Advertising  BlueprintTop AI Use Cases for Advertising
+Looking for ideas unique to your business? We’ve 
+rounded up some industry-specific ways that AI can 
+supercharge your advertising.
+Manufacturing & Distribution
+•  Forecast demand and adjust advertising campaigns 
+based on supply chain predictions.
+•  Identify the companies that best fit your target customer 
+profile and run targeted ads as part of an account-based 
+marketing strategy.
+•  Advertise specific products to businesses based on 
+their unique needs, purchase history, location, product 
+lifecycles, and more.
+•  Implement personalization into websites with dynamic 
+pop-up ads that help users find the product or part 
+they’re looking for based on their job title, industry, or 
+product lines they’ve purchased from in the past.
+•  Personalize product recommendation ads to equipment 
+buyers in specific industries and use cases. 
+•  Proactively advertise products based on common 
+replacement or upgrade timelines.
+ 
+Hospitality 
+•  Adjust advertised hotel room rates dynamically and in 
+real time based on occupancy rates, seasonal trends, 
+local events, and competitor pricing.
+•  Tailor ads to provide more personalized packages or 
+experiences to potential guests.
+•  Respond to booking inquiries and advertise special 
+deals via AI-powered chatbots.
+•  Adjust and align advertising messages based on recent 
+guest feedback and top reviews.
+•  Serve ads with the most relevant photos and reviews to 
+increase bookings. 
+•  Create more dynamic menus, provide better delivery options, 
+and develop a portfolio of ancillary offers to advertise. 
+•  Recommend experiences based on activity or destination 
+preferences, seasonality, and trending destinations.Financial Services
+•  Personalize ad copy to a user’s specific financial data 
+or goals, making it highly relevant to audiences with 
+different incomes, financial targets, or product interests.
+•  Automatically categorize transactions to advertise the 
+right financial product at the right time. 
+•  Intelligently segment users to personalize ads based on 
+their buyer journey. 
+•  Identify patterns in financial behaviors, web browsing 
+history, or social data that indicate major life events 
+like getting married, buying a home, having a child, or 
+nearing retirement. Then, serve timely ads for relevant 
+products (home loans, child savings accounts), or 
+services (retirement planning).
+•  Flag signs that a customer is at risk of churning, giving 
+advertisers the opportunity to engage potentially at-risk 
+customers with personalized offers or content to retain them.
+•  Bridge the gap between customer service and 
+advertising with educational AI-driven chatbots that 
+can interact with, educate, and recommend financial 
+products to inquiring site visitors.
+ 
+Direct-to-Consumer (D2C) Retail
+•  Spotlight products based on individual browsing 
+and purchase history to provide more personalized 
+shopping experiences.
+•  Anticipate which products will be in demand based on 
+current inventory, and run advertising based on supply. 
+•  Use AI to analyze reasons for cart abandonment and 
+retarget those customers with personalized reminders.
+•  Recommend products, upsells, and cross-sells in real 
+time, as well as popular or similar items based on a 
+user’s past interactions. 
+•  Increase average order value by promoting items likely 
+to increase order size.
+•  Personalize search results and recommendations to 
+increase click-through rates, reduce cart abandonments, 
+and increase customer loyalty. Industry Specific Technologies and Use Cases
+11  |  AI for Advertising  Blueprint
+Top Companies Using  
+AI for Advertising
+Now, let’s look at how forward-thinking organizations are driving revenue and ad budget efficiency with AI.
+Construction Leader Achieves More Than 10x ROAS 
+The team at HOLT CAT San Antonio, one of the oldest and largest Caterpillar dealerships in the U.S., knew they could 
+squeeze more value out of their ad spend by better aligning media and messaging to resonate with their audience. 
+As a company that sells, services, and rents heavy equipment, along with carrying a large inventory of replacement parts 
+for sale, HOLT CAT needed to both reach new buyers and retarget existing ones with fresh and relevant offers. So, they 
+teamed up with AiAdvertising. 
+Step one was to unlock insights from HOLT CAT’s CRM data to deeply understand their current customers. After 
+aggregating CRM data into a unified data lake, the teams analyzed the demographics and purchasing motivations of 
+buyers. 
+Blending three distinct behavioral psychology models — Big Five OCEAN Personality, 
+Diffusion of Innovation (DOI) Theory, and Plutchik’s Wheel of Emotion — and owned 
+customer data, they identified persona profiles that had distinct interests, behaviors, and 
+preferred products, and segmented their CRM to pinpoint the characteristics of each one. 
+This determined whom to target (also jump-starting their lookalike audiences) and how to 
+approach them.
+From there, HOLT CAT was ready to develop hyper-targeted assets aimed at their ideal 
+customers. They launched a digital ad campaign across platforms; search ads and keywords 
+aligned perfectly with active shoppers’ habits. Creative was tailored to each persona, then 
+further optimized as multiple iterations were run through multivariate testing. 
+All the while, AiAdvertising’s Campaign Targeting Platform (CTP) was learning what was 
+working — and where.
+The target? HOLT CAT wanted to see an even greater return than their current 3x ROAS.
+The result? A whopping 14x return on ad spend, 37x ROI, with more than $6 million in won 
+revenue and $6 million in pipeline leads.
+More focused, more targeted, more efficient wins every time.
+Educational Group Bolsters Public Perception  
+With AI-Powered Ad Campaign
+A leading charter school was making a splash in its community. As the educational group 
+expanded, it attracted a fervent following — of both supporters and detractors. The school 
+partnered with AiAdvertising to better understand its community’s attitudes and improve 
+public sentiment toward the educational solution the school offered. 
+First, AiAdvertising ran baseline surveys to collect data on public perception of charter 
+schools generally, and their brand specifically. “ AiAdvertising 
+has helped 
+us to do two 
+things better: 
+reach the right 
+customers 
+with the right 
+message, 
+and track the 
+results back to 
+real financial 
+metrics 
+beyond just 
+impressions 
+and clicks.” 
+ 
+      -  Mike Colglazier, 
+Director of Marketing, 
+HOLT CAT12  |  AI for Advertising  BlueprintTop Companies Using AI for Advertising
+Next, they dug into their audience. This is where AiAdvertising’s persona-based and behavioral psychology-backed 
+methodology was able to shine. Dissecting the market research data to deeply understand the various cohorts and 
+motivations of the community, the charter school built out personas for each of these groups. 
+Their proprietary techniques told them not just who, but how: What messaging and communication channels would 
+resonate best with each group?
+From there, they built out focused audiences and laser-targeted messaging. They ran the sophisticated statewide digital 
+campaign — across search, social, native, connected TV, and audio platforms — matching the media mix to each cohort’s 
+platform preferences. 
+Follow-up surveys measured the impact, and AiAdvertising’s interactive dashboards laid out the results in stunning detail.
+The outcome? 
+The campaign increased positive brand sentiment by 9% and reduced negative sentiment by 12%. They saw double-
+digit swings in media coverage — a 10% increase in positive brand stories and a 20% decrease in negative ones. 
+Not only did the team achieve their goal of improving public sentiment and coverage overall, but they also enjoyed a 
+(not-insignificant) lift in interest. Website traffic and new visitors went up substantially in the wake of these campaigns. 
+Year-over-year numbers were up 140% and 134%, respectively.
+The takeaway is simple, but game-changing: by pausing to deeply understand their audience first, the school was able to 
+drive brand awareness in a way that truly aligned with and appealed to them. 
+Cause-Based Organization Saves 78% on Ad Spend with AiAdvertising 
+A faith-based organization sought to increase its reach and impact. With over 200 chapters in more than 30 countries, 
+they served a broad and diverse audience — all at different points in their faith journeys. 
+To grow and nurture their followers, they needed to speak to their unique needs. They knew in order to achieve this, 
+there was only one partner to choose: AiAdvertising. 
+By examining existing first-party member data, AiAdvertising and the organization were able to build out four distinct 
+personas and deduce their motivations for seeking out faith-based education and community. 
+Personas detailed each group’s unique motivations, triggers, and journey. Then, they segmented their audience based 
+on these criteria. 
+The team reviewed existing creative, analyzing elements to inspire new, even more resonant ads. Targeted messaging 
+was run alongside persona-tailored images — matching motivation, copy, and creative to each persona’s specificities for 
+maximum relevance and conversion.
+And guess what? This approach knocked it out of the park. 
+The organization saw astounding results in cost savings — up to 78% — and significantly decreased cost per 
+engagement across all four personas.
+Now the team has interactive dashboards tracking cost per engagement to help inform future budget decisions, and 
+ensure that their ads continue to connect with their audience. 
+By reaching the right people with the right message, more efficiently, this organization is poised to stretch its donations 
+further and better serve its faith community. 
+Together with AiAdvertising, they took a data-driven approach to reduce wasted budget, ultimately driving more reach 
+and engagement for every dollar spent. Smart.13  |  AI for Advertising  Blueprint
+Top Marketing AI Tools  
+for Advertisers 
+Ready to try out AI for yourself? There’s already a wide range of AI tools on the market that can benefit advertisers, from 
+analytics and prediction platforms, to personalization and conversion rate optimization (CRO) software, to end-to-end ad 
+management solutions.
+Here are some of the leading AI solutions for advertising to try today:
+AiAdvertising
+ 
+AiAdvertising is an AI-powered agency specializing in targeting strategies that harness the power of AI and machine 
+learning to eliminate waste and maximize return on ad spend.
+By employing the industry’s most scientifically advanced, patent-pending AI targeting process, we transform marketing 
+and customer experiences by personifying our clients’ data and scientifically targeting their ideal customers with 
+hyper-personalized campaigns. We empower brands to easily target, predict, create, scale, and measure campaign 
+performance and reduce waste. 
+As an AI agency, we leverage people, processes, and technology within our Campaign Targeting Platform to maximize 
+advertising dollars, predict creative that works, and find new customers, all while growing revenue.
+And that means dramatically higher productivity, efficiency, and performance!
+It features:
+•  Unified Data Lake: Through API integrations, the platform aggregates, cleans, and consolidates data from systems 
+like CRM, eCommerce, websites, forms, and social platforms.
+•  Marketing Calendar: Accessible marketing calendars provide transparency and make it easy to collaborate on 
+advertising campaigns.
+•  Persona AI Analysis: Data is clustered by similar behaviors, interests, triggers, and events uncovering signals and 
+insights that influence audience personalization. Personas are integrated with third-party data, online intent data, 
+and psychographic models to generate new look-a-like audiences.
+•  Predicted Creative Variety: Predictions match the most relevant images, animations, video, keywords, headlines, 
+and messages to the right audience.
+•  Dynamic Creative at Scale: Selected ads are automatically scaled for multi-variant execution accounting for sizes, 
+mediums, channels, imagery, motion, messages, and/or offers.
+•  Omni-channel Activation: Digital ads are deployed across search, social, display, video, mobile, connected TV 
+(CTV), digital out-of-home (DOOH), email, and website landing pages.
+•  ROI Dashboard: Drill into media spend, impressions, conversions, and revenue earned on the interactive 
+dashboard.
+•  Campaign Performance Tracking: Measure ROI by campaign, persona, channel, and overall, connecting the dots 
+between ad spend and sales revenue.
+A partnership with AiAdvertising eliminates guesswork and allows marketing and advertising professionals to optimize 
+advertising spend, discover new customers, predict winning creative, and scale revenue.
+So, who’s a good fit for AiAdvertising?14  |  AI for Advertising  Blueprint
+Top Marketing AI Tools for Advertisers
+You’re probably a great fit for AiAdvertising if you:
+•  Are a D2C or B2C or B2B brand that wants to squeeze the maximum ROI from your advertising budgets, and 
+ensure no dollar is wasted.
+•  Regularly launch new campaigns and need predictive analytics to determine which creative assets will resonate 
+most with audiences.
+• Need to extract actionable insights from comprehensive data sources to inform your advertising program.
+•  Are interested in breaking down audiences into detailed personas, leveraging behavior, interests, and triggers to 
+inform advertising strategy.
+• Require a solution that can dynamically tailor and scale advertisements, ensuring personalization at scale.
+•  Advertise across a variety of digital touchpoints, from search, social, and display to connected TV and digital out-of-
+home platforms.
+• Need a platform that can discover and target new customer segments or look-a-like audiences to fuel growth.
+• Have cross-functional teams and need to synchronize efforts across campaign planning and execution.
+Sound like you? Give AiAdvertising a try today. 
+Attention Insight
+Instantly create AI heatmaps with the most eye-catching parts of your design. Attention Insight’s AI-powered platform 
+can produce eye-tracking heatmaps that are 90-96% accurate without any human participants involved. Within 
+minutes, accurately predict where people will look, so you can roadtest your ads, landing pages, and product pages 
+before you launch.
+Celtra
+Celtra’s cloud-based software solutions empower brands, media owners, and agencies to leverage creative automation 
+technology to drive the efficiency, speed, and quality of their digital advertising production. Dynamic Product Ads 
+optimize ecommerce ad engagement, reach, and ROAS with custom Data Processing Agreement templates and feed-
+powered personalization. 
+With a state-of-the-art ad builder, trafficking templates, and comprehensive, customizable reports, Celtra Ad Suite makes 
+every impression work harder for your bottom line. 
+GumGum
+Use GumGum to grab people’s attention, deliver beautiful ads, and reach them when and where they’re most primed to 
+buy — all without the use of personal data.
+Leverage Verity™, GumGum’s contextual intelligence platform, which scans digital content to determine where to 
+effectively place ads online. It relies on context, instead of third-party data, for contextual targeting, brand safety, 
+and suitability.Learn more about AiAdvertising and get started today.
+LEARN MORE15  |  AI for Advertising  BlueprintTop Marketing AI Tools for Advertisers
+Intellimize
+Intellimize is a codeless SaaS platform that uses AI to optimize for 1:1 personalized website experiences across the entire 
+buyer’s journey. Marketing teams gain a competitive edge when using Intellimize to drive efficient pipeline and revenue 
+growth in a cookieless world. Leading marketing teams at Gong, Mercari, Okta, Dermalogica, Drift, Sumo Logic, and 
+more trust Intellimize to inspire, test, and learn faster, drive revenue, and be more efficient.
+Leverage Intellimize to personalize landing and product pages so your ad campaigns convert. 
+Midjourney
+Midjourney is a generative AI program that generates images from prompts. Instead of relying on stock photos or 
+photoshoots, you can use Midjourney to create custom imagery that meets the exact needs of your ad campaign. 
+Pathmatics from SensorTower
+Pathmatics empowers brands with the digital marketing intelligence needed to seize new digital opportunities and drive 
+business growth. It shows you the spend, impressions, and creatives for your competitors, which helps you find the 
+RIGHT prospects, prioritize leads, tailor new business pitches, increase share of wallet, and do it all faster. This can help 
+lead to more deals, expanding accounts, and increasing efficiency.
+QuantPlus
+QuantPlus is worldfirst in AI-driven data insights. Its reporting system breaks down advertising creative performance at an 
+“elemental” level and has boosted campaign ROI by 300%.
+QuantPlus has analyzed more than 100 billion ads across 55 countries within the education industry to unlock the secrets 
+of what creative elements in ads drive maximum enrollments. Ads can be pre-optimized using text, imagery, colors, 
+and calls to action that are linked to known performance before a single impression has been served. Industries like 
+automotive, charity, higher education, and recruitment are available as of time of writing, but others like finance, travel, 
+entertainment, and more are coming soon.
+Runway
+Runway enables you to create compelling images with prompts; easily remix the style and composition of existing 
+images; turn text prompts, images and videos into film, and more. Using it, you can create high-quality images and 
+videos for your ad campaigns at scale, explore various visual directions, and adjust existing creatives to better resonate 
+with audiences. 16  |  AI for Advertising  Blueprint
+Why the Future of Advertising  
+Depends on AI 
+Salesforce’s 2023 survey of 4,000 marketing leaders worldwide found that nearly two-thirds 
+of marketing organizations are using AI today.
+But according to our latest research, 58 percent of marketers say they’re still learning how 
+AI works and exploring its applications and potential value.
+And as our founder Paul Roetzer has said, “the generative AI tools you are experiencing 
+today represent the least capable AI you will ever use.” The technology is going to 
+continue to improve exponentially. 
+In other words: It’s not too late. In fact, this is just the beginning. 
+AI is poised to become better, faster, smarter, and more accessible to marketers and 
+advertisers everywhere. This presents you with an immense opportunity to transform your 
+company and your career. 
+Will you dive in, or be left behind?  “ The generative 
+AI tools you are 
+experiencing 
+today 
+represent the 
+least capable 
+AI you will ever 
+use. That fact 
+has profound 
+implications 
+for the future 
+of business, 
+education, 
+society, and 
+your career.”  
+ 
+      -  Paul Roetzer, Founder, 
+Marketing AI Institute 17  |  AI for Advertising  BlueprintAbout Marketing AI Institute
+Marketing AI Institute is a media, event, and education company founded in 2016 that makes AI 
+approachable and actionable for marketers and business leaders. The Institute owns and operates 
+the Marketing Artificial Intelligence Conference (MAICON), AI for Writers Summit, AI for Agencies 
+Summit and AI for B2B Marketers Summit; hosts The Marketing AI Show podcast; runs the AI 
+Academy for Marketers featuring dozens of on-demand courses; and published Marketing Artificial 
+Intelligence: AI, Marketing, and the Future of Business (Matt Holt Books, 2022).  
+ 
+Learn more at www.marketingaiinstitute.com. 
+About AiAdvertising 
+AiAdvertising, Inc. is an AI-powered agency employing the industry’s most scientifically advanced, 
+patent-pending AI targeting process to transform marketing and customer experiences allowing 
+marketers to personify client data and scientifically target their ideal customers with hyper-
+personalized campaigns. By harnessing artificial intelligence (AI) and machine learning (ML), we 
+empower brands to easily target, predict, create, scale, measure campaign performance and reduce 
+waste while gaining the intelligence they need to prove advertising’s impact on the bottom line. This 
+means more engaging, higher-impact campaigns that drive conversions.  
+ 
+Learn more at aiadvertising.com.DARE TO BE 
+DIFFERENT!
+AiAdvertising helps  
+marketers like you stand  
+out from the crowd.
+Photo created with our generative Ai process
+We use AI to optimize campaigns by 
+gaining deep customer insights, drawing 
+out motivations and behaviors, enabling 
+intelligent targeting and ensuring messages 
+hit the mark. Stop wasting time, money, and 
+resources. Let AiAdvertising take charge 
+while you take the credit!Start winning with 
+AiAdvertising’s innovative 
+approach to maximizing 
+ROAS & performance — 
+AiADVERTISING.COM

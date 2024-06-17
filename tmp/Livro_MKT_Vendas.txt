@@ -1,0 +1,5902 @@
+INSTITUTO  
+FEDERAL  
+RIO GRANDE  
+DO SUL 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Marketing  e Vendas  
+ 
+Ricardo  Barcellos  
+Simone  Schuster  Schelela  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Curitiba -PR 
+2012  Presidência  da República  Federativa  do Brasil  
+Ministério  da Educação  
+Secretaria  de Educação  a Distância  
+ 
+© 2012 INSTITUTO  FEDERAL  DE EDUCAÇÃO,  CIÊNCIA  E TECNOLOGIA  – PARANÁ  – 
+EDUCAÇÃO  A DISTÂNCIA  
+ 
+Este Caderno  foi elaborado  pelo Instituto  Federal  do Paraná  para o Sistema  Escola  
+Técnica  Aberta  do Brasil  – e-Tec Brasil.  
+ 
+Prof. Irineu  Mario  Colombo  
+Reitor  
+ 
+Profª.  Mara Christina Vilas Boas  
+Chefe  de Gabinete  
+ 
+Prof. Ezequiel  Westphal  
+Pró-Reitoria  de Ensino  - PROENS  
+ 
+Prof. Gilmar  José Ferreira  dos Santos  
+Pró-Reitoria  de Administração  - PROAD  
+ 
+Prof. Paulo  Tetuo  Yamamoto  
+Pró-Reitoria  de Extensão,  Pesquisa  e 
+Inovação  - PROEPI  
+ 
+Neide  Alves 
+Pró-Reitoria  de Gestão  de Pessoas  e 
+Assuntos Estudantis - PROGEPE  
+ 
+Prof. Carlos  Alberto  de Ávila 
+Pró-reitoria de Planejamento e  
+Desenvolvimento  Institucional  - PROPLADI  
+ 
+Prof. José Carlos  Ciccarino  
+Diretor  Geral  de Educação  a Distância  
+ 
+Prof. Ricardo  Herrera  
+Diretor de Planejamento e Administração  
+EaD - IFPR Profª Mércia Freire Rocha Cordeiro Machado  
+Diretora de Ensino, Pesquisa e Extensão  
+EaD - IFPR 
+ 
+Profª Cristina  Maria  Ayroza  
+Coordenadora  Pedagógica  de Educação  a 
+Distância  
+ 
+Prof. Roberto  José Medeiros  Junior  
+Coordenador  do Curso  
+ 
+Profª Ediane  Santos  Silva 
+Vice-Coordenadora  
+ 
+Adriana Valore de Sousa Bello  
+Cassiano  Luiz Gonzaga  da Silva 
+Karmel Louise Pombal Schultz  
+Rafaela Aline Varella  
+Assistência  Pedagógica  
+ 
+Profª Ester dos Santos Oliveira  
+Jaime  Machado  Valente  dos Santos  
+Idamara  Lobo Dias 
+Revisão  Editorial  
+ 
+Eduardo  Artigas  Antoniacomi  
+Flávia  Terezinha  Vianna  da Silva 
+Diagramação  
+ 
+e-Tec/MEC  
+Projeto  Gráfico  
+ 
+ 
+ 
+ 
+ 
+ 
+Catalogação  na fonte  pela Biblioteca  do Instituto  Federal  do Paraná  e-Tec Brasil  
+ 
+ 
+Apresentação  e-Tec Brasil  
+ 
+Prezado  estudante,  
+ 
+Bem-vindo  ao e-Tec Brasil!  
+ 
+Você faz parte  de uma rede nacional  pública  de ensino,  a Escola  Técnica  
+Aberta  do Brasil,  instituída  pelo Decreto  nº 6.301,  de 12 de dezembro  2007,  
+com o objetivo de democratizar o acesso ao ensino técnico público, na mo - 
+dalidade  a distância.  O programa  é resultado  de uma parceria  entre  o Minis- 
+tério da Educação,  por meio das Secretarias  de Educação  a Distância  (SEED)  
+e de Educação  Profissional  e Tecnológica  (SETEC),  as universidades  e escolas  
+técnicas  estaduais  e federais.  
+A educação a distância no nosso país, de dimensões continentais e grande  
+diversidade  regional  e cultural,  longe  de distanciar,  aproxima  as pessoas  ao 
+garantir acesso à educação de qualidade, e promover o fortalecimento da  
+formação de jovens moradores de regiões distantes, geograficamente ou  
+economicamente,  dos grandes  centros.  
+O e-Tec Brasil leva os cursos técnicos a locais distantes das instituições de en - 
+sino e para a periferia  das grandes  cidades,  incentivando  os jovens  a concluir  
+o ensino  médio.  Os cursos  são ofertados  pelas  instituições  públicas  de ensino  
+e o atendimento ao estudante é realizado em escolas -polo integrantes das  
+redes  públicas  municipais  e estaduais.  
+O Ministério da Educação, as instituições públicas de ensino técnico, seus  
+servidores técnicos e professores acreditam que uma educação profissional  
+qualificada – integradora do ensino médio e educação técnica, – é capaz de  
+promover  o cidadão  com capacidades  para produzir,  mas também  com auto- 
+nomia diante das diferentes dimensões da realidade: cultural, social, familiar,  
+esportiva,  política  e ética.  
+ 
+Nós acreditamos  em você!  
+Desejamos  sucesso  na sua formação  profissional!  
+Ministério  da Educação  
+Janeiro  de 2010 
+ 
+Nosso contato  
+etecbrasil@mec.gov.br   5 e-Tec Brasil  
+ 
+ 
+Indicação  de ícones  
+ 
+ 
+ 
+Os ícones  são elementos  gráficos  utilizados  para ampliar  as formas  de 
+linguagem  e facilitar  a organização  e a leitura  hipertextual.  
+ 
+Atenção:  indica  pontos  de maior  relevância  no texto.  
+ 
+ 
+Saiba mais: oferece novas informações que enriquecem o  
+assunto ou “curiosidades” e notícias recentes relacionadas ao  
+tema  estudado.  
+ 
+Glossário:  indica  a definição  de um termo,  palavra  ou expressão  
+utilizada  no texto.  
+ 
+Mídias integradas: sempre que se desejar que os estudantes  
+desenvolvam atividades empregando diferentes mídias: vídeos,  
+filmes,  jornais,  ambiente  AVEA  e outras.  
+ 
+Atividades  de aprendizagem:  apresenta  atividades  em 
+diferentes níveis de aprendizagem para que o estudante possa  
+realizá -las e conferir  o seu domínio  do tema  estudado.    
+ 
+Sumário  
+ 
+ 
+ 
+Palavra dos professores -autores  11 
+Aula 1 – Conceito  e histórico  do Marketing  13 
+1.1 O que é Marketing?  13 
+ 
+Aula 2 – O ciclo do Marketing  na história  15 
+2.1 Década  de 1950 15 
+2.2 Década  de 1960 15 
+2.3 Década  de 1970 16 
+2.4 Década  de 1980 16 
+2.5 Década  de 1990 16 
+2.6 Década  de 2000 17 
+2.6 Década  de 2010 17 
+2.7 Linha  do Tempo  18 
+Aula 3 – A orientação,  o ambiente  e as 
+estratégias  de Marketing  21 
+3.1 O Marketing  organizacional  21 
+3.2 Orientação  das empresas  22 
+3.3 Orientação  para a produção  22 
+3.4 Orientação  para o produto  22 
+3.5 Orientação  para as vendas  23 
+3.6 Orientação  para o marketing  23 
+3.7 Orientação  para o marketing  holístico  23 
+Aula 4 – O Marketing  empresarial  e seu ambiente  25 
+4.1 Análise  do ambiente  de marketing  25 
+4.2 Variáveis  utilizadas  em uma análise  do 
+ambiente  de marketing  25 
+4.3 O marketing  estratégico  26 
+Aula 5 – O marketing  e o consumidor  29 
+5.1 A consciência  da existência  do produto  29 
+5.2 O interesse,  as necessidades  e os desejos  30 
+5.3 O negócio e os meios de multiplicá -lo 30 
+5.4 O marketing  e o processo  de troca  30 
+ 
+e-Tec Brasil   
+  
+ 
+ 
+ 
+Aula 6 – Novas  direções  do marketing  33 
+6.1 Algumas  ferramentas  do marketing  37 
+ 
+Aula 7 – Trade  Marketing  41 
+7.1 O conceito  Trade  Marketing  43 
+7.2 Competências  Chaves  para o Trade  Marketing  43 
+7.3 Os pilares  de Trade  Marketing  43 
+ 
+Aula 8 – Buzz marketing/marketing  viral ou de guerrilha  45 
+8.1 Regra  dos eleitos  47 
+8.2 Networking  dos eleitos  50 
+8.2 O desequilíbrio  50 
+ 
+Aula 9 – O benchmarking ? 53 
+9.1 O que é o benchmarking ? 53 
+9.2 Os princípios  do benchmarking  53 
+9.3 Tipos  de Benchmarking  54 
+ 
+Aula 10 – Conceito  de benchmarking  57 
+10.1 Histórico  58 
+10.2 O que Benchmarking  é, 
+e o que ele não é (características)  59 
+10.3 Metodologia  de implementação  de um 
+processo  de benchmarking  59 
+Aula 11 – POP Planograma  63 
+Aula 12 – Publicidade  e Propaganda  no Marketing  67 
+12.1 O Marketing  X Publicidade  e Propaganda  67 
+ 
+Aula 13 – O marketing  e os produtos  69 
+13.1 A pesquisa  de informações  69 
+13.2 O planejamento  e desenvolvimento  de produtos  69 
+13.3 Influência  da demanda  e suas ferramentas  70 
+13.4 Desenvolvimento  de novos  produtos  e riscos  71 
+13.5 Por que introduzir  novos  produtos  72 
+13.6 Estágios  do Processo  73 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil   
+  
+ 
+ 
+ 
+Aula 14 – Conceito  de novos  produtos  75 
+14.1 Geração  de ideia leva em conta  75 
+14.2 Seleção  de ideias  75 
+14.3 Teste  de conceito  76 
+14.4 Ciclo de vida de novos  produtos  77 
+ 
+Aula 15 – Plano  de negócio  79 
+15.1 Plano  financeiro:  previsões  financeiras  79 
+15.2 Desenvolvimento  de produto  80 
+ 
+Aula 16 – Teste  de mercado  83 
+16.1 Teste  de mercado  ou marketing  83 
+ 
+Aula 17 – Técnicas  de Vendas  I 87 
+17.1 Módulo  I- Conhecimentos  essenciais  do vendedor  87 
+ 
+Aula 18 – Técnicas  de vendas  II 91 
+18.1 Conhecimentos  sobre  seu território,  
+área ou setor de atuação  91 
+18.2 Conhecimentos  sobre  a concorrência  91 
+18.3 Conhecimentos  sobre  os clientes  92 
+ 
+Aula 19 – Técnicas  de venda  III 95 
+19.1 Módulo  II - Motivação  do cliente  95 
+19.3 Os benefícios  e sua utilização  98 
+ 
+Aula 20 – Os tipos  psicológicos  de clientes  99 
+20.1 Três tipos psicológicos  de clientes  99 
+20.2 Os valores  e as atitudes  da negociação  100 
+20.3 A empatia  na compreensão  das pessoas  100 
+ 
+Referências  103 
+Glossário  107 
+Atividades  autointrutivas  109 
+Currículo  dos professores -autores  125 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil   
+ 
+  
+ 
+ 
+ 
+Palavra  dos professores -autores  
+ 
+Prezado  Aluno!  
+ 
+O presente livro tem como objetivo enriquecer o estudo acerca das ativi - 
+dades e práticas docentes relativas à disciplina de Marketing e Vendas, na  
+modalidade de Educação a Distância, do Instituto Federal do Paraná. Con - 
+templa,  também,  atividades  autoinstrutivas  e supervisionadas,  por abranger  
+a ação didática do professor, apresentação diferenciada das propostas de  
+atividades  práticas  aliadas  ao caráter  teórico  e reflexivo.  
+ 
+Cada aula foi estruturada pensando em retomar conceitos institucionais e  
+práticos  da cadeia  de marketing  dentro  da vida pessoal  e coorporativa.  
+ 
+Os tópicos apresentados estão claramente divididos em bases simples da  
+explicação  do surgimento  da palavra  marketing,  até as atuais  direções  e fer- 
+ramentas de criação e comunicação organizacional. Será passado de for - 
+ma muito transparente e clara a importância do marketing em nossas vidas  
+dentro da sociedade civil e empresarial, analisando o comportamento do  
+consumidor,  na sua decisão  de compra,  tão quanto  à importância  da criação  
+de novos  produtos  para a sobrevivência  de longo  prazo  de uma organização.  
+ 
+Claro que desde o ciclo histórico da criação do marketing, até a presente  
+data,  muitos  empreendedores  e escritores  surgiram,  trazendo  novo direcio - 
+namento  para função  estratégica  desta  matéria  dentro  do conceito  adminis - 
+trativo  das empresas.  Sendo  hoje uma das áreas  mais importantes  da admi- 
+nistração  junto  com os departamentos  de logística,  financeiro  e comercial.  
+ 
+E já que falamos  em comercial,  este livro contempla  de forma  simples,  porém  
+estruturada,  conhecimentos  básicos  de técnicas  de venda,  e suas incursões  den- 
+tro da organização,  trazendo  o conhecimento  escalonada  das necessidades  de 
+aprendizado  e das habilidades  de um profissional  de sucesso  em vendas.  
+ 
+O livro encontra -se dividido de modo didático. Seguindo um critério de  
+aprendizado,  rico de conhecimentos,  porém  de fácil assimilação.  Observan - 
+do uma evolução de conceitos e técnicas apresentadas gradativamente. A  
+intenção  é valorizar  cada ponto  como  se fosse um módulo  individual,  levan - 
+do vocês queridos alunos a um mundo de reflexão, análise comportamental  
+e aprendizado.  Sentimentos  que serão  estimulados  em cada aula. 
+ 
+11 e-Tec Brasil   
+  
+  
+ 
+ 
+ 
+ 
+ 
+Sinceramente  esperamos  que todos  os temas  abordados,  tal quais  as dicas 
+e trocas de experiências utilizadas em aula, permitam que você seja um pro - 
+fissional antenado e atualizado com o mundo da criação e comunicação, e  
+que em sua carreira  possa  utilizar  estes conceitos  e conhecimentos  para seu 
+único  e exclusivo  crescimento  pessoal  e organizacional.  
+ 
+Sincero  abraço  
+ 
+Professor  Ricardo  Barcellos  
+Professora  Simone  Schuster  Schelela  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  12  
+ Nestas  aulas, falaremos sobre  o conceito de  Marketing e sua origem.  
+Market  = Mercado  
+Ing = Sufixo  que significa  gerúndio,  então  uma ação.  
+Market  + Ing = Mercado  + ação.  
+Logo:  
+Marketing  = Mercado  em ação.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1.1 O que é Marketing?  
+A palavra  marketing  é originária  do inglês.  
+ 
+ 
+Segundo  a AMA (American  Marketing  Association ), marketing  é uma fun- 
+ção organizacional e um conjunto de processos que envolvem a criação, a  
+comunicação  e a entrega  de valor para os clientes,  bem como  a administra - 
+ção do relacionamento  com eles, de modo  que beneficie  a organização  e seu 
+público  interessado.  
+ 
+O marketing  foi criado  para atender  às necessidades  do mercado,  envolven - 
+do a satisfação  pessoal  e empresarial.  Nada mais é do que uma forma  de 
+promover  pessoas,  produtos  e serviços.  Os novos  produtos  necessitam  de 
+compradores,  assim  como  uma empresa  precisa  de novos  clientes.  
+ 
+Podemos  então  dizer que o marketing  se baseia  no estudo  do mercado  e 
+suas técnicas são aplicadas em diversas áreas e estão presentes em nosso  
+cotidiano.  
+ 
+O estudo  do mercado  surgiu  da necessidade  dos industriais  de administrar  a 
+nova realidade,  originária  da Revolução  Industrial,  que causou  uma transfor - 
+mação  de um mercado  de vendedores  para um mercado  de compradores.  
+Mas nessa  época  as empresas  fixavam  seus objetivos  apenas  na maximização  
+dos lucros,  não importando  os métodos  utilizados  para cumprir  tal meta.  
+Os consumidores  não conseguiam  negociar,  pois a concorrência  era pratica - 
+mente  inexistente.  
+ 
+ 
+ 
+13 e-Tec Brasil   
+ 
+ 
+Aula 1 – Conceito  e histórico  do 
+Marketing   
+  
+  
+ 
+ 
+ 
+ 
+ 
+A partir  da Segunda  Guerra  Mundial  o crescimento  da concorrência  esti- 
+mulou os comerciantes a buscar novas formas de atrair e lidar com os  
+consumidores. Surgiu então a cultura de vender a qualquer preço e conse - 
+quentemente métodos de oferta e procura nada honestos. Desde então, o  
+marketing  vem se desenvolvendo  e junto  com ele o mercado.  
+Resumo  
+Vimos  nesta  aula, que o marketing,  busca  satisfazer  às necessidades  e dese- 
+jos dos consumidores, mas sabemos que com o mercado altamente compe - 
+titivo  e globalizado  que estamos  inseridos,  surgem  novos  desafios  ao profis - 
+sional  de marketing  para manter  os seus clientes  e atrair  novos.  
+Atividades  de aprendizagem  
+• No seu ponto de vista, o marketing  cria ou satisfaz necessidades?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  14 Marketing  e Vendas  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.1 Década  de 1950  
+Os primeiros  passos  para a difusão  do marketing  
+foram dados por Peter Ducker, ainda que implici - 
+tamente, em 1954, com o lançamento do livro “A  
+Prática  da Administração”.  Não se tratava  propria - 
+mente de um estudo detalhado sobre Marketing,  
+mas foi o primeiro registro escrito que cita esta  
+ferramenta como uma força poderosa a ser consi - 
+derada por administradores  focados no  mercado.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  2.1: Peter  Ducker  
+Fonte:  www.valor.com.br  
+ 
+ 
+2.2 Década  de 1960  
+A primeira  grande  mudança  neste  cenário  veio em 1960 por Theodore  Le- 
+vitt, mais tarde  intitulado  o pai do marketing,  professor  da Harvard  Business  
+School.  Seu artigo  na revista  Harvard  Business  Review  entitulado  “Miopia  
+de Marketing”,  revelou  uma série de erros de percepções,  mostrou  a impor - 
+tância  da satisfação  dos clientes  e transformou  para sempre  o mundo  dos 
+negócios.  O vender  a qualquer  custo  deu lugar à satisfação  garantida.  Não 
+é à toa que assistiu -se logo após este período um renascimento das marcas  
+como  Coca-Cola,  Sears,  Malboro  entre  outras  muitas.  
+ 
+O mundo  do marketing  começou  a borbulhar,  artigos  científicos  foram  escri- 
+tos, pesquisas  feitas  e dados  estatisticamente  relevantes  traçados.  Separou - 
+-se as estratégias  eficientes  dos achismos  e viu-se a necessidade  de um estu- 
+do sério do mercado. Este conhecimento adquirido ficou espalhado, difuso,  
+muitas vezes restrito ao mundo acadêmico. Em 1967, Philip Kotler, lança a  
+primeira edição de seu livro “Administração de Marketing”, onde pôs -se a 
+reunir, revisar, testar e consolidar as bases daquilo que até hoje formam o  
+cânone  do marketing.  
+ 
+ 
+ 
+ 
+ 
+ 
+15 e-Tec Brasil  
+ 
+ 
+ 
+Aula 2 – O ciclo do Marketing  na 
+história  
+Nesta aula,  entraremos  no túnel do  tempo  para ver como  o marketing  se 
+desenvolveu,  desde  seu nascimento  até a atualidade.   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Franchise                          
+do inglês: franquia. Franchising  
+é um sistema  de negócios  que 
+permitiu diversos empresários  
+desenvolverem,  ao longo dos 
+anos, algumas  das marcas  mais 
+conhecidas  do mercado  – como 
+McDonald`s,  Lacoste,  O Boticário,  
+entre muitas  outras.  2.3 Década  de 1970  
+Nos anos 70 destacou -se o fato de surgirem departamentos e diretorias  
+de marketing  em todas  as grandes  empresas.  Não se tratava  mais de uma 
+boa ideia, mas de uma necessidade de sobrevivência. É nesta época que se  
+multiplicam os supermercados, shoppings centers e franchises . De fato, a  
+contribuição  do marketing  é tão notória  no meio empresarial,  que passa  
+rapidamente a ser adotada em outros setores da atividade humana. O go - 
+verno,  organizações  civis,  entidades  religiosas  e partidos  políticos  passaram  
+a valer -se das estratégias de marketing adaptando -as as suas realidades e  
+necessidades.  
+ 
+2.4 Década  de 1980  
+Em 1982,  o livro “Em Busca  da Excelência”,  de Tom Peters  e Bob Waterman  
+inaugurou a era dos gurus de marketing. Num golpe de sorte editorial, pro - 
+duziram o livro de marketing mais vendido de todos os tempos, ao focarem  
+completamente sua atenção para o cliente. O fenômeno dos gurus levou o  
+marketing  às massas  e, portanto,  às pequenas  e médias  empresas  e a todo o 
+tipo de profissional.  Talvez  por isso, e também  por uma necessidade  merca - 
+dológica o marketing passou a ser uma preocupação direta da alta direção  
+de todas as megacorporações, não estando mais restrita a uma diretoria ou  
+departamento.  
+ 
+O fenômeno dos gurus, entretanto, é responsável pelo posterior descuido  
+com o rigor da investigação científica e uma tendência a modismos. Nesta  
+época floresceram diversos autores que logo caíram no anonimato e outros  
+como  Al Ries por definir  o conceito  de posicionamento,  Jay Conrad  Levinson  
+por conceituar  o marketing  de guerrilha  e Masaaki  Imai pai do Kaizen  que 
+ganharam reconhecimento no mundo dos negócios e reputação por suas  
+ideias  e abordagens  originais.  
+ 
+2.5 Década  de 1990  
+Assim  como  fez em muitos  outros  setores,  o avanço  tecnológico  dos anos 
+90 teve um forte impacto  no mundo  do marketing.  O comércio  eletrôni - 
+co foi uma revolução na logística, distribuição e formas de pagamento. O  
+CRM (Customer  Relationship  Management ) e os serviços  de atendimento  
+ao consumidor, entre outras inovações, tornaram possível uma gestão de  
+relacionamento com os clientes em larga escala. E como se isso não fosse o  
+suficiente  a Internet  chegou  como  uma nova via de comunicação.  É a época  
+ 
+ 
+ 
+e-Tec Brasil  16 Marketing  e Vendas   
+  
+ 
+ 
+ 
+do maximarketing  de Stan Rapp,  do marketing  ‘1 to 1’, da Peppers  & Rogers  
+Group, do aftermarketing de Terry G. Vavra e do marketing direto de Bob  
+Stone  ou seja, caracterizou -se por uma constante  busca  pela personalização  
+em massa.  
+ 
+Outra tendência do período foi o fortalecimento do conceito de marketing  
+societal no qual tornou -se uma exigência de mercado haver uma preocupa - 
+ção com o bem -estar da sociedade. A satisfação do consumidor e a opinião  
+pública  passou a estar diretamente ligada a participação das organizações  
+em causas sociais, e a responsabilidade social transformou -se numa vanta - 
+gem competitiva.  
+ 
+2.6 Década  de 2000  
+A virada  do milênio  assistiu  a segmentação  da televisão  a cabo,  a popula - 
+ridade da telefonia celular e a democratização dos meios de comunicação  
+especialmente via Internet. A World Wide Web (internet) já estava madura  
+o suficiente e nos primeiros anos desta década surgiram uma infinidade de  
+pesquisas e publicações sobre web marketing e comércio eletrônico. Mas  
+mais do que isso, agora  o cliente  não tinha apenas  poder  de barganha,  tinha  
+também  poder  de informação.  Era de se esperar  que isso influenciasse  a ma- 
+neira com a qual os consumidores  interagiam  com as empresas  e entre  si. A 
+mídia  espontânea,  conseguida  por esforços  de Assessoria  de imprensa,  Rela- 
+ções Públicas e Marketing Social começam a tomar o espaço da propaganda  
+tradicional.  O nascimento  do marketing  de permissão,  de Seth Godin,  a con- 
+ceitualização do marketing boca -a-boca por George Silverman e a explosão  
+do buzzmarketing e do marketing viral por autores como Russell Goldsmith  
+e Mark Hughes  também  são consequências  deste  fato. 
+ 
+ 
+2.6 Década  de 2010  
+Com o crescimento econômico aliados aos avanços tecnológicos, como bio - 
+tecnologia,  robótica,  bem como  excesso  de capacidade  de produção  de car- 
+ros, eletrodomésticos,  eletrônicos  também  nos deparamos  com milhares  de 
+pessoas  pobres  no mundo  que adorariam  comprar  carros,  bicicletas,  compu - 
+tadores, mas não tem dinheiro. Neste contexto entra em ação o Marketing  
+Social, que como ação, por exemplo, doa camisinhas reduzindo o tamanho  
+das famílias e prevenindo a proliferação do vírus HIV. O fortalecimento das  
+empresas virais, elas surgiram nos últimos 15 anos, mas crescem vertiginosa - 
+mente  a cada dia, de forma  exponencial,  como  por exemplo,  de plataformas  
+ 
+ 
+ 
+Aula 2 – O ciclo do Marketing  na história  17 e-Tec Brasil   
+ 
+ 
+ 
+ 
+ 
+virais  temos  o Skype , que proporciona  ligações  gratuitas  de longa  distância.  
+Seus usuários tornaram -se agentes de marketing de forma gratuita, o mes - 
+mo ocorre  com o Facebook  e o e-bay. 
+ 
+2.7 Linha  do Tempo  
+Em 1908 , Henry Ford lança o modelo T, a 850 dólares, enquanto a concor - 
+rência só produz sob encomenda. O Ford T ampliou a indústria automo - 
+bilística e criou um oceano azul para a Ford. Depois dele, a carruagem foi  
+definitivamente  aposentada  como  meio de transporte.  
+ 
+Figura  2.1: Henry  Ford 
+Fonte:  http://davidkond.files.wordpress.com  
+ 
+ 
+ 
+Figura  2.2: GM 
+Fonte:  /www.hotpa.com.br  
+ 
+Figura  2.3: Casas  Bahia  
+Fonte:  http://content -portal.istoedinheiro.com.br  Em 1924 , Pierre Du pont, principal  
+executivo  da GM, quebra  a hegemo - 
+nia da Ford ao lançar uma linha de  
+carros com cores e estilos variados.  
+Nos anos 30 seguintes, a fatia de  
+mercado da GM sobe de 20% para 
+50%. A Ford viu sua fatia despencar  
+de 50% para 20%. 
+ 
+Em 1952 , no Brasil,  o polonês  Samuel  
+Klein cria seu oceano  azul ao fundar  a 
+Casas  Bahia.  Especializada  em eletro - 
+domésticos, ele lucra com os juros das  
+vendas  parceladas,  tornando  acessível  
+a compra  pelas  classes  mais popula - 
+res, que não podem  pagar  a vista.  
+ 
+ 
+e-Tec Brasil  18 Marketing  e Vendas  
+ 
+ 
+ 
+ 
+ 
+ 
+Em 1960 , Tom Watson,  o número  1 
+da IBM, revoluciona o comércio de  
+computadores, vendendo separada - 
+mente hardware, software e serviços.  
+A estratégia  deu origem  ao multibi - 
+lionário  setor de software  e serviços,  
+do qual a IBM é líder até hoje.   
+ 
+ 
+ 
+ 
+ 
+Figura 2.4:  Logo IBM 
+Fonte:  www-03.ibm.com  
+ 
+ 
+ 
+Figura  2.5: Nissan  
+Fonte:  www.mathewsons.co.uk  Em 1970 , os japoneses decidem apostar  
+em carros pequenos e eficientes, desa - 
+fiando a lógica americana do “quanto  
+maior, melhor”. Quando estourou a crise  
+do petróleo,  na década  de 70, o consumi - 
+dor americano se rendeu aos automóveis  
+da Honda,  Toyota  e Nissan.  
+ 
+Em 2000 , Constantino  de Oliveira  Jr., filho de empresário  de transporte  ur- 
+bano,  cria a Gol com modelo  de negócio  similar  ao da americana  Southwes - 
+term:  tarifa  reduzida  e baixo  custo.  Ao desvendar  um oceano  azul, a Gol 
+ignorou  rivais  como  Varig  e Vasp.  
+ 
+Figura  2.6: Constantino  de Oliveira  Jr - Gol 
+Fonte:  http://colunistas.ig.com.br  
+ 
+Em 2005 , Maurício Botelho, CEO  
+da Embraer, já navegava num oce - 
+ano azul ao antecipar a demanda  
+por jatos médios.  Ele fez uma apos- 
+ta ainda mais promissora: os mini - 
+jatos.  Eles são mais baratos,  levam  
+de quatro  a seis passageiros  e dis- 
+pensam  copiloto.  Figura  2.7: Maurício Botelho  - Minijatos  
+Fonte:  www.nytimes.com  
+ 
+ 
+ 
+Aula 2 – O ciclo do Marketing  na história  19 e-Tec Brasil  
+ 
+  
+ 
+Resumo  
+Vimos  a evolução  do marketing  entre  as décadas  de 1960 até os dias atu- 
+ais, desde a difusão feita por Peter Drucker, com o lançamento do Livro “A  
+Prática da Administração”, seguida pela o obras “Miopia de Marketing”  
+escrita por Theodore Levitt, por Philip Kotler que em 1967 lançou o Livro  
+“Administração de Marketing”. Já algumas décadas a frente, Tom Peters e  
+Bob Waterman lançaram o livro “Em busca da Excelência” e uma das gran - 
+des evoluções:  o CRM que se preocupava  com o relacionamento  com seus 
+clientes  e os avanços  tecnológicos  que cada dia mais aproximam  os clientes  
+das empresas.  
+Atividades  de aprendizagem  
+• Pesquise e escreva um pequeno texto sobre um marco do Marketing em  
+sua visão. Você poderá usar qualquer década, porém deverá citá -la em  
+sua descritiva  e justificar  o porquê  da escolha.  Troque  ideia com pessoas  
+que viveram  em outras  décadas  ou pesquise  na internet,  revistas  antigas  
+e livros  também.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  20 Marketing  e Vendas  
+ 
+ Nesta  aula falaremos  sobre  a direção  (orientação)  que cada empresa  toma,  
+em relação  ao Marketing,  para a venda  de seus produtos  e Serviços.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.1 O Marketing  organizacional  
+Já falamos sobre a importância do marketing na vida das pessoas. Es - 
+tamos cansados de saber e sentirmos como as mudanças tornaram -se 
+rápidas, e têm refletido imediatamente em nossas vidas. Agora, vamos  
+entender o porquê que o setor de marketing é tão relevante em qualquer  
+empresa.  
+ 
+No Brasil, o conceito de marketing organizacional encontra -se, ainda  
+hoje, bastante desfocado. Alguns o associam com a venda de produtos de  
+qualquer  modo,  mesmo  que as pessoas  não os desejem.  Enquanto  outros  
+acreditam tratar -se de uma maneira de fazer com que as pessoas comprem  
+o que não precisem,  com um dinheiro  que não possuem.  
+ 
+Na realidade,  ele é fruto de estudos  baseados  em diversas  ciências  (Sociolo - 
+gia, Psicologia,  Matemática,  Antropologia,  Estatística,  Filosofia,  Neurologia,  
+entre  outras),  e seu objetivo  é conhecer  o comportamento  das pessoas  e, a 
+partir  disso,  satisfazer  as necessidades  e desejos  de cada uma. 
+ 
+O marketing organizacional ou empresarial tornou -se uma força di - 
+fundida e influente em todos os setores da economia. Em poucos anos,  
+tomou -se consciência da importância do Marketing Organizacional nos ne - 
+gócios, tendo inclusive seus conceitos aplicados aos mais variados tipos de  
+organizações  e segmentos,  que pretendam  firmar -se num ambiente  glo- 
+balizado e competitivo, ou seja, tornou -se uma questão de sobrevivência.  
+Sabemos  que a marca  de uma empresa  é a soma  de todas  as impressões  
+que ela provoca no ambiente e nas pessoas. O consumidor esta atento  
+ao comprometimento da empresa perante o meio ambiente, seus valores,  
+consciência  e propósitos.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21 e-Tec Brasil   
+ 
+ 
+Aula 3 – A orientação,  o ambiente  e 
+as estratégias  de Marketing   
+  
+ 
+ 
+ 
+3.2 Orientação  das empresas  
+Com clientes  e consumidores  atentos  e in- 
+formados, as empresas que desejem sobre - 
+viver e crescer  precisam  superar  o desafio  da 
+melhoria na qualidade de vidas das pessoas.  
+Veremos  a seguir,  como  os diferentes  tipos 
+de orientação  de estratégia  impactam  nas 
+Figura  3.1: Direção  
+Fonte:  http://carreiradeti.com.br  organizações.  
+ 
+3.3 Orientação  para  a produção  
+No Brasil, ainda reina a soberania do produtos, este quadro felizmente,  
+está aos poucos  se alterando,  basta  lembrarmos  do Código  de Defesa  do 
+Consumidor, este tipo de orientação é um dos mais antigos nas relações de  
+consumo.  
+ 
+As empresas  orientadas  à produção  têm a visão de que os clientes  darão  pre- 
+ferência  aos produtos  que sejam  encontrados  em qualquer  lugar e com pre- 
+ço baixo. É um conceito vastamente utilizado quando a organização deseja  
+expandir  o mercado  e concentra -se em alcançar  alta eficiência  de produção  
+a custos  baixos  e em países  em desenvolvimento,  como  a China.  
+ 
+3.4 Orientação  para  o produto  
+As empresas  orientadas  para os produtos  costumam  concentrar  sua atenção  
+ao produto e muitas vezes se esquecem das necessidades do mercado, não  
+adianta  oferecer  produtos  e serviços  que não atendam  às expectativas  e ne- 
+cessidades  dos consumidores.  
+ 
+Normalmente esta orientação é seguida por empresas que idolatram seus  
+produtos e de forma alguma pretendem alterá -lo, mesmo que seus clientes  
+demandem um produto diferente. Podemos citar, por exemplo, as câmeras  
+fotográficas antigas que era necessário imprimir as fotos, os aparelhos de fax  
+que antes  eram  de bobina  e apagavam  com o tempo  o conteúdo  emitido,  
+que foram substituídos por aparelhos que imprimiam com cera ou jato de  
+tinta,  mas mesmo  inovando  caíram  no desuso,  além das máquinas  de escre - 
+ver que sofreram inovações, e mesmo assim foram deixadas de lado, com a  
+popularização  do uso dos computadores.  
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  22 Marketing  e Vendas  
+ 
+  
+ 
+3.5 Orientação  para  as vendas  
+As empresas orientadas para as vendas possuem como foco principal a ven - 
+da em si, independente  do que seja e se o consumidor  necessite.  
+ 
+Este tipo de orientação é arriscado, pois o risco de insatisfação é grande, o  
+equívoco comum que estas empresas cometem é acharem que o marketing  
+é uma função  suplementar  de vendas,  porém  no decorrer  dos anos,  per- 
+cebem que vendas é função do marketing. O objetivo é vender aquilo que  
+fabrica  e não fabricar  o que o mercado  demanda.  
+ 
+3.6 Orientação  para  o marketing  
+Para que uma organização  seja orientada  para o marketing  é necessário  que 
+esta filosofia seja amplamente difundida por todos os colaboradores, e que  
+todos  estejam  envolvidos,  independente  do cargo  que ocupem.  Isto se torna  
+possível  com um amplo  trabalho  de educação  interna,  neste  momento  é 
+crucial  o trabalho  do endomarketing.  
+ 
+De acordo  com Kotler  (2000),  as empresas  orientadas  para o marketing  têm 
+uma preocupação constante com os desejos dos clientes. Quando esses  
+desejos mudam, as empresas procuram evoluir, orientando -se pelo que os  
+clientes  querem,  buscando  formas  que possam  atendê -los. 
+ 
+Se todos os envolvidos na empresa estiverem comprometidos e motivados,  
+conseguirão colocar o cliente em primeiro lugar, e serão reconhecidos por  
+isso, através  da percepção  do cliente  e destaque  dentro  do mercado  em que 
+a organização  atue.  
+ 
+ 
+3.7 Orientação  para  o marketing  holístico  
+As empresas orientadas para o marketing holístico são aquelas que perce - 
+beram a interdependência entre o consumidor, os funcionários, as outras  
+empresas  e a sociedade  como  um todo.  
+Resumo  
+Vimos nesta aula que os esforços de marketing dentro de uma organização  
+dependem da filosofia, além de depender de seus valores e interesses. É  
+comum que os interesses das empresas não sejam os mesmos dos consumi - 
+dores,  da sociedade  e das políticas  financeiras.   
+ 
+Holístico  
+Relativo a holismo, que busca  
+tudo abranger,  que é totalizante.  
+ 
+ 
+ 
+ 
+ 
+Aula 3 – A orientação,  o ambiente  e as estratégias  de Marketing  23 e-Tec Brasil   
+  
+ 
+Atividades  de aprendizagem  
+• No seu ponto de vista, o marketing  cria ou satisfaz necessidades?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  24 Marketing  e Vendas  
+ 
+ Nesta  aula analisaremos  o ambiente  e determinaremos  as estratégias  fun- 
+damentais  para a correta  aplicação  do marketing.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4.1 Análise  do ambiente  de marketing  
+Para implantar um Plano de Marketing primeiramente deve ser feita uma  
+Análise Ambiental. Importando os conceitos e ferramentas do Planejamen - 
+to Estratégico, esta fase tem como objetivo conhecer o ambiente onde se  
+encontra  a organização,  mapeando  as ameaças  e oportunidades  que po- 
+dem ser vislumbradas no mercado e os pontos fortes e fracos da empresa  
+diante das realidades detectadas. algumas perguntas precisam ser feitas  
+para avaliar  um Plano  de Marketing,  são elas: o Plano  é simples?  O Plano  
+tem os objetivos  concretos  e mensuráveis?  As metas  são realistas?  O Plano  
+é completo?  
+ 
+O Planejamento  e os planos  precisam  ser flexíveis  para adaptarem -se às ne- 
+cessidades  da organização  e seus gestores  atentos  para monitorarem  o meio 
+ambiente  com a finalidade  de detectar  novas  oportunidades  de crescimento.  
+ 
+ 
+4.2 Variáveis  utilizadas  em uma  análise  do 
+ambiente  de marketing  
+O cumprimento dos objetivos e resultados alcançados demonstra o nível de  
+excelência  de uma organização.  Saber  trabalhar  com as ameaças  e oportuni - 
+dades  a seu favor  é a chave  de um eficiente  planejamento  estratégico.  
+ 
+As variáveis existentes no ambiente de mercado, e podem ser internas ou  
+externas  e consideradas  como  controláveis  ou incontroláveis.  
+ 
+As empresas  precisam  regularmente  fazer  uma análise  SWOT,  a fim de che- 
+carem suas oportunidades, ameaças, fraquezas e forças. Atitudes sempre  
+proativas,  pois nem sempre  as mesmas  táticas  de ação garantem  excelência  
+de resultados.  
+ 
+ 
+ 
+ 
+ 
+ 
+25 e-Tec Brasil   
+ 
+ 
+Aula 4 – O Marketing  empresarial  e 
+seu ambiente   
+ 
+ 
+ 
+ 
+ 
+ 
+Os termos  em inglês correspondem  às iniciais  da palavra  SWOT  
+ 
+S strengths  = forças  
+W weaknesses  = fraquezas  
+O opportunities  = oportunidades  
+T threats  = ameaças  
+ 
+Veremos  cada uma destas  variáveis  mercadológicas.  
+ 
+O ambiente  externo  é composto  pelas  oportunidades  e ameaças,  já o am- 
+biente  interno  é composto  pelas  forças  e fraquezas,  vejamos  os exemplos:  
+ 
+Figura  4.1: SWOT  – Pontos  Fortes  (Strengths),  Fraque - 
+zas ou Pontos Fracos (Weaknesses), Oportunidades  
+(Opportunities)  e Ameaças  (Threats)  
+Fonte:  ©Anson0618/Shutterstock  
+ 
+ 
+4.3 O marketing  estratégico  
+A palavra estratégia surgiu nos meios militares, era usada para definir as  
+ações que seriam usadas para vencer o inimigo. Por analogia, imaginemos  
+um ambiente de guerrilha, como o mercado altamente competitivo que es - 
+tamos  inseridos,  lembremos  que a estratégia  certa  é capaz  de colocar  o ne- 
+gócio  no caminho  certo  do sucesso.  
+ 
+A estratégia  mercadológica  do composto  de marketing  pode ser definida  
+como  o conjunto  de variáveis  controláveis  que a empresa  pode utilizar  para 
+influenciar  as respostas  dos consumidores,  e podem  ser classificadas  (segun - 
+do E. Jerome  McCarthy)  em quatro  fatores  (os 4 “P”):  
+ 
+ 
+ 
+e-Tec Brasil  26 Marketing  e Vendas   
+ ”Desde  que acordamos  até o momento  em que dormimos,  todas  as nos- 
+sas ações  são permeadas  pelo marketing”.  
+Marcos  Cobra   
+ 
+ 
+ 
+• Produto;  
+• Preço;  
+• Ponto  de venda;  
+• Propaganda  & promoção.  
+ 
+4.3.1  Produto  
+O produto,  como  o principal  fator do mix de marketing,  deve ser levado  em 
+consideração quanto a variedade, a qualidade, o design, as características,  
+nome  da marca,  sua embalagem,  os tamanhos  disponíveis,  os serviços  agre- 
+gados,  as garantias  oferecidas  e a política  de devoluções . 
+ 
+4.3.2  Preço  
+O preço, como outro fator importante de mix de marketing, deve observar  
+os descontos concedidos, as concessões, o prazo de pagamento e as condi - 
+ções de financiamento o perfil de seus consumidores bem como conhecer  
+seus concorrentes.  
+ 
+No Brasil, há pouco mais de duas décadas, temos o código de defesa do  
+Consumidor (CDC). Neste período os consumidores brasileiros adquiriram  
+mais informações  e melhores  condições  para fazer  valer seus direitos.  
+ 
+4.3.3  Ponto  de venda  ou Praça  
+O ponto  de venda  ou distribuição  pode ser entendido  como  a combinação  
+de agentes  através  dos quais  o produto  flui, considerando -se os canais  de 
+distribuição,  a cobertura,  a variedade,  os locais,  estoques  e meios  de trans- 
+portes  disponíveis.  
+ 
+4.3.4  Propaganda  e Promoção  de vendas  
+Um fator importante  é a correta  escolha  dos veículos  de comunicação,  como  
+será a promoção de vendas, a propaganda, a força de vendas, relações pú - 
+blicas  e o marketing  direto.  
+ 
+Árdua  e delicada  é a decisão  entre  jornais,  revistas,  rádios,  canais  de televi - 
+são, cinemas,  mala-direta,  outdoor,  ou os novos  meios  digitais.  
+ 
+ 
+ 
+ 
+ 
+Aula 4 – O Marketing  empresarial  e seu ambiente  27 e-Tec Brasil   
+  
+ 
+Resumo  
+Nesta  aula, abordamos  os seguintes  assuntos:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Você sabia que entre no Ranking  
+de reclamações  no PROCON  no 
+ano de 2010 lideraram  a lista 
+de queixas  fundamentadas,  
+empresas de Telefonia e serviços  
+bancários?  Fonte  Idec – Revista  
+Meio e Mensagem  de 14 de 
+março  de 2011. • Análise  de ambiente:  Externo  e Interno;  
+• Plano de marketing, que engloba as seguintes perguntas: o que, quem,  
+quando,  com que e quais  resultados  pretende -se atingir;  
+• Análise  SWOT  
+• Mix de produtos.  
+ 
+Vimos que para uma empresa atingir os objetivos almejados e resultados  
+promissores, é imprescindível o diagnóstico inicial e a consciência de que  
+esforço a ser dispensado será proporcional à situação futura desejada, que  
+poderão  ser previstas  pela análise  SWOT.  
+Atividades  de aprendizagem  
+• No seu ponto de vista, como poderia resolver este desafio do marketing  
+das empresas  de telefonia  e serviços  bancários,  mesmo  com tantas  recla- 
+mações,  manter -se líder de mercado?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  28 Marketing  e Vendas  
+ 
+ Esta aula fundamenta -se nas necessidades, desejos e interesses do con - 
+sumidor em relação aos produtos e serviços e na influência do mercado,  
+gerada pelo próprio consumidor. Descubra o porquê que as pessoas com - 
+pram  produtos  que realmente  não precisam!  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+5.1 A consciência  da existência  do produto  
+ 
+Figura  5.1: Produtos  
+Fonte:  ©Tan4ikk/Shutterstock  
+O que realmente  nos impulsiona  a comprarmos  um determinado  produto  ou 
+serviço?  Esta dúvida  permeia  os estudiosos  de comportamento,  e chegou - 
+-se a conclusão  de que um fator determinante  no processo  de compra  é a 
+possibilidade  de saciar  uma necessidade.  
+ 
+As necessidades  humanas  geram  desejos  que demandam  por serviços  ou 
+produtos.  
+ 
+Os desejos  dos consumidores  precisam  ser entendidos  e satisfeitos.  É neces - 
+sário entendermos sobre a natureza humana e seu comportamento frente  
+às circunstâncias  e ao marketing  compete  fornecer  as principais  referências  
+de consumo  em busca  de satisfação  das necessidades.  Essas referências  são 
+levadas aos consumidores através da comunicação e são apresentadas por  
+dois elementos:  a informação  e a mensagem.  
+ 
+ 
+29 e-Tec Brasil   
+ 
+ 
+ 
+Aula 5 – O marketing  e o consumidor   
+ 
+ 
+ 
+ 
+ 
+ 
+A informação permite conhecer a referência, por exemplo: uma nova em - 
+balagem.  
+ 
+A mensagem permite trazer, à memória do inconsciente, sensações, senti - 
+mentos  ou lembranças.  
+ 
+5.2 O interesse,  as necessidades  e os desejos  
+A atenção precede interesse que desperta o desejo de partir para a ação,  
+basta  lembrarmos  a AIDA.  
+ 
+A atenção  
+I interesse  
+D desejo  
+A ação 
+ 
+5.3 O negócio  e os meios  de multiplicá -lo 
+O estudo do marketing aplica -se ao universo do negócio, abrangendo bens,  
+serviços,  eventos,  experiências,  pessoas,  lugares,  ideias,  empresas.  Vejamos  
+como  o profissional  de marketing  pode estimular  a demanda  pelos  produtos  
+de sua empresa. A demanda pode apresentar -se de oito maneiras, expostas  
+abaixo,  após a identificação,  define -se o plano  de ação para direcioná -lo ao 
+estado  desejado.  
+ 
+1. Demanda  negativa  
+2. Demanda  inexistente  
+3. Demanda latente  
+4. Demanda  em declínio  
+5. Demanda  irregular  
+6. Demanda  plena  
+7. Demanda  excessiva  
+8. Demanda  indesejada  
+ 
+ 
+5.4 O marketing  e o processo  de troca  
+O processo  de troca,  que já vimos  na introdução  do estudo  das etapas  do 
+processo  de compra,  nos remete  a um dos muitos  conceitos  de mercado:  
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  30 Marketing  e Vendas   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Antigamente  o consumidor  não tinha  muita  
+opção  de escolha,  basta  lembrarmos  do ve- 
+ículo Ford T, cujo pensamento  era: “o con- 
+sumidor  pode escolher  um Ford de qualquer  
+cor, desde que seja preto”, mas em sua época  
+foi um marco  considerável.  
+ 
+Sabemos também que mercado, segundo o  
+pensamento econômico, é onde se encon - 
+tram a oferta  e a demanda.   
+ 
+ 
+ 
+ 
+Figura  5.2: ‘Trocar’  dinheiro  por 
+mercadoria  
+Fonte:  ©Diego  Cervo/Shutterstock  
+ 
+Numa visão de marketing, podemos qualificar a oferta como a intenção de  
+troca de produtos disponíveis por dinheiro, bens ou serviços; e a demanda  
+como  a propensão  de trocar  dinheiro,  bens ou serviços  por produtos  que 
+satisfaçam  desejos  e necessidades.  
+ 
+Percepção é tudo aquilo que o consumidor passa a pensar do produto, ten - 
+do-o avaliado após o consumo, e expectativa é o conjunto de necessidades  
+e desejos  que o consumidor  pretende  ver satisfeito  consumindo  o produto.  
+ 
+Assim sendo, quando a expectativa for maior do que a percepção teremos  
+como  resultado  a insatisfação  do consumidor.  
+ 
+Entretanto,  quando  a percepção  for maior  ou igual à expectativa  teremos  aí 
+um consumidor  satisfeito.  
+ 
+Resumidamente a palavra mercado pode  
+ser definida  como  o conjunto  de compra - 
+dores  e vendedores  que efetuam  trocas  en- 
+tre produtos  e serviços.  
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  5.3: Acertar  o alvo 
+Fonte:  Clip-art do Office Os principais  Mercados  de Clientes  nas eco- 
+nomias modernas atuais são classificados  
+entre Mercado consumidor, mercado orga - 
+nizacional, mercado global e mercado sem  
+fins lucrativos  e terceiro  setor.  
+ 
+ 
+ 
+ 
+ 
+Aula 5 – O marketing  e o consumidor  31 e-Tec Brasil  “Um mercado  é uma arena  para trocas  
+potenciais”.  (Philip  Kotler)  
+ 
+  
+ 
+Resumo  
+Podemos  obter  um produto  ou serviço  de várias  maneiras,  entre  elas: produ - 
+zindo  através  de meios  próprios;  através  da força  e meios  ilícitos;  através  de 
+pedidos  ou através  de trocas.  
+ 
+A troca é o meio fundamental do marketing, é a obtenção do objeto de  
+desejo  oferecendo -se algo em substituição.  Quando  há consenso  em um 
+processo  de troca,  entre  pelo menos  duas partes,  podemos  dizer que houve  
+uma transação. Lembrando que uma transação não precisa ser necessaria - 
+mente  em dinheiro,  pode ser a permuta  que envolve  a troca  de bens e servi- 
+ços, por outros  bens ou serviços.  
+ 
+Vimos que, após ser detectada o tipo de demanda de determinado produto  
+ou serviço,  caberá  ao profissional  de marketing  definir  o plano  de ação para 
+direcioná -lo ao estado  desejado,  que é a obtenção  do lucro e a satisfação  
+das necessidades  do consumidor  e que o mesmo  mantenha -se fidelizado.  
+Atividades  de aprendizagem  
+• Pesquise,  e cite exemplos  de cada tipo de demanda  existente:  
+ 
+1. Demanda  negativa     
+ 
+2. Demanda  inexistente     
+ 
+3. Demanda  latente     
+ 
+4. Demanda  em declínio     
+ 
+5. Demanda  irregular     
+ 
+6. Demanda  plena     
+ 
+7. Demanda  excessiva     
+ 
+8. Demanda  indesejada     
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  32 Marketing  e Vendas  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Os bons empresários  perceberam  que, além 
+de decidirem como atuar no mercado, as  
+ações  tomadas  dentro  do ambiente  corporati - 
+vo refletem  dentro  de fora das organizações.  
+ 
+Reproduzimos adiante matéria de Lídia Re - 
+bouças, jornalista, mestre em Antropologia  
+Social pela USP e Editora de Tecnologia da  
+Informação da Agência Estado, publicada no  
+jornal ‘O Estado de São Paulo’, na sua edição  
+de 24 de julho de 1997 e especialmente atu - 
+alizada  pela jornalista  em 10 de novembro  de 
+1998 para transcrição  neste  livro.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  6.1: Bússola  
+Fonte:  Clip-art do Office 
+ 
+ 
+ 
+ 
+ 
+33 e-Tec Brasil  Os conceitos de marketing estão sofrendo uma total transformação em  
+função  do atual cenário  de globalização  das economias,  no qual os custos  
+de produção de cada país são diferenciados, aumentando, consequente - 
+mente,  a competição.  
+ 
+Se na década  de 80 as empresas  estavam  preocupadas  em reduzir  os cus- 
+tos e promover  uma reengenharia  administrativa  que removesse  os exces - 
+sos de funções  e atividades  das corporações,  nos anos 90, ao contrário,  os 
+esforços  estão  em buscar  formas  de aumentar  o faturamento.  
+ 
+Nessa  missão,  o marketing  assume  um papel  fundamental,  enquanto  cha- 
+ve da prosperidade  de uma empresa.  
+ 
+Nessa  nova fase, a finalidade  do marketing  é criar oportunidades  de lucros  
+e oferecer  ideias  sempre  melhores,  que ampliem  a vantagem  competitiva  
+da empresa  no mercado.  
+ 
+ 
+ 
+ 
+Aula 6 – Novas  direções  do marketing  
+Vamos falar nesta aula sobre as diretrizes do marketing no passado e no  
+presente, mostrando sua correlação com outros setores e ampliando sua  
+importância.  Também  introduziremos  o conceito  de marketing  interno,  ou 
+seja, endomarketing.   
+  
+ 
+ 
+ 
+ 
+Esse novo papel do marketing é resultado das atuais exigências do mer - 
+cado.  
+ 
+“É cada vez mais difícil agradar os clientes que querem produtos e servi - 
+ços superiores, adaptados às suas necessidades, fornecidos com rapidez,  
+pelos  menores  preços  e com serviços  adicionais  gratuitos”,  destaca  Philip  
+Kotler.  
+ 
+Ele explica  que os clientes  já não são tão leais como  antes,  possuem  múl- 
+tiplas escolhas no mercado, ao mesmo tempo em que os produtos e ser - 
+viços de empresas  concorrentes  estão  atingindo  uma paridade  crescente.  
+ 
+A qualidade  já não faz mais a diferença.  
+ 
+O divisor  de águas  agora  será o valor agregado  de um produto  que é cons- 
+tituído muitas vezes de valores intangíveis como: a atitude do vendedor,  
+a postura  do fornecedor,  a empatia  com o cliente,  a cultura  empresarial.  
+ 
+O valor  agregado  é que garantirá  o consumidor  e sua lealdade.  
+ 
+A mudança  desses  conceitos  fez com que a competição  se transferisse  
+para uma área inatingível  e imensurável  do marketing,  onde fica cada vez 
+mais difícil  inovar.  
+ 
+Ao mesmo  tempo,  o desempenho  do setor  de marketing  ganha  um im- 
+pacto crescente no desempenho financeiro da empresa, podendo reper - 
+cutir diretamente  no seu faturamento.  
+ 
+Para ser bem sucedida nessa corrida, a empresa precisa ter uma visão clara  
+de qual é o centro  de seu negócio,  e possuir  também  um conjunto  claro e 
+estável  de valores  e uma visão de futuro.  
+ 
+O segundo  conselho  de Kotler  é definir  o público -alvo, que nos anos 90 
+será cada vez mais segmentado.  
+ 
+“Mesmo  uma empresa  do tamanho  da IBM deve criar e focar  os nichos  
+de seu mercado”,  diz. 
+ 
+“Os compradores  de um nicho  específico  de mercado  são bastante  homo - 
+gêneos  em suas percepções  e preferências  e estão  dispostos  a pagar  um 
+ 
+ 
+ 
+e-Tec Brasil  34 Marketing  e Vendas   
+  
+ 
+ 
+ 
+bom preço  por ofertas  que realmente  se adequem  às suas necessidades  
+específicas”, explica Kotler, ressaltando que “vender para um nicho de mer - 
+cado garante  uma boa margem  de lucro que compensa  o baixo  volume”.  
+ 
+Mas definir o nicho de mercado implica também ingressar num processo  
+de envolvimento  do cliente  no qual os intermediários  são eliminados.  
+ 
+Para envolver  o cliente  é preciso  customizar  a comunicação,  o produto,  
+o serviço e o material promocional de tal forma que se estabeleça uma  
+relação  estreita  com ele. 
+ 
+O mais novo fenômeno que está desempenhando um papel fundamental  
+na eliminação  dos intermediários  é a Internet.  Uma empresa  pode condu - 
+zir com êxito os seus negócios  inteiramente  em canais  eletrônicos.  
+ 
+A Internet  está se transformando  num canal  de vendas  bastante  eficiente  
+para alguns segmentos de mercado como: reservas em empresas aéreas,  
+home  banking,  notícias  e informações,  compra  de eletrodomésticos,  rou- 
+pas, livros,  CDs e alimentos.  
+ 
+O poder de vendas da Internet e de conquista dos consumidores pode  
+ser constatado por alguns dados. Segundo Kotler existem 22 milhões de  
+home  pages  na World  Wide Web, número  que cresce  diariamente.  São 
+mais de 9,47 milhões  de computadores  conectados  à rede reunindo  10 
+milhões  de usuários  apenas  nos Estados  Unidos.  No mundo  existem  22 
+países  conectados  à Internet.  
+ 
+Os países mais avançados em número de servidores por 1000 habitantes  
+são: Finlândia,  Austrália,  Nova Zelândia,  Suécia,  Suíça  e Noruega.  Somen - 
+te no serviço  de busca  Yahoo  existem  mais de 54.800  empresas  indexadas  
+no diretório ‘ companies ’. (*dados de 1997). O número mundial de inter - 
+nautas - estimado pelo instituto IDC em cerca de 100 milhões de pessoas  
+em 1998 - deverá  triplicar  até o ano 2000.  Os maiores  anunciantes  do 
+mundo são atualmente IBM, Hewlett Packard e Walt Disney. O mercado  
+publicitário da Internet, estimado pela consultora Forrester em US$ 1,5  
+bilhão  em 1998,  deverá  se multiplicar  por dez até 2002.  
+ 
+A batalha publicitária será acirrada: segundo a Forrester, até o ano 2002  
+os anúncios não serão mais colocados nos sites portais, mas, em 70%  
+dos casos,  em sites específicos  como  os de jornais  ou revistas.  Segundo  os 
+ 
+ 
+ 
+Aula 6 – Novas  direções  do marketing  35 e-Tec Brasil   
+  
+ 
+ 
+ 
+especialistas, existe espaço para quatro ou cinco grandes sites de acesso  
+à Internet,  no máximo.  AOL, Yahoo!  e Microsoft  parecem  bem cotadas  
+para vencer.  Além dos inúmeros  serviços  oferecidos,  o marketing  ocupa  o 
+centro  da estratégia.  
+ 
+“A Internet é uma nova frente de vendas que tem todas as chances para  
+se tornar  um novo competidor,  porque  ela oferece  recursos  para persona - 
+lizar os produtos  e serviços”,  diz Kotler.  
+ 
+Isso porque  um número  crescente  de compradores  usará  o computador  
+para obter informações sobre produtos, comparar ofertas e fazer enco - 
+mendas.  
+ 
+As vantagens competitivas da Internet são: a oferta de serviços e produ - 
+tos 24 horas  por dia dispensa  a ida às lojas,  oferece  a possibilidade  de 
+comparar preços e ofertas e estabelecer uma relação mais estreita com os  
+vendedores.  
+ 
+Do lado das empresas  a Internet  também  oferece  vantagens  competitivas,  
+tais como: manter um negócio com pouco capital, pois os custos com  
+lojas,  publicidade  e fornecedores  são menores;  atuar  globalmente,  testar  
+e mudar  rapidamente  as estratégias  e promoções  de vendas.  
+ 
+Nesse  novo ambiente  eletrônico,  Kotler  sugere  uma mudança  nas estraté - 
+gias tradicionais  de marketing  de massa  que devem  ser direcionadas,  a par- 
+tir de agora,  para o marketing  voltado  para o cliente,  em que a manutenção  
+de antigos  clientes  é mais importante  do que a conquista  de novos.  
+ 
+Aqui o correio eletrônico representa um instrumento de marketing dire - 
+to que cresce  mais rapidamente,  prometendo  superar  até as malas  diretas  
+como  ferramenta  não só de marketing,  mas também  de vendas  a domicílio.  
+ 
+Para se atingir  o consumidor  no World  Wide Web é preciso  dar todos  os 
+endereços  possíveis  no anúncio,  garantir  as conexões  e links para a sua 
+home  Page, mudar  sempre  o anúncio  e o conteúdo  e investir  com base no 
+número  de páginas  visitadas.  
+ 
+“As empresas têm que adotar o marketing na Internet se pretendem so - 
+breviver  na economia  global  do futuro”.  
+ 
+Fonte:  Agência  Estado  (*) Lídia Rebouças  é jornalista,  mestre  em Antropologia  Social  pela USP 
+e editora  de tecnologia  da informação  da Agência  Estado.  
+ 
+ 
+e-Tec Brasil  36 Marketing  e Vendas   
+ 
+ 
+ 
+6.1 Algumas  ferramentas  do marketing  
+6.1.1  Endomarketing  
+O marketing  além de oferecer  ferramentas  e mecanismos  para atingir  o pú- 
+blico externo,  também  disponibiliza  o endomarketing  para atingir  os pilares  
+das organizações, o público interno, ou seja, as pessoas (funcionários ou  
+colaboradores).  
+ 
+Tanto  o marketing  como  o endomarketing  possuem  um composto  de pro- 
+cessos, atividades e ferramentas utilizadas que objetivam conhecer os con - 
+sumidores.  Todavia  enquanto  o marketing  trata somente  do público  externo  
+o endomarketing valoriza e busca fidelizar o público interno, ou seja, os  
+funcionários, por ser ele o responsável pela imagem positiva da empresa  
+perante  seus clientes,  bem como  o principal  responsável  pelo sucesso  ou não 
+da empresa  com a venda  de seus produtos  e serviços  e a satisfação  plena  de 
+seus clientes  e fornecedores.  
+ 
+Os funcionários  da empresa  desfilam  a imagem  da empresa  e transmitem  
+em seus processos de comunicação o estado de saúde da empresa, se está  
+bem e seu fluxo comunicacional  flui naturalmente  por todos  os setores  e 
+participantes ou se há deficiências e dificuldades no tratamento e dissemina - 
+ção das informações  gerenciais  e comerciais.  
+ 
+O endomarketing objetiva, assim, fortalecer as relações internas da  
+empresa,  consistindo  em realizar  ações  de marketing  junto  ao seu  pú- 
+blico interno, visando promover a integração entre os departamentos  
+da organização. Busca, ainda, compartilhar os valores e objetivos estra - 
+tégicos  da empresa.  (BEKIN,  1995,  p.52)  
+ 
+Figura 6.2:  Mãos  unidas  
+Fonte:  ©Yuri Arcurs/Shutterstock  
+ 
+ 
+Aula 6 – Novas  direções  do marketing  37 e-Tec Brasil   
+  
+ 
+ 
+ 
+Leia este texto de Ari Lemos renomado consultor, usando sua realidade  
+e suas referências mostrando de forma mais satírica, o que descrevemos  
+acima.  
+ 
+ 
+E eu sei lá o que é endomarketing!  
+No escritório onde trabalho tem cinco pessoas, fora o chefe. Das cinco,  
+quatro  querem  pular  fora e montar  o próprio  negócio.  É um reflexo  da 
+imagem interna da empresa, que, por não dar a devida assistência para  
+seus empregados, faz com que eles queiram sair em busca de algo me - 
+lhor. Não sabe o mal que está fazendo  a si mesma…  
+ 
+Infelizmente a empresa onde trabalho não dá perspectiva de crescimento  
+profissional para quem não tenha conhecimento de pessoas influentes,  
+dentro  ou fora dela, ou de técnicas  avançadas  de bajulação.  Isso já pro- 
+vocou  a evasão  de muitas  pessoas,  que receberam  um treinamento  para 
+a empresa,  mas que preferiram  pedir  demissão  e tentar  algum  lugar que 
+os valorizasse  mais,  deixando  um buraco  no quadro  de funcionários.  E 
+eles estão  mais do que certos!  
+ 
+Toda organização  que dá o mínimo  de atenção  aos seus colaboradores  
+consegue  reter um parte  dos talentos  que aparecem,  formando  um razoá - 
+vel corpo  de funcionários.  As que dão verdadeiro  valor àqueles  que trazem  
+os lucros  para dentro  da empresa,  por sua vez, acabam  sendo  disputadas  
+pelos  profissionais,  que sentem  orgulho  e status  em trabalhar  nelas.  O 
+Endomarketing  vem para ajudar  as organizações  a fazerem  com que seus 
+empregados  direcionem  seus esforços  para sua melhoria  e desenvolvimen - 
+to. Segundo  a Professora  Cristiane  Akemi,  do Mackenzie,  Endomarketing  
+“é um conjunto  de ações  de marketing  para o público  interno  - funcioná - 
+rios - das empresas  e organizações.  É um processo  cujo foco é sintonizar  e 
+sincronizar,  para implementar  e operacionalizar  a estrutura  de marketing  
+da empresa  ou organização  que visa ação-para-o-mercado”.  
+ 
+Acredito eu que a minha atual empresa deveria se preocupar um pouco  
+mais com o Endomarketing, passando a disseminá -lo em todos os seto - 
+res, a fim de que houvesse uma menor evasão dos bons profissionais ali  
+encontrados.  Imagina  você se, dos cinco  que estão  na minha  sala, quatro  
+deles (eu inclusive) saíssem da empresa na semana que vem, assim, de  
+repente?  Seria um caos,  já que, além de nós, não existe  ninguém  treina - 
+do para fazer  as nossas  tarefas  rotineiras.  
+ 
+ 
+ 
+e-Tec Brasil  38 Marketing  e Vendas   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Resumo  
+Para que a empresa  conquiste  mercado  e crie um diferencial  de seus produ - 
+tos e serviços é importantíssimo que seus colaboradores sejam os primeiros  
+a comprarem  a ideia,  que vistam  a camisa  e vibrem  com suas vitórias.  Afinal,  
+o marketing  agora  tem uma visão holística,  o todo é importante  e principal - 
+mente  a satisfação  de seus clientes,  sejam  eles externos  ou internos.  
+ 
+A sincronia e sintonia de todas as pessoas que trabalham numa organização  
+favorecem o fortalecimento e a construção de relacionamentos, e torna o  
+colaborador  um aliado  a obtenção  dos resultados  esperados.  
+ 
+A opinião e percepção do público interno tem muita influência na opinião  
+do público externo, principalmente do consumidor. As empresas que im - 
+plantaram  e desenvolveram  esta cultura  de endomarketing  possuem  grande  
+diferencial  competitivo  em relação  às que não aderiram.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aula 6 – Novas  direções  do marketing  39 e-Tec Brasil  Empresas de grande porte aplicam corretamente ações de Endomarke - 
+ting. O resultado  disso são funcionários  engajados  e motivados,  boa pro- 
+dutividade e melhor condição de captar e reter novos talentos. Mas as  
+pequenas empresas também podem aplicar Endomarketing. Basta que  
+integrem  os interesses  pessoais  com os organizacionais,  deem  condições  
+adequada para o desempenho desejado e reconheçam corretamente o  
+trabalho  cumprido.  
+ 
+Apesar de ser grande, a empresa onde trabalho não usa do Endomarke - 
+ting como  deveria.  Corre  assim  o grande  risco que perder  para a con- 
+corrência os bons profissionais que lá estão, não tendo, futuramente,  
+pessoal  capacitado  para assumir  os altos cargos  e guiar a organização  
+para a permanência  firme  no mercado.  É bom que haja uma mudança  
+de mentalidade  urgente  se quiser  que a empresa  seja uma das melhores  
+do mundo!  
+ 
+Fonte:  Ari Lemos,  disponível  em: http://www.administrando.biz/2007/05/30/e -eu-sei-la-o-que-e-endomarketing/   
+  
+ 
+ Esta aula entra  no assunto  Trade  marketing,  que é a adaptação  de produ - 
+tos para o comércio.  
+Para isso, o profissional de marketing que atua diretamente no Trade é  
+exigido ao extremo e dele são cobrados conhecimentos multidisciplina - 
+res. Espera -se em primeiro lugar, que entenda o varejo como negócio.  
+“O Trade exige um profissional de marketing que entenda os compostos  
+mercadológicos”.  
+ 
+“Se o mercado  é onde tudo acontece,  é preciso  que este profissional  seja, 
+acima  de tudo,  um negociador”,   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Até pouco tempo, o Trade era uma silenciosa ferramenta de marketing do - 
+minada  por poucos  e escondida  dentro  das grandes  corporações.  O nome  
+saiu da academia  e dos grandes  grupos  capitalistas  e avançou  para o merca - 
+do, mas ainda assim, carece de conhecedores principalmente entre as em - 
+presas de comunicação e agências de propaganda que lidam diretamente  
+com o Trade . 
+ 
+Mas em poucas palavras, o que significa Trade Marketing? Segundo os gran - 
+des conhecedores de marketing e vendas, significa adaptar os produtos, as  
+políticas  e as estratégias  de marketing  das marcas,  de modo  a atingir  o con- 
+sumidor nos pontos de venda, satisfazendo da melhor maneira possível as  
+necessidades  de canais  comerciais  específicos  e de clientes  estratégicos.  
+ 
+Resumindo,  o Trade  busca  maximizar  o Marketing  share : 
+ 
+Figura  7.1: Gráfico  colorido  
+Fonte:  Clip-art do Office  
+ 
+Share  
+Do inglês compartilhar, dividir.  
+Market Share é participação  
+de mercado,  em português.  
+É a porcentagem  que uma 
+empresa tem de participação no  
+mercado em que atua, ou seja,  
+é a sua comparação  com os 
+concorrentes.  
+ 
+Veja vários  artigos  sobre  isso no Portal  do Marketing:  
+ 
+ 
+ 
+ 
+41 e-Tec Brasil  
+ 
+ 
+ 
+ 
+Aula 7 – Trade  Marketing  
+Market  share  (e não marketing  share ) é par- 
+ticipação de mercado. Nada a ver com posi - 
+cionamento de produto que é onde o fabri - 
+cante deseja posicionar (público, sexo, classe  
+social,  área etc.).   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+A comunicação feita para este tipo de negócio visa atender os hábitos dos  
+consumidores para criar a comunicação e as estratégias de venda para  
+auxiliar o varejista a vender mais. Também precisa se preocupar com a  
+linguagem focada na força de venda dos clientes seja eles atacadistas ou  
+distribuidores.  A força  de venda  e os varejistas  formam  o elo entre  a indús - 
+tria e o consumidor  final.  
+ 
+Portanto, é para essa dupla que o pensamento criativo e estratégico deve  
+confluir.  
+ 
+Seguindo este raciocínio, chega -se a outro ponto fundamental: nem  
+sempre a “grande sacada” criativa é o que faz a diferença nesse tipo de  
+negócio. Talvez um bom plano estratégico – como um incentivo que en - 
+volva a força de vendas e os varejistas, por exemplo – pode fazer muito  
+mais pelo negócio.  
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  42 Marketing  e Vendas  É verdade,  afinal,  o trade  é o elo de comunicação  entre  o marketing  e as 
+vendas.  Dele se espera  alinhar  e potencializar  os compostos  de marketing  
+e as estratégias  dos fornecedores.  
+ 
+O crescimento exponencial do comércio, o desenvolvimento e a apli - 
+cação  de novas  estratégias  em logística  que garantem  maior  agilidade  
+na entrega de bens de consumo, dão ainda mais importância ao Trade  
+Marketing. É preciso atender com eficiência um varejista mais bem  
+capacitado a negociar e um consumidor cada dia mais consciente e  
+exigente.  
+ 
+E daí? Daí que se você é uma agência  de propaganda  e atende  ou preten - 
+de atender o segmento de Trade Marketing, é preciso se preparar para o  
+que os gerentes da área chamam de adequação e conhecimento. “Sendo  
+bastante sincero, pouquíssimas são as agências realmente capacitadas a  
+nos ajudar na elaboração de estratégias eficientes para motivar o consu - 
+mo e bater  metas  de venda”.  
+ 
+“No entanto, a maior parte das agências é muito criativa, mas também  
+é, no fundo, uma executora de planos estratégicos”, diz Cícero. “O que  
+precisamos  na realidade  é de parceiros  que entendam  o negócio  e desen - 
+volvam  conosco  estratégias  competitivas  e eficientes”,  completa.   
+  
+ 
+7.1 O conceito  Trade  Marketing  
+• Alinhar  as estratégias  de marketing  para os canais  de distribuição;  
+• Gerenciar  o relacionamento  com os clientes,  entendendo  suas necessidades;  
+• Identificar  oportunidades  para alavancar  o crescimento  e lucratividade  
+dos negócios;  
+• Entender  o consumidor  como  um shopper , atendendo  suas necessidades;  
+• Gerar  demanda  no ponto  de venda,  através  de táticas  que agreguem  valor;  
+• Fortalecer a marca no PDV e desenvolver relacionamento com os consu - 
+midores;  
+ 
+ 
+7.2 Competências  Chaves  para  o 
+Trade  Marketing  
+• Capacidade de construir relacionamentos  de longo prazo;  
+• Estrategista:  conhecimento  de marketing,  vendas  e finanças;  
+• Habilidade  de apresentação  e trabalho  em equipe;  
+• Foco no cliente  e cultura  de serviço;  
+• Compreender  o varejo  como  negócio;  
+• Entender  as motivações  dos compradores;  
+• Coordenar  as atividades  da empresa  para atender  as necessidades  do 
+varejo.  
+ 
+7.3 Os pilares  de Trade  Marketing  
+• Gerenciamento  de Categorias;  
+• Treinamento  de brigada;  
+• Gerenciamento  de Espaço;  
+• Aplicação  de tecnologia:  EDI etc.; 
+• Estudo  do composto  do shopper;  
+• Apoios  específicos  para o canal;  
+• Serviços  básicos  (pedidos,  entregas  etc.);  
+• Parceria.  
+ 
+Resumo  
+O trade  marketing  é ainda  uma disciplina  nova e possui  uma visão sistêmica  
+do todos  envolvidos  no processo  de vendas  e é composto  por todos  esfor- 
+ços de comunicação  que são feitos  nos canais  de vendas,  cujo objetivo  é 
+aumentar  a eficiência  da distribuição  e despertar  o interesse  do consumidor  
+em comprar  um produto  ou serviço.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Shopper  
+(do inglês: comprador, fazer 
+compras)  são aqueles  que 
+visitam  o seu negócio  pelo 
+menos  uma vez.  
+ 
+ 
+ 
+ 
+ 
+Aula 7 – Trade  Marketing  43 e-Tec Brasil   
+  
+ 
+ Nesta aula veremos a definição de Buzz marketing como uma estratégia  
+para facilitar a repassagem da mensagem de marketing de uma pessoa a  
+outra.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Na realidade  chamar  de boca a boca é mais simples  e correto.  
+ 
+Figura  8.1: Boca a boca 
+Fonte:  ©Sukhonosova  Anastasia/Shutterstock  
+O boca a boca é usado há muitos anos, vejamos o exemplo da empresa Tu - 
+pperware,  que de maneira  criativa  incentivava  suas vendedoras  a reunirem - 
+-se com suas amigas, as conhecidas “reuniões Tupperware” em suas casas.  
+A empresa  percebeu  como  uma amiga  influenciava  outra,  havia  os testemu - 
+nhos positivos,  além de algo inovador:  a garantia  de 10 anos de seus produ - 
+tos plásticos. Embora o preço não fosse tão baixo, a percepção de valor agre - 
+gado em seus produtos  era e ainda  é alta, perante  suas fiéis consumidoras.  
+ 
+Estudos demonstram que, em determinadas situações, os consumidores es - 
+tariam  mais propensos  a buscarem  o boca a boca,  entre  eles pelo altruísmo  
+positivo, o envolvimento com o produto e o autoenvolvimento Mas, temos  
+também  o reverso,  quando  verificamos  o altruísmo  negativo,  como  forma  de 
+vingança. Medidas como ouvir os consumidores e resolver eventuais falhas  
+ou erros minimizam  a chance  de retaliação  do consumidor  contra  a empresa  
+devido  a uma experiência  negativa.  
+ 
+Exemplos:  propaganda  Itaú que o bebê dá gargalhadas  quando  o pai rasga  
+o papel,  e foi usada  para diminuir  a emissão  de extratos,  que podem  ser 
+acessados  on line.  
+ 
+Altruísmo  
+é um tipo  
+de comportamento  encontrado  
+nos seres humanos  e 
+outros seres vivos, em que  
+as ações de um indivíduo  
+beneficiam  outro,  trazendo  
+algumas  vezes,  até mesmo  
+algum tipo de prejuízo para o  
+próprio.  No sentido  comum  do 
+termo, é  muitas  vezes percebida  
+como sinônimo  de solidariedade.  
+(http://www.youtube.com/watch?v=EpxLnwgaPdM&feature=endscreen&NR=1)  
+ 
+ 
+ 
+ 
+45 e-Tec Brasil   
+ 
+ 
+Aula 8 – Buzz marketing/marketing  
+viral ou de guerrilha   
+  
+ 
+ 
+ 
+ 
+Outro  exemplo  de viralização  foram  os vídeos  da Galinha  Pintadinha  que 
+conta histórias infantis, que tiveram grande sucesso no YouTube, com mi - 
+lhões de visualizações e passaram a ser vendidos, até mesmo em sites de 
+compras  coletivas.  
+(http://www.youtube.com/watch?v=l7VsurR48Ew)  
+ 
+A maioria das empresas que adotam virais são digitais, até mesmo porque  
+tudo ocorre com maior velocidade no mundo digital, as respostas são prati - 
+camente  ao mesmo  tempo.  
+ 
+As empresas  virais  tem em comum  algumas  características  vistas  a seguir:  
+ 
+• baseiam -se na web; 
+• não costumam  cobrar  por seus produtos  ou serviços;  
+• têm tecnologia para  gerenciar o conteúdo  gerado pelos  usuários;  
+• conseguem  uma audiência  significativa  em pouco  tempo;  temos  o exem - 
+plo do Facebook  que, com apenas  um mês de seu lançamento,  captou  
+metades  dos estudantes  de Harvard,  tudo isso de forma  espontânea  e 
+gratuita.  
+• o crescimento  é exponencial,  haja vista,  um usuário  atrair  outros.  
+ 
+Buzz marketing é um termo que significa uma forma de realizar um  
+marketing.  
+ 
+Conforme Arthur D. Little, “trata -se de uma das novas estratégias de ma - 
+rketing que encoraja indivíduos da sociedade a repassar uma mensagem de  
+marketing para outros, criando potencial para o crescimento exponencial  
+tanto na exposição como na influência da mensagem. Como os vírus reais,  
+tais estratégias aproveitam o fenômeno da rápida multiplicação para levar  
+uma mensagem  a milhares  e até milhões  de pessoas”.  
+ 
+Conforme  Rodrigo  Carneiro  da BuzzNow , tratam -se de “ideias  que se es- 
+palham nos e pelos próprios segmentos interessados, espontaneamente ou  
+planejada  por um agente  externo”.  
+ 
+Hoje todos  os profissionais  de marketing  vêm enfrentando  o mesmo  proble - 
+ma: como  atingir  os consumidores,  cada vez mais resistentes  às propagandas  
+tradicionais, com orçamentos menores e retorno esperado pelas empresas  
+sempre  aumentando?  
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  46 Marketing  e Vendas   
+ 
+ 
+ 
+ 
+ 
+O Buzz marketing se profissionalizou exatamente para atender a esta nova  
+demanda. Se antes a disseminação de ideias acontecia ao acaso, hoje já é  
+possível criar e monitorar este tipo de ação. Diversas empresas já são con - 
+sideradas  cases  de sucesso  em campanhas  de buzz marketing  como,  por 
+exemplo,  a Puma,  Nike,  Post-it, Red Bull, o grupo  português  de música  Blind 
+Zero,  Google,  Hotmail,  Pulseiras  Lance  Armstrong,  Palm One, Harry  Potter,  
+Sandálias Havaianas, Cerveja Brahma, Kate Spade, Bulgari, Guess?, Ford,  
+Nokia,  Apple,  AirWalk,  3M, dentre  muitas  outras.  
+ 
+Figura  8.2: Infográfico  
+Fonte:  Revista  Super Interessante  Fevereiro/2011  
+ 
+8.1 Regra  dos eleitos  
+Em toda epidemia, num dado momento, os eleitos representam cerca de  
+20% das pessoas,  que são responsáveis  por mais de 80% das transmissões.  
+Estas pessoas possuem facilidade de socializar -se no meio em que esta epi - 
+demia  se espalha.  Elas têm grande  conhecimento  e influência  neste  meio.  
+ 
+O sucesso  de qualquer  tipo de epidemia  depende  muito  do envolvimento  de 
+pessoas  dotadas  de um conjunto  raro e particular  de talentos  sociais.  
+ 
+Os eleitos,  ou também  conhecidos  como  agentes  contaminadores,  são pessoas  
+que tem mais facilidade  e poder  para espalhar  entre  os seus amigos  uma ideia 
+nova. Toda campanha de Buzz marketing deve identificar e cortejar os eleitos  
+para disseminarem  as suas ideias.  É um dos fatores -chave  para o sucesso.  
+ 
+ 
+ 
+ 
+ 
+Aula 8 – Buzz marketing/marketing  viral ou de guerrilha  47 e-Tec Brasil   
+  
+ 
+ 
+ 
+Quando  identificamos  os eleitos  para espalharem  o Buzz marketing,  estamos  
+também  definindo  qual é o vetor  desta  ideia,  ou seja, a direção  geográfica  e 
+demográfica  que serão  o norte  da campanha.  
+ 
+Exemplo  de como  Paul Revere  espalhou  a notícia  do ataque  inglês  que esta- 
+va por vir no estopim  da Revolução  Americana.  Paul Revere  era um comuni - 
+cador  e ao mesmo  tempo  um expert.  Estas duas qualidades  são divisoras  de 
+perfil dos eleitos. Comunicadores são pessoas fortemente sociáveis, conhe - 
+cem muitas  pessoas,  convivem  em diversos  ciclos  sociais.  
+ 
+São os formadores de opinião, tornam -se importantes não só pelo número,  
+mas também  pelos  tipos de pessoas  que eles conhecem.  É neste  perfil  que 
+motivadores  como  dinheiro,  premiações  e outros  incentivos  fazem  mais efeito.  
+ 
+Mas quem  são as pessoas  que passam  as ideias  aos comunicadores?  Os ex- 
+perts . Existe  gente  especializada  em todos  os assuntos  e são nelas que con- 
+fiamos para colher aconselhamento e nos dar suporte a decisões. “Expert é  
+o que acumula  conhecimento.  Eles têm informações  sobre  muitos  produtos,  
+preços  e lugares  diferentes.  Gosta  de iniciar  discussões  com consumidores  
+e responder  a solicitações”,  diz Linda  Price.  Os experts  são tão importantes  
+para o início de uma campanha de marketing viral não apenas pelo que  
+sabem, mas como eles passam adiante o que sabem. Eles gostam de ajudar  
+pelo simples  fato de transmitir  conhecimento.  
+ 
+O comunicador  e o expert  são peças  chaves  para uma campanha  de ma- 
+rketing viral. “Um comunicador pode dizer a dez amigos onde ficar em Los  
+Angeles, e a metade aceitará. Um expert vai dizer a mesma coisa a cinco  
+pessoas, mas com tanta ênfase que todas aceitarão. São personalidades di - 
+ferentes em funcionamento, agindo por diversas razões. Mas ambas têm o  
+poder  de detonar  a epidemia  de propaganda  de boca.”  Malcolm  Gladwell.  
+ 
+Estes eleitos ganham juntamente com os seus amigos que eles aconselham.  
+Os eleitos ganham status como agente comunicador por respeitar seus  
+iguais, pois está sugerindo algo que já experimentou e que provavelmente  
+também vai tornar a vida dos seus amigos mais fácil ou prazerosa. Respeito  
+e sinceridade  são duas premissas  que, tanto  o expert  quanto  o comunicador,  
+nunca  devem  esquecer.  Todos  precisam  sair ganhando.  Estudos  mostram  
+que estas pessoas com facilidade de espalhar um vírus de ideia utilizam de  
+linguagens que são compreendidas apenas pelo nosso subconsciente. Elas  
+falam,  escutam,  interrompem  e gesticulam.  Há uma sincronia  irracional,  
+ 
+ 
+ 
+e-Tec Brasil  48 Marketing  e Vendas   
+  
+ 
+ 
+ 
+uma dimensão rítmica física que intensifica o poder de persuasão, pessoas  
+movem  ombro  ou rostos,  mãos,  sobrancelhas,  o volume  e o tom de voz se 
+equilibram, há uma latência, ou seja, o espaço de tempo entre o momento  
+em que um falante para de falar e o outro começa. Tudo numa grande har - 
+monia,  não necessariamente  as pessoas  replicam  esta sincronia.  Mas é como  
+se estivessem  dançando  e agitassem  num mesmo  ritmo.  
+ 
+Vendedores  de ideias  gostam  de grandes  recompensas,  porém  mais desafia - 
+doras ao invés de pequenas e facilmente atingíveis. Por natureza os vende - 
+dores tendem a assumir maiores riscos em troca de maiores recompensas.  
+Claro que os desafios precisam ser atingíveis e os vendedores devem estar  
+cientes  de que se o volume  for atingido,  não importando  muito  os meios,  
+eles serão  recompensados.  Ainda  sobre  o desempenho  dos vendedores  ao 
+espalharem  uma ideia,  é preciso  haver  uma comunicação  entre  todos  os 
+envolvidos  quando  os grandes  desafios  são atingidos.  Isto estimula  e mostra  
+que aquilo  é possível  aos outros.  Esta comunicação  deve ocorrer  não somen - 
+te entre os vendedores, mas também para outras pessoas e assim reconhe - 
+cerem os grandes vendedores e também serem atraídas ao rebanho. Regras  
+não podem ser alteradas no meio do caminho, com o risco de criar entre os  
+vendedores  um boca a boca negativo,  portanto  é necessário  um bom plane - 
+jamento  de metas  e recompensas.  
+ 
+Agente  poderoso,  alfa ou expert  não pode ser comprado.  Toda vez que ele es- 
+palha  uma ideia em troca  de suborno,  seu poder  diminui.  Quando  um expert  
+adota  uma ideia,  ele está assumindo  o risco de conseguir  introduzir  esta ideia 
+ou não. Este resultado  influenciará  o aumento  ou redução  do seu poder  de 
+convencimento.  O desafio  está em como  acioná -los e descobrir  a motivação  
+para adotarem  uma ideia.  0s vendedores  de ideias,  ou contaminadores  pro- 
+míscuos, estes sim podem espalhar uma ideia recebendo uma remuneração  
+em troca.  Mas cuidado,  pois pessoas  realmente  boas sabem  que se alguém  
+pode ser comprado,  este não passa  de um quadro  de anúncios  ambulante.  
+ 
+Pague  os vendedores.  Possibilite  fluidez  aos comunicadores.  Faça os experts  
+abraçarem  a causa.  
+ 
+No fundo, os experts precisam convencer os comunicadores de que aquela  
+ideia inovadora  realmente  vale a pena e é viável.  Os comunicadores  por sua 
+vez se utilizam  de todas  as suas habilidades  para que detalhes  estranhos  não 
+cheguem à grande massa, exaltando os pontos positivos e tornando a ideia  
+altamente  atrativa.  
+ 
+ 
+ 
+Aula 8 – Buzz marketing/marketing  viral ou de guerrilha  49 e-Tec Brasil   
+  
+ 
+8.2 Networking  dos eleitos  
+Um dos primeiros  passos  para quem  quer disseminar  uma ideia dentro  de 
+um grupo de eleitos é descobrir como eles se comunicam e como estão co - 
+nectados uns aos outros. Com a popularização da internet estamos dentro  
+de uma rede de contatos  muito  maior  do que há 10 anos atrás,  podemos  
+nos comunicar com nossos amigos, amigos de amigos, amigos de amigos de  
+amigos...  Estamos  facilmente  acessíveis  a todo tempo  via telefones,  celula - 
+res, e -mails, Instant messengers, blogs, e de um tempo para cá pelo Orkut,  
+Facebook  e Twitter.  
+ 
+É através  deste  grande  networking  que as ideias  encontram  o ambiente  ideal 
+para viajarem rapidamente. Este ambiente ideal é semelhante a uma colmeia  
+onde organizamo -nos em grupos  e subgrupos  que compartilham  diversos  
+fatores em comum, como o jeito de se comunicar, músicas que gostam de  
+ouvir,  lugares  a frequentar,  roupas,  ideais  e até objetivos  de vida. 
+ 
+ 
+8.2 O desequilíbrio  
+Conclusões  sobre  o Ponto  de Desequilíbrio:  
+ 
+1. Iniciar epidemias exige a concentração de recursos em algumas áreas  
+essenciais.  
+ 
+2. A teoria  sobre  o Ponto  de Desequilíbrio  requer  uma reestruturação  da 
+nossa  visão de mundo.  O mundo  não corresponde  às nossas  intuições,  
+nem as pessoas.  
+ 
+3. “Pela simples manipulação do tamanho de um grupo, é possível me - 
+lhorar drasticamente a sua receptividade às novas ideias. Jogando com  
+as formas de apresentar as informações, podemos aumentar significati - 
+vamente a sua fixação. Simplesmente encontrando e atingindo aquelas  
+raras pessoas  especiais  que detêm  tanto  poder  social,  é possível  mudar  o 
+curso  das epidemias  sociais”.  
+ 
+• Basta um empurrãozinho na pessoa certa, num determinado momento e  
+no lugar correto, desequilibraremos tudo o que parece ser eternamente  
+imóvel.  
+ 
+Fonte:  Textos  desta aula adaptado  de http://pt.wikipedia.org/wiki/Buzz_marketing  
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  50 Marketing  e Vendas   
+ 
+ 
+ 
+ 
+ 
+Uma matéria  para ilustrar  o buzz marketing:  
+ 
+Olimpíadas  de Pequim  2008  quem  ganhou  no Buzz Marketing  
+ 
+Nem sempre  grandes  investimentos  se tradu - 
+zem em retorno  de publicidade.  
+ 
+Pelo lado dos organizadores,  as Olimpíadas  
+de Pequim  e as transmissões  online  e off- 
+-line foram  um sucesso  e tanto.  O ganho  de 
+imagem da China foi extraordinário, inclusive  
+em dinheiro.  E do lado das empresas?  Como  
+sempre fazem, as grandes marcas esportivas  
+elegem seus esportistas para vislumbrarem  
+uma visibilidade maior para suas marcas e  
+consequentemente  suas vendas.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  8.3: Buzz Marketing  
+Fonte:  http://1.bp.blogspot.com  
+ 
+De acordo com um estudo global de conversas online conduzido por Zeta  
+Interactive, os vencedores no buzz marketing foram aquelas companhias  
+com precisão  tática,  ao contrário  de campanhas  massivas  de publicidade.  
+ 
+A Nike apostou  em Liu Xiang  que caiu fora devido  a uma lesão  não ge- 
+rando  uma interessante  continuação  de patrocínio  [Liu Xiang  era uma 
+das estrelas, uma das apostas da China para medalha de ouro no atletis - 
+mo e na hora da largada sentiu uma lesão deixando o estádio de Pequim  
+com mais de 90.000  torcedores  chineses  calados].  Mais sorte  obteve  
+a Puma e seu buzz em torno do velocista Usain Bolt e suas sapatilhas  
+douradas,  mas muito  aquém  do que Bolt fez nas pistas  e a tabela  com- 
+parativa  acima.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  8.4: Usain  Bolt e suas sapatilhas  douradas  
+Fonte:  http://i.telegraph.co.uk  
+ 
+ 
+ 
+ 
+ 
+Aula 8 – Buzz marketing/marketing  viral ou de guerrilha  51 e-Tec Brasil   
+ “A grande maioria  das pessoas só  trabalha quando a  necessidade as obri - 
+ga a isso”.  
+Karl Marx, filósofo  alemão   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Resumo  
+Vimos  que buzz marketing  ou marketing  viral é a disseminação  de propa - 
+ganda de um produto ou serviço através de cadeias de consumidores, o  
+crescimento  exponencial  e a rápida  multiplicação  nos dias atuais  deu-se em 
+razão  das ferramentas  tecnológicas  disponíveis.  
+ 
+O profissional  de marketing  precisa  identificar  a pessoa  certa,  ou seja, os in- 
+fluenciadores,  também  chamados  de experts  e comunicadores  para que acei- 
+tem a ideia sugerida  e a propaguem  outras  dicas que fortalecem  a rede de 
+fontes  de referência  é envolver  os clientes  no processo  de fabricação  e distri- 
+buição  do serviço,  solicitar  testemunhos  dos clientes,  relatar  histórias  verdadei - 
+ras e autorizadas  , e ser ágil no gerenciamento  das reclamações  dos clientes.  
+ 
+ 
+e-Tec Brasil  52 Marketing  e Vendas  
+No final das contas  a estratégia  da Speedo  com seu LZR Racer  foram  os 
+grandes ganhadores da Olimpíada do Buzz Markenting 2008. Indepen - 
+dente  do buzz gerado  com sua roupa  antes  dos jogos  e durante,  a Speedo  
+centrou  seus investimentos  em publicidade  nos atletas  e com isso obteve  
+um ganho  incomparável  com outras  corporações.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  8.5: Michael  Phelps  e a LZR 
+Racer  da Speedo  
+Fonte:  http://brands.scene7.com  
+ 
+http://estrategiaempresarial.wordpress.com/2008/09/04/  
+olimpiadas -de-pequim -2008-quem-ganhou -no-buzz-marketing/   
+ Nesta  aula vamos  conhecer  o benchmarking  que é a avaliação  de pro- 
+dutos visando melhorá -los e modificá -los quando necessário. Veremos os  
+princípios,  os tipos,  os processos  e a implementação  do benchmarking .  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmarking é a busca das melhores práticas na indústria que conduzem  
+ao desempenho superior. É visto como um processo positivo e proativo por  
+meio do qual uma empresa  examina  como  outra  realiza  uma função  especí - 
+fica a fim de melhorar  como  realizar  a mesma  ou uma função  semelhante.  O 
+processo  de comparação  do desempenho  entre  dois ou mais sistemas  é cha- 
+mado  de benchmarking,  e as cargas  usadas  são chamadas  de benchmark.  
+ 
+Apesar do seu neologismo, benchmarking é mais do que uma simples com - 
+binação de palavras - exprime uma filosofia. Este processo não se limita na  
+simples  identificação  das melhores  práticas,  mas, principalmente,  na sua di- 
+vulgação  através  das diversas  técnicas  do Marketing.  Benchmarking  é a ven- 
+da inteligente, interna ou externa, das melhores práticas de um determinado  
+processo  ou sistema.  
+ 
+9.1 O que é o benchmarking ? 
+Benchmarking  é um processo  sistemático  e contínuo  de avaliação  dos produ - 
+tos, serviços  e processos  de trabalho  das organizações  que são reconhecidas  
+como representantes das melhores práticas com a finalidade de comparar  
+desempenhos e identificar oportunidades de melhoria na organização que  
+está realizando  (ou monitorando)  o benchmarking.  
+ 
+9.2 Os princípios  do benchmarking  
+Sistemático:  
+O Benchmarking não é um método aleatório de recolher informação, mas  
+trata-se de um processo  sistemático  estruturado  etapa  a etapa,  com o obje- 
+tivo de avaliar  os métodos  de trabalho  no mercado.  
+ 
+Os outputs  deste  processo  proporcionam  às empresas  comparar  os seus pro- 
+dutos,  serviços  e métodos  de trabalho  com os das organizações  representan - 
+tes das melhores  práticas.  
+ 
+ 
+53 e-Tec Brasil   
+ 
+ 
+ 
+Aula 9 – O benchmarking ?  
+  
+ 
+ 
+ 
+ 
+É um processo  gerencial  permanente,  que requer  atualização  constante  da co- 
+leta e análise  cuidadosa  daquilo  que há de melhor  externamente  em práticas  
+e desempenho  para as funções  de tomada  de decisões  e de comunicações  em 
+todos os níveis da empresa. Um processo que obriga ao teste constante das  
+ações  internas  em relação  aos padrões  externos  das práticas  da indústria.  
+ 
+É um processo  de descoberta  e de uma experiência  de aprendizagem.  Exige  
+a identificação  das melhores  práticas  e a projeção  do desempenho  futuro.  
+ 
+A ideia por trás do benchmarking é de que ninguém é melhor em tudo.  
+Então, “copiar” modelos de outras empresas significa “economizar” tempo  
+e trabalho.  
+ 
+Por definição,  as “cópias”  nunca  serão  iguais.  Haverá  sempre  ajustes,  adap- 
+tação  e aprimoramentos,  o que garante  a “evolução”  da ideia original.  
+ 
+9.3 Tipos  de Benchmarking  
+• Benchmarking  Competitivo  
+Caracteriza -se por ter como  alvo específico  as práticas  dos concorrentes.  
+Na prática, é o menos usual uma vez que é quase impossível que as em - 
+presas  se prestem  a facilitar  dados  que estão  ligados  diretamente  com a 
+sua atividade à concorrência. Por isso muitas vezes é necessário contratar  
+uma consultora externa para obter informações sobre o Benchmarking  
+Competitivo.  
+ 
+• Benchmarking  interno  
+A procura pelas melhores práticas ocorre dentro da própria organização  
+em unidades diferentes (outros departamentos, sedes etc.). Tem como  
+vantagens a facilidade para se obter parcerias, custos mais baixos e a  
+valorização  pessoal  interna.  A grande  desvantagem  é que as práticas  es- 
+tarão  sempre  impregnadas  com os mesmos  paradigmas.  Este é o tipo 
+mais utilizado.  
+ 
+• Benchmarking  genérico  
+Ocorre quando o Benchmarking é baseado num processo que atravessa  
+várias  funções  da organização  e pode ser encontrado  na maioria  das em- 
+presas do mesmo porte, como por exemplo, o processo desde a entrada  
+de um pedido até a entrega do produto ao cliente. É neste tipo de Ben- 
+chmarking que encontramos a maioria dos exemplos práticos e em que  
+as empresas  estão  mais dispostas  a colaborar  e a serem  mais verdadeiras.  
+ 
+ 
+e-Tec Brasil  54 Marketing  e Vendas   
+  
+ 
+ 
+ 
+• Benchmarking  funcional  
+Baseado numa função específica, que pode existir ou não na própria  
+organização e serve para trocarmos informações acerca de uma ativida - 
+de bem definida como, por exemplo, a distribuição, o faturamento ou  
+embalagem. Alguns autores vinculam o conceito de benchmarking fun - 
+cional ao benchmarking genérico, pela possibilidade dos mesmos serem  
+utilizados  sem se levar em consideração  a concorrência  direta  da organi - 
+zação  que aprende  ou patrocina  o estudo  e a organização  “investigada”.  
+ 
+Resumo  
+Vimos  nesta  aula como  denomina -se o processo  de comparação  e avaliação  
+de produtos  e serviços,  visando  alcançar  excelência.  
+ 
+Inclusive  vimos  o neologismo  de benchmarking  que além de identificar  as 
+melhores  práticas  ainda  alia-se aos preceitos  de marketing.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aula 9 – O benchmarking?  55 e-Tec Brasil   
+  
+ 
+ O benchmarking  é uma das estratégias  do marketing  empresarial  no atin- 
+gimento de seus objetivos. Veremos a seguir seu conceito, e suas princi - 
+pais características.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Benchmarking  é uma técnica  que consiste  em acompanhar  processos  de 
+organizações  concorrentes  ou não, que sejam  reconhecidas  como  represen - 
+tantes das melhores práticas administrativas. É um processo de pesquisa,  
+contínuo  e sistemático,  para avaliar  produtos,  serviços  e métodos  de traba - 
+lho, com o propósito de melhoramento organizacional, procurando a supe - 
+rioridade  competitiva.  
+ 
+Por definição, benchmarking consiste em observar, fazer comparações e pro - 
+curar  imitar  as melhores  práticas  de empresas  concorrentes  ou não, inclusi - 
+ve daquelas pertencentes a outros ramos de negócio, segundo Maximiano,  
+2000.  
+ 
+Isto é, o benchmarking  consiste  na procura  de melhores  práticas  de adminis - 
+tração, como forma de ganhar vantagens competitivas. Faz uso de pontos  
+de referências  que funcionam  em vez de criar algo novo.  
+ 
+O Benchmarking é uma das mais antigas ferramentas de gestão. O seu pro - 
+pósito é estimular e facilitar as mudanças organizacionais e a melhoria de  
+desempenho  das organizações  através  de um processo  de aprendizagem.  
+Isto é feito de duas maneiras:  
+ 
+1. Identificando resultados excelentes, geralmente mensurados através de  
+métricas ou indicadores. Tais resultados servem de estímulo para os esfor - 
+ços de melhoria e dão uma garantia que, através de esforços inteligentes,  
+tais resultados  poderão  ser igualados.  
+ 
+2. Identificando  as chamadas  melhores  práticas  que, geralmente  com algu- 
+ma adaptação à cultura e às peculiaridades da organização, podem servir  
+de referência  para uma mudança  que leve a melhores  resultados.  
+ 
+ 
+ 
+ 
+ 
+ 
+57 e-Tec Brasil   
+ 
+ 
+ 
+Aula 10 – Conceito  de benchmarking   
+ 
+ 
+ 
+ 
+ 
+ 
+O objetivo principal de se fazer benchmarking é implementar mudanças  
+que levem a melhorias significativas nos produtos e processos da organi - 
+zação e, consequentemente, nos seus resultados. Qualquer organização,  
+pública ou privada, com ou sem fins lucrativos, de qualquer setor ou  
+porte, pode utilizar o Benchmarking para entender e melhorar os seus  
+processos.  
+ 
+O benchmarking é uma das formas mais eficazes de se estabelecer metas e  
+tem um efeito  motivacional  grande  junto  às equipes.  
+ 
+Processo  de Benchmarking  
+O processo de Benchmarking tem, em geral, 5 fases: planejamento, coleta  
+de dados,  análise,  adaptação  e implementação.  Mas a metodologia  mais 
+detalhada,  descrita  por CAMP  (1998)  apresenta  as seguintes  etapas:  
+ 
+1. Identificar  empresas  comparativas;  
+2. Definir  método  e coletar  dados;  
+3. Determinar  a lacuna de desempenho;  
+4. Projetar  níveis  de desempenho  futuro;  
+5. Comunicar  descoberta  dos marcos  de referência  e obter  aceitação;  
+6. Estabelecer  metas  funcionais;  
+7. Desenvolver  plano  de ação;  
+8. Implementar  ações  específicas  e monitorar  progresso;  
+9. Recalibrar  marcos  de referência.  
+ 
+Enquanto o Benchmarking é o processo de identificação de referenciais de  
+excelência, o Benchmark é o referencial de excelência em si. A origem do  
+termo Benchmark parece estar nas marcas de referência usadas nas medi - 
+ções topográficas.  
+ 
+10.1  Histórico  
+Pode-se dizer que o processo  benchmarking  foi inserido  no ambiente  de 
+negócios pela Xerox, que o definiu como “o processo contínuo para medir  
+os nossos produtos, serviços e práticas com os mais fortes concorrentes ou  
+com as companhias  reconhecidas  como  líderes  da indústria”.  
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  58 Marketing  e Vendas   
+  
+ 
+10.2  O que Benchmarking  é, e o que ele não 
+é (características)  
+• O benchmarking  é... 
+– Um processo  contínuo;  
+– Uma investigação  que fornece  informações  valiosas;  
+– Um processo  de aprendizagem  com outros;  
+– Um trabalho  intensivo,  consumidor  de tempo,  que requer  disciplina;  
+– Uma ferramenta  viável  a qualquer  organização  e aplicável  a qualquer  
+processo.  
+ 
+• O benchmarking  não é... 
+– Um evento  isolado;  
+– Uma investigação  que fornece  respostas  simples  e “receitas”;  
+– Cópia,  imitação;  
+– Rápido  e fácil. 
+ 
+ 
+10.3  Metodologia  de implementação  de 
+um processo  de benchmarking  
+O processo  de implementação  está dividido  em cinco  fases,  que por sua vez, 
+estão subdivididas em atividades e estas em tarefas. As cinco fases deste  
+processo,  são: 
+ 
+10.3.1  Planejamento  
+ 
+• Identificação  do item; 
+• Obtenção  do apoio  da Direção;  
+• Desenvolvimento  do sistema  de medida;  
+• Desenvolvimento  do plano de  coleta de  informação;  
+• Revisão  dos planos;  
+• Caracterização  do item. 
+ 
+10.3.2  Coleta  interna  de informação  
+ 
+• Coleta  e Análise  de Informação  Publicada  Internamente;  
+• Seleção  de potenciais  parceiros  internos;  
+• Caracterização  do item em cada parceiro;  
+• Coleta  Interna  de Dados;  
+• Realização  de visitas  aos parceiros.  
+ 
+ 
+ 
+ 
+ 
+Aula 10 – Conceito  de benchmarking  59 e-Tec Brasil   
+  
+ 
+ 
+10.3.3  Coleta  externa  de informação:  
+Como já foi dito, as atividades constituintes desta fase são uma repetição  
+das descritas na fase anterior, e estão divididas para efeitos de concepção em  
+duas grandes  atividades:  
+ 
+• Coleta  de informação  publicada  externamente;  
+• Coleta  de dados  externos.  
+ 
+10.3.4  Melhoria  do desempenho  do item  
+Esta fase não é mais do que decidir  quais  as melhores  práticas  a aplicar.  Sua 
+metodologia de implementação é crítica, pois requer análises muito cuida - 
+dosas  de grande  quantidade  de informação  recolhida,  bem como  a interpre - 
+tação  dos elementos  no contexto  da organização.  Envolve:  
+ 
+• Identificação  das Ações  Corretivas;  
+• Desenvolvimento  do Plano  de Implementação;  
+• Obtenção  da Aprovação  da Solução;  
+• Implementação  e Verificação  da Solução.  
+ 
+10.3.5  Melhoria  contínua  
+Nesta  altura,  após terem  sido alcançados  os objetivos  a que se propusera,  a 
+organização  tem duas alternativas:  direcionar  os esforços  para a melhoria  de 
+outro item e nada fazer pelo primeiro ou continuar a trabalhar na melhoria  
+do desempenho  do item.  Quando  se abandonam  os esforços  de melhoria  
+contínua,  o melhor  que pode acontecer  é que o desempenho  se mantenha  
+estável.  No entanto,  as organizações  concorrentes  poderão  estar a trabalhar  
+em melhoria  contínua,  o que vai provocar,  num futuro  próximo,  um novo 
+desvio  negativo  no desempenho  do item.  É claro que é preferível  continuar  os 
+esforços  de melhoria  do item,  e para tal deverão  ser realizadas  duas atividades:  
+ 
+• Manutenção  da base de dados;  
+• Implementação  da melhoria  contínua  do desempenho.  
+ 
+10.3.6  Casos  de sucesso  
+• “Na Federal  Express,  o capital  intelectual  de toda o nosso  pessoal  é o 
+nosso  recurso  mais valioso.  Por isso, a aprendizagem  rápida  é tão impor - 
+tante na Federal Express e noutras organizações que têm que conseguir  
+mudanças  rápidas.  Estudar  e aprender  com as melhores  práticas  é de 
+uma importância  crítica,  para todos  aqueles  gestores  que desejam  levar 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  60 Marketing  e Vendas   
+  
+ 
+ 
+ 
+a sua organização para o circulo dos vencedores.” (Michael E. Reed Ma - 
+naging  Director  of Operations  Audit  and Quality  Federal  Express  1990 
+Malcolm  Baldrige  Nacional  Quality  Award  Winner);  
+ 
+• “Aprender através do Benchmarking tem sido fenomenal na Ameritech.  
+Os gestores  compreendem  quão insensato  pode ser reinventar  a roda 
+permanentemente, quando em vez disso, pode -se aprender com os ou - 
+tros na criação  de ideias  inovadoras  para o redesenho  de processos.”  (Or- 
+val L. Brown  Process  Architecture  / Benchmarking  Manager  Ameritech);  
+ 
+• “O Benchmarking tornou -se uma das principais ferramentas para a ges - 
+tão pela qualidade total. Muitas das vezes o processo de Benchmarking  
+permite  a tomada  de consciência  necessária  para levar a cabo as mudan - 
+ças profundas e radicais no desempenho das organizações, que normal - 
+mente  são desesperadamente  ambicionadas.”  (A. Blanton  Gogfrey  Chief  
+Executive  Officer  Juran  Institute,  Inc.);  
+ 
+• “Durante décadas, o medo da possibilidade da desconfiança manteve as  
+companhias  americanas  afastadas  de partilhar  ideias,  promover  reuniões  
+conjuntas  ou mesmo  fazer visitas  umas às outras.  Atualmente  os tempos  
+estão a mudar e muitos gestores já compreenderam os potenciais bene - 
+fícios  de adaptar  as melhores  práticas.”  (Arnold  J. Lieberman  Senior  Bu- 
+siness Development Officer and  Vice President Chase  Manhattan Bank);  
+ 
+• “Para  vencer  os desafios  do amanhã,  a BC Telecom  sabe que tem que 
+competir hoje com os melhores. Os conceitos inovadores do Benchma - 
+rking, em vez das tradicionais  soluções,  têm sido essenciais  para o nosso  
+sucesso”  (Brian  A. Canfield  Chairman  and Chief  Executive  Officer  British  
+Columbia  Telecommunications  Company);  
+ 
+• “Chamem -lhe sabedoria ou senso comum, mas quando se estuda or - 
+ganizações de excelência, fica -se com excelentes ideias para a sua pró - 
+pria companhia.”  (Gary  Mise Benchmarking  Coordinator  EXXON  Com- 
+pany,  USA);  
+ 
+• “ O benchmarking  é uma ferramenta  poderosa,  pois pode ser aplicada  
+a todas as funções da nossa organização” (Roland Loesser Chief finacial  
+Officer  Sandoz  Corporation).  
+ 
+ 
+ 
+ 
+ 
+Aula 10 – Conceito  de benchmarking  61 e-Tec Brasil   
+  
+ 
+Resumo  
+Vimos nestas duas últimas aulas como denomina -se o processo de compa - 
+ração  e avaliação  de produtos  e serviços,  visando  alcançar  excelência,  bem 
+como  as fases que compõem  o planejamento  do benchmarking , que são: 
+Identificação do item ,obtenção do apoio da Direção ,desenvolvimento do  
+sistema  de medida  ,desenvolvimento  do plano  de coleta  de informação  ,re- 
+visão dos planos  e caracterização  do item . 
+ 
+Ao comparar -se com organizações melhores e mais produtivas, a empresa  
+que faz o benchmarking  já está progredindo  e muito  próxima  de alcançar  
+seus objetivos.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  62 Marketing  e Vendas   
+ Nesta aula aprenderemos uma das ferramentas mais utilizadas e impor - 
+tantes  do varejo.  O planograma  que tem como  conceito  melhorar  a expo- 
+sição dos produtos por categoria e importância dentro das necessidades  
+de venda  de cada empresa  individualmente.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Quais  são os objetivos  das Marcas  nos diferentes  canais?  Como  funciona  a 
+dinâmica do consumidor -alvo no varejo? Quais são os principais pontos de  
+impacto dentre  os espaços  disponíveis  para a exposição  dos produtos?  
+ 
+Um dos propósitos  da montagem  de uma estratégia  de planograma  é or- 
+ganizar e padronizar a exposição, fazendo com que os produtos sejam mais  
+facilmente  encontrados.  Ao serem  criados  padrões,  esta facilidade  se torna  
+ainda  maior,  uma vez que o consumidor  procure  sua Marca  em pontos  de 
+venda com características de canal, atividade e público similares. Antes, po - 
+rém, de se pensar numa estratégia de planograma, a empresa deve ideal - 
+mente,  ter estabelecido:  
+ 
+1. Classificação e segmentação da sua base de pontos de venda de acordo  
+com as características  dos produtos  e seu público -alvo; 
+ 
+2. Identificação do comportamento de compra dos consumidores, bem  
+como  sua dinâmica  de compra  na loja, de forma  a escolher  os espaços  
+mais apropriados  para a exposição  dos produtos;  
+ 
+3. Entendimento  dos objetivos  de cada Marca  no portfólio,  para os diferen - 
+tes canais  de venda;  
+ 
+4. Um plano de comunicação de marcas para os segmentos de varejos de - 
+finidos;  
+ 
+5. Definição  do mix de Marcas  apropriado,  de acordo  com o canal  de dis- 
+tribuição e a presença do consumidor -alvo; também conhecido como o  
+target  (alvo).  
+ 
+6. Definição  de níveis  de estoque  apropriados,  garantindo  a presença  cons- 
+tante  das Marcas  que precisarão  estar  expostas.  
+ 
+ 
+63 e-Tec Brasil   
+ 
+ 
+ 
+Aula 11 – POP Planograma   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Selling -out 
+venda  ao canal  de distribuição.   
+Todos  estes esforços  são insumos  fundamentais  para a orientação  da estraté - 
+gia de planograma. Por exemplo: os produtos para os quais é esperado um  
+selling -out maior em determinado segmento de varejo, deverão ter des - 
+taque, sendo facilmente identificados e atraindo imediatamente a atenção  
+do consumidor. O fluxo de movimentação do consumidor, definido por sua  
+dinâmica  dentro  da loja, é outro  fator a ser considerado.  
+ 
+Outra importante consideração com relação ao desenvolvimento dos pa - 
+drões  de planograma  refere -se ao privilégio  às Marcas,  estratégicas  e lança - 
+mentos.  Por menor  que seja seu volume  de selling -out, estas Marcas  garan - 
+tem maior  retorno  financeiro,  bem como  podem  representar  uma estratégia  
+de longo -prazo  para a empresa.  
+ 
+O Plano de Comunicação de Marcas por segmento de varejo também pode  
+influenciar  fortemente  a estratégia  de planograma.  A Marca  comunicada  no 
+material  de merchandising  deve também  ser privilegiada  na exposição,  para 
+que se construa  uma plataforma  de comunicação  integrada.  Quanto  maior  
+a integração das ferramentas de marketing no varejo, mais eficaz será o pro - 
+cesso  de construção  de Marcas  na mente  do consumidor -alvo. 
+ 
+A orientação  sobre  o mix e estoque  de marcas  apropriados  por segmento  de 
+varejo, facilita e organiza o trabalho de campo com relação às marcas que  
+foram escolhidas para fazerem parte do planograma deste segmento. Uma  
+vez definido  o mix e o estoque  ideais,  fica mais fácil entender  o conjunto  de 
+Marcas  que poderão  estar expostas,  bem como  evitar  a falta das mesmas.  
+ 
+Na prática, alguns guidelines podem orientar a criação de mapas de posi - 
+cionamento / exposição dos produtos. É comum encontrarmos no Mercado,  
+regras gerais que nem sempre se aplicam para todas as categorias de pro - 
+dutos:  
+ 
+1. Iniciar a gôndola por Marcas premium e seguir gradativamente para as  
+Marcas  de baixo  preço,  sempre  da esquerda  para a direita;  
+ 
+2. Posicionar todas as versões (SKU’s) horizontalmente. O número de fren - 
+tes por versão  da Marca  também  deve ter por base o faturamento  da 
+mesma;  
+ 
+3. Posicionar  Marcas  (não SKU’s)  verticalmente,  de cima para baixo,  consi- 
+derando  a estratégia  estabelecida  para o segmento  de cada uma delas;  
+ 
+ 
+ 
+e-Tec Brasil  64 Marketing  e Vendas   
+ 
+ 
+ 
+ 
+ 
+4. Caso os produtos estejam organizados em display, posicionar no centro  
+a(s) coluna(s) da Marca comunicada na peça. Caso o local seja uma pra - 
+teleira, obedecer ao critério do maior para o menor preço, expondo -as 
+da esquerda  para a direita.  
+ 
+Figura  11.1:  Prateleira  de farmácia  
+Fonte:  http://www.jvaonline.com.br  
+ 
+Após a criação do planograma, é fundamental que seja realizado um teste  
+piloto a fim de se monitorar os resultados, considerando algumas variáveis  
+como  selling -out e recall  do consumidor  com relação  à visibilidade  das Mar- 
+cas. O ciclo de desenvolvimento é concluído com as modificações necessárias  
+para otimizar  a performance  do plano  de exposição  e com a implementação  
+do Planograma  nas demais  regiões,  estabelecendo  um processo  contínuo  de 
+monitoramento  de resultados.  
+ 
+Por fim, cabe destacar a importância do treinamento e capacitação das es - 
+truturas  de vendas  e merchandising  com relação  à operacionalização  da fer- 
+ramenta,  podendo  ser realizada  através  do desenvolvimento  de manuais  de 
+merchandising impressos ou via plataformas de web. Lembre -se que estes  
+recursos serão responsáveis pelo sucesso da implementação da ferramenta  
+no campo,  realizando  o selling -in e orientando  o varejista  sobre  a ordem  de 
+exposição  dos produtos  nos displays.  
+ 
+Coordenar  e realizar  a manutenção  da exposição  é fundamental  para que 
+se estabeleça na mente do varejista a devida importância para esta pode - 
+rosa ferramenta de marketing. A orientação sobre a correta exposição dos  
+produtos  e os benefícios  gerados  com relação  à compra  por impulso  e ao 
+aumento do volume de vendas devem fazer parte do arsenal de atividades  
+de vendedores  e promotores  nos pontos  de venda.   
+ 
+ 
+ 
+Selling -in 
+Venda ao canal  
+de distribuição.  
+ 
+ 
+ 
+Aula 11 – POP Planograma  65 e-Tec Brasil   
+  
+ 
+Resumo  
+Vimos  neste  capítulo,  que o planograma  é fundamental  para melhorar  a 
+exposição dos produtos por categoria e importância dentro da necessidade  
+de venda de cada organização, uma boa estratégia de planograma deve ter  
+bem definida  a classificação  e segmentação  de seus pontos  de vendas,  além 
+de identificar o comportamento de seu público alvo, entender os objetivos  
+de cada marca  e ter eficientes  planos  de comunicação,  definir  o mix de mar- 
+cas e níveis  seguros  de estoque.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  66 Marketing  e Vendas   
+ Nesta aula vamos esclarecer as diferenças entre publicidade e propagan - 
+da, além de citar sua importância  no marketing.  
+Esclarecendo  mais:  
+• Publicidade : é tudo aquilo  que é divulgado  a favor  da empresa,  marca  
+ou produto, de forma gratuita , ou seja, matérias em jornais, propa - 
+ganda  espontânea  de marca  em algum  programa  de TV ou qualquer  
+outro  modo  de divulgação  GRATUITA.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+12.1  O Marketing  X Publicidade  e 
+Propaganda  
+Muitas pessoas acham que marketing, publicidade e propaganda são pala - 
+vras diferentes  que significam  a mesma  coisa.  Mas esses  três elementos  não 
+têm a mesma  finalidade,  apesar  de trabalharem  em conjunto.  
+ 
+Como  vimos  nas aulas  anteriores  o marketing  assume  vários  papéis  numa  
+empresa,  dentre  eles, treinamento  de funcionários,  pesquisa  interna  (entre  
+os funcionários) e externa (público), fidelização e satisfação dos clientes, po - 
+sicionamento da empresa. “O Marketing tem um foco mais administrativo  
+sobre  a empresa  e sua engrenagem”.  
+ 
+Já, publicidade e propaganda, têm o papel de divulgar a empresa e / ou o  
+produto  da empresa.  Tanto  a publicidade  quanto  a propaganda  tem o objeti - 
+vo de comunicar  ao público  alvo a existência  de um produto,  suas vantagens  
+e outros atributos. É também uma ferramenta do marketing utilizada para  
+captação  do público  alvo, ou seja, é necessário  fazer uma propaganda  volta- 
+da para o tipo de público  que se deseja  ter. Exemplo:  se uma fabricante  de 
+tênis disponibiliza  o modelo  “pisa fundo”  e tem como  público  alvo (definido  
+pelo marketing)  os jovens,  então  a propaganda  será voltada  aos jovens,  con- 
+tendo  imagens  ou frases  que chame  a atenção  destes  e fazendo  com que os 
+mesmos se identifiquem com o produto. Assim, Propaganda e Publicidade  
+têm o foco voltado  a divulgar  a empresa,  marca  ou produto,  dando  a ela um 
+“rosto”  e um posicionamento  junto  ao público  alvo desejado.  
+ 
+ 
+ 
+ 
+ 
+67 e-Tec Brasil   
+ 
+ 
+Aula 12 – Publicidade  e Propaganda  
+no Marketing   
+ • Propaganda : é tudo aquilo  que é feito em prol da empresa,  marca  ou 
+produto em mídia paga, ou seja, comerciais de TV, outdoors, comer - 
+ciais radiofônicos  etc.  
+  
+ 
+ 
+ 
+ 
+ 
+Resumo  
+As agências de publicidade e propaganda são de fundamental importância,  
+pois auxiliam  qualquer  segmento  empresarial,  muitas  empresas  não possuem  
+um setor ou departamento  específico  de marketing  e recorrem  às agências.  
+ 
+Lembre -se: 
+Publicidade  e Propaganda  tem a finalidade  de divulgar  aos consumidores  ou 
+clientes, um serviço ou produto, mas a grande diferença está na remunera - 
+ção, a publicidade  é gratuita  e a propaganda  é paga.  
+ 
+Atividades  de aprendizagem  
+• No ano de 2010, o programa Fantástico, apresentou uma sequência so - 
+bre empreendedorismo do brasileiro, houve a participação do consultor  
+Max Gehringer e várias entrevistas de funcionários do SEBRAE e de pes - 
+soas que já eram empreendedores  ou tinham  a intenção  de tornarem -se. 
+Na sua opinião,  o marketing  institucional,  o fortalecimento  da marca  e a 
+divulgação de produtos e serviços foi uma propaganda ou publicidade?  
+Explique.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  68 Marketing  e Vendas  
+ 
+ Nesta aula iniciaremos o assunto sobre o desenvolvimento de produtos,  
+desde  a pesquisa,  o planejamento,  a influência  da demanda  de mercado,  
+e finalmente,  o começo  da criação  dos novos  produtos.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+13.1  A pesquisa  de informações  
+Devemos considerar  aqui todas  as defini - 
+ções estratégicas  requeridas  para: 
+ 
+• Influenciar  e estimular  a demanda  por 
+uma marca  ou produto;  
+• Determinar  o conceito  do melhor  
+ponto  de venda  para a organização;  
+• Obter informações sobre produtos al - 
+ternativos que poderão preencher as  
+oportunidades de demanda derivadas  
+da demanda  original  etc.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figura  13.1:  Busca  por informações  
+Fonte:  ©Texelart/shutterstock  
+ 
+ 
+13.2  O planejamento  e desenvolvimento  
+de produtos  
+Nesta  etapa  do processo  é de fundamental  importância  que as pesquisas  
+tenham determinado as oportunidades de mercado, definido o comporta - 
+mento do consumidor, objetivando detectar e estabelecer suas preferências,  
+em função  de suas necessidades  e desejos.  
+ 
+De posse de tais resultados, é possível criar e desenvolver novos produtos e /  
+ou serviços,  ou modificar  os produtos  e/ ou serviços  ofertados.  
+ 
+Outro foco de atenção durante o planejamento é com a determinação da  
+qualidade dos produtos ofertados e/ ou dos serviços prestados, e assim  
+também da sua aparência e os resultados esperados no seu consumo ou  
+desempenho.  
+ 
+Cada passo aqui é dado tomando -se por rumo o que pensa e prefere o con - 
+sumidor,  à luz de suas necessidades  e desejos.  
+ 
+ 
+69 e-Tec Brasil   
+ 
+ 
+ 
+Aula 13 – O marketing  e os produtos  
+ 
+  
+ 
+ 
+ 
+13.3  Influência  da demanda  e suas  
+ferramentas  
+Basicamente, envolvem -se aqui nesta etapa todas as atividades necessárias  
+para fazer com que o consumidor deseje o produto. Existem várias formas  
+de se influenciar  a demanda,  e as mais significativas  são: 
+ 
+• A propaganda: Há que se fazer distinções quando se fala em propa - 
+ganda. Muitas pessoas, por falta de informação ou de esclarecimentos  
+adequados,  infelizmente  ainda  confundem  propaganda  com marketing.  
+ 
+A propaganda  é uma das ferramentas  das mais importantes  do marketing,  e 
+não o próprio  marketing  como  um todo.  
+ 
+O marketing não significa apenas e tão somente fazer propaganda, mas  
+sim o desenvolvimento de um processo muito mais amplo e complexo, que  
+busca realizar negócios por meio da satisfação de necessidades, e tem na  
+propaganda  uma arma poderosa,  quando  bem planejada  e utilizada.  
+ 
+A propaganda, como o próprio nome nos permite deduzir, ‘propaga’, divul - 
+gando de forma planejada os dados, fatos, informações e todo e qualquer  
+outro  elemento  favorável  de estímulo  ao consumo  e de influência  à decisão  
+de compra  do alvo, do consumidor  em potencial  que se pretende  atingir.  
+ 
+Devemos lembrar também da propaganda institucional, que procura (in - 
+fluenciando positivamente) criar e manter uma imagem favorável tanto da  
+empresa  quanto  de seus produtos  e/ou serviços.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Bottons  
+Broches  redondos  com 
+imagens variadas.  • A promoção de vendas: Envolve a utilização de outros meios de divulga - 
+ção do produto que são: folhetos informativos, cartazes de apresenta - 
+ção, displays de exposição, preparação de vitrines, feiras segmentadas ou  
+de ocasião, demonstrações e degustações, bottons , bonés, camisetas,  
+amostras, miniaturas, além das campanhas de vendas de oportunidade,  
+como  vendas  em aniversário,  liquidações  etc. 
+ 
+• A embalagem:  A embalagem  é parte  integrante  de essencial  importância  
+na influência  à decisão  de compra,  envolvendo  não apenas  conter  o pro- 
+duto, mas notadamente estimular o seu consumo, disto fazendo parte  
+desde a definição de cores e imagens até a determinação de formatos e  
+tamanhos,  passando  pelos  materiais  especificamente  utilizados.  
+ 
+ 
+ 
+e-Tec Brasil  70 Marketing  e Vendas   
+  
+ 
+ 
+ 
+ 
+ 
+Figura  13.2:  Embalagem  
+Fonte:  http://qnint.sbq.org.br  
+ 
+13.4  Desenvolvimento  de novos  produtos  
+e riscos  
+O processo  para o desenvolvimento  de novos  produtos,  está intimamente  li- 
+gado ao processo  produtivo,  que inicialmente  a partir  da definição  do proje - 
+to, procedimentos  de criação,  definição  e quais  metodologias  serão  seguidas  
+e adotadas  e foco no público  alvo que se deseja  atingir.  
+ 
+Conforme  definição  de produto,  segundo  Kotler:  um produto  é algo que pode 
+ser oferecido  a um mercado  para satisfazer  uma necessidade  ou desejo,  e 
+que os produtos  comercializados  incluem  bens físicos,  serviços,  experiências,  
+eventos,  pessoas,  lugares,  propriedades,  organizações,  informações  e ideias.  
+ 
+ 
+O produto é o primeiro elemento estudado no composto de marketing, co - 
+nhecido também como os quatro P’s: produto, preço, promoção e ponto de  
+venda  (ou praça)  o desenvolvimento  dos demais  ocorrem  em função  dele. 
+ 
+Indicadores nos informam que muitos negócios fracassam nos primeiros  
+anos,  a seguir  veremos:  
+ 
+Negócio  Arriscado  
+• 95% dos novos  negócios  fracassam  nos primeiros  5 anos 
+Tabela  13.1:  Índice  de fracasso  para novos  produtos  
+de consumo  por décadas  
+1960  45,6%  
+1970  53,4%  
+1980  64,5%  
+1990  80,0%  
+2006  84,9%  
+Fonte:  Dados  Infomoney  2007/Marc  
+ 
+ 
+ 
+Aula 13 – O marketing  e os produtos  71 e-Tec Brasil  
+ 
+ 
+ 
+ 
+ 
+ 
+Porém mesmo com estes indicadores de fracasso, as empresas têm muito  
+mais a perder  do que a ganhar  se não lançarem  novos  produtos,  pois a liqui- 
+dez corporativa tem uma parte expressiva voltada dos lucros de novos pro - 
+dutos.  Sem dizer que quanto  mais a empresa  se consolida  no mercado  e tem 
+buzz marketing gratuito, ou seja, o boca a boca, a imagem fixada, maior a  
+necessidade de criação e qualidade para manter -se desta forma pelo maior  
+tempo possível. Inovar, melhorar ou criar e parte incessante da política de  
+crescimento de uma empresa, buscando sempre ofertar mais para diminuir  
+a busca  pela concorrência.  
+ 
+Figura  13.3:  Sucesso  
+Fonte:  ©Gabi  Moisa/Shutterstock  
+ 
+ 
+13.5  Por que introduzir  novos  produtos  
+• Se você não atacar  suas próprias  marcas  outros  o farão  (exemplo  de rou- 
+pas e medicamentos)  
+ 
+• Aproximadamente  30% dos lucros  corporativos  provêm  de novos  produ - 
+tos (de 5 anos ou menos)  
+ 
+Quota  parte  do volume  de negócios  realizada  por produtos  que não existiam  
+há 5 anos:  
+ 
+1976-1981:  33% 
+1981-1986:  40% 
+1986-1990:  42% 
+1990- 2005:  45% 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  72 Marketing  e Vendas   
+  
+ 
+ 
+ 
+• A inovação  por parte  de grandes  firmas  tende  a ser mais gradual  não 
+obstante:  
+ 
+– mais recursos  
+– maior  risco de canibalização  
+– menor  aversão  ao risco 
+ 
+Se você cria mais, tem a oportunidade de pesquisar mais, fato este que já foi  
+citado com a essência do Marketing pessoal e corporativo. Tem chance de  
+atender uma fatia maior de seu público, novos públicos e nichos. Buscar a  
+excelência na qualidade de produção e atendimento. Porém ter novos pro - 
+dutos representa também diluição de custos, novos empregos, menor risco  
+aversão  a uma imagem  pela diluição.  A síndrome  Halo que dá certo!  Au- 
+mento de liquidez, logística interna mais eficaz, diminuição de ociosidades e  
+assim  por adiante,  poderíamos  ficar horas  colocando  argumentos.  
+ 
+Agora sabemos que é fundamental a abertura de novas empresas e criação  
+de novos  produtos,  porém  e claro que tudo na vida tem um risco,  este pode 
+ser; maior  ou menor  dependendo  do grau de consciência  dos riscos,  estudos  
+feitos, capital disponível, espírito empreendedor da pessoa ou empresa, situ - 
+ação mercadológica. E tão importante quanto o citado seguir um cronogra - 
+ma de processos que começa  o e exata definição  dos estágios do processo.  
+ 
+13.6  Estágios  do Processo  
+1. Geração  de Ideia (pesquisa  de mercado)  
+2. Seleção  
+3. Teste  de conceito  (pré-pesquisa  de mercado  e público  - aceitação).  
+4. Desenvolvimento  de produto  
+5. Teste  de Mercado  (pesquisa  de público)  
+6. Lançamento  (pesquisa  de quem  deve participar)  
+7. Plano  de Negócio  
+ 
+Resumo  
+Vimos  que o bom marketing  não algo acidental,  é o resultado  efetivo  de 
+planejamento e execução cuidadosa, pode -se assim dizer, que o marketing  
+é ao mesmo  tempo  uma arte e uma ciência,  arte por requerer  criatividade  e 
+ciência por contar com a ajuda de outras disciplinas para o atingimento de  
+seus objetivos.   
+ 
+ 
+Síndrome  Halo ou O “efeito  
+de halo” é a avaliação  de 
+um objeto (produto) ou até  
+mesmo  de outras  pessoas  
+com base em um ou poucas  
+dimensões.  Um exemplo  fácil 
+de entender  se dá quando,  em 
+período  eleitoral, indivíduos  
+votam  em outros  apenas  pela 
+aparência  física (beleza  física)  
+ou percepção  de honestidade,  
+ou seja, as  dimensões  
+utilizadas  são numericamente  
+insuficientes  para uma decisão.  
+Outra exemplificação  típica 
+é o julgamento positivo que  
+fãs fazem  sobre as chamadas  
+“celebridades” baseadas, por  
+exemplo,  em uma ou duas 
+características.  
+Fonte: http://www.  
+elciofernando.com.br/  
+blog/2010/09/o -efeito -de-halo- 
+no-marketing/  
+ 
+ 
+ 
+ 
+ 
+Aula 13 – O marketing  e os produtos  73 e-Tec Brasil   
+  
+ 
+ Entraremos agora em outra etapa crucial na criação de novos produtos.  
+Falaremos  da criação  e da seleção  de ideias,  do teste de conceito,  do pla- 
+no de negócios,  e do plano  financeiro.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+14.1  Geração  de ideia  leva em conta  
+• Sugestões de canais;  
+• Mercados  estrangeiros  ou apenas  nacionais  (local  ou regional);  
+• Consumidores  e suas necessidades;  
+• Pesquisa  básica;  
+• Concorrência;  
+• Empregados;  
+• Produtos  Existentes;  
+• Poder  da concorrência;  
+• Custo.  
+ 
+ 
+14.2  Seleção  de ideias  
+A seleção de ideias dever eliminar ideias não práticas, inviáveis ou não co - 
+mercializáveis  o estabelecimento  de critérios  rigorosos  e ter em mente  que 
+os bancos não são uma boa peneira para o prosseguimento ou não de uma  
+nova ideia,  a seguir  alguns  critérios  a serem  considerados:  
+ 
+• Produto pode ser rentável  em no máximo 5  anos; 
+• Potencial de mercado  de pelo  menos $12 milhões;  
+• Mercado  tem taxa de crescimento  superior  ao indicador  do mercado  ou 
+de 15%; 
+• Produto  dará pelo menos  30% de retorno  sobre  as vendas  líquidas;  
+• Produto  dará pelo menos  40% de retorno  sobre  o investimento  (ROI);  
+• Produto  tem chance  de alcançar  liderança  técnica  ou de mercado;  
+ 
+ 
+ 
+ 
+75 e-Tec Brasil   
+ 
+ 
+ 
+Aula 14 – Conceito  de novos  produtos   
+  
+ 
+ 
+ 
+14.3  Teste  de conceito  
+• Conceito  de Produto:  
+ 
+• Mercado  alvo 
+ 
+• Necessidades  
+ 
+• O que é o produto:  
+ 
+Pó para adicionar  ao leite para aumentar  seu valor nutritivo  e o gosto 
+ 
+• Posicionamento mercadológico:  
+ 
+• Uma bebida  matinal  instantânea  para adultos  que desejam  um café 
+da manhã  rápido  com pouca  preparação.  
+ 
+• Um refresco  saboroso  para crianças  como  lanche  da tarde.  
+ 
+• Um suplemento  nutricional  para adultos  mais idosos  beberem  antes  
+de dormir.  
+ 
+• Descritiva  do produto  para pesquisa:  
+ 
+Um produto  em pó que é acrescentado  ao leite para fazer um café da manhã  
+instantâneo e fornecer todos os nutrientes necessários numa bebida sabo - 
+rosa e prática. O produto seria oferecido nos sabores chocolate, baunilha e  
+morango  e seria embalado  individualmente  e vendido  em pacotes  de 260 
+gramas  pó R$5,79.  
+ 
+• Pesquisa  de aceitabilidade:  
+ 
+1. Este produto satisfaz uma necessidade para você?  
+ 
+2. Outros produtos atualmente satisfazem  esta necessidade?  
+ 
+3. O preço  é razoável  em relação  ao valor?  
+ 
+4. Você compraria  este produto?  
+ 
+5. Com que frequência  você usaria  este produto?  
+ 
+ 
+ 
+ 
+e-Tec Brasil  76 Marketing  e Vendas   
+  
+ 
+ 
+ 
+Teste  de conceito  serve  como  base para o Plano  de Negócios,  desta  você po- 
+derá desenvolver  o estilo  de promoção,  venda,  logística  e público.  Conhecerá  
+seus concorrentes  de forma  ainda  superficial,  pois o teste de conceito  e uma 
+pesquisa  global  e não direcionada  a conhecimento  da concorrência.  Saberá  se 
+pode começar  com força  total,  pois os resultados  aparecerão  ou não. Porém  
+nunca  ignore  os resultados,  caso não seja conveniente  as suas expectativas.  
+Se for necessário  molde  o direcionamento  do público,  o mercado  ou a mensa - 
+gem de venda.  A pesquisa  foi criada  para dar direcionamento  para desmotivar  
+ou frustrar.  Este teste poderá  ser feito por telefone  com um número  razoável  
+de pessoas, normalmente evitando caso seja da própria empresa, o que é difí - 
+cil, identificar  produto  e nomes.  Apenas  levando  em consideração  o produto  X 
+ambiente  socioeconômico  e as possíveis  regiões  de lançamento.  Lançamento  
+Global  ou local.  O importante  são os resultados  obtidos  por amostragem  caso 
+as pesquisas  sejam  feita em vários  locais  com públicos  diferentes.  
+ 
+ 
+14.4  Ciclo  de vida de novos  produtos  
+Cada vez fica mais rápido  a obsolescência  dos produtos  e serviços  é ve- 
+rificada, desde a Revolução Industrial percebemos esta tendência. Muitos  
+produtos comprados com pagamento a prazo, quando finalmente quitados,  
+já estão  ultrapassados.  Por exemplos,  computadores,  celulares,  TVs. O ciclo 
+de vida de um produto  depende  do estágio  em que o mesmo  se encontra,  
+são eles: Introdução,  crescimento,  maturidade  e declínio.  
+ 
+Apesar do planejamento prévio realizado para o desenvolvimento de novos  
+produtos, não podemos assegurar o sucesso, mesmo que bem sucedido ini - 
+cialmente.  O monitoramento  constante  minimiza  a chance  de insucesso.  
+ 
+Resumo  
+Vimos nesta aula que as empresas para atenderem às necessidades de seus  
+consumidores  se valem  de processos  criativos  para lançarem  um determina - 
+do bem ou serviço,  não é obra do acaso,  mas um trabalho  árduo  de pesquisa  
+e planejamento. Há de se identificar a demanda do mercado e realizar o  
+planejamento tendo em mente seus objetivos bem traçados, e produzindo  
+um produto  ou serviço  de forma  criativa  e inovadora.  
+ 
+Os produtos  têm vida limitada,  e a venda  passa  por etapas  diferentes,  cada 
+etapa com sua particularidade e desafios, as fases são: desenvolvimento,  
+introdução,  crescimento,  maturidade  e declínio.   
+ 
+Obsolescência  
+É a condição  que ocorre  a 
+um produto  ou serviço  que 
+deixa de ser útil, mesmo  
+estando em  perfeito  estado  
+de funcionamento, devido  
+ao surgimento  de um 
+produto  tecnologicamente  
+mais avançado.  Exemplos:  a 
+substituição das fitas de vídeo  
+cassetes  por DVD.  
+ 
+ 
+ 
+Aula 14 – Conceito  de novos  produtos  77 e-Tec Brasil   
+  
+ 
+ O plano de negócio, com suas estratégias bem definidas proporciona  
+a diminuição dos riscos que um produto ou serviço possa a encontrar  
+ao ser lançado no mercado, representando uma importante vantagem  
+competitiva.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Plano  estratégico  
+2. Táticas  
+3. Previsões  Financeiras  
+4. Cronograma  
+5. Obstáculos  
+ 
+O Plano de negócios compreende diversas áreas e fases dentro de uma  
+empresa. Sendo que o Plano estratégico, Táticas, Cronograma e revisão de  
+plano  por obstáculos,  estão  ligados  diretamente  às áreas  de Marketing  e 
+Vendas  de uma empresa.  Isto não quer dizer que estas  sejam  superiores  
+as demais, até porque nada acontece sem recursos humanos e financei - 
+ros. Sendo assim depois do teste de conceito, definição dos indicadores  
+mercadológicos, a prioridade a o desenvolvimento do plano e previsões  
+financeiras.  
+ 
+15.1  Plano  financeiro:  previsões  financeiras  
+Estimativa  de custos:  Aditiva  
+ 
+• Matéria  Prima;  
+• Produção  (maquinário,  energia,  local e etc.);  
+• Mão de obra (salários,  encargos,  treinamento  técnico);  
+• Embalagem  (tipo,  tamanho  padrão,  espessura  etc.);  
+• Impostos;  
+• Regulamentação  (Certificações);  
+• Outros.  
+ 
+ 
+ 
+ 
+ 
+79 e-Tec Brasil   
+ 
+ 
+ 
+Aula 15 – Plano  de negócio   
+  
+ 
+ 
+ 
+Estimativa  de demanda:  Multiplicativa  
+Estimar  a demanda  é ainda  mais difícil  quando:  
+• Consumidores  têm necessidades  múltiplas;  
+• Necessidades  dos consumidores  variam  (segmentos);  
+• Necessidades  são medidas  por escalas  (desejos  e interesses)  não-mone - 
+tárias;  
+• O produto  é muito  novo/diferente;  
+• Os benefícios  são difíceis  de avaliar  (necessidade  de prever  credibilidade).  
+ 
+Bem foi feito o estudo de viabilidade financeira e parte -se para começar o  
+desenvolvimento  do produto.  
+ 
+15.2  Desenvolvimento  de produto  
+Extenso  tópico  de pesquisa  em progresso  
+ 
+Exemplos:  
+ 
+1. Envolver  fornecedores:  
+ 
+– aumentar  margem  (coordenação)  
+– compartilhar  ganhos  (concorrência  horizontal)  
+ 
+Ou seja, estimular  seus fornecedores  a acreditar  em seu produto,  uma espé- 
+cie de pré -venda interna para reduzir custos preliminares, aumentar margem  
+ou gordura, para ser usada quando necessária. A coordenação de ações de  
+escolha de fornecedores baseando qualidade a custo e fundamental para o  
+sucesso  do desenvolvimento  do produto.  
+ 
+A concorrência  horizontal  e um fator pensado  durante  o processo  de pesquisa  
+de mercado e aplicado no período de desenvolvimento e pré –lançamentos,  
+pois sua definição quando bem aplicada poderá ser benéfica. “Diz -se que a  
+cooperação  é de “natureza  horizontal”  quando  existe  um acordo  ou práticas  
+concertadas  entre  empresas  que se situam  ao(s) mesmo(s)  nível (eis) do mer- 
+cado”.  Trata -se, a maior  parte  das vezes,  de cooperação  entre  concorrentes,  
+este tipo de atividade  pode ser mal vista pelo mercado  quando  produz  efeitos  
+negativos  no mercado  no que se refere  aos preços,  à produção,  à inovação  ou 
+à diversidade  e qualidade  dos produtos.  Por outro  lado, a cooperação  horizon - 
+tal pode dar origem  a vantagens  econômicas  significativas,  quando  constitui  
+um meio de partilhar  riscos,  realizar  economias,  agrupar  saber -fazer e lançar  
+inovações  no mercado  de forma  mais rápida.  Quando  bem administrado  e 
+ 
+ 
+e-Tec Brasil  80 Marketing  e Vendas   
+  
+ 
+ 
+ 
+seguindo a legislação  do Comercio,  Lei anti TRUST  e monopólio.  Legislação  
+aonde  o CADE  (Conselho  Administrativo  de Defesa  do Consumidor)  interfere.  
+ 
+15.2.1  Quais  acordos  mais  comuns  
+• Acordos  de produção:  Os acordos  de produção  conjunta,  através  dos 
+quais  as partes  acordam  em produzir  determinados  produtos  em con- 
+junto. Acordos de especialização, através dos quais as partes acordam,  
+unilateral  ou reciprocamente,  em cessar  a produção  de um produto  e 
+comprá -lo à outra  parte.  
+ 
+• Acordos  de compra : Trata -se de acordos  que dizem  respeito  às compras  
+de produtos em comum. Este tipo de compras pode realizar -se através  
+de uma empresa controlada conjuntamente ou de uma empresa em que  
+um grande  número  de empresas  detém  uma pequena  participação,  ou 
+através de um acordo contratual, ou ainda através de uma forma de co - 
+operação  mais flexível.  
+ 
+• Acordos de comercialização: Os acordos de comercialização inci - 
+dem numa  cooperação  entre  concorrentes  para a venda,  distribuição  
+ou promoção dos seus produtos. Entre os acordos de comercialização,  
+figuram os acordos de venda em comum, que implicam uma defini - 
+ção em comum dos aspectos comerciais ligados à venda do produto,  
+incluindo o preço, acordos esses que têm, assim, efeitos restritivos na  
+concorrência.  
+ 
+• Acordos em matéria de ambiente : Os acordos em matéria de ambien - 
+te são acordos  nos termos  dos quais  as partes  se comprometem  a atingir  
+uma redução  da poluição,  em conformidade  com a legislação  sobre  o 
+ambiente  ou com os objetivos  ambientais.  
+ 
+15.2.2  Resolver  problemas  de linguagem  
+• Casa de Qualidade  
+Normalmente é necessário quando no processo de pesquisa houve algu - 
+ma incompatibilidade  da mensagem  com o receptor  seja ela na qualida - 
+de da promoção,  embalagem,  preço  o material  oferecido.  Este problema  
+deve ser rapidamente resolvido antes dos testes de mercado, pois toda  
+a base de pesquisa,  finanças  e acordos  já foi criada  e o plano  de negó- 
+cio entra em seus estágios finais que são o teste de mercado que pode  
+ser chamado de pré -lançamento e colocam o produto exposto ao grupo  
+seleto de consumidores e aberto a resposta natural de aceitabilidade,  
+acabou  as pesquisas  de laboratório.  
+ 
+ 
+Aula 15 – Plano  de negócio  81 e-Tec Brasil   
+  
+ 
+Resumo  
+Vimos  nesta  aula que o plano  de negócio  é indispensável  para que a orga- 
+nização mantenha -se competitiva, o plano deverá contemplar o que o pro - 
+fissional  de marketing  sabe sobre  o mercado  que atua ou deseja  atuar,  bem 
+como  a empresa  pretende  alcançar  seus objetivos.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  82 Marketing  e Vendas   
+ Ótimo,  chegou  o teste  de mercado,  ele nos mostrará  de forma  real as 
+consequências de um produto sobre as vendas. Seus riscos, suas maiores  
+forças para o consumidor, os desvios estratégicos e logicamente sua pos - 
+sibilidades  de lucro.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+16.1  Teste  de mercado  ou marketing  
+O Conceito  de teste de mercado  o marketing  é um experimento  controlado,  
+realizado  numa  limitada,  mas cuidadosamente  selecionada  parte  do merca - 
+do, que previamente foi pesquisado em alguma determinada fase. Cujo ob - 
+jetivo  é o de prever  as consequências  sobre  vendas  ou sobre  os lucros,  tanto  
+em termos absolutos (quantitativos) quanto nos relativos (risco qualitativo  
+presente), de uma ou mais ações de mercado propostas. Este tipo de teste  
+e frequentemente aplicado para testar produtos novos ou novas versões de  
+produtos  existentes.  Efetuar  previsões  de resultados  quando  do lançamento  
+geral e determinar por amostragem a aceitação do produto pelo mercado,  
+testando  níveis  alternativos  e novas  atividades  de ações  de marketing.  
+ 
+Estes testes  podem  ser: 
+ 
+1. Teste Padrão de Mercado: Usa -se o chamado mercado de segurança, e  
+usado os canais regulares da cadeia de distribuição ( supplay chain ) cadeia  
+de suprimentos. Tipicamente a própria equipe de vendas, e o que e de - 
+terminado  e o tempo  de duração,  os critérios  para os locais  e quantos.  
+ 
+2. Mercado  Simulador  por Testes:  também  conhecido  como  teste de labora - 
+tório,  baseado  em estimativas  matemáticas  da participação  no mercado  
+com base inicial a reação inicial dos consumidores a um novo produto.  
+Neste  processo  os consumidores  são abordados  em lugares  reais (mer- 
+cados, shoppings center e nas ruas) e apresentados a conceito de novo  
+produto, caso o consumidor demonstre vontade em adquiri -lo será en - 
+trevistado  profundamente  a respeito  de sua avaliação  sobre  o produto  e 
+sua intenção  de comprá -lo mais de uma vez. 
+ 
+ 
+ 
+ 
+ 
+ 
+83 e-Tec Brasil   
+ 
+ 
+ 
+Aula 16 – Teste  de mercado   
+  
+ 
+ 
+ 
+ 
+3. Mercado Controlador de Testes: neste procedimento, todo o programa  
+de testes  de marketing  e implementada  por uma companhia  externa  
+exemplo A.C Nielsen, em experimentos de campo. A companhia de pes - 
+quisas  garante  a distribuição  do produtos  no varejo  que representam  
+uma percentagem pré determinado porém significativa do mercado.  
+Usa-se a Lei de Paretto  para o critério.  
+ 
+Mesmo sendo importante para análise futura de um produto o teste de  
+mercado, a organização deve decidir se deve ou não fazê -lo, levando  
+sempre em consideração fatores como: nível da concorrência, ambiente  
+socioeconômico  e cultural,  e a necessidade  de manter  ou não sigilo sobre  
+o processo e produto. Existem vários experimentos de marketing que po - 
+dem ser avaliados no teste de mercado, que poderemos discutir em sala,  
+como  exemplos.  
+ 
+• Preço;  
+• Embalagem;  
+• Mídia;  
+• Volume  de consumo;  
+• Distinguir  a qualidade  de seu produto  X o do concorrente.  
+ 
+Lançamento  
+Poucas firmas usam lançamento nacional ou global apenas as que real - 
+mente têm uma imagem bastante sólida no mercado, e dentro do pla - 
+nejamento estratégico financeiro uma reserva de capital direcionada a  
+lançamento de produtos novos e seus custos. Normalmente a empresas  
+acabam  optando  por um lançamento  gradual,  sendo  assim  uma extensão  
+do teste de mercado, porém em âmbito e atividades maiores. E com as  
+próprias pernas, utilizando mão de obra e recursos próprios. Não que  
+não deva ou não possa mais usar recursos de pesquisa externos, muito  
+pelo contrário, estas empresa não correm o risco de serem tendenciosas.  
+Porem como citado o lançamento e a consequência de tudo que foi idea - 
+lizado no sequencial do plano estratégico. Para finalizar vamos colocar as  
+quinze regras de ouro que poderão levar seu produto ao sucesso quando  
+seguidos:  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  84 Marketing  e Vendas   
+  
+ 
+ 
+As 15 regras  de ouro  do sucesso  
+• Produto  Superior;  
+• Mercado  aberto;  
+• Globalização  de informações;  
+• Análise  contínua;  
+• Definição do segmento correto;  
+• Plano de  negócio bem  estruturado;  
+• Coordenação;  
+• Administração;  
+• Sinergia  entre  produtos;  
+• Atratividade  com o público  alvo; 
+• Pré-seleção  do consumidor  chave;  
+• Qualidade;  
+• Disponibilidade  dos recursos;  
+• Fator  tempo;  
+• Processo  multi-escalões  e áreas.  
+ 
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aula 16 – Teste  de mercado  85 e-Tec Brasil   
+  
+ 
+ Bem chegamos  as técnicas  de vendas,  vamos  inicialmente  nos conhecer  e 
+depois disso nossa empresa, produtos e serviços. Claro que não podemos  
+esquecer de nossos concorrentes e da parte mais importante neste pro - 
+cesso:  os clientes!   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+17.1  Módulo  I- Conhecimentos  essenciais  
+do vendedor  
+17.1.1  Conhecimento  de si próprio  
+A primeira  “venda“  a ser feita é a de sua imagem  pessoal,  profissionalmen - 
+te íntegra e confiável, pois, a boa fé é componente essencial em qualquer  
+atividade  humana.  
+ 
+O vendedor  é para seus clientes  a imagem  viva da empresa  que representa,  
+bem como  junto  à sua comunidade.  
+ 
+A autoanálise é o meio mais seguro para alguém se conhecer, sendo, tam - 
+bém, o ponto  de partida  para as mudanças  que se façam  necessário.  
+ 
+Para tanto,  considere  os seguintes  pontos  principais:  
+ 
+• A aparência  saudável  e condizente  com a idade;  mas simpatia  e natu- 
+ralidade são atributos indispensáveis para a aproximação com clientes,  
+contam  mais que beleza  física.  
+• O modo  de vestir  é a embalagem  do produto  que será vendido  em pri- 
+meiro lugar: Você; ou seja, vestir -se com discrição é sempre uma forma  
+de não errar.  
+• O volume e tom de voz, com  segurança e de forma calma.  
+• A facilidade  de transmitir  ideias  e não ser prolixo  (confuso).  
+• Os conhecimentos  gerais;  
+• Os conhecimentos  específicos.  
+ 
+17.1.2  Conhecimentos  de sua empresa  
+A segunda  venda  a ser feita pelo vendedor  é a da empresa  que ele repre - 
+senta.  
+ 
+ 
+ 
+87 e-Tec Brasil   
+ 
+ 
+ 
+Aula 17 – Técnicas  de Vendas  I  
+  
+ 
+ 
+ 
+ 
+O vendedor  precisa  conhecer  a empresa  em termos  de seus: 
+ 
+• Dados  gerais;  
+• Dados  estruturais;  
+• Dados  organizacionais;  
+• Dados  da imagem  pública;  
+• Os objetivos  da sua atividade  para o sucesso  de seu trabalho;  
+• Os sistemas  de comercialização.  
+ 
+17.1.3  Conhecimentos  sobre  os produtos  e serviços  
+O vendedor não deve se deixar levar por tendências ou preferências pesso - 
+ais, quando  se trata de servir  a seus clientes.  
+ 
+O homem moderno e as empresas de hoje tem sempre uma multiplicidade  
+de bens, responsabilidades e valores em risco, e para cada um deles existe  
+um produto  a ser oferecido.  
+ 
+O segredo  da venda  consiste  em oferecer  o produto  certo  no momento  certo  
+para o cliente  certo.  
+ 
+Para conhecer  bem e apresentar  adequadamente  os produtos  e serviços  aos 
+clientes:  
+ 
+• Identifique  e relacione  todos  os produtos  que você tem a sua disposição;  
+ 
+• Verifique todas as características de cada produto e suas formas de co - 
+mercialização;  
+ 
+• Faça um resumo  para cada tipo de produto;  
+ 
+• Certifique -se sobre as condições de comercialização adequadas ao seu  
+cliente;  
+ 
+• Com base nas informações  obtidas,  no resumo  elaborado,  no material  
+específico disponível, e em folhetos promocionais, identifique as particu - 
+laridades  de cada produto,  fazendo  uma relação  de soluções  e benefícios  
+que seus clientes  obterão  com a compra  desses  produtos.  
+ 
+Esta é a base para você planejar  e desenvolver  apresentações  de venda  “sob 
+medida”  para os verdadeiros  interesses  e reais necessidades  de seus clientes.  
+ 
+ 
+ 
+e-Tec Brasil  88 Marketing  e Vendas   
+  
+ 
+ 
+ 
+Para você manter  sempre  o nível ideal de conhecimentos  sobre  os produtos:  
+ 
+• Leia com toda a atenção  e interesse  as circulares  emitidas  pelos  adminis - 
+tradores dos produtos, colocando em prática suas instruções e orienta - 
+ções;  
+ 
+• Consulte,  frequentemente,  com todo cuidado,  as publicações  como:  ma- 
+nuais, boletins, informativos e outras, que digam respeito aos produtos  
+que você comercializa;  
+ 
+• Participe, ativamente, de todos os cursos e atividades de treinamento,  
+bem como  das reuniões  promovidas  por sua Gerência;  
+ 
+• Mantenha -se informado sobre tudo que acontece ou que é divulgado  
+pela mídia  falada  ou escrita  sobre  sua área se atuação,  pertinentes  a ati- 
+vidades  e fatos que possam  influir  ou interferir  no seu trabalho.  
+ 
+Estar preparado  e procurar  satisfazer  todas  as necessidades  dos clientes  são 
+a chave  da profissionalização  e a base de uma venda  lucrativa.  
+ 
+17.1.4  Conhecimentos  das técnicas  aplicáveis  ao 
+seu trabalho  
+O vendedor  precisa  fixar e superar  metas  de produção  que significam  um 
+determinado  volume  de vendas,  num espaço  de tempo  também  definido.  
+ 
+Para isto é necessário  o emprego  de técnicas  que foram  desenvolvidas  obje- 
+tivando  atingir  os seguintes  resultados:  
+ 
+• Produzir  o máximo  possível;  
+• Com o mínimo  de esforço;  
+• Com o emprego  adequado  dos recursos  disponíveis;  
+• No menor  tempo  possível;  
+• Com o máximo  de qualidade.  
+ 
+Estas técnicas  são: 
+ 
+1. De planejamento  das atividades  de vendas,  na busca  de novos  clientes;  
+2. De organização  de suas atividades,  dos recursos  e dos seus instrumentos  
+de trabalho;  
+ 
+ 
+ 
+Aula 17 – Técnicas  de Vendas  I 89 e-Tec Brasil   
+  
+ 
+ 
+ 
+3. De controle  dos resultados  de suas atividades  e esforços,  isto é: registro,  
+auto-avaliação  e correção  de desempenho  geral;  
+ 
+4. De venda,  aplicadas  à angariação  de novos  clientes.  
+ 
+Qualquer  técnica  é boa, desde  que faça você ser produtivo.  O que não é 
+bom é não usar nenhuma técnica e deixar que as coisas aconteçam ou dei - 
+xem de acontecer,  sem o menor  direcionamento  ou controle  de sua parte.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  90 Marketing  e Vendas   
+ Continuamos a abordar este tema interessante, que é vendas e o correto  
+direcionamento  o levará  a excelência.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+18.1  Conhecimentos  sobre  seu território,  
+área  ou setor  de atuação  
+Produtividade  máxima  deve ser o grande  objetivo  do vendedor.  
+O tempo  é o capital  do vendedor.  
+O uso do tempo e o ritmo das atividades produtoras estão intimamente  
+ligados  ao território,  área ou setor  em que o profissional  desenvolve  sua 
+atuação.  
+ 
+Conhecer  bem sua área de atuação  é essencial  para o sucesso,  e significa:  
+ 
+• Definir  geograficamente  o seu território  ou setor de atuação;  
+• Definir  mercadologicamente  seu território  ou setor de atuação;  
+• Identificar  a infraestrutura  de serviços  disponíveis;  
+• Identificar  todos  os clientes  potenciais,  pessoa  física  ou jurídica,  na região;  
+ 
+O pleno conhecimento de seu território ou setor de atuação é fator funda - 
+mental para formular e desenvolver planos de ação, roteiros de visitação e  
+atendimento ou assistência, dentro de um esquema de prioridades voltado  
+para a realização  de objetivos  e metas  pré-definidas.  
+ 
+18.2  Conhecimentos  sobre  a concorrência  
+A concorrência  é uma realidade  que deve ser administrada  para que dela se 
+retirem  os maiores  e melhores  proveitos.  
+ 
+Conhecer  a concorrência  é saber:  
+ 
+• Quais  são as operadoras  ou seguradoras  que operam  no mesmo  território;  
+• Que tipo de estrutura  e atendimento  elas mantém;  
+ 
+ 
+ 
+ 
+91 e-Tec Brasil   
+ 
+ 
+ 
+Aula 18 – Técnicas  de vendas  II  
+ Quanto  mais você a conhecer,  mais capacitado  ficará  para poder  lidar 
+com ela e tirar proveito.  
+A única  coisa que você nunca  deve fazer  é falar mal de uma concorren - 
+te, na frente  do cliente.  
+O tempo  que você gasta  falando  mal da concorrência,  deixa  de enaltecer  
+as qualidades  da empresa  que você representa.  
+Provando  que a empresa  concorrente  não é boa, você não estará,  ne- 
+cessariamente,  demonstrando  que o cliente  deve confiar  em você.  Você 
+já pensou  nisso?   
+ 
+ 
+ 
+ 
+• Quem  são as  pessoas dentro  destas estruturas;  
+• Quais  os produtos  com que operam;  
+• Quais  são as políticas  e normas  de aceitação  e operacionais  em vigor.  
+• Como  atuam  os seus produtores;  
+• Que tipo  de propaganda  e promoções  realiza  e com  que intensidade;  
+• O que está ao seu alcance  fazer  para equilibrar  as forças;  
+• Que tipo de concorrência  indireta  influencia  o mercado,  sua periodicida - 
+de e intensidade;  
+• Quais  são as vantagens  competitivas  que você pode oferecer  aos seus 
+clientes.  
+ 
+ 
+18.3  Conhecimentos  sobre  os clientes  
+Sem que o cliente  seja ampla  e profundamente  conhecido,  nada poderá  ser 
+feito no sentido  de realizar  e superar  os objetivos  e metas  a que o vendedor  
+se propõe.  
+ 
+Atender, prestar serviços aos clientes, com toda a eficiência necessária e  
+desejada, conquistar, manter e expandir posições de mercado são funções  
+e responsabilidades de todos os que trabalham direta ou indiretamente em  
+vendas.  
+ 
+Para que isto seja realizado  é preciso  conhecer,  mais do que tudo,  o cliente,  
+como pessoa e como profissional, e a forma pela qual ele vai agir e reagir, em  
+função  do esforço  do vendedor  para atingi -lo, conquistá -lo e servi-lo. 
+ 
+Portanto nos sete itens abordados estão os conhecimentos que poderão  
+levá-lo a excelência  na sua atividade.  
+ 
+Não basta adquirir ou manter atualizados todos estes conhecimentos se  
+você não os incorporar  aos seus hábitos  de vida e de trabalho.  
+ 
+ 
+e-Tec Brasil  92 Marketing  e Vendas   
+  
+Além dos itens de caráter técnico mencionados anteriormente, o vende - 
+dor deverá  pautar  toda a sua atividade  profissional  em uma série de qua- 
+lidades coadjuvantes que contribuirão de forma positiva para o alcance  
+de suas pretensões,  porém,  não necessariamente  na ordem  apresentada:  
+ 
+• Ética 
+• Persistência;  
+• Liderança;  
+• Disciplina;  
+• Organização;  
+• Modéstia;  
+• Humildade.  
+ 
+Estes são os principais ingredientes que, se agregados às atividades de  
+venda,  propiciarão  o tão almejado  “Sucesso”  a qualquer  vendedor.   
+ 
+ 
+ 
+Tenha  sempre  em mente:  
+ 
+• É preciso  selecionar  e direcionar  os conhecimentos  para a realização  e 
+superação  de objetivos  e metas;  
+• É fundamental  incorporar  os conhecimentos  adquiridos  aos seus hábitos  
+pessoais  e profissionais;  
+• A forma  de fazer  tudo isso é através  de muito,  muito  exercício.  
+ 
+Para  refletir  
+ 
+Resumo  
+A pro-atividade,  a empatia  e a credibilidade  são verdadeiras  vantagens  com- 
+petitivas, o vendedor que souber diferenciar -se dos demais, que procurar  
+sempre  aprender  e melhorar  continuamente  será disputado  pelo mercado.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Aula 18 – Técnicas  de vendas  II 93 e-Tec Brasil   
+  
+ 
+ Nesta aula aprenderemos o motivo para vivermos felizes e estimulados.  
+Bem mais o importante é entender a motivação de nossos clientes. Eles  
+realmente  importam  dentro  do conceito  da venda.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19.1  Módulo  II - Motivação  do cliente  
+19.1.1  Processo  mental  de motivação  
+Motivação é a razão que leva as  pessoas à ação.  
+ 
+As pessoas  agem  para alcançar  seus objetivos  pessoais  e profissionais.  
+ 
+As pessoas, normalmente, passam por um processo mental, muitas vezes  
+inconsciente,  para tomar  uma decisão.  
+ 
+A realização  de objetivos  obriga  as pessoas  a ter necessidades.  Uma necessi - 
+dade gera um desejo,  cria um problema,  que requer  uma solução,  levando - 
+-nos a buscar  uma negociação  com uma operadora  ou uma seguradora.  
+ 
+A negociação  é uma ação que deve,  sempre,  satisfazer  a uma necessidade.  
+ 
+A operadora ou seguradora contratada é, então, a solução do problema e o  
+instrumento  para que o vendedor  alcance  os objetivos  que deseja.  
+ 
+Os clientes são pessoas, e, como tal, para serem motivados precisam ser  
+compreendidos.  
+ 
+O cliente faz coisas pelas suas razões, e não pelas razões do vendedor. Os  
+clientes  querem  satisfazer  as suas próprias  necessidades  e não as necessida - 
+des do vendedor.  
+ 
+Fechar  um negócio  é: 
+ 
+Ajudar  o cliente  a descobrir  como  pode conseguir  o que deseja,  satisfazendo  
+suas necessidades através de serviços, benefícios e garantias oferecidas pelas  
+operadoras  e seguradoras.  
+ 
+ 
+ 
+95 e-Tec Brasil   
+ 
+ 
+ 
+Aula 19 – Técnicas  de venda  III  
+  
+ 
+ 
+ 
+19.1.2  As necessidades  humanas  e sua satisfação  
+A satisfação das necessidades do homem tende a seguir uma sequência  
+bem definida,  de acordo  com Abraham  Maslow,  que foi um dos pioneiros  
+na investigação das necessidades humanas e seus reflexos sobre o proces - 
+so motivacional de satisfação, também conhecidas como a Pirâmide de  
+Maslow,  compreendidas  na base da pirâmide  as fisiológicas  ou vitais,  de 
+segurança, de amor ou aceitação, de estima e no topo as necessidades de  
+autorrealização.  
+ 
+Nenhuma  das necessidades  deve ser tratada  de forma  isolada.  
+ 
+a) Necessidades  fisiológicas  ou vitais:  
+ 
+São, primordialmente,  as necessidades  básicas  da vida, como:  
+ 
+• Vestir -se; 
+• Repousar;  
+• Proteger -se; 
+• Alimentar -se. 
+ 
+Somente quando as necessidades básicas, fisiológicas ou vitais estão satisfei - 
+tas é que o homem  procura  satisfazer  as outras  necessidades.  
+ 
+Existem produtos que podem satisfazer as necessidades vitais dos clientes  
+como  os que garantem  os meios  necessários  à sua subsistência.  
+ 
+b) Necessidade  de segurança:  
+ 
+As pessoas  mais conservadoras  têm uma grande  necessidade  de segurança.  
+ 
+Exemplos claros da necessidade do homem de sentir -se seguro e protegido  
+em nossa  sociedade  de hoje,  são: 
+ 
+• As profissões  e empregos  seguros  que ele procura;  
+• As economias  que faz para prevenir -se contra  dias piores;  
+• A abundância  de remédios  que são encontrados  em sua farmácia  caseira.  
+• O elenco  de seguradoras  e operadoras  com quem  trabalha.  
+ 
+O medo de mudança de situação é um perfeito exemplo de necessidade de  
+segurança que pode ser satisfeita pelo seguro ou pelo plano de assistência  
+à saúde.  
+ 
+ 
+e-Tec Brasil  96 Marketing  e Vendas   
+  
+ 
+ 
+ 
+O principal  benefício  da contratação  de um dos produtos  citados  é evitar  que 
+o cliente  possa  arcar  com prejuízos  futuros.  
+ 
+c) Necessidade  de amor  ou aceitação:  
+ 
+Uma vez satisfeitas às necessidades básicas e de segurança, começa a crescer  
+dentro  do homem  um forte desejo  de: 
+ 
+• Amor;  
+• Afeição;  
+• Aceitação  social.  
+ 
+A aceitação  social  associada  às experiências  do trabalho  e da vida cotidiana  
+é expressa  pela amizade  e o respeito,  podendo  ser conquistada  ou reforçada  
+pela ação do vendedor.  
+ 
+d) Necessidade  de prestígio  ou estima:  
+ 
+Os clientes procuram conquistar prestígio e, através da seguradora ou da  
+operadora, podem alcançá -lo ou reforçá -lo, conquistando uma imagem de  
+que são importantes  dentro  delas,  isto por que: 
+ 
+• Cada indivíduo  precisa  sentir  que é importante;  
+• As pessoas  querem  gozar  de estima  pessoal  e respeito  próprio;  
+• As pessoas  procuram  nas outras  reações  que reflitam  boa reputação,  
+reconhecimento  e atenção.  
+ 
+e) Necessidade  de auto-realização:  
+ 
+O que a pessoa  é e como  consegue  alcançar  suas metas  e objetivos,  varia 
+de indivíduo  para indivíduo.  Querer  transformar -se no melhor  pai, na melhor  
+esposa,  no melhor  cliente,  é legítimas  expressões  da necessidade  de: 
+ 
+• Sentir -se bem sucedido;  
+• Realização  pessoal;  
+• Realização  profissional.  
+ 
+As pessoas neste estágio de satisfação de suas necessidades procuram: Ide - 
+ais, Grandeza,  Desafios,  Realizações  e aplicação  de sua capacidade  total.  
+ 
+ 
+ 
+Aula 19 – Técnicas  de venda  III 97 e-Tec Brasil   
+  
+ 
+19.3  Os benefícios  e sua utilização  
+Os clientes  só compram  benefícios.  
+Então  cabe ao produtor  vendê -los. 
+Os benefícios  que as seguradoras  e operadoras  oferecem  a seus clientes  são 
+fontes  inesgotáveis  de argumentação  para o promotor  de vendas.  
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  98 Marketing  e Vendas   
+ Nesta  aula veremos  que os clientes  podem  ser classificados  em 3 tipos 
+psicológicos:  os conservadores  e introvertidos,  os que procuram  aceitação  
+social  e prestígio  e aqueles  dinâmicos  e extrovertidos.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+20.1  Três tipos  psicológicos  de clientes  
+a) Clientes  conservadores  e introvertidos:  
+ 
+• As pessoas  de mente  muito  fechada,  tendem  a evitar  inovações;  
+• Conservadoras  ao extremo;  
+• Evitam  situações  arriscadas;  
+• Seguem  a experiência  de outras  pessoas;  
+• São, em geral,  pessimistas;  
+• Elas perguntam sempre:  o que  acontecerá se  não der  certo?  
+• Elas usam como  exemplo  experiências  que falharam,  e precisam  de mui- 
+tas provas  para mudar;  
+• Elas não decidirão  e não mudarão  se não tiverem  provas  reais de que a 
+decisão  ou a mudança  irá ajudá -las a evitar  riscos  e derrotas.  
+ 
+Estes clientes  são, geralmente,  pessoas  que procuram  satisfazer  as necessi - 
+dades  fisiológicas  ou as de segurança.  
+ 
+A imagem  da empresa  a qual você representa  deve ser ressaltada  a esses  
+clientes.  
+ 
+b) Clientes  que procuram  aceitação  social  e prestígio:  
+ 
+• A maioria das pessoas se incluem neste grupo. Tendem a se posicionar  
+entre as dinâmicas e as conservadoras, com vários graus característicos  
+de ambas;  
+• Elas demonstram  motivação  equilibrada;  
+• Elas olham  e analisam  a empresa,  procurando  satisfazer -se com ela; 
+• Ao mesmo  tempo,  procuram  um meio de evitar  situações  difíceis.  
+ 
+ 
+ 
+ 
+ 
+ 
+99 e-Tec Brasil   
+ 
+ 
+Aula 20 – Os tipos  psicológicos  de 
+clientes   
+  
+ 
+ 
+ 
+ 
+Para clientes com esta característica, o vendedor deve ressaltar a posição  
+de liderança da empresa no mercado, além da qualidade da prestação de  
+serviços.  
+ 
+c) Clientes  dinâmicos  e extrovertidos:  
+ 
+• Estes clientes  são, em geral,  pessoas  de orientação  positiva  e realista;  
+• Suas experiências  os tornaram  de mente  positiva  e extrovertida;  
+• Suas afirmações  refletem  sucesso,  conquistas  e realizações;  
+• Não se deixam “empurrar” com facilidade e resistem às insistências do  
+vendedor  em forçá -lo a negociar,  no entanto,  podem  tomar  decisões  
+rápidas;  
+• Estas pessoas  procuram  outras  oportunidades;  
+• Gostam  de novos  negócios  e de novas  formas  para coisas  antigas;  
+• São criativas  e inovadoras.  
+ 
+Estes clientes, normalmente, são os que procuram satisfazer às necessidades  
+de autorrealização.  
+ 
+Neste  caso,  recomenda -se ao vendedor  ressaltar  as características  modernas  
+dos produtos  e da empresa,  e bem assim,  a estrutura  de apoio  disponibiliza - 
+da ao cliente.  
+ 
+20.2  Os valores  e as atitudes  da negociação  
+• Na maioria  das vezes,  nossas  ações  e reações  refletem  as nossas  atitudes;  
+• Nossas  atitudes  refletem  uma série de valores,  adquiridos  ao longo  do 
+tempo;  
+• O produtor  que encara  a venda  como  uma batalha  entre  ele e o cliente,  
+deixa  clara esta atitude  negativa;  
+• Da mesma forma,  o cliente  assume o papel  de oponente  do produtor.  
+ 
+Assim  sendo,  acumule  valores  pessoais  e profissionais  positivos  e as suas 
+atitudes  sempre  colocarão  os interesses  do cliente  em primeiro  lugar.  
+ 
+20.3  A empatia  na compreensão  das pessoas  
+A empatia  é a chave da  compreensão.  
+ 
+Quando  você se coloca  no lugar dos outros  para analisar  ou entender  deter - 
+minada  situação  ou atitude,  você esta praticando  a empatia.  
+ 
+ 
+e-Tec Brasil  100 Marketing  e Vendas   
+ Negociar é ajudar o cliente a descobrir como o nosso produto ou o  
+nosso serviço o colocará em uma boa posição perante si mesmo e  
+diante  dos olhos  de outros,  em função  da contratação.  
+Vender  = uma profissão;  
+ 
+Negociar  = uma técnica;   
+ 
+ 
+ 
+A prática  da empatia  leva você a concluir  que: 
+ 
+  Negociar  não é convencer  o cliente  a fazer  algo que não deseja!   
+ 
+Quando  nós compreendemos  as pessoas  e demonstramos  isto, criamos  um 
+clima  altamente  favorável  para a negociação.  
+ 
+Com base nesta  lógica  podemos  afirmar,  com total margem  de acerto:  
+ 
+ 
+Portanto, podemos concluir que efetuamos uma excelente negociação  
+quando  entendermos  de maneira  quase  precisa:  
+ 
+• As necessidades  do cliente;  
+• Suas ações;  
+• Suas reações;  
+• Suas atitudes.  
+ 
+Posterior  a conhecermos  nosso  estilo,  nossa  empresa,  nossos  produtos  e 
+concorrentes,  temos  que ter em mente  que precisamos  aprender  que vender  
+é um conceito profissional baseado em conhecimentos organizacionais as - 
+sociados as nossas habilidades. Negociar é a técnica utilizada para usar estes  
+conhecimentos e habilidades para obter êxito na venda ou negociação de  
+um produto  ou serviço  
+ 
+Resumo  
+Como vimos, a ética e a comunicação correta de produtos ou serviços fará  
+com que o consumidor sinta -se confiante e com suas expectativas satisfei - 
+tas. Uma empresa  investe  tempo  e dinheiro  com as ações  de marketing,  
+logística, produção, qualidade, mas se o desempenho do vendedor não for  
+compatível com a qualidade e expectativa gerada, todo o esforço anterior  
+estará comprometido. Muitas decisões de compra se baseiam na emoção e  
+no desejo  em detrimento  a uma real necessidade  de fato. 
+ 
+ 
+Aula 20 – Os tipos psicológicos  de clientes  101 e-Tec Brasil   
+  
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ABREU,  Antonio  Suárez.  A Arte de Argumentar.  Gerenciando  Razão  e Emo- 
+ção. Ateliê  Editorial.  2003 
+ 
+ARAÚJO,  Luiz César  – Organização,  Sistemas  e Métodos  e as Modernas  Ferra - 
+mentas  de Gestão  Organizacional . São Paulo,  Atlas:  2001.  
+ 
+BARCELLOS  Ricardo.  Apostila  Profissões  e Carreiras . 2006. 
+ 
+BOGAN,  Christopher.  Benchmarking:  Aplicações  Práticas  e Melhoria  Contí - 
+nua. São Paulo:  Makron  Books,  1997.  
+ 
+CAMP,  Robert  C., Benchmarking:  O caminho  da Qualidade . São Paulo:  Pio- 
+neira,  1993.  
+ 
+CABRERA,  Luiz Carlos.  Descritiva  do livro 5 Passos  para uma plano  de Carrei - 
+ra. Disponível  em: http://momentogestao.blogspot.com/2010/11/5 -passos - 
+-para-um-plano -de-carreira -por.html  
+ 
+CARNEGIE,  Dale. Como  Falar em Público  e Influenciar  Pessoas  no Mundo  dos 
+Negócios . . 29ª Ed. São Paulo.  Record,  1996.  
+ 
+CARNEGIE,  Dale. Como  Fazer  Amigos  e Influenciar  Pessoas . 27ª Ed. São Pau- 
+lo. Record,  1971.  
+ 
+CHIAVENATO,  Idalberto.  A corrida  para o emprego . São Paulo:  Makron  
+Books,  1997.  
+ 
+COBRA,  Marcos.  Administração  de Marketing . 2ª Ed. São Paulo:  Atlas,  2010. 
+ 
+CHURCHILL  JUNIOR,  Gilbert  A.; PETER,  J. Paul. Marketing:  criando  valor para 
+os clientes . São Paulo:  Saraiva,  2000.  
+ 
+DEJOURS, C.; ABDOUCHELI, C.; JAYET. Psicodinâmica do trabalho: Contribui - 
+ções da Escola Dejouriana à análise da relação prazer, sofrimento e trabalho . São 
+Paulo:  Atlas,  1994.  
+ 
+KARSAKLIAN,  Eliane.  Comportamento  do Consumidor . São Paulo:  Atlas,  2000. 
+ 
+103 e-Tec Brasil   
+ 
+ 
+ 
+Referências   
+  
+ 
+ 
+ 
+ 
+KOTLER,  Philip.  Administração de Marketing: Análise, planejamento, imple - 
+mentação  e controle . São Paulo:  Atlas,  1996.  
+ 
+KOTLER,  Philip.  KELLER,  Kevin  Lane.  Administração  de Marketing:  A Bíblia  do 
+Marketing . 12ª Ed. São Paulo:  Prentice  Hall Brasil,  2006.  
+ 
+KOTLER,  Phillip;  Marketing  para organizações  que não visam  o lucro . São 
+Paulo:  Atlas,  1978.  
+ 
+KOTLER,  Phillip.  ARMSTRONG,  G. Princípios  de Marketing . São Paulo:  Pren- 
+tice Hall Brasil,  2007.  
+ 
+LOPES,  P. Marketing  de relacionamento:  um diferencial  lógico . Porto  Alegre:  
+Artes  Médicas,  2002.  
+ 
+MARQUES,  Oliveira.  Como  Conquistar,  Falando . São Paulo:  Ed. Ouro,1980.  
+ 
+MENDES, Eunice. Falar em Público: Prazer ou Ameaça . Rio de Janeiro. Editora  
+Qualitymark.  1996.  
+ 
+MINAYO,  Maria  Cecília  S. Pesquisa  social: teoria, método  e criatividade . 12ª. 
+Ed. Rio de Janeiro:  Vozes,  1999.  
+ 
+MONTEIRO,  Aline Santos.  TERRA,  Guilhermina  de Melo.  Manual  De Trabalho  
+De Curso  TC. Versão  Atualizada  Agosto/2006  
+ 
+MORAIS, Ricardo Prates. A revolução nos relacionamentos . Ed. EMARKET  
+NEWS. 2005. Disponível em: http: //www.emarket.ppg.br/default.asp. Aces- 
+so em: 19.06.06  
+ 
+MOSCOVICI, F. Desenvolvimento interpessoal . 3ª. Ed. Rio de Janeiro: LTC,  
+1985.  
+ 
+PAGLIUSO, Antônio Tadeu. Benchmarking: Relatório do Comitê Temático . Rio 
+de Janeiro:  Qualitymark,  2005.  
+ 
+POLITO, Reinaldo. Como Falar Corretamente e Sem Inibições . 25ª Ed. São  
+Paulo:  Saraiva,  1998.  
+ 
+SIMONETTI, Sérgio. Trade Marketing, Estratégias e Práticas para o Ponto de  
+Venda . Curitiba:  Juruá  Editora,  2009.  
+ 
+ 
+e-Tec Brasil  104 Marketing  e Vendas   
+  
+ 
+ 
+ 
+Journal  of Product  Innovation  Management  10/04/1993  
+ 
+UrBan Glen L & Huauser Design and Marketing Products, 1993.  
+Site Zarabatanna  ZPPO,  baseado  no livro de Philip  Kotler,  1963.  
+Site FGVSP.com.br  
+Site Wikipedia.com.br  
+Site Curricular.com.br  
+Referências  das figuras  
+ 
+Figura  2.1: Peter Ducker  
+Fonte: http://www.valor.com.br/sites/default/files/gn/10/11/foto23cul -101-peter-d10.jpg  
+ 
+Figura  2.1: Henry  Ford 
+Fonte:http://davidkond.files.wordpress.com/2010/07/ford -model -t-centennial -henry -ford-1600x1200.jpg  
+ 
+Figura  2.2: GM 
+Fonte: http://www.hotpa.com.br/museus/ulbra/1924chevrolet2.jpg  
+ 
+Figura  2.3: Casas Bahia 
+Fonte:  http://content -portal.istoedinheiro.com.br/istoeimagens/imagens/mi_7185182069202989.jpg  
+ 
+Figura  2.4: Logo IBM 
+Fonte: http://www -03.ibm.com/ibm/history/exhibits/logo/images/920916.jpg  
+ 
+Figura  2.5: Nissan 
+Fonte:  http://www.mathewsons.co.uk/shop/shopimages/products/normal/nissan%20280Z%20001.jpg  
+ 
+Figura  2.6: Constantino  de Oliveira  Jr - Gol 
+Fonte: http://colunistas.ig.com.br/guilhermebarros/files/2010/08/constantino01.jpg  
+ 
+Figura  2.7: Maurício  Botelho  - Minijatos  
+Fonte: http://www.nytimes.com/2005/03/18/business/worldbusiness/18embraer.html  
+ 
+Figura  3.1: Direção  
+Fonte: http://carreiradeti.com.br/wp -content/uploads/2010/04/carreira_tendencias_tecnologia.jpg  
+ 
+Figura  4.1: SWOT  – Pontos  Fortes  (Strengths),  Fraquezas  ou Pontos  Fracos  (Weaknesses),  Oportunidades  (Opportunities)  e 
+Ameaças  (Threats)  
+Fonte:  ©Anson0618/Shutterstock  
+ 
+Figura  5.1: Produtos  
+Fonte:  ©Tan4ikk/Shutterstock  
+ 
+Figura  5.2: ‘Trocar’  dinheiro  por mercadoria  
+Fonte:  ©Diego  Cervo/Shutterstock  
+ 
+Figura 5.3: Acertar o alvo  
+Fonte:  Clip-art do Office 
+ 
+Figura 6.1: bússola  
+Fonte:  Clip-art do Office 
+ 
+ 
+ 
+ 
+Referências   
+105  
+e-Tec Brasil   
+  
+ 
+ 
+ 
+ 
+ 
+Figura 7.1: Gráfico colorido  
+Fonte:  Clip-art do Office 
+ 
+Figura  8.1: Boca  a boca 
+Fonte:  ©Sukhonosova  Anastasia/Shutterstock  
+ 
+Figura  8.2: Infográfico  
+Fonte:  Revista  Super Interessante  Fevereiro/2011  
+ 
+Figura  8.3: Buzz Marketing  
+Fonte:  http://1.bp.blogspot.com/_ekwkmHB43T4/SX5hdYVn4VI/AAAAAAAAAFI/TbrxZeeF8xo/s400/  
+olympichart%5B1%5D.jpg  
+ 
+Figura  8.4: Usain Bolt e suas sapatilhas  douradas  
+Fonte: http://i.telegraph.co.uk/telegraph/multimedia/archive/00786/bolt0806reu_786334c.jpg  
+ 
+Figura  8.5: Michael  Phelps  e a LZR Racer da Speedo  
+Fonte: http://brands.scene7.com/is/image/brands/athl -swim-lzr-mphelps2  
+ 
+Figura  11.1: Prateleira  de farmácia  
+Fonte:  http://www.jvaonline.com.br/novo_site/arquivos/8DfcsFarmacia_ -    Foto_Lairto_Martins.JPG  
+ 
+Figura  13.3: Sucesso  
+Fonte:  Clip-art do Office 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  106 Marketing  e Vendas   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Referências   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+107  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  Glossário  
+ 
+Atitude  significa  o comportamento  pessoal  frente  às situações  em que a pessoa  é resposta,  
+bem como a predisposição  pessoal  em responder  de maneira  positiva  ou negativa  ao 
+ambiente.  
+Benchmarking  significa um padrão de excelência que deve ser identificado, conhecido, copiado e  
+ultrapassado,  servindo como guia  de referência.  
+ 
+Briefing  Conjunto  de dados  comerciais  ou de marketing  que servem  de base para estudos  
+de promoção  e merchandising,  elaboração  de campanhas  e confecção  de peças em 
+geral.  
+ 
+Buzz marketing  como sendo uma estratégia para facilitar a repassagem da mensagem de marke - 
+ting de uma pessoa para a outra, também conhecido como marketing viral ou de  
+guerrilha.  
+CADE  Conselho  Administrativo  de Defesa  do Consumidor.  
+Comportamento  é a conduta,  a maneira de  proceder e de agir ou  reagir ao ambiente externo.  
+Consumidor  Aquele  que se utiliza  ou usufrui  dos benefícios  finais de um produto  ou serviço.  
+Decisão  é a escolha  ou opção  entre várias  alternativas de  cursos  futuros  de ação. 
+ 
+Display  qualquer elemento destinado a promover, apresentar, expor, demonstrar e ajudar a  
+vender um produto ou serviço, podendo ser colocado diretamente no solo, vitrine,  
+balcão  e gôndola.  
+E-commerce  são os negócios  realizados  eletronicamente  envolvendo  entrega  de mercadorias  ou 
+serviços.  
+Estímulo  é toda influencia  ambiental  que incita a ação ou a alguma  forma  de comportamento.  
+Estratégia  é a mobilização  dos recursos  da organização  em âmbito  global,  visando  atingir  objeti - 
+vos em determinado  prazo.  
+ 
+Expertise  Experts são os que acumulam conhecimento, exemplo os consumidores que sabem  
+muito sobre produto, preço e lugares diferentes, e quando indicam algum produto o  
+fazem  com ênfase e  influenciam o comportamento.  
+Eye tracker  aparelhos  que analisam  o percurso  do olhar em uma peça publicitária  ou mensagem.  
+ 
+ 
+ 
+Focus  Group  em português “discussões  de grupo”  é uma técnica  utilizada  na pesquisa  de mercado  
+qualitativa,  na qual se emprega  a discussão  moderada  de entre 8 e 12 participantes.  
+Discussões  de grupo costumam  durar entre uma hora e meia e duas horas e devem  
+ser coordenadas  por um moderador  experimentado.  O moderador  é também  o 
+facilitador  da sessão,  pois para além de regular  a sessão  dentro  dos seus moldes,  
+vai também  ajudar  o grupo a interagir.  Os focus groups  são usados  nos temas  
+mais diversos.  Muito frequentemente  são usados  em testes  da publicidade,  testes  de 
+conceito e  como pré-fase de estudos  quantitativos  maiores.  
+Layout  disposição  do conjunto  de móveis  da área de vendas  de um estabelecimento,  que 
+determina  o fluxo percorrido  pelos consumidores  internamente.  
+  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Influência  é a capacidade  de induzir  e modificar  o comportamento  das pessoas.  
+Manipulação  é o processo  por meio do qual se induz e condiciona  a pessoa  a fazer algo como se 
+fosse de  sua vontade,  quando,  na verdade,  ela faz o que os outros  querem.  
+Market  Share  é participação  de Mercado.  Nada a ver com posicionamento  de produto  que é aonde  
+o fabricante  deseja  posicionar  (público, sexo,  classe  social, área  etc.). 
+ 
+Merchandising  compreende  um conjunto  de operações  táticas  efetuadas  no ponto  de venda,  para 
+colocar no mercado o produto ou serviço certo, no lugar certo, na quantidade certa,  
+no preço  certo,  no tempo certo,  com o impacto visual adequado na  exposição correta.  
+ 
+Motivação  é o estado  intimo  que leva uma pessoa  a se comportar  de maneira  a assegurar  o 
+alcance de determinado objetivo ou a ser engajar em uma atividade para satisfazer  
+necessidades  pessoais.  
+Networking  é a arte de construir alianças.  
+ 
+ 
+Neuro  marketing  é um campo  novo do marketing  que estuda  a essência  do comportamento  do consu- 
+midor. É a união do marketing com a ciência, é considerado chave para o entendi - 
+mento  da lógica  de consumo,  que visa entender  os desejos,  impulsos  e motivações  
+das pessoas  através  do estudo  das reações  neurológicas  a determinados  estímulos  
+externos.  
+ 
+Planograma  tem como conceito  melhorar  a exposição  dos produtos  por categoria  e importância  
+dentro  das necessidades  de venda  de cada empresa,  mapa da disposição  relativa  com 
+que se  apresenta os  produtores  dentro de  um bloco  de exposição.  
+Prospects  pessoa  que tem potencial  para se tornar  consumidora  de um produto  ou serviço,  
+quando  devidamente  motivada.  
+Recall  do consumidor  retorno do consumidor, em inglês, termo muito usado para referir aos resultados  
+alcançados na mídia em termos de audiência.  
+Selling -in significa  venda  ao consumidor  final 
+Selling -out significa venda ao canal  de distribuição.  
+Shopper  relacionado  ao consumidor.  Pessoa  que decide  pela compra  ou não de um produto  no 
+ponto  de compras.  Pode ou não ser o próprio  consumidor  do produto.  
+Stakeholders  (ou) interessados - acionistas,  o mercado,  o consumidor.  
+Supplay  chain  cadeia  de suprimento.  
+Sku’s  (Selling  Key Unit)  posicionar  todas as versões,  é a unidade  cadastral  de vendas  de um produto.  
+Target  Do inglês alvo.  Acertar o alvo.  
+Timing  é quando,  por exemplo,  diz: era a pessoa certa,  no lugar certo.  É a oportunidade.  
+Trade  marketing  que é a adaptação  de produtos  para o comercio,  é a comunicação  no trade ou um 
+conjunto de  ferramentas para  comunicação nos  canais de  vendas.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  108 Marketing  e Vendas   
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Qual o motivo  da criação  do marketing?  
+ 
+a) O marketing  foi criado  para embelezar  os produtos.  
+b) O grupo  de marketing  foi criado  para ouvir as reclamações  dos clientes.  
+c) Surgiu  a partir  da necessidade  de se estudar  a nova realidade  industrial,  
+oriunda  da Revolução  Industrial.  
+d) Foi criado  para avaliar  o desempenho  de mercados  e atacadistas.  
+e) O marketing ainda  não foi  criado.  
+ 
+2. O artigo  “Miopia  de Marketing”  foi escrito  por Theodore  Lewitt  
+em que década?  
+ 
+a) 1950 
+b) 1970 
+c) 1960 
+d) 2000 
+e) 2009 
+ 
+3. Qual a orientação  das empresas  que dão ênfase  a preços  baixos,  
+produção em  larga  escala  e produtos e  diversos  pontos  de venda?  
+ 
+a) orientação para a produção  
+b) orientação  para a venda  
+c) orientação  para o produto  
+d) orientação  para o marketing  
+e) orientação  para o cliente  
+ 
+4. A empresa  que induz  uma tomada  de decisão  para que ocorra  a 
+compra  tem orientação  para:  
+ 
+a) marketing  
+b) produto  
+c) publicidade  
+ 
+ 
+ 
+109 e-Tec Brasil   
+ 
+ 
+ 
+Atividades  autointrutivas   
+  
+ 
+ 
+ 
+d) produção  
+e) vendas  
+ 
+5. Enumere  a segunda  coluna  de acordo  com a primeira:  
+ 
+ 
+( 1 ) variáveis  controláveis  ( ) concorrência  
+ 
+( 2 ) variáveis  incontroláveis  ( ) política  
+ 
+( ) legislação  
+ 
+( ) ética 
+ 
+( ) preço  
+ 
+a) 2;2;2;1;1  
+b) 2;1;1;1;2  
+c) 1;2;2;2;1  
+d) 1;2;1;2;1  
+e) 2;1;2;1;1  
+ 
+6. Quais  destes  fatores  não são variáveis  do ambiente  de mercado?  
+ 
+a) produto  
+b) distribuição  
+c) concorrência  
+d) sucesso  
+e) promoção  
+ 
+7. Complete  a frase  : “ deve estar sempre aliada  ao 
+marketing  para fazer  frente  a mercado  cada vez mais competitivo”.  
+ 
+a) A simplicidade  
+b) A concorrência  
+c) A pesquisa  constante  
+d) A variável  controlável  
+e) A orientação  para o produto  
+ 
+ 
+e-Tec Brasil  110 Marketing  e Vendas   
+  
+ 
+ 
+ 
+8. A melhor  definição  para marketing  estratégico  é? 
+ 
+a) O conjunto  de variáveis  controláveis  que a empresa  pode utilizar  para 
+influenciar  as respostas  dos consumidores.  
+b) É a harmonização  e compatibilização  das ações  de mercado,  enquanto  
+inseridas  no macro  ambiente.  
+c) O conhecimento  do ambiente  onde se encontra  a organização.  
+d) É buscar  produzir  produtos  que apresentem  características  inovadoras.  
+e) É o conhecimento  do comportamento  das pessoas.  
+ 
+9. Quais  são os 4 fatores  segundo  E. Jerome  McCarthy?  
+ 
+a) Preço,  Parcela,  Parceria,  Promoção  
+b) Prato,  Panela,  Piso, Porta 
+c) Promoção,  Prazo,  Propaganda,  Publicidade  
+d) Produto,  Preço,  Ponto  de venda,  Propaganda  (promoção)  
+e) N.D.A  
+ 
+10. Relacione  as colunas:  
+ 
+ 
+(a) produto  ( ) Tenta  atingir  o subconsciente  do consumidor  com a pene- 
+tração  do apelo.  
+ 
+(b) ponto  de venda  ( ) O homem  atribui  a cada um deles  um valor para suprir  e 
+atender  com maior  ou menor  satisfação  ao seu desejo.  
+ 
+(c) propaganda  ( ) É a combinação  de agentes  através  dos quais o produto  
+flui, desde  o vendedor  inicial  até o consumidor.  
+ 
+(d) preço  ( ) É o valor que o consumidor  está disposto  a pagar  no ato 
+da compra  de um bem.  
+ 
+a) b, a, c, d 
+b) a, c, b, d 
+c) c, b, d, a 
+d) c, b, a, d 
+e) c, a, b, d 
+ 
+ 
+Atividades  autointrutivas  111 e-Tec Brasil   
+  
+ 
+ 
+ 
+11. Em relação as opções de escolha para ponto de venda marque a  
+ERRADA:  
+ 
+a) concorrência  
+b) as características  dos vendedores  
+c) custo  
+d) tradição  
+e) as características  dos produtos  
+ 
+12. Qual a melhor  definição  para:  ORIENTAÇÃO  PARA  VENDAS  ? 
+ 
+a) a empresa  busca  produzir  produtos  que apresentem  excelente  qualidade  
+ou características  inovadoras.  
+b) a empresa procura produzir cada vez mais, visando baixar seus preços e  
+colocar  seus produtos  ou serviços  no maior  número  possível  de pontos  
+de venda.  
+c) as empresas procuram inteirar -se do que seus clientes desejam e ofere - 
+cem exatamente  o que eles querem.  
+d) a empresa precisa induzir ao público a tomar a decisão, caso contrário  
+não haverá  a compra.  
+e) N.D.A  
+ 
+13. Sempre  que um consumidor  em potencial  falar em preço...:  
+ 
+a) significa  que ele não está satisfeito  com o atendimento.  
+b) não há interesse.  
+c) há interesse  na compra.  
+d) significa  que ele vai disfarçar  e dizer que não está interessado  no produto.  
+e) letras  “b” e “d” estão  corretas.  
+ 
+14. Qual afirmativa  contém  um aspecto  tangível?  
+ 
+a) marca  
+b) status  
+c) imagem  
+d) garantia  
+e) N.D.A  
+ 
+ 
+e-Tec Brasil  112 Marketing  e Vendas   
+  
+ 
+ 
+ 
+15. Quando  o consumidor  se torna  insatisfeito  após adquirir  um produto?  
+ 
+a) quando  a percepção  for menor  do que  a expectativa  
+b) quando  o vendedor  não empacotar  
+c) quando  a percepção  for maior  do que a expectativa  
+d) quando  a percepção  for igual à expectativa  
+e) quando  o preço  estiver  elevado  
+ 
+16. Ligue  as colunas:  
+ 
+ 
+(1) Objetivos  de compra  ( ) Locais  de compra?  
+ 
+(2) Operações  de compra  ( ) Por que se compra?  
+ 
+(3) Ocasiões  de compra  ( ) Como  compra?  
+ 
+(4) Onde  se compra  ( ) Quando  se compra?  
+ 
+a) 1, 2, 3, 4 
+b) 4, 1, 2, 3 
+c) 3, 2, 1, 4 
+d) 4, 1, 3, 2 
+e) 4, 2, 1, 3 
+ 
+17. Qual pergunta  tem como  resposta:  Objetivo  de Compra.  
+ 
+a) O que se compra?  
+b) Como  se compra?  
+c) Quem  compra?  
+d) Por que se compra?  
+e) Locais  de compra?  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Atividades  autointrutivas  113 e-Tec Brasil   
+  
+ 
+ 
+ 
+18. Em qual década  as empresas  estavam  preocupadas  em reduzir  os 
+custos  e promover  uma reengenharia  administrativa?  
+ 
+a) 40 
+b) 50 
+c) 60 
+d) 70 
+e) 80 
+ 
+19. Qual o novo fenômeno  que está desempenhando  um papel  fun- 
+damental  na eliminação  dos intermediários?  
+ 
+a) Rádio  
+b) Internet  
+c) Televisão  
+d) Jornais  
+e) Revistas  
+ 
+20. Segundo  a matéria  de Lídia Rebouças  para o jornal  “O Estado  de São 
+Paulo”,  qual era a principal  preocupação  das empresas  na década  de 80? 
+ 
+a) aumentar  o faturamento  
+b) diminuir  os preços  para vencer  a concorrência  
+c) aumentar  o numero  de propagandas  para incentivar  o consumo  de bens 
+materiais  
+d) reduzir  os custos  e promover  uma reengenharia  administrativa  
+e) todas  as alternativas  estão  certas  
+ 
+21. Qual a melhor  definição  para ENDOMARKETING?  
+ 
+a) valorização  e fidelização  do público  externo.  
+b) valorização  e fidelização  do público  interno.  
+c) é fazer propaganda  de si próprio.  
+d) é comprar  um produto  feito pela empresa  em que trabalha.  
+e) as alternativas  “a” e “b” estão  certas.  
+ 
+ 
+ 
+ 
+e-Tec Brasil  114 Marketing  e Vendas   
+  
+ 
+ 
+ 
+22. O que é Market  Share ? 
+ 
+a) É a capacidade  de construir  relacionamentos  de longo  prazo  
+b) É compreender  o varejo  como  negócio  
+c) É entender  os compostos  mercadológicos  
+d) É coordenar  as atividades  da empresa  para atender  as necessidades  do varejo  
+e) É a participação  de mercado  
+ 
+23. Sobre  os pilares  do Trade  Marketing,  marque  a alternativa  ERRADA:  
+ 
+a) Gerenciamento  de espaço  
+b) Treinamento  de brigada  
+c) Parceria  
+d) Foco no cliente  
+e) Gerenciamento  de categorias  
+ 
+24. Quais  são os 6 pilares  que sustentam  o Buzz Marketing?  
+ 
+a) Causa,  contexto,  eleitos,  preço,  desequilíbrio  e divulgação.  
+b) Contexto,  promoção,  divulgação,  fixação  da ideia,  causa  e eleitos.  
+c) Ponto  de venda,  promoção,  preço,  pagamento,  propaganda  e publicidade.  
+d) Eleitos,  fixação  da ideia,  contexto,  causa,  divulgação  e desequilíbrio.  
+e) N.D.A.  
+ 
+25. O que consiste  o fator  de fixação?  
+ 
+a) Consiste  na qualidade  da ideia em torno  da qual estamos  querendo  o 
+marketing  viral.  
+b) Consiste  na facilidade  de socializar -se no meio em que a epidemia  se 
+espalha.  
+c) Consiste  no espalhamento  de um vírus utilizando  linguagens  que são 
+compreendidas  pelo subconsciente.  
+d) Consiste  nas alterações  de ambiente  para interferir  no comportamento  
+dos seres  humanos.  
+e) Consiste  na forma  de atingir  os consumidores  com preços  mais baratos.  
+ 
+ 
+ 
+ 
+Atividades  autointrutivas  115 e-Tec Brasil   
+  
+ 
+ 
+ 
+26. O Marketing  viral é a mesma  coisa  que? 
+ 
+a) Trade Marketing  
+b) Endomarketing  
+c) Market  Share  
+d) Buzz Marketing  
+e) Marketing  gripal  
+ 
+27. Relacione  as colunas:  
+ 
+ 
+(1) endomarketing  ( ) Maximizar  a diferenciação  dos produ - 
+tos e serviços  nos pontos  de venda.  
+ 
+(2) trade  marketing  ( ) Cria potencial  para o crescimen - 
+to exponencial tanto na exposição  
+como  na influência  da mensagem.  
+ 
+(3) buzz marketing  ( ) Atinge  os pilares  das organizações,  
+o público interno, ou seja, as pes - 
+soas (funcionários).  
+ 
+a) 3, 2, 1 
+b) 1, 2, 3 
+c) 2, 3, 1 
+d) 1, 3, 2 
+e) 3, 1, 2 
+ 
+28. O que é benchmarking ? 
+ 
+a) É o treinamento  para melhorar  a sociabilidade  dos profissionais.  
+b) É a busca  das melhores  práticas  na indústria  que conduzem  ao desem - 
+penho  superior.  
+c) É a habilidade  de apresentação  e trabalho  e equipe.  
+d) É alinhar  as estratégias  do marketing  para os canais  de distribuição.  
+e) É a adaptação  de produtos,  políticas  e estratégias  de marketing.  
+ 
+ 
+ 
+ 
+e-Tec Brasil  116 Marketing  e Vendas   
+  
+ 
+ 
+ 
+29. Sobre os tipos de  benchmarking marque V  ou F:  
+ 
+( ) O benchmarking  interno  caracteriza -se por ter como  alvo específico  as 
+práticas  dos concorrentes.  
+ 
+( ) O benchmarking  competitivo  é o tipo mais utilizado.  
+ 
+( ) O benchmarking  genérico  pode ser encontrado  na maioria  das empresas  
+de mesmo  porte.  
+ 
+( ) O benchmarking  funcional  é baseado  numa  função  específica,  que deve 
+obrigatoriamente  existir.  
+ 
+( ) O benchmarking  funcional  é vinculado  ao benchmarking  funcional,  por 
+alguns  autores.  
+ 
+a) F, F, V, F, V 
+b) F, V, V, F, F 
+c) F, F, F, V, V 
+d) V, F, F, V, V 
+e) V, F, V, F, F 
+ 
+30. Quais  são as 5 fases  do benchmarking ? 
+ 
+a) Planejamento,  pagamento,  teste de conceito,  análise  e adaptação.  
+b) Coleta  de dados,  análise,  planejamento,  teste de conceito  e adaptação.  
+c) Planejamento,  coleta  de dados,  análise,  adaptação  e implementação.  
+d) Coleta  de dados,  análise,  planejamento,  teste de conceito  e publicidade.  
+e) Marketing,  propaganda,  análise,  adaptação  e pagamento.  
+ 
+31. Um dos propósitos  de se montar  um planograma  é? 
+ 
+a) Organizar  os dias dos pagamentos  dos funcionários.  
+b) Controlar  a entrada  e a saída de funcionários.  
+c) Facilitar  a compra  e a venda  de produtos  
+d) Organizar  e padronizar  a exposição,  fazendo  com que os produtos  sejam  
+mais facilmente  encontrados.  
+e) N.D.A  
+ 
+ 
+Atividades  autointrutivas  117 e-Tec Brasil   
+  
+ 
+ 
+ 
+32. Relacione  as colunas:  
+ 
+ 
+(1) publicidade  (1) Falar com seus colegas  sobre  o novo refrigerante  
+ 
+(2) propaganda  (2) Colocar  na televisão  um comercial  sobre  um creme  
+para espinhas.  
+ 
+(1) Entregar  folders  para divulgar  o novo restaurante.  
+ 
+(2) Colocar  na rádio  a divulgação  do novo show em 
+Curitiba.  
+ 
+a) 2, 2, 1, 1 
+b) 1, 2, 2, 1 
+c) 1, 2, 1, 2 
+d) 2, 1, 2, 1 
+e) 2, 1, 1, 2 
+ 
+33. Publicidade  é: 
+ 
+a) é a pesquisa  realizada  para saber  a opinião  do público.  
+b) qualquer  propaganda  que apareça  na televisão.  
+c) divulgação  realizada  de forma  paga.  
+d) divulgação  realizada  de forma  gratuita.  
+e) a mesma coisa que marketing.  
+ 
+34. “ tem um foco mais administrativo  sobre  a empresa”.  
+ 
+a) marketing  
+b) publicidade  
+c) propaganda  
+d) endomarketing  
+e) trade  marketing  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  118 Marketing  e Vendas   
+  
+ 
+ 
+ 
+35. Qual destas  alternativas  contém  3 formas  de influenciar  a deman - 
+da de produtos?  
+ 
+a) Ponto  de venda,  promoção  e preço.  
+b) Ponto  de venda,  propaganda  e promoção  de vendas.  
+c) Preço,  propaganda e embalagem.  
+d) Ponto  de venda,  promoção  de venda  e embalagem.  
+e) Propaganda,  promoção  de venda  e embalagem.  
+ 
+36. Sobre  os estágios  do processo  do desenvolvimento  de novos  pro- 
+dutos,  marque  a alternativa  ERRADA:  
+ 
+a) Seleção.  
+b) Pesquisa  de mercado.  
+c) Plano  de Negócio.  
+d) Desenvolvimento  de produto.  
+e) Divulgação.  
+ 
+37. Sobre a seleção de ideias, marque V ou F:  
+( ) Não tenha margem de escolha entre critérios.  
+( ) Novatos  precisam  de mentor.  
+( ) Bancos são uma nova peneira.  
+ 
+( ) Elimine  ideias  inviáveis.  
+ 
+( ) Separe  as tarefas  de patrocínio  e avaliação  da ideia.  
+ 
+a) F, F, V, F, V 
+b) V, V, F, F, V 
+c) F, F, V, V, V 
+d) F, V, F, V, V 
+e) V, V, F, F, V 
+ 
+ 
+ 
+ 
+ 
+ 
+Atividades  autointrutivas  119 e-Tec Brasil   
+  
+ 
+ 
+ 
+38. Para que serve  o teste  de conceito?  
+ 
+a) Para firmar  acordos  de compras  de produtos.  
+b) Para saber  qual preço  deve ser colocado  no produto.  
+c) Para ver quantas pessoas vão comprar o produto.  
+d) Para comparar o produto  com outro de  uma marca concorrente.  
+e) Para servir  como  base para o plano  de negócios.  
+ 
+39. Qual destas  etapas  do plano  de negócios  não está diretamente  
+ligada  com as áreas  de Marketing  e Vendas  de uma empresa?  
+ 
+a) Plano  estratégico  
+b) Táticas  
+c) Previsões  financeiras  
+d) Cronograma  
+e) Obstáculos  
+ 
+40. “Estimar  a demanda  é ainda  mais difícil  quando...”.  Marque  a ERRADA:  
+ 
+a) Consumidores  têm necessidades  múltiplas.  
+b) Necessidades  dos consumidores  não variam  (segmentos).  
+c) Necessidades  são medidas  por escalas  (desejos  e interesses)  não-monetárias.  
+d) O produto  é muito  novo/diferente.  
+e) Os benefícios  são difíceis  de avaliar  (necessidade  de prever  credibilidade).  
+ 
+41. Acordos  que dizem  respeito  às compras  de produtos  em comum  
+são acordos  de: 
+ 
+a) Comercialização.  
+b) Matéria  de ambiente.  
+c) Produção.  
+d) Compra.  
+e) Venda.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+e-Tec Brasil  120 Marketing  e Vendas   
+  
+ 
+ 
+ 
+42. Uma destas  alternativa  não contém  uma das 15 regras  de sucesso.  
+Qual é esta alternativa?  
+ 
+a) Preço  elevado.  
+b) Coordenação.  
+c) Análise  continua.  
+d) Mercado  aberto.  
+e) Produto  superior.  
+ 
+43. Sobre  conhecimentos  essenciais  do vendedor,  a primeira  venda  a 
+ser feita é: 
+ 
+a) Da sua empresa.  
+b) Do novo produto.  
+c) Do seu  chefe.  
+d) De sua imagem  pessoal.  
+e) N.D.A  
+ 
+44. “O vendedor  precisa  conhecer  a empresa  em termos  de 
+seus ” . Marque  a ERRADA.  
+ 
+a) Dados  gerais,  
+b) Dados  estruturais.  
+c) Dados  formais.  
+d) Dados  organizacionais.  
+e) Dados  da imagem  pública.  
+ 
+45. Sobre  o bom conhecimento  e apresentação  adequada  dos produ - 
+tos e serviços,  marque  V ou F: 
+ 
+( ) Identifique  e relacione  todos  os produtos  que você tem a sua disposição.  
+ 
+( ) As formas  de comercialização  são determinadas  pura e exclusivamente  
+pelos  interesses  da empresa.  
+ 
+( ) Tenha  conhecimentos  simples  da embalagem  de cada produto.  Isto já é 
+o suficiente.  
+ 
+ 
+ 
+Atividades  autointrutivas  121 e-Tec Brasil   
+  
+ 
+ 
+ 
+( ) Certifique -se sobre as condições de comercialização adequadas ao seu  
+cliente.  
+ 
+( ) As características e os benefícios de um produto, são somente pensa - 
+dos pelos  profissionais  pela área financeira  de uma empresa,  levando  em 
+considerações  os custos.  
+ 
+a) V, F, F, V, F 
+b) F, V, V, F, V 
+c) F, F, V, V, F 
+d) V, V, F, F, F 
+e) V, V, F, V, F 
+ 
+46. Sabendo que é necessário o emprego de técnicas que foram de - 
+senvolvidas  objetivando  atingir  certos  resultados,  marque  a alter- 
+nativa  que não contem  um desses  resultados.  
+ 
+a) Produzir  o máximo  possível.  
+b) Produzir  com o máximo  de esforço.  
+c) Produzir  com o emprego  adequado  de recursos  disponíveis.  
+d) Produzir  com o menor  tempo  possível  
+e) A alternativa  “b” está errada.  
+ 
+47. A necessidade  que uma pessoa  tem de sentir -se protegido  em nos- 
+sa sociedade  atual  é: 
+ 
+a) Necessidade  de satisfação.  
+b) Necessidade  de autorrealização.  
+c) Necessidade  de prestígio.  
+d) Necessidade  de afeição.  
+e) Necessidade  de segurança.  
+ 
+48. Sobre  os tipos  psicológicos  de clientes,  relacione  as colunas:  
+ 
+(1) Conservadores  e introvertidos.  
+ 
+(2) Que procuram  aceitação  social  e prestígio.  
+ 
+(3) Dinâmicos  e Extrovertidos.  
+ 
+e-Tec Brasil  122 Marketing  e Vendas   
+  
+ 
+ 
+ 
+( ) Demonstram  motivação  equilibrada.  
+ 
+( ) Possuem  a mente  muito  fechada,  tendem  a evitar  inovações.  
+ 
+( ) Possuem  orientação  positiva  e realista.  
+ 
+( ) Suas afirmações  refletem  sucesso,  conquistas  e realizações.  
+ 
+( ) Evitam  situações  arriscadas.  
+ 
+( ) Procuram  um meio de evitar  situações  difíceis.  
+ 
+a) 1, 2, 3, 1, 2, 3 
+b) 2, 1, 3, 3, 1, 2 
+c) 1, 2, 2, 3, 1, 2 
+d) 2, 1, 3, 1, 2, 1 
+e) 2, 2, 1, 3, 3, 2 
+ 
+49. Efetuamos  uma excelente  negociação  quando  entendemos  de 
+maneira  quase  precisa:  
+ 
+a) As necessidades  dos clientes.  
+b) As minhas  necessidades.  
+c) As necessidades  do acompanhante  do cliente.  
+d) As necessidades  do dono da empresa.  
+e) Não interessa  atender  necessidades,  o que importa  é vender!  
+ 
+50. O perfil  cujas  afirmações  refletem  sucesso,  conquistas  e realiza - 
+ções é de que tipo de cliente?  
+ 
+a) Cliente  que procura  aceitação  pessoal.  
+b) Cliente  sonhador.  
+c) Cliente  introvertido.  
+d) Cliente  simpático.  
+e) Cliente  dinâmico.  
+ 
+ 
+ 
+ 
+ 
+ 
+Atividades  autointrutivas  123 e-Tec Brasil   
+ 
+ 125 e-Tec Brasil   
+ 
+ 
+Currículo  dos professores -autores  
+ 
+Ricardo  Barcellos  
+ 
+Formado em Administração de Empresas, com ênfase em Operações Estra - 
+tégicas, com Pós Graduação em Marketing Publicidade e Propaganda, MBA  
+em Gestão  Empresarial  com Curso  de extensão  em Metodologia  do Ensino  
+Superior.  Professor  de pós Graduação  desde  2000 e de EAD de 2006,  criador  
+do primeiro  Curso  de Profissões  e Carreiras  para ensino  Fundamental,  Médio  
+e Técnico. Durante 21 anos atua como Gestor em Empresas Multinacionais  
+na área de Saúde  (Farmacêutica  e Diagnóstico)  trabalhando  diretamente  nas 
+divisões Comerciais, Marketing, Treinamento e Pesquisa de Mercado. Con - 
+sultor  de Bens e Serviços,  marketing,  Técnicas  de oratória  e Teoria  da Admi- 
+nistração. Professor nas áreas de Marketing Pessoal e Empresarial, relações  
+Interpessoais,  liderança  e Coach.  
+ 
+Simone  Schuster  Schelela  
+ 
+Formada em Administração de Empresas, com Pós Graduação em Marketing  
+Empresarial com extensão Metodologia do Ensino Superior, Especialista em  
+Tutoria  EAD, Especialista  em Orientação  Pedagógica  e extensão  em Desenvol - 
+vimento  Sustentável  e Intraempreendedorismo.  Professora  e tutora  de Gradu - 
+ação desde  2006.  Atuou  em empresas  do setor bancário  e automotivo  e infor- 
+mática  desde  1996.  Exerce  também  o cargo  administrativo -financeiro,  desde  
+2008,  na Unidade  de Atendimento  Individual  e Marketing  do Sebrae -PR.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Anotações  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Anotações  127 e-Tec Brasil   
+  

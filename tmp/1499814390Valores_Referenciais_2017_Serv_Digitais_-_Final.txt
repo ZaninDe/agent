@@ -1,0 +1,479 @@
+VALORES
+REFERENCIAISDE SERVIÇOSINTERNOS
+Válidos a partir de julho/2017
+Este documento é parte integrante de outro, completo e com o mesmo título, publicado pelo Sinapro-SP em julho/17.
+Contém apenas o capítulo Serviços Digitais. Proibida a edição ou reprodução, no todo ou partes, sem autorização expressa do Sinapro-SP .Presidente:
+Eduardo de Godoy Pereira
+Vice-Presidente:
+Geraldo Martins de Brito
+Diretores:
+Antônio Donizete Dudli
+Roberto Pereira Tourinho Dantas
+Paulo Cesar Ferrari
+Marcelo Ponzoni
+Rino Ferrari Filho
+Suplentes:
+Gustavo Rafael Moreira Giudice
+Guilherme Rabboni Junior
+Conselho Fiscal:
+Luiz Celso de Piratininga Figueiredo Junior
+Pedro Atilio Cesarino
+Luiz Augusto Teixeira Leite
+Cesar Augusto Massaioli
+Francisco Garcia Dias da Silva
+Diretor Executivo:
+Francisco Sales Romeu de Moraes
+Gerente de Marketing:
+Jilson VeríssimoTriênio 2017- 2020
+NBS Comunicação
+DeBrito PropagandaTalent Marcel
+NBS Comunicação
+Octopus ComunicaçãoRae,MP
+Rino Com
+Dentsu Aegis Network
+Aktuellmix
+Adag Comunicação
+Publicidade Archote
+Ogilvy BrasilPortal Publicidade
+Havas Worldwide Brasil
+Sinapro-SPSinapro-SP
+3
+Às
+Agências e Produtoras Digitais do Estado de S. Paulo,
+Apresentamos o capítulo Serviços Digitais, parte integrante do documento Valores Referenciais de 
+Serviços Internos válido a partir de julho de 2017. Os valores foram corrigidos em 4%.
+Este projeto, coordenado pelo nosso marketing, foi elaborado pelo Grupo de Produção Sinapro SP , 
+integrado por profissionais de agências de propaganda, e teve a contribuição de agências digitais 
+indicadas pela ABRADi-SP .
+Nos últimos 2 anos fizemos melhorias importantes neste documento que o levaram a ser a melhor 
+e mais completa referência de preços para serviços internos das agências. A mais recente, com a contribuição da ABRADi-SP e ampla aprovação do mercado, foi a reformulação total deste capítulo, 
+ampliando itens e inserindo textos explicativos, que facilitam o entendimento do escopo dos 
+projetos.
+Esperamos que as melhorias atendam às necessidades das agências de propaganda, das 
+agências digitais e do mercado anunciante do nosso Estado. Estamos abertos a sugestões para o aprimoramento contínuo desta importante ferramenta.
+Grande abraço,
+Dudu Godoy
+PresidenteREFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS
+Serviços DigitaisANÚNCIOS DISPLA Y
+ PEÇA/TIPO                       PREÇO REFERÊNCIA
+ Master (quaisquer dimensões)       3.883,00 
+                                                                                                                            ESTÁTICO                    ANIMADO
+ Adaptação (quaisquer dimensões) 1.548,00 1.704,00
+  POR         18 FORMATOS  
+  FORMATO           GDN*
+ Replicação (Ajustes de especificações para outros veículos) 454,00 2.033,00
+* Considerando horas de motion e replicação completa de uma campanha de display para a Rede Display Google (GDN), 18  
+formatos.  
+ Arranha-céu (Skyscraper) 120 X 600
+ Arranha-céu largo (Wide skyscraper)  160 x 600
+ Banner 468 x 60
+ Super banner (Cabeçalho) 728 x 90
+ Super banner expansível 728 x 90 - 728 x 300
+ Giga banner (Cabeçalho grande)  970 x 90
+ Retângulo 180 x 150
+ Retângulo médio 300 x 250
+ Retângulo grande  336 x 280
+ Retângulo vertical  240 x 400
+ Barra vertical 200 x 446
+ Quadrado  250 x 250
+ Quadrado pequeno  200 x 200
+ Meia página (Half page)  300 x 600
+ Outdoor (Billboard)  970 x 250
+ Dhtml / Floater Variável, até 72.200 pixels de área
+ MOBILE  
+                    Feature Phones 
+ Small Banner 120x20
+ Medium Banner 168x28
+ Large Banner 216x36
+                    Smart Phones - Web & APPs 
+ Banner e Banner Expansível 300x50
+ Wide Banner e Wide Banner Expansível 320x50
+ Interstitial 300x250
+Observação:
+Formatos padrão IAB e Rede Display Google (GDN). Sujeitos a alteração. FORMATOS PUBLICITÁRIOS MAIS UTILIZADOS
+  PEÇA DIMENSÕES - PIXEL
+5FOTOS ILUSTRATIVAS
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS7 6 Post simples/Anúncio Redes Sociais (jpg/gifs + texto) 3.488,00
+ Post Carrossel (jpg/gifs + texto) 6.976,00
+ Cover para Redes Sociais 3.488,00
+ Anúncios para Tablet Horizontal ou Vertical 7.767,00
+ Anúncios para Tablet Horizontal e Vertical 11.650,00
+Observações:  
+1) Adaptações de materiais já criados: 40% do valor original. 
+2) Os preços de anúncio para tablet incluem animação e programação. Para anúncio estático cobrar 60%.OUTRAS PEÇAS
+ PEÇA CRIAÇÃO / FINALIZAÇÃO
+CRIAÇÃO / ANIMAÇÃO / PROGRAMAÇÃO
+Os preços a seguir referem-se a projetos solicitados com mais frequência por clientes. 
+Incluem os custos de horas-homem dos profissionais envolvidos, das áreas Atendimento, Planejamento, Gestão, Design/Criação, Programação e Produção de Conteúdo.    
+Preços referenciais   
+A realização de um projeto pode utilizar profissionais de todas as áreas ou não. Além disso, os 
+projetos têm especificidades e graus de complexidade diferentes, que demandam mais ou menos horas-homem. Por isso, sugerimos a seguir preços referenciais baseados em projetos de média complexidade.   
+Etapas de trabalho   
+Etapas de trabalho possíveis para um projeto: diagnóstico, planejamento, protótipo, layout, desenvolvimento (programação) e produção de conteúdo. A existência ou não de todas as etapas depende da natureza e do grau de complexidade do projeto.PROJETOS
+ A disciplina de Business Intelligence é ampla com várias áreas de atuação, tais como: big data,  
+ análise qualitativa e quantitativa de dados, planejamento de TI, banco de dados, entre outras.  
+ Escolhemos inserir o preço referência do serviço mais demandado pelos clientes: análise
+ de campanhas de comunicação.   
+  Análise de BI  
+ Análise qualitativa de dados gerados a partir das diversas plataformas
+ disponíveis no mercado que coletam dados nos canais utilizados nas ações. 
+ A análise consiste na interpretação dos dados tabulados extraindo  6.989,00
+ informações relevantes para a validação da estratégia e objetivos definidos
+ para a ação (KPIs), gerando relatório de recomendações para a implementação
+ de correções ou ajustes nas diversas ações em desenvolvimento.
+Observação:  
+Análise estimada para campanhas de porte médio, com até 5 canais digitais diferentes.   BUSINESS INTELLIGENCE 
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIACAMPANHAS DIGITAIS   
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+ PLANEJAMENTO DE CAMPANHA
+ Abrange 2 áreas distintas: planejamento estratégico de campanhas digitais e planejamento
+ de mídia para campanhas digitais. Partimos do princípio de que as premissas globais como 
+ objetivos, metas, matriz swot e demais componentes de um planejamento estratégico da 
+ marca já foram feitos e implementados.
+ Planejamento Estratégico de Campanhas Digitais   
+ A partir de briefing padrão com todas as informações referentes
+ a campanha a ser planejada a equipe de planejamento, em conjunto
+ com as equipes de BI e Mídia, desenvolverão o planejamento estratégico 36.712,00 
+ da campanha definindo: métodos de abordagem, personas alvo
+ das ações, jornada do consumidor de acordo com o produto ou serviço
+ objeto da campanha e objetivos a serem atingidos.
+ Planejamento de Mídia para Campanhas Digitais 
+ A partir de briefing padrão com todas as informações referentes
+ a campanha a ser planejada, somados as informações do planejamento
+ estratégico da campanha, a equipe de mídia definirá: canais digitais  25.064,00
+ que melhor atendem a estratégia definida, volume de mídia em cada canal,
+ plano de mídia padrão com todo o detalhamento técnico dos canais
+ escolhidos, KPIs, modelos e periodicidade de relatório para o cliente.  
+ Observação:  
+ Planejamento estimado para campanhas de porte médio com volume de autorização de mídia com até 5 canais digitais. 
+ GESTÃO DE CAMPANHA DE PERFORMANCE  
+ Acompanhamento diário da campanha, com otimização constante, incluindo
+ a implementação de recursos e ferramentas que visam garantir a melhor performance
+ da conta, além do controle orçamentário da campanha.
+   Rede de Pesquisa (Links Patrocinados)    
+  Otimização das campanhas com base no resultado dos reports diários 20% da
+ fornecidos pelas ferramentas. verba gerenciada 
+  Rede de Display   
+  Otimização das campanhas com base no resultado dos reports diários 20% da
+ fornecidos pelas ferramentas. verba gerenciada 
+  Programática   
+ Otimização das campanhas com base no resultado dos reports diários 20% da
+ fornecidos pelas ferramentas. verba gerenciada
+Observação:  
+Preço mínimo para Gestão de Campanha de Performance: R$ 5.400/mês.
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS9 8REDES SOCIAIS
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+ PLANEJAMENTO DE REDES SOCIAIS   
+ O planejamento de redes sociais inclui definição dos objetivos, conteúdo, plataformas
+ e canais, incluindo a identidade visual desses canais, recursos a serem utilizados, persona
+ da marca, métricas e  monitoramento de resultados. Exige um diagnóstico que consiste
+ em mapear a atuação da marca nas diversas plataformas sociais e a identidade percebida
+ e compartilhada por seus stakeholders.
+ • Diagnóstico da presença nas redes sociais  
+ • Definição dos objetivos a serem atingidos  
+ • Avaliação das melhores plataformas para a marca e definição do papel
+  estratégico de cada uma 28.288,00
+ • Criação de guia de conteúdo, incluindo a identidade visual, recursos
+  a ser utilizados, persona da marca, tom de voz, editorial e volumetria.  
+ • Definição de métricas para acompanhamento  
+ • Definição de ferramentas para análise de desempenho
+ GESTÃO DE REDES SOCIAIS    
+ Gestão e criação de conteúdo para os canais, com periodicidade e frequência de publicação. 
+ Análise das menções da marca, bem como da repercussão das ações da empresa nesses canais. 
+ O monitoramento contínuo inclui o relacionamento com os stakeholders, análises de métricas 
+ relevantes e ações emergenciais de acordo com o que for detectado.   
+ 
+  Gestão de Canais e Conteúdo
+ • Gestão e criação de conteúdo para os canais, com periodicidade
+  e frequência de publicação  
+ • Publicação de conteúdo próprio ou de terceiros  
+ • Planejamento recorrente dos temas abordados no mês   
+ • Customização das fanpages com o mote do período  
+ • Gerenciamento de fluxo de aprovação de conteúdo junto ao cliente 13.000,00/Mês
+ • Volumetria: até 03 redes sociais, postagens nas seguinte quantidades:
+  Facebook 3 posts/semana, Twitter 1 post/dia, Instagram 2 posts/semana   
+ • Insights para a produção de conteúdo  
+ • Entrega e apresentação de relatório mensal
+ Gestão de Monitoramento   
+ • Análise das menções da marca, bem como da repercussão das ações
+  da empresa nesses canais (até 8.000 menções/mês)
+ • Monitoramento de interações das pessoas com a marca e com as postagens   
+ • Monitoramento das postagens com métricas, análise, avaliação de resultados 8.112,00/Mês
+ • Monitoramento de menções e temperatura de humor   
+ • Monitoramento de resultados de ações e campanhas   
+ • Indicadores de desempenho (KPIs)   
+ • Acordo de Nível de Serviço 5x8   
+ • Entrega e apresentação de relatório mensal. REDES SOCIAIS –  (Continuação)
+ Gestão de Relacionamento       
+ • Monitoramento do relacionamento dos seguidores com a marca   
+ • Classificação do perfil de seguidores e influenciadores   
+ • Monitoramento e análise para ações emergenciais complexas 11.440,00/Mês
+  e sem complexidade   
+ • Acordo de Nível de Serviço 5x8   
+ • Volume médio de 150 interações por mês   
+ • Entrega e apresentação de relatório mensal  
+Observação:  
+Os preços não incluem contratação de ferramenta de gestão e monitoramento em redes sociais.    SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+SEO (SEARCH ENGINE OPTIMIZATION)   
+ PLANEJAMENTO Etapa fundamental para o sucesso dos projetos de SEO, o planejamento identifica
+ os melhores termos (palavras-chave) e melhores canais para posicionar a marca,
+ considerando o produto/serviço, concorrência e, principalmente, volume de buscas
+ na internet, a fim de assegurar o melhor posicionamento da marca nos sites de busca.
+ São definidas as metas e os KPIs que nortearão a gestão de SEO. Estratégias de link
+ building, conteúdo e performance também são definidas no planejamento, bem como
+ melhorias técnicas para otimizar a indexabilidade nos mecanismos de busca.
+ • Análise do comportamento de busca do mercado da empresa  
+ • Definição de palavras-chave positivas e negativas que afetam a audiência  
+ • Identificação das palavras-chave que estão mais associadas ao domínio
+ • Definição dos melhores canais (buscadores)  
+ • Definição dos tipos de conteúdo mais adequados  
+ • Definição das estratégias de link building  
+ • Análise do Ranking orgânico (organic) e de autoridade (authority) 24.440,00
+ • Estudo de consistência das palavras-chave em páginas específicas  
+ • Traffic source - tendências no volume de buscas para o mercado/segmento,
+  em todos os buscadores.
+ • Análise do Campo Semântico para qualificação da audiência desejada    
+  • Definição da estratégia de Gestão de Autoridade    
+  • Definição de Metas e KPIs  SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS11 10SEO (SEARCH ENGINE OPTIMIZATION) – (Continuação)
+ GESTÃO    
+ A gestão de SEO é um trabalho contínuo, visto que os algoritmos de busca evoluem
+ constantemente. Inclui link building, instruções técnicas para otimização de páginas, códigos  
+  do site, otimização do conteúdo e das imagens, instruções para otimização de back-links e,
+ principalmente, gestão de performance com foco nos KPIs definidos no planejamento. 
+ Diagnóstico e Setup Inicial do Canal
+ Consiste em ações técnicas no canal, executadas no início do trabalho de gestão, que visam 
+ corrigir  falhas e tornar o canal ótimo e relevante pelos buscadores.    
+ • Apontamento de otimizações da estrutura da informação no site   
+ • Melhorias no Title e Meta Description   
+ • Correções na indexação do site (rastreamento, ações manuais, dns,
+  404, robots, sitemaps e servidor)   
+ • Levantamento de Transferência de propriedade e autoridade 11.960,00 
+  de página/domínio 
+ • Análises de Broken Link, Backlinks e Link Building   
+ • Identificação de erros e fatores que podem ser interpretados
+  como black hat   
+ • Relatório de posição do site na busca orgânica em palavras-chave positivas   
+  
+Preço para 20 Seções/Templates.
+  Gestão de SEO
+ A gestão de SEO é um trabalho contínuo, visto que os algoritmos de busca evoluem
+ constantemente. É fundamental para chegar à primeira página dos buscadores e manter
+ o site em evidência.
+ 
+ • Orientações para criação de conteúdos relacionados aos objetivos
+  traçados • Instruções técnicas para otimização de páginas   
+ • Revisão constante de códigos do canal 9.880,00 / Mês
+ • Otimização do conteúdo e das imagens   
+ • Instruções para otimização de back-links   
+ • Gestão de performance com foco nos KPIs definidos no planejamento   
+ • Volume sugerido criação de um conteúdo por semana.
+Escopos e investimentos estimados para um canal de pequeno e médio porte com especificação funcional semelhante aos citados 
+nesta tabela. SERVIÇO / ESCOPO  PREÇO REFERÊNCIA Responsivo com 10 seções: Home, Empresa, Serviços, Galeria de Mídias,
+ Formulário de Contato, Formulário de Orçamento, Notícias, Clientes,
+ Casos de Sucesso, Resultados de busca. Especificação funcional,
+ arquitetura de informação (UX), sitemap, wireframe, layout 38.584,00
+ e desenvolvimento front-end e back-end para um novo website. Painel
+ de Administração para atualização de conteúdo. HTML desenvolvido
+ utilizando os padrões W3C (HTML, XHTML, CSS, XML, etc). Configurações
+ básicas para indexação em buscadores. Testes nas últimas versões
+ dos principais navegadores.WEBSITE
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+HOTSITE
+ Tecnicamente idêntico ao website, porém com uma estrutura de seções menor e mais
+ focada a lançamentos de promoções, concursos, eventos, entre outros. Possui um período
+ de vida definido e precisa ter uma estratégica de comunicação bem elaborada, alinhada
+ com a estratégia da campanha.
+ Hotsite de evento com 8 seções: Home, Sobre o Evento, Como Chegar,
+ Agenda, Palestrantes, Patrocinadores, Formulário de Contato, Formulário
+ de Inscrição simples, sem meio de pagamento ou controles integrados.
+ Especificação funcional, arquitetura de informação (UX), sitemap,
+ wireframe, layout e desenvolvimento front-end e back-end. . Painel 22.213,00
+ de Administração para atualização de conteúdo. HTML desenvolvido
+ utilizando os padrões W3C (HTML, XHTML, CSS, XML, etc). Configurações
+ básicas para indexação em buscadores. Testes nas últimas versões
+ dos principais navegadores.  SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+MOBILE SITE
+ Um Mobile Site possui as mesmas características de um website, porém devem ser
+ consideradas premissas técnicas essenciais para elevar a experiência do usuário
+ e otimizar muito o desempenho, visto que será utilizados em dispositivos móveis.
+  Versão de um website já existente. 10 seções: Home, Empresa,
+ Serviços, Galeria de Mídias (fotos, vídeos), Formulário de Contato,
+ Formulário de Orçamento, Notícias, Clientes, Casos de Sucesso,
+ Resultados de busca. Especificação funcional, arquitetura de informação
+ (UX), sitemap, wireframe, layout e desenvolvimento front-end e back-end. 23.088,00
+ Painel de Administração para atualização de conteúdo. HTML,
+ desenvolvido utilizando os padrões W3C (HTML, XHTML, CSS, XML, etc).
+ Configurações básicas para indexação em buscadores. Testes em até 10
+ resoluções diferentes de dispositivos móveis.     SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS13 12BLOG
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+ O Blog nada mais é que um website com foco em divulgar rapidamente informações
+ de um modo simples e rápido.                                                                                                                                          
+                                                                                                                                                                                                        
+ Responsivo com 5 seções: Home, Categoria de conteúdo, Conteúdo,
+ Resultados de Busca e Fale conosco. Especificação funcional, arquitetura
+ de informação (UX), sitemap, wireframe, layout e desenvolvimento 
+ front-end e back-end.  Painel de Administração para atualização 14.976,00
+ de conteúdo. HTML desenvolvido utilizando os padrões W3C (HTML,
+ XHTML, CSS, XML, etc). Configurações básicas para indexação
+ em buscadores. Testes nas últimas versões dos principais navegadores.   
+LANDING PAGE
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+ Página criada exclusivamente como destino de uma campanha. Tem como principal
+ objetivo informar o usuário sobre uma determinada ação, lançamento, promoção
+ com foco em aumentar o engajamento e conversão.  
+ 
+ Página única de campanha já definida no planejamento, responsiva,
+ com os seguintes elementos: Até 3 banners em slider, até 2 blocos
+ de textos, até 10 imagens, até 3 vídeos incorporados de ferramenta
+ de terceiros, formulário de captação que envia um e-mail
+ ao administrador. Especificação funcional, arquitetura de informação (UX), 7.405,00
+ sitemap, wireframe, layout e desenvolvimento front-end e back-end. 
+ HTML desenvolvido utilizando os padrões W3C (HTML, XHTML, CSS, XML,
+ etc). Configurações básicas para indexação em buscadores. Testes
+ nas últimas versões dos principais navegadores.     
+Observações válidas para Website, Hotsite, Mobile Site, Blog e Landing Page:  
+1) Os preços não incluem produção de conteúdo e ferramentas interativas não especificadas no escopo.
+2) Os preços não incluem hospedagem, compra de domínio e certificados de segurança, que devem ser orçados à parte.
+ Desenvolvimento de aplicativo híbrido, proprietário, para as plataformas
+ Android e IOS. Especificação funcional, arquitetura de informação (UX),
+ wireframe, layout e desenvolvimento front-end e back-end. 
+ Funcionalidades: Login, Logout, Esqueci minha senha, Termos de Uso, 59.904,00
+ Cadastro, Sobre o Aplicativo, Galeria de Fotos, Notícias, Push notification, 
+ Eventos, Alteração de dados cadastrais. Painel de Administração
+ para atualização de conteúdo e APIs de integração entre o Back-end
+ e o APP . Compatibilidade e testes nas últimas versões de sistema
+ operacional dos principais dispositivos.
+Observação:  
+O preço não inclui produção de conteúdo e ferramentas interativas não especificadas no escopo.MOBILE APP
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA Criação e produção do HTML   
+ Criação de layout com conteúdo produzido a partir de briefing do cliente, mais  3.488,00
+ diagramação e produção da peça em HTML, com links e códigos para mensuração.    
+ 
+ Outros serviços de E-mail Marketing   
+ Importação, higienização e segmentação da base. Importação do HTML  Sob consulta
+ e programação dos disparos. Gestão: geração de relatórios, análise
+ de performance e sugestões de ajustes.E-MAIL MARKETING  
+PREÇO REFERÊNCIA
+ Criação e produção do HTML   
+ Criação de layout mais diagramação e produção da peça em HTML, com links 3.488,00
+ e códigos para mensuração. *Conteúdo especializado produzido pelo cliente.
+ Outros serviços de Newsletter    
+ Importação, higienização e segmentação da base. Importação do HTML
+ e programação dos disparos. Gestão: geração de relatórios, análise Sob consulta
+ de performance e sugestões de ajustes.NEWSLETTER   
+PREÇO REFERÊNCIA Customização de e-commerce, utilizando plataforma de mercado existente. Em caso
+ de plataformas open-source, é definido um tema padrão e com base nisto é feita toda
+ customização. Em caso de platorma proprietária, é utilizado o tema já existente e feito
+ as customizações dentro dos limites da plataforma.
+ E-commerce para empresas de pequeno e médio porte com nível
+ de maturidade média em venda on-line. Layout e desenvolvimento
+ front-end e back-end. Personalização das seguintes páginas: Home, 
+ Categoria de Produtos, Produto, Carrinho de Compras, Finalização 50.128,00
+ de Pedido, Resultados de Busca, Institucional. HTML desenvolvido
+ utilizando os padrões W3C (HTML, XHTML, CSS, XML, etc). Configurações
+ básicas para indexação em buscadores. Testes nas últimas versões
+ dos principais navegadores.
+Observações:  
+1) O preço não inclui: planejamento, treinamento, homologação de meios de pagamento, homologação
+      de formas de entrega e carga de produtos. 
+2) O  preço não inclui desenvolvimento ou locação de plataforma, que deve ser orçado à parte.
+3) O preço não inclui hospedagem, compra de domínio e certificados de segurança, que devem ser orçados à parte.E-COMMERCE
+ SERVIÇO / ESCOPO  PREÇO REFERÊNCIA
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS
+REFAÇÃO - ADICIONAL MÍNIMO DE 40%. VALORES EM REAIS15 14 1) Planejamento  395,00 a 475,00 
+ 2) Atendimento e Gestão 317,00 a 396,00 
+ 3) Design/Criação  317,00 a 396,00 
+ 4) Produção de Conteúdo (web ou redes sociais)  275,00 a 336,00 
+ 5) Programação  237,00 a 317,00  MODELO DE PRECIFICAÇÃO OPCIONAL
+Custos referenciais hora-homem para planejamento, criação, execução e gestão
+de projetos digitais, com natureza e grau de complexidade diferentes e custos variáveis.
+EXEMPLOS:     
+Site, mobile site, hotsite, e-commerce, landing page, blog e mobile app.    
+Análise de presença, Planejamento e Gestão de marcas em redes sociais.    Planejamento e Gestão de campanhas digitais. Planejamento, setup e gestão de SEO.    
+Produção de conteúdo especializado e multimídia para sites, redes sociais, etc.Criação e produção de Intervenções diferenciadas.
+   
+O orçamento final será baseado em três pilares essenciais:1-  Detalhamento claro do escopo de trabalho
+2-  Metodologia para execução e gestão de projeto3-  Tecnologia adotada
+VALORES REFERENCIAIS DE HORA-HOMEM POR ÁREAPROJETOS - CUSTOS VARIÁVEIS
+  ÁREAS                       VALORES REFERENCIAIS DE HORA-HOMEM
+Este Anexo segue rigorosamente as Normas-Padrão da Atividade Publicitária, editadas pelo CENP 
+– Conselho Executivo das Normas-Padrão, bem como a legislação da indústria da Propaganda, 
+particularmente a Lei nº 4.680/65, e os Decretos nº 57.690/66 e nº 4.563/02.
+Trabalho Colaborativo
+Este projeto foi elaborado pelo Grupo de Produção do Sinapro-SP . Os capítulos Serviços Digitais
+e Planejamento tiveram a colaboração das entidades parceiras ABRADi-SP (Associação Brasileira
+dos Agentes Digitais) e Sindilive (Sindicato das Empresas de Live Marketing).
+Serviços Internos
+Os serviços internos são cobrados conforme os valores estipulados neste documento e devem 
+obedecer ao item 3.6 das Normas-Padrão do CENP .
+Serviços Externos
+São todos os serviços contratados com terceiros para a execução dos trabalhos dos clientes anunciantes sob supervisão da agência.
+Os honorários de agência à taxa de 15% (quinze por cento) incidentes sobre os custos dos serviços 
+de terceiros devem seguir o estipulado nos itens 3.6.1 e 3.6.2 das Normas-Padrão do CENP .Os honorários não incidem sobre os serviços internos, impostos, encargos sociais e reembolsos
+de despesas.
+Reembolso de Despesas
+Todos os gastos efetuados a serviço do cliente serão previamente autorizados e efetivamente 
+comprovados, sendo debitados pelo preço de custo sem incidência de honorários ou comissões. 
+Exemplos: viagens, diárias, transporte, alimentação, comunicação em geral, fotocópias etc.
+Quando os reembolsos de despesas sofrerem taxação de ISS, este custo deve ser repassadoao cliente.
+Serviços não Previstos
+A cobrança de serviços não previstos neste documento são de livre acerto entre a agência e o cliente.
+Interior do Estado
+Este documento é aplicável a todo o Estado de São Paulo. Em face das diferenças econômicase peculiaridades regionais, as agências de propaganda do interior poderão conceder descontos. 
+Recomendamos desconto máximo de 40%.
+Glossário:
+Você encontra o glossário no site www.sinaprosp.org.br Anexo l – Informações Adicionais
+Novos tempos, novas soluções que 
+vendam com criatividade: propaganda é isso.
+Contudo, de um bom tempo para  
+cá, a necessidade de acelerar essa  
+verdade tornou-se fato.Os motivos são muitos e vêm  
+desde a necessidade do mercado  
+em crise até a multiplicação das fontes  
+de conhecimentos com seus infinitos  
+desafios. (E soluções).
+Assim, uma agência de propaganda é hoje  
+mais do que propaganda. Ela extrapolou  
+seus limites para um infinito de  
+possiblidades, apurando – ainda mais –  
+suas habilidades de identificar as necessidades  dos clientes e de impactar/encantar 
+consumidores das mais diversas formas.
+O céu não é mais o limite! Uma agência  
+de propaganda sabe disso.Com mais de 70 anos de atuação,  
+o Sinapro São Paulo defende as boas  
+ideias, a ética e a iniciativa privada.  
+Dá apoio jurídico para as agências,   
+orientação financeira, além de promover 
+seminários e palestras. Em nome das  
+agências, o Sinapro SP faz o acordo coletivo  
+com o Sindicato dos Publicitários  
+preservando sempre a principal  
+matéria-prima do mercado: o profissional,  
+as pessoas. O Sinapro SP também edita 
+a tabela de valores referenciais de  
+serviços internos que baliza o mercado.   
+Faz pesquisas para medir sua evolução, a  
+“saúde” e a produtividade das agências.   
+Mais do que tudo, está atento às  
+novidades para devolver – em serviço – 
+a contribuição dos seus associados.   
+Sempre juntos.Trabalhamos para valorizar as boas ideias.
+Sempre juntos.
+www.sinaprosp.org.br
+/SinaproSPwww.fenapro.org.brFiliado à
+Filiado à
+Filiado à
+Filiado àwww.sinaprosp.org.br
+Filie sua agência.
+(11) 3035-0099
+atendimento@sinaprosp.org.br/SinaproSP
+Filiado à
+Filiado à
+Filiado à
+Filiado à

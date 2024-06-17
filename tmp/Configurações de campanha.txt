@@ -1,0 +1,65 @@
+Configurações de campanha 
+Usar as configurações de campanha é como segurar um cartaz para clientes em potencial e dizer "estou aqui". Isso significa falar  
+o idioma deles, controlar seus gastos e escolher quando e onde suas campanhas de anúncio devem ser mostradas. Tudo isso, 
+e é uma ótima maneira de ajudar a conquistar mais clientes em potencial para seu cliente. Isso não parece uma excelente ideia? 
+Lembre-se de que nem todas as configurações de campanha estão disponíveis para todos os tipos de campanha. Saiba mais sobre 
+tipos de campanha e os recursos disponíveis. 
+Tipos de configurações de campanha 
+Configurações gerais 
+1. Nome da campanha:  edite o nome de uma campanha em especial. 
+2. Tipo de campanha:  personalize o processo de configuração de acordo com 
+o que é relevante para as metas. 
+3. Locais:  segmente os anúncios  
+4. Idiomas:  segmente os anúncios por preferências de idioma do cliente. 
+5. Redes:  veicule anúncios na Rede de Pesquisa e/ou na Rede de Display 
+do Google ou em ambas. 
+6. Dispositivos:  as campanhas segmentam todos os tipos de dispositivos por 
+padrão. 
+7. Opção de lance:  escolha lance manual ou automático para cliques em 
+anúncios (CPC máx.). 
+8. Orçamento:  ajuste o orçamento diário da campanha a qualquer momento. 
+9. Método de exibição:  escolha a exibição padrão ou acelerada para o 
+orçamento diário e determine a rapidez com que os anúncios são exibidos 
+a cada dia, se a campanha estiver limitada pelo orçamento. 
+Configurações de campanha 1/2 Dica:  Aumente ou diminua seus lances para ter mais controle sobre quando  
+e onde seu anúncio é veiculado ao configurar os ajustes de lance. 
+Exemplo de segmentação por local 1. Extensões de anúncio:  mostre informações relevantes da empresa 
+(como um  número de telefone) com anúncios de texto. Crie e 
+gerencie extensões de anúncio  na guia "Extensões de anúncio". 
+2. Programação:  datas de início e término e agendamento de 
+anúncios. Especifique  horas ou dias da semana em que você deseja 
+que os anúncios do Google AdWords  apareçam. Ajuste lances para 
+anúncios durante certos períodos de tempo. 
+3. Exibição de anúncios:  rotação de anúncios, limite de frequência. 
+A seleção de rotação de anúncios  determina com que frequência 
+você exibe anúncios ativos relacionados entre si  dentro de um grupo 
+de anúncios. Os limites de frequência restringem  o número 
+de vezes que esses anúncios aparecem na Rede de Display do 
+Google para um  usuário único. 
+4. Otimização de campanha automática (Apenas na Rede de Display):  
+selecione  "Otimização automática" se deseja que o Otimizador de 
+campanhas da Rede de Display encontre  conversões adicionais para 
+uma campanha automaticamente. 
+5. Experimento (BETA):  Faça alterações experimentais nos lances,  
+palavras-chave e nos grupos de anúncios em sua campanha. 
+Conforme o tráfego  é acumulado em seu experimento, podem 
+ocorrer diferenças  estatísticas. Avalie e aplique alterações com 
+base em seus testes. Como editar as configurações de sua campanha 
+Se você ainda não tem campanhas, clique no botão +Campanha  para  criar 
+uma campanha nova e siga as instruções na página para  concluir seu grupo 
+de anúncios. Saiba mais sobre como criar uma campanha nova .
+Assim que criar sua campanha, você pode editar as configurações dela com 
+a frequência que  quiser. Veja como fazer isso: 
+● Faça login em sua conta do Google AdWords em https://adwords.
+google.com.br. 
+● Clique na guia Campanha .
+● Em Todas as campanhas , clique no nome da campanha que  você 
+deseja editar. 
+● Clique na guia Configurações .
+● Clique em Editar  ao lado das configurações que você deseja editar. 
+● Clique em Salvar  depois de cada alteração. 
+Configurações avançadas 
+Configurações de campanha 2/2 Dica:  Mantenha as campanhas das Redes de Pesquisa e de Display de seu cliente 
+separadas  ao criar campanhas específicas para cada rede. As estratégias de publicidade 
+são diferentes  para as Redes de Pesquisa e de Display, por isso, as configurações de 
+campanha são diferentes também. 
