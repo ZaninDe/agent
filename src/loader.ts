@@ -8,6 +8,10 @@ import { RedisVectorStore } from '@langchain/redis'
 import { OpenAIEmbeddings } from '@langchain/openai'
 import { createClient } from 'redis'
 
+import dotenv from 'dotenv'
+
+dotenv.config()
+
 const loader = new DirectoryLoader(path.resolve(__dirname, '../tmp'), {
   '.pdf': (path) => new PDFLoader(path),
   '.txt': (path) => new TextLoader(path),
@@ -32,7 +36,7 @@ async function load() {
 
   await RedisVectorStore.fromDocuments(
     splittedDocuments,
-    new OpenAIEmbeddings(),
+    new OpenAIEmbeddings({ apiKey: process.env.OPENAI_API_KEY }),
     {
       indexName: 'playbook-embeddings',
       redisClient: redis,

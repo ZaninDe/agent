@@ -12,8 +12,15 @@ import { redis, redisVectorStore } from './redis-store'
 import { BaseMessage, HumanMessage, AIMessage } from '@langchain/core/messages'
 import { db } from '../lib/db'
 
+import dotenv from 'dotenv'
+
+dotenv.config()
+
 const retriever = redisVectorStore.asRetriever()
-const llm = new ChatOpenAI({ model: 'gpt-3.5-turbo' })
+const llm = new ChatOpenAI({
+  model: 'gpt-3.5-turbo',
+  apiKey: process.env.OPENAI_API_KEY,
+})
 
 interface ChatProps {
   query: string
