@@ -15,7 +15,7 @@ export const receiveMessage = async ({
   profileName,
 }: ReceiveMessage) => {
   try {
-    // let chatId = ''
+    let chatId = ''
     let user: User | undefined
     const ExistingUser = await db.user.findFirst({
       where: {
@@ -37,27 +37,27 @@ export const receiveMessage = async ({
 
     console.log('USER: ', user)
 
-    // const chatData = await db.chat.findFirst({
-    //   where: {
-    //     user,
-    //   },
-    // })
+    const chatData = await db.chat.findFirst({
+      where: {
+        user,
+      },
+    })
 
-    // if (!chatData) {
-    //   const newChat = await db.chat.create({
-    //     data: {
-    //       userId: user.id,
-    //     },
-    //   })
-    //   chatId = newChat.id
-    // } else {
-    //   chatId = chatData.id
-    // }
+    if (!chatData) {
+      const newChat = await db.chat.create({
+        data: {
+          userId: user.id,
+        },
+      })
+      chatId = newChat.id
+    } else {
+      chatId = chatData.id
+    }
 
     const answer = await chat({
       query: body,
       from,
-      chatId: 'asdfadsf',
+      chatId,
     })
 
     await sendMessage({ from, content: answer })

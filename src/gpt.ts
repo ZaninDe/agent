@@ -74,26 +74,26 @@ playbook:
 
   const chat_history: BaseMessage[] = []
 
-  // const conversations = await db.conversation.findMany({
-  //   where: {
-  //     chatId,
-  //   },
-  //   orderBy: {
-  //     createdAt: 'desc',
-  //   },
-  //   take: 20,
-  // })
+  const conversations = await db.conversation.findMany({
+    where: {
+      chatId,
+    },
+    orderBy: {
+      createdAt: 'desc',
+    },
+    take: 20,
+  })
 
-  // console.log('CONVERSATIONS::::::::::::::: ', conversations)
+  console.log('CONVERSATIONS::::::::::::::: ', conversations)
 
-  // if (conversations) {
-  //   conversations.map((conversation) => {
-  //     const newHumanMessage = new HumanMessage(conversation?.user)
-  //     chat_history.push(newHumanMessage)
-  //     const newAiMessage = new AIMessage(conversation?.ia)
-  //     chat_history.push(newAiMessage)
-  //   })
-  // }
+  if (conversations) {
+    conversations.map((conversation) => {
+      const newHumanMessage = new HumanMessage(conversation?.user)
+      chat_history.push(newHumanMessage)
+      const newAiMessage = new AIMessage(conversation?.ia)
+      chat_history.push(newAiMessage)
+    })
+  }
 
   const response = await ragChain.invoke({
     chat_history,
