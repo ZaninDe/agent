@@ -18,7 +18,7 @@ dotenv.config()
 
 const retriever = redisVectorStore.asRetriever()
 const llm = new ChatOpenAI({
-  model: 'gpt-3.5-turbo',
+  model: 'gpt-4o-2024-05-13',
   apiKey: process.env.OPENAI_API_KEY,
 })
 
