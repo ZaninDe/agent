@@ -16,26 +16,26 @@ export const receiveMessage = async ({
 }: ReceiveMessage) => {
   try {
     // let chatId = ''
-    // let user: User | undefined
-    // const ExistingUser = await db.user.findFirst({
-    //   where: {
-    //     contactNumber: from,
-    //   },
-    // })
+    let user: User | undefined
+    const ExistingUser = await db.user.findFirst({
+      where: {
+        contactNumber: from,
+      },
+    })
 
-    // if (!ExistingUser) {
-    //   const newUser = await db.user.create({
-    //     data: {
-    //       name: profileName,
-    //       contactNumber: from,
-    //     },
-    //   })
-    //   user = newUser
-    // } else {
-    //   user = ExistingUser
-    // }
+    if (!ExistingUser) {
+      const newUser = await db.user.create({
+        data: {
+          name: profileName,
+          contactNumber: from,
+        },
+      })
+      user = newUser
+    } else {
+      user = ExistingUser
+    }
 
-    // console.log('USER: ', user)
+    console.log('USER: ', user)
 
     // const chatData = await db.chat.findFirst({
     //   where: {
