@@ -2,6 +2,7 @@ import { User } from '@prisma/client'
 import { db } from '../lib/db'
 import { chat } from '../src/gpt'
 import { sendMessage } from '../src/services/twilio'
+import { createNewConversation } from '../src/services/history'
 
 interface ReceiveMessage {
   from: string
@@ -61,6 +62,12 @@ export const receiveMessage = async ({
     })
 
     await sendMessage({ from, content: answer })
+    await createNewConversation({
+      userMessage: body,
+      aiMessage: answer,
+      chatId,
+      audio: false,
+    })
   } catch (err) {
     console.log(err)
   }
