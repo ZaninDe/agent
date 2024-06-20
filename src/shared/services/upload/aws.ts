@@ -20,16 +20,23 @@ const AWS_SECRET_ACCESS_KEY = process.env.AWS_SECRET_ACCESS_KEY
 const AWS_REGION_NAME = process.env.AWS_REGION_NAME
 const AWS_S3_BUCKET_NAME = process.env.AWS_S3_BUCKET_NAME
 
-if (
-  !AWS_ACCESS_KEY_ID ||
-  !AWS_SECRET_ACCESS_KEY ||
-  !AWS_REGION_NAME ||
-  !AWS_S3_BUCKET_NAME
-) {
-  throw new Error(
-    'One or more environment variables are not set. Please check your .env file.',
-  )
-}
+console.log(
+  AWS_ACCESS_KEY_ID,
+  AWS_SECRET_ACCESS_KEY,
+  AWS_REGION_NAME,
+  AWS_S3_BUCKET_NAME,
+)
+
+// if (
+//   !AWS_ACCESS_KEY_ID ||
+//   !AWS_SECRET_ACCESS_KEY ||
+//   !AWS_REGION_NAME ||
+//   !AWS_S3_BUCKET_NAME
+// ) {
+//   throw new Error(
+//     'One or more environment variables are not set. Please check your .env file.',
+//   )
+// }
 
 const s3 = new S3Client({
   credentials: {
