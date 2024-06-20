@@ -22,8 +22,8 @@ export async function STT({
   try {
     const response = await axios.get(mediaUrl0, {
       auth: {
-        username: process.env.ACCOUNT_SID || '',
-        password: process.env.AUTH_TOKEN || '',
+        username: process.env.TWILIO_ACCOUNT_SID || '',
+        password: process.env.TWILIO_AUTH_TOKEN || '',
       },
       responseType: 'stream',
     })
