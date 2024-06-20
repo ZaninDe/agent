@@ -138,7 +138,7 @@ Mensagem: "${userMessage}"
       ?.trim()
       .toLowerCase()
 
-    if (answer === 'yes') return true
+    if (answer === 'true') return true
     else return false
   } catch (error) {
     console.error('Error check audio:', error)
