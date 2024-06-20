@@ -16,9 +16,9 @@ export const createAudioStreamFromText = async (
   text: string,
 ): Promise<Buffer> => {
   const audioStream = await client.generate({
-    voice: '5p9IbzcK4R8rN1fpGdMF',
-    model_id: 'eleven_turbo_v2',
-    text: 'Infelizmente, como assistente virtual, eu não consigo enviar áudios. Mas posso te informar que meu nome é Adbat. ',
+    voice: 'apaOdKvfCR8lUnehhN3Q',
+    model_id: 'eleven_multilingual_v2',
+    text,
   })
 
   const chunks: Buffer[] = []
@@ -37,8 +37,8 @@ export const createAudioFileFromText = async (
   return new Promise<string>(async (resolve, reject) => {
     try {
       const audio = await client.generate({
-        voice: 'Rachel',
-        model_id: 'eleven_turbo_v2',
+        voice: 'apaOdKvfCR8lUnehhN3Q',
+        model_id: 'eleven_multilingual_v2',
         text,
       })
       const fileName = `${messageSid}.mp3`
@@ -52,3 +52,8 @@ export const createAudioFileFromText = async (
     }
   })
 }
+
+createAudioFileFromText(
+  'Infelizmente, como assistente virtual, eu não consigo enviar áudios. Mas posso te informar que meu nome é Adbat.',
+  'idteste',
+)
