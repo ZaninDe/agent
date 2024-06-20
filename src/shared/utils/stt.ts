@@ -2,6 +2,9 @@
 import axios from 'axios'
 import fs from 'fs'
 import OpenAI from 'openai'
+import dotenv from 'dotenv'
+
+dotenv.config()
 
 interface STTProps {
   messageSid: string
@@ -31,7 +34,7 @@ export async function STT({ messageSid, mediaUrl0 }: STTProps) {
     const audioFileName = `../../../audios/${messageSid}.mp3`
     const fileStream = fs.createWriteStream(audioFileName)
 
-    response.data.responseUrl.pipe(fileStream)
+    response.data.pipe(fileStream)
 
     fileStream.on('finish', async () => {
       console.log(`Áudio salvo como ${audioFileName}`)
