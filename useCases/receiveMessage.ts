@@ -74,7 +74,8 @@ export const receiveMessage = async ({
 
     const answerWithAudio = await isAudioRequested(query)
 
-    if (answerWithAudio) {
+    const tmp = false
+    if (tmp) {
       sendAudioMessage({ to: from, content: answer, messageSid })
     } else {
       await sendTextMessage({ to: from, content: answer })
