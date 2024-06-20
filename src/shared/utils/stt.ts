@@ -1,6 +1,7 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import axios from 'axios'
 import fs from 'fs'
+import path from 'path'
 import OpenAI from 'openai'
 import dotenv from 'dotenv'
 
@@ -31,7 +32,10 @@ export async function STT({ messageSid, mediaUrl0 }: STTProps) {
 
     console.log('RESPONSE_MEDIA', response.data)
 
-    const audioFileName = `${messageSid}.mp3`
+    const audioFileName = path.join(
+      __dirname,
+      `../../../audios/${messageSid}.mp3`,
+    )
     const fileStream = fs.createWriteStream(audioFileName)
 
     response.data.pipe(fileStream)
