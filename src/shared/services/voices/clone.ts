@@ -16,7 +16,7 @@ export const createAudioStreamFromText = async (
   text: string,
 ): Promise<Buffer> => {
   const audioStream = await client.generate({
-    voice: 'Rachel',
+    voice: 'apaOdKvfCR8lUnehhN3Q',
     model_id: 'eleven_turbo_v2',
     text,
   })
