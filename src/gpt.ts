@@ -24,11 +24,10 @@ const llm = new ChatOpenAI({
 
 interface ChatProps {
   query: string
-  from: string
   chatId: string
 }
 
-export const chat = async ({ query, from, chatId }: ChatProps) => {
+export const chat = async ({ query, chatId }: ChatProps) => {
   redis.connect()
   // Contextualize question
   const contextualizeQSystemPrompt = `
@@ -92,8 +91,6 @@ context:
     },
     take: 20,
   })
-
-  console.log('CONVERSATIONS::::::::::::::: ', conversations)
 
   if (conversations) {
     conversations.map((conversation) => {

@@ -21,19 +21,20 @@ interface TwilioRequestBody {
   AccountSid: string
   From: string
   ApiVersion: string
-  MediaUrl0?: string // Este campo é opcional
+  MediaUrl0?: string
 }
 
 app.post('/message', async (request, reply) => {
   try {
-    console.log('ENTROUUUU!!!')
+    console.log('Mensagem recebida...')
     const body = request.body as TwilioRequestBody
-    console.log('NAME', body.ProfileName)
     if (body.From) {
       await receiveMessage({
         from: body.From,
         body: body.Body,
         profileName: body.ProfileName,
+        messageSid: body.MessageSid,
+        medialUrl: body.MediaUrl0,
       })
     }
     return reply

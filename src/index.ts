@@ -1,15 +1,15 @@
 import { Client, LocalAuth, Message, MessageMedia } from 'whatsapp-web.js'
 import 'dotenv/config'
-// import qrcode from "qrcode-terminal";
-import qrcode from 'qrcode'
+import qrcode from 'qrcode-terminal'
+// import qrcode from 'qrcode'
 import fs from 'fs'
 import ffmpeg from 'fluent-ffmpeg'
 import path from 'node:path'
 import { db } from '../lib/db'
 
 import { chat } from './gpt'
-import { transcribeAudio } from './utils/stt'
-import { TTS } from './utils/tts'
+import { STT } from './shared/utils/stt'
+import { TTS } from './shared/utils/tts'
 import { User } from '@prisma/client'
 import { createNewConversation } from './services/history'
 
@@ -23,23 +23,23 @@ const client = new Client({
 })
 
 client.on('qr', (qr) => {
-  // qrcode.generate(qr, { small: true });
+  qrcode.generate(qr, { small: true })
   // Opções para gerar o QR code (tamanho, margem, etc.)
-  const options = {
-    type: 'png', // Formato do arquivo (png, svg, etc.)
-    width: 300, // Largura do QR code
-    margin: 2, // Margem ao redor do QR code
-  }
-  console.log('QRCODE: ', qr)
+  // const options = {
+  //   type: 'png', // Formato do arquivo (png, svg, etc.)
+  //   width: 300, // Largura do QR code
+  //   margin: 2, // Margem ao redor do QR code
+  // }
+  // console.log('QRCODE: ', qr)
 
   // Função para gerar o QR code
-  qrcode.toFile('./qrcode.png', qr, options, (err) => {
-    if (err) {
-      console.error('Erro ao gerar o QR code:', err)
-    } else {
-      console.log('QR code gerado com sucesso!')
-    }
-  })
+  // qrcode.toFile('./qrcode.png', qr, (err) => {
+  //   if (err) {
+  //     console.error('Erro ao gerar o QR code:', err)
+  //   } else {
+  //     console.log('QR code gerado com sucesso!')
+  //   }
+  // })
 })
 
 client.on('ready', () => {
@@ -92,7 +92,7 @@ client.on('message_create', async (message: Message) => {
     } else {
       chatId = chatData.id
     }
-    if (message.type == 'ptt') {
+    if (message.type === 'ptt') {
       console.log('Voice Clip Received')
 
       const media = await message.downloadMedia()
@@ -117,7 +117,7 @@ client.on('message_create', async (message: Message) => {
             console.error('Error saving audio file:', err)
           } else {
             console.log('Audio file saved:', originalAudio)
-            const text = await transcribeAudio(originalAudio)
+            const text = await STT(originalAudio)
             console.log('TEXT: #######', text)
 
             if (
@@ -143,7 +143,6 @@ client.on('message_create', async (message: Message) => {
               console.log(text)
               const answer = await chat({
                 query: text,
-                from: message.from,
                 chatId,
               })
               await TTS(answer, speech)
@@ -223,7 +222,6 @@ client.on('message_create', async (message: Message) => {
       if (modelOn) {
         const answer = await chat({
           query: message.body,
-          from: message.from,
           chatId,
         })
         client.sendMessage(message.from, answer)

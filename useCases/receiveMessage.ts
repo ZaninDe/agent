@@ -3,19 +3,29 @@ import { db } from '../lib/db'
 import { chat } from '../src/gpt'
 import { sendMessage } from '../src/services/twilio'
 import { createNewConversation } from '../src/services/history'
+import { STT } from '../src/shared/utils/stt'
 
 interface ReceiveMessage {
   from: string
   body: string
   profileName: string
+  messageSid: string
+  medialUrl?: string
 }
 
 export const receiveMessage = async ({
   from,
   body,
   profileName,
+  messageSid,
+  medialUrl,
 }: ReceiveMessage) => {
   try {
+    const query = body
+    if (medialUrl && medialUrl.startsWith('https://api.twilio.com/')) {
+      const text = await STT({ messageSid, mediaUrl0: medialUrl })
+      console.log('TRANSCRIPTION: ', text)
+    }
     let chatId = ''
     let user: User | undefined
     const ExistingUser = await db.user.findFirst({
@@ -36,8 +46,6 @@ export const receiveMessage = async ({
       user = ExistingUser
     }
 
-    console.log('USER: ', user)
-
     const chatData = await db.chat.findFirst({
       where: {
         user,
@@ -56,8 +64,7 @@ export const receiveMessage = async ({
     }
 
     const answer = await chat({
-      query: body,
-      from,
+      query,
       chatId,
     })
 
