@@ -21,9 +21,10 @@ export const receiveMessage = async ({
   medialUrl,
 }: ReceiveMessage) => {
   try {
-    const query = body
+    let query = body
     if (medialUrl && medialUrl.startsWith('https://api.twilio.com/')) {
       const text = await STT({ messageSid, mediaUrl0: medialUrl })
+      query = text
       console.log('TRANSCRIPTION: ', text)
     }
     let chatId = ''
