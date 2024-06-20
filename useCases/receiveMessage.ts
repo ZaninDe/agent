@@ -83,7 +83,7 @@ export const receiveMessage = async ({
       userMessage: body,
       aiMessage: answer,
       chatId,
-      audio: false,
+      audio: answerWithAudio,
     })
   } catch (err) {
     console.log(err)
