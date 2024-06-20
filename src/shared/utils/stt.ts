@@ -31,7 +31,7 @@ export async function STT({ messageSid, mediaUrl0 }: STTProps) {
 
     console.log('RESPONSE_MEDIA', response.data)
 
-    const audioFileName = `../../../audios/${messageSid}.mp3`
+    const audioFileName = `${messageSid}.mp3`
     const fileStream = fs.createWriteStream(audioFileName)
 
     response.data.pipe(fileStream)
