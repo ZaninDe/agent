@@ -7,6 +7,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 const ELEVENLABS_API_KEY = process.env.ELEVENLABS_API_KEY
+const ELEVENLABS_VOICE_ID = process.env.ELEVENLABS_VOICE_ID
 
 const client = new ElevenLabsClient({
   apiKey: ELEVENLABS_API_KEY,
@@ -16,7 +17,7 @@ export const createAudioStreamFromText = async (
   text: string,
 ): Promise<Buffer> => {
   const audioStream = await client.generate({
-    voice: 'apaOdKvfCR8lUnehhN3Q',
+    voice: ELEVENLABS_VOICE_ID,
     model_id: 'eleven_multilingual_v2',
     text,
   })
@@ -37,7 +38,7 @@ export const createAudioFileFromText = async (
   return new Promise<string>(async (resolve, reject) => {
     try {
       const audio = await client.generate({
-        voice: 'apaOdKvfCR8lUnehhN3Q',
+        voice: ELEVENLABS_VOICE_ID,
         model_id: 'eleven_multilingual_v2',
         text,
       })
