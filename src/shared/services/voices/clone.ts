@@ -18,7 +18,7 @@ export const createAudioStreamFromText = async (
   const audioStream = await client.generate({
     voice: 'apaOdKvfCR8lUnehhN3Q',
     model_id: 'eleven_turbo_v2',
-    text,
+    text: 'Infelizmente, como assistente virtual, eu não consigo enviar áudios. Mas posso te informar que meu nome é Adbat. ',,
   })
 
   const chunks: Buffer[] = []
@@ -39,7 +39,7 @@ export const createAudioFileFromText = async (
       const audio = await client.generate({
         voice: 'Rachel',
         model_id: 'eleven_turbo_v2',
-        text: 'Infelizmente, como assistente virtual, eu não consigo enviar áudios. Mas posso te informar que meu nome é Adbat. ',
+        text
       })
       const fileName = `${messageSid}.mp3`
       const fileStream = createWriteStream(fileName)
