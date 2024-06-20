@@ -7,11 +7,11 @@ import ffmpeg from 'fluent-ffmpeg'
 import path from 'node:path'
 import { db } from '../lib/db'
 
-import { chat } from './gpt'
 import { User } from '@prisma/client'
-import { createNewConversation } from './services/history'
 import { STT } from './shared/services/voices/stt'
 import { TTS } from './shared/services/voices/tts'
+import { chat } from './shared/services/gpt'
+import { createNewConversation } from './shared/services/history'
 
 const client = new Client({
   authStrategy: new LocalAuth(),

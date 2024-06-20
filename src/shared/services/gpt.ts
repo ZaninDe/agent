@@ -8,11 +8,12 @@ import {
 import { createStuffDocumentsChain } from 'langchain/chains/combine_documents'
 import { createHistoryAwareRetriever } from 'langchain/chains/history_aware_retriever'
 import { createRetrievalChain } from 'langchain/chains/retrieval'
-import { redis, redisVectorStore } from './redis-store'
 import { BaseMessage, HumanMessage, AIMessage } from '@langchain/core/messages'
-import { db } from '../lib/db'
 
 import dotenv from 'dotenv'
+import OpenAI from 'openai'
+import { db } from '../../../lib/db'
+import { redisVectorStore, redis } from '../../redis-store'
 
 dotenv.config()
 
@@ -109,4 +110,38 @@ context:
   redis.disconnect()
 
   return response.answer
+}
+
+export const isAudioRequested = async (
+  userMessage: string,
+): Promise<boolean> => {
+  const prompt = `
+Verifique se a seguinte mensagem do usuário está solicitando uma resposta em formato de áudio. Responda apenas com "true" ou "false":
+Mensagem: "${userMessage}"
+`
+
+  try {
+    const openai = new OpenAI()
+    const completion = await openai.chat.completions.create({
+      model: 'gpt-3.5-turbo',
+      messages: [
+        {
+          role: 'system',
+          content:
+            'Você é um assistente que ajuda a identificar solicitações específicas nas mensagens.',
+        },
+        { role: 'user', content: prompt },
+      ],
+    })
+
+    const answer = completion?.choices[0]?.message?.content
+      ?.trim()
+      .toLowerCase()
+
+    if (answer === 'yes') return true
+    else return false
+  } catch (error) {
+    console.error('Error check audio:', error)
+    return false
+  }
 }

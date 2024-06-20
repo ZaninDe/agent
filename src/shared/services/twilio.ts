@@ -1,10 +1,7 @@
 import { Twilio } from 'twilio'
 import dotenv from 'dotenv'
-import { createAudioStreamFromText } from '../shared/services/voices/clone'
-import {
-  uploadAudioStreamToS3,
-  generatePresignedUrl,
-} from '../shared/services/upload/aws'
+import { uploadAudioStreamToS3, generatePresignedUrl } from './upload/aws'
+import { createAudioStreamFromText } from './voices/clone'
 
 dotenv.config()
 
