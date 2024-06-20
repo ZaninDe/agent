@@ -16,6 +16,7 @@ const openai = new OpenAI({
 })
 
 export async function STT({ messageSid, mediaUrl0 }: STTProps) {
+  console.log('MEDIAURL0', mediaUrl0)
   try {
     const response = await axios.get(mediaUrl0, {
       auth: {
@@ -24,6 +25,8 @@ export async function STT({ messageSid, mediaUrl0 }: STTProps) {
       },
       responseType: 'stream',
     })
+
+    console.log('RESPONSE_MEDIA', response.data)
 
     const audioFileName = `../../../audios/${messageSid}.mp3`
     const fileStream = fs.createWriteStream(audioFileName)
