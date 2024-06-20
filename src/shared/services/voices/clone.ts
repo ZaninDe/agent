@@ -16,7 +16,7 @@ export const createAudioStreamFromText = async (
   text: string,
 ): Promise<Buffer> => {
   const audioStream = await client.generate({
-    voice: 'apaOdKvfCR8lUnehhN3Q',
+    voice: 'Victor Jose',
     model_id: 'eleven_turbo_v2',
     text: 'Infelizmente, como assistente virtual, eu não consigo enviar áudios. Mas posso te informar que meu nome é Adbat. ',
   })
