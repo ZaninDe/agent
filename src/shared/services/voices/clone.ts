@@ -52,8 +52,3 @@ export const createAudioFileFromText = async (
     }
   })
 }
-
-createAudioFileFromText(
-  'Infelizmente, como assistente virtual, eu não consigo enviar áudios. Mas posso te informar que meu nome é Adbat.',
-  'idteste',
-)
