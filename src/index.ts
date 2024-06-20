@@ -8,10 +8,10 @@ import path from 'node:path'
 import { db } from '../lib/db'
 
 import { chat } from './gpt'
-import { STT } from './shared/utils/stt'
-import { TTS } from './shared/utils/tts'
 import { User } from '@prisma/client'
 import { createNewConversation } from './services/history'
+import { STT } from './shared/services/voices/stt'
+import { TTS } from './shared/services/voices/tts'
 
 const client = new Client({
   authStrategy: new LocalAuth(),

@@ -1,9 +1,9 @@
 import { User } from '@prisma/client'
 import { db } from '../lib/db'
 import { chat } from '../src/gpt'
-import { sendMessage } from '../src/services/twilio'
+import { sendAudioMessage, sendTextMessage } from '../src/services/twilio'
 import { createNewConversation } from '../src/services/history'
-import { STT } from '../src/shared/utils/stt'
+import { STT } from '../src/shared/services/voices/stt'
 
 interface ReceiveMessage {
   from: string
@@ -69,7 +69,11 @@ export const receiveMessage = async ({
       chatId,
     })
 
-    await sendMessage({ from, content: answer })
+    if (medialUrl && medialUrl.startsWith('https://api.twilio.com/')) {
+      sendAudioMessage({ to: from, content: answer, messageSid })
+    } else {
+      await sendTextMessage({ to: from, content: answer })
+    }
     await createNewConversation({
       userMessage: body,
       aiMessage: answer,
