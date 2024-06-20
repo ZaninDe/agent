@@ -4,16 +4,21 @@ import {
   GetObjectCommand,
 } from '@aws-sdk/client-s3'
 import { getSignedUrl } from '@aws-sdk/s3-request-presigner'
-import * as dotenv from 'dotenv'
+import dotenv from 'dotenv'
 
 dotenv.config()
 
-const {
-  AWS_ACCESS_KEY_ID,
-  AWS_SECRET_ACCESS_KEY,
-  AWS_REGION_NAME,
-  AWS_S3_BUCKET_NAME,
-} = process.env
+// const {
+//   AWS_ACCESS_KEY_ID,
+//   AWS_SECRET_ACCESS_KEY,
+//   AWS_REGION_NAME,
+//   AWS_S3_BUCKET_NAME,
+// } = process.env
+
+const AWS_ACCESS_KEY_ID = process.env.AWS_ACCESS_KEY_ID
+const AWS_SECRET_ACCESS_KEY = process.env.AWS_SECRET_ACCESS_KEY
+const AWS_REGION_NAME = process.env.AWS_REGION_NAME
+const AWS_S3_BUCKET_NAME = process.env.AWS_S3_BUCKET_NAME
 
 if (
   !AWS_ACCESS_KEY_ID ||
