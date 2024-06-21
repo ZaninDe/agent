@@ -26,7 +26,7 @@ export const sendTextMessage = async ({
   to,
   content,
 }: SendTextMessageProps) => {
-  const messages = splitMessage(content, 500)
+  const messages = splitMessage(content, 1000)
 
   for (let i = 0; i < messages.length; i++) {
     try {
