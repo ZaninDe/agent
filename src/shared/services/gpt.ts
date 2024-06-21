@@ -13,7 +13,7 @@ import { BaseMessage, HumanMessage, AIMessage } from '@langchain/core/messages'
 import dotenv from 'dotenv'
 import OpenAI from 'openai'
 import { db } from '../../../lib/db'
-import { redisVectorStore, redis } from '../../redis-store'
+import { redisVectorStore, redis, redis } from '../../redis-store'
 import {
   contextualizeQSystemPrompt,
   qaMainAudioPrompt,
@@ -35,7 +35,16 @@ interface ChatProps {
 }
 
 export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
-  redis.connect()
+  if (!redis.isOpen) {
+    try {
+      await redis.connect()
+      console.log('Connected to Redis')
+    } catch (err) {
+      console.error('Error connecting to Redis:', err)
+    }
+  } else {
+    console.log('Redis connection already established')
+  }
 
   const contextualizeQPrompt = ChatPromptTemplate.fromMessages([
     ['system', contextualizeQSystemPrompt],
