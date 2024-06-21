@@ -19,6 +19,7 @@ import {
   qaMainAudioPrompt,
   qaMainPrompt,
 } from '../../utils/constants/prompts'
+import { Mutex } from 'async-mutex'
 
 dotenv.config()
 
@@ -35,6 +36,7 @@ interface ChatProps {
 }
 
 let activeTasks = 0
+const mutex = new Mutex()
 
 async function connectToRedis() {
   if (!redis.isOpen) {
@@ -63,8 +65,15 @@ async function disconnectFromRedis() {
 }
 
 export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
-  activeTasks += 1
-  await connectToRedis()
+  const release = await mutex.acquire()
+  try {
+    activeTasks += 1
+    if (activeTasks === 1) {
+      await connectToRedis()
+    }
+  } finally {
+    release()
+  }
 
   try {
     const contextualizeQPrompt = ChatPromptTemplate.fromMessages([
@@ -166,6 +175,41 @@ Mensagem: "${userMessage}"
     return false
   }
 }
+
+export async function executeTask({
+  query,
+  chatId,
+  audioRequested,
+}: ChatProps): Promise<string> {
+  const release = await mutex.acquire()
+  try {
+    activeTasks += 1
+    if (activeTasks === 1) {
+      await connectToRedis()
+    }
+  } finally {
+    release()
+  }
+
+  try {
+    const answer = await chat({ query, chatId, audioRequested })
+    return answer || ''
+  } catch (err) {
+    console.error('Error in chat function:', err)
+    return 'erro ao gerar resposta.'
+  } finally {
+    const release = await mutex.acquire()
+    try {
+      activeTasks -= 1
+      if (activeTasks === 0) {
+        await disconnectFromRedis()
+      }
+    } finally {
+      release()
+    }
+  }
+}
+
 // ;(async () => {
 //   const answer = await chat({
 //     query:
