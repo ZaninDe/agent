@@ -13,13 +13,12 @@ import { BaseMessage, HumanMessage, AIMessage } from '@langchain/core/messages'
 import dotenv from 'dotenv'
 import OpenAI from 'openai'
 import { db } from '../../../lib/db'
-import { redisVectorStore, redis } from '../../redis-store'
+import { redisVectorStore } from '../../redis-store'
 import {
   contextualizeQSystemPrompt,
   qaMainAudioPrompt,
   qaMainPrompt,
 } from '../../utils/constants/prompts'
-import { Mutex } from 'async-mutex'
 
 dotenv.config()
 
@@ -35,46 +34,7 @@ interface ChatProps {
   audioRequested: boolean
 }
 
-let activeTasks = 0
-const mutex = new Mutex()
-
-async function connectToRedis() {
-  if (!redis.isOpen) {
-    try {
-      await redis.connect()
-      console.log('Connected to Redis')
-    } catch (err) {
-      console.error('Error connecting to Redis:', err)
-    }
-  } else {
-    console.log('Redis connection already established')
-  }
-}
-
-async function disconnectFromRedis() {
-  if (redis.isOpen && activeTasks === 0) {
-    try {
-      await redis.disconnect()
-      console.log('Disconnected from Redis')
-    } catch (err) {
-      console.error('Error disconnecting from Redis:', err)
-    }
-  } else {
-    console.log('Redis connection still in use or already closed')
-  }
-}
-
 export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
-  const release = await mutex.acquire()
-  try {
-    activeTasks += 1
-    if (activeTasks === 1) {
-      await connectToRedis()
-    }
-  } finally {
-    release()
-  }
-
   try {
     const contextualizeQPrompt = ChatPromptTemplate.fromMessages([
       ['system', contextualizeQSystemPrompt],
@@ -128,17 +88,10 @@ export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
       chat_history,
       input: query,
     })
-    console.log(response)
-    redis.disconnect()
-
     return response.answer
   } catch (err) {
-    console.error('error', err)
-  } finally {
-    activeTasks -= 1
-    if (activeTasks === 0) {
-      await disconnectFromRedis()
-    }
+    console.error('')
+    return ''
   }
 }
 
@@ -175,41 +128,6 @@ Mensagem: "${userMessage}"
     return false
   }
 }
-
-export async function executeTask({
-  query,
-  chatId,
-  audioRequested,
-}: ChatProps): Promise<string> {
-  const release = await mutex.acquire()
-  try {
-    activeTasks += 1
-    if (activeTasks === 1) {
-      await connectToRedis()
-    }
-  } finally {
-    release()
-  }
-
-  try {
-    const answer = await chat({ query, chatId, audioRequested })
-    return answer || ''
-  } catch (err) {
-    console.error('Error in chat function:', err)
-    return 'erro ao gerar resposta.'
-  } finally {
-    const release = await mutex.acquire()
-    try {
-      activeTasks -= 1
-      if (activeTasks === 0) {
-        await disconnectFromRedis()
-      }
-    } finally {
-      release()
-    }
-  }
-}
-
 // ;(async () => {
 //   const answer = await chat({
 //     query:

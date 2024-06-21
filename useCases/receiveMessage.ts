@@ -6,7 +6,7 @@ import {
   sendAudioMessage,
   sendTextMessage,
 } from '../src/shared/services/twilio'
-import { executeTask, isAudioRequested } from '../src/shared/services/gpt'
+import { chat, isAudioRequested } from '../src/shared/services/gpt'
 
 interface ReceiveMessage {
   from: string
@@ -69,7 +69,7 @@ export const receiveMessage = async ({
 
     const answerWithAudio = await isAudioRequested(query)
 
-    const answer = await executeTask({
+    const answer = await chat({
       query,
       chatId,
       audioRequested: answerWithAudio,
