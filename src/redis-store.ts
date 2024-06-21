@@ -7,7 +7,7 @@ export const redis = createClient({
 })
 
 export const redisVectorStore = new RedisVectorStore(new OpenAIEmbeddings(), {
-  indexName: 'main-embeddings',
+  indexName: 'playbook-embeddings',
   redisClient: redis,
-  keyPrefix: 'main',
+  keyPrefix: 'playbook',
 })

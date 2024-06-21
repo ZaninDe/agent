@@ -38,9 +38,9 @@ async function load() {
     splittedDocuments,
     new OpenAIEmbeddings({ apiKey: process.env.OPENAI_API_KEY }),
     {
-      indexName: 'main-embeddings',
+      indexName: 'playbook-embeddings',
       redisClient: redis,
-      keyPrefix: 'main',
+      keyPrefix: 'playbook',
     },
   )
 
