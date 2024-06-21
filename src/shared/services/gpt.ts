@@ -13,7 +13,7 @@ import { BaseMessage, HumanMessage, AIMessage } from '@langchain/core/messages'
 import dotenv from 'dotenv'
 import OpenAI from 'openai'
 import { db } from '../../../lib/db'
-import { redisVectorStore, redis, redis } from '../../redis-store'
+import { redisVectorStore, redis } from '../../redis-store'
 import {
   contextualizeQSystemPrompt,
   qaMainAudioPrompt,
@@ -34,7 +34,9 @@ interface ChatProps {
   audioRequested: boolean
 }
 
-export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
+let activeTasks = 0
+
+async function connectToRedis() {
   if (!redis.isOpen) {
     try {
       await redis.connect()
@@ -45,63 +47,90 @@ export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
   } else {
     console.log('Redis connection already established')
   }
+}
 
-  const contextualizeQPrompt = ChatPromptTemplate.fromMessages([
-    ['system', contextualizeQSystemPrompt],
-    new MessagesPlaceholder('chat_history'),
-    ['human', '{input}'],
-  ])
-  const historyAwareRetriever = await createHistoryAwareRetriever({
-    llm,
-    retriever,
-    rephrasePrompt: contextualizeQPrompt,
-  })
-
-  const qaPrompt = ChatPromptTemplate.fromMessages([
-    ['system', audioRequested ? qaMainAudioPrompt : qaMainPrompt],
-    new MessagesPlaceholder('chat_history'),
-    ['human', '{input}'],
-  ])
-
-  const questionAnswerChain = await createStuffDocumentsChain({
-    llm,
-    prompt: qaPrompt,
-  })
-
-  const ragChain = await createRetrievalChain({
-    retriever: historyAwareRetriever,
-    combineDocsChain: questionAnswerChain,
-  })
-
-  const chat_history: BaseMessage[] = []
-
-  const conversations = await db.conversation.findMany({
-    where: {
-      chatId,
-    },
-    orderBy: {
-      createdAt: 'desc',
-    },
-    take: 20,
-  })
-
-  if (conversations) {
-    conversations.map((conversation) => {
-      const newHumanMessage = new HumanMessage(conversation?.user)
-      chat_history.push(newHumanMessage)
-      const newAiMessage = new AIMessage(conversation?.ia)
-      chat_history.push(newAiMessage)
-    })
+async function disconnectFromRedis() {
+  if (redis.isOpen && activeTasks === 0) {
+    try {
+      await redis.disconnect()
+      console.log('Disconnected from Redis')
+    } catch (err) {
+      console.error('Error disconnecting from Redis:', err)
+    }
+  } else {
+    console.log('Redis connection still in use or already closed')
   }
+}
 
-  const response = await ragChain.invoke({
-    chat_history,
-    input: query,
-  })
-  console.log(response)
-  redis.disconnect()
+export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
+  activeTasks += 1
+  await connectToRedis()
 
-  return response.answer
+  try {
+    const contextualizeQPrompt = ChatPromptTemplate.fromMessages([
+      ['system', contextualizeQSystemPrompt],
+      new MessagesPlaceholder('chat_history'),
+      ['human', '{input}'],
+    ])
+    const historyAwareRetriever = await createHistoryAwareRetriever({
+      llm,
+      retriever,
+      rephrasePrompt: contextualizeQPrompt,
+    })
+
+    const qaPrompt = ChatPromptTemplate.fromMessages([
+      ['system', audioRequested ? qaMainAudioPrompt : qaMainPrompt],
+      new MessagesPlaceholder('chat_history'),
+      ['human', '{input}'],
+    ])
+
+    const questionAnswerChain = await createStuffDocumentsChain({
+      llm,
+      prompt: qaPrompt,
+    })
+
+    const ragChain = await createRetrievalChain({
+      retriever: historyAwareRetriever,
+      combineDocsChain: questionAnswerChain,
+    })
+
+    const chat_history: BaseMessage[] = []
+
+    const conversations = await db.conversation.findMany({
+      where: {
+        chatId,
+      },
+      orderBy: {
+        createdAt: 'desc',
+      },
+      take: 20,
+    })
+
+    if (conversations) {
+      conversations.map((conversation) => {
+        const newHumanMessage = new HumanMessage(conversation?.user)
+        chat_history.push(newHumanMessage)
+        const newAiMessage = new AIMessage(conversation?.ia)
+        chat_history.push(newAiMessage)
+      })
+    }
+
+    const response = await ragChain.invoke({
+      chat_history,
+      input: query,
+    })
+    console.log(response)
+    redis.disconnect()
+
+    return response.answer
+  } catch (err) {
+    console.error('error', err)
+  } finally {
+    activeTasks -= 1
+    if (activeTasks === 0) {
+      await disconnectFromRedis()
+    }
+  }
 }
 
 export const isAudioRequested = async (
