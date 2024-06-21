@@ -67,15 +67,15 @@ export const receiveMessage = async ({
       chatId = chatData.id
     }
 
+    const answerWithAudio = await isAudioRequested(query)
+
     const answer = await chat({
       query,
       chatId,
+      audioRequested: answerWithAudio,
     })
 
-    const answerWithAudio = await isAudioRequested(query)
-
-    const tmp = false
-    if (tmp) {
+    if (answerWithAudio) {
       sendAudioMessage({ to: from, content: answer, messageSid })
     } else {
       await sendTextMessage({ to: from, content: answer })
