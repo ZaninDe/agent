@@ -1,7 +1,7 @@
 import fastify from 'fastify'
 import formbody from '@fastify/formbody'
 import { receiveMessage } from '../../../../useCases/receiveMessage'
-import { disconnectFromRedis } from '../../../redis-store'
+import { connectToRedis, disconnectFromRedis } from '../../../redis-store'
 
 const app = fastify()
 app.register(formbody)
@@ -31,6 +31,7 @@ app.post('/message', async (request, reply) => {
   countProcess++
   try {
     console.log('Mensagem recebida...')
+    connectToRedis()
     const body = request.body as TwilioRequestBody
     if (body.From) {
       await receiveMessage({
@@ -51,7 +52,8 @@ app.post('/message', async (request, reply) => {
     countProcess--
 
     if (countProcess === 0) {
-      await new Promise(() => setTimeout(() => disconnectFromRedis(), 2000))
+      await new Promise((resolve) => setTimeout(resolve, 2000))
+      disconnectFromRedis()
     }
   }
 })
