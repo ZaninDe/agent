@@ -2,6 +2,7 @@ import { Twilio } from 'twilio'
 import dotenv from 'dotenv'
 import { uploadAudioStreamToS3, generatePresignedUrl } from './upload/aws'
 import { createAudioStreamFromText } from './voices/clone'
+import { splitMessage } from '../../utils/formatMessage'
 
 dotenv.config()
 
@@ -25,12 +26,16 @@ export const sendTextMessage = async ({
   to,
   content,
 }: SendTextMessageProps) => {
+  const messages = splitMessage(content, 500)
+
   try {
-    twilioClient.messages.create({
-      body: content || 'default',
-      from: whatsappSender,
-      to,
-    })
+    for (const message of messages) {
+      await twilioClient.messages.create({
+        body: message || 'default',
+        from: whatsappSender,
+        to,
+      })
+    }
   } catch (err) {
     console.log(err)
   }
