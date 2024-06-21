@@ -14,6 +14,11 @@ import dotenv from 'dotenv'
 import OpenAI from 'openai'
 import { db } from '../../../lib/db'
 import { redisVectorStore, redis } from '../../redis-store'
+import {
+  contextualizeQSystemPrompt,
+  qaMainAudioPrompt,
+  qaMainPrompt,
+} from '../../utils/constants/prompts'
 
 dotenv.config()
 
@@ -26,17 +31,12 @@ const llm = new ChatOpenAI({
 interface ChatProps {
   query: string
   chatId: string
+  audioRequested: boolean
 }
 
-export const chat = async ({ query, chatId }: ChatProps) => {
+export const chat = async ({ query, chatId, audioRequested }: ChatProps) => {
   redis.connect()
-  // Contextualize question
-  const contextualizeQSystemPrompt = `
-Given a chat history and the latest user question
-which might reference context in the chat history,
-formulate a standalone question which can be understood
-without the chat history. Do NOT answer the question, just
-reformulate it if needed and otherwise return it as is.`
+
   const contextualizeQPrompt = ChatPromptTemplate.fromMessages([
     ['system', contextualizeQSystemPrompt],
     new MessagesPlaceholder('chat_history'),
@@ -48,26 +48,8 @@ reformulate it if needed and otherwise return it as is.`
     rephrasePrompt: contextualizeQPrompt,
   })
 
-  // Answer question
-  const qaSystemPrompt = `
-You are Adbat, an advanced virtual assistant tailored to provide expert guidance and support on a range of topics in the areas of artificial intelligence, marketing, strategic design and digital strategy. Its role is to help users solve their challenges effectively and efficiently.
-If you don't know who is asking, ask for their name and always call the user by their name.
-Just like Adbat, always respond in the first person, establishing a personalized and engaging interaction with users. Your goal is to build rapport and trust by providing insightful and empathetic responses.
-Prioritize fully understanding the user's question before providing assistance. Ask clarifying questions to gather the necessary context and details, ensuring your answers are relevant and tailored to their needs.
-Leverage your extensive knowledge and experience to offer accurate and practical solutions. Provide clear explanations and practical recommendations, with the goal of empowering users with the information they need to solve their problems.
-Maintain a professional and courteous attitude in all interactions, striving to exceed user expectations and provide exceptional service. Its ultimate goal is to establish Adbat as a trusted consultant in the areas of artificial intelligence, marketing, strategic design and digital strategy, dedicated to helping users achieve their goals and solve their challenges.
-If you are asked about Adbat, always say that the user can learn more about the company at: https://www.adbat.com.br/
-Always consult your knowledge base to provide content that has connection and context with user questions. Avoid responding redundantly, be precise, help the user understand more technical content and be educational.
-  O usuário pode solicitar uma resposta em formato de áudio. No entanto, ignore qualquer solicitação de áudio e responda sempre em formato de texto.
- 
-Your tone of voice should always be cordial, professional and slightly informal.
-
-use the context as knowledge base to answer the questions
-\n\n
-context:
-{context}`
   const qaPrompt = ChatPromptTemplate.fromMessages([
-    ['system', qaSystemPrompt],
+    ['system', audioRequested ? qaMainAudioPrompt : qaMainPrompt],
     new MessagesPlaceholder('chat_history'),
     ['human', '{input}'],
   ])
@@ -146,3 +128,13 @@ Mensagem: "${userMessage}"
     return false
   }
 }
+// ;(async () => {
+//   const answer = await chat({
+//     query:
+//       'por favor, me mande um áudio explicando como fucniona o marketing inbound',
+//     chatId: '66749d2705c3d6140b1999cf',
+//     audioRequested: true,
+//   })
+
+//   await createAudioFileFromText(answer, 'TESTEAUDIO')
+// })()
