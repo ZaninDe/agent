@@ -28,16 +28,26 @@ export const sendTextMessage = async ({
 }: SendTextMessageProps) => {
   const messages = splitMessage(content, 500)
 
-  try {
-    for (const message of messages) {
-      await twilioClient.messages.create({
-        body: message || 'default',
-        from: whatsappSender,
-        to,
+  for (let i = 0; i < messages.length; i++) {
+    try {
+      await new Promise<void>((resolve, reject) => {
+        setTimeout(async () => {
+          try {
+            await twilioClient.messages.create({
+              body: messages[i] || 'default',
+              from: whatsappSender,
+              to,
+            })
+            resolve()
+          } catch (err) {
+            console.log(err)
+            reject(err)
+          }
+        }, i * 200) // 200ms delay between each message
       })
+    } catch (err) {
+      console.log(`Failed to send message part ${i + 1}:`, err)
     }
-  } catch (err) {
-    console.log(err)
   }
 }
 
