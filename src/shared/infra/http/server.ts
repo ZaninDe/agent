@@ -31,7 +31,7 @@ app.post('/message', async (request, reply) => {
   countProcess++
   try {
     console.log('Mensagem recebida...')
-    connectToRedis()
+    await connectToRedis()
     const body = request.body as TwilioRequestBody
     if (body.From) {
       await receiveMessage({
@@ -53,7 +53,7 @@ app.post('/message', async (request, reply) => {
 
     if (countProcess === 0) {
       await new Promise((resolve) => setTimeout(resolve, 2000))
-      disconnectFromRedis()
+      await disconnectFromRedis()
     }
   }
 })
