@@ -29,3 +29,15 @@ export async function createNewConversation({
     throw error
   }
 }
+
+export async function deleteMyConversation(chatId: string) {
+  try {
+    await db.conversation.deleteMany({
+      where: {
+        chatId,
+      },
+    })
+  } catch (err) {
+    console.log(err)
+  }
+}
