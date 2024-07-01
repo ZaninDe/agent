@@ -30,7 +30,7 @@ export async function createNewConversation({
   }
 }
 
-export async function deleteMyConversation(chatId: string) {
+export async function deleteConversation(chatId: string) {
   try {
     await db.conversation.deleteMany({
       where: {

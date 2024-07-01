@@ -7,6 +7,7 @@ import {
   sendTextMessage,
 } from '../src/shared/services/twilio'
 import { chat, isAudioRequested } from '../src/shared/services/gpt'
+import { authorizedUsers } from '../src/constants/data'
 
 interface ReceiveMessage {
   from: string
@@ -39,6 +40,16 @@ export const receiveMessage = async ({
     })
 
     if (!ExistingUser) {
+      const auth = authorizedUsers.find(
+        (authorizedUser) => authorizedUser === from,
+      )
+
+      if (!auth) {
+        await sendTextMessage({
+          to: from,
+          content: `${profileName}, sinto muito! No momento não encontramos seu nome na lista de usuários. Saiba mais em https://www.adbat.com.br`,
+        })
+      }
       const newUser = await db.user.create({
         data: {
           name: profileName,
