@@ -7,7 +7,7 @@ import {
   sendTextMessage,
 } from '../src/shared/services/twilio'
 import { chat, isAudioRequested } from '../src/shared/services/gpt'
-import { authorizedUsers } from '../src/constants/data'
+import { authorizedUsers } from '../src/utils/constants/data'
 
 interface ReceiveMessage {
   from: string
