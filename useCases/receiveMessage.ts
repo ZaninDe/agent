@@ -49,6 +49,7 @@ export const receiveMessage = async ({
           to: from,
           content: `${profileName}, sinto muito! No momento não encontramos seu nome na lista de usuários. Saiba mais em https://www.adbat.com.br`,
         })
+        return
       }
       const newUser = await db.user.create({
         data: {
