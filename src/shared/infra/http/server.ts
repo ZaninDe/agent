@@ -1,6 +1,7 @@
 import fastify from 'fastify'
 import formbody from '@fastify/formbody'
 import { receiveMessage } from '../../../../useCases/receiveMessage'
+import { connectToRedis, disconnectFromRedis } from '../../../redis-store'
 
 const app = fastify()
 app.register(formbody)
@@ -21,19 +22,24 @@ interface TwilioRequestBody {
   AccountSid: string
   From: string
   ApiVersion: string
-  MediaUrl0?: string // Este campo é opcional
+  MediaUrl0?: string
 }
 
+let countProcess = 0
+
 app.post('/message', async (request, reply) => {
+  countProcess++
   try {
-    console.log('ENTROUUUU!!!')
+    console.log('Mensagem recebida...')
+    await connectToRedis()
     const body = request.body as TwilioRequestBody
-    console.log('NAME', body.ProfileName)
     if (body.From) {
       await receiveMessage({
         from: body.From,
         body: body.Body,
         profileName: body.ProfileName,
+        messageSid: body.MessageSid,
+        medialUrl: body.MediaUrl0,
       })
     }
     return reply
@@ -42,6 +48,13 @@ app.post('/message', async (request, reply) => {
   } catch (error) {
     app.log.error(error)
     reply.code(500).send({ success: false, message: 'Erro no servidor' })
+  } finally {
+    countProcess--
+
+    if (countProcess === 0) {
+      await new Promise((resolve) => setTimeout(resolve, 2000))
+      await disconnectFromRedis()
+    }
   }
 })
 
