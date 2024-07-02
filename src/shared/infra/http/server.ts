@@ -1,7 +1,9 @@
+/* eslint-disable @typescript-eslint/ban-ts-comment */
 import fastify from 'fastify'
 import formbody from '@fastify/formbody'
 import { receiveMessage } from '../../../../useCases/receiveMessage'
 import { connectToRedis, disconnectFromRedis } from '../../../redis-store'
+import { manageAgent } from '../../../../useCases/manageAgent'
 
 const app = fastify()
 app.register(formbody)
@@ -55,6 +57,21 @@ app.post('/message', async (request, reply) => {
       await new Promise((resolve) => setTimeout(resolve, 2000))
       await disconnectFromRedis()
     }
+  }
+})
+
+app.put('/manage-agent/:chatId', async (request, reply) => {
+  // @ts-ignore
+  const { chatId } = request.params
+  try {
+    await manageAgent({ chatId })
+
+    return reply.status(201).send({ success: 'status alterado com sucesso!' })
+  } catch (error) {
+    app.log.error(error)
+    return reply
+      .status(500)
+      .send({ error: 'Ocorreu um erro ao atualizar o status do agente' })
   }
 })
 
