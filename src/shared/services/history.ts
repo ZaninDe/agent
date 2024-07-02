@@ -23,6 +23,17 @@ export async function createNewConversation({
       },
     })
 
+    await db.chat.update({
+      where: {
+        id: chatId,
+      },
+      data: {
+        unreadMessages: {
+          increment: 1,
+        },
+      },
+    })
+
     return newConversation
   } catch (error) {
     console.error('Create new conversation Error:', error)
@@ -30,14 +41,44 @@ export async function createNewConversation({
   }
 }
 
-export async function deleteConversation(chatId: string) {
+export async function deleteUser(userId: string) {
   try {
-    await db.conversation.deleteMany({
+    const userData = await db.user.findFirst({
       where: {
-        chatId,
+        id: userId,
       },
     })
+
+    if (userData) {
+      const chat = await db.chat.findFirst({
+        where: {
+          userId: userData?.id,
+        },
+      })
+
+      await db.conversation.deleteMany({
+        where: {
+          chatId: chat?.id,
+        },
+      })
+
+      await db.chat.delete({
+        where: {
+          id: chat?.id,
+        },
+      })
+
+      await db.user.delete({
+        where: {
+          id: userData?.id,
+        },
+      })
+    }
   } catch (err) {
     console.log(err)
   }
 }
+
+// ;(async () => {
+//   await deleteUser('66833605fd9f4bb742cf36e4')
+// })()
