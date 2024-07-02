@@ -76,7 +76,18 @@ export const receiveMessage = async ({
       })
       chatId = newChat.id
     } else {
-      chatId = chatData.id
+      chatId = chatData?.id
+      console.log('checando status do agente...')
+      if (chatData?.agentIsActive === false) {
+        console.log('agent is off...')
+        await createNewConversation({
+          chatId: chatData?.id,
+          aiMessage: 'off',
+          audio: false,
+          userMessage: body,
+        })
+        return
+      }
     }
 
     const answerWithAudio = await isAudioRequested(query)
