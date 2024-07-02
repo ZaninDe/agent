@@ -1,12 +1,19 @@
 /* eslint-disable @typescript-eslint/ban-ts-comment */
 import fastify from 'fastify'
 import formbody from '@fastify/formbody'
+import cors from '@fastify/cors'
 import { receiveMessage } from '../../../../useCases/receiveMessage'
 import { connectToRedis, disconnectFromRedis } from '../../../redis-store'
 import { manageAgent } from '../../../../useCases/manageAgent'
 
 const app = fastify()
 app.register(formbody)
+
+app.register(cors, {
+  origin: true,
+  methods: ['GET', 'POST', 'PUT', 'DELETE', 'OPTIONS'],
+  allowedHeaders: ['Content-Type', 'Authorization'],
+})
 
 interface TwilioRequestBody {
   SmsMessageSid: string
