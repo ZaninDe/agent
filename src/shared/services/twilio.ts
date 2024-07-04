@@ -43,7 +43,7 @@ export const sendTextMessage = async ({
             console.log(err)
             reject(err)
           }
-        }, i * 200) // 200ms delay between each message
+        }, i * 200)
       })
     } catch (err) {
       console.log(`Failed to send message part ${i + 1}:`, err)

@@ -80,5 +80,5 @@ export async function deleteUser(userId: string) {
 }
 
 // ;(async () => {
-//   await deleteUser('66833605fd9f4bb742cf36e4')
+//   await deleteUser('668445186f64a6765f44fc1f')
 // })()
