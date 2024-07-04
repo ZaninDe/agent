@@ -74,5 +74,5 @@ model Conversation {
   chat      Chat?    @relation(fields: [chatId], references: [id])
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
-  chatId    String?  @unique @db.ObjectId
+  chatId    String?  @db.ObjectId
 }
