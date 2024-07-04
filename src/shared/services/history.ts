@@ -41,11 +41,11 @@ export async function createNewConversation({
   }
 }
 
-export async function deleteUser(userId: string) {
+export async function deleteUser(phone: string) {
   try {
     const userData = await db.user.findFirst({
       where: {
-        id: userId,
+        contactNumber: phone,
       },
     })
 
@@ -80,5 +80,5 @@ export async function deleteUser(userId: string) {
 }
 
 // ;(async () => {
-//   await deleteUser('668445186f64a6765f44fc1f')
+//   await deleteUser('whatsapp:+5512992504013')
 // })()
