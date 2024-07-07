@@ -46,6 +46,8 @@
     "openai": "^4.47.1",
     "pdf-parse": "^1.1.1",
     "puppeteer": "^19.7.2",
+    "pusher": "^5.2.0",
+    "pusher-js": "^8.4.0-rc2",
     "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0",
     "redis": "^4.6.14",
