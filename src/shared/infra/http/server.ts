@@ -6,6 +6,7 @@ import { receiveMessage } from '../../../../useCases/receiveMessage'
 import { manageAgent } from '../../../../useCases/manageAgent'
 import { connectToRedis, disconnectFromRedis } from '../../../redis-store'
 import { ITestAgent, testAgent } from '../../../../useCases/testAgent'
+import { deleteUser } from '../../../../useCases/deleteUser'
 
 const app = fastify()
 app.register(formbody)
@@ -92,6 +93,22 @@ app.post('/test-agent', async (request, reply) => {
       await new Promise((resolve) => setTimeout(resolve, 2000))
       disconnectFromRedis()
     }
+  }
+})
+
+export interface IDeleteUser {
+  userPhone: string
+}
+
+app.delete('/delete-user/:userPhone', async (request, reply) => {
+  const { userPhone } = request.params as IDeleteUser
+  try {
+    await deleteUser({ userPhone })
+  } catch (err) {
+    app.log.error(err)
+    return reply
+      .status(500)
+      .send({ error: 'Ocorreu um erro ao deletar usuário' })
   }
 })
 
