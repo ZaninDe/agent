@@ -3,6 +3,7 @@ import { db } from '../lib/db'
 import { chat as chatMessage, isBlockWall } from '../src/shared/services/gpt'
 import { createNewConversation } from '../src/shared/services/history'
 import { pusherServer } from '../lib/pusher'
+import { sendTextMessage } from '../src/shared/services/twilio'
 
 export interface ITestAgent {
   query: string
@@ -85,6 +86,18 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
           isAlert: true,
         },
       })
+
+      const content = 'Aguarde um momento, por favor...'
+
+      await sendTextMessage({ to: phone, content })
+
+      await createNewConversation({
+        userMessage: query,
+        aiMessage: content,
+        chatId: chat?.id,
+        audio: false,
+      })
+      return
     }
 
     const answer = await chatMessage({

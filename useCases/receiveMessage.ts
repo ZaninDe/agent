@@ -110,6 +110,17 @@ export const receiveMessage = async ({
           isAlert: true,
         },
       })
+      const content = 'Aguarde um momento, por favor...'
+
+      await sendTextMessage({ to: from, content })
+
+      await createNewConversation({
+        userMessage: query,
+        aiMessage: content,
+        chatId,
+        audio: false,
+      })
+      return
     }
 
     const answer = await chat({
