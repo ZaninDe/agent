@@ -45,3 +45,8 @@ which might reference context in the chat history,
 formulate a standalone question which can be understood
 without the chat history. Do NOT answer the question, just
 reformulate it if needed and otherwise return it as is.`
+
+export const wallPrompt = (wallList: string[], userMessage: string) => {
+  return `Verifique se a mensagem do usuário se encaixa em um dos seguintes contexto e retorne "true" ou "false": 
+  contexto: ${wallList}, mensagem do usuário: ${userMessage}`
+}

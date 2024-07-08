@@ -6,7 +6,7 @@ import {
   sendAudioMessage,
   sendTextMessage,
 } from '../src/shared/services/twilio'
-import { chat, isAudioRequested } from '../src/shared/services/gpt'
+import { chat, isAudioRequested, isBlockWall } from '../src/shared/services/gpt'
 import { authorizedUsers } from '../src/utils/constants/data'
 import { pusherServer } from '../lib/pusher'
 
@@ -96,6 +96,21 @@ export const receiveMessage = async ({
     }
 
     const answerWithAudio = await isAudioRequested(query)
+
+    const isBlockWallMessage = await isBlockWall(query)
+
+    if (isBlockWallMessage) {
+      console.log('Mensagem bloqueante identificada!')
+      await db.chat.update({
+        where: {
+          id: chatId,
+        },
+        data: {
+          agentIsActive: false,
+          isAlert: true,
+        },
+      })
+    }
 
     const answer = await chat({
       query,

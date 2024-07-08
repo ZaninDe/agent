@@ -59,6 +59,7 @@ model Chat {
   createdAt      DateTime       @default(now())
   updatedAt      DateTime       @updatedAt
   agentIsActive  Boolean        @default(true)
+  isAlert        Boolean        @default(false)
   unreadMessages Int            @default(1)
   conversation   Conversation[]
   user           User           @relation(fields: [userId], references: [id])

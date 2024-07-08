@@ -1,6 +1,6 @@
 import { Chat, User } from '@prisma/client'
 import { db } from '../lib/db'
-import { chat as chatMessage } from '../src/shared/services/gpt'
+import { chat as chatMessage, isBlockWall } from '../src/shared/services/gpt'
 import { createNewConversation } from '../src/shared/services/history'
 import { pusherServer } from '../lib/pusher'
 
@@ -71,6 +71,22 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
         chat = chatData
       }
     }
+
+    const isBlockWallMessage = await isBlockWall(query)
+
+    if (isBlockWallMessage) {
+      console.log('Mensagem bloqueante identificada!')
+      await db.chat.update({
+        where: {
+          id: chat?.id,
+        },
+        data: {
+          agentIsActive: false,
+          isAlert: true,
+        },
+      })
+    }
+
     const answer = await chatMessage({
       query,
       chatId: chat?.id,

@@ -18,7 +18,9 @@ import {
   contextualizeQSystemPrompt,
   qaMainAudioPrompt,
   qaMainPrompt,
+  wallPrompt,
 } from '../../utils/constants/prompts'
+import { wallList } from '../../utils/constants/wallList'
 
 dotenv.config()
 
@@ -128,13 +130,32 @@ Mensagem: "${userMessage}"
     return false
   }
 }
-// ;(async () => {
-//   const answer = await chat({
-//     query:
-//       'por favor, me mande um áudio explicando como fucniona o marketing inbound',
-//     chatId: '66749d2705c3d6140b1999cf',
-//     audioRequested: true,
-//   })
 
-//   await createAudioFileFromText(answer, 'TESTEAUDIO')
-// })()
+export const isBlockWall = async (userMessage: string): Promise<boolean> => {
+  const prompt = wallPrompt(wallList, userMessage)
+
+  try {
+    const openai = new OpenAI()
+    const completion = await openai.chat.completions.create({
+      model: 'gpt-3.5-turbo',
+      messages: [
+        {
+          role: 'system',
+          content:
+            'Você é um assistente que ajuda a identificar solicitações específicas nas mensagens.',
+        },
+        { role: 'user', content: prompt },
+      ],
+    })
+
+    const answer = completion?.choices[0]?.message?.content
+      ?.trim()
+      .toLowerCase()
+
+    if (answer === 'true') return true
+    else return false
+  } catch (error) {
+    console.error('Error check audio:', error)
+    return false
+  }
+}
