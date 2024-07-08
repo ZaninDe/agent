@@ -73,6 +73,19 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
       }
     }
 
+    console.log('checando status do agente...')
+    if (chat?.agentIsActive === false) {
+      console.log('agent is off...')
+      await createNewConversation({
+        chatId: chat?.id,
+        iaAnswer: false,
+        aiMessage: 'off',
+        audio: false,
+        userMessage: query,
+      })
+      return
+    }
+
     const isBlockWallMessage = await isBlockWall(query)
 
     if (isBlockWallMessage) {
@@ -96,6 +109,7 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
         aiMessage: content,
         chatId: chat?.id,
         audio: false,
+        iaAnswer: true,
       })
       return
     }
@@ -111,6 +125,7 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
       aiMessage: answer,
       chatId: chat?.id,
       audio: false,
+      iaAnswer: true,
     })
 
     return answer

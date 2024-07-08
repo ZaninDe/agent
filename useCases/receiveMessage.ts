@@ -87,6 +87,7 @@ export const receiveMessage = async ({
         console.log('agent is off...')
         await createNewConversation({
           chatId: chatData?.id,
+          iaAnswer: false,
           aiMessage: 'off',
           audio: false,
           userMessage: body,
@@ -116,6 +117,7 @@ export const receiveMessage = async ({
 
       await createNewConversation({
         userMessage: query,
+        iaAnswer: true,
         aiMessage: content,
         chatId,
         audio: false,
@@ -139,6 +141,7 @@ export const receiveMessage = async ({
       aiMessage: answer,
       chatId,
       audio: answerWithAudio,
+      iaAnswer: true,
     })
   } catch (err) {
     console.log(err)

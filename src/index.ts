@@ -166,6 +166,7 @@ client.on('message_create', async (message: Message) => {
 
                   const newHistory = await createNewConversation({
                     audio: true,
+                    iaAnswer: true,
                     aiMessage: answer,
                     userMessage: text,
                     chatId,
@@ -227,6 +228,7 @@ client.on('message_create', async (message: Message) => {
         client.sendMessage(message.from, answer)
         const newHistory = await createNewConversation({
           audio: false,
+          iaAnswer: true,
           aiMessage: answer,
           userMessage: message.body,
           chatId,

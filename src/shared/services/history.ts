@@ -6,6 +6,7 @@ interface AddMessageToConversationProps {
   userMessage: string
   aiMessage: string
   audio: boolean
+  iaAnswer: boolean
 }
 
 export async function createNewConversation({
@@ -13,6 +14,7 @@ export async function createNewConversation({
   aiMessage,
   userMessage,
   audio,
+  iaAnswer,
 }: AddMessageToConversationProps) {
   try {
     const newConversation = await db.conversation.create({
@@ -20,6 +22,7 @@ export async function createNewConversation({
         ia: aiMessage,
         user: userMessage,
         audio,
+        isAIAnswer: iaAnswer,
         chatId,
       },
     })

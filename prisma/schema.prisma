@@ -68,12 +68,13 @@ model Chat {
 }
 
 model Conversation {
-  id        String   @id @default(auto()) @map("_id") @db.ObjectId
-  ia        String
-  user      String
-  audio     Boolean?
-  chat      Chat?    @relation(fields: [chatId], references: [id])
-  createdAt DateTime @default(now())
-  updatedAt DateTime @updatedAt
-  chatId    String?  @db.ObjectId
+  id         String   @id @default(auto()) @map("_id") @db.ObjectId
+  ia         String
+  user       String
+  audio      Boolean?
+  chat       Chat?    @relation(fields: [chatId], references: [id])
+  createdAt  DateTime @default(now())
+  isAIAnswer Boolean?
+  updatedAt  DateTime @updatedAt
+  chatId     String?  @db.ObjectId
 }
