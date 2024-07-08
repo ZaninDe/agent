@@ -122,6 +122,9 @@ export const receiveMessage = async ({
         chatId,
         audio: false,
       })
+      pusherServer.trigger('chat-channel', 'new-chat', {
+        chatId,
+      })
       return
     }
 
