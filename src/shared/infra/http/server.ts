@@ -104,6 +104,7 @@ app.delete('/delete-user/:userPhone', async (request, reply) => {
   const { userPhone } = request.params as IDeleteUser
   try {
     await deleteUser({ userPhone })
+    return reply.status(201).send({ success: 'usuário deletado com sucesso!' })
   } catch (err) {
     app.log.error(err)
     return reply
