@@ -2,6 +2,7 @@ import { Chat, User } from '@prisma/client'
 import { db } from '../lib/db'
 import { chat as chatMessage } from '../src/shared/services/gpt'
 import { createNewConversation } from '../src/shared/services/history'
+import { pusherServer } from '../lib/pusher'
 
 export interface ITestAgent {
   query: string
@@ -33,6 +34,9 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
             userId: userData?.id,
           },
         })
+        pusherServer.trigger('chat-channel', 'new-chat', {
+          chatId: newChat?.id,
+        })
         chat = newChat
       } else {
         chat = chatData
@@ -57,6 +61,10 @@ export const testAgent = async ({ query, phone }: ITestAgent) => {
           data: {
             userId: newUser?.id,
           },
+        })
+
+        pusherServer.trigger('chat-channel', 'new-chat', {
+          chatId: newChat?.id,
         })
         chat = newChat
       } else {

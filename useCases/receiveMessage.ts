@@ -8,6 +8,7 @@ import {
 } from '../src/shared/services/twilio'
 import { chat, isAudioRequested } from '../src/shared/services/gpt'
 import { authorizedUsers } from '../src/utils/constants/data'
+import { pusherServer } from '../lib/pusher'
 
 interface ReceiveMessage {
   from: string
@@ -73,6 +74,10 @@ export const receiveMessage = async ({
         data: {
           userId: user.id,
         },
+      })
+
+      pusherServer.trigger('chat-channel', 'new-chat', {
+        chatId,
       })
       chatId = newChat.id
     } else {

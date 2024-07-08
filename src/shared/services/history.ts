@@ -47,44 +47,44 @@ export async function createNewConversation({
   }
 }
 
-// export async function deleteUser(phone: string) {
-//   try {
-//     const userData = await db.user.findFirst({
-//       where: {
-//         contactNumber: phone,
-//       },
-//     })
+export async function deleteUser(phone: string) {
+  try {
+    const userData = await db.user.findFirst({
+      where: {
+        contactNumber: phone,
+      },
+    })
 
-//     if (userData) {
-//       const chat = await db.chat.findFirst({
-//         where: {
-//           userId: userData?.id,
-//         },
-//       })
+    if (userData) {
+      const chat = await db.chat.findFirst({
+        where: {
+          userId: userData?.id,
+        },
+      })
 
-//       await db.conversation.deleteMany({
-//         where: {
-//           chatId: chat?.id,
-//         },
-//       })
+      await db.conversation.deleteMany({
+        where: {
+          chatId: chat?.id,
+        },
+      })
 
-//       await db.chat.delete({
-//         where: {
-//           id: chat?.id,
-//         },
-//       })
+      await db.chat.delete({
+        where: {
+          id: chat?.id,
+        },
+      })
 
-//       await db.user.delete({
-//         where: {
-//           id: userData?.id,
-//         },
-//       })
-//     }
-//   } catch (err) {
-//     console.log(err)
-//   }
-// }
+      await db.user.delete({
+        where: {
+          id: userData?.id,
+        },
+      })
+    }
+  } catch (err) {
+    console.log(err)
+  }
+}
 
-// ;(async () => {
-//   await deleteUser('whatsapp:+5512992504013')
-// })()
+;(async () => {
+  await deleteUser('whatsapp:+5512991176085')
+})()
