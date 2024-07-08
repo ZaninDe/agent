@@ -5,6 +5,7 @@ import formbody from '@fastify/formbody'
 import { receiveMessage } from '../../../../useCases/receiveMessage'
 import { manageAgent } from '../../../../useCases/manageAgent'
 import { connectToRedis, disconnectFromRedis } from '../../../redis-store'
+import { ITestAgent, testAgent } from '../../../../useCases/testAgent'
 
 const app = fastify()
 app.register(formbody)
@@ -54,6 +55,33 @@ app.post('/message', async (request, reply) => {
     return reply
       .code(200)
       .send({ success: true, message: 'Recebido com sucesso' })
+  } catch (error) {
+    app.log.error(error)
+    reply.code(500).send({ success: false, message: 'Erro no servidor' })
+  } finally {
+    countProcess--
+
+    if (countProcess === 0) {
+      await new Promise((resolve) => setTimeout(resolve, 2000))
+      disconnectFromRedis()
+    }
+  }
+})
+
+app.post('/test-agent', async (request, reply) => {
+  countProcess++
+  try {
+    await connectToRedis()
+    console.log('Mensagem recebida...')
+    const body = request.body as ITestAgent
+    if (body) {
+      const response = await testAgent({
+        phone: body.phone,
+        query: body.query,
+      })
+      return reply.code(200).send({ success: true, message: response })
+    }
+    return reply.code(200).send({ success: true })
   } catch (error) {
     app.log.error(error)
     reply.code(500).send({ success: false, message: 'Erro no servidor' })
